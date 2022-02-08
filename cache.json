@@ -6,12 +6,30 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=363102",
+          "author": "Chris Coyier",
+          "description": "A little gradient generator tool from Tom Quinonero. You’d think fading one color to another would be an obvious, simple, solved problem — it’s actually anything but!\nTom’s generator does two things that help make a gradient better:\nYou \n…\nUsing Different Color Spaces for Non-Boring Gradients originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/color-spaces-for-more-interesting-css-gradients/",
+          "publishedOn": "2022-02-07T21:46:18.000Z",
+          "wordCount": 624,
+          "title": "Using Different Color Spaces for Non-Boring Gradients"
+        },
+        {
+          "id": "https://css-tricks.com/?p=362616",
+          "author": "Stephanie Eckles",
+          "description": "Virtual conferences have changed the game in terms of how a presenter is able to deliver content to an audience. At a live event it’s likely you just have your laptop, but at home, you may have multiple monitors so …\nCSS Scroll Snap Slide Deck That Supports Live Coding originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/css-scroll-snap-slide-deck/",
+          "publishedOn": "2022-02-07T15:24:44.000Z",
+          "wordCount": 4367,
+          "title": "CSS Scroll Snap Slide Deck That Supports Live Coding"
+        },
+        {
           "id": "https://css-tricks.com/?p=362799",
           "author": "Ganesh Dahal",
           "description": "The relatively new WordPress editor, also known as the WordPress Block Editor, always under development via the Gutenberg plugin, has been with us since 2018. You can use the block editor on any WordPress theme, provided the theme …\nA Deep Introduction to WordPress Block Themes originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/a-deep-introduction-to-wordpress-block-themes/",
           "publishedOn": "2022-02-04T15:07:04.000Z",
-          "wordCount": 6068,
+          "wordCount": 6063,
           "title": "A Deep Introduction to WordPress Block Themes"
         },
         {
@@ -29,7 +47,7 @@
           "description": "I interviewed Thierry Koblentz, creator of Atomic CSS, to understand the history and background that led to making of the popular CSS framework. Thierry, now retired, has vast experience writing CSS at large scale and has previously worked …\nThe Making of Atomic CSS: An Interview With Thierry Koblentz originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/thierry-koblentz-atomic-css/",
           "publishedOn": "2022-02-03T15:24:01.000Z",
-          "wordCount": 3549,
+          "wordCount": 3512,
           "title": "The Making of Atomic CSS: An Interview With Thierry Koblentz"
         },
         {
@@ -126,29 +144,6 @@
           "publishedOn": "2022-01-27T15:20:57.000Z",
           "wordCount": 2161,
           "title": "Demystifying TypeScript Discriminated Unions"
-        },
-        {
-          "id": "https://css-tricks.com/?p=361971",
-          "author": "Chris Coyier",
-          "description": "(This is a sponsored post.)\nDesign systems are an entire job these days. Agencies are hired to create them. In-house teams are formed to handle them, shipping them so that other teams can use them and helping ensure they …\nBuild, Ship, & Maintain Design Systems with Backlight originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/design-systems-with-backlight/",
-          "publishedOn": "2022-01-27T15:18:25.000Z",
-          "wordCount": 1287,
-          "title": "Build, Ship, & Maintain Design Systems with Backlight",
-          "enclosure": {
-            "url": "https://videos.files.wordpress.com/FY9pOfpy/cleanshot-2022-01-21-at-13.58.34-1.mp4",
-            "length": "16025569",
-            "type": "video/mp4"
-          }
-        },
-        {
-          "id": "https://css-tricks.com/?p=361200",
-          "author": "Chris Coyier",
-          "description": "Say you have three HTML classes, and a DOM element should only have one of them at a time:\n<div class=\"state-1\"</div<div class=\"state-2\"</div<div class=\"state-3\"</div\nNow your job is to rotate them. That is, cycle through classes …\nHow to Cycle Through Classes on an HTML Element originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/cycle-through-classes-html-element/",
-          "publishedOn": "2022-01-26T19:48:49.000Z",
-          "wordCount": 1797,
-          "title": "How to Cycle Through Classes on an HTML Element"
         }
       ]
     },
@@ -163,7 +158,7 @@
           "description": "파이썬 입문의 베스트 셀러 Do it! 점프 투 파이썬 입니다. 개정판으로 나왔고 저자 분이 위키독스의 운영자분이시기 때문에 웹에서도 무료로 볼수 있는 책입니다. 책을 완독한 후기는 정말 입문용으로는 최고의 도서입니다. 이 책만 완독했다고 해서 프로그래밍에...\nThe post [추천도서] Do it! 점프 투 파이썬 appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/%ec%b6%94%ec%b2%9c%eb%8f%84%ec%84%9c-do-it-%ec%a0%90%ed%94%84-%ed%88%ac-%ed%8c%8c%ec%9d%b4%ec%8d%ac/",
           "publishedOn": "2022-02-05T07:10:52.000Z",
-          "wordCount": 712,
+          "wordCount": 709,
           "title": "[추천도서] Do it! 점프 투 파이썬"
         },
         {
@@ -172,7 +167,7 @@
           "description": "친한 동생이자 친구인 강전희 저자의 혼자 공부하는 R 데이터분석 책이 출간 되었습니다!! 처음 시작하는 R 데이터분석 이라는 책의 개정판 입니다. 출판사 IT 출판 정책에 의해 제목을 바꾼것 같네요.   R이라는 언어에 관심이 있어 처음...\nThe post [추천도서] 혼자 공부하는 R 데이터분석 appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/%ec%b1%85%ec%86%8c%ea%b0%9c-%ed%98%bc%ec%9e%90-%ea%b3%b5%eb%b6%80%ed%95%98%eb%8a%94-r-%eb%8d%b0%ec%9d%b4%ed%84%b0%eb%b6%84%ec%84%9d/",
           "publishedOn": "2022-01-22T03:23:28.000Z",
-          "wordCount": 575,
+          "wordCount": 577,
           "title": "[추천도서] 혼자 공부하는 R 데이터분석"
         }
       ]
@@ -183,94 +178,94 @@
       "siteUrl": "https://news.hada.io",
       "articles": [
         {
-          "id": "https://news.hada.io/topic?id=5911",
+          "id": "https://news.hada.io/topic?id=5921",
           "author": null,
-          "description": "- 네덜란드에서 데이팅앱에게 다른 인앱결제 수단을 허용해야 한다는 판결을 받음 \n...",
-          "link": "https://news.hada.io/topic?id=5911",
-          "publishedOn": "2022-02-07T00:47:01.000Z",
-          "wordCount": 170,
-          "title": "애플, 네덜란드 데이팅앱의 대체결제수단에 27% 수수료 부과"
+          "description": "- 예전 $160k 에서 $350k로 두배 넘게 인상한다고 사내에 발표\nㅤ→ 아마존의 기본급을 구글,페이스북,애플 수준으로 끌어올릴 것\nㅤ→ 기존엔 기본급을 낮게 유지하면서 RSU와 사이닝 보너스 등으로 보상을 줬음\nㅤ→ 이런 보상들은 유지하면서 기본급을 올려서, 글로벌하게 전체적인 보상을 인...",
+          "link": "https://news.hada.io/topic?id=5921",
+          "publishedOn": "2022-02-08T00:42:23.000Z",
+          "wordCount": 106,
+          "title": "아마존, 기본급 상한을 4.2억 원으로 인상"
         },
         {
-          "id": "https://news.hada.io/topic?id=5910",
+          "id": "https://news.hada.io/topic?id=5920",
           "author": null,
-          "description": "- 클러스터 관리 및 인프라 튜닝 고민없이 Spark를 사용 가능\n- 실 서비스명은 \"Dataproc Serverless for Spark\"\n- 워크로드 실행되는 시간 단위로 과금됨\nㅤ→ DCU(Data Compute Unit) 시간당 $0.06 (최소 1분단위 과금)\n- BigQuery 사용자가 Spark를 연결하여 사용 가능한 빅...",
-          "link": "https://news.hada.io/topic?id=5910",
-          "publishedOn": "2022-02-07T00:31:35.000Z",
-          "wordCount": 100,
-          "title": "구글 클라우드, Serverless Spark 서비스 공개"
+          "description": "- 입력한 문자열에서 어떻게 SHA256 해쉬값이 계산되어 가는 지를 단계별로 설명과 함께 보여줌 \n- 1단계씩 또는 자동 실행 가능 \n- Hash 함수 및 SHA256 교육용\n- React 오픈소스",
+          "link": "https://news.hada.io/topic?id=5920",
+          "publishedOn": "2022-02-08T00:23:45.000Z",
+          "wordCount": 81,
+          "title": "SHA256 알고리듬 단계별 시각화"
         },
         {
-          "id": "https://news.hada.io/topic?id=5909",
+          "id": "https://news.hada.io/topic?id=5919",
           "author": null,
-          "description": "태양광이나 풍력과 같은 신재생 에너지는 자연현상으로부터 에너지를 얻는다는 특성 때문에 시간과 공간에 따라 에너지 획득이 불균형하다는 단점이 있습니다. 따라서 어떤 시간대에는 에너지 공급이 모자랄 수도 있지만, 반대로 어떨 때는 생산되는 에너지가 너무 넘쳐나서 문제가 될 수도 있습니다. 이러한 생산과 ...",
-          "link": "https://news.hada.io/topic?id=5909",
-          "publishedOn": "2022-02-06T13:57:17.000Z",
-          "wordCount": 273,
-          "title": "정보 배터리: 남는 신재생 에너지를 적시에 데이터센터에서 사용하기"
+          "description": "1. 조직 내 코드 리뷰는 리뷰하고자 하는 관점을 코드가 아닌, 코드를 작성한 엔지니어에게, 제품을 만드는 메이커에게 옮겨보면 어떨까.\n2. 사실 코드 리뷰 문화보다 중요한 것은 테스트 문화이다.\n\n코드 리뷰의 목적 \n- 버스 팩터 \n- 버그없는 제품 \n\n부작용...",
+          "link": "https://news.hada.io/topic?id=5919",
+          "publishedOn": "2022-02-08T00:05:58.000Z",
+          "wordCount": 147,
+          "title": "코드 리뷰의 목적은 성장이어야 한다"
         },
         {
-          "id": "https://news.hada.io/topic?id=5908",
+          "id": "https://news.hada.io/topic?id=5918",
           "author": null,
-          "description": "- Quirrel은 서버리스 함수 및 Job을 스케줄링 및 관리하는 오픈소스 \n- 이를 통해 Netlify Functions 에 스케쥴 기능을 도입 \nㅤ→ Cron 처럼 정기적으로 서버리스 함수를 실행 가능 \nㅤㅤ⇨ 주말마다 보고서 작성을 위한 API 세트 호출 \nㅤㅤ⇨ 매일 밤 데이터를 다른 데이터 스토어로...",
-          "link": "https://news.hada.io/topic?id=5908",
-          "publishedOn": "2022-02-06T00:46:48.000Z",
-          "wordCount": 154,
-          "title": "Netlify, Quirrel을 인수하고 Scheduled Functions 베타 공개"
+          "description": "- CampaignMonitor가 2021년에 보낸 1000억개의 이메일 데이터를 정리 \n- 업종별 평균 오픈율 / CTR(클릭율) / CTOR(오픈된 메일의 클릭율) / 구독해지율\nㅤ→ 메일 성공율이 가장 높은 업종은 \"교육\" : 오픈율 28.5% 에 CTR 4.4%\n- 애플 iOS15의 MPP(Mail Privacy Protection)가 적용...",
+          "link": "https://news.hada.io/topic?id=5918",
+          "publishedOn": "2022-02-07T03:25:03.000Z",
+          "wordCount": 198,
+          "title": "업종별 이메일 마케팅 벤치마크 보고서 2022"
         },
         {
-          "id": "https://news.hada.io/topic?id=5907",
+          "id": "https://news.hada.io/topic?id=5917",
           "author": null,
-          "description": "- Matrix를 이용해서 온라인 개최 \nㅤ→ 654명의 발표자, 732개의 이벤트, 103개의 트랙 \n- 7개의 메인 트랙 : FOSDEM, Community, RTC, Security, Lightning Talks, Test, 기타 \n- 52개의 Devroom : 언어, DB, 기술별 주제의 방들. 세션 영상, Q&A, 채팅방 제공 \n- 50개 이상의 Sta...",
-          "link": "https://news.hada.io/topic?id=5907",
-          "publishedOn": "2022-02-06T00:28:33.000Z",
-          "wordCount": 155,
-          "title": "FOSDEM 2022 온라인으로 진행중"
+          "description": "스타트업의 첫 사용자들을 구하는 팁들을 정리 \n- 아웃바운드 마케팅 \n- SEO \n- 검색 광고 / SEM \n- Organic / Paid Social \n- 스폰서십 \n- 커뮤니티 \n- 이메일 \n- 레퍼럴 \n- PR \n- 콘텐츠 마케팅 \n- IRL \n- Engineering as Ma...",
+          "link": "https://news.hada.io/topic?id=5917",
+          "publishedOn": "2022-02-07T03:02:28.000Z",
+          "wordCount": 110,
+          "title": "First 100 Users - 첫번째 100명 사용자 구하기"
         },
         {
-          "id": "https://news.hada.io/topic?id=5906",
+          "id": "https://news.hada.io/topic?id=5916",
           "author": null,
-          "description": "- 1993년부터 배포 시작한 가장 오래된 리눅스 배포판 \nㅤ→ 안정성과 간결함을 목표로 하는 가장 Unix-like 한 배포판\nㅤ→ 설치 UI도 없고, 의존성 검사/해결도 자동으로 하지 않음\n- 2012년 14.0, 2016년 14.2 릴리즈 후 6년만\n- 리눅스 커널 5.15.19 : Generic / Huge 두개로 제공 ...",
-          "link": "https://news.hada.io/topic?id=5906",
-          "publishedOn": "2022-02-06T00:14:51.000Z",
-          "wordCount": 181,
-          "title": "Slackware 15.0 릴리즈"
+          "description": "- 얼마 전 ‘pet rock 053’이라는 'NFT' 상품 하나가 13억 원에 판매됨\n- 작품의 이름을 번역하면 ‘애완용 돌멩이 53번’\n- 혹시 53이라는 숫자에 심오한 의미가 있거나, 애완용이라는 개념에 대한 철학적 함의가 있을까? -> X\n- 13억 원은 저렴한 편, 1번 돌멩이는 525억 원으로 오징어 게...",
+          "link": "https://news.hada.io/topic?id=5916",
+          "publishedOn": "2022-02-07T02:20:25.000Z",
+          "wordCount": 139,
+          "title": "“NFT, 잘 모르겠지만 일단 한번 팔아 봤습니다.”"
         },
         {
-          "id": "https://news.hada.io/topic?id=5905",
+          "id": "https://news.hada.io/topic?id=5915",
           "author": null,
-          "description": "회사에 멀티미터기가 여러대 있는데\n\n커패시터는 측정할 때, 멀티미터기마다 값이 다릅니다 ,,,\n\n또 어떤 커패시터는 계속 OL 이라고만 떠요 ,,\n\n범위 문제인지 싶어서\n\npF 부터 mF 까지 다 고쳐봤는데도 계속 OL 뜹니다,,, ,,, Auto Range도 마찬가지고요 ...",
-          "link": "https://news.hada.io/topic?id=5905",
-          "publishedOn": "2022-02-05T08:56:36.000Z",
-          "wordCount": 123,
-          "title": "Ask GN: 커패시터 측정 방법이 따로 있나요?? ,,,"
+          "description": "현재 근무중인 스타트업에서 같이 일할 멤버를 찾고 계시다면\n회사 소개 / JD / 위치 / 리모트 가능 여부 / 연락방법(이메일,웹사이트) 등을 적어주세요.\n\"멤버가 직접 1개의 댓글로 홍보를 작성\"하시면 됩니다. (서치펌 등은 불가)\n\n이 글은 매월 첫번째 월요일에 등록됩니다...",
+          "link": "https://news.hada.io/topic?id=5915",
+          "publishedOn": "2022-02-07T01:46:57.000Z",
+          "wordCount": 313,
+          "title": "Ask GN: 이달의 구인공고 - 멤버를 찾고 계신가요 ?"
         },
         {
-          "id": "https://news.hada.io/topic?id=5904",
+          "id": "https://news.hada.io/topic?id=5914",
           "author": null,
-          "description": "1.\n...",
-          "link": "https://news.hada.io/topic?id=5904",
-          "publishedOn": "2022-02-05T02:34:37.000Z",
-          "wordCount": 830,
-          "title": "Show GN: 개발 실력을 가장 잘 표현해주는 진짜개발자 이력서"
+          "description": "- WebAssembly(WASM)소개부터, 오늘날 어디에 사용되고 있으며, 앞으로 사용될 분야에 대한 예측 \n# WASM의 특징\n- 포터블: 표준화된 바이트코드로 브라우저/서버 어디서든 실행\n- 유니버설: C,Rust,Go,Python,Ruby등 다양한 언어들이 Wasm으로 컴파일\n- 네이티브 수준의 성능: 평균적으...",
+          "link": "https://news.hada.io/topic?id=5914",
+          "publishedOn": "2022-02-07T01:39:24.000Z",
+          "wordCount": 414,
+          "title": "WebAssembly에 주목해야 할 이유"
         },
         {
-          "id": "https://news.hada.io/topic?id=5903",
+          "id": "https://news.hada.io/topic?id=5913",
           "author": null,
-          "description": "- 텍스트 파일에 \"1\" 한글자만 들어간 파일은 거부한다고",
-          "link": "https://news.hada.io/topic?id=5903",
-          "publishedOn": "2022-02-05T01:11:02.000Z",
-          "wordCount": 102,
-          "title": "구글 드라이브엔 \"1\" 만 들어있는 파일은 약관 위반"
+          "description": "- 공공데이터포털, 서울 열린데이터 광장 등 기관에서 제공하고 있는 데이터 관련 OpenAPI 서비스를 Python으로 쉽게 이용\nㅤ→ 부동산 실거래가 \nㅤ→ 건축물대장 \nㅤ→ 상가업소 정보 \nㅤ→ 지하철 호선별 역별 승하차 인원 정보 \nㅤ→ 버스노선별 정류장별 승하차 인원 정보...",
+          "link": "https://news.hada.io/topic?id=5913",
+          "publishedOn": "2022-02-07T01:18:52.000Z",
+          "wordCount": 109,
+          "title": "PublicDataReader - 공공 데이터 조회 라이브러리"
         },
         {
-          "id": "https://news.hada.io/topic?id=5902",
+          "id": "https://news.hada.io/topic?id=5912",
           "author": null,
-          "description": "- AWS팀의 개발자가 Alexa AI팀으로 옮기겠다고 매니저에게 말했더니 바로 PIP로 보내버리고 다른 팀에 협박메일을 보냄\nㅤ→ Performance Improvement Plan : 성과가 안좋은 직원의 성과 개선을 위한 아마존 특유의 프로그램. 특정 기간동안 개선 안되면 해고 \n- 1월 한달동안 팀이 작성한 코드 68k 중...",
-          "link": "https://news.hada.io/topic?id=5902",
-          "publishedOn": "2022-02-05T00:56:01.000Z",
-          "wordCount": 223,
-          "title": "Amazon PIP 호러 스토리"
+          "description": "- 단일 코맨드창 인터페이스 \nㅤ→ 탭 : 이동, 열기, 닫기, 검색\nㅤ→ 북마크 보기 및 관리 \nㅤ→ 브라우징 히스토리 검색 \nㅤ→ 생산성 증가를 위한 50개 이상의 액션 \n- Notion, Figma, Docs, Asana 등과 연동 \n- Alyssa X의 새 프로젝트",
+          "link": "https://news.hada.io/topic?id=5912",
+          "publishedOn": "2022-02-07T01:04:01.000Z",
+          "wordCount": 129,
+          "title": "Omni - 크롬용 북마크/히스토리/탭관리자 확장 오픈소스"
         }
       ]
     },
@@ -341,15 +336,6 @@
           "publishedOn": "2022-01-12T23:39:54.000Z",
           "wordCount": 626,
           "title": "PostgreSQL (Aurora) 10 vs 11 버전 성능 비교"
-        },
-        {
-          "id": "https://jojoldu.tistory.com/629",
-          "author": "향로",
-          "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\n어느날 Mac 업데이트 이후부터, docker-compose 실행이 안되기 시작했습니다. \n아래와 같은 에러가 발생했는데요.\n전체 에러로그는 다음과 같습니다.\nTraceback (most recent call last):\n  File \"docker/api/client.py\", line 268, in _raise_for_status\n  File \"requests/models.py\", line 941, in raise_for_status\nrequests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: http+docker://localhost/version\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"docker/api/client.py\", line 214, in _retrieve_server_version\n  File \"docker/api/daemon.py\", line 181, in version\n  File \"docker/api/client.py\", line 274, in _result\n  File \"docker/api/client.py\", line 270, in _raise…",
-          "link": "https://jojoldu.tistory.com/629",
-          "publishedOn": "2022-01-09T02:22:22.000Z",
-          "wordCount": 491,
-          "title": "Mac 업데이트 이후 Docker 실행 안될 경우"
         }
       ]
     }
