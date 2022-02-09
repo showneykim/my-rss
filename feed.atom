@@ -1,49 +1,191 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-02-08T01:02:53.655Z</id>
+    <id>urn:2022-02-09T01:05:19.403Z</id>
     <title>osmos::feed</title>
-    <updated>2022-02-08T01:02:53.655Z</updated>
+    <updated>2022-02-09T01:05:19.403Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[아마존, 기본급 상한을 4.2억 원으로 인상]]></title>
-        <id>https://news.hada.io/topic?id=5921</id>
-        <link href="https://news.hada.io/topic?id=5921"/>
-        <updated>2022-02-08T00:42:23.000Z</updated>
-        <summary type="html"><![CDATA[- 예전 $160k 에서 $350k로 두배 넘게 인상한다고 사내에 발표
-ㅤ→ 아마존의 기본급을 구글,페이스북,애플 수준으로 끌어올릴 것
-ㅤ→ 기존엔 기본급을 낮게 유지하면서 RSU와 사이닝 보너스 등으로 보상을 줬음
-ㅤ→ 이런 보상들은 유지하면서 기본급을 올려서, 글로벌하게 전체적인 보상을 인...]]></summary>
+        <title type="html"><![CDATA[Adobe가 12개월 구독으로 사용자를 속이는 방법]]></title>
+        <id>https://news.hada.io/topic?id=5934</id>
+        <link href="https://news.hada.io/topic?id=5934"/>
+        <updated>2022-02-09T01:03:44.000Z</updated>
+        <summary type="html"><![CDATA[- 일주일 "무료 체험 기간"을 준다고 홍보함 
+- 그 이후에는 월 62000원 씩 결제된다고 적혀있음 
+- 구석에 작게 "전액 환불 받으려면 14일 이전에 취소"하라고 써있음 
+- 취소 조건을 눌러서 별도 페이지에서 읽어 보면, 14일 지나서 취소할 경우 남은 "연간 구독 금...]]></summary>
         <author>
             <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SHA256 알고리듬 단계별 시각화]]></title>
-        <id>https://news.hada.io/topic?id=5920</id>
-        <link href="https://news.hada.io/topic?id=5920"/>
-        <updated>2022-02-08T00:23:45.000Z</updated>
-        <summary type="html"><![CDATA[- 입력한 문자열에서 어떻게 SHA256 해쉬값이 계산되어 가는 지를 단계별로 설명과 함께 보여줌 
-- 1단계씩 또는 자동 실행 가능 
-- Hash 함수 및 SHA256 교육용
-- React 오픈소스]]></summary>
+        <title type="html"><![CDATA[인텔, RISC-V 멤버로 가입하고 1.2조원 파운드리 펀드 조성]]></title>
+        <id>https://news.hada.io/topic?id=5933</id>
+        <link href="https://news.hada.io/topic?id=5933"/>
+        <updated>2022-02-09T00:45:53.000Z</updated>
+        <summary type="html"><![CDATA[- RISC-V International의 프리미어 멤버로 합류 
+- Intel Foundry Service(IFS)를 통해서 펀드를 조성하고 파운드리 스타트업들에 투자할 예정
+ㅤ→ IFS는 x86, ARM, RISC-V 모두에 최적화된 IP를 제공하는 유일한 파운드리]]></summary>
         <author>
             <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[코드 리뷰의 목적은 성장이어야 한다]]></title>
-        <id>https://news.hada.io/topic?id=5919</id>
-        <link href="https://news.hada.io/topic?id=5919"/>
-        <updated>2022-02-08T00:05:58.000Z</updated>
-        <summary type="html"><![CDATA[1. 조직 내 코드 리뷰는 리뷰하고자 하는 관점을 코드가 아닌, 코드를 작성한 엔지니어에게, 제품을 만드는 메이커에게 옮겨보면 어떨까.
-2. 사실 코드 리뷰 문화보다 중요한 것은 테스트 문화이다.
+        <title type="html"><![CDATA[Ploomber - 빠르게 데이터 파이프라인을 만들어주는 오픈소스 프레임워크]]></title>
+        <id>https://news.hada.io/topic?id=5932</id>
+        <link href="https://news.hada.io/topic?id=5932"/>
+        <updated>2022-02-09T00:28:01.000Z</updated>
+        <summary type="html"><![CDATA[- Jupyter/VSCode/PyCharm등을 이용해서 개발
+- 코드 변경없이 프로덕션 서버에 배포 : 쿠버네티스, AWS Batch, Airflow, Kubeflow, Slurm 등
+- 기존 노트북을 모듈러한 파이프라인으로 리팩토링 가능 
 
-코드 리뷰의 목적 
-- 버스 팩터 
-- 버그없는 제품 
+# 주요 기능
+- YAML을 이용하여 빠르게 개발
+- 강력한 Python API로...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Discord, 포럼과 비슷한 새로운 커뮤니티 기능 실험 중]]></title>
+        <id>https://news.hada.io/topic?id=5931</id>
+        <link href="https://news.hada.io/topic?id=5931"/>
+        <updated>2022-02-09T00:11:22.000Z</updated>
+        <summary type="html"><![CDATA[- 실시간으로 흘러가는 대화창 외에 진행 중인 대화들을 찾고 참여하는 기능을 도입
+ㅤ→ 포럼과 같은 채널을 구성 
+ㅤ→ Reddit처럼 지나간 대화들도 쉽게 보고 참여 가능
+- 각 채널의 주요 토픽들을 뽑아서 빠르게 tl;dr 스타일 스냅샷을 보는 기능도 제공 
+- 모더레이터/어드민이 커뮤...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No Motion Isn’t Always prefers-reduced-motion]]></title>
+        <id>https://css-tricks.com/?p=363057</id>
+        <link href="https://css-tricks.com/nuking-motion-with-prefers-reduced-motion/"/>
+        <updated>2022-02-08T20:55:51.000Z</updated>
+        <summary type="html"><![CDATA[There is a code snippet that I see all the time when the media query prefers-reduced-motion is talked about. Here it is:
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  
+…
+No Motion Isn’t Always prefers-reduced-motion originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Replace JavaScript Dialogs With the New HTML Dialog Element]]></title>
+        <id>https://css-tricks.com/?p=362672</id>
+        <link href="https://css-tricks.com/replace-javascript-dialogs-html-dialog-element/"/>
+        <updated>2022-02-08T15:09:40.000Z</updated>
+        <summary type="html"><![CDATA[You know how there are JavaScript dialogs for alerting, confirming, and prompting user actions? Say you want to replace JavaScript dialogs with the new HTML dialog element.
+Let me explain.
+I recently worked on a project with a lot of …
+Replace JavaScript Dialogs With the New HTML Dialog Element originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Mads Stoumann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netlify Has Scheduled Functions]]></title>
+        <id>https://css-tricks.com/?p=363380</id>
+        <link href="https://css-tricks.com/netlify-has-scheduled-functions/"/>
+        <updated>2022-02-08T15:08:47.000Z</updated>
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+Hey! Scheduled Functions are cool! Think of them like a CRON job. I want this code to run every Monday at 2pm. I want this code run every hour on the hour. That kind …
+Netlify Has Scheduled Functions originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[라인 12년차 PM 왈 — “인성이 실력이다" - 좌충우돌 스따뜨업 이야기]]></title>
+        <id>https://news.hada.io/topic?id=5930</id>
+        <link href="https://news.hada.io/topic?id=5930"/>
+        <updated>2022-02-08T14:35:18.000Z</updated>
+        <summary type="html"><![CDATA[라인 12년차 PM 인터뷰
+PM은 어떻게 성장하는가?
+마케팅 팀과 어떤관계를 가져야 하는가?
+유저와 시장은 어떻게 분석을 하는가?
+10년전 자신에게 해주고 싶은 말은?
+5년 후 자신에게 바라는 것은?]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애플의 경쟁력은 어디에서 오나]]></title>
+        <id>https://news.hada.io/topic?id=5929</id>
+        <link href="https://news.hada.io/topic?id=5929"/>
+        <updated>2022-02-08T09:12:03.000Z</updated>
+        <summary type="html"><![CDATA[애플의 업무환경을 엿볼수 있는 현직 엔지니어 인터뷰 기사
 
-부작용...]]></summary>
+애플은 어떤 회사라고 할 수 있을까?
+5대 빅테크 가운데 애플이 가장 앞선 실적을 내는 이유는 좋은 엔지니어들이 많이 있기 때문인가?
+애플에 그런 베테랑 엔지니어들이 많은 이유가 뭔가?
+우리나라 기업들처럼 위아래...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[당신이 NFT에 대해 알아야 할 모든 것 [번역]]]></title>
+        <id>https://news.hada.io/topic?id=5927</id>
+        <link href="https://news.hada.io/topic?id=5927"/>
+        <updated>2022-02-08T07:38:28.000Z</updated>
+        <summary type="html"><![CDATA[NFT 마켓플레이스 오픈씨가 작성한 사람들이 가진 NFT의 일반적인 오해, 그리고 NFT 시장의 현 상황 등 대체 불가능 토큰을 이해하기 위한 필수 지식
+
+- 대체 불가능 토큰이란 무엇일까?
+- 블록체인 기반의 대체 불가능 토큰(고유 속성: 표준화, 상호 운용성, 거래 가능성, 유동성, 불변성, 입증...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스타트업에서 AWS IAM 권한 관리 잘 하는법 - ConsoleMe 도입기]]></title>
+        <id>https://news.hada.io/topic?id=5926</id>
+        <link href="https://news.hada.io/topic?id=5926"/>
+        <updated>2022-02-08T05:55:32.000Z</updated>
+        <summary type="html"><![CDATA[- IAM 최소권한 정책
+"IAM 정책을 생성할 때는 최소 권한 부여의 표준 보안 조언을 따르거나, 작업 수행에 필요한 최소한의 권한만 부여합니다" 
+기존에 개발자에게 모든 권한을 주고 있다가 최소권한 정책을 따르기로함
+
+- Jira를 활용한 권한신청 프로세스 도입기
+기...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[브라우저 주소창에 URL을 치면 일어나는 일들]]></title>
+        <id>https://news.hada.io/topic?id=5925</id>
+        <link href="https://news.hada.io/topic?id=5925"/>
+        <updated>2022-02-08T03:41:02.000Z</updated>
+        <summary type="html"><![CDATA[“브라우저 주소창에 URL을 치면 일어나는 일을 아는대로 말 하기”라는 웹 개발자 면접 단골 질문에 대해 다시 생각해보게 됨.
+
+어떻게 클라이언트의 HTTP 요청 메시지가 서버에 전송되고, 이걸 받은 서버의 HTTP 응답 메시지가 클라이언트에 전송되는지, 그리고 브라우저가 컨텐츠를 표시하는데까지의...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서버들이 IPv6를 지원해야 할 이유]]></title>
+        <id>https://news.hada.io/topic?id=5924</id>
+        <link href="https://news.hada.io/topic?id=5924"/>
+        <updated>2022-02-08T01:29:26.000Z</updated>
+        <summary type="html"><![CDATA[- IPv6 지원 확인은 'dig AAAA 도메인'
+ㅤ→ 트위터/깃헙 등은 IPv6 지원 안하는 것을 알 수 있음
+
+- IPv6 지원 안하는 서버들엔 어떻게 IPv6 사용자가 접근이 가능할까 ?
+ㅤ→ 두가지 종류의 ISP가 있음 
+ㅤㅤ1. 모든 고객에게 IPv4 주소 제공이 가능한 ISP 
+ㅤㅤ2. 그렇...]]></summary>
         <author>
             <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
@@ -71,113 +213,6 @@ Using Different Color Spaces for Non-Boring Gradients originally published on CS
 CSS Scroll Snap Slide Deck That Supports Live Coding originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
         <author>
             <name>Stephanie Eckles</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[업종별 이메일 마케팅 벤치마크 보고서 2022]]></title>
-        <id>https://news.hada.io/topic?id=5918</id>
-        <link href="https://news.hada.io/topic?id=5918"/>
-        <updated>2022-02-07T03:25:03.000Z</updated>
-        <summary type="html"><![CDATA[- CampaignMonitor가 2021년에 보낸 1000억개의 이메일 데이터를 정리 
-- 업종별 평균 오픈율 / CTR(클릭율) / CTOR(오픈된 메일의 클릭율) / 구독해지율
-ㅤ→ 메일 성공율이 가장 높은 업종은 "교육" : 오픈율 28.5% 에 CTR 4.4%
-- 애플 iOS15의 MPP(Mail Privacy Protection)가 적용...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[First 100 Users - 첫번째 100명 사용자 구하기]]></title>
-        <id>https://news.hada.io/topic?id=5917</id>
-        <link href="https://news.hada.io/topic?id=5917"/>
-        <updated>2022-02-07T03:02:28.000Z</updated>
-        <summary type="html"><![CDATA[스타트업의 첫 사용자들을 구하는 팁들을 정리 
-- 아웃바운드 마케팅 
-- SEO 
-- 검색 광고 / SEM 
-- Organic / Paid Social 
-- 스폰서십 
-- 커뮤니티 
-- 이메일 
-- 레퍼럴 
-- PR 
-- 콘텐츠 마케팅 
-- IRL 
-- Engineering as Ma...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“NFT, 잘 모르겠지만 일단 한번 팔아 봤습니다.”]]></title>
-        <id>https://news.hada.io/topic?id=5916</id>
-        <link href="https://news.hada.io/topic?id=5916"/>
-        <updated>2022-02-07T02:20:25.000Z</updated>
-        <summary type="html"><![CDATA[- 얼마 전 ‘pet rock 053’이라는 'NFT' 상품 하나가 13억 원에 판매됨
-- 작품의 이름을 번역하면 ‘애완용 돌멩이 53번’
-- 혹시 53이라는 숫자에 심오한 의미가 있거나, 애완용이라는 개념에 대한 철학적 함의가 있을까? -> X
-- 13억 원은 저렴한 편, 1번 돌멩이는 525억 원으로 오징어 게...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 이달의 구인공고 - 멤버를 찾고 계신가요 ?]]></title>
-        <id>https://news.hada.io/topic?id=5915</id>
-        <link href="https://news.hada.io/topic?id=5915"/>
-        <updated>2022-02-07T01:46:57.000Z</updated>
-        <summary type="html"><![CDATA[현재 근무중인 스타트업에서 같이 일할 멤버를 찾고 계시다면
-회사 소개 / JD / 위치 / 리모트 가능 여부 / 연락방법(이메일,웹사이트) 등을 적어주세요.
-"멤버가 직접 1개의 댓글로 홍보를 작성"하시면 됩니다. (서치펌 등은 불가)
-
-이 글은 매월 첫번째 월요일에 등록됩니다...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WebAssembly에 주목해야 할 이유]]></title>
-        <id>https://news.hada.io/topic?id=5914</id>
-        <link href="https://news.hada.io/topic?id=5914"/>
-        <updated>2022-02-07T01:39:24.000Z</updated>
-        <summary type="html"><![CDATA[- WebAssembly(WASM)소개부터, 오늘날 어디에 사용되고 있으며, 앞으로 사용될 분야에 대한 예측 
-# WASM의 특징
-- 포터블: 표준화된 바이트코드로 브라우저/서버 어디서든 실행
-- 유니버설: C,Rust,Go,Python,Ruby등 다양한 언어들이 Wasm으로 컴파일
-- 네이티브 수준의 성능: 평균적으...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PublicDataReader - 공공 데이터 조회 라이브러리]]></title>
-        <id>https://news.hada.io/topic?id=5913</id>
-        <link href="https://news.hada.io/topic?id=5913"/>
-        <updated>2022-02-07T01:18:52.000Z</updated>
-        <summary type="html"><![CDATA[- 공공데이터포털, 서울 열린데이터 광장 등 기관에서 제공하고 있는 데이터 관련 OpenAPI 서비스를 Python으로 쉽게 이용
-ㅤ→ 부동산 실거래가 
-ㅤ→ 건축물대장 
-ㅤ→ 상가업소 정보 
-ㅤ→ 지하철 호선별 역별 승하차 인원 정보 
-ㅤ→ 버스노선별 정류장별 승하차 인원 정보...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Omni - 크롬용 북마크/히스토리/탭관리자 확장 오픈소스]]></title>
-        <id>https://news.hada.io/topic?id=5912</id>
-        <link href="https://news.hada.io/topic?id=5912"/>
-        <updated>2022-02-07T01:04:01.000Z</updated>
-        <summary type="html"><![CDATA[- 단일 코맨드창 인터페이스 
-ㅤ→ 탭 : 이동, 열기, 닫기, 검색
-ㅤ→ 북마크 보기 및 관리 
-ㅤ→ 브라우징 히스토리 검색 
-ㅤ→ 생산성 증가를 위한 50개 이상의 액션 
-- Notion, Figma, Docs, Asana 등과 연동 
-- Alyssa X의 새 프로젝트]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
     </entry>
     <entry>
@@ -316,17 +351,6 @@ The Relevance of TypeScript in 2022 originally published on CSS-Tricks. You shou
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The CSS from-font Value Explained in 4 Demos]]></title>
-        <id>https://css-tricks.com/?p=362382</id>
-        <link href="https://css-tricks.com/from-font-value-text-decoration-thickness/"/>
-        <updated>2022-01-28T18:37:52.000Z</updated>
-        <summary type="html"><![CDATA[I was doing my Advent of UI Components, and I stumbled upon the from-font value for the text-decoration-thickness CSS property. I was curious about it, so I did a little research and I think what I found (and learned) …
-The CSS from-font Value Explained in 4 Demos originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Silvestar Bistrović</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[루비콘 프로젝트 완료 메일]]></title>
         <id>https://jojoldu.tistory.com/636</id>
         <link href="https://jojoldu.tistory.com/636"/>
@@ -385,28 +409,6 @@ The CSS from-font Value Explained in 4 Demos originally published on CSS-Tricks.
                     (adsbygoogle = window.adsbygoogle || []).push({});]]></summary>
         <author>
             <name>향로</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Git: Switching Unstaged Changes to a New Branch]]></title>
-        <id>https://css-tricks.com/?p=360998</id>
-        <link href="https://css-tricks.com/git-switching-unstaged-changes-to-a-new-branch/"/>
-        <updated>2022-01-27T23:49:45.000Z</updated>
-        <summary type="html"><![CDATA[I’m always on the wrong branch. I’m either on master or main working on something that should be on a fix or feature branch. Or I’m on the last branch I was working on and should have cut a new …
-Git: Switching Unstaged Changes to a New Branch originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Demystifying TypeScript Discriminated Unions]]></title>
-        <id>https://css-tricks.com/?p=362091</id>
-        <link href="https://css-tricks.com/typescript-discriminated-unions/"/>
-        <updated>2022-01-27T15:20:57.000Z</updated>
-        <summary type="html"><![CDATA[TypeScript is a wonderful tool for writing JavaScript that scales. It’s more or less the de facto standard for the web when it comes to large JavaScript projects. As outstanding as it is, there are some tricky pieces for the …
-Demystifying TypeScript Discriminated Unions originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Adam Rackis</name>
         </author>
     </entry>
     <entry>
