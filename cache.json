@@ -6,12 +6,48 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=362285",
+          "author": "Chris Coyier",
+          "description": "I was just writing in my “What’s new in since CSS3?” article about recent and possible future changes to CSS colors. It’s weirdly a lot. There are just as many or more new and upcoming ways to define colors than …\nA Whistle-Stop Tour of 4 New CSS Color Features originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/new-css-color-features-preview/",
+          "publishedOn": "2022-02-10T23:01:55.000Z",
+          "wordCount": 2431,
+          "title": "A Whistle-Stop Tour of 4 New CSS Color Features"
+        },
+        {
+          "id": "https://css-tricks.com/?p=363480",
+          "author": "Chris Coyier",
+          "description": "This is a wonderful roundup from Jeremy, who I picture circling January 1, 2022, in red marker on a giant paper calendar back in 2008 and patiently counting the days.\nSee, there was a little smattering of internet drama …\nDevelopers Speculating About the Long-Distant Future: 2022 originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/developers-speculating-about-the-long-distant-future-2022/",
+          "publishedOn": "2022-02-10T21:45:09.000Z",
+          "wordCount": 456,
+          "title": "Developers Speculating About the Long-Distant Future: 2022"
+        },
+        {
+          "id": "https://css-tricks.com/?p=363079",
+          "author": "Thomas Wang",
+          "description": "I recently rewrote one of my projects — Minimal Theme for Twitter — as a Next.js Chrome extension because I wanted to use React for the pop-up. Using React would allow me to clearly separate my extension’s pop-up component and …\nHelpful Tips for Starting a Next.js Chrome Extension originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/nextjs-chrome-extension-starter/",
+          "publishedOn": "2022-02-10T15:24:02.000Z",
+          "wordCount": 1296,
+          "title": "Helpful Tips for Starting a Next.js Chrome Extension"
+        },
+        {
+          "id": "https://css-tricks.com/?p=362991",
+          "author": "Chris Coyier",
+          "description": "(This is a sponsored post.)\nCloudinary is a host for your digital assets like images and video. If you don’t already know them, you should, because you can build it into the asset management you almost certainly need to …\nA Chrome Extension for Cloudinary That Helps You Pluck Out Useful Media URLs From Your Library Quickly originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/a-chrome-extension-for-cloudinary-that-helps-you-pluck-out-useful-media-urls-from-your-library-quickly/",
+          "publishedOn": "2022-02-10T15:23:31.000Z",
+          "wordCount": 890,
+          "title": "A Chrome Extension for Cloudinary That Helps You Pluck Out Useful Media URLs From Your Library Quickly"
+        },
+        {
           "id": "https://css-tricks.com/?p=362777",
           "author": "Chris Coyier",
           "description": "Say you have a bitmap graphic — like a JPG, PNG, or GIF — and you wish it was vector, like SVG. What do you do? You could trace it yourself in some kind of design software. Or tools within …\nSVGcode for “Live Tracing” Raster Images originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/svgcode-raster-to-vector/",
           "publishedOn": "2022-02-09T21:39:41.000Z",
-          "wordCount": 737,
+          "wordCount": 830,
           "title": "SVGcode for “Live Tracing” Raster Images"
         },
         {
@@ -20,7 +56,7 @@
           "description": "I was updating my portfolio and wanted to use the forward slash (/) as a visual element for the site’s main layout. I hadn’t attempted to create a slanted container in CSS before, but it seemed like it …\nHow to Make CSS Slanted Containers originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/css-slanted-containers/",
           "publishedOn": "2022-02-09T15:19:47.000Z",
-          "wordCount": 1242,
+          "wordCount": 1281,
           "title": "How to Make CSS Slanted Containers"
         },
         {
@@ -29,7 +65,7 @@
           "description": "There is a code snippet that I see all the time when the media query prefers-reduced-motion is talked about. Here it is:\n@media (prefers-reduced-motion: reduce) {\n  * {\n    animation-duration: 0.01ms !important;\n    animation-iteration-count: 1 !important;\n    transition-duration: 0.01ms !important;\n    scroll-behavior: auto !important;\n  \n…\nNo Motion Isn’t Always prefers-reduced-motion originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/nuking-motion-with-prefers-reduced-motion/",
           "publishedOn": "2022-02-08T20:55:51.000Z",
-          "wordCount": 1090,
+          "wordCount": 1189,
           "title": "No Motion Isn’t Always prefers-reduced-motion"
         },
         {
@@ -38,7 +74,7 @@
           "description": "You know how there are JavaScript dialogs for alerting, confirming, and prompting user actions? Say you want to replace JavaScript dialogs with the new HTML dialog element.\nLet me explain.\nI recently worked on a project with a lot of …\nReplace JavaScript Dialogs With the New HTML Dialog Element originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/replace-javascript-dialogs-html-dialog-element/",
           "publishedOn": "2022-02-08T15:09:40.000Z",
-          "wordCount": 3590,
+          "wordCount": 3910,
           "title": "Replace JavaScript Dialogs With the New HTML Dialog Element"
         },
         {
@@ -65,7 +101,7 @@
           "description": "Virtual conferences have changed the game in terms of how a presenter is able to deliver content to an audience. At a live event it’s likely you just have your laptop, but at home, you may have multiple monitors so …\nCSS Scroll Snap Slide Deck That Supports Live Coding originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/css-scroll-snap-slide-deck/",
           "publishedOn": "2022-02-07T15:24:44.000Z",
-          "wordCount": 4367,
+          "wordCount": 4405,
           "title": "CSS Scroll Snap Slide Deck That Supports Live Coding"
         },
         {
@@ -74,7 +110,7 @@
           "description": "The relatively new WordPress editor, also known as the WordPress Block Editor, always under development via the Gutenberg plugin, has been with us since 2018. You can use the block editor on any WordPress theme, provided the theme …\nA Deep Introduction to WordPress Block Themes originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/a-deep-introduction-to-wordpress-block-themes/",
           "publishedOn": "2022-02-04T15:07:04.000Z",
-          "wordCount": 6124,
+          "wordCount": 6158,
           "title": "A Deep Introduction to WordPress Block Themes"
         },
         {
@@ -92,7 +128,7 @@
           "description": "I interviewed Thierry Koblentz, creator of Atomic CSS, to understand the history and background that led to making of the popular CSS framework. Thierry, now retired, has vast experience writing CSS at large scale and has previously worked …\nThe Making of Atomic CSS: An Interview With Thierry Koblentz originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/thierry-koblentz-atomic-css/",
           "publishedOn": "2022-02-03T15:24:01.000Z",
-          "wordCount": 3512,
+          "wordCount": 3549,
           "title": "The Making of Atomic CSS: An Interview With Thierry Koblentz"
         },
         {
@@ -103,42 +139,6 @@
           "publishedOn": "2022-02-02T21:11:55.000Z",
           "wordCount": 381,
           "title": "Building a Scrollable and Draggable Timeline with GSAP"
-        },
-        {
-          "id": "https://css-tricks.com/?p=362521",
-          "author": "Taminoturoko Briggs",
-          "description": "The ability to identify users is vital for maintaining the security of any applications. Equally important is the code that’s written to manage user identities, particularly when it comes to avoiding loopholes for unauthorized access to data held by an …\nUser Registration and Auth Using Firebase and React originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/user-registration-authentication-firebase-react/",
-          "publishedOn": "2022-02-02T15:42:43.000Z",
-          "wordCount": 4836,
-          "title": "User Registration and Auth Using Firebase and React"
-        },
-        {
-          "id": "https://css-tricks.com/?p=362890",
-          "author": "Chris Coyier",
-          "description": "Jim Nielsen’s mom couldn’t open a website. Jim worked on confirming the issue and documented how he got to the bottom of it:\n“[…] well it can’t be a browser issue. It’s not like my Mom is using Internet Explorer! \n…\nThe Optional Chaining Operator, “Modern” Browsers, and My Mom originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/the-optional-chaining-operator-modern-browsers-and-my-mom/",
-          "publishedOn": "2022-02-02T01:14:18.000Z",
-          "wordCount": 982,
-          "title": "The Optional Chaining Operator, “Modern” Browsers, and My Mom"
-        },
-        {
-          "id": "https://css-tricks.com/?p=362169",
-          "author": "Eric Bailey",
-          "description": "I have a coworker who is smart, capable, and technologically-literate. Like me, they work on the web full-time.\nWhen they are sharing their screen in a meeting, I find myself disassociating fixating on the red update button in their copy …\n“Evergreen” Does Not Mean Immediately Available originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/evergreen-does-not-mean-immediately-available/",
-          "publishedOn": "2022-02-01T15:38:41.000Z",
-          "wordCount": 2583,
-          "title": "“Evergreen” Does Not Mean Immediately Available"
-        },
-        {
-          "id": "https://css-tricks.com/?p=362886",
-          "author": "Chris Coyier",
-          "description": "Maggie Appleton gets into what is perhaps the foremost metaphor the web is founded on: paper. \nPaper documents were the original metaphor for the web. […]\nThe page you’re reading this on still mimics paper. We still call it \n…\nMetaphors We Web By originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/metaphors-we-web-by/",
-          "publishedOn": "2022-02-01T00:03:57.000Z",
-          "wordCount": 692,
-          "title": "Metaphors We Web By"
         }
       ]
     },
@@ -153,7 +153,7 @@
           "description": "파이썬 입문의 베스트 셀러 Do it! 점프 투 파이썬 입니다. 개정판으로 나왔고 저자 분이 위키독스의 운영자분이시기 때문에 웹에서도 무료로 볼수 있는 책입니다. 책을 완독한 후기는 정말 입문용으로는 최고의 도서입니다. 이 책만 완독했다고 해서 프로그래밍에...\nThe post [추천도서] Do it! 점프 투 파이썬 appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/%ec%b6%94%ec%b2%9c%eb%8f%84%ec%84%9c-do-it-%ec%a0%90%ed%94%84-%ed%88%ac-%ed%8c%8c%ec%9d%b4%ec%8d%ac/",
           "publishedOn": "2022-02-05T07:10:52.000Z",
-          "wordCount": 711,
+          "wordCount": 709,
           "title": "[추천도서] Do it! 점프 투 파이썬"
         },
         {
@@ -173,12 +173,84 @@
       "siteUrl": "https://news.hada.io",
       "articles": [
         {
+          "id": "https://news.hada.io/topic?id=5953",
+          "author": null,
+          "description": "- 고성능의 안정화(Stabilization) 기능 지원 \n- 크로스플랫폼 UI (윈/맥/리눅스, iOS/Android 지원 예정)\n- 실시간 미리보기 및 조정 \n- GPU 기반 처리 및 렌더링\n- 10-bit, 16-bit 4:4:4 비디오까지 지원 \n- GoPro, Sony, Insta360 등의 다양한 하드웨어 및 Sensor Logger등 모...",
+          "link": "https://news.hada.io/topic?id=5953",
+          "publishedOn": "2022-02-11T00:38:01.000Z",
+          "wordCount": 103,
+          "title": "Gyroflow - Gyro를 이용한 비디오 안정화 툴 오픈소스"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=5952",
+          "author": null,
+          "description": "- AWS 초보자용 교육 자료\n- AWS 디지털 교육\n- 학습 참고자료\n- AWS 공식 문서\n- 핸즈온 실습\n- 아키텍처 다이어그램 작성 관련\n- 필요한 자료들을 찾는 방법\n- 자격증관련\n- 그 밖의 읽을거리",
+          "link": "https://news.hada.io/topic?id=5952",
+          "publishedOn": "2022-02-11T00:23:45.000Z",
+          "wordCount": 88,
+          "title": "AWS 학습 자료 링크모음"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=5951",
+          "author": null,
+          "description": "- 백엔드에서 제공하는 OpenApi Specs을 가지고 openapi-typescript를 활용하여 api의 parameters, response에 대한 type 생성\n- ts-toolbelt에서 제공하는 type utils을 활용해서 필요한 유틸 type들 작성\n- openapi-typescript에서 생성해준 typing과 ts-toolbelt로 만든 유틸 type을 활용하여 react...",
+          "link": "https://news.hada.io/topic?id=5951",
+          "publishedOn": "2022-02-10T08:21:17.000Z",
+          "wordCount": 106,
+          "title": "openapi-typescript + react-query로 typesafe하게 rest api와 통신하기"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=5950",
+          "author": null,
+          "description": "BJT나 OPAMP를 사용하는 회로에서\n\n'DC(전원공급기)는 바이어스', 'AC(함수발생기)는 시그널' 이렇게 사용할 때,\n\n접지를 분리해야 하나요?? 아니면 공통으로 사용해야 하나요 ??",
+          "link": "https://news.hada.io/topic?id=5950",
+          "publishedOn": "2022-02-10T06:37:49.000Z",
+          "wordCount": 174,
+          "title": "Ask GN: 교류, 직류를 혼용하는 회로에서 접지는 분리해야 하나요??"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=5949",
+          "author": null,
+          "description": "* React 18 rc가 확정되면서 어떤 기능들이 추가가 되었는지 알아보자\n\n* Automatic batching for fewer renders\n    * React 18 이후부터는 promise, setTimeout 등에서 발생한 연속적인 setState도 배치로 처리\n\n* SSR support for Suspense\n    * SSr에서도 Suspense를...",
+          "link": "https://news.hada.io/topic?id=5949",
+          "publishedOn": "2022-02-10T02:50:14.000Z",
+          "wordCount": 194,
+          "title": "React 18 미리보기"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=5947",
+          "author": null,
+          "description": "- 시애틀의 KUOW(94.9) 방송에서 실수로 확장자가 없는 이미지 파일을 전송\n- 해당 HD라디오를 듣던 2014~2017 Mazda 자동차의 인포테인먼트 시스템이 먹통이 됨\nㅤ→ 네비게이션/블루투스가 안되고 다른 방송으로 바꾸는 것도 불가 \n- Mazda는 해당 차들의 Connectivy Master Unit을 교체해야 ...",
+          "link": "https://news.hada.io/topic?id=5947",
+          "publishedOn": "2022-02-10T01:38:02.000Z",
+          "wordCount": 154,
+          "title": "라디오 방송국이 실수로 송출한 파일로 Mazda 자동차가 고장"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=5946",
+          "author": null,
+          "description": "- 더해서 2로 나누는 것은 오버플로우가 발생 \nㅤ→ (a + b) / 2\n- 둘중에 큰 수를 알면 두 값의 차이를 작은 수에 더해서 2로 나누는 것도 가능 \nㅤ→ low + (high - low) / 2\n- 어떤게 큰 수인지 몰라도 가능한 알고리듬은 2016년에 특허가 만료됨\nㅤ→ (a / 2) + (b / 2) + (a...",
+          "link": "https://news.hada.io/topic?id=5946",
+          "publishedOn": "2022-02-10T01:16:42.000Z",
+          "wordCount": 189,
+          "title": "오버플로우 없이 2개 unsigned int의 평균 구하기"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=5945",
+          "author": null,
+          "description": "# 세가지 모델 \n- 6.8' S22 Ultra : S + Note, S펜 내장, 12GB램, 쿼드 카메라, 12GB램 \n- 6.6' S22+ 와 6.1' S22 : 8GB램, 트리플 카메라\n\n- NPU를 내장한 4나노 옥타코어 프로세서\n- 나이토그래피, WiFi 6E, UWB \n- 120Hz  다이내믹 AMOLED 2X 디스플레이\n- 아머...",
+          "link": "https://news.hada.io/topic?id=5945",
+          "publishedOn": "2022-02-10T01:03:07.000Z",
+          "wordCount": 131,
+          "title": "삼성, 갤럭시 S22 시리즈 공개"
+        },
+        {
           "id": "https://news.hada.io/topic?id=5944",
           "author": null,
           "description": "- 인프라 걱정없이 다양한 공공 서비스를 빠르게 런칭하기 위한 인프라 \n- 프로토타입/알파/베타/라이브 등 다양한 환경 구성 가능\n- AWS 위에서 Cloud Foundry를 이용하여 호스팅 \nㅤ→ 빌드팩 지원 : Go, Node.js, Ruby, Python, R, PHP..\nㅤ→ 마켓플레이스에서 PostgreSQL, S3, Elas...",
           "link": "https://news.hada.io/topic?id=5944",
           "publishedOn": "2022-02-10T00:44:25.000Z",
-          "wordCount": 132,
+          "wordCount": 144,
           "title": "GOV.UK PaaS - 영국의 공공 서비스를 위한 클라우드"
         },
         {
@@ -189,78 +261,6 @@
           "publishedOn": "2022-02-10T00:22:33.000Z",
           "wordCount": 135,
           "title": "이 달의 CT 스캔 : 즉석 카메라"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=5942",
-          "author": null,
-          "description": "- AI를 이용하여 개인화된 음악을 동적으로 생성하는 기술을 가진 회사 \n- 사용자 인터랙션에 따라서 바뀌는 음악을 생성 \nㅤ→ 예) 운동중에 착용자의 심장 박동수에 따라 바뀌는게 가능 \n- 인수전에 약 24명의 직원을 가진 회사 였다고 \n- 애플 피트니스+ 나 Photos의 슬라이드쇼 배경...",
-          "link": "https://news.hada.io/topic?id=5942",
-          "publishedOn": "2022-02-10T00:08:51.000Z",
-          "wordCount": 106,
-          "title": "애플, 인공지능 음악 스타트업 AI Music 인수"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=5941",
-          "author": null,
-          "description": "폴 그라함의 에세이부터 샘 알트만의 글들까지 와이 콤비네이터 그리고 그 근처에는 아주 유용한 정보와 가이드들이 많다. 그중 이번에 내 눈을 끈 글은 \"Startups for Students Guide\"이다. 학생들을 위한 스타트업 가이드라. 과연 어떤 말을 하고 싶을까? 읽다 보니 결국은 \"와이 콤비네이터가 최고...",
-          "link": "https://news.hada.io/topic?id=5941",
-          "publishedOn": "2022-02-09T05:35:48.000Z",
-          "wordCount": 108,
-          "title": "와이 콤비네이터가 학생들에게 하는 조언"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=5940",
-          "author": null,
-          "description": "왜 새로운 기술이 등장할 때는 항상 스캠과 혼돈이 존재해야 할까? 그건 어쩔 수 없는 걸까? 아니면 기술을 만드는 사람이 충분한 고려를 이제는 하면서 유저들에게 소개를 해야 하는 걸까? 인터넷 쇼핑이 처음 나왔을 때, 사람들은 선결제 후 물건이 안 올 것에 대한 불안감이 컸고, 실제로 결제만 받고 물건을 안 보...",
-          "link": "https://news.hada.io/topic?id=5940",
-          "publishedOn": "2022-02-09T05:35:21.000Z",
-          "wordCount": 184,
-          "title": "web3/NFT: 이게 최선입니까?"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=5939",
-          "author": null,
-          "description": "지난 2년 동안 줌과 더불어 가장 많이 회자된 펠로톤의 이야기. 판데믹의 승자처럼 보였던 펠로톤은 어쩌다가 여기까지 왔을까? 1년 전 대비 펠로톤의 주가는 약 84% 하락하였다. 지금부터는 어떻게 해야 할까?\n\n블랙웰스 캐피털이 오늘 공개한 신랄한 펠로톤 관련 자료를 보면서 몇 가지 생각을 정리해...",
-          "link": "https://news.hada.io/topic?id=5939",
-          "publishedOn": "2022-02-09T05:34:45.000Z",
-          "wordCount": 131,
-          "title": "펠로톤 이야기"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=5938",
-          "author": null,
-          "description": "- 40살에 Google Developer Relations 인턴으로 일하게 된 분의 이야기 \n\"6개월마다 꼬박꼬박 지원했던 그 회사가, 3개의 회사에서 인턴쉽을 해도, 리트코드를 480 문제를 풀어도, 각종 플젝으로 이력서를 다듬어도 서류 단 한번을 통과시켜주지 않아서 여기 인턴으로는 못들어가겠다 생각했던 그 회사가...",
-          "link": "https://news.hada.io/topic?id=5938",
-          "publishedOn": "2022-02-09T04:10:01.000Z",
-          "wordCount": 97,
-          "title": "구글에 합격했습니다"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=5937",
-          "author": null,
-          "description": "- 팬데믹 덕분에 2020년에만 400% 주가가 급등했지만 최근에 실적 부진 \n- 행동주의 투자자인 Blackwells는 경영진을 교체하라는 65p 보고서를 냄\n- 끝내, 공동 창업자 John Foley는 CEO에서 내려가고, Spotify/Netflix CFO였던 Barry McCarthy가 새 CEO로 \n- Amazon, Nike, Apple 등이 인수할 ...",
-          "link": "https://news.hada.io/topic?id=5937",
-          "publishedOn": "2022-02-09T03:59:14.000Z",
-          "wordCount": 155,
-          "title": "Peloton, CEO 교체하고 2800명 해고"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=5936",
-          "author": null,
-          "description": "- 올해안에 미국 판매자는 아이폰으로 애플 Pay 및 기타 비접촉 결제 수단으로 결제 받는게 가능해질 것\nㅤ→ NFC 기술을 사용하여 별도의 장치 필요 없음 \nㅤ→ 신용/현금 카드 및 기타 디지털 지갑들로 결제 가능 \n- Stripe는 Shopify POS앱을 포함하여 아이폰에서 Tap to Pay를 제공하는 최초...",
-          "link": "https://news.hada.io/topic?id=5936",
-          "publishedOn": "2022-02-09T01:56:19.000Z",
-          "wordCount": 152,
-          "title": "애플, 아이폰에서 비접촉 결제 가능한 Tap to Pay 공개"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=5935",
-          "author": null,
-          "description": "- 2020년 9월에 인수 계약을 체결했으나, 여러 규제 당국의 반대로 인해서 계약을 종료\n- Softbank Group(SBG)은 ARM의 자체 IPO를 시작할 것 \n- 계약에 따라 SBG는 Nvidia가 지불한 1.4조원의 선금을 그대로 가지게 되며, Nvidia는 20년간 ARM 라이센스 확보",
-          "link": "https://news.hada.io/topic?id=5935",
-          "publishedOn": "2022-02-09T01:24:41.000Z",
-          "wordCount": 110,
-          "title": "Nvidia, ARM 인수 중단 발표"
         }
       ]
     },
