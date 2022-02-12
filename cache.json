@@ -6,12 +6,30 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=363396",
+          "author": "Chris Coyier",
+          "description": "Every now and then, I find that I’ve accumulated a bunch of links about various things I find interesting. Like React and JavaScript! Here’s a list of nine links to other articles about them that I’ve been saving up and …\n9 New React and JavaScript Links for February 2022 originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/9-new-react-and-javascript-links-for-february-2022/",
+          "publishedOn": "2022-02-11T23:11:28.000Z",
+          "wordCount": 951,
+          "title": "9 New React and JavaScript Links for February 2022"
+        },
+        {
+          "id": "https://css-tricks.com/?p=363027",
+          "author": "Yair Even Or",
+          "description": "Imagine you have an element with a multi-value CSS property, such as transform: optional custom property values:\n.el {\n  transform: translate(100px) scale(1.5) skew(5deg);\n}\nNow imagine you don’t always want all the transform values to be applied, so some …\nMulti-Value CSS Properties With Optional Custom Property Values originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/optional-custom-property-values-trick/",
+          "publishedOn": "2022-02-11T15:30:11.000Z",
+          "wordCount": 782,
+          "title": "Multi-Value CSS Properties With Optional Custom Property Values"
+        },
+        {
           "id": "https://css-tricks.com/?p=362285",
           "author": "Chris Coyier",
           "description": "I was just writing in my “What’s new in since CSS3?” article about recent and possible future changes to CSS colors. It’s weirdly a lot. There are just as many or more new and upcoming ways to define colors than …\nA Whistle-Stop Tour of 4 New CSS Color Features originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/new-css-color-features-preview/",
           "publishedOn": "2022-02-10T23:01:55.000Z",
-          "wordCount": 2431,
+          "wordCount": 2552,
           "title": "A Whistle-Stop Tour of 4 New CSS Color Features"
         },
         {
@@ -20,7 +38,7 @@
           "description": "This is a wonderful roundup from Jeremy, who I picture circling January 1, 2022, in red marker on a giant paper calendar back in 2008 and patiently counting the days.\nSee, there was a little smattering of internet drama …\nDevelopers Speculating About the Long-Distant Future: 2022 originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/developers-speculating-about-the-long-distant-future-2022/",
           "publishedOn": "2022-02-10T21:45:09.000Z",
-          "wordCount": 456,
+          "wordCount": 798,
           "title": "Developers Speculating About the Long-Distant Future: 2022"
         },
         {
@@ -56,7 +74,7 @@
           "description": "I was updating my portfolio and wanted to use the forward slash (/) as a visual element for the site’s main layout. I hadn’t attempted to create a slanted container in CSS before, but it seemed like it …\nHow to Make CSS Slanted Containers originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/css-slanted-containers/",
           "publishedOn": "2022-02-09T15:19:47.000Z",
-          "wordCount": 1281,
+          "wordCount": 1320,
           "title": "How to Make CSS Slanted Containers"
         },
         {
@@ -121,24 +139,6 @@
           "publishedOn": "2022-02-03T22:32:58.000Z",
           "wordCount": 396,
           "title": "Building a newbie-friendly codebase"
-        },
-        {
-          "id": "https://css-tricks.com/?p=362578",
-          "author": "Pankaj Parashar",
-          "description": "I interviewed Thierry Koblentz, creator of Atomic CSS, to understand the history and background that led to making of the popular CSS framework. Thierry, now retired, has vast experience writing CSS at large scale and has previously worked …\nThe Making of Atomic CSS: An Interview With Thierry Koblentz originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/thierry-koblentz-atomic-css/",
-          "publishedOn": "2022-02-03T15:24:01.000Z",
-          "wordCount": 3549,
-          "title": "The Making of Atomic CSS: An Interview With Thierry Koblentz"
-        },
-        {
-          "id": "https://css-tricks.com/?p=362893",
-          "author": "Chris Coyier",
-          "description": "Here’s a super classy demo from Michelle Barker over on Codrops that shows how to build a scrollable and draggable timeline with GSAP. It’s an interesting challenge to have two different interactions (vertical scrolling and horizontal dragging) be tied together …\nBuilding a Scrollable and Draggable Timeline with GSAP originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/building-a-scrollable-and-draggable-timeline-with-gsap/",
-          "publishedOn": "2022-02-02T21:11:55.000Z",
-          "wordCount": 381,
-          "title": "Building a Scrollable and Draggable Timeline with GSAP"
         }
       ]
     },
@@ -172,6 +172,60 @@
       "feedUrl": "https://news.hada.io/rss/news",
       "siteUrl": "https://news.hada.io",
       "articles": [
+        {
+          "id": "https://news.hada.io/topic?id=5959",
+          "author": null,
+          "description": "- iPaaS(Integration Platform as a Service) : 클라우드 기반 통합 솔루션\n- 통합 솔루션 선택 기준\nㅤ→ 보안 / 유연성 및 확장성 / 관리 / 개방형 플랫폼\n- 가트너 iPaaS 참조 모델\nㅤ→ 3가지 전문분야 : 전자 상거래 및 B2B 통합, 클라우드 통합, ESB 및 SOA 인프라 \n- iPaa...",
+          "link": "https://news.hada.io/topic?id=5959",
+          "publishedOn": "2022-02-12T00:26:59.000Z",
+          "wordCount": 113,
+          "title": "2022년 iPaaS 시장 동향"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=5958",
+          "author": null,
+          "description": "- 미니 코딩 챌린지를 풀어야만 보이는 단축 링크 생성\n- 특정 링크를 공유할 때 간단한 프로그래밍 언어 지식이 있는 방문자만 풀 수 있게 만드는 도구\nㅤ→ 현재는 JavaScript 만 지원",
+          "link": "https://news.hada.io/topic?id=5958",
+          "publishedOn": "2022-02-11T01:54:01.000Z",
+          "wordCount": 87,
+          "title": "CodeCaptcha - 개발자에게만 보이는 링크 만들기"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=5957",
+          "author": null,
+          "description": "* 21년에 발표된 웹 보안 연구 논문들 중에서 Top10을 선정\n10. Fuzzing for XSS via nested parsers\n9. HTTP Smuggling via Higher HTTP Versions\n8. Practical HTTP Header Smuggling\n7. JSON Interoperability Vulnerabilities\n6. Cache Poisoning at Scale\n5. Hidden ...",
+          "link": "https://news.hada.io/topic?id=5957",
+          "publishedOn": "2022-02-11T01:34:15.000Z",
+          "wordCount": 124,
+          "title": "2021년 최고의 웹 해킹 기술들"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=5956",
+          "author": null,
+          "description": "이번 주말에 뭘 하려고 계획 중인지 편하게 얘기해 보아요.\n\n읽을 책, 가볼 곳, 해볼 것.. 어떤 것이든 좋습니다.\n도움 요청이나 피드백 요청도 좋습니다.\n물론! 아무것도 하지 않고 쉬는 것도 훌륭합니다.\n\n* 지난 주말에 계획하셨던 일의 회고도 한번 남겨봐 주세요.",
+          "link": "https://news.hada.io/topic?id=5956",
+          "publishedOn": "2022-02-11T01:31:44.000Z",
+          "wordCount": 245,
+          "title": "Ask GN: 이번 주말에 뭐 하시나요?"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=5955",
+          "author": null,
+          "description": "- 파이썬 으로 작성한 앱을 iOS/Android/맥/리눅스/윈도우 등에 배포하게 해주는 툴킷 스위트\n- 크로스 플랫폼 위젯 툴킷인 Toga로 Native UI 지원 \n- Briefcase 가 파이썬 프로젝트를 네이티브 앱으로 변환 \nㅤ→ 맥은 .app \nㅤ→ 윈도우는 MSI 인스톨러 \nㅤ→ Linux는 AppImage...",
+          "link": "https://news.hada.io/topic?id=5955",
+          "publishedOn": "2022-02-11T01:09:27.000Z",
+          "wordCount": 101,
+          "title": "BeeWare - Python 크로스플랫폼 오픈소스"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=5954",
+          "author": null,
+          "description": "- 이후 12개월마다 메이저 릴리즈로 변경\n- PHP 8이 최소 버전 \n- 새로운 디자인의 routes:list\n- test --coverage \n- 익명 Stub 마이그레인션이 기본 값\n- 새로운 QUery Builder 인터페이스 \n- SwiftMailer 를 Symfony Mailer 로 교체 \n- Flysystem 3.x 지원 ...",
+          "link": "https://news.hada.io/topic?id=5954",
+          "publishedOn": "2022-02-11T00:56:42.000Z",
+          "wordCount": 102,
+          "title": "Laravel 9 릴리즈"
+        },
         {
           "id": "https://news.hada.io/topic?id=5953",
           "author": null,
@@ -207,60 +261,6 @@
           "publishedOn": "2022-02-10T06:37:49.000Z",
           "wordCount": 174,
           "title": "Ask GN: 교류, 직류를 혼용하는 회로에서 접지는 분리해야 하나요??"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=5949",
-          "author": null,
-          "description": "* React 18 rc가 확정되면서 어떤 기능들이 추가가 되었는지 알아보자\n\n* Automatic batching for fewer renders\n    * React 18 이후부터는 promise, setTimeout 등에서 발생한 연속적인 setState도 배치로 처리\n\n* SSR support for Suspense\n    * SSr에서도 Suspense를...",
-          "link": "https://news.hada.io/topic?id=5949",
-          "publishedOn": "2022-02-10T02:50:14.000Z",
-          "wordCount": 194,
-          "title": "React 18 미리보기"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=5947",
-          "author": null,
-          "description": "- 시애틀의 KUOW(94.9) 방송에서 실수로 확장자가 없는 이미지 파일을 전송\n- 해당 HD라디오를 듣던 2014~2017 Mazda 자동차의 인포테인먼트 시스템이 먹통이 됨\nㅤ→ 네비게이션/블루투스가 안되고 다른 방송으로 바꾸는 것도 불가 \n- Mazda는 해당 차들의 Connectivy Master Unit을 교체해야 ...",
-          "link": "https://news.hada.io/topic?id=5947",
-          "publishedOn": "2022-02-10T01:38:02.000Z",
-          "wordCount": 154,
-          "title": "라디오 방송국이 실수로 송출한 파일로 Mazda 자동차가 고장"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=5946",
-          "author": null,
-          "description": "- 더해서 2로 나누는 것은 오버플로우가 발생 \nㅤ→ (a + b) / 2\n- 둘중에 큰 수를 알면 두 값의 차이를 작은 수에 더해서 2로 나누는 것도 가능 \nㅤ→ low + (high - low) / 2\n- 어떤게 큰 수인지 몰라도 가능한 알고리듬은 2016년에 특허가 만료됨\nㅤ→ (a / 2) + (b / 2) + (a...",
-          "link": "https://news.hada.io/topic?id=5946",
-          "publishedOn": "2022-02-10T01:16:42.000Z",
-          "wordCount": 189,
-          "title": "오버플로우 없이 2개 unsigned int의 평균 구하기"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=5945",
-          "author": null,
-          "description": "# 세가지 모델 \n- 6.8' S22 Ultra : S + Note, S펜 내장, 12GB램, 쿼드 카메라, 12GB램 \n- 6.6' S22+ 와 6.1' S22 : 8GB램, 트리플 카메라\n\n- NPU를 내장한 4나노 옥타코어 프로세서\n- 나이토그래피, WiFi 6E, UWB \n- 120Hz  다이내믹 AMOLED 2X 디스플레이\n- 아머...",
-          "link": "https://news.hada.io/topic?id=5945",
-          "publishedOn": "2022-02-10T01:03:07.000Z",
-          "wordCount": 131,
-          "title": "삼성, 갤럭시 S22 시리즈 공개"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=5944",
-          "author": null,
-          "description": "- 인프라 걱정없이 다양한 공공 서비스를 빠르게 런칭하기 위한 인프라 \n- 프로토타입/알파/베타/라이브 등 다양한 환경 구성 가능\n- AWS 위에서 Cloud Foundry를 이용하여 호스팅 \nㅤ→ 빌드팩 지원 : Go, Node.js, Ruby, Python, R, PHP..\nㅤ→ 마켓플레이스에서 PostgreSQL, S3, Elas...",
-          "link": "https://news.hada.io/topic?id=5944",
-          "publishedOn": "2022-02-10T00:44:25.000Z",
-          "wordCount": 144,
-          "title": "GOV.UK PaaS - 영국의 공공 서비스를 위한 클라우드"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=5943",
-          "author": null,
-          "description": "- 매달 CT 스캐너로 특정 물품을 상세히 찍어서 공개하는 페이지\n- 스크롤 하면서 물체를 회전시키며 내부를 설명하는 형식\n\n- Polaroid가 1948년에 처음으로 즉석 카메라 개발 \n- 1980년대 들어와서 스스로를 재창조하며 혁신을 계속 \n\n* Polaroid 600 AF (1997)\n...",
-          "link": "https://news.hada.io/topic?id=5943",
-          "publishedOn": "2022-02-10T00:22:33.000Z",
-          "wordCount": 135,
-          "title": "이 달의 CT 스캔 : 즉석 카메라"
         }
       ]
     },
@@ -322,15 +322,6 @@
           "publishedOn": "2022-01-14T01:09:57.000Z",
           "wordCount": 726,
           "title": "NodeJS 와 PostgreSQL Query Timeout"
-        },
-        {
-          "id": "https://jojoldu.tistory.com/630",
-          "author": "향로",
-          "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\nPostgreSQL은 버전별로 굉장히 많은 개선이 있다. \n2022년 1월 13일 현재, AWS RDS Aurora는 PostgreSQL 버전을 10, 11, 12, 13까지 지원하고 있다.\n실제 PostgreSQL은 14까지 나와있으며, 현재 Aurora가 아닌 RDS는 14 RC1 까지 준비되었다.\n10 버전이 이미 출시된지 4년 이상 지났고, 현재까지 메이저 14버전까지 출시되면서 성능/자원관리/기능등 여러 개선이 있었다.\n특히나 인덱스가 10.x에서 비효율적으로 작동하는 부분이 굉장히 크기 때문에 이를 버전 업그레이드를 통해 성능개선 효과를 볼 필요가 있다.\n10 vs 11 비교\nPostgreSQL의 10 ~ 14버전 간 여러 기능 비교 중, 인덱스 & 제약조건에 관한 비교를 본다.\nPostgreSQL feature Matrix\n10버전대에서 두드러지는 인덱스 단점은\nB-tree 커버링 인덱스 미지원\nPK 인덱스 우선\n\nPK 인덱스 우선되는 점 때문에 발생할 수 있는 케이스는 이전 글을 참고한다\n등이 있다.\n그러다보니 커버링 인덱스를 생성해도 제대로 효과를 못본다.\n커버링 인덱스란?\n11버전으로 업데이트만 되어도 얼마나 큰 성능효과가 있는지 살펴보자.\n아래 모든 쿼리는 성능 차이가 심하게 나는 쿼리들을 위주로 선택했다. \n모든 쿼리에서 성능향상이 더 있다는 것을 의미하진 않는다. \n다만, 성능이 더 …",
-          "link": "https://jojoldu.tistory.com/630",
-          "publishedOn": "2022-01-12T23:39:54.000Z",
-          "wordCount": 626,
-          "title": "PostgreSQL (Aurora) 10 vs 11 버전 성능 비교"
         }
       ]
     }

@@ -1,10 +1,127 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-02-11T01:06:32.309Z</id>
+    <id>urn:2022-02-12T01:04:46.412Z</id>
     <title>osmos::feed</title>
-    <updated>2022-02-11T01:06:32.309Z</updated>
+    <updated>2022-02-12T01:04:46.412Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[2022년 iPaaS 시장 동향]]></title>
+        <id>https://news.hada.io/topic?id=5959</id>
+        <link href="https://news.hada.io/topic?id=5959"/>
+        <updated>2022-02-12T00:26:59.000Z</updated>
+        <summary type="html"><![CDATA[- iPaaS(Integration Platform as a Service) : 클라우드 기반 통합 솔루션
+- 통합 솔루션 선택 기준
+ㅤ→ 보안 / 유연성 및 확장성 / 관리 / 개방형 플랫폼
+- 가트너 iPaaS 참조 모델
+ㅤ→ 3가지 전문분야 : 전자 상거래 및 B2B 통합, 클라우드 통합, ESB 및 SOA 인프라 
+- iPaa...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[9 New React and JavaScript Links for February 2022]]></title>
+        <id>https://css-tricks.com/?p=363396</id>
+        <link href="https://css-tricks.com/9-new-react-and-javascript-links-for-february-2022/"/>
+        <updated>2022-02-11T23:11:28.000Z</updated>
+        <summary type="html"><![CDATA[Every now and then, I find that I’ve accumulated a bunch of links about various things I find interesting. Like React and JavaScript! Here’s a list of nine links to other articles about them that I’ve been saving up and …
+9 New React and JavaScript Links for February 2022 originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multi-Value CSS Properties With Optional Custom Property Values]]></title>
+        <id>https://css-tricks.com/?p=363027</id>
+        <link href="https://css-tricks.com/optional-custom-property-values-trick/"/>
+        <updated>2022-02-11T15:30:11.000Z</updated>
+        <summary type="html"><![CDATA[Imagine you have an element with a multi-value CSS property, such as transform: optional custom property values:
+.el {
+  transform: translate(100px) scale(1.5) skew(5deg);
+}
+Now imagine you don’t always want all the transform values to be applied, so some …
+Multi-Value CSS Properties With Optional Custom Property Values originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Yair Even Or</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CodeCaptcha - 개발자에게만 보이는 링크 만들기]]></title>
+        <id>https://news.hada.io/topic?id=5958</id>
+        <link href="https://news.hada.io/topic?id=5958"/>
+        <updated>2022-02-11T01:54:01.000Z</updated>
+        <summary type="html"><![CDATA[- 미니 코딩 챌린지를 풀어야만 보이는 단축 링크 생성
+- 특정 링크를 공유할 때 간단한 프로그래밍 언어 지식이 있는 방문자만 풀 수 있게 만드는 도구
+ㅤ→ 현재는 JavaScript 만 지원]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021년 최고의 웹 해킹 기술들]]></title>
+        <id>https://news.hada.io/topic?id=5957</id>
+        <link href="https://news.hada.io/topic?id=5957"/>
+        <updated>2022-02-11T01:34:15.000Z</updated>
+        <summary type="html"><![CDATA[* 21년에 발표된 웹 보안 연구 논문들 중에서 Top10을 선정
+10. Fuzzing for XSS via nested parsers
+9. HTTP Smuggling via Higher HTTP Versions
+8. Practical HTTP Header Smuggling
+7. JSON Interoperability Vulnerabilities
+6. Cache Poisoning at Scale
+5. Hidden ...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=5956</id>
+        <link href="https://news.hada.io/topic?id=5956"/>
+        <updated>2022-02-11T01:31:44.000Z</updated>
+        <summary type="html"><![CDATA[이번 주말에 뭘 하려고 계획 중인지 편하게 얘기해 보아요.
+
+읽을 책, 가볼 곳, 해볼 것.. 어떤 것이든 좋습니다.
+도움 요청이나 피드백 요청도 좋습니다.
+물론! 아무것도 하지 않고 쉬는 것도 훌륭합니다.
+
+* 지난 주말에 계획하셨던 일의 회고도 한번 남겨봐 주세요.]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BeeWare - Python 크로스플랫폼 오픈소스]]></title>
+        <id>https://news.hada.io/topic?id=5955</id>
+        <link href="https://news.hada.io/topic?id=5955"/>
+        <updated>2022-02-11T01:09:27.000Z</updated>
+        <summary type="html"><![CDATA[- 파이썬 으로 작성한 앱을 iOS/Android/맥/리눅스/윈도우 등에 배포하게 해주는 툴킷 스위트
+- 크로스 플랫폼 위젯 툴킷인 Toga로 Native UI 지원 
+- Briefcase 가 파이썬 프로젝트를 네이티브 앱으로 변환 
+ㅤ→ 맥은 .app 
+ㅤ→ 윈도우는 MSI 인스톨러 
+ㅤ→ Linux는 AppImage...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Laravel 9 릴리즈]]></title>
+        <id>https://news.hada.io/topic?id=5954</id>
+        <link href="https://news.hada.io/topic?id=5954"/>
+        <updated>2022-02-11T00:56:42.000Z</updated>
+        <summary type="html"><![CDATA[- 이후 12개월마다 메이저 릴리즈로 변경
+- PHP 8이 최소 버전 
+- 새로운 디자인의 routes:list
+- test --coverage 
+- 익명 Stub 마이그레인션이 기본 값
+- 새로운 QUery Builder 인터페이스 
+- SwiftMailer 를 Symfony Mailer 로 교체 
+- Flysystem 3.x 지원 ...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gyroflow - Gyro를 이용한 비디오 안정화 툴 오픈소스]]></title>
         <id>https://news.hada.io/topic?id=5953</id>
@@ -106,98 +223,6 @@ A Chrome Extension for Cloudinary That Helps You Pluck Out Useful Media URLs Fro
 'DC(전원공급기)는 바이어스', 'AC(함수발생기)는 시그널' 이렇게 사용할 때,
 
 접지를 분리해야 하나요?? 아니면 공통으로 사용해야 하나요 ??]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React 18 미리보기]]></title>
-        <id>https://news.hada.io/topic?id=5949</id>
-        <link href="https://news.hada.io/topic?id=5949"/>
-        <updated>2022-02-10T02:50:14.000Z</updated>
-        <summary type="html"><![CDATA[* React 18 rc가 확정되면서 어떤 기능들이 추가가 되었는지 알아보자
-
-* Automatic batching for fewer renders
-    * React 18 이후부터는 promise, setTimeout 등에서 발생한 연속적인 setState도 배치로 처리
-
-* SSR support for Suspense
-    * SSr에서도 Suspense를...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라디오 방송국이 실수로 송출한 파일로 Mazda 자동차가 고장]]></title>
-        <id>https://news.hada.io/topic?id=5947</id>
-        <link href="https://news.hada.io/topic?id=5947"/>
-        <updated>2022-02-10T01:38:02.000Z</updated>
-        <summary type="html"><![CDATA[- 시애틀의 KUOW(94.9) 방송에서 실수로 확장자가 없는 이미지 파일을 전송
-- 해당 HD라디오를 듣던 2014~2017 Mazda 자동차의 인포테인먼트 시스템이 먹통이 됨
-ㅤ→ 네비게이션/블루투스가 안되고 다른 방송으로 바꾸는 것도 불가 
-- Mazda는 해당 차들의 Connectivy Master Unit을 교체해야 ...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오버플로우 없이 2개 unsigned int의 평균 구하기]]></title>
-        <id>https://news.hada.io/topic?id=5946</id>
-        <link href="https://news.hada.io/topic?id=5946"/>
-        <updated>2022-02-10T01:16:42.000Z</updated>
-        <summary type="html"><![CDATA[- 더해서 2로 나누는 것은 오버플로우가 발생 
-ㅤ→ (a + b) / 2
-- 둘중에 큰 수를 알면 두 값의 차이를 작은 수에 더해서 2로 나누는 것도 가능 
-ㅤ→ low + (high - low) / 2
-- 어떤게 큰 수인지 몰라도 가능한 알고리듬은 2016년에 특허가 만료됨
-ㅤ→ (a / 2) + (b / 2) + (a...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삼성, 갤럭시 S22 시리즈 공개]]></title>
-        <id>https://news.hada.io/topic?id=5945</id>
-        <link href="https://news.hada.io/topic?id=5945"/>
-        <updated>2022-02-10T01:03:07.000Z</updated>
-        <summary type="html"><![CDATA[# 세가지 모델 
-- 6.8' S22 Ultra : S + Note, S펜 내장, 12GB램, 쿼드 카메라, 12GB램 
-- 6.6' S22+ 와 6.1' S22 : 8GB램, 트리플 카메라
-
-- NPU를 내장한 4나노 옥타코어 프로세서
-- 나이토그래피, WiFi 6E, UWB 
-- 120Hz  다이내믹 AMOLED 2X 디스플레이
-- 아머...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GOV.UK PaaS - 영국의 공공 서비스를 위한 클라우드]]></title>
-        <id>https://news.hada.io/topic?id=5944</id>
-        <link href="https://news.hada.io/topic?id=5944"/>
-        <updated>2022-02-10T00:44:25.000Z</updated>
-        <summary type="html"><![CDATA[- 인프라 걱정없이 다양한 공공 서비스를 빠르게 런칭하기 위한 인프라 
-- 프로토타입/알파/베타/라이브 등 다양한 환경 구성 가능
-- AWS 위에서 Cloud Foundry를 이용하여 호스팅 
-ㅤ→ 빌드팩 지원 : Go, Node.js, Ruby, Python, R, PHP..
-ㅤ→ 마켓플레이스에서 PostgreSQL, S3, Elas...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이 달의 CT 스캔 : 즉석 카메라]]></title>
-        <id>https://news.hada.io/topic?id=5943</id>
-        <link href="https://news.hada.io/topic?id=5943"/>
-        <updated>2022-02-10T00:22:33.000Z</updated>
-        <summary type="html"><![CDATA[- 매달 CT 스캐너로 특정 물품을 상세히 찍어서 공개하는 페이지
-- 스크롤 하면서 물체를 회전시키며 내부를 설명하는 형식
-
-- Polaroid가 1948년에 처음으로 즉석 카메라 개발 
-- 1980년대 들어와서 스스로를 재창조하며 혁신을 계속 
-
-* Polaroid 600 AF (1997)
-...]]></summary>
         <author>
             <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
@@ -326,28 +351,6 @@ Unidirectional data flows. Make it easy to follow the app flow.
 No magic numbers. I’d add they are even worse in CSS
 …
 Building a newbie-friendly codebase originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Making of Atomic CSS: An Interview With Thierry Koblentz]]></title>
-        <id>https://css-tricks.com/?p=362578</id>
-        <link href="https://css-tricks.com/thierry-koblentz-atomic-css/"/>
-        <updated>2022-02-03T15:24:01.000Z</updated>
-        <summary type="html"><![CDATA[I interviewed Thierry Koblentz, creator of Atomic CSS, to understand the history and background that led to making of the popular CSS framework. Thierry, now retired, has vast experience writing CSS at large scale and has previously worked …
-The Making of Atomic CSS: An Interview With Thierry Koblentz originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Pankaj Parashar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Scrollable and Draggable Timeline with GSAP]]></title>
-        <id>https://css-tricks.com/?p=362893</id>
-        <link href="https://css-tricks.com/building-a-scrollable-and-draggable-timeline-with-gsap/"/>
-        <updated>2022-02-02T21:11:55.000Z</updated>
-        <summary type="html"><![CDATA[Here’s a super classy demo from Michelle Barker over on Codrops that shows how to build a scrollable and draggable timeline with GSAP. It’s an interesting challenge to have two different interactions (vertical scrolling and horizontal dragging) be tied together …
-Building a Scrollable and Draggable Timeline with GSAP originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
         </author>
@@ -611,41 +614,6 @@ const client = new pg.Pool({
   user: 'test',
   password: 'test',
   database: 't…]]></summary>
-        <author>
-            <name>향로</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PostgreSQL (Aurora) 10 vs 11 버전 성능 비교]]></title>
-        <id>https://jojoldu.tistory.com/630</id>
-        <link href="https://jojoldu.tistory.com/630"/>
-        <updated>2022-01-12T23:39:54.000Z</updated>
-        <summary type="html"><![CDATA[반응형
-
-                    
-                    (adsbygoogle = window.adsbygoogle || []).push({}); 
-               
-
-PostgreSQL은 버전별로 굉장히 많은 개선이 있다. 
-2022년 1월 13일 현재, AWS RDS Aurora는 PostgreSQL 버전을 10, 11, 12, 13까지 지원하고 있다.
-실제 PostgreSQL은 14까지 나와있으며, 현재 Aurora가 아닌 RDS는 14 RC1 까지 준비되었다.
-10 버전이 이미 출시된지 4년 이상 지났고, 현재까지 메이저 14버전까지 출시되면서 성능/자원관리/기능등 여러 개선이 있었다.
-특히나 인덱스가 10.x에서 비효율적으로 작동하는 부분이 굉장히 크기 때문에 이를 버전 업그레이드를 통해 성능개선 효과를 볼 필요가 있다.
-10 vs 11 비교
-PostgreSQL의 10 ~ 14버전 간 여러 기능 비교 중, 인덱스 & 제약조건에 관한 비교를 본다.
-PostgreSQL feature Matrix
-10버전대에서 두드러지는 인덱스 단점은
-B-tree 커버링 인덱스 미지원
-PK 인덱스 우선
-
-PK 인덱스 우선되는 점 때문에 발생할 수 있는 케이스는 이전 글을 참고한다
-등이 있다.
-그러다보니 커버링 인덱스를 생성해도 제대로 효과를 못본다.
-커버링 인덱스란?
-11버전으로 업데이트만 되어도 얼마나 큰 성능효과가 있는지 살펴보자.
-아래 모든 쿼리는 성능 차이가 심하게 나는 쿼리들을 위주로 선택했다. 
-모든 쿼리에서 성능향상이 더 있다는 것을 의미하진 않는다. 
-다만, 성능이 더 …]]></summary>
         <author>
             <name>향로</name>
         </author>
