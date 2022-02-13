@@ -1,23 +1,195 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-02-12T01:04:46.412Z</id>
+    <id>urn:2022-02-13T01:06:05.451Z</id>
     <title>osmos::feed</title>
-    <updated>2022-02-12T01:04:46.412Z</updated>
-    <generator>osmosfeed 1.12.0</generator>
+    <updated>2022-02-13T01:06:05.451Z</updated>
+    <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[2022년 iPaaS 시장 동향]]></title>
-        <id>https://news.hada.io/topic?id=5959</id>
-        <link href="https://news.hada.io/topic?id=5959"/>
-        <updated>2022-02-12T00:26:59.000Z</updated>
-        <summary type="html"><![CDATA[- iPaaS(Integration Platform as a Service) : 클라우드 기반 통합 솔루션
-- 통합 솔루션 선택 기준
-ㅤ→ 보안 / 유연성 및 확장성 / 관리 / 개방형 플랫폼
-- 가트너 iPaaS 참조 모델
-ㅤ→ 3가지 전문분야 : 전자 상거래 및 B2B 통합, 클라우드 통합, ESB 및 SOA 인프라 
-- iPaa...]]></summary>
+        <title type="html"><![CDATA[JavaScript로 프린터 드라이버 작성하기]]></title>
+        <id>https://news.hada.io/topic?id=5969</id>
+        <link href="https://news.hada.io/topic?id=5969"/>
+        <updated>2022-02-13T00:49:48.000Z</updated>
+        <summary type="html"><![CDATA[- 아마존에서 구입한 저가형 Polono 라벨 프린터를 업계 표준인 고가형 Zebra 처럼 사용하고 싶음
+ㅤ→ Zebra는 ASCII 텍스트를 시리얼로 보내서 라벨을 프린트 하는 언어인 ZPL 사용 
+- 라즈베리 파이에 연결해서 택배 송장 프린터로 사용하고 싶었지만 드라이버가 arm용이 없음 
+- 배송회사인...]]></summary>
         <author>
             <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Puppeteer-to-Playwright - 스크립트 변환 도구]]></title>
+        <id>https://news.hada.io/topic?id=5968</id>
+        <link href="https://news.hada.io/topic?id=5968"/>
+        <updated>2022-02-13T00:25:22.000Z</updated>
+        <summary type="html"><![CDATA[기존 Puppeteer 스크립트를 Playwright 로 변환 
+- import 변환 
+- 기본 메소드들을 새 API로 변환 ( setViewport → setViewportSize )
+- 브라우저 컨텍스트 명시적으로 생성 
+- explicit waiting 제거 
+- 쿠키 관련 명령 변환 
+
+현재 미지원 기능 
+- 파일...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firecracker v1.0.0 릴리즈]]></title>
+        <id>https://news.hada.io/topic?id=5967</id>
+        <link href="https://news.hada.io/topic?id=5967"/>
+        <updated>2022-02-13T00:07:52.000Z</updated>
+        <summary type="html"><![CDATA[- AWS가 Lambda를 위해 만들었던 서버리스용 microVM 가상화 솔루션 
+- Linux KVM을 기반으로 하는 가상 머신 모니터(VMM)를 구현하고 RESTful API를 제공 
+- 필요없는 것들을 제외하고 메모리 사용량을 줄인 샌드박스 환경으로 최대한 가볍고 안전하게 
+ㅤ→ Firecracker VM은 125ms 내에 시작...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 여러분의 닉네임은 어떻게 만들어졌나요?]]></title>
+        <id>https://news.hada.io/topic?id=5966</id>
+        <link href="https://news.hada.io/topic?id=5966"/>
+        <updated>2022-02-12T16:20:34.000Z</updated>
+        <summary type="html"><![CDATA[제 2의 이름이라 할 수 있는, 여러분의 닉네임이 만들어진 방법? 계기?와 뜻이 궁금합니다 😀]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[브라우저 이해하기 시리즈]]></title>
+        <id>https://news.hada.io/topic?id=5965</id>
+        <link href="https://news.hada.io/topic?id=5965"/>
+        <updated>2022-02-12T13:15:45.000Z</updated>
+        <summary type="html"><![CDATA[Google Chrome 팀에서 근무하는 Kosamari 가 작성한 브라우저의 동작 방식 아티클들과
+1️⃣ http://bit.ly/browsers-pt1 
+2️⃣ http://bit.ly/browsers-pt2 
+3️⃣ http://bit.ly/browsers-pt3 
+4️⃣ http://bit.ly/browsers-pt4
+
+브라우저의 동작 방식에 대해서 이야기...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stub 을 이용한 Service 계층 단위 테스트 하기]]></title>
+        <id>https://jojoldu.tistory.com/637</id>
+        <link href="https://jojoldu.tistory.com/637"/>
+        <updated>2022-02-12T10:52:06.000Z</updated>
+        <summary type="html"><![CDATA[반응형
+
+                    
+                    (adsbygoogle = window.adsbygoogle || []).push({}); 
+               
+
+간혹 Service 계층을 항상 통합 테스트로만 작성하는 경우를 보게됩니다. 
+모든 Service를 통합 테스트 혹은 E2E 테스트로만 검증하기 보다는 상황에 따라 적절한 Stub을 사용하여 단위 테스트로 작성한다면 전체 테스트 속도 향상에 도움이 됩니다.
+몇가지 예제를 통해 Stub을 사용하는 단위 테스트 코드를 보겠습니다.
+모든 코드는 Github 에 있습니다..
+예제 1.
+첫번째 예제로 다음과 같은 서비스 로직에 대한 단위 테스트입니다.
+export class OrderService {
+    constructor(private readonly orderRepository: OrderRepository) {
+    }
+
+    validateCompletedOrder(orderId: number): void {
+        const order = this.orderRepository.findById(orderId);
+        if(order.isNotCompleted()) {
+            throw new Error('아직 완료처리되지 못했습니다.');
+        }
+    }
+}
+코드의 흐름을 이야기해보면
+orderRepository를 통해 주문을 조회한다
+조회된 주문 상태가 완료가 아니면 메세지와 함께 에러가 발생한다
+조회된 주문 상태가 완료처리인 경우 그대로 메소드가 종료
+여…]]></summary>
+        <author>
+            <name>향로</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 여러분의 방에는 어떤 독특하며 애용하는 것이 있나요?]]></title>
+        <id>https://news.hada.io/topic?id=5964</id>
+        <link href="https://news.hada.io/topic?id=5964"/>
+        <updated>2022-02-12T09:48:06.000Z</updated>
+        <summary type="html"><![CDATA[다른 사람들은 잘 모르는데 여러분이 애용하면서도 독특한 기기들이 궁금해요. 요즘 제가 지름신이 안 와서(... ) 아이패드나 맥북에는 그만 더 이상 끌리지 않게 되었는데. 무언가 색다른 걸 사보고 싶거든요. 'ㅁ '!]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애플의 새로운 'realityOS' 깃헙 커밋에서 발견]]></title>
+        <id>https://news.hada.io/topic?id=5963</id>
+        <link href="https://news.hada.io/topic?id=5963"/>
+        <updated>2022-02-12T04:23:56.000Z</updated>
+        <summary type="html"><![CDATA[- 애플이 준비중인 AR/VR용 OS 
+- 기존 watchOS 등과 마찬가지로 "com.apple.platform.realityos" 명칭을 가진 플랫폼이 명시됨
+- 자체 OS & 바이너리 및 시뮬레이터도 포함 
+- 아마도 2개의 기기가 개발중이라 VR 기기가 먼저 나오고, AR 글래스는 그 뒤에 나올지도 모른다는 예...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPT-NeoX-20B 에게 사칙연산 질문을 물어봤더니]]></title>
+        <id>https://news.hada.io/topic?id=5962</id>
+        <link href="https://news.hada.io/topic?id=5962"/>
+        <updated>2022-02-12T02:06:19.000Z</updated>
+        <summary type="html"><![CDATA[- GPT-3 규모의 모델을 오픈소스로 만든 GPT-NeoX 에게 간단한 사칙연산 질문을 수행 
+- 100개중에 10개만 정답. 하지만 대부분이 정답에 *근접*
+Q: "What is 2653 * 30641?"
+A: 82356113 (틀림)
+정답은 81290573 
+- "언어 모델"은 기본적으로 수학은 잘 하지...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EdgeDB 1.0 릴리즈]]></title>
+        <id>https://news.hada.io/topic?id=5961</id>
+        <link href="https://news.hada.io/topic?id=5961"/>
+        <updated>2022-02-12T01:26:55.000Z</updated>
+        <summary type="html"><![CDATA[- PostgreSQL 기반의 오픈소스 Graph-Relational DB 
+- SQL보다 뛰어난 표현력을 지닌 EdgeQL 언어 
+- 리치 타입 시스템 
+- 선언형 스키마 : 상속, 계산 속성, 복잡한 제약조건(곧 액세스 제어규칙까지 지원 예정)까지 표현 가능 
+- 내장 마이그레이션 시스템 : 스키마를 자동 또는 대화...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[jless - 커맨드라인 JSON 뷰어]]></title>
+        <id>https://news.hada.io/topic?id=5960</id>
+        <link href="https://news.hada.io/topic?id=5960"/>
+        <updated>2022-02-12T01:05:02.000Z</updated>
+        <summary type="html"><![CDATA[- 외부 API 및 페이로드 디버깅용
+- JSON 구조를 커서로 이동하며 탐색 가능
+ㅤ→ 라인/노드/뎁스 단위 이동 
+- 계층 구조 표현 및 신택스 하이라이팅 지원 
+- 정규식 검색 지원 
+- Rust 오픈소스 (맥/리눅스 바이너리 제공)]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your CSS reset needs text-size-adjust (probably)]]></title>
+        <id>https://css-tricks.com/?p=363498</id>
+        <link href="https://css-tricks.com/your-css-reset-needs-text-size-adjust-probably/"/>
+        <updated>2022-02-12T00:46:40.000Z</updated>
+        <summary type="html"><![CDATA[Kilian Valkhof:
+[…] Mobile Safari increases the default font-size when you switch a website from portrait to landscape. On phones that is, it doesn’t do it on iPad. Safari has been doing this for a long time, as a 
+…
+Your CSS reset needs text-size-adjust (probably) originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
@@ -26,7 +198,7 @@
         <link href="https://css-tricks.com/9-new-react-and-javascript-links-for-february-2022/"/>
         <updated>2022-02-11T23:11:28.000Z</updated>
         <summary type="html"><![CDATA[Every now and then, I find that I’ve accumulated a bunch of links about various things I find interesting. Like React and JavaScript! Here’s a list of nine links to other articles about them that I’ve been saving up and …
-9 New React and JavaScript Links for February 2022 originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+9 New React and JavaScript Links for February 2022 originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Chris Coyier</name>
         </author>
@@ -41,118 +213,9 @@
   transform: translate(100px) scale(1.5) skew(5deg);
 }
 Now imagine you don’t always want all the transform values to be applied, so some …
-Multi-Value CSS Properties With Optional Custom Property Values originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+Multi-Value CSS Properties With Optional Custom Property Values originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Yair Even Or</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CodeCaptcha - 개발자에게만 보이는 링크 만들기]]></title>
-        <id>https://news.hada.io/topic?id=5958</id>
-        <link href="https://news.hada.io/topic?id=5958"/>
-        <updated>2022-02-11T01:54:01.000Z</updated>
-        <summary type="html"><![CDATA[- 미니 코딩 챌린지를 풀어야만 보이는 단축 링크 생성
-- 특정 링크를 공유할 때 간단한 프로그래밍 언어 지식이 있는 방문자만 풀 수 있게 만드는 도구
-ㅤ→ 현재는 JavaScript 만 지원]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021년 최고의 웹 해킹 기술들]]></title>
-        <id>https://news.hada.io/topic?id=5957</id>
-        <link href="https://news.hada.io/topic?id=5957"/>
-        <updated>2022-02-11T01:34:15.000Z</updated>
-        <summary type="html"><![CDATA[* 21년에 발표된 웹 보안 연구 논문들 중에서 Top10을 선정
-10. Fuzzing for XSS via nested parsers
-9. HTTP Smuggling via Higher HTTP Versions
-8. Practical HTTP Header Smuggling
-7. JSON Interoperability Vulnerabilities
-6. Cache Poisoning at Scale
-5. Hidden ...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
-        <id>https://news.hada.io/topic?id=5956</id>
-        <link href="https://news.hada.io/topic?id=5956"/>
-        <updated>2022-02-11T01:31:44.000Z</updated>
-        <summary type="html"><![CDATA[이번 주말에 뭘 하려고 계획 중인지 편하게 얘기해 보아요.
-
-읽을 책, 가볼 곳, 해볼 것.. 어떤 것이든 좋습니다.
-도움 요청이나 피드백 요청도 좋습니다.
-물론! 아무것도 하지 않고 쉬는 것도 훌륭합니다.
-
-* 지난 주말에 계획하셨던 일의 회고도 한번 남겨봐 주세요.]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BeeWare - Python 크로스플랫폼 오픈소스]]></title>
-        <id>https://news.hada.io/topic?id=5955</id>
-        <link href="https://news.hada.io/topic?id=5955"/>
-        <updated>2022-02-11T01:09:27.000Z</updated>
-        <summary type="html"><![CDATA[- 파이썬 으로 작성한 앱을 iOS/Android/맥/리눅스/윈도우 등에 배포하게 해주는 툴킷 스위트
-- 크로스 플랫폼 위젯 툴킷인 Toga로 Native UI 지원 
-- Briefcase 가 파이썬 프로젝트를 네이티브 앱으로 변환 
-ㅤ→ 맥은 .app 
-ㅤ→ 윈도우는 MSI 인스톨러 
-ㅤ→ Linux는 AppImage...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Laravel 9 릴리즈]]></title>
-        <id>https://news.hada.io/topic?id=5954</id>
-        <link href="https://news.hada.io/topic?id=5954"/>
-        <updated>2022-02-11T00:56:42.000Z</updated>
-        <summary type="html"><![CDATA[- 이후 12개월마다 메이저 릴리즈로 변경
-- PHP 8이 최소 버전 
-- 새로운 디자인의 routes:list
-- test --coverage 
-- 익명 Stub 마이그레인션이 기본 값
-- 새로운 QUery Builder 인터페이스 
-- SwiftMailer 를 Symfony Mailer 로 교체 
-- Flysystem 3.x 지원 ...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gyroflow - Gyro를 이용한 비디오 안정화 툴 오픈소스]]></title>
-        <id>https://news.hada.io/topic?id=5953</id>
-        <link href="https://news.hada.io/topic?id=5953"/>
-        <updated>2022-02-11T00:38:01.000Z</updated>
-        <summary type="html"><![CDATA[- 고성능의 안정화(Stabilization) 기능 지원 
-- 크로스플랫폼 UI (윈/맥/리눅스, iOS/Android 지원 예정)
-- 실시간 미리보기 및 조정 
-- GPU 기반 처리 및 렌더링
-- 10-bit, 16-bit 4:4:4 비디오까지 지원 
-- GoPro, Sony, Insta360 등의 다양한 하드웨어 및 Sensor Logger등 모...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS 학습 자료 링크모음]]></title>
-        <id>https://news.hada.io/topic?id=5952</id>
-        <link href="https://news.hada.io/topic?id=5952"/>
-        <updated>2022-02-11T00:23:45.000Z</updated>
-        <summary type="html"><![CDATA[- AWS 초보자용 교육 자료
-- AWS 디지털 교육
-- 학습 참고자료
-- AWS 공식 문서
-- 핸즈온 실습
-- 아키텍처 다이어그램 작성 관련
-- 필요한 자료들을 찾는 방법
-- 자격증관련
-- 그 밖의 읽을거리]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
     </entry>
     <entry>
@@ -161,7 +224,7 @@ Multi-Value CSS Properties With Optional Custom Property Values originally publi
         <link href="https://css-tricks.com/new-css-color-features-preview/"/>
         <updated>2022-02-10T23:01:55.000Z</updated>
         <summary type="html"><![CDATA[I was just writing in my “What’s new in since CSS3?” article about recent and possible future changes to CSS colors. It’s weirdly a lot. There are just as many or more new and upcoming ways to define colors than …
-A Whistle-Stop Tour of 4 New CSS Color Features originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+A Whistle-Stop Tour of 4 New CSS Color Features originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Chris Coyier</name>
         </author>
@@ -173,7 +236,7 @@ A Whistle-Stop Tour of 4 New CSS Color Features originally published on CSS-Tric
         <updated>2022-02-10T21:45:09.000Z</updated>
         <summary type="html"><![CDATA[This is a wonderful roundup from Jeremy, who I picture circling January 1, 2022, in red marker on a giant paper calendar back in 2008 and patiently counting the days.
 See, there was a little smattering of internet drama …
-Developers Speculating About the Long-Distant Future: 2022 originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+Developers Speculating About the Long-Distant Future: 2022 originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Chris Coyier</name>
         </author>
@@ -184,7 +247,7 @@ Developers Speculating About the Long-Distant Future: 2022 originally published 
         <link href="https://css-tricks.com/nextjs-chrome-extension-starter/"/>
         <updated>2022-02-10T15:24:02.000Z</updated>
         <summary type="html"><![CDATA[I recently rewrote one of my projects — Minimal Theme for Twitter — as a Next.js Chrome extension because I wanted to use React for the pop-up. Using React would allow me to clearly separate my extension’s pop-up component and …
-Helpful Tips for Starting a Next.js Chrome Extension originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+Helpful Tips for Starting a Next.js Chrome Extension originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Thomas Wang</name>
         </author>
@@ -196,35 +259,9 @@ Helpful Tips for Starting a Next.js Chrome Extension originally published on CSS
         <updated>2022-02-10T15:23:31.000Z</updated>
         <summary type="html"><![CDATA[(This is a sponsored post.)
 Cloudinary is a host for your digital assets like images and video. If you don’t already know them, you should, because you can build it into the asset management you almost certainly need to …
-A Chrome Extension for Cloudinary That Helps You Pluck Out Useful Media URLs From Your Library Quickly originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+A Chrome Extension for Cloudinary That Helps You Pluck Out Useful Media URLs From Your Library Quickly originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[openapi-typescript + react-query로 typesafe하게 rest api와 통신하기]]></title>
-        <id>https://news.hada.io/topic?id=5951</id>
-        <link href="https://news.hada.io/topic?id=5951"/>
-        <updated>2022-02-10T08:21:17.000Z</updated>
-        <summary type="html"><![CDATA[- 백엔드에서 제공하는 OpenApi Specs을 가지고 openapi-typescript를 활용하여 api의 parameters, response에 대한 type 생성
-- ts-toolbelt에서 제공하는 type utils을 활용해서 필요한 유틸 type들 작성
-- openapi-typescript에서 생성해준 typing과 ts-toolbelt로 만든 유틸 type을 활용하여 react...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 교류, 직류를 혼용하는 회로에서 접지는 분리해야 하나요??]]></title>
-        <id>https://news.hada.io/topic?id=5950</id>
-        <link href="https://news.hada.io/topic?id=5950"/>
-        <updated>2022-02-10T06:37:49.000Z</updated>
-        <summary type="html"><![CDATA[BJT나 OPAMP를 사용하는 회로에서
-
-'DC(전원공급기)는 바이어스', 'AC(함수발생기)는 시그널' 이렇게 사용할 때,
-
-접지를 분리해야 하나요?? 아니면 공통으로 사용해야 하나요 ??]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
     </entry>
     <entry>
@@ -233,7 +270,7 @@ A Chrome Extension for Cloudinary That Helps You Pluck Out Useful Media URLs Fro
         <link href="https://css-tricks.com/svgcode-raster-to-vector/"/>
         <updated>2022-02-09T21:39:41.000Z</updated>
         <summary type="html"><![CDATA[Say you have a bitmap graphic — like a JPG, PNG, or GIF — and you wish it was vector, like SVG. What do you do? You could trace it yourself in some kind of design software. Or tools within …
-SVGcode for “Live Tracing” Raster Images originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+SVGcode for “Live Tracing” Raster Images originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Chris Coyier</name>
         </author>
@@ -244,7 +281,7 @@ SVGcode for “Live Tracing” Raster Images originally published on CSS-Tricks.
         <link href="https://css-tricks.com/css-slanted-containers/"/>
         <updated>2022-02-09T15:19:47.000Z</updated>
         <summary type="html"><![CDATA[I was updating my portfolio and wanted to use the forward slash (/) as a visual element for the site’s main layout. I hadn’t attempted to create a slanted container in CSS before, but it seemed like it …
-How to Make CSS Slanted Containers originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+How to Make CSS Slanted Containers originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Dave Seidman</name>
         </author>
@@ -263,7 +300,7 @@ How to Make CSS Slanted Containers originally published on CSS-Tricks. You shoul
     scroll-behavior: auto !important;
   
 …
-No Motion Isn’t Always prefers-reduced-motion originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+No Motion Isn’t Always prefers-reduced-motion originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Chris Coyier</name>
         </author>
@@ -276,7 +313,7 @@ No Motion Isn’t Always prefers-reduced-motion originally published on CSS-Tric
         <summary type="html"><![CDATA[You know how there are JavaScript dialogs for alerting, confirming, and prompting user actions? Say you want to replace JavaScript dialogs with the new HTML dialog element.
 Let me explain.
 I recently worked on a project with a lot of …
-Replace JavaScript Dialogs With the New HTML Dialog Element originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+Replace JavaScript Dialogs With the New HTML Dialog Element originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Mads Stoumann</name>
         </author>
@@ -288,7 +325,7 @@ Replace JavaScript Dialogs With the New HTML Dialog Element originally published
         <updated>2022-02-08T15:08:47.000Z</updated>
         <summary type="html"><![CDATA[(This is a sponsored post.)
 Hey! Scheduled Functions are cool! Think of them like a CRON job. I want this code to run every Monday at 2pm. I want this code run every hour on the hour. That kind …
-Netlify Has Scheduled Functions originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+Netlify Has Scheduled Functions originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Chris Coyier</name>
         </author>
@@ -302,7 +339,7 @@ Netlify Has Scheduled Functions originally published on CSS-Tricks. You should g
 Tom’s generator does two things that help make a gradient better:
 You 
 …
-Using Different Color Spaces for Non-Boring Gradients originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+Using Different Color Spaces for Non-Boring Gradients originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Chris Coyier</name>
         </author>
@@ -313,7 +350,7 @@ Using Different Color Spaces for Non-Boring Gradients originally published on CS
         <link href="https://css-tricks.com/css-scroll-snap-slide-deck/"/>
         <updated>2022-02-07T15:24:44.000Z</updated>
         <summary type="html"><![CDATA[Virtual conferences have changed the game in terms of how a presenter is able to deliver content to an audience. At a live event it’s likely you just have your laptop, but at home, you may have multiple monitors so …
-CSS Scroll Snap Slide Deck That Supports Live Coding originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+CSS Scroll Snap Slide Deck That Supports Live Coding originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Stephanie Eckles</name>
         </author>
@@ -335,24 +372,9 @@ The post [추천도서] Do it! 점프 투 파이썬 appeared first on RastaLion'
         <link href="https://css-tricks.com/a-deep-introduction-to-wordpress-block-themes/"/>
         <updated>2022-02-04T15:07:04.000Z</updated>
         <summary type="html"><![CDATA[The relatively new WordPress editor, also known as the WordPress Block Editor, always under development via the Gutenberg plugin, has been with us since 2018. You can use the block editor on any WordPress theme, provided the theme …
-A Deep Introduction to WordPress Block Themes originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+A Deep Introduction to WordPress Block Themes originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Ganesh Dahal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a newbie-friendly codebase]]></title>
-        <id>https://css-tricks.com/?p=362884</id>
-        <link href="https://css-tricks.com/building-a-newbie-friendly-codebase/"/>
-        <updated>2022-02-03T22:32:58.000Z</updated>
-        <summary type="html"><![CDATA[Pedro Santos suggests:
-Using naming conventions such that you can learn them once and apply them everywhere
-Unidirectional data flows. Make it easy to follow the app flow.
-No magic numbers. I’d add they are even worse in CSS
-…
-Building a newbie-friendly codebase originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
@@ -576,44 +598,6 @@ WHERE ("status"::text = 'publish' AND "published_date" < now() AND "exposure" AN
     select "course_id"
     from "vouchers" AS "vouchers_for_filter"
     WHERE ("user_id" = 4…]]></summary>
-        <author>
-            <name>향로</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NodeJS 와 PostgreSQL Query Timeout]]></title>
-        <id>https://jojoldu.tistory.com/631</id>
-        <link href="https://jojoldu.tistory.com/631"/>
-        <updated>2022-01-14T01:09:57.000Z</updated>
-        <summary type="html"><![CDATA[반응형
-
-                    
-                    (adsbygoogle = window.adsbygoogle || []).push({}); 
-               
-
-작은 서비스를 운영할때는 문제가 없던 서비스가 데이터가 적재되면 될수록 점점 슬로우 쿼리가 등장하게 됩니다.
-이때 쿼리 시간을 제한하지 않으면, 5분/10분씩 수행되는 쿼리가 운영 환경에서 실행하게 되기도 하는데요.
-이런 쿼리가 트래픽에 맞춰 여러개 요청이 온다면 결국 Node에서 사용가능한 Connection Pool이 가득차 더이상 쿼리 질의를 못하거나, 심한 경우 데이터베이스의 장애로 서비스가 사용불가능하게 되기도 합니다.
-그래서 적정시간 이상으로 쿼리가 수행되면 강제로 종료하고, 다시 요청하도록 하는것이 일반적인 방식인데요. 
-해당 상황과 PostgreSQL에서의 옵션에 대해 소개드립니다.
-1. 실험 환경
-실험의 경우 아래 환경에서 진행합니다.
-Node 16
-PostgreSQL 14 (by Docker)
-간단하게 아래와 같이 Node와 PG를 사용한 코드를 하나 만들어둡니다.
-lint 등을 빼고 실험을 위해 빠르게 구성했습니다.
-app.js
-const express = require('express');
-const pg = require('pg');
-
-const app = express()
-const port = 3000
-
-const client = new pg.Pool({
-  host: 'localhost',
-  user: 'test',
-  password: 'test',
-  database: 't…]]></summary>
         <author>
             <name>향로</name>
         </author>
