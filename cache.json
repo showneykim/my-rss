@@ -11,8 +11,9 @@
           "description": "Kilian Valkhof:\n[…] Mobile Safari increases the default font-size when you switch a website from portrait to landscape. On phones that is, it doesn’t do it on iPad. Safari has been doing this for a long time, as a \n…\nYour CSS reset needs text-size-adjust (probably) originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/your-css-reset-needs-text-size-adjust-probably/",
           "publishedOn": "2022-02-12T00:46:40.000Z",
-          "wordCount": 616,
-          "title": "Your CSS reset needs text-size-adjust (probably)"
+          "wordCount": 608,
+          "title": "Your CSS reset needs text-size-adjust (probably)",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363498"
         },
         {
           "id": "https://css-tricks.com/?p=363396",
@@ -20,8 +21,9 @@
           "description": "Every now and then, I find that I’ve accumulated a bunch of links about various things I find interesting. Like React and JavaScript! Here’s a list of nine links to other articles about them that I’ve been saving up and …\n9 New React and JavaScript Links for February 2022 originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/9-new-react-and-javascript-links-for-february-2022/",
           "publishedOn": "2022-02-11T23:11:28.000Z",
-          "wordCount": 951,
-          "title": "9 New React and JavaScript Links for February 2022"
+          "wordCount": 943,
+          "title": "9 New React and JavaScript Links for February 2022",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363396"
         },
         {
           "id": "https://css-tricks.com/?p=363027",
@@ -29,8 +31,9 @@
           "description": "Imagine you have an element with a multi-value CSS property, such as transform: optional custom property values:\n.el {\n  transform: translate(100px) scale(1.5) skew(5deg);\n}\nNow imagine you don’t always want all the transform values to be applied, so some …\nMulti-Value CSS Properties With Optional Custom Property Values originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/optional-custom-property-values-trick/",
           "publishedOn": "2022-02-11T15:30:11.000Z",
-          "wordCount": 782,
-          "title": "Multi-Value CSS Properties With Optional Custom Property Values"
+          "wordCount": 774,
+          "title": "Multi-Value CSS Properties With Optional Custom Property Values",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363027"
         },
         {
           "id": "https://css-tricks.com/?p=362285",
@@ -38,8 +41,9 @@
           "description": "I was just writing in my “What’s new in since CSS3?” article about recent and possible future changes to CSS colors. It’s weirdly a lot. There are just as many or more new and upcoming ways to define colors than …\nA Whistle-Stop Tour of 4 New CSS Color Features originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/new-css-color-features-preview/",
           "publishedOn": "2022-02-10T23:01:55.000Z",
-          "wordCount": 2660,
-          "title": "A Whistle-Stop Tour of 4 New CSS Color Features"
+          "wordCount": 2724,
+          "title": "A Whistle-Stop Tour of 4 New CSS Color Features",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/362285"
         },
         {
           "id": "https://css-tricks.com/?p=363480",
@@ -47,8 +51,9 @@
           "description": "This is a wonderful roundup from Jeremy, who I picture circling January 1, 2022, in red marker on a giant paper calendar back in 2008 and patiently counting the days.\nSee, there was a little smattering of internet drama …\nDevelopers Speculating About the Long-Distant Future: 2022 originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/developers-speculating-about-the-long-distant-future-2022/",
           "publishedOn": "2022-02-10T21:45:09.000Z",
-          "wordCount": 798,
-          "title": "Developers Speculating About the Long-Distant Future: 2022"
+          "wordCount": 790,
+          "title": "Developers Speculating About the Long-Distant Future: 2022",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363480"
         },
         {
           "id": "https://css-tricks.com/?p=363079",
@@ -56,8 +61,9 @@
           "description": "I recently rewrote one of my projects — Minimal Theme for Twitter — as a Next.js Chrome extension because I wanted to use React for the pop-up. Using React would allow me to clearly separate my extension’s pop-up component and …\nHelpful Tips for Starting a Next.js Chrome Extension originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/nextjs-chrome-extension-starter/",
           "publishedOn": "2022-02-10T15:24:02.000Z",
-          "wordCount": 1296,
-          "title": "Helpful Tips for Starting a Next.js Chrome Extension"
+          "wordCount": 1288,
+          "title": "Helpful Tips for Starting a Next.js Chrome Extension",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363079"
         },
         {
           "id": "https://css-tricks.com/?p=362991",
@@ -66,7 +72,8 @@
           "link": "https://css-tricks.com/a-chrome-extension-for-cloudinary-that-helps-you-pluck-out-useful-media-urls-from-your-library-quickly/",
           "publishedOn": "2022-02-10T15:23:31.000Z",
           "wordCount": 882,
-          "title": "A Chrome Extension for Cloudinary That Helps You Pluck Out Useful Media URLs From Your Library Quickly"
+          "title": "A Chrome Extension for Cloudinary That Helps You Pluck Out Useful Media URLs From Your Library Quickly",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/362991"
         },
         {
           "id": "https://css-tricks.com/?p=362777",
@@ -74,8 +81,9 @@
           "description": "Say you have a bitmap graphic — like a JPG, PNG, or GIF — and you wish it was vector, like SVG. What do you do? You could trace it yourself in some kind of design software. Or tools within …\nSVGcode for “Live Tracing” Raster Images originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/svgcode-raster-to-vector/",
           "publishedOn": "2022-02-09T21:39:41.000Z",
-          "wordCount": 830,
-          "title": "SVGcode for “Live Tracing” Raster Images"
+          "wordCount": 822,
+          "title": "SVGcode for “Live Tracing” Raster Images",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/362777"
         },
         {
           "id": "https://css-tricks.com/?p=362940",
@@ -84,7 +92,8 @@
           "link": "https://css-tricks.com/css-slanted-containers/",
           "publishedOn": "2022-02-09T15:19:47.000Z",
           "wordCount": 1312,
-          "title": "How to Make CSS Slanted Containers"
+          "title": "How to Make CSS Slanted Containers",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/362940"
         },
         {
           "id": "https://css-tricks.com/?p=363057",
@@ -92,8 +101,9 @@
           "description": "There is a code snippet that I see all the time when the media query prefers-reduced-motion is talked about. Here it is:\n@media (prefers-reduced-motion: reduce) {\n  * {\n    animation-duration: 0.01ms !important;\n    animation-iteration-count: 1 !important;\n    transition-duration: 0.01ms !important;\n    scroll-behavior: auto !important;\n  \n…\nNo Motion Isn’t Always prefers-reduced-motion originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/nuking-motion-with-prefers-reduced-motion/",
           "publishedOn": "2022-02-08T20:55:51.000Z",
-          "wordCount": 1189,
-          "title": "No Motion Isn’t Always prefers-reduced-motion"
+          "wordCount": 1181,
+          "title": "No Motion Isn’t Always prefers-reduced-motion",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363057"
         },
         {
           "id": "https://css-tricks.com/?p=362672",
@@ -102,7 +112,8 @@
           "link": "https://css-tricks.com/replace-javascript-dialogs-html-dialog-element/",
           "publishedOn": "2022-02-08T15:09:40.000Z",
           "wordCount": 3942,
-          "title": "Replace JavaScript Dialogs With the New HTML Dialog Element"
+          "title": "Replace JavaScript Dialogs With the New HTML Dialog Element",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/362672"
         },
         {
           "id": "https://css-tricks.com/?p=363380",
@@ -111,7 +122,8 @@
           "link": "https://css-tricks.com/netlify-has-scheduled-functions/",
           "publishedOn": "2022-02-08T15:08:47.000Z",
           "wordCount": 707,
-          "title": "Netlify Has Scheduled Functions"
+          "title": "Netlify Has Scheduled Functions",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363380"
         },
         {
           "id": "https://css-tricks.com/?p=363102",
@@ -120,7 +132,8 @@
           "link": "https://css-tricks.com/color-spaces-for-more-interesting-css-gradients/",
           "publishedOn": "2022-02-07T21:46:18.000Z",
           "wordCount": 616,
-          "title": "Using Different Color Spaces for Non-Boring Gradients"
+          "title": "Using Different Color Spaces for Non-Boring Gradients",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363102"
         },
         {
           "id": "https://css-tricks.com/?p=362616",
@@ -129,7 +142,8 @@
           "link": "https://css-tricks.com/css-scroll-snap-slide-deck/",
           "publishedOn": "2022-02-07T15:24:44.000Z",
           "wordCount": 4397,
-          "title": "CSS Scroll Snap Slide Deck That Supports Live Coding"
+          "title": "CSS Scroll Snap Slide Deck That Supports Live Coding",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/362616"
         },
         {
           "id": "https://css-tricks.com/?p=362799",
@@ -138,7 +152,8 @@
           "link": "https://css-tricks.com/a-deep-introduction-to-wordpress-block-themes/",
           "publishedOn": "2022-02-04T15:07:04.000Z",
           "wordCount": 6150,
-          "title": "A Deep Introduction to WordPress Block Themes"
+          "title": "A Deep Introduction to WordPress Block Themes",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/362799"
         }
       ]
     },
@@ -154,7 +169,8 @@
           "link": "https://rastalion.me/%ec%b6%94%ec%b2%9c%eb%8f%84%ec%84%9c-do-it-%ec%a0%90%ed%94%84-%ed%88%ac-%ed%8c%8c%ec%9d%b4%ec%8d%ac/",
           "publishedOn": "2022-02-05T07:10:52.000Z",
           "wordCount": 712,
-          "title": "[추천도서] Do it! 점프 투 파이썬"
+          "title": "[추천도서] Do it! 점프 투 파이썬",
+          "imageUrl": "https://rastalion.me/wp-content/uploads/2022/02/k582635822_1.jpg"
         },
         {
           "id": "https://rastalion.me/?p=2450",
@@ -163,7 +179,8 @@
           "link": "https://rastalion.me/%ec%b1%85%ec%86%8c%ea%b0%9c-%ed%98%bc%ec%9e%90-%ea%b3%b5%eb%b6%80%ed%95%98%eb%8a%94-r-%eb%8d%b0%ec%9d%b4%ed%84%b0%eb%b6%84%ec%84%9d/",
           "publishedOn": "2022-01-22T03:23:28.000Z",
           "wordCount": 576,
-          "title": "[추천도서] 혼자 공부하는 R 데이터분석"
+          "title": "[추천도서] 혼자 공부하는 R 데이터분석",
+          "imageUrl": "https://hongong.hanbit.co.kr/wp-content/uploads/2022/01/%ED%98%BC%EC%9E%90-%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94-R-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-1-600x820.jpg"
         }
       ]
     },
@@ -173,13 +190,44 @@
       "siteUrl": "https://news.hada.io",
       "articles": [
         {
+          "id": "https://news.hada.io/topic?id=5972",
+          "author": null,
+          "description": "- 실시간 웹 어플리케이션을 만들때 보통 웹소켓이 생각나겠지만 SSE도 간단한 대안이 될 수 있음\n- 웹 소켓의 문제점 : HTTP 기반이 아니기 때문에 HTTP의 수혜를 받지 못함\nㅤ→ 압축 불가, HTTP/2 멀티플렉싱 지원 미비, Proxy 들이 지원 안함, 하이재킹 가능 \n- Server-Sent Events(SSE)...",
+          "link": "https://news.hada.io/topic?id=5972",
+          "publishedOn": "2022-02-14T00:49:34.000Z",
+          "wordCount": 195,
+          "title": "WebSockets 대신 Server-Sent Events 사용하기",
+          "imageUrl": "https://social.news.hada.io/topic/5972"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=5971",
+          "author": null,
+          "description": "- 대량 트래픽 발생시 가상 대기실을 생성하고 사용자 요청을 버퍼링 \nㅤ→ 임시로 트래픽을 오프로드 하는 클라우드 인프라를 생성 \n- 온라인 시험/티켓 판매/신규 제품 출시/대형 발표 등에 사용 가능 \n- 항상 사용할지, 트래픽 많을 때 만 사용할 지 결정 \n- CloudFormation 템플릿으...",
+          "link": "https://news.hada.io/topic?id=5971",
+          "publishedOn": "2022-02-14T00:39:01.000Z",
+          "wordCount": 107,
+          "title": "AWS 가상 대기실 솔루션 오픈소스 공개",
+          "imageUrl": "https://social.news.hada.io/topic/5971"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=5970",
+          "author": null,
+          "description": "- 다수의 공식 개발 레퍼런스를 한글로 번역 \nㅤ→ Spring Batch/Boot/REST/Cloud 및 Apache Kafka, Reactor Core/Netty/Kafka, Prometheus, Resillience4J 등 \n- 용이한 검색을 위해 소제목을 포함한 타이틀은 영문을 유지\n- 엔지니어 토리맘님이 진행중인 개인 프로젝트",
+          "link": "https://news.hada.io/topic?id=5970",
+          "publishedOn": "2022-02-14T00:23:39.000Z",
+          "wordCount": 108,
+          "title": "토리맘의 한글라이즈 프로젝트 - 공식 개발 레퍼런스를 한글로 번역",
+          "imageUrl": "https://social.news.hada.io/topic/5970"
+        },
+        {
           "id": "https://news.hada.io/topic?id=5969",
           "author": null,
           "description": "- 아마존에서 구입한 저가형 Polono 라벨 프린터를 업계 표준인 고가형 Zebra 처럼 사용하고 싶음\nㅤ→ Zebra는 ASCII 텍스트를 시리얼로 보내서 라벨을 프린트 하는 언어인 ZPL 사용 \n- 라즈베리 파이에 연결해서 택배 송장 프린터로 사용하고 싶었지만 드라이버가 arm용이 없음 \n- 배송회사인...",
           "link": "https://news.hada.io/topic?id=5969",
           "publishedOn": "2022-02-13T00:49:48.000Z",
           "wordCount": 150,
-          "title": "JavaScript로 프린터 드라이버 작성하기"
+          "title": "JavaScript로 프린터 드라이버 작성하기",
+          "imageUrl": "https://social.news.hada.io/topic/5969"
         },
         {
           "id": "https://news.hada.io/topic?id=5968",
@@ -188,7 +236,8 @@
           "link": "https://news.hada.io/topic?id=5968",
           "publishedOn": "2022-02-13T00:25:22.000Z",
           "wordCount": 145,
-          "title": "Puppeteer-to-Playwright - 스크립트 변환 도구"
+          "title": "Puppeteer-to-Playwright - 스크립트 변환 도구",
+          "imageUrl": "https://social.news.hada.io/topic/5968"
         },
         {
           "id": "https://news.hada.io/topic?id=5967",
@@ -197,7 +246,8 @@
           "link": "https://news.hada.io/topic?id=5967",
           "publishedOn": "2022-02-13T00:07:52.000Z",
           "wordCount": 120,
-          "title": "Firecracker v1.0.0 릴리즈"
+          "title": "Firecracker v1.0.0 릴리즈",
+          "imageUrl": "https://social.news.hada.io/topic/5967"
         },
         {
           "id": "https://news.hada.io/topic?id=5966",
@@ -205,8 +255,9 @@
           "description": "제 2의 이름이라 할 수 있는, 여러분의 닉네임이 만들어진 방법? 계기?와 뜻이 궁금합니다 😀",
           "link": "https://news.hada.io/topic?id=5966",
           "publishedOn": "2022-02-12T16:20:34.000Z",
-          "wordCount": 130,
-          "title": "Ask GN: 여러분의 닉네임은 어떻게 만들어졌나요?"
+          "wordCount": 203,
+          "title": "Ask GN: 여러분의 닉네임은 어떻게 만들어졌나요?",
+          "imageUrl": "https://social.news.hada.io/topic/5966"
         },
         {
           "id": "https://news.hada.io/topic?id=5965",
@@ -215,7 +266,8 @@
           "link": "https://news.hada.io/topic?id=5965",
           "publishedOn": "2022-02-12T13:15:45.000Z",
           "wordCount": 77,
-          "title": "브라우저 이해하기 시리즈"
+          "title": "브라우저 이해하기 시리즈",
+          "imageUrl": "https://social.news.hada.io/topic/5965"
         },
         {
           "id": "https://news.hada.io/topic?id=5964",
@@ -223,8 +275,9 @@
           "description": "다른 사람들은 잘 모르는데 여러분이 애용하면서도 독특한 기기들이 궁금해요. 요즘 제가 지름신이 안 와서(... ) 아이패드나 맥북에는 그만 더 이상 끌리지 않게 되었는데. 무언가 색다른 걸 사보고 싶거든요. 'ㅁ '!",
           "link": "https://news.hada.io/topic?id=5964",
           "publishedOn": "2022-02-12T09:48:06.000Z",
-          "wordCount": 249,
-          "title": "Ask GN: 여러분의 방에는 어떤 독특하며 애용하는 것이 있나요?"
+          "wordCount": 366,
+          "title": "Ask GN: 여러분의 방에는 어떤 독특하며 애용하는 것이 있나요?",
+          "imageUrl": "https://social.news.hada.io/topic/5964"
         },
         {
           "id": "https://news.hada.io/topic?id=5963",
@@ -233,34 +286,8 @@
           "link": "https://news.hada.io/topic?id=5963",
           "publishedOn": "2022-02-12T04:23:56.000Z",
           "wordCount": 97,
-          "title": "애플의 새로운 'realityOS' 깃헙 커밋에서 발견"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=5962",
-          "author": null,
-          "description": "- GPT-3 규모의 모델을 오픈소스로 만든 GPT-NeoX 에게 간단한 사칙연산 질문을 수행 \n- 100개중에 10개만 정답. 하지만 대부분이 정답에 *근접*\nQ: \"What is 2653 * 30641?\"\nA: 82356113 (틀림)\n정답은 81290573 \n- \"언어 모델\"은 기본적으로 수학은 잘 하지...",
-          "link": "https://news.hada.io/topic?id=5962",
-          "publishedOn": "2022-02-12T02:06:19.000Z",
-          "wordCount": 172,
-          "title": "GPT-NeoX-20B 에게 사칙연산 질문을 물어봤더니"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=5961",
-          "author": null,
-          "description": "- PostgreSQL 기반의 오픈소스 Graph-Relational DB \n- SQL보다 뛰어난 표현력을 지닌 EdgeQL 언어 \n- 리치 타입 시스템 \n- 선언형 스키마 : 상속, 계산 속성, 복잡한 제약조건(곧 액세스 제어규칙까지 지원 예정)까지 표현 가능 \n- 내장 마이그레이션 시스템 : 스키마를 자동 또는 대화...",
-          "link": "https://news.hada.io/topic?id=5961",
-          "publishedOn": "2022-02-12T01:26:55.000Z",
-          "wordCount": 125,
-          "title": "EdgeDB 1.0 릴리즈"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=5960",
-          "author": null,
-          "description": "- 외부 API 및 페이로드 디버깅용\n- JSON 구조를 커서로 이동하며 탐색 가능\nㅤ→ 라인/노드/뎁스 단위 이동 \n- 계층 구조 표현 및 신택스 하이라이팅 지원 \n- 정규식 검색 지원 \n- Rust 오픈소스 (맥/리눅스 바이너리 제공)",
-          "link": "https://news.hada.io/topic?id=5960",
-          "publishedOn": "2022-02-12T01:05:02.000Z",
-          "wordCount": 90,
-          "title": "jless - 커맨드라인 JSON 뷰어"
+          "title": "애플의 새로운 'realityOS' 깃헙 커밋에서 발견",
+          "imageUrl": "https://social.news.hada.io/topic/5963"
         }
       ]
     },
@@ -276,7 +303,8 @@
           "link": "https://jojoldu.tistory.com/637",
           "publishedOn": "2022-02-12T10:52:06.000Z",
           "wordCount": 1415,
-          "title": "Stub 을 이용한 Service 계층 단위 테스트 하기"
+          "title": "Stub 을 이용한 Service 계층 단위 테스트 하기",
+          "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FuafVI%2Fbtrs7lXnos1%2FUrCOOiX7kXaZcBnmJixBL0%2Fimg.png"
         },
         {
           "id": "https://jojoldu.tistory.com/636",
@@ -285,7 +313,8 @@
           "link": "https://jojoldu.tistory.com/636",
           "publishedOn": "2022-01-28T15:49:16.000Z",
           "wordCount": 487,
-          "title": "루비콘 프로젝트 완료 메일"
+          "title": "루비콘 프로젝트 완료 메일",
+          "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FrnhxE%2Fbtrr4yu6juC%2F1iiKdxTL0HkPCykFw7Y7kk%2Fimg.png"
         },
         {
           "id": "https://jojoldu.tistory.com/635",
@@ -294,7 +323,8 @@
           "link": "https://jojoldu.tistory.com/635",
           "publishedOn": "2022-01-24T13:09:58.000Z",
           "wordCount": 275,
-          "title": "Mac에서 코틀린 개발환경 구성하기"
+          "title": "Mac에서 코틀린 개발환경 구성하기",
+          "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcRh96U%2FbtrrxZaxg1y%2FyyxjtNZ4Yo06Zm42tyhmU0%2Fimg.png"
         },
         {
           "id": "https://jojoldu.tistory.com/634",
@@ -303,7 +333,8 @@
           "link": "https://jojoldu.tistory.com/634",
           "publishedOn": "2022-01-21T01:22:10.000Z",
           "wordCount": 1105,
-          "title": "NodeJS 와 PostgreSQL Connection Pool"
+          "title": "NodeJS 와 PostgreSQL Connection Pool",
+          "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbakyIi%2FbtrrkuggMyE%2FJtpKSkKkK4O01kLj7R1ogk%2Fimg.png"
         },
         {
           "id": "https://jojoldu.tistory.com/633",
@@ -312,7 +343,8 @@
           "link": "https://jojoldu.tistory.com/633",
           "publishedOn": "2022-01-18T01:17:50.000Z",
           "wordCount": 299,
-          "title": "[Ulysses] 에디터내 이미지 크기 조절"
+          "title": "[Ulysses] 에디터내 이미지 크기 조절",
+          "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FHDQnH%2Fbtrq4pTU2bh%2FmE9EkgZ263udUGf3U4oHN0%2Fimg.png"
         },
         {
           "id": "https://jojoldu.tistory.com/632",
@@ -321,10 +353,11 @@
           "link": "https://jojoldu.tistory.com/632",
           "publishedOn": "2022-01-17T02:20:33.000Z",
           "wordCount": 525,
-          "title": "NOT IN 쿼리 성능 개선하기 (PostgreSQL)"
+          "title": "NOT IN 쿼리 성능 개선하기 (PostgreSQL)",
+          "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbyWroX%2FbtrqNLxqXS3%2FAeCHVKjSSZ8pDhHKoVtiw0%2Fimg.png"
         }
       ]
     }
   ],
-  "cliVersion": "1.12.1"
+  "cliVersion": "1.13.0"
 }

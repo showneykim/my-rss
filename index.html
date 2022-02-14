@@ -15,20 +15,90 @@
 
 <body>
 <!-- %after-body-begin.html% -->
-  <section class="daily-content">
-    <h2 class="daily-heading"><time datatime="2022-02-13">2022-02-13</time></h2>
-    <ul class="sources card">
-      <li class="source">
+  <section class="daily-content js-toggle-accordions-scope">
+    <h2 class="daily-heading">
+      <button class="daily-heading__toggle" data-action="toggle-accordions"><time datetime="2022-02-14">2022-02-14</time></button>
+    </h2>
+    <ul class="sources">
+      <li class="source card">
         <section>
           <h3 class="source-name"><a class="source-name__link" href="https://news.hada.io">GeekNews - 개발/기술/스타트업 뉴스 서비스</a></h3>
           <section class="articles-per-source">
             <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">JavaScript로 프린터 드라이버 작성하기</summary>
+              <details class="article-expander" open>
+                <summary class="article-expander__title">
+                    <span>WebSockets 대신 Server-Sent Events 사용하기</span>
+                    <span class="article-reading-time">1 min</span>
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://news.hada.io/topic?id&#x3D;5972">
+                  <div class="article-summary-box-inner media-object">
+                    <img src="https://social.news.hada.io/topic/5972" loading="lazy" class="media-object__media article-image"/>
+                    <span class="media-object__text">- 실시간 웹 어플리케이션을 만들때 보통 웹소켓이 생각나겠지만 SSE도 간단한 대안이 될 수 있음
+- 웹 소켓의 문제점 : HTTP 기반이 아니기 때문에 HTTP의 수혜를 받지 못함
+ㅤ→ 압축 불가, HTTP/2 멀티플렉싱 지원 미비, Proxy 들이 지원 안함, 하이재킹 가능 
+- Server-Sent Events(SSE)...</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander" open>
+                <summary class="article-expander__title">
+                    <span>AWS 가상 대기실 솔루션 오픈소스 공개</span>
+                    <span class="article-reading-time">0 min</span>
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://news.hada.io/topic?id&#x3D;5971">
+                  <div class="article-summary-box-inner media-object">
+                    <img src="https://social.news.hada.io/topic/5971" loading="lazy" class="media-object__media article-image"/>
+                    <span class="media-object__text">- 대량 트래픽 발생시 가상 대기실을 생성하고 사용자 요청을 버퍼링 
+ㅤ→ 임시로 트래픽을 오프로드 하는 클라우드 인프라를 생성 
+- 온라인 시험/티켓 판매/신규 제품 출시/대형 발표 등에 사용 가능 
+- 항상 사용할지, 트래픽 많을 때 만 사용할 지 결정 
+- CloudFormation 템플릿으...</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander" open>
+                <summary class="article-expander__title">
+                    <span>토리맘의 한글라이즈 프로젝트 - 공식 개발 레퍼런스를 한글로 번역</span>
+                    <span class="article-reading-time">0 min</span>
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://news.hada.io/topic?id&#x3D;5970">
+                  <div class="article-summary-box-inner media-object">
+                    <img src="https://social.news.hada.io/topic/5970" loading="lazy" class="media-object__media article-image"/>
+                    <span class="media-object__text">- 다수의 공식 개발 레퍼런스를 한글로 번역 
+ㅤ→ Spring Batch/Boot/REST/Cloud 및 Apache Kafka, Reactor Core/Netty/Kafka, Prometheus, Resillience4J 등 
+- 용이한 검색을 위해 소제목을 포함한 타이틀은 영문을 유지
+- 엔지니어 토리맘님이 진행중인 개인 프로젝트</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+    </ul>
+  </section>
+  <section class="daily-content js-toggle-accordions-scope">
+    <h2 class="daily-heading">
+      <button class="daily-heading__toggle" data-action="toggle-accordions"><time datetime="2022-02-13">2022-02-13</time></button>
+    </h2>
+    <ul class="sources">
+      <li class="source card">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://news.hada.io">GeekNews - 개발/기술/스타트업 뉴스 서비스</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander" open>
+                <summary class="article-expander__title">
+                    <span>JavaScript로 프린터 드라이버 작성하기</span>
+                    <span class="article-reading-time">1 min</span>
+                </summary>
                 <a class="article-summary-link article-summary-box-outer" href="https://news.hada.io/topic?id&#x3D;5969">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(1 min)</span>
-                    <span>- 아마존에서 구입한 저가형 Polono 라벨 프린터를 업계 표준인 고가형 Zebra 처럼 사용하고 싶음
+                  <div class="article-summary-box-inner media-object">
+                    <img src="https://social.news.hada.io/topic/5969" loading="lazy" class="media-object__media article-image"/>
+                    <span class="media-object__text">- 아마존에서 구입한 저가형 Polono 라벨 프린터를 업계 표준인 고가형 Zebra 처럼 사용하고 싶음
 ㅤ→ Zebra는 ASCII 텍스트를 시리얼로 보내서 라벨을 프린트 하는 언어인 ZPL 사용 
 - 라즈베리 파이에 연결해서 택배 송장 프린터로 사용하고 싶었지만 드라이버가 arm용이 없음 
 - 배송회사인...</span>
@@ -37,12 +107,15 @@
               </details>
             </article>
             <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Puppeteer-to-Playwright - 스크립트 변환 도구</summary>
+              <details class="article-expander" open>
+                <summary class="article-expander__title">
+                    <span>Puppeteer-to-Playwright - 스크립트 변환 도구</span>
+                    <span class="article-reading-time">0 min</span>
+                </summary>
                 <a class="article-summary-link article-summary-box-outer" href="https://news.hada.io/topic?id&#x3D;5968">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>기존 Puppeteer 스크립트를 Playwright 로 변환 
+                  <div class="article-summary-box-inner media-object">
+                    <img src="https://social.news.hada.io/topic/5968" loading="lazy" class="media-object__media article-image"/>
+                    <span class="media-object__text">기존 Puppeteer 스크립트를 Playwright 로 변환 
 - import 변환 
 - 기본 메소드들을 새 API로 변환 ( setViewport → setViewportSize )
 - 브라우저 컨텍스트 명시적으로 생성 
@@ -56,12 +129,15 @@
               </details>
             </article>
             <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Firecracker v1.0.0 릴리즈</summary>
+              <details class="article-expander" open>
+                <summary class="article-expander__title">
+                    <span>Firecracker v1.0.0 릴리즈</span>
+                    <span class="article-reading-time">0 min</span>
+                </summary>
                 <a class="article-summary-link article-summary-box-outer" href="https://news.hada.io/topic?id&#x3D;5967">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>- AWS가 Lambda를 위해 만들었던 서버리스용 microVM 가상화 솔루션 
+                  <div class="article-summary-box-inner media-object">
+                    <img src="https://social.news.hada.io/topic/5967" loading="lazy" class="media-object__media article-image"/>
+                    <span class="media-object__text">- AWS가 Lambda를 위해 만들었던 서버리스용 microVM 가상화 솔루션 
 - Linux KVM을 기반으로 하는 가상 머신 모니터(VMM)를 구현하고 RESTful API를 제공 
 - 필요없는 것들을 제외하고 메모리 사용량을 줄인 샌드박스 환경으로 최대한 가볍고 안전하게 
 ㅤ→ Firecracker VM은 125ms 내에 시작...</span>
@@ -73,20 +149,25 @@
       </li>
     </ul>
   </section>
-  <section class="daily-content">
-    <h2 class="daily-heading"><time datatime="2022-02-12">2022-02-12</time></h2>
-    <ul class="sources card">
-      <li class="source">
+  <section class="daily-content js-toggle-accordions-scope">
+    <h2 class="daily-heading">
+      <button class="daily-heading__toggle" data-action="toggle-accordions"><time datetime="2022-02-12">2022-02-12</time></button>
+    </h2>
+    <ul class="sources">
+      <li class="source card">
         <section>
           <h3 class="source-name"><a class="source-name__link" href="https://css-tricks.com">CSS-Tricks</a></h3>
           <section class="articles-per-source">
             <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Your CSS reset needs text-size-adjust (probably)</summary>
+              <details class="article-expander" open>
+                <summary class="article-expander__title">
+                    <span>Your CSS reset needs text-size-adjust (probably)</span>
+                    <span class="article-reading-time">2 min</span>
+                </summary>
                 <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/your-css-reset-needs-text-size-adjust-probably/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(2 min)</span>
-                    <span>Kilian Valkhof:
+                  <div class="article-summary-box-inner media-object">
+                    <img src="https://css-tricks.com/wp-json/social-image-generator/v1/image/363498" loading="lazy" class="media-object__media article-image"/>
+                    <span class="media-object__text">Kilian Valkhof:
 […] Mobile Safari increases the default font-size when you switch a website from portrait to landscape. On phones that is, it doesn’t do it on iPad. Safari has been doing this for a long time, as a 
 …
 Your CSS reset needs text-size-adjust (probably) originally published on CSS-Tricks. You should get the newsletter.</span>
@@ -96,17 +177,20 @@ Your CSS reset needs text-size-adjust (probably) originally published on CSS-Tri
             </article>
         </section>
       </li>
-      <li class="source">
+      <li class="source card">
         <section>
           <h3 class="source-name"><a class="source-name__link" href="https://jojoldu.tistory.com/">기억보단 기록을</a></h3>
           <section class="articles-per-source">
             <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Stub 을 이용한 Service 계층 단위 테스트 하기</summary>
+              <details class="article-expander" open>
+                <summary class="article-expander__title">
+                    <span>Stub 을 이용한 Service 계층 단위 테스트 하기</span>
+                    <span class="article-reading-time">5 min</span>
+                </summary>
                 <a class="article-summary-link article-summary-box-outer" href="https://jojoldu.tistory.com/637">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(5 min)</span>
-                    <span>반응형
+                  <div class="article-summary-box-inner media-object">
+                    <img src="https://img1.daumcdn.net/thumb/R800x0/?scode&#x3D;mtistory2&amp;fname&#x3D;https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FuafVI%2Fbtrs7lXnos1%2FUrCOOiX7kXaZcBnmJixBL0%2Fimg.png" loading="lazy" class="media-object__media article-image"/>
+                    <span class="media-object__text">반응형
 
                     
                     (adsbygoogle &#x3D; window.adsbygoogle || []).push({}); 
@@ -140,28 +224,34 @@ orderRepository를 통해 주문을 조회한다
             </article>
         </section>
       </li>
-      <li class="source">
+      <li class="source card">
         <section>
           <h3 class="source-name"><a class="source-name__link" href="https://news.hada.io">GeekNews - 개발/기술/스타트업 뉴스 서비스</a></h3>
           <section class="articles-per-source">
             <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Ask GN: 여러분의 닉네임은 어떻게 만들어졌나요?</summary>
+              <details class="article-expander" open>
+                <summary class="article-expander__title">
+                    <span>Ask GN: 여러분의 닉네임은 어떻게 만들어졌나요?</span>
+                    <span class="article-reading-time">1 min</span>
+                </summary>
                 <a class="article-summary-link article-summary-box-outer" href="https://news.hada.io/topic?id&#x3D;5966">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>제 2의 이름이라 할 수 있는, 여러분의 닉네임이 만들어진 방법? 계기?와 뜻이 궁금합니다 😀</span>
+                  <div class="article-summary-box-inner media-object">
+                    <img src="https://social.news.hada.io/topic/5966" loading="lazy" class="media-object__media article-image"/>
+                    <span class="media-object__text">제 2의 이름이라 할 수 있는, 여러분의 닉네임이 만들어진 방법? 계기?와 뜻이 궁금합니다 😀</span>
                   </div>
                 </a>
               </details>
             </article>
             <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">브라우저 이해하기 시리즈</summary>
+              <details class="article-expander" open>
+                <summary class="article-expander__title">
+                    <span>브라우저 이해하기 시리즈</span>
+                    <span class="article-reading-time">0 min</span>
+                </summary>
                 <a class="article-summary-link article-summary-box-outer" href="https://news.hada.io/topic?id&#x3D;5965">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>Google Chrome 팀에서 근무하는 Kosamari 가 작성한 브라우저의 동작 방식 아티클들과
+                  <div class="article-summary-box-inner media-object">
+                    <img src="https://social.news.hada.io/topic/5965" loading="lazy" class="media-object__media article-image"/>
+                    <span class="media-object__text">Google Chrome 팀에서 근무하는 Kosamari 가 작성한 브라우저의 동작 방식 아티클들과
 1️⃣ http://bit.ly/browsers-pt1 
 2️⃣ http://bit.ly/browsers-pt2 
 3️⃣ http://bit.ly/browsers-pt3 
@@ -173,73 +263,32 @@ orderRepository를 통해 주문을 조회한다
               </details>
             </article>
             <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Ask GN: 여러분의 방에는 어떤 독특하며 애용하는 것이 있나요?</summary>
+              <details class="article-expander" open>
+                <summary class="article-expander__title">
+                    <span>Ask GN: 여러분의 방에는 어떤 독특하며 애용하는 것이 있나요?</span>
+                    <span class="article-reading-time">1 min</span>
+                </summary>
                 <a class="article-summary-link article-summary-box-outer" href="https://news.hada.io/topic?id&#x3D;5964">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(1 min)</span>
-                    <span>다른 사람들은 잘 모르는데 여러분이 애용하면서도 독특한 기기들이 궁금해요. 요즘 제가 지름신이 안 와서(... ) 아이패드나 맥북에는 그만 더 이상 끌리지 않게 되었는데. 무언가 색다른 걸 사보고 싶거든요. &#x27;ㅁ &#x27;!</span>
+                  <div class="article-summary-box-inner media-object">
+                    <img src="https://social.news.hada.io/topic/5964" loading="lazy" class="media-object__media article-image"/>
+                    <span class="media-object__text">다른 사람들은 잘 모르는데 여러분이 애용하면서도 독특한 기기들이 궁금해요. 요즘 제가 지름신이 안 와서(... ) 아이패드나 맥북에는 그만 더 이상 끌리지 않게 되었는데. 무언가 색다른 걸 사보고 싶거든요. &#x27;ㅁ &#x27;!</span>
                   </div>
                 </a>
               </details>
             </article>
             <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">애플의 새로운 &#x27;realityOS&#x27; 깃헙 커밋에서 발견</summary>
+              <details class="article-expander" open>
+                <summary class="article-expander__title">
+                    <span>애플의 새로운 &#x27;realityOS&#x27; 깃헙 커밋에서 발견</span>
+                    <span class="article-reading-time">0 min</span>
+                </summary>
                 <a class="article-summary-link article-summary-box-outer" href="https://news.hada.io/topic?id&#x3D;5963">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>- 애플이 준비중인 AR/VR용 OS 
+                  <div class="article-summary-box-inner media-object">
+                    <img src="https://social.news.hada.io/topic/5963" loading="lazy" class="media-object__media article-image"/>
+                    <span class="media-object__text">- 애플이 준비중인 AR/VR용 OS 
 - 기존 watchOS 등과 마찬가지로 &quot;com.apple.platform.realityos&quot; 명칭을 가진 플랫폼이 명시됨
 - 자체 OS &amp; 바이너리 및 시뮬레이터도 포함 
 - 아마도 2개의 기기가 개발중이라 VR 기기가 먼저 나오고, AR 글래스는 그 뒤에 나올지도 모른다는 예...</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">GPT-NeoX-20B 에게 사칙연산 질문을 물어봤더니</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://news.hada.io/topic?id&#x3D;5962">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(1 min)</span>
-                    <span>- GPT-3 규모의 모델을 오픈소스로 만든 GPT-NeoX 에게 간단한 사칙연산 질문을 수행 
-- 100개중에 10개만 정답. 하지만 대부분이 정답에 *근접*
-Q: &quot;What is 2653 * 30641?&quot;
-A: 82356113 (틀림)
-정답은 81290573 
-- &quot;언어 모델&quot;은 기본적으로 수학은 잘 하지...</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">EdgeDB 1.0 릴리즈</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://news.hada.io/topic?id&#x3D;5961">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>- PostgreSQL 기반의 오픈소스 Graph-Relational DB 
-- SQL보다 뛰어난 표현력을 지닌 EdgeQL 언어 
-- 리치 타입 시스템 
-- 선언형 스키마 : 상속, 계산 속성, 복잡한 제약조건(곧 액세스 제어규칙까지 지원 예정)까지 표현 가능 
-- 내장 마이그레이션 시스템 : 스키마를 자동 또는 대화...</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">jless - 커맨드라인 JSON 뷰어</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://news.hada.io/topic?id&#x3D;5960">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>- 외부 API 및 페이로드 디버깅용
-- JSON 구조를 커서로 이동하며 탐색 가능
-ㅤ→ 라인/노드/뎁스 단위 이동 
-- 계층 구조 표현 및 신택스 하이라이팅 지원 
-- 정규식 검색 지원 
-- Rust 오픈소스 (맥/리눅스 바이너리 제공)</span>
                   </div>
                 </a>
               </details>
@@ -248,32 +297,40 @@ A: 82356113 (틀림)
       </li>
     </ul>
   </section>
-  <section class="daily-content">
-    <h2 class="daily-heading"><time datatime="2022-02-11">2022-02-11</time></h2>
-    <ul class="sources card">
-      <li class="source">
+  <section class="daily-content js-toggle-accordions-scope">
+    <h2 class="daily-heading">
+      <button class="daily-heading__toggle" data-action="toggle-accordions"><time datetime="2022-02-11">2022-02-11</time></button>
+    </h2>
+    <ul class="sources">
+      <li class="source card">
         <section>
           <h3 class="source-name"><a class="source-name__link" href="https://css-tricks.com">CSS-Tricks</a></h3>
           <section class="articles-per-source">
             <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">9 New React and JavaScript Links for February 2022</summary>
+              <details class="article-expander" open>
+                <summary class="article-expander__title">
+                    <span>9 New React and JavaScript Links for February 2022</span>
+                    <span class="article-reading-time">3 min</span>
+                </summary>
                 <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/9-new-react-and-javascript-links-for-february-2022/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(3 min)</span>
-                    <span>Every now and then, I find that I’ve accumulated a bunch of links about various things I find interesting. Like React and JavaScript! Here’s a list of nine links to other articles about them that I’ve been saving up and …
+                  <div class="article-summary-box-inner media-object">
+                    <img src="https://css-tricks.com/wp-json/social-image-generator/v1/image/363396" loading="lazy" class="media-object__media article-image"/>
+                    <span class="media-object__text">Every now and then, I find that I’ve accumulated a bunch of links about various things I find interesting. Like React and JavaScript! Here’s a list of nine links to other articles about them that I’ve been saving up and …
 9 New React and JavaScript Links for February 2022 originally published on CSS-Tricks. You should get the newsletter.</span>
                   </div>
                 </a>
               </details>
             </article>
             <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Multi-Value CSS Properties With Optional Custom Property Values</summary>
+              <details class="article-expander" open>
+                <summary class="article-expander__title">
+                    <span>Multi-Value CSS Properties With Optional Custom Property Values</span>
+                    <span class="article-reading-time">3 min</span>
+                </summary>
                 <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/optional-custom-property-values-trick/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(3 min)</span>
-                    <span>Imagine you have an element with a multi-value CSS property, such as transform: optional custom property values:
+                  <div class="article-summary-box-inner media-object">
+                    <img src="https://css-tricks.com/wp-json/social-image-generator/v1/image/363027" loading="lazy" class="media-object__media article-image"/>
+                    <span class="media-object__text">Imagine you have an element with a multi-value CSS property, such as transform: optional custom property values:
 .el {
   transform: translate(100px) scale(1.5) skew(5deg);
 }
@@ -287,32 +344,40 @@ Multi-Value CSS Properties With Optional Custom Property Values originally publi
       </li>
     </ul>
   </section>
-  <section class="daily-content">
-    <h2 class="daily-heading"><time datatime="2022-02-10">2022-02-10</time></h2>
-    <ul class="sources card">
-      <li class="source">
+  <section class="daily-content js-toggle-accordions-scope">
+    <h2 class="daily-heading">
+      <button class="daily-heading__toggle" data-action="toggle-accordions"><time datetime="2022-02-10">2022-02-10</time></button>
+    </h2>
+    <ul class="sources">
+      <li class="source card">
         <section>
           <h3 class="source-name"><a class="source-name__link" href="https://css-tricks.com">CSS-Tricks</a></h3>
           <section class="articles-per-source">
             <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">A Whistle-Stop Tour of 4 New CSS Color Features</summary>
+              <details class="article-expander" open>
+                <summary class="article-expander__title">
+                    <span>A Whistle-Stop Tour of 4 New CSS Color Features</span>
+                    <span class="article-reading-time">9 min</span>
+                </summary>
                 <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/new-css-color-features-preview/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(9 min)</span>
-                    <span>I was just writing in my “What’s new in since CSS3?” article about recent and possible future changes to CSS colors. It’s weirdly a lot. There are just as many or more new and upcoming ways to define colors than …
+                  <div class="article-summary-box-inner media-object">
+                    <img src="https://css-tricks.com/wp-json/social-image-generator/v1/image/362285" loading="lazy" class="media-object__media article-image"/>
+                    <span class="media-object__text">I was just writing in my “What’s new in since CSS3?” article about recent and possible future changes to CSS colors. It’s weirdly a lot. There are just as many or more new and upcoming ways to define colors than …
 A Whistle-Stop Tour of 4 New CSS Color Features originally published on CSS-Tricks. You should get the newsletter.</span>
                   </div>
                 </a>
               </details>
             </article>
             <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Developers Speculating About the Long-Distant Future: 2022</summary>
+              <details class="article-expander" open>
+                <summary class="article-expander__title">
+                    <span>Developers Speculating About the Long-Distant Future: 2022</span>
+                    <span class="article-reading-time">3 min</span>
+                </summary>
                 <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/developers-speculating-about-the-long-distant-future-2022/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(3 min)</span>
-                    <span>This is a wonderful roundup from Jeremy, who I picture circling January 1, 2022, in red marker on a giant paper calendar back in 2008 and patiently counting the days.
+                  <div class="article-summary-box-inner media-object">
+                    <img src="https://css-tricks.com/wp-json/social-image-generator/v1/image/363480" loading="lazy" class="media-object__media article-image"/>
+                    <span class="media-object__text">This is a wonderful roundup from Jeremy, who I picture circling January 1, 2022, in red marker on a giant paper calendar back in 2008 and patiently counting the days.
 See, there was a little smattering of internet drama …
 Developers Speculating About the Long-Distant Future: 2022 originally published on CSS-Tricks. You should get the newsletter.</span>
                   </div>
@@ -320,24 +385,30 @@ Developers Speculating About the Long-Distant Future: 2022 originally published 
               </details>
             </article>
             <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Helpful Tips for Starting a Next.js Chrome Extension</summary>
+              <details class="article-expander" open>
+                <summary class="article-expander__title">
+                    <span>Helpful Tips for Starting a Next.js Chrome Extension</span>
+                    <span class="article-reading-time">4 min</span>
+                </summary>
                 <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/nextjs-chrome-extension-starter/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(4 min)</span>
-                    <span>I recently rewrote one of my projects — Minimal Theme for Twitter — as a Next.js Chrome extension because I wanted to use React for the pop-up. Using React would allow me to clearly separate my extension’s pop-up component and …
+                  <div class="article-summary-box-inner media-object">
+                    <img src="https://css-tricks.com/wp-json/social-image-generator/v1/image/363079" loading="lazy" class="media-object__media article-image"/>
+                    <span class="media-object__text">I recently rewrote one of my projects — Minimal Theme for Twitter — as a Next.js Chrome extension because I wanted to use React for the pop-up. Using React would allow me to clearly separate my extension’s pop-up component and …
 Helpful Tips for Starting a Next.js Chrome Extension originally published on CSS-Tricks. You should get the newsletter.</span>
                   </div>
                 </a>
               </details>
             </article>
             <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">A Chrome Extension for Cloudinary That Helps You Pluck Out Useful Media URLs From Your Library Quickly</summary>
+              <details class="article-expander" open>
+                <summary class="article-expander__title">
+                    <span>A Chrome Extension for Cloudinary That Helps You Pluck Out Useful Media URLs From Your Library Quickly</span>
+                    <span class="article-reading-time">3 min</span>
+                </summary>
                 <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/a-chrome-extension-for-cloudinary-that-helps-you-pluck-out-useful-media-urls-from-your-library-quickly/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(3 min)</span>
-                    <span>(This is a sponsored post.)
+                  <div class="article-summary-box-inner media-object">
+                    <img src="https://css-tricks.com/wp-json/social-image-generator/v1/image/362991" loading="lazy" class="media-object__media article-image"/>
+                    <span class="media-object__text">(This is a sponsored post.)
 Cloudinary is a host for your digital assets like images and video. If you don’t already know them, you should, because you can build it into the asset management you almost certainly need to …
 A Chrome Extension for Cloudinary That Helps You Pluck Out Useful Media URLs From Your Library Quickly originally published on CSS-Tricks. You should get the newsletter.</span>
                   </div>
@@ -348,32 +419,40 @@ A Chrome Extension for Cloudinary That Helps You Pluck Out Useful Media URLs Fro
       </li>
     </ul>
   </section>
-  <section class="daily-content">
-    <h2 class="daily-heading"><time datatime="2022-02-09">2022-02-09</time></h2>
-    <ul class="sources card">
-      <li class="source">
+  <section class="daily-content js-toggle-accordions-scope">
+    <h2 class="daily-heading">
+      <button class="daily-heading__toggle" data-action="toggle-accordions"><time datetime="2022-02-09">2022-02-09</time></button>
+    </h2>
+    <ul class="sources">
+      <li class="source card">
         <section>
           <h3 class="source-name"><a class="source-name__link" href="https://css-tricks.com">CSS-Tricks</a></h3>
           <section class="articles-per-source">
             <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">SVGcode for “Live Tracing” Raster Images</summary>
+              <details class="article-expander" open>
+                <summary class="article-expander__title">
+                    <span>SVGcode for “Live Tracing” Raster Images</span>
+                    <span class="article-reading-time">3 min</span>
+                </summary>
                 <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/svgcode-raster-to-vector/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(3 min)</span>
-                    <span>Say you have a bitmap graphic — like a JPG, PNG, or GIF — and you wish it was vector, like SVG. What do you do? You could trace it yourself in some kind of design software. Or tools within …
+                  <div class="article-summary-box-inner media-object">
+                    <img src="https://css-tricks.com/wp-json/social-image-generator/v1/image/362777" loading="lazy" class="media-object__media article-image"/>
+                    <span class="media-object__text">Say you have a bitmap graphic — like a JPG, PNG, or GIF — and you wish it was vector, like SVG. What do you do? You could trace it yourself in some kind of design software. Or tools within …
 SVGcode for “Live Tracing” Raster Images originally published on CSS-Tricks. You should get the newsletter.</span>
                   </div>
                 </a>
               </details>
             </article>
             <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">How to Make CSS Slanted Containers</summary>
+              <details class="article-expander" open>
+                <summary class="article-expander__title">
+                    <span>How to Make CSS Slanted Containers</span>
+                    <span class="article-reading-time">4 min</span>
+                </summary>
                 <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/css-slanted-containers/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(4 min)</span>
-                    <span>I was updating my portfolio and wanted to use the forward slash (/) as a visual element for the site’s main layout. I hadn’t attempted to create a slanted container in CSS before, but it seemed like it …
+                  <div class="article-summary-box-inner media-object">
+                    <img src="https://css-tricks.com/wp-json/social-image-generator/v1/image/362940" loading="lazy" class="media-object__media article-image"/>
+                    <span class="media-object__text">I was updating my portfolio and wanted to use the forward slash (/) as a visual element for the site’s main layout. I hadn’t attempted to create a slanted container in CSS before, but it seemed like it …
 How to Make CSS Slanted Containers originally published on CSS-Tricks. You should get the newsletter.</span>
                   </div>
                 </a>
@@ -383,20 +462,25 @@ How to Make CSS Slanted Containers originally published on CSS-Tricks. You shoul
       </li>
     </ul>
   </section>
-  <section class="daily-content">
-    <h2 class="daily-heading"><time datatime="2022-02-08">2022-02-08</time></h2>
-    <ul class="sources card">
-      <li class="source">
+  <section class="daily-content js-toggle-accordions-scope">
+    <h2 class="daily-heading">
+      <button class="daily-heading__toggle" data-action="toggle-accordions"><time datetime="2022-02-08">2022-02-08</time></button>
+    </h2>
+    <ul class="sources">
+      <li class="source card">
         <section>
           <h3 class="source-name"><a class="source-name__link" href="https://css-tricks.com">CSS-Tricks</a></h3>
           <section class="articles-per-source">
             <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">No Motion Isn’t Always prefers-reduced-motion</summary>
+              <details class="article-expander" open>
+                <summary class="article-expander__title">
+                    <span>No Motion Isn’t Always prefers-reduced-motion</span>
+                    <span class="article-reading-time">4 min</span>
+                </summary>
                 <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/nuking-motion-with-prefers-reduced-motion/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(4 min)</span>
-                    <span>There is a code snippet that I see all the time when the media query prefers-reduced-motion is talked about. Here it is:
+                  <div class="article-summary-box-inner media-object">
+                    <img src="https://css-tricks.com/wp-json/social-image-generator/v1/image/363057" loading="lazy" class="media-object__media article-image"/>
+                    <span class="media-object__text">There is a code snippet that I see all the time when the media query prefers-reduced-motion is talked about. Here it is:
 @media (prefers-reduced-motion: reduce) {
   * {
     animation-duration: 0.01ms !important;
@@ -411,12 +495,15 @@ No Motion Isn’t Always prefers-reduced-motion originally published on CSS-Tric
               </details>
             </article>
             <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Replace JavaScript Dialogs With the New HTML Dialog Element</summary>
+              <details class="article-expander" open>
+                <summary class="article-expander__title">
+                    <span>Replace JavaScript Dialogs With the New HTML Dialog Element</span>
+                    <span class="article-reading-time">13 min</span>
+                </summary>
                 <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/replace-javascript-dialogs-html-dialog-element/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(13 min)</span>
-                    <span>You know how there are JavaScript dialogs for alerting, confirming, and prompting user actions? Say you want to replace JavaScript dialogs with the new HTML dialog element.
+                  <div class="article-summary-box-inner media-object">
+                    <img src="https://css-tricks.com/wp-json/social-image-generator/v1/image/362672" loading="lazy" class="media-object__media article-image"/>
+                    <span class="media-object__text">You know how there are JavaScript dialogs for alerting, confirming, and prompting user actions? Say you want to replace JavaScript dialogs with the new HTML dialog element.
 Let me explain.
 I recently worked on a project with a lot of …
 Replace JavaScript Dialogs With the New HTML Dialog Element originally published on CSS-Tricks. You should get the newsletter.</span>
@@ -425,12 +512,15 @@ Replace JavaScript Dialogs With the New HTML Dialog Element originally published
               </details>
             </article>
             <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Netlify Has Scheduled Functions</summary>
+              <details class="article-expander" open>
+                <summary class="article-expander__title">
+                    <span>Netlify Has Scheduled Functions</span>
+                    <span class="article-reading-time">2 min</span>
+                </summary>
                 <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/netlify-has-scheduled-functions/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(2 min)</span>
-                    <span>(This is a sponsored post.)
+                  <div class="article-summary-box-inner media-object">
+                    <img src="https://css-tricks.com/wp-json/social-image-generator/v1/image/363380" loading="lazy" class="media-object__media article-image"/>
+                    <span class="media-object__text">(This is a sponsored post.)
 Hey! Scheduled Functions are cool! Think of them like a CRON job. I want this code to run every Monday at 2pm. I want this code run every hour on the hour. That kind …
 Netlify Has Scheduled Functions originally published on CSS-Tricks. You should get the newsletter.</span>
                   </div>
@@ -441,20 +531,25 @@ Netlify Has Scheduled Functions originally published on CSS-Tricks. You should g
       </li>
     </ul>
   </section>
-  <section class="daily-content">
-    <h2 class="daily-heading"><time datatime="2022-02-07">2022-02-07</time></h2>
-    <ul class="sources card">
-      <li class="source">
+  <section class="daily-content js-toggle-accordions-scope">
+    <h2 class="daily-heading">
+      <button class="daily-heading__toggle" data-action="toggle-accordions"><time datetime="2022-02-07">2022-02-07</time></button>
+    </h2>
+    <ul class="sources">
+      <li class="source card">
         <section>
           <h3 class="source-name"><a class="source-name__link" href="https://css-tricks.com">CSS-Tricks</a></h3>
           <section class="articles-per-source">
             <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Using Different Color Spaces for Non-Boring Gradients</summary>
+              <details class="article-expander" open>
+                <summary class="article-expander__title">
+                    <span>Using Different Color Spaces for Non-Boring Gradients</span>
+                    <span class="article-reading-time">2 min</span>
+                </summary>
                 <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/color-spaces-for-more-interesting-css-gradients/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(2 min)</span>
-                    <span>A little gradient generator tool from Tom Quinonero. You’d think fading one color to another would be an obvious, simple, solved problem — it’s actually anything but!
+                  <div class="article-summary-box-inner media-object">
+                    <img src="https://css-tricks.com/wp-json/social-image-generator/v1/image/363102" loading="lazy" class="media-object__media article-image"/>
+                    <span class="media-object__text">A little gradient generator tool from Tom Quinonero. You’d think fading one color to another would be an obvious, simple, solved problem — it’s actually anything but!
 Tom’s generator does two things that help make a gradient better:
 You 
 …
@@ -464,12 +559,15 @@ Using Different Color Spaces for Non-Boring Gradients originally published on CS
               </details>
             </article>
             <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">CSS Scroll Snap Slide Deck That Supports Live Coding</summary>
+              <details class="article-expander" open>
+                <summary class="article-expander__title">
+                    <span>CSS Scroll Snap Slide Deck That Supports Live Coding</span>
+                    <span class="article-reading-time">15 min</span>
+                </summary>
                 <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/css-scroll-snap-slide-deck/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(15 min)</span>
-                    <span>Virtual conferences have changed the game in terms of how a presenter is able to deliver content to an audience. At a live event it’s likely you just have your laptop, but at home, you may have multiple monitors so …
+                  <div class="article-summary-box-inner media-object">
+                    <img src="https://css-tricks.com/wp-json/social-image-generator/v1/image/362616" loading="lazy" class="media-object__media article-image"/>
+                    <span class="media-object__text">Virtual conferences have changed the game in terms of how a presenter is able to deliver content to an audience. At a live event it’s likely you just have your laptop, but at home, you may have multiple monitors so …
 CSS Scroll Snap Slide Deck That Supports Live Coding originally published on CSS-Tricks. You should get the newsletter.</span>
                   </div>
                 </a>
@@ -479,20 +577,25 @@ CSS Scroll Snap Slide Deck That Supports Live Coding originally published on CSS
       </li>
     </ul>
   </section>
-  <section class="daily-content">
-    <h2 class="daily-heading"><time datatime="2022-02-05">2022-02-05</time></h2>
-    <ul class="sources card">
-      <li class="source">
+  <section class="daily-content js-toggle-accordions-scope">
+    <h2 class="daily-heading">
+      <button class="daily-heading__toggle" data-action="toggle-accordions"><time datetime="2022-02-05">2022-02-05</time></button>
+    </h2>
+    <ul class="sources">
+      <li class="source card">
         <section>
           <h3 class="source-name"><a class="source-name__link" href="https://rastalion.me">RastaLion&#x27;s IT Blog</a></h3>
           <section class="articles-per-source">
             <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">[추천도서] Do it! 점프 투 파이썬</summary>
+              <details class="article-expander" open>
+                <summary class="article-expander__title">
+                    <span>[추천도서] Do it! 점프 투 파이썬</span>
+                    <span class="article-reading-time">2 min</span>
+                </summary>
                 <a class="article-summary-link article-summary-box-outer" href="https://rastalion.me/%ec%b6%94%ec%b2%9c%eb%8f%84%ec%84%9c-do-it-%ec%a0%90%ed%94%84-%ed%88%ac-%ed%8c%8c%ec%9d%b4%ec%8d%ac/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(2 min)</span>
-                    <span>파이썬 입문의 베스트 셀러 Do it! 점프 투 파이썬 입니다. 개정판으로 나왔고 저자 분이 위키독스의 운영자분이시기 때문에 웹에서도 무료로 볼수 있는 책입니다. 책을 완독한 후기는 정말 입문용으로는 최고의 도서입니다. 이 책만 완독했다고 해서 프로그래밍에...
+                  <div class="article-summary-box-inner media-object">
+                    <img src="https://rastalion.me/wp-content/uploads/2022/02/k582635822_1.jpg" loading="lazy" class="media-object__media article-image"/>
+                    <span class="media-object__text">파이썬 입문의 베스트 셀러 Do it! 점프 투 파이썬 입니다. 개정판으로 나왔고 저자 분이 위키독스의 운영자분이시기 때문에 웹에서도 무료로 볼수 있는 책입니다. 책을 완독한 후기는 정말 입문용으로는 최고의 도서입니다. 이 책만 완독했다고 해서 프로그래밍에...
 The post [추천도서] Do it! 점프 투 파이썬 appeared first on RastaLion&#x27;s IT Blog.</span>
                   </div>
                 </a>
@@ -502,20 +605,25 @@ The post [추천도서] Do it! 점프 투 파이썬 appeared first on RastaLion&
       </li>
     </ul>
   </section>
-  <section class="daily-content">
-    <h2 class="daily-heading"><time datatime="2022-02-04">2022-02-04</time></h2>
-    <ul class="sources card">
-      <li class="source">
+  <section class="daily-content js-toggle-accordions-scope">
+    <h2 class="daily-heading">
+      <button class="daily-heading__toggle" data-action="toggle-accordions"><time datetime="2022-02-04">2022-02-04</time></button>
+    </h2>
+    <ul class="sources">
+      <li class="source card">
         <section>
           <h3 class="source-name"><a class="source-name__link" href="https://css-tricks.com">CSS-Tricks</a></h3>
           <section class="articles-per-source">
             <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">A Deep Introduction to WordPress Block Themes</summary>
+              <details class="article-expander" open>
+                <summary class="article-expander__title">
+                    <span>A Deep Introduction to WordPress Block Themes</span>
+                    <span class="article-reading-time">21 min</span>
+                </summary>
                 <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/a-deep-introduction-to-wordpress-block-themes/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(21 min)</span>
-                    <span>The relatively new WordPress editor, also known as the WordPress Block Editor, always under development via the Gutenberg plugin, has been with us since 2018. You can use the block editor on any WordPress theme, provided the theme …
+                  <div class="article-summary-box-inner media-object">
+                    <img src="https://css-tricks.com/wp-json/social-image-generator/v1/image/362799" loading="lazy" class="media-object__media article-image"/>
+                    <span class="media-object__text">The relatively new WordPress editor, also known as the WordPress Block Editor, always under development via the Gutenberg plugin, has been with us since 2018. You can use the block editor on any WordPress theme, provided the theme …
 A Deep Introduction to WordPress Block Themes originally published on CSS-Tricks. You should get the newsletter.</span>
                   </div>
                 </a>
@@ -525,20 +633,25 @@ A Deep Introduction to WordPress Block Themes originally published on CSS-Tricks
       </li>
     </ul>
   </section>
-  <section class="daily-content">
-    <h2 class="daily-heading"><time datatime="2022-01-28">2022-01-28</time></h2>
-    <ul class="sources card">
-      <li class="source">
+  <section class="daily-content js-toggle-accordions-scope">
+    <h2 class="daily-heading">
+      <button class="daily-heading__toggle" data-action="toggle-accordions"><time datetime="2022-01-28">2022-01-28</time></button>
+    </h2>
+    <ul class="sources">
+      <li class="source card">
         <section>
           <h3 class="source-name"><a class="source-name__link" href="https://jojoldu.tistory.com/">기억보단 기록을</a></h3>
           <section class="articles-per-source">
             <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">루비콘 프로젝트 완료 메일</summary>
+              <details class="article-expander" open>
+                <summary class="article-expander__title">
+                    <span>루비콘 프로젝트 완료 메일</span>
+                    <span class="article-reading-time">2 min</span>
+                </summary>
                 <a class="article-summary-link article-summary-box-outer" href="https://jojoldu.tistory.com/636">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(2 min)</span>
-                    <span>반응형
+                  <div class="article-summary-box-inner media-object">
+                    <img src="https://img1.daumcdn.net/thumb/R800x0/?scode&#x3D;mtistory2&amp;fname&#x3D;https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FrnhxE%2Fbtrr4yu6juC%2F1iiKdxTL0HkPCykFw7Y7kk%2Fimg.png" loading="lazy" class="media-object__media article-image"/>
+                    <span class="media-object__text">반응형
 
                     
                     (adsbygoogle &#x3D; window.adsbygoogle || []).push({}); 
@@ -598,20 +711,25 @@ A Deep Introduction to WordPress Block Themes originally published on CSS-Tricks
       </li>
     </ul>
   </section>
-  <section class="daily-content">
-    <h2 class="daily-heading"><time datatime="2022-01-24">2022-01-24</time></h2>
-    <ul class="sources card">
-      <li class="source">
+  <section class="daily-content js-toggle-accordions-scope">
+    <h2 class="daily-heading">
+      <button class="daily-heading__toggle" data-action="toggle-accordions"><time datetime="2022-01-24">2022-01-24</time></button>
+    </h2>
+    <ul class="sources">
+      <li class="source card">
         <section>
           <h3 class="source-name"><a class="source-name__link" href="https://jojoldu.tistory.com/">기억보단 기록을</a></h3>
           <section class="articles-per-source">
             <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Mac에서 코틀린 개발환경 구성하기</summary>
+              <details class="article-expander" open>
+                <summary class="article-expander__title">
+                    <span>Mac에서 코틀린 개발환경 구성하기</span>
+                    <span class="article-reading-time">1 min</span>
+                </summary>
                 <a class="article-summary-link article-summary-box-outer" href="https://jojoldu.tistory.com/635">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(1 min)</span>
-                    <span>반응형
+                  <div class="article-summary-box-inner media-object">
+                    <img src="https://img1.daumcdn.net/thumb/R800x0/?scode&#x3D;mtistory2&amp;fname&#x3D;https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcRh96U%2FbtrrxZaxg1y%2FyyxjtNZ4Yo06Zm42tyhmU0%2Fimg.png" loading="lazy" class="media-object__media article-image"/>
+                    <span class="media-object__text">반응형
 
                     
                     (adsbygoogle &#x3D; window.adsbygoogle || []).push({}); 
@@ -651,20 +769,25 @@ kotlinc-jvm
       </li>
     </ul>
   </section>
-  <section class="daily-content">
-    <h2 class="daily-heading"><time datatime="2022-01-22">2022-01-22</time></h2>
-    <ul class="sources card">
-      <li class="source">
+  <section class="daily-content js-toggle-accordions-scope">
+    <h2 class="daily-heading">
+      <button class="daily-heading__toggle" data-action="toggle-accordions"><time datetime="2022-01-22">2022-01-22</time></button>
+    </h2>
+    <ul class="sources">
+      <li class="source card">
         <section>
           <h3 class="source-name"><a class="source-name__link" href="https://rastalion.me">RastaLion&#x27;s IT Blog</a></h3>
           <section class="articles-per-source">
             <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">[추천도서] 혼자 공부하는 R 데이터분석</summary>
+              <details class="article-expander" open>
+                <summary class="article-expander__title">
+                    <span>[추천도서] 혼자 공부하는 R 데이터분석</span>
+                    <span class="article-reading-time">2 min</span>
+                </summary>
                 <a class="article-summary-link article-summary-box-outer" href="https://rastalion.me/%ec%b1%85%ec%86%8c%ea%b0%9c-%ed%98%bc%ec%9e%90-%ea%b3%b5%eb%b6%80%ed%95%98%eb%8a%94-r-%eb%8d%b0%ec%9d%b4%ed%84%b0%eb%b6%84%ec%84%9d/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(2 min)</span>
-                    <span>친한 동생이자 친구인 강전희 저자의 혼자 공부하는 R 데이터분석 책이 출간 되었습니다!! 처음 시작하는 R 데이터분석 이라는 책의 개정판 입니다. 출판사 IT 출판 정책에 의해 제목을 바꾼것 같네요.   R이라는 언어에 관심이 있어 처음...
+                  <div class="article-summary-box-inner media-object">
+                    <img src="https://hongong.hanbit.co.kr/wp-content/uploads/2022/01/%ED%98%BC%EC%9E%90-%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94-R-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-1-600x820.jpg" loading="lazy" class="media-object__media article-image"/>
+                    <span class="media-object__text">친한 동생이자 친구인 강전희 저자의 혼자 공부하는 R 데이터분석 책이 출간 되었습니다!! 처음 시작하는 R 데이터분석 이라는 책의 개정판 입니다. 출판사 IT 출판 정책에 의해 제목을 바꾼것 같네요.   R이라는 언어에 관심이 있어 처음...
 The post [추천도서] 혼자 공부하는 R 데이터분석 appeared first on RastaLion&#x27;s IT Blog.</span>
                   </div>
                 </a>
@@ -674,20 +797,25 @@ The post [추천도서] 혼자 공부하는 R 데이터분석 appeared first on 
       </li>
     </ul>
   </section>
-  <section class="daily-content">
-    <h2 class="daily-heading"><time datatime="2022-01-21">2022-01-21</time></h2>
-    <ul class="sources card">
-      <li class="source">
+  <section class="daily-content js-toggle-accordions-scope">
+    <h2 class="daily-heading">
+      <button class="daily-heading__toggle" data-action="toggle-accordions"><time datetime="2022-01-21">2022-01-21</time></button>
+    </h2>
+    <ul class="sources">
+      <li class="source card">
         <section>
           <h3 class="source-name"><a class="source-name__link" href="https://jojoldu.tistory.com/">기억보단 기록을</a></h3>
           <section class="articles-per-source">
             <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">NodeJS 와 PostgreSQL Connection Pool</summary>
+              <details class="article-expander" open>
+                <summary class="article-expander__title">
+                    <span>NodeJS 와 PostgreSQL Connection Pool</span>
+                    <span class="article-reading-time">4 min</span>
+                </summary>
                 <a class="article-summary-link article-summary-box-outer" href="https://jojoldu.tistory.com/634">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(4 min)</span>
-                    <span>반응형
+                  <div class="article-summary-box-inner media-object">
+                    <img src="https://img1.daumcdn.net/thumb/R800x0/?scode&#x3D;mtistory2&amp;fname&#x3D;https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbakyIi%2FbtrrkuggMyE%2FJtpKSkKkK4O01kLj7R1ogk%2Fimg.png" loading="lazy" class="media-object__media article-image"/>
+                    <span class="media-object__text">반응형
 
                     
                     (adsbygoogle &#x3D; window.adsbygoogle || []).push({}); 
@@ -732,20 +860,25 @@ client.connect(err &#x3D;&gt; {
       </li>
     </ul>
   </section>
-  <section class="daily-content">
-    <h2 class="daily-heading"><time datatime="2022-01-18">2022-01-18</time></h2>
-    <ul class="sources card">
-      <li class="source">
+  <section class="daily-content js-toggle-accordions-scope">
+    <h2 class="daily-heading">
+      <button class="daily-heading__toggle" data-action="toggle-accordions"><time datetime="2022-01-18">2022-01-18</time></button>
+    </h2>
+    <ul class="sources">
+      <li class="source card">
         <section>
           <h3 class="source-name"><a class="source-name__link" href="https://jojoldu.tistory.com/">기억보단 기록을</a></h3>
           <section class="articles-per-source">
             <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">[Ulysses] 에디터내 이미지 크기 조절</summary>
+              <details class="article-expander" open>
+                <summary class="article-expander__title">
+                    <span>[Ulysses] 에디터내 이미지 크기 조절</span>
+                    <span class="article-reading-time">1 min</span>
+                </summary>
                 <a class="article-summary-link article-summary-box-outer" href="https://jojoldu.tistory.com/633">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(1 min)</span>
-                    <span>반응형
+                  <div class="article-summary-box-inner media-object">
+                    <img src="https://img1.daumcdn.net/thumb/R800x0/?scode&#x3D;mtistory2&amp;fname&#x3D;https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FHDQnH%2Fbtrq4pTU2bh%2FmE9EkgZ263udUGf3U4oHN0%2Fimg.png" loading="lazy" class="media-object__media article-image"/>
+                    <span class="media-object__text">반응형
 
                     
                     (adsbygoogle &#x3D; window.adsbygoogle || []).push({}); 
@@ -778,20 +911,25 @@ Ulysses 에서는 이미지별로 사이즈 조절은 없고, 전체 설정으�
       </li>
     </ul>
   </section>
-  <section class="daily-content">
-    <h2 class="daily-heading"><time datatime="2022-01-17">2022-01-17</time></h2>
-    <ul class="sources card">
-      <li class="source">
+  <section class="daily-content js-toggle-accordions-scope">
+    <h2 class="daily-heading">
+      <button class="daily-heading__toggle" data-action="toggle-accordions"><time datetime="2022-01-17">2022-01-17</time></button>
+    </h2>
+    <ul class="sources">
+      <li class="source card">
         <section>
           <h3 class="source-name"><a class="source-name__link" href="https://jojoldu.tistory.com/">기억보단 기록을</a></h3>
           <section class="articles-per-source">
             <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">NOT IN 쿼리 성능 개선하기 (PostgreSQL)</summary>
+              <details class="article-expander" open>
+                <summary class="article-expander__title">
+                    <span>NOT IN 쿼리 성능 개선하기 (PostgreSQL)</span>
+                    <span class="article-reading-time">2 min</span>
+                </summary>
                 <a class="article-summary-link article-summary-box-outer" href="https://jojoldu.tistory.com/632">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(2 min)</span>
-                    <span>반응형
+                  <div class="article-summary-box-inner media-object">
+                    <img src="https://img1.daumcdn.net/thumb/R800x0/?scode&#x3D;mtistory2&amp;fname&#x3D;https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbyWroX%2FbtrqNLxqXS3%2FAeCHVKjSSZ8pDhHKoVtiw0%2Fimg.png" loading="lazy" class="media-object__media article-image"/>
+                    <span class="media-object__text">반응형
 
                     
                     (adsbygoogle &#x3D; window.adsbygoogle || []).push({}); 
@@ -824,8 +962,8 @@ WHERE (&quot;status&quot;::text &#x3D; &#x27;publish&#x27; AND &quot;published_d
   </section>
 
   <footer>
-    <time id="build-timestamp" datetime="2022-02-13T01:06:05.430Z">2022-02-13T01:06:05.430Z</time>
-    <span><a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.12.1</a></span>
+    <time id="build-timestamp" datetime="2022-02-14T00:59:24.370Z">2022-02-14T00:59:24.370Z</time>
+    <span><a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.13.0</a></span>
   </footer>
   <script src="index.js"></script>
   <!-- %before-body-end.html% -->

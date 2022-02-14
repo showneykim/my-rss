@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-02-13T01:06:05.451Z</id>
+    <id>urn:2022-02-14T00:59:24.397Z</id>
     <title>osmos::feed</title>
-    <updated>2022-02-13T01:06:05.451Z</updated>
-    <generator>osmosfeed 1.12.1</generator>
+    <updated>2022-02-14T00:59:24.397Z</updated>
+    <generator>osmosfeed 1.13.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[WebSockets 대신 Server-Sent Events 사용하기]]></title>
+        <id>https://news.hada.io/topic?id=5972</id>
+        <link href="https://news.hada.io/topic?id=5972"/>
+        <updated>2022-02-14T00:49:34.000Z</updated>
+        <summary type="html"><![CDATA[- 실시간 웹 어플리케이션을 만들때 보통 웹소켓이 생각나겠지만 SSE도 간단한 대안이 될 수 있음
+- 웹 소켓의 문제점 : HTTP 기반이 아니기 때문에 HTTP의 수혜를 받지 못함
+ㅤ→ 압축 불가, HTTP/2 멀티플렉싱 지원 미비, Proxy 들이 지원 안함, 하이재킹 가능 
+- Server-Sent Events(SSE)...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS 가상 대기실 솔루션 오픈소스 공개]]></title>
+        <id>https://news.hada.io/topic?id=5971</id>
+        <link href="https://news.hada.io/topic?id=5971"/>
+        <updated>2022-02-14T00:39:01.000Z</updated>
+        <summary type="html"><![CDATA[- 대량 트래픽 발생시 가상 대기실을 생성하고 사용자 요청을 버퍼링 
+ㅤ→ 임시로 트래픽을 오프로드 하는 클라우드 인프라를 생성 
+- 온라인 시험/티켓 판매/신규 제품 출시/대형 발표 등에 사용 가능 
+- 항상 사용할지, 트래픽 많을 때 만 사용할 지 결정 
+- CloudFormation 템플릿으...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[토리맘의 한글라이즈 프로젝트 - 공식 개발 레퍼런스를 한글로 번역]]></title>
+        <id>https://news.hada.io/topic?id=5970</id>
+        <link href="https://news.hada.io/topic?id=5970"/>
+        <updated>2022-02-14T00:23:39.000Z</updated>
+        <summary type="html"><![CDATA[- 다수의 공식 개발 레퍼런스를 한글로 번역 
+ㅤ→ Spring Batch/Boot/REST/Cloud 및 Apache Kafka, Reactor Core/Netty/Kafka, Prometheus, Resillience4J 등 
+- 용이한 검색을 위해 소제목을 포함한 타이틀은 영문을 유지
+- 엔지니어 토리맘님이 진행중인 개인 프로젝트]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JavaScript로 프린터 드라이버 작성하기]]></title>
         <id>https://news.hada.io/topic?id=5969</id>
@@ -131,50 +171,6 @@ orderRepository를 통해 주문을 조회한다
 - 기존 watchOS 등과 마찬가지로 "com.apple.platform.realityos" 명칭을 가진 플랫폼이 명시됨
 - 자체 OS & 바이너리 및 시뮬레이터도 포함 
 - 아마도 2개의 기기가 개발중이라 VR 기기가 먼저 나오고, AR 글래스는 그 뒤에 나올지도 모른다는 예...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPT-NeoX-20B 에게 사칙연산 질문을 물어봤더니]]></title>
-        <id>https://news.hada.io/topic?id=5962</id>
-        <link href="https://news.hada.io/topic?id=5962"/>
-        <updated>2022-02-12T02:06:19.000Z</updated>
-        <summary type="html"><![CDATA[- GPT-3 규모의 모델을 오픈소스로 만든 GPT-NeoX 에게 간단한 사칙연산 질문을 수행 
-- 100개중에 10개만 정답. 하지만 대부분이 정답에 *근접*
-Q: "What is 2653 * 30641?"
-A: 82356113 (틀림)
-정답은 81290573 
-- "언어 모델"은 기본적으로 수학은 잘 하지...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EdgeDB 1.0 릴리즈]]></title>
-        <id>https://news.hada.io/topic?id=5961</id>
-        <link href="https://news.hada.io/topic?id=5961"/>
-        <updated>2022-02-12T01:26:55.000Z</updated>
-        <summary type="html"><![CDATA[- PostgreSQL 기반의 오픈소스 Graph-Relational DB 
-- SQL보다 뛰어난 표현력을 지닌 EdgeQL 언어 
-- 리치 타입 시스템 
-- 선언형 스키마 : 상속, 계산 속성, 복잡한 제약조건(곧 액세스 제어규칙까지 지원 예정)까지 표현 가능 
-- 내장 마이그레이션 시스템 : 스키마를 자동 또는 대화...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[jless - 커맨드라인 JSON 뷰어]]></title>
-        <id>https://news.hada.io/topic?id=5960</id>
-        <link href="https://news.hada.io/topic?id=5960"/>
-        <updated>2022-02-12T01:05:02.000Z</updated>
-        <summary type="html"><![CDATA[- 외부 API 및 페이로드 디버깅용
-- JSON 구조를 커서로 이동하며 탐색 가능
-ㅤ→ 라인/노드/뎁스 단위 이동 
-- 계층 구조 표현 및 신택스 하이라이팅 지원 
-- 정규식 검색 지원 
-- Rust 오픈소스 (맥/리눅스 바이너리 제공)]]></summary>
         <author>
             <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
