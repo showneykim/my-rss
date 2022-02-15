@@ -1,10 +1,149 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-02-14T00:59:24.397Z</id>
+    <id>urn:2022-02-15T01:09:30.182Z</id>
     <title>osmos::feed</title>
-    <updated>2022-02-14T00:59:24.397Z</updated>
-    <generator>osmosfeed 1.13.0</generator>
+    <updated>2022-02-15T01:09:30.182Z</updated>
+    <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[njt - npm jump to]]></title>
+        <id>https://news.hada.io/topic?id=5980</id>
+        <link href="https://news.hada.io/topic?id=5980"/>
+        <updated>2022-02-15T00:49:08.000Z</updated>
+        <summary type="html"><![CDATA[- 검색 필요없이 npm 패키지 관련 사이트로 한번에 보내주는 유틸리티
+njt <package> [dest]
+- 기본은 npmjs 페이지 
+- h : 홈페이지 
+- g : github 
+- c : changelog 
+- i : issues 
+- r : releases 
+- b : package cost estimation on bundlephobia...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[.NET 20주년]]></title>
+        <id>https://news.hada.io/topic?id=5979</id>
+        <link href="https://news.hada.io/topic?id=5979"/>
+        <updated>2022-02-15T00:36:40.000Z</updated>
+        <summary type="html"><![CDATA[- 무료, 크로스플랫폼, 오픈소스
+- 윈도우/리눅스/맥 지원 
+
+2000 차세대 인터넷을 위한 .NET 플랫폼 공개
+2002 Visual Studio .NET 공개 : Windows Forms, ASP.NET, C# & Visual Basic 지원 
+2005 F# 발표. 첫번째 함수형 .NET 프로그래밍 언어 
+2008 ASP.NET MVC 소...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android 13의 가상화로 Pixel 6에서 윈도우11 및 리눅스 배포판 실행 가능]]></title>
+        <id>https://news.hada.io/topic?id=5978</id>
+        <link href="https://news.hada.io/topic?id=5978"/>
+        <updated>2022-02-15T00:21:08.000Z</updated>
+        <summary type="html"><![CDATA[- 새로 공개된 첫번째 안드로이드 13 개발자 프리뷰에 숨겨진 기능 
+- Google Tensor CPU 기반의 스마트폰(Pixel 6)에서 풀 가상화(Full Virtualization)가 가능 
+ㅤ→ 윈도우11 이나 Ubuntu/Arch Linux Arm 등을 거의 네이티브 속도로 실행 가능하다는 것
+- 한 개발자가 Pixel 6 상에서 KVM 하...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why are hyperlinks blue?]]></title>
+        <id>https://css-tricks.com/?p=363555</id>
+        <link href="https://css-tricks.com/why-are-hyperlinks-blue/"/>
+        <updated>2022-02-14T20:13:31.000Z</updated>
+        <summary type="html"><![CDATA[Last year, Elise Blanchard did some great historical research and discovered that blue hyperlinks replaced black hyperlinks in 1993. They’ve been blue for so long now that the general advice I always hear is to keep them that way. There …
+Why are hyperlinks blue? originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting Started With the File System Access API]]></title>
+        <id>https://css-tricks.com/?p=363339</id>
+        <link href="https://css-tricks.com/getting-started-with-the-file-system-access-api/"/>
+        <updated>2022-02-14T16:01:21.000Z</updated>
+        <summary type="html"><![CDATA[The File System Access API is a web API that allows read and write access to a user’s local files. It unlocks new capabilities to build powerful web applications, such as text editors or IDEs, image editing tools, improved …
+Getting Started With the File System Access API originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Charlie Gerard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft를 잊지 말아요]]></title>
+        <id>https://news.hada.io/topic?id=5977</id>
+        <link href="https://news.hada.io/topic?id=5977"/>
+        <updated>2022-02-14T05:14:04.000Z</updated>
+        <summary type="html"><![CDATA["Redmond의 거인을 이해하면 클라우드 인프라, 스타트업 전략, 소프트웨어의 미래에 대한 귀중한 교훈을 얻을 수 있음"
+
+크기에 비해 Microsoft는 기술 분야에서 간과되는 회사임 
+1. 애플,페이스북,아마존,구글 처럼 사랑받는 소비자 브랜드가 아님 
+2. VC 성공사례도 아님. ...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sci-Hub 통계와 데이터베이스]]></title>
+        <id>https://news.hada.io/topic?id=5976</id>
+        <link href="https://news.hada.io/topic?id=5976"/>
+        <updated>2022-02-14T02:09:12.000Z</updated>
+        <summary type="html"><![CDATA[- 8834만개의 연구 논문/자료 DB(약 100TB)
+ㅤ→ 의학/화학/생물학/인문학/물리학/공학/공학/경제학..
+ㅤ→ 출처는 저널 80%, 컨퍼런스 6%, 책 5%
+ㅤ→ 77%는 1980~2020년 사이, 36%는 2010~2020년 출판물
+- dois 목록 및 메타데이터만 저장한 SQL 테이블도 다운로드 가능
+- 전체...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IPA - 개인 정보를 보호하는 광고 어트리뷰션]]></title>
+        <id>https://news.hada.io/topic?id=5975</id>
+        <link href="https://news.hada.io/topic?id=5975"/>
+        <updated>2022-02-14T01:43:31.000Z</updated>
+        <summary type="html"><![CDATA[- 모질라가 Meta(페이스북)과 함께 IPA(Interoperable Private Attribution)를 만들고 W3C의 PATCG에 제안
+- 광고는 웹에 큰 역할을 하지만, 최근의 광고 기법들은 개인정보 보호 측면에서는 좋지 않음 
+- 어트리뷰션은 광고주들이 광고 캠페인이 잘 동작 하는 지를 알게 해주는 것
+- IPA는 개인...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[타입스크립트에서 Type, Interface를 어떻게 사용해야 하는가? [해외글]]]></title>
+        <id>https://news.hada.io/topic?id=5974</id>
+        <link href="https://news.hada.io/topic?id=5974"/>
+        <updated>2022-02-14T01:32:05.000Z</updated>
+        <summary type="html"><![CDATA[타입스크립트에서 Type, Interface를 어떻게 사용해야 하는가?
+
+1 - 나는 Interface만을 사용하는 것을 선호한다. 이는 지향 객체 프로그래밍에서 우리가 무엇을 할 것인지를 명확하게 보여주기 때문.
+2 - 다른 언어의 프로그래머의 경우 Type 대신 Interface를 사용하면 더 읽기 쉽다.
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lurnby - 웹을 이용한 학습도구 오픈소스]]></title>
+        <id>https://news.hada.io/topic?id=5973</id>
+        <link href="https://news.hada.io/topic?id=5973"/>
+        <updated>2022-02-14T01:10:15.000Z</updated>
+        <summary type="html"><![CDATA[- 웹 콘텐츠를 가져와 광고/스크립트 등을 제거하고 노트/하이라이트 하면서 공부할 수 있게 해주는 도구 
+ㅤ→ ePub, 블로그, 이메일 내용등
+- 하이라이트 한 내용들은 정렬/검색 및 리뷰 가능 
+ㅤ→ 별도 DB로 저장 지원
+- 폰트 스타일/크기 및 다크모드 등 원하는 형태로 바꿔서 읽기...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WebSockets 대신 Server-Sent Events 사용하기]]></title>
         <id>https://news.hada.io/topic?id=5972</id>
@@ -28,89 +167,6 @@
 - 온라인 시험/티켓 판매/신규 제품 출시/대형 발표 등에 사용 가능 
 - 항상 사용할지, 트래픽 많을 때 만 사용할 지 결정 
 - CloudFormation 템플릿으...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[토리맘의 한글라이즈 프로젝트 - 공식 개발 레퍼런스를 한글로 번역]]></title>
-        <id>https://news.hada.io/topic?id=5970</id>
-        <link href="https://news.hada.io/topic?id=5970"/>
-        <updated>2022-02-14T00:23:39.000Z</updated>
-        <summary type="html"><![CDATA[- 다수의 공식 개발 레퍼런스를 한글로 번역 
-ㅤ→ Spring Batch/Boot/REST/Cloud 및 Apache Kafka, Reactor Core/Netty/Kafka, Prometheus, Resillience4J 등 
-- 용이한 검색을 위해 소제목을 포함한 타이틀은 영문을 유지
-- 엔지니어 토리맘님이 진행중인 개인 프로젝트]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript로 프린터 드라이버 작성하기]]></title>
-        <id>https://news.hada.io/topic?id=5969</id>
-        <link href="https://news.hada.io/topic?id=5969"/>
-        <updated>2022-02-13T00:49:48.000Z</updated>
-        <summary type="html"><![CDATA[- 아마존에서 구입한 저가형 Polono 라벨 프린터를 업계 표준인 고가형 Zebra 처럼 사용하고 싶음
-ㅤ→ Zebra는 ASCII 텍스트를 시리얼로 보내서 라벨을 프린트 하는 언어인 ZPL 사용 
-- 라즈베리 파이에 연결해서 택배 송장 프린터로 사용하고 싶었지만 드라이버가 arm용이 없음 
-- 배송회사인...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Puppeteer-to-Playwright - 스크립트 변환 도구]]></title>
-        <id>https://news.hada.io/topic?id=5968</id>
-        <link href="https://news.hada.io/topic?id=5968"/>
-        <updated>2022-02-13T00:25:22.000Z</updated>
-        <summary type="html"><![CDATA[기존 Puppeteer 스크립트를 Playwright 로 변환 
-- import 변환 
-- 기본 메소드들을 새 API로 변환 ( setViewport → setViewportSize )
-- 브라우저 컨텍스트 명시적으로 생성 
-- explicit waiting 제거 
-- 쿠키 관련 명령 변환 
-
-현재 미지원 기능 
-- 파일...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Firecracker v1.0.0 릴리즈]]></title>
-        <id>https://news.hada.io/topic?id=5967</id>
-        <link href="https://news.hada.io/topic?id=5967"/>
-        <updated>2022-02-13T00:07:52.000Z</updated>
-        <summary type="html"><![CDATA[- AWS가 Lambda를 위해 만들었던 서버리스용 microVM 가상화 솔루션 
-- Linux KVM을 기반으로 하는 가상 머신 모니터(VMM)를 구현하고 RESTful API를 제공 
-- 필요없는 것들을 제외하고 메모리 사용량을 줄인 샌드박스 환경으로 최대한 가볍고 안전하게 
-ㅤ→ Firecracker VM은 125ms 내에 시작...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 여러분의 닉네임은 어떻게 만들어졌나요?]]></title>
-        <id>https://news.hada.io/topic?id=5966</id>
-        <link href="https://news.hada.io/topic?id=5966"/>
-        <updated>2022-02-12T16:20:34.000Z</updated>
-        <summary type="html"><![CDATA[제 2의 이름이라 할 수 있는, 여러분의 닉네임이 만들어진 방법? 계기?와 뜻이 궁금합니다 😀]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[브라우저 이해하기 시리즈]]></title>
-        <id>https://news.hada.io/topic?id=5965</id>
-        <link href="https://news.hada.io/topic?id=5965"/>
-        <updated>2022-02-12T13:15:45.000Z</updated>
-        <summary type="html"><![CDATA[Google Chrome 팀에서 근무하는 Kosamari 가 작성한 브라우저의 동작 방식 아티클들과
-1️⃣ http://bit.ly/browsers-pt1 
-2️⃣ http://bit.ly/browsers-pt2 
-3️⃣ http://bit.ly/browsers-pt3 
-4️⃣ http://bit.ly/browsers-pt4
-
-브라우저의 동작 방식에 대해서 이야기...]]></summary>
         <author>
             <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
@@ -150,29 +206,6 @@ orderRepository를 통해 주문을 조회한다
 여…]]></summary>
         <author>
             <name>향로</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 여러분의 방에는 어떤 독특하며 애용하는 것이 있나요?]]></title>
-        <id>https://news.hada.io/topic?id=5964</id>
-        <link href="https://news.hada.io/topic?id=5964"/>
-        <updated>2022-02-12T09:48:06.000Z</updated>
-        <summary type="html"><![CDATA[다른 사람들은 잘 모르는데 여러분이 애용하면서도 독특한 기기들이 궁금해요. 요즘 제가 지름신이 안 와서(... ) 아이패드나 맥북에는 그만 더 이상 끌리지 않게 되었는데. 무언가 색다른 걸 사보고 싶거든요. 'ㅁ '!]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애플의 새로운 'realityOS' 깃헙 커밋에서 발견]]></title>
-        <id>https://news.hada.io/topic?id=5963</id>
-        <link href="https://news.hada.io/topic?id=5963"/>
-        <updated>2022-02-12T04:23:56.000Z</updated>
-        <summary type="html"><![CDATA[- 애플이 준비중인 AR/VR용 OS 
-- 기존 watchOS 등과 마찬가지로 "com.apple.platform.realityos" 명칭을 가진 플랫폼이 명시됨
-- 자체 OS & 바이너리 및 시뮬레이터도 포함 
-- 아마도 2개의 기기가 개발중이라 VR 기기가 먼저 나오고, AR 글래스는 그 뒤에 나올지도 모른다는 예...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
     </entry>
     <entry>
@@ -341,17 +374,6 @@ Using Different Color Spaces for Non-Boring Gradients originally published on CS
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CSS Scroll Snap Slide Deck That Supports Live Coding]]></title>
-        <id>https://css-tricks.com/?p=362616</id>
-        <link href="https://css-tricks.com/css-scroll-snap-slide-deck/"/>
-        <updated>2022-02-07T15:24:44.000Z</updated>
-        <summary type="html"><![CDATA[Virtual conferences have changed the game in terms of how a presenter is able to deliver content to an audience. At a live event it’s likely you just have your laptop, but at home, you may have multiple monitors so …
-CSS Scroll Snap Slide Deck That Supports Live Coding originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Stephanie Eckles</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[추천도서] Do it! 점프 투 파이썬]]></title>
         <id>https://rastalion.me/?p=2458</id>
         <link href="https://rastalion.me/%ec%b6%94%ec%b2%9c%eb%8f%84%ec%84%9c-do-it-%ec%a0%90%ed%94%84-%ed%88%ac-%ed%8c%8c%ec%9d%b4%ec%8d%ac/"/>
@@ -360,17 +382,6 @@ CSS Scroll Snap Slide Deck That Supports Live Coding originally published on CSS
 The post [추천도서] Do it! 점프 투 파이썬 appeared first on RastaLion's IT Blog.]]></summary>
         <author>
             <name>Rasta Lion</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Deep Introduction to WordPress Block Themes]]></title>
-        <id>https://css-tricks.com/?p=362799</id>
-        <link href="https://css-tricks.com/a-deep-introduction-to-wordpress-block-themes/"/>
-        <updated>2022-02-04T15:07:04.000Z</updated>
-        <summary type="html"><![CDATA[The relatively new WordPress editor, also known as the WordPress Block Editor, always under development via the Gutenberg plugin, has been with us since 2018. You can use the block editor on any WordPress theme, provided the theme …
-A Deep Introduction to WordPress Block Themes originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Ganesh Dahal</name>
         </author>
     </entry>
     <entry>

@@ -1,196 +1,405 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
-  <title>osmos::feed</title>
-  <meta charset="utf-8" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta name="robots" content="noindex, nofollow" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
-  <link rel="alternate" type="application/rss+xml" title="osmos::feed" href="feed.atom" />
-  <link href="index.css" rel="stylesheet" />
-  <!-- %before-head-end.html% -->
-</head>
+  <head>
+    <title>osmos::feed</title>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="robots" content="noindex, nofollow" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
+    <link rel="alternate" type="application/rss+xml" title="osmos::feed" href="feed.atom" />
+    <link href="index.css?v1.14.4" rel="stylesheet" />
+    <!-- %before-head-end.html% -->
+  </head>
 
-<body>
-<!-- %after-body-begin.html% -->
-  <section class="daily-content js-toggle-accordions-scope">
-    <h2 class="daily-heading">
-      <button class="daily-heading__toggle" data-action="toggle-accordions"><time datetime="2022-02-14">2022-02-14</time></button>
-    </h2>
-    <ul class="sources">
-      <li class="source card">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://news.hada.io">GeekNews - 개발/기술/스타트업 뉴스 서비스</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander" open>
-                <summary class="article-expander__title">
-                    <span>WebSockets 대신 Server-Sent Events 사용하기</span>
-                    <span class="article-reading-time">1 min</span>
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://news.hada.io/topic?id&#x3D;5972">
-                  <div class="article-summary-box-inner media-object">
-                    <img src="https://social.news.hada.io/topic/5972" loading="lazy" class="media-object__media article-image"/>
-                    <span class="media-object__text">- 실시간 웹 어플리케이션을 만들때 보통 웹소켓이 생각나겠지만 SSE도 간단한 대안이 될 수 있음
+  <body>
+    <!-- %after-body-begin.html% -->
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-02-15 datetime="2022-02-15T00:49:08.000Z">2022-02-15</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-02-15 datetime="2022-02-15T00:49:08.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >GeekNews - 개발/기술/스타트업 뉴스 서비스</button>
+                  <a class="source-heading__link" href="https://news.hada.io">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.hada.io/topic?id&#x3D;5980"
+                        open
+                      >
+                        <summary class="article-expander__title">njt - npm jump to</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://news.hada.io/topic?id&#x3D;5980">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://social.news.hada.io/topic/5980" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>- 검색 필요없이 npm 패키지 관련 사이트로 한번에 보내주는 유틸리티
+njt 
+ [dest]
+- 기본은 npmjs 페이지 
+- h : 홈페이지 
+- g : github 
+- c : changelog 
+- i : issues 
+- r : releases 
+- b : package cost estimation on bundlephobia...</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.hada.io/topic?id&#x3D;5979"
+                        open
+                      >
+                        <summary class="article-expander__title">.NET 20주년</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://news.hada.io/topic?id&#x3D;5979">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://social.news.hada.io/topic/5979" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>- 무료, 크로스플랫폼, 오픈소스
+- 윈도우/리눅스/맥 지원 
+
+2000 차세대 인터넷을 위한 .NET 플랫폼 공개
+2002 Visual Studio .NET 공개 : Windows Forms, ASP.NET, C# &amp; Visual Basic 지원 
+2005 F# 발표. 첫번째 함수형 .NET 프로그래밍 언어 
+2008 ASP.NET MVC 소...</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.hada.io/topic?id&#x3D;5978"
+                        open
+                      >
+                        <summary class="article-expander__title">Android 13의 가상화로 Pixel 6에서 윈도우11 및 리눅스 배포판 실행 가능</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://news.hada.io/topic?id&#x3D;5978">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://social.news.hada.io/topic/5978" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>- 새로 공개된 첫번째 안드로이드 13 개발자 프리뷰에 숨겨진 기능 
+- Google Tensor CPU 기반의 스마트폰(Pixel 6)에서 풀 가상화(Full Virtualization)가 가능 
+ㅤ→ 윈도우11 이나 Ubuntu/Arch Linux Arm 등을 거의 네이티브 속도로 실행 가능하다는 것
+- 한 개발자가 Pixel 6 상에서 KVM 하...</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-02-14 datetime="2022-02-14T20:13:31.000Z">2022-02-14</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-02-14 datetime="2022-02-14T20:13:31.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >CSS-Tricks</button>
+                  <a class="source-heading__link" href="https://css-tricks.com">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://css-tricks.com/?p&#x3D;363555"
+                        open
+                      >
+                        <summary class="article-expander__title">Why are hyperlinks blue?</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/why-are-hyperlinks-blue/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://css-tricks.com/wp-json/social-image-generator/v1/image/363555" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Last year, Elise Blanchard did some great historical research and discovered that blue hyperlinks replaced black hyperlinks in 1993. They’ve been blue for so long now that the general advice I always hear is to keep them that way. There …
+Why are hyperlinks blue? originally published on CSS-Tricks. You should get the newsletter.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;2
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://css-tricks.com/?p&#x3D;363339"
+                        open
+                      >
+                        <summary class="article-expander__title">Getting Started With the File System Access API</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/getting-started-with-the-file-system-access-api/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://css-tricks.com/wp-json/social-image-generator/v1/image/363339" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>The File System Access API is a web API that allows read and write access to a user’s local files. It unlocks new capabilities to build powerful web applications, such as text editors or IDEs, image editing tools, improved …
+Getting Started With the File System Access API originally published on CSS-Tricks. You should get the newsletter.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;5
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >GeekNews - 개발/기술/스타트업 뉴스 서비스</button>
+                  <a class="source-heading__link" href="https://news.hada.io">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.hada.io/topic?id&#x3D;5977"
+                        open
+                      >
+                        <summary class="article-expander__title">Microsoft를 잊지 말아요</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://news.hada.io/topic?id&#x3D;5977">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://social.news.hada.io/topic/5977" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>&quot;Redmond의 거인을 이해하면 클라우드 인프라, 스타트업 전략, 소프트웨어의 미래에 대한 귀중한 교훈을 얻을 수 있음&quot;
+
+크기에 비해 Microsoft는 기술 분야에서 간과되는 회사임 
+1. 애플,페이스북,아마존,구글 처럼 사랑받는 소비자 브랜드가 아님 
+2. VC 성공사례도 아님. ...</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;8
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.hada.io/topic?id&#x3D;5976"
+                        open
+                      >
+                        <summary class="article-expander__title">Sci-Hub 통계와 데이터베이스</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://news.hada.io/topic?id&#x3D;5976">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://social.news.hada.io/topic/5976" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>- 8834만개의 연구 논문/자료 DB(약 100TB)
+ㅤ→ 의학/화학/생물학/인문학/물리학/공학/공학/경제학..
+ㅤ→ 출처는 저널 80%, 컨퍼런스 6%, 책 5%
+ㅤ→ 77%는 1980~2020년 사이, 36%는 2010~2020년 출판물
+- dois 목록 및 메타데이터만 저장한 SQL 테이블도 다운로드 가능
+- 전체...</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.hada.io/topic?id&#x3D;5975"
+                        open
+                      >
+                        <summary class="article-expander__title">IPA - 개인 정보를 보호하는 광고 어트리뷰션</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://news.hada.io/topic?id&#x3D;5975">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://social.news.hada.io/topic/5975" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>- 모질라가 Meta(페이스북)과 함께 IPA(Interoperable Private Attribution)를 만들고 W3C의 PATCG에 제안
+- 광고는 웹에 큰 역할을 하지만, 최근의 광고 기법들은 개인정보 보호 측면에서는 좋지 않음 
+- 어트리뷰션은 광고주들이 광고 캠페인이 잘 동작 하는 지를 알게 해주는 것
+- IPA는 개인...</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.hada.io/topic?id&#x3D;5974"
+                        open
+                      >
+                        <summary class="article-expander__title">타입스크립트에서 Type, Interface를 어떻게 사용해야 하는가? [해외글]</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://news.hada.io/topic?id&#x3D;5974">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://social.news.hada.io/topic/5974" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>타입스크립트에서 Type, Interface를 어떻게 사용해야 하는가?
+
+1 - 나는 Interface만을 사용하는 것을 선호한다. 이는 지향 객체 프로그래밍에서 우리가 무엇을 할 것인지를 명확하게 보여주기 때문.
+2 - 다른 언어의 프로그래머의 경우 Type 대신 Interface를 사용하면 더 읽기 쉽다.
+...</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.hada.io/topic?id&#x3D;5973"
+                        open
+                      >
+                        <summary class="article-expander__title">Lurnby - 웹을 이용한 학습도구 오픈소스</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://news.hada.io/topic?id&#x3D;5973">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://social.news.hada.io/topic/5973" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>- 웹 콘텐츠를 가져와 광고/스크립트 등을 제거하고 노트/하이라이트 하면서 공부할 수 있게 해주는 도구 
+ㅤ→ ePub, 블로그, 이메일 내용등
+- 하이라이트 한 내용들은 정렬/검색 및 리뷰 가능 
+ㅤ→ 별도 DB로 저장 지원
+- 폰트 스타일/크기 및 다크모드 등 원하는 형태로 바꿔서 읽기...</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.hada.io/topic?id&#x3D;5972"
+                        open
+                      >
+                        <summary class="article-expander__title">WebSockets 대신 Server-Sent Events 사용하기</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://news.hada.io/topic?id&#x3D;5972">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://social.news.hada.io/topic/5972" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>- 실시간 웹 어플리케이션을 만들때 보통 웹소켓이 생각나겠지만 SSE도 간단한 대안이 될 수 있음
 - 웹 소켓의 문제점 : HTTP 기반이 아니기 때문에 HTTP의 수혜를 받지 못함
 ㅤ→ 압축 불가, HTTP/2 멀티플렉싱 지원 미비, Proxy 들이 지원 안함, 하이재킹 가능 
 - Server-Sent Events(SSE)...</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander" open>
-                <summary class="article-expander__title">
-                    <span>AWS 가상 대기실 솔루션 오픈소스 공개</span>
-                    <span class="article-reading-time">0 min</span>
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://news.hada.io/topic?id&#x3D;5971">
-                  <div class="article-summary-box-inner media-object">
-                    <img src="https://social.news.hada.io/topic/5971" loading="lazy" class="media-object__media article-image"/>
-                    <span class="media-object__text">- 대량 트래픽 발생시 가상 대기실을 생성하고 사용자 요청을 버퍼링 
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.hada.io/topic?id&#x3D;5971"
+                        open
+                      >
+                        <summary class="article-expander__title">AWS 가상 대기실 솔루션 오픈소스 공개</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://news.hada.io/topic?id&#x3D;5971">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://social.news.hada.io/topic/5971" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>- 대량 트래픽 발생시 가상 대기실을 생성하고 사용자 요청을 버퍼링 
 ㅤ→ 임시로 트래픽을 오프로드 하는 클라우드 인프라를 생성 
 - 온라인 시험/티켓 판매/신규 제품 출시/대형 발표 등에 사용 가능 
 - 항상 사용할지, 트래픽 많을 때 만 사용할 지 결정 
 - CloudFormation 템플릿으...</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander" open>
-                <summary class="article-expander__title">
-                    <span>토리맘의 한글라이즈 프로젝트 - 공식 개발 레퍼런스를 한글로 번역</span>
-                    <span class="article-reading-time">0 min</span>
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://news.hada.io/topic?id&#x3D;5970">
-                  <div class="article-summary-box-inner media-object">
-                    <img src="https://social.news.hada.io/topic/5970" loading="lazy" class="media-object__media article-image"/>
-                    <span class="media-object__text">- 다수의 공식 개발 레퍼런스를 한글로 번역 
-ㅤ→ Spring Batch/Boot/REST/Cloud 및 Apache Kafka, Reactor Core/Netty/Kafka, Prometheus, Resillience4J 등 
-- 용이한 검색을 위해 소제목을 포함한 타이틀은 영문을 유지
-- 엔지니어 토리맘님이 진행중인 개인 프로젝트</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-    </ul>
-  </section>
-  <section class="daily-content js-toggle-accordions-scope">
-    <h2 class="daily-heading">
-      <button class="daily-heading__toggle" data-action="toggle-accordions"><time datetime="2022-02-13">2022-02-13</time></button>
-    </h2>
-    <ul class="sources">
-      <li class="source card">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://news.hada.io">GeekNews - 개발/기술/스타트업 뉴스 서비스</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander" open>
-                <summary class="article-expander__title">
-                    <span>JavaScript로 프린터 드라이버 작성하기</span>
-                    <span class="article-reading-time">1 min</span>
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://news.hada.io/topic?id&#x3D;5969">
-                  <div class="article-summary-box-inner media-object">
-                    <img src="https://social.news.hada.io/topic/5969" loading="lazy" class="media-object__media article-image"/>
-                    <span class="media-object__text">- 아마존에서 구입한 저가형 Polono 라벨 프린터를 업계 표준인 고가형 Zebra 처럼 사용하고 싶음
-ㅤ→ Zebra는 ASCII 텍스트를 시리얼로 보내서 라벨을 프린트 하는 언어인 ZPL 사용 
-- 라즈베리 파이에 연결해서 택배 송장 프린터로 사용하고 싶었지만 드라이버가 arm용이 없음 
-- 배송회사인...</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander" open>
-                <summary class="article-expander__title">
-                    <span>Puppeteer-to-Playwright - 스크립트 변환 도구</span>
-                    <span class="article-reading-time">0 min</span>
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://news.hada.io/topic?id&#x3D;5968">
-                  <div class="article-summary-box-inner media-object">
-                    <img src="https://social.news.hada.io/topic/5968" loading="lazy" class="media-object__media article-image"/>
-                    <span class="media-object__text">기존 Puppeteer 스크립트를 Playwright 로 변환 
-- import 변환 
-- 기본 메소드들을 새 API로 변환 ( setViewport → setViewportSize )
-- 브라우저 컨텍스트 명시적으로 생성 
-- explicit waiting 제거 
-- 쿠키 관련 명령 변환 
-
-현재 미지원 기능 
-- 파일...</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander" open>
-                <summary class="article-expander__title">
-                    <span>Firecracker v1.0.0 릴리즈</span>
-                    <span class="article-reading-time">0 min</span>
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://news.hada.io/topic?id&#x3D;5967">
-                  <div class="article-summary-box-inner media-object">
-                    <img src="https://social.news.hada.io/topic/5967" loading="lazy" class="media-object__media article-image"/>
-                    <span class="media-object__text">- AWS가 Lambda를 위해 만들었던 서버리스용 microVM 가상화 솔루션 
-- Linux KVM을 기반으로 하는 가상 머신 모니터(VMM)를 구현하고 RESTful API를 제공 
-- 필요없는 것들을 제외하고 메모리 사용량을 줄인 샌드박스 환경으로 최대한 가볍고 안전하게 
-ㅤ→ Firecracker VM은 125ms 내에 시작...</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-    </ul>
-  </section>
-  <section class="daily-content js-toggle-accordions-scope">
-    <h2 class="daily-heading">
-      <button class="daily-heading__toggle" data-action="toggle-accordions"><time datetime="2022-02-12">2022-02-12</time></button>
-    </h2>
-    <ul class="sources">
-      <li class="source card">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://css-tricks.com">CSS-Tricks</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander" open>
-                <summary class="article-expander__title">
-                    <span>Your CSS reset needs text-size-adjust (probably)</span>
-                    <span class="article-reading-time">2 min</span>
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/your-css-reset-needs-text-size-adjust-probably/">
-                  <div class="article-summary-box-inner media-object">
-                    <img src="https://css-tricks.com/wp-json/social-image-generator/v1/image/363498" loading="lazy" class="media-object__media article-image"/>
-                    <span class="media-object__text">Kilian Valkhof:
-[…] Mobile Safari increases the default font-size when you switch a website from portrait to landscape. On phones that is, it doesn’t do it on iPad. Safari has been doing this for a long time, as a 
-…
-Your CSS reset needs text-size-adjust (probably) originally published on CSS-Tricks. You should get the newsletter.</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-      <li class="source card">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://jojoldu.tistory.com/">기억보단 기록을</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander" open>
-                <summary class="article-expander__title">
-                    <span>Stub 을 이용한 Service 계층 단위 테스트 하기</span>
-                    <span class="article-reading-time">5 min</span>
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://jojoldu.tistory.com/637">
-                  <div class="article-summary-box-inner media-object">
-                    <img src="https://img1.daumcdn.net/thumb/R800x0/?scode&#x3D;mtistory2&amp;fname&#x3D;https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FuafVI%2Fbtrs7lXnos1%2FUrCOOiX7kXaZcBnmJixBL0%2Fimg.png" loading="lazy" class="media-object__media article-image"/>
-                    <span class="media-object__text">반응형
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-02-12 datetime="2022-02-12T10:52:06.000Z">2022-02-12</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-02-12 datetime="2022-02-12T10:52:06.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >기억보단 기록을</button>
+                  <a class="source-heading__link" href="https://jojoldu.tistory.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://jojoldu.tistory.com/637"
+                        open
+                      >
+                        <summary class="article-expander__title">Stub 을 이용한 Service 계층 단위 테스트 하기</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://jojoldu.tistory.com/637">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://img1.daumcdn.net/thumb/R800x0/?scode&#x3D;mtistory2&amp;fname&#x3D;https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FuafVI%2Fbtrs7lXnos1%2FUrCOOiX7kXaZcBnmJixBL0%2Fimg.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>반응형
 
                     
                     (adsbygoogle &#x3D; window.adsbygoogle || []).push({}); 
@@ -218,269 +427,349 @@ orderRepository를 통해 주문을 조회한다
 조회된 주문 상태가 완료가 아니면 메세지와 함께 에러가 발생한다
 조회된 주문 상태가 완료처리인 경우 그대로 메소드가 종료
 여…</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-      <li class="source card">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://news.hada.io">GeekNews - 개발/기술/스타트업 뉴스 서비스</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander" open>
-                <summary class="article-expander__title">
-                    <span>Ask GN: 여러분의 닉네임은 어떻게 만들어졌나요?</span>
-                    <span class="article-reading-time">1 min</span>
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://news.hada.io/topic?id&#x3D;5966">
-                  <div class="article-summary-box-inner media-object">
-                    <img src="https://social.news.hada.io/topic/5966" loading="lazy" class="media-object__media article-image"/>
-                    <span class="media-object__text">제 2의 이름이라 할 수 있는, 여러분의 닉네임이 만들어진 방법? 계기?와 뜻이 궁금합니다 😀</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander" open>
-                <summary class="article-expander__title">
-                    <span>브라우저 이해하기 시리즈</span>
-                    <span class="article-reading-time">0 min</span>
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://news.hada.io/topic?id&#x3D;5965">
-                  <div class="article-summary-box-inner media-object">
-                    <img src="https://social.news.hada.io/topic/5965" loading="lazy" class="media-object__media article-image"/>
-                    <span class="media-object__text">Google Chrome 팀에서 근무하는 Kosamari 가 작성한 브라우저의 동작 방식 아티클들과
-1️⃣ http://bit.ly/browsers-pt1 
-2️⃣ http://bit.ly/browsers-pt2 
-3️⃣ http://bit.ly/browsers-pt3 
-4️⃣ http://bit.ly/browsers-pt4
-
-브라우저의 동작 방식에 대해서 이야기...</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander" open>
-                <summary class="article-expander__title">
-                    <span>Ask GN: 여러분의 방에는 어떤 독특하며 애용하는 것이 있나요?</span>
-                    <span class="article-reading-time">1 min</span>
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://news.hada.io/topic?id&#x3D;5964">
-                  <div class="article-summary-box-inner media-object">
-                    <img src="https://social.news.hada.io/topic/5964" loading="lazy" class="media-object__media article-image"/>
-                    <span class="media-object__text">다른 사람들은 잘 모르는데 여러분이 애용하면서도 독특한 기기들이 궁금해요. 요즘 제가 지름신이 안 와서(... ) 아이패드나 맥북에는 그만 더 이상 끌리지 않게 되었는데. 무언가 색다른 걸 사보고 싶거든요. &#x27;ㅁ &#x27;!</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander" open>
-                <summary class="article-expander__title">
-                    <span>애플의 새로운 &#x27;realityOS&#x27; 깃헙 커밋에서 발견</span>
-                    <span class="article-reading-time">0 min</span>
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://news.hada.io/topic?id&#x3D;5963">
-                  <div class="article-summary-box-inner media-object">
-                    <img src="https://social.news.hada.io/topic/5963" loading="lazy" class="media-object__media article-image"/>
-                    <span class="media-object__text">- 애플이 준비중인 AR/VR용 OS 
-- 기존 watchOS 등과 마찬가지로 &quot;com.apple.platform.realityos&quot; 명칭을 가진 플랫폼이 명시됨
-- 자체 OS &amp; 바이너리 및 시뮬레이터도 포함 
-- 아마도 2개의 기기가 개발중이라 VR 기기가 먼저 나오고, AR 글래스는 그 뒤에 나올지도 모른다는 예...</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-    </ul>
-  </section>
-  <section class="daily-content js-toggle-accordions-scope">
-    <h2 class="daily-heading">
-      <button class="daily-heading__toggle" data-action="toggle-accordions"><time datetime="2022-02-11">2022-02-11</time></button>
-    </h2>
-    <ul class="sources">
-      <li class="source card">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://css-tricks.com">CSS-Tricks</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander" open>
-                <summary class="article-expander__title">
-                    <span>9 New React and JavaScript Links for February 2022</span>
-                    <span class="article-reading-time">3 min</span>
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/9-new-react-and-javascript-links-for-february-2022/">
-                  <div class="article-summary-box-inner media-object">
-                    <img src="https://css-tricks.com/wp-json/social-image-generator/v1/image/363396" loading="lazy" class="media-object__media article-image"/>
-                    <span class="media-object__text">Every now and then, I find that I’ve accumulated a bunch of links about various things I find interesting. Like React and JavaScript! Here’s a list of nine links to other articles about them that I’ve been saving up and …
+                                &ensp;<span class="article-reading-time">(&hairsp;5
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >CSS-Tricks</button>
+                  <a class="source-heading__link" href="https://css-tricks.com">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://css-tricks.com/?p&#x3D;363498"
+                        open
+                      >
+                        <summary class="article-expander__title">Your CSS reset needs text-size-adjust (probably)</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/your-css-reset-needs-text-size-adjust-probably/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://css-tricks.com/wp-json/social-image-generator/v1/image/363498" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Kilian Valkhof:
+[…] Mobile Safari increases the default font-size when you switch a website from portrait to landscape. On phones that is, it doesn’t do it on iPad. Safari has been doing this for a long time, as a 
+…
+Your CSS reset needs text-size-adjust (probably) originally published on CSS-Tricks. You should get the newsletter.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;2
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-02-11 datetime="2022-02-11T23:11:28.000Z">2022-02-11</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-02-11 datetime="2022-02-11T23:11:28.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >CSS-Tricks</button>
+                  <a class="source-heading__link" href="https://css-tricks.com">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://css-tricks.com/?p&#x3D;363396"
+                        open
+                      >
+                        <summary class="article-expander__title">9 New React and JavaScript Links for February 2022</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/9-new-react-and-javascript-links-for-february-2022/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://css-tricks.com/wp-json/social-image-generator/v1/image/363396" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Every now and then, I find that I’ve accumulated a bunch of links about various things I find interesting. Like React and JavaScript! Here’s a list of nine links to other articles about them that I’ve been saving up and …
 9 New React and JavaScript Links for February 2022 originally published on CSS-Tricks. You should get the newsletter.</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander" open>
-                <summary class="article-expander__title">
-                    <span>Multi-Value CSS Properties With Optional Custom Property Values</span>
-                    <span class="article-reading-time">3 min</span>
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/optional-custom-property-values-trick/">
-                  <div class="article-summary-box-inner media-object">
-                    <img src="https://css-tricks.com/wp-json/social-image-generator/v1/image/363027" loading="lazy" class="media-object__media article-image"/>
-                    <span class="media-object__text">Imagine you have an element with a multi-value CSS property, such as transform: optional custom property values:
+                                &ensp;<span class="article-reading-time">(&hairsp;3
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://css-tricks.com/?p&#x3D;363027"
+                        open
+                      >
+                        <summary class="article-expander__title">Multi-Value CSS Properties With Optional Custom Property Values</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/optional-custom-property-values-trick/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://css-tricks.com/wp-json/social-image-generator/v1/image/363027" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Imagine you have an element with a multi-value CSS property, such as transform: optional custom property values:
 .el {
   transform: translate(100px) scale(1.5) skew(5deg);
 }
 Now imagine you don’t always want all the transform values to be applied, so some …
 Multi-Value CSS Properties With Optional Custom Property Values originally published on CSS-Tricks. You should get the newsletter.</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-    </ul>
-  </section>
-  <section class="daily-content js-toggle-accordions-scope">
-    <h2 class="daily-heading">
-      <button class="daily-heading__toggle" data-action="toggle-accordions"><time datetime="2022-02-10">2022-02-10</time></button>
-    </h2>
-    <ul class="sources">
-      <li class="source card">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://css-tricks.com">CSS-Tricks</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander" open>
-                <summary class="article-expander__title">
-                    <span>A Whistle-Stop Tour of 4 New CSS Color Features</span>
-                    <span class="article-reading-time">9 min</span>
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/new-css-color-features-preview/">
-                  <div class="article-summary-box-inner media-object">
-                    <img src="https://css-tricks.com/wp-json/social-image-generator/v1/image/362285" loading="lazy" class="media-object__media article-image"/>
-                    <span class="media-object__text">I was just writing in my “What’s new in since CSS3?” article about recent and possible future changes to CSS colors. It’s weirdly a lot. There are just as many or more new and upcoming ways to define colors than …
+                                &ensp;<span class="article-reading-time">(&hairsp;3
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-02-10 datetime="2022-02-10T23:01:55.000Z">2022-02-10</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-02-10 datetime="2022-02-10T23:01:55.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >CSS-Tricks</button>
+                  <a class="source-heading__link" href="https://css-tricks.com">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://css-tricks.com/?p&#x3D;362285"
+                        open
+                      >
+                        <summary class="article-expander__title">A Whistle-Stop Tour of 4 New CSS Color Features</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/new-css-color-features-preview/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://css-tricks.com/wp-json/social-image-generator/v1/image/362285" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>I was just writing in my “What’s new in since CSS3?” article about recent and possible future changes to CSS colors. It’s weirdly a lot. There are just as many or more new and upcoming ways to define colors than …
 A Whistle-Stop Tour of 4 New CSS Color Features originally published on CSS-Tricks. You should get the newsletter.</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander" open>
-                <summary class="article-expander__title">
-                    <span>Developers Speculating About the Long-Distant Future: 2022</span>
-                    <span class="article-reading-time">3 min</span>
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/developers-speculating-about-the-long-distant-future-2022/">
-                  <div class="article-summary-box-inner media-object">
-                    <img src="https://css-tricks.com/wp-json/social-image-generator/v1/image/363480" loading="lazy" class="media-object__media article-image"/>
-                    <span class="media-object__text">This is a wonderful roundup from Jeremy, who I picture circling January 1, 2022, in red marker on a giant paper calendar back in 2008 and patiently counting the days.
+                                &ensp;<span class="article-reading-time">(&hairsp;9
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://css-tricks.com/?p&#x3D;363480"
+                        open
+                      >
+                        <summary class="article-expander__title">Developers Speculating About the Long-Distant Future: 2022</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/developers-speculating-about-the-long-distant-future-2022/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://css-tricks.com/wp-json/social-image-generator/v1/image/363480" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>This is a wonderful roundup from Jeremy, who I picture circling January 1, 2022, in red marker on a giant paper calendar back in 2008 and patiently counting the days.
 See, there was a little smattering of internet drama …
 Developers Speculating About the Long-Distant Future: 2022 originally published on CSS-Tricks. You should get the newsletter.</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander" open>
-                <summary class="article-expander__title">
-                    <span>Helpful Tips for Starting a Next.js Chrome Extension</span>
-                    <span class="article-reading-time">4 min</span>
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/nextjs-chrome-extension-starter/">
-                  <div class="article-summary-box-inner media-object">
-                    <img src="https://css-tricks.com/wp-json/social-image-generator/v1/image/363079" loading="lazy" class="media-object__media article-image"/>
-                    <span class="media-object__text">I recently rewrote one of my projects — Minimal Theme for Twitter — as a Next.js Chrome extension because I wanted to use React for the pop-up. Using React would allow me to clearly separate my extension’s pop-up component and …
+                                &ensp;<span class="article-reading-time">(&hairsp;3
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://css-tricks.com/?p&#x3D;363079"
+                        open
+                      >
+                        <summary class="article-expander__title">Helpful Tips for Starting a Next.js Chrome Extension</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/nextjs-chrome-extension-starter/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://css-tricks.com/wp-json/social-image-generator/v1/image/363079" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>I recently rewrote one of my projects — Minimal Theme for Twitter — as a Next.js Chrome extension because I wanted to use React for the pop-up. Using React would allow me to clearly separate my extension’s pop-up component and …
 Helpful Tips for Starting a Next.js Chrome Extension originally published on CSS-Tricks. You should get the newsletter.</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander" open>
-                <summary class="article-expander__title">
-                    <span>A Chrome Extension for Cloudinary That Helps You Pluck Out Useful Media URLs From Your Library Quickly</span>
-                    <span class="article-reading-time">3 min</span>
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/a-chrome-extension-for-cloudinary-that-helps-you-pluck-out-useful-media-urls-from-your-library-quickly/">
-                  <div class="article-summary-box-inner media-object">
-                    <img src="https://css-tricks.com/wp-json/social-image-generator/v1/image/362991" loading="lazy" class="media-object__media article-image"/>
-                    <span class="media-object__text">(This is a sponsored post.)
+                                &ensp;<span class="article-reading-time">(&hairsp;4
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://css-tricks.com/?p&#x3D;362991"
+                        open
+                      >
+                        <summary class="article-expander__title">A Chrome Extension for Cloudinary That Helps You Pluck Out Useful Media URLs From Your Library Quickly</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/a-chrome-extension-for-cloudinary-that-helps-you-pluck-out-useful-media-urls-from-your-library-quickly/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://css-tricks.com/wp-json/social-image-generator/v1/image/362991" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>(This is a sponsored post.)
 Cloudinary is a host for your digital assets like images and video. If you don’t already know them, you should, because you can build it into the asset management you almost certainly need to …
 A Chrome Extension for Cloudinary That Helps You Pluck Out Useful Media URLs From Your Library Quickly originally published on CSS-Tricks. You should get the newsletter.</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-    </ul>
-  </section>
-  <section class="daily-content js-toggle-accordions-scope">
-    <h2 class="daily-heading">
-      <button class="daily-heading__toggle" data-action="toggle-accordions"><time datetime="2022-02-09">2022-02-09</time></button>
-    </h2>
-    <ul class="sources">
-      <li class="source card">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://css-tricks.com">CSS-Tricks</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander" open>
-                <summary class="article-expander__title">
-                    <span>SVGcode for “Live Tracing” Raster Images</span>
-                    <span class="article-reading-time">3 min</span>
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/svgcode-raster-to-vector/">
-                  <div class="article-summary-box-inner media-object">
-                    <img src="https://css-tricks.com/wp-json/social-image-generator/v1/image/362777" loading="lazy" class="media-object__media article-image"/>
-                    <span class="media-object__text">Say you have a bitmap graphic — like a JPG, PNG, or GIF — and you wish it was vector, like SVG. What do you do? You could trace it yourself in some kind of design software. Or tools within …
+                                &ensp;<span class="article-reading-time">(&hairsp;3
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-02-09 datetime="2022-02-09T21:39:41.000Z">2022-02-09</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-02-09 datetime="2022-02-09T21:39:41.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >CSS-Tricks</button>
+                  <a class="source-heading__link" href="https://css-tricks.com">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://css-tricks.com/?p&#x3D;362777"
+                        open
+                      >
+                        <summary class="article-expander__title">SVGcode for “Live Tracing” Raster Images</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/svgcode-raster-to-vector/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://css-tricks.com/wp-json/social-image-generator/v1/image/362777" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Say you have a bitmap graphic — like a JPG, PNG, or GIF — and you wish it was vector, like SVG. What do you do? You could trace it yourself in some kind of design software. Or tools within …
 SVGcode for “Live Tracing” Raster Images originally published on CSS-Tricks. You should get the newsletter.</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander" open>
-                <summary class="article-expander__title">
-                    <span>How to Make CSS Slanted Containers</span>
-                    <span class="article-reading-time">4 min</span>
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/css-slanted-containers/">
-                  <div class="article-summary-box-inner media-object">
-                    <img src="https://css-tricks.com/wp-json/social-image-generator/v1/image/362940" loading="lazy" class="media-object__media article-image"/>
-                    <span class="media-object__text">I was updating my portfolio and wanted to use the forward slash (/) as a visual element for the site’s main layout. I hadn’t attempted to create a slanted container in CSS before, but it seemed like it …
+                                &ensp;<span class="article-reading-time">(&hairsp;3
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://css-tricks.com/?p&#x3D;362940"
+                        open
+                      >
+                        <summary class="article-expander__title">How to Make CSS Slanted Containers</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/css-slanted-containers/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://css-tricks.com/wp-json/social-image-generator/v1/image/362940" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>I was updating my portfolio and wanted to use the forward slash (/) as a visual element for the site’s main layout. I hadn’t attempted to create a slanted container in CSS before, but it seemed like it …
 How to Make CSS Slanted Containers originally published on CSS-Tricks. You should get the newsletter.</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-    </ul>
-  </section>
-  <section class="daily-content js-toggle-accordions-scope">
-    <h2 class="daily-heading">
-      <button class="daily-heading__toggle" data-action="toggle-accordions"><time datetime="2022-02-08">2022-02-08</time></button>
-    </h2>
-    <ul class="sources">
-      <li class="source card">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://css-tricks.com">CSS-Tricks</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander" open>
-                <summary class="article-expander__title">
-                    <span>No Motion Isn’t Always prefers-reduced-motion</span>
-                    <span class="article-reading-time">4 min</span>
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/nuking-motion-with-prefers-reduced-motion/">
-                  <div class="article-summary-box-inner media-object">
-                    <img src="https://css-tricks.com/wp-json/social-image-generator/v1/image/363057" loading="lazy" class="media-object__media article-image"/>
-                    <span class="media-object__text">There is a code snippet that I see all the time when the media query prefers-reduced-motion is talked about. Here it is:
+                                &ensp;<span class="article-reading-time">(&hairsp;5
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-02-08 datetime="2022-02-08T20:55:51.000Z">2022-02-08</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-02-08 datetime="2022-02-08T20:55:51.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >CSS-Tricks</button>
+                  <a class="source-heading__link" href="https://css-tricks.com">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://css-tricks.com/?p&#x3D;363057"
+                        open
+                      >
+                        <summary class="article-expander__title">No Motion Isn’t Always prefers-reduced-motion</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/nuking-motion-with-prefers-reduced-motion/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://css-tricks.com/wp-json/social-image-generator/v1/image/363057" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>There is a code snippet that I see all the time when the media query prefers-reduced-motion is talked about. Here it is:
 @media (prefers-reduced-motion: reduce) {
   * {
     animation-duration: 0.01ms !important;
@@ -490,168 +779,200 @@ How to Make CSS Slanted Containers originally published on CSS-Tricks. You shoul
   
 …
 No Motion Isn’t Always prefers-reduced-motion originally published on CSS-Tricks. You should get the newsletter.</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander" open>
-                <summary class="article-expander__title">
-                    <span>Replace JavaScript Dialogs With the New HTML Dialog Element</span>
-                    <span class="article-reading-time">13 min</span>
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/replace-javascript-dialogs-html-dialog-element/">
-                  <div class="article-summary-box-inner media-object">
-                    <img src="https://css-tricks.com/wp-json/social-image-generator/v1/image/362672" loading="lazy" class="media-object__media article-image"/>
-                    <span class="media-object__text">You know how there are JavaScript dialogs for alerting, confirming, and prompting user actions? Say you want to replace JavaScript dialogs with the new HTML dialog element.
+                                &ensp;<span class="article-reading-time">(&hairsp;4
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://css-tricks.com/?p&#x3D;362672"
+                        open
+                      >
+                        <summary class="article-expander__title">Replace JavaScript Dialogs With the New HTML Dialog Element</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/replace-javascript-dialogs-html-dialog-element/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://css-tricks.com/wp-json/social-image-generator/v1/image/362672" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>You know how there are JavaScript dialogs for alerting, confirming, and prompting user actions? Say you want to replace JavaScript dialogs with the new HTML dialog element.
 Let me explain.
 I recently worked on a project with a lot of …
 Replace JavaScript Dialogs With the New HTML Dialog Element originally published on CSS-Tricks. You should get the newsletter.</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander" open>
-                <summary class="article-expander__title">
-                    <span>Netlify Has Scheduled Functions</span>
-                    <span class="article-reading-time">2 min</span>
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/netlify-has-scheduled-functions/">
-                  <div class="article-summary-box-inner media-object">
-                    <img src="https://css-tricks.com/wp-json/social-image-generator/v1/image/363380" loading="lazy" class="media-object__media article-image"/>
-                    <span class="media-object__text">(This is a sponsored post.)
+                                &ensp;<span class="article-reading-time">(&hairsp;13
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://css-tricks.com/?p&#x3D;363380"
+                        open
+                      >
+                        <summary class="article-expander__title">Netlify Has Scheduled Functions</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/netlify-has-scheduled-functions/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://css-tricks.com/wp-json/social-image-generator/v1/image/363380" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>(This is a sponsored post.)
 Hey! Scheduled Functions are cool! Think of them like a CRON job. I want this code to run every Monday at 2pm. I want this code run every hour on the hour. That kind …
 Netlify Has Scheduled Functions originally published on CSS-Tricks. You should get the newsletter.</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-    </ul>
-  </section>
-  <section class="daily-content js-toggle-accordions-scope">
-    <h2 class="daily-heading">
-      <button class="daily-heading__toggle" data-action="toggle-accordions"><time datetime="2022-02-07">2022-02-07</time></button>
-    </h2>
-    <ul class="sources">
-      <li class="source card">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://css-tricks.com">CSS-Tricks</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander" open>
-                <summary class="article-expander__title">
-                    <span>Using Different Color Spaces for Non-Boring Gradients</span>
-                    <span class="article-reading-time">2 min</span>
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/color-spaces-for-more-interesting-css-gradients/">
-                  <div class="article-summary-box-inner media-object">
-                    <img src="https://css-tricks.com/wp-json/social-image-generator/v1/image/363102" loading="lazy" class="media-object__media article-image"/>
-                    <span class="media-object__text">A little gradient generator tool from Tom Quinonero. You’d think fading one color to another would be an obvious, simple, solved problem — it’s actually anything but!
+                                &ensp;<span class="article-reading-time">(&hairsp;2
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-02-07 datetime="2022-02-07T21:46:18.000Z">2022-02-07</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-02-07 datetime="2022-02-07T21:46:18.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >CSS-Tricks</button>
+                  <a class="source-heading__link" href="https://css-tricks.com">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://css-tricks.com/?p&#x3D;363102"
+                        open
+                      >
+                        <summary class="article-expander__title">Using Different Color Spaces for Non-Boring Gradients</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/color-spaces-for-more-interesting-css-gradients/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://css-tricks.com/wp-json/social-image-generator/v1/image/363102" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>A little gradient generator tool from Tom Quinonero. You’d think fading one color to another would be an obvious, simple, solved problem — it’s actually anything but!
 Tom’s generator does two things that help make a gradient better:
 You 
 …
 Using Different Color Spaces for Non-Boring Gradients originally published on CSS-Tricks. You should get the newsletter.</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander" open>
-                <summary class="article-expander__title">
-                    <span>CSS Scroll Snap Slide Deck That Supports Live Coding</span>
-                    <span class="article-reading-time">15 min</span>
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/css-scroll-snap-slide-deck/">
-                  <div class="article-summary-box-inner media-object">
-                    <img src="https://css-tricks.com/wp-json/social-image-generator/v1/image/362616" loading="lazy" class="media-object__media article-image"/>
-                    <span class="media-object__text">Virtual conferences have changed the game in terms of how a presenter is able to deliver content to an audience. At a live event it’s likely you just have your laptop, but at home, you may have multiple monitors so …
-CSS Scroll Snap Slide Deck That Supports Live Coding originally published on CSS-Tricks. You should get the newsletter.</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-    </ul>
-  </section>
-  <section class="daily-content js-toggle-accordions-scope">
-    <h2 class="daily-heading">
-      <button class="daily-heading__toggle" data-action="toggle-accordions"><time datetime="2022-02-05">2022-02-05</time></button>
-    </h2>
-    <ul class="sources">
-      <li class="source card">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://rastalion.me">RastaLion&#x27;s IT Blog</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander" open>
-                <summary class="article-expander__title">
-                    <span>[추천도서] Do it! 점프 투 파이썬</span>
-                    <span class="article-reading-time">2 min</span>
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://rastalion.me/%ec%b6%94%ec%b2%9c%eb%8f%84%ec%84%9c-do-it-%ec%a0%90%ed%94%84-%ed%88%ac-%ed%8c%8c%ec%9d%b4%ec%8d%ac/">
-                  <div class="article-summary-box-inner media-object">
-                    <img src="https://rastalion.me/wp-content/uploads/2022/02/k582635822_1.jpg" loading="lazy" class="media-object__media article-image"/>
-                    <span class="media-object__text">파이썬 입문의 베스트 셀러 Do it! 점프 투 파이썬 입니다. 개정판으로 나왔고 저자 분이 위키독스의 운영자분이시기 때문에 웹에서도 무료로 볼수 있는 책입니다. 책을 완독한 후기는 정말 입문용으로는 최고의 도서입니다. 이 책만 완독했다고 해서 프로그래밍에...
+                                &ensp;<span class="article-reading-time">(&hairsp;2
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-02-05 datetime="2022-02-05T07:10:52.000Z">2022-02-05</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-02-05 datetime="2022-02-05T07:10:52.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >RastaLion&#x27;s IT Blog</button>
+                  <a class="source-heading__link" href="https://rastalion.me">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://rastalion.me/?p&#x3D;2458"
+                        open
+                      >
+                        <summary class="article-expander__title">[추천도서] Do it! 점프 투 파이썬</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://rastalion.me/%ec%b6%94%ec%b2%9c%eb%8f%84%ec%84%9c-do-it-%ec%a0%90%ed%94%84-%ed%88%ac-%ed%8c%8c%ec%9d%b4%ec%8d%ac/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://rastalion.me/wp-content/uploads/2022/02/k582635822_1.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>파이썬 입문의 베스트 셀러 Do it! 점프 투 파이썬 입니다. 개정판으로 나왔고 저자 분이 위키독스의 운영자분이시기 때문에 웹에서도 무료로 볼수 있는 책입니다. 책을 완독한 후기는 정말 입문용으로는 최고의 도서입니다. 이 책만 완독했다고 해서 프로그래밍에...
 The post [추천도서] Do it! 점프 투 파이썬 appeared first on RastaLion&#x27;s IT Blog.</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-    </ul>
-  </section>
-  <section class="daily-content js-toggle-accordions-scope">
-    <h2 class="daily-heading">
-      <button class="daily-heading__toggle" data-action="toggle-accordions"><time datetime="2022-02-04">2022-02-04</time></button>
-    </h2>
-    <ul class="sources">
-      <li class="source card">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://css-tricks.com">CSS-Tricks</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander" open>
-                <summary class="article-expander__title">
-                    <span>A Deep Introduction to WordPress Block Themes</span>
-                    <span class="article-reading-time">21 min</span>
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/a-deep-introduction-to-wordpress-block-themes/">
-                  <div class="article-summary-box-inner media-object">
-                    <img src="https://css-tricks.com/wp-json/social-image-generator/v1/image/362799" loading="lazy" class="media-object__media article-image"/>
-                    <span class="media-object__text">The relatively new WordPress editor, also known as the WordPress Block Editor, always under development via the Gutenberg plugin, has been with us since 2018. You can use the block editor on any WordPress theme, provided the theme …
-A Deep Introduction to WordPress Block Themes originally published on CSS-Tricks. You should get the newsletter.</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-    </ul>
-  </section>
-  <section class="daily-content js-toggle-accordions-scope">
-    <h2 class="daily-heading">
-      <button class="daily-heading__toggle" data-action="toggle-accordions"><time datetime="2022-01-28">2022-01-28</time></button>
-    </h2>
-    <ul class="sources">
-      <li class="source card">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://jojoldu.tistory.com/">기억보단 기록을</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander" open>
-                <summary class="article-expander__title">
-                    <span>루비콘 프로젝트 완료 메일</span>
-                    <span class="article-reading-time">2 min</span>
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://jojoldu.tistory.com/636">
-                  <div class="article-summary-box-inner media-object">
-                    <img src="https://img1.daumcdn.net/thumb/R800x0/?scode&#x3D;mtistory2&amp;fname&#x3D;https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FrnhxE%2Fbtrr4yu6juC%2F1iiKdxTL0HkPCykFw7Y7kk%2Fimg.png" loading="lazy" class="media-object__media article-image"/>
-                    <span class="media-object__text">반응형
+                                &ensp;<span class="article-reading-time">(&hairsp;2
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-01-28 datetime="2022-01-28T15:49:16.000Z">2022-01-28</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-01-28 datetime="2022-01-28T15:49:16.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >기억보단 기록을</button>
+                  <a class="source-heading__link" href="https://jojoldu.tistory.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://jojoldu.tistory.com/636"
+                        open
+                      >
+                        <summary class="article-expander__title">루비콘 프로젝트 완료 메일</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://jojoldu.tistory.com/636">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://img1.daumcdn.net/thumb/R800x0/?scode&#x3D;mtistory2&amp;fname&#x3D;https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FrnhxE%2Fbtrr4yu6juC%2F1iiKdxTL0HkPCykFw7Y7kk%2Fimg.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>반응형
 
                     
                     (adsbygoogle &#x3D; window.adsbygoogle || []).push({}); 
@@ -703,33 +1024,54 @@ A Deep Introduction to WordPress Block Themes originally published on CSS-Tricks
 
                     
                     (adsbygoogle &#x3D; window.adsbygoogle || []).push({});</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-    </ul>
-  </section>
-  <section class="daily-content js-toggle-accordions-scope">
-    <h2 class="daily-heading">
-      <button class="daily-heading__toggle" data-action="toggle-accordions"><time datetime="2022-01-24">2022-01-24</time></button>
-    </h2>
-    <ul class="sources">
-      <li class="source card">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://jojoldu.tistory.com/">기억보단 기록을</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander" open>
-                <summary class="article-expander__title">
-                    <span>Mac에서 코틀린 개발환경 구성하기</span>
-                    <span class="article-reading-time">1 min</span>
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://jojoldu.tistory.com/635">
-                  <div class="article-summary-box-inner media-object">
-                    <img src="https://img1.daumcdn.net/thumb/R800x0/?scode&#x3D;mtistory2&amp;fname&#x3D;https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcRh96U%2FbtrrxZaxg1y%2FyyxjtNZ4Yo06Zm42tyhmU0%2Fimg.png" loading="lazy" class="media-object__media article-image"/>
-                    <span class="media-object__text">반응형
+                                &ensp;<span class="article-reading-time">(&hairsp;2
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-01-24 datetime="2022-01-24T13:09:58.000Z">2022-01-24</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-01-24 datetime="2022-01-24T13:09:58.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >기억보단 기록을</button>
+                  <a class="source-heading__link" href="https://jojoldu.tistory.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://jojoldu.tistory.com/635"
+                        open
+                      >
+                        <summary class="article-expander__title">Mac에서 코틀린 개발환경 구성하기</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://jojoldu.tistory.com/635">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://img1.daumcdn.net/thumb/R800x0/?scode&#x3D;mtistory2&amp;fname&#x3D;https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcRh96U%2FbtrrxZaxg1y%2FyyxjtNZ4Yo06Zm42tyhmU0%2Fimg.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>반응형
 
                     
                     (adsbygoogle &#x3D; window.adsbygoogle || []).push({}); 
@@ -761,61 +1103,103 @@ kotlinc-jvm
 
                     
                     (adsbygoogle &#x3D; window.adsbygoogle || []).push({});</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-    </ul>
-  </section>
-  <section class="daily-content js-toggle-accordions-scope">
-    <h2 class="daily-heading">
-      <button class="daily-heading__toggle" data-action="toggle-accordions"><time datetime="2022-01-22">2022-01-22</time></button>
-    </h2>
-    <ul class="sources">
-      <li class="source card">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://rastalion.me">RastaLion&#x27;s IT Blog</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander" open>
-                <summary class="article-expander__title">
-                    <span>[추천도서] 혼자 공부하는 R 데이터분석</span>
-                    <span class="article-reading-time">2 min</span>
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://rastalion.me/%ec%b1%85%ec%86%8c%ea%b0%9c-%ed%98%bc%ec%9e%90-%ea%b3%b5%eb%b6%80%ed%95%98%eb%8a%94-r-%eb%8d%b0%ec%9d%b4%ed%84%b0%eb%b6%84%ec%84%9d/">
-                  <div class="article-summary-box-inner media-object">
-                    <img src="https://hongong.hanbit.co.kr/wp-content/uploads/2022/01/%ED%98%BC%EC%9E%90-%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94-R-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-1-600x820.jpg" loading="lazy" class="media-object__media article-image"/>
-                    <span class="media-object__text">친한 동생이자 친구인 강전희 저자의 혼자 공부하는 R 데이터분석 책이 출간 되었습니다!! 처음 시작하는 R 데이터분석 이라는 책의 개정판 입니다. 출판사 IT 출판 정책에 의해 제목을 바꾼것 같네요.   R이라는 언어에 관심이 있어 처음...
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-01-22 datetime="2022-01-22T03:23:28.000Z">2022-01-22</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-01-22 datetime="2022-01-22T03:23:28.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >RastaLion&#x27;s IT Blog</button>
+                  <a class="source-heading__link" href="https://rastalion.me">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://rastalion.me/?p&#x3D;2450"
+                        open
+                      >
+                        <summary class="article-expander__title">[추천도서] 혼자 공부하는 R 데이터분석</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://rastalion.me/%ec%b1%85%ec%86%8c%ea%b0%9c-%ed%98%bc%ec%9e%90-%ea%b3%b5%eb%b6%80%ed%95%98%eb%8a%94-r-%eb%8d%b0%ec%9d%b4%ed%84%b0%eb%b6%84%ec%84%9d/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://hongong.hanbit.co.kr/wp-content/uploads/2022/01/%ED%98%BC%EC%9E%90-%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94-R-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-1-600x820.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>친한 동생이자 친구인 강전희 저자의 혼자 공부하는 R 데이터분석 책이 출간 되었습니다!! 처음 시작하는 R 데이터분석 이라는 책의 개정판 입니다. 출판사 IT 출판 정책에 의해 제목을 바꾼것 같네요.   R이라는 언어에 관심이 있어 처음...
 The post [추천도서] 혼자 공부하는 R 데이터분석 appeared first on RastaLion&#x27;s IT Blog.</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-    </ul>
-  </section>
-  <section class="daily-content js-toggle-accordions-scope">
-    <h2 class="daily-heading">
-      <button class="daily-heading__toggle" data-action="toggle-accordions"><time datetime="2022-01-21">2022-01-21</time></button>
-    </h2>
-    <ul class="sources">
-      <li class="source card">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://jojoldu.tistory.com/">기억보단 기록을</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander" open>
-                <summary class="article-expander__title">
-                    <span>NodeJS 와 PostgreSQL Connection Pool</span>
-                    <span class="article-reading-time">4 min</span>
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://jojoldu.tistory.com/634">
-                  <div class="article-summary-box-inner media-object">
-                    <img src="https://img1.daumcdn.net/thumb/R800x0/?scode&#x3D;mtistory2&amp;fname&#x3D;https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbakyIi%2FbtrrkuggMyE%2FJtpKSkKkK4O01kLj7R1ogk%2Fimg.png" loading="lazy" class="media-object__media article-image"/>
-                    <span class="media-object__text">반응형
+                                &ensp;<span class="article-reading-time">(&hairsp;2
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-01-21 datetime="2022-01-21T01:22:10.000Z">2022-01-21</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-01-21 datetime="2022-01-21T01:22:10.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >기억보단 기록을</button>
+                  <a class="source-heading__link" href="https://jojoldu.tistory.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://jojoldu.tistory.com/634"
+                        open
+                      >
+                        <summary class="article-expander__title">NodeJS 와 PostgreSQL Connection Pool</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://jojoldu.tistory.com/634">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://img1.daumcdn.net/thumb/R800x0/?scode&#x3D;mtistory2&amp;fname&#x3D;https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbakyIi%2FbtrrkuggMyE%2FJtpKSkKkK4O01kLj7R1ogk%2Fimg.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>반응형
 
                     
                     (adsbygoogle &#x3D; window.adsbygoogle || []).push({}); 
@@ -852,33 +1236,54 @@ client.connect(err &#x3D;&gt; {
   } else {
     console.log(&#x27;Connect to db done!&#x27;)
  …</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-    </ul>
-  </section>
-  <section class="daily-content js-toggle-accordions-scope">
-    <h2 class="daily-heading">
-      <button class="daily-heading__toggle" data-action="toggle-accordions"><time datetime="2022-01-18">2022-01-18</time></button>
-    </h2>
-    <ul class="sources">
-      <li class="source card">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://jojoldu.tistory.com/">기억보단 기록을</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander" open>
-                <summary class="article-expander__title">
-                    <span>[Ulysses] 에디터내 이미지 크기 조절</span>
-                    <span class="article-reading-time">1 min</span>
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://jojoldu.tistory.com/633">
-                  <div class="article-summary-box-inner media-object">
-                    <img src="https://img1.daumcdn.net/thumb/R800x0/?scode&#x3D;mtistory2&amp;fname&#x3D;https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FHDQnH%2Fbtrq4pTU2bh%2FmE9EkgZ263udUGf3U4oHN0%2Fimg.png" loading="lazy" class="media-object__media article-image"/>
-                    <span class="media-object__text">반응형
+                                &ensp;<span class="article-reading-time">(&hairsp;4
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-01-18 datetime="2022-01-18T01:17:50.000Z">2022-01-18</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-01-18 datetime="2022-01-18T01:17:50.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >기억보단 기록을</button>
+                  <a class="source-heading__link" href="https://jojoldu.tistory.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://jojoldu.tistory.com/633"
+                        open
+                      >
+                        <summary class="article-expander__title">[Ulysses] 에디터내 이미지 크기 조절</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://jojoldu.tistory.com/633">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://img1.daumcdn.net/thumb/R800x0/?scode&#x3D;mtistory2&amp;fname&#x3D;https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FHDQnH%2Fbtrq4pTU2bh%2FmE9EkgZ263udUGf3U4oHN0%2Fimg.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>반응형
 
                     
                     (adsbygoogle &#x3D; window.adsbygoogle || []).push({}); 
@@ -903,33 +1308,54 @@ Ulysses 에서는 이미지별로 사이즈 조절은 없고, 전체 설정으�
 
                     
                     (adsbygoogle &#x3D; window.adsbygoogle || []).push({});</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-    </ul>
-  </section>
-  <section class="daily-content js-toggle-accordions-scope">
-    <h2 class="daily-heading">
-      <button class="daily-heading__toggle" data-action="toggle-accordions"><time datetime="2022-01-17">2022-01-17</time></button>
-    </h2>
-    <ul class="sources">
-      <li class="source card">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://jojoldu.tistory.com/">기억보단 기록을</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander" open>
-                <summary class="article-expander__title">
-                    <span>NOT IN 쿼리 성능 개선하기 (PostgreSQL)</span>
-                    <span class="article-reading-time">2 min</span>
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://jojoldu.tistory.com/632">
-                  <div class="article-summary-box-inner media-object">
-                    <img src="https://img1.daumcdn.net/thumb/R800x0/?scode&#x3D;mtistory2&amp;fname&#x3D;https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbyWroX%2FbtrqNLxqXS3%2FAeCHVKjSSZ8pDhHKoVtiw0%2Fimg.png" loading="lazy" class="media-object__media article-image"/>
-                    <span class="media-object__text">반응형
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-01-17 datetime="2022-01-17T02:20:33.000Z">2022-01-17</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-01-17 datetime="2022-01-17T02:20:33.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >기억보단 기록을</button>
+                  <a class="source-heading__link" href="https://jojoldu.tistory.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://jojoldu.tistory.com/632"
+                        open
+                      >
+                        <summary class="article-expander__title">NOT IN 쿼리 성능 개선하기 (PostgreSQL)</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://jojoldu.tistory.com/632">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://img1.daumcdn.net/thumb/R800x0/?scode&#x3D;mtistory2&amp;fname&#x3D;https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbyWroX%2FbtrqNLxqXS3%2FAeCHVKjSSZ8pDhHKoVtiw0%2Fimg.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>반응형
 
                     
                     (adsbygoogle &#x3D; window.adsbygoogle || []).push({}); 
@@ -952,21 +1378,27 @@ WHERE (&quot;status&quot;::text &#x3D; &#x27;publish&#x27; AND &quot;published_d
     select &quot;course_id&quot;
     from &quot;vouchers&quot; AS &quot;vouchers_for_filter&quot;
     WHERE (&quot;user_id&quot; &#x3D; 4…</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-    </ul>
-  </section>
+                                &ensp;<span class="article-reading-time">(&hairsp;2
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
 
-  <footer>
-    <time id="build-timestamp" datetime="2022-02-14T00:59:24.370Z">2022-02-14T00:59:24.370Z</time>
-    <span><a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.13.0</a></span>
-  </footer>
-  <script src="index.js"></script>
-  <!-- %before-body-end.html% -->
-</body>
+    <footer>
+      <a class="footer-link" href="https://github.com/showneykim/my-rss/actions/runs/1844403544">
+        <time id="build-timestamp" datetime="2022-02-15T01:09:30.151Z">2022-02-15T01:09:30.151Z</time>
+      </a>
+      <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.14.4</a>
+    </footer>
+    <script src="index.js?v1.14.4"></script>
+    <!-- %before-body-end.html% -->
+  </body>
 
 </html>
