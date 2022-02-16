@@ -1,10 +1,137 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-02-15T01:09:30.182Z</id>
+    <id>urn:2022-02-16T01:05:17.201Z</id>
     <title>osmos::feed</title>
-    <updated>2022-02-15T01:09:30.182Z</updated>
+    <updated>2022-02-16T01:05:17.201Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[수백명의 사람들과 연락을 유지하는 간단한 시스템 만들기]]></title>
+        <id>https://news.hada.io/topic?id=5987</id>
+        <link href="https://news.hada.io/topic?id=5987"/>
+        <updated>2022-02-16T00:35:56.000Z</updated>
+        <summary type="html"><![CDATA[# Airtable을 이용해서 자동화 하기 
+- 사람들을 연락 주기별 4가지 카테고리로 분류 
+ㅤ→ 3주, 2개월, 6개월, 1년에 한번 
+- 첫번째 테이블은 "계속 연락해야 할 사람들"을 모두 저장 
+ㅤ→ 이름, 연락처, 노트, 카테고리, 마지막 연락일, 다음 연락일, 남은 날짜(다음 연락...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[jDeploy - Java앱을 맥/윈/리눅스에 네이티브 번들로 배포하기]]></title>
+        <id>https://news.hada.io/topic?id=5986</id>
+        <link href="https://news.hada.io/topic?id=5986"/>
+        <updated>2022-02-16T00:18:37.000Z</updated>
+        <summary type="html"><![CDATA[- 실행가능한 Jar파일을 각 플랫폼의 Native앱으로 묶어주는 오픈소스 
+ㅤ→ 빌드 플랫폼 상관없이 빌드(맥이 없어도 맥용 빌드가능)
+- 맥/윈/리눅스용 네이티브 인스톨러 생성 
+- 번들링한 앱의 자동 업데이트 지원(실행시 자동 업데이트 체크)
+- 실행시에 필요한 자바 런타임(JRE) 알아...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GSAP Flip Plugin for Animation]]></title>
+        <id>https://css-tricks.com/?p=363604</id>
+        <link href="https://css-tricks.com/gsap-flip-plugin-for-animation/"/>
+        <updated>2022-02-15T21:41:10.000Z</updated>
+        <summary type="html"><![CDATA[Greensock made the GSAP Flip plugin free in the 3.9 release. FLIP is an animation concept that helps make super performance state-change animations. Ryan Mulligan has a good blog post: 
+FLIP, coined by Paul Lewis, is an 
+…
+GSAP Flip Plugin for Animation originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6 Creative Ideas for CSS Link Hover Effects]]></title>
+        <id>https://css-tricks.com/?p=363124</id>
+        <link href="https://css-tricks.com/css-link-hover-effects/"/>
+        <updated>2022-02-15T15:37:04.000Z</updated>
+        <summary type="html"><![CDATA[Creating CSS link hover effects can add a bit of flair to an otherwise bland webpage. If you’ve ever found yourself stumped trying to make a slick hover effect, then I have six CSS effects for you to take and …
+6 Creative Ideas for CSS Link Hover Effects originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Harshil Patel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WordPress.com Has a New Home on YouTube]]></title>
+        <id>https://css-tricks.com/?p=363739</id>
+        <link href="https://css-tricks.com/wordpress-com-has-a-new-home-on-youtube/"/>
+        <updated>2022-02-15T15:35:35.000Z</updated>
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+✋ High fives to WordPress for releasing version 5.9 on January 29! This was the long-awaited introduction of the Site Editor and the reverberations are still being felt across the 43% slice of the …
+WordPress.com Has a New Home on YouTube originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Luniverse NFT Demo Day, 2월 25일 온라인으로 개최 및 이벤트 진행]]></title>
+        <id>https://news.hada.io/topic?id=5985</id>
+        <link href="https://news.hada.io/topic?id=5985"/>
+        <updated>2022-02-15T14:55:45.000Z</updated>
+        <summary type="html"><![CDATA[2022년, NFT 비즈니스를 고민하고 계신가요? 
+
+루니버스 팀에서 NFT 메가트렌드와 사례를 소개하고, 실습을 통해 NFT 발행까지 진행할 수 있는 무료 온라인 웨비나를 개최합니다.
+
+NFT 현직 실무자와 최신 트렌드와 발행 방법까지 알아볼 수 있는 시간, 지금 루니버스 NFT Demo Day 에 초...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Notepad++ 8.3 (Boycott Beijing 2022)]]></title>
+        <id>https://news.hada.io/topic?id=5984</id>
+        <link href="https://news.hada.io/topic?id=5984"/>
+        <updated>2022-02-15T02:53:24.000Z</updated>
+        <summary type="html"><![CDATA[Notepad++ 새 버전이 이번에는 Beijing 동계올림픽을 보이콧 선언]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kubernetes 공식 다큐멘터리 [영상 1&2,총55분]]]></title>
+        <id>https://news.hada.io/topic?id=5983</id>
+        <link href="https://news.hada.io/topic?id=5983"/>
+        <updated>2022-02-15T02:07:31.000Z</updated>
+        <summary type="html"><![CDATA[(1편 한글 자막, 2편은 아직 영어자막)
+- Docker의 오픈소스 성공에 영감을 받아, 몇명의 구글 엔지니어가 대규모 클라우드 컴퓨팅 영역에서 혁신의 필요성을 인식
+- 쿠버네티스라고 알려진 컨테이너 오케스트레이터를 작업하기 시작
+- 이 도구는 인터넷 구축 방식을 영원히 바꿀 것
+- 이...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub, 마크다운에 Mermaid 다이어그램 지원 시작]]></title>
+        <id>https://news.hada.io/topic?id=5982</id>
+        <link href="https://news.hada.io/topic?id=5982"/>
+        <updated>2022-02-15T01:48:46.000Z</updated>
+        <summary type="html"><![CDATA[- 코드블록에 mermaid 문법으로 다이어그램 구문을 넣으면 Mermaid.js 가 받아서 브라우저에서 그림으로 표시 
+ㅤ→ 플로우차트, UML, Git 그래프, 고객 여정 다이어그램, 간트 차트등을 지원 
+- GitHub의 HTML pipeline 에 태워서 JS 지원환경이 인식되면 iframe을 통해서 Viewscreen 서비스로 동작 ...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SSO Wall of Shame]]></title>
+        <id>https://news.hada.io/topic?id=5981</id>
+        <link href="https://news.hada.io/topic?id=5981"/>
+        <updated>2022-02-15T01:08:24.000Z</updated>
+        <summary type="html"><![CDATA[SSO(Single Sign-On) 기능을 이용하려면 돈을 (많이) 내야하는 SaaS들 정리 
+- SSO는 웹사이트 또는 제품의 인증을 Google, Azure AD, Okta 같은 타사 ID 공급자에게 아웃소싱하는 메커니즘 
+- 직원이 많은 조직일수록 사용자 계정을 효과적으로 관리하는데 매우 중요
+- 즉, SSO 는 직원이 5명 ...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[njt - npm jump to]]></title>
         <id>https://news.hada.io/topic?id=5980</id>
@@ -72,103 +199,6 @@ Why are hyperlinks blue? originally published on CSS-Tricks. You should get the 
 Getting Started With the File System Access API originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Charlie Gerard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft를 잊지 말아요]]></title>
-        <id>https://news.hada.io/topic?id=5977</id>
-        <link href="https://news.hada.io/topic?id=5977"/>
-        <updated>2022-02-14T05:14:04.000Z</updated>
-        <summary type="html"><![CDATA["Redmond의 거인을 이해하면 클라우드 인프라, 스타트업 전략, 소프트웨어의 미래에 대한 귀중한 교훈을 얻을 수 있음"
-
-크기에 비해 Microsoft는 기술 분야에서 간과되는 회사임 
-1. 애플,페이스북,아마존,구글 처럼 사랑받는 소비자 브랜드가 아님 
-2. VC 성공사례도 아님. ...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sci-Hub 통계와 데이터베이스]]></title>
-        <id>https://news.hada.io/topic?id=5976</id>
-        <link href="https://news.hada.io/topic?id=5976"/>
-        <updated>2022-02-14T02:09:12.000Z</updated>
-        <summary type="html"><![CDATA[- 8834만개의 연구 논문/자료 DB(약 100TB)
-ㅤ→ 의학/화학/생물학/인문학/물리학/공학/공학/경제학..
-ㅤ→ 출처는 저널 80%, 컨퍼런스 6%, 책 5%
-ㅤ→ 77%는 1980~2020년 사이, 36%는 2010~2020년 출판물
-- dois 목록 및 메타데이터만 저장한 SQL 테이블도 다운로드 가능
-- 전체...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IPA - 개인 정보를 보호하는 광고 어트리뷰션]]></title>
-        <id>https://news.hada.io/topic?id=5975</id>
-        <link href="https://news.hada.io/topic?id=5975"/>
-        <updated>2022-02-14T01:43:31.000Z</updated>
-        <summary type="html"><![CDATA[- 모질라가 Meta(페이스북)과 함께 IPA(Interoperable Private Attribution)를 만들고 W3C의 PATCG에 제안
-- 광고는 웹에 큰 역할을 하지만, 최근의 광고 기법들은 개인정보 보호 측면에서는 좋지 않음 
-- 어트리뷰션은 광고주들이 광고 캠페인이 잘 동작 하는 지를 알게 해주는 것
-- IPA는 개인...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[타입스크립트에서 Type, Interface를 어떻게 사용해야 하는가? [해외글]]]></title>
-        <id>https://news.hada.io/topic?id=5974</id>
-        <link href="https://news.hada.io/topic?id=5974"/>
-        <updated>2022-02-14T01:32:05.000Z</updated>
-        <summary type="html"><![CDATA[타입스크립트에서 Type, Interface를 어떻게 사용해야 하는가?
-
-1 - 나는 Interface만을 사용하는 것을 선호한다. 이는 지향 객체 프로그래밍에서 우리가 무엇을 할 것인지를 명확하게 보여주기 때문.
-2 - 다른 언어의 프로그래머의 경우 Type 대신 Interface를 사용하면 더 읽기 쉽다.
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lurnby - 웹을 이용한 학습도구 오픈소스]]></title>
-        <id>https://news.hada.io/topic?id=5973</id>
-        <link href="https://news.hada.io/topic?id=5973"/>
-        <updated>2022-02-14T01:10:15.000Z</updated>
-        <summary type="html"><![CDATA[- 웹 콘텐츠를 가져와 광고/스크립트 등을 제거하고 노트/하이라이트 하면서 공부할 수 있게 해주는 도구 
-ㅤ→ ePub, 블로그, 이메일 내용등
-- 하이라이트 한 내용들은 정렬/검색 및 리뷰 가능 
-ㅤ→ 별도 DB로 저장 지원
-- 폰트 스타일/크기 및 다크모드 등 원하는 형태로 바꿔서 읽기...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WebSockets 대신 Server-Sent Events 사용하기]]></title>
-        <id>https://news.hada.io/topic?id=5972</id>
-        <link href="https://news.hada.io/topic?id=5972"/>
-        <updated>2022-02-14T00:49:34.000Z</updated>
-        <summary type="html"><![CDATA[- 실시간 웹 어플리케이션을 만들때 보통 웹소켓이 생각나겠지만 SSE도 간단한 대안이 될 수 있음
-- 웹 소켓의 문제점 : HTTP 기반이 아니기 때문에 HTTP의 수혜를 받지 못함
-ㅤ→ 압축 불가, HTTP/2 멀티플렉싱 지원 미비, Proxy 들이 지원 안함, 하이재킹 가능 
-- Server-Sent Events(SSE)...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS 가상 대기실 솔루션 오픈소스 공개]]></title>
-        <id>https://news.hada.io/topic?id=5971</id>
-        <link href="https://news.hada.io/topic?id=5971"/>
-        <updated>2022-02-14T00:39:01.000Z</updated>
-        <summary type="html"><![CDATA[- 대량 트래픽 발생시 가상 대기실을 생성하고 사용자 요청을 버퍼링 
-ㅤ→ 임시로 트래픽을 오프로드 하는 클라우드 인프라를 생성 
-- 온라인 시험/티켓 판매/신규 제품 출시/대형 발표 등에 사용 가능 
-- 항상 사용할지, 트래픽 많을 때 만 사용할 지 결정 
-- CloudFormation 템플릿으...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
     </entry>
     <entry>
@@ -330,45 +360,6 @@ How to Make CSS Slanted Containers originally published on CSS-Tricks. You shoul
   
 …
 No Motion Isn’t Always prefers-reduced-motion originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Replace JavaScript Dialogs With the New HTML Dialog Element]]></title>
-        <id>https://css-tricks.com/?p=362672</id>
-        <link href="https://css-tricks.com/replace-javascript-dialogs-html-dialog-element/"/>
-        <updated>2022-02-08T15:09:40.000Z</updated>
-        <summary type="html"><![CDATA[You know how there are JavaScript dialogs for alerting, confirming, and prompting user actions? Say you want to replace JavaScript dialogs with the new HTML dialog element.
-Let me explain.
-I recently worked on a project with a lot of …
-Replace JavaScript Dialogs With the New HTML Dialog Element originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Mads Stoumann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Netlify Has Scheduled Functions]]></title>
-        <id>https://css-tricks.com/?p=363380</id>
-        <link href="https://css-tricks.com/netlify-has-scheduled-functions/"/>
-        <updated>2022-02-08T15:08:47.000Z</updated>
-        <summary type="html"><![CDATA[(This is a sponsored post.)
-Hey! Scheduled Functions are cool! Think of them like a CRON job. I want this code to run every Monday at 2pm. I want this code run every hour on the hour. That kind …
-Netlify Has Scheduled Functions originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Different Color Spaces for Non-Boring Gradients]]></title>
-        <id>https://css-tricks.com/?p=363102</id>
-        <link href="https://css-tricks.com/color-spaces-for-more-interesting-css-gradients/"/>
-        <updated>2022-02-07T21:46:18.000Z</updated>
-        <summary type="html"><![CDATA[A little gradient generator tool from Tom Quinonero. You’d think fading one color to another would be an obvious, simple, solved problem — it’s actually anything but!
-Tom’s generator does two things that help make a gradient better:
-You 
-…
-Using Different Color Spaces for Non-Boring Gradients originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Chris Coyier</name>
         </author>
@@ -573,38 +564,6 @@ Ulysses 에서는 이미지별로 사이즈 조절은 없고, 전체 설정으�
 
                     
                     (adsbygoogle = window.adsbygoogle || []).push({});]]></summary>
-        <author>
-            <name>향로</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NOT IN 쿼리 성능 개선하기 (PostgreSQL)]]></title>
-        <id>https://jojoldu.tistory.com/632</id>
-        <link href="https://jojoldu.tistory.com/632"/>
-        <updated>2022-01-17T02:20:33.000Z</updated>
-        <summary type="html"><![CDATA[반응형
-
-                    
-                    (adsbygoogle = window.adsbygoogle || []).push({}); 
-               
-
-일반적으로 모든 RDBMS에서 부정조건 (not in, != 등) 은 인덱스를 선택하지 못한다. 
-이는 부정조건이 그 조건 외 나머지 모두를 뜻하기 때문인데, 지정된 대상을 빨리 찾는것이 인덱스임을 고려하면 그것 외 나머지라는 것 자체가 전체를 읽어야만 알 수 있는 정보이기 때문이다.
-이럴때 가장 효율적인 해결 방법은 not in 을 없애는 것이다. 
-가장 대표적으로는 left outer join 이 있다.
-as-is)
-아래의 쿼리는 현재 거의 2초에 가까운 시간이 소요되는 쿼리이다.
-select id
-from courses
-WHERE ("status"::text = 'publish' AND "published_date" < now() AND "exposure" AND "deleted_at" IS NULL)
-  AND ("id" in (
-    select "course_id"
-    from "courses_categories"
-    where "term_id" IN (6, 17435, 17436, 17437, 7, 18, 12, 543, 15, 16, 17438, 8, 13716, 4553, 497)))
-  AND "id" NOT IN (
-    select "course_id"
-    from "vouchers" AS "vouchers_for_filter"
-    WHERE ("user_id" = 4…]]></summary>
         <author>
             <name>향로</name>
         </author>
