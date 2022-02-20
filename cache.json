@@ -168,7 +168,7 @@
           "description": "파이썬 입문의 베스트 셀러 Do it! 점프 투 파이썬 입니다. 개정판으로 나왔고 저자 분이 위키독스의 운영자분이시기 때문에 웹에서도 무료로 볼수 있는 책입니다. 책을 완독한 후기는 정말 입문용으로는 최고의 도서입니다. 이 책만 완독했다고 해서 프로그래밍에...\nThe post [추천도서] Do it! 점프 투 파이썬 appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/%ec%b6%94%ec%b2%9c%eb%8f%84%ec%84%9c-do-it-%ec%a0%90%ed%94%84-%ed%88%ac-%ed%8c%8c%ec%9d%b4%ec%8d%ac/",
           "publishedOn": "2022-02-05T07:10:52.000Z",
-          "wordCount": 711,
+          "wordCount": 715,
           "title": "[추천도서] Do it! 점프 투 파이썬",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2022/02/k582635822_1.jpg"
         },
@@ -178,7 +178,7 @@
           "description": "친한 동생이자 친구인 강전희 저자의 혼자 공부하는 R 데이터분석 책이 출간 되었습니다!! 처음 시작하는 R 데이터분석 이라는 책의 개정판 입니다. 출판사 IT 출판 정책에 의해 제목을 바꾼것 같네요.   R이라는 언어에 관심이 있어 처음...\nThe post [추천도서] 혼자 공부하는 R 데이터분석 appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/%ec%b1%85%ec%86%8c%ea%b0%9c-%ed%98%bc%ec%9e%90-%ea%b3%b5%eb%b6%80%ed%95%98%eb%8a%94-r-%eb%8d%b0%ec%9d%b4%ed%84%b0%eb%b6%84%ec%84%9d/",
           "publishedOn": "2022-01-22T03:23:28.000Z",
-          "wordCount": 578,
+          "wordCount": 580,
           "title": "[추천도서] 혼자 공부하는 R 데이터분석",
           "imageUrl": "https://hongong.hanbit.co.kr/wp-content/uploads/2022/01/%ED%98%BC%EC%9E%90-%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94-R-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-1-600x820.jpg"
         }
@@ -189,6 +189,66 @@
       "feedUrl": "https://news.hada.io/rss/news",
       "siteUrl": "https://news.hada.io",
       "articles": [
+        {
+          "id": "https://news.hada.io/topic?id=6015",
+          "author": null,
+          "description": "- OpenJS는 기존엔 Joyent로 부터 6년간 무료 영구 라이센스를 받아서 사용  \nㅤ→ \"Node.js\" 와 육각형 로고\n- 이제 Joyent에서 OpenJS 재단으로 소유권과 관리가 이전",
+          "link": "https://news.hada.io/topic?id=6015",
+          "publishedOn": "2022-02-20T00:29:02.000Z",
+          "wordCount": 93,
+          "title": "Node.js 트레이드 마크, OpenJS 재단으로 이관",
+          "imageUrl": "https://social.news.hada.io/topic/6015"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6014",
+          "author": null,
+          "description": "- 크롬은 3월말, FF는 5월초 버전 100에 도달\n- 버전번호가 3자리로 바뀌면서 UA정보중 버전 번호를 잘못 파싱하는 사이트에 문제가 발생할 수 있음 \nㅤ→ 12년전 버전 10에 처음 도달했을 때에도 여러 UA 파싱 라이브러리가 문제를 일으킴 \n- 각 브라우저들은 버전을 100으로 미리 세팅하도록 ...",
+          "link": "https://news.hada.io/topic?id=6014",
+          "publishedOn": "2022-02-20T00:13:01.000Z",
+          "wordCount": 134,
+          "title": "크롬과 Firefox, 버전 100 도달 예정",
+          "imageUrl": "https://social.news.hada.io/topic/6014"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6013",
+          "author": null,
+          "description": "약 9개월에 걸쳐 3명의 개발자분들과 함께 vite 공식 문서 번역을 진행했습니다.\n\n현재 모든 문서 번역이 완료된 상태이며, GitHub Actions를 이용해 원본 문서와 매일 sync-up을 하고 있어 최신 상태를 유지하고 있습니다.\n\n- 번역된 사이트 : https://vitejs-kr.github.io/...",
+          "link": "https://news.hada.io/topic?id=6013",
+          "publishedOn": "2022-02-19T07:02:03.000Z",
+          "wordCount": 110,
+          "title": "자바스크립트 빌드 & 번들러 툴인 vite 문서를 번역했어요",
+          "imageUrl": "https://social.news.hada.io/topic/6013"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6012",
+          "author": null,
+          "description": "- 서버에 PHP파일 하나만 놓으면 바로 포토 갤러리로 사용 가능\n- 파일/폴더 브라우저 \n- 포토 갤러리 : 프리뷰 이미지 캐싱으로 빠른 로딩 지원 \nㅤ→ IPTC, EXIF, GPS 지도 보기 지원\n- 인증된 사용자만 접근 하게 설정 가능\n- 텍스트/코드 편집 기능(구문 강조 지원)\n-...",
+          "link": "https://news.hada.io/topic?id=6012",
+          "publishedOn": "2022-02-19T02:40:49.000Z",
+          "wordCount": 130,
+          "title": "Files - PHP 파일 하나로 된 파일/사진 공유 앱",
+          "imageUrl": "https://social.news.hada.io/topic/6012"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6011",
+          "author": null,
+          "description": "- CSS Flexbox를 쉽게 배우기 \n- 총 24단계로 구성 \n- 오픈소스로 한국어 및 40개 언어로 번역됨",
+          "link": "https://news.hada.io/topic?id=6011",
+          "publishedOn": "2022-02-19T02:21:01.000Z",
+          "wordCount": 86,
+          "title": "Flexbox Froggy - 개구리를 움직여서 CSS Flexbox 배우기",
+          "imageUrl": "https://social.news.hada.io/topic/6011"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6010",
+          "author": null,
+          "description": "1. 로봇의 분류와 역사\n- 로봇의 정의와 분류: 산업용(제조) 로봇과 서비스 로봇\n- 로봇의 역사: 연대별 로봇 산업 변천사\n\n2. 주요 국가별 로봇 시장 현황\n- 중국: 2013년 이래로 8년 연속 세계 최대 로봇 시장 지위 유지 중\n- 미국: 로보틱스 로드맵 통해 우주 자율주행...",
+          "link": "https://news.hada.io/topic?id=6010",
+          "publishedOn": "2022-02-19T01:24:01.000Z",
+          "wordCount": 191,
+          "title": "로봇의 분류와 역사, 국가/분야별 로봇 시장 현황 (140p PDF)",
+          "imageUrl": "https://social.news.hada.io/topic/6010"
+        },
         {
           "id": "https://news.hada.io/topic?id=6009",
           "author": null,
@@ -228,66 +288,6 @@
           "wordCount": 134,
           "title": "내가 오래된 컴퓨터 매뉴얼을 모으고 읽는 이유",
           "imageUrl": "https://social.news.hada.io/topic/6006"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6005",
-          "author": null,
-          "description": "이번 주말에 뭘 하려고 계획 중인지 편하게 얘기해 보아요.\n\n읽을 책, 가볼 곳, 해볼 것.. 어떤 것이든 좋습니다.\n도움 요청이나 피드백 요청도 좋습니다.\n물론! 아무것도 하지 않고 쉬는 것도 훌륭합니다.\n\n* 지난 주말에 계획하셨던 일의 회고도 한번 남겨봐 주세요.",
-          "link": "https://news.hada.io/topic?id=6005",
-          "publishedOn": "2022-02-18T02:12:31.000Z",
-          "wordCount": 121,
-          "title": "Ask GN: 이번 주말에 뭐 하시나요?",
-          "imageUrl": "https://social.news.hada.io/topic/6005"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6004",
-          "author": null,
-          "description": "- 148개국, 16085명 설문조사\n- 연봉$: 50~100k 22% > 100~200k 16% > 30~50k > 13%\n- 경력y: 5~10 23% > 2~5 20% > 10~20 > 19%\n- 나이: 24~34 39% > 35~44 19% > 18~24 10% > 45~54 5%\n- 남성 71% 여성 4% \n\n- 라이브러리 만족도별 티어 ...",
-          "link": "https://news.hada.io/topic?id=6004",
-          "publishedOn": "2022-02-18T01:38:02.000Z",
-          "wordCount": 555,
-          "title": "State of JavaScript 2021",
-          "imageUrl": "https://social.news.hada.io/topic/6004"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6003",
-          "author": null,
-          "description": "업무를 가이드하는 핵심 가치를 수정 \n- Move Fast \n- Focus on Long-Term Impact \n- Build Awesome Things \n- Live in the Future \n- Be Direct and Respect Your Colleagues \n- Meta, Metamates, Me",
-          "link": "https://news.hada.io/topic?id=6003",
-          "publishedOn": "2022-02-18T01:20:46.000Z",
-          "wordCount": 118,
-          "title": "Meta(페이스북), 핵심 가치 업데이트",
-          "imageUrl": "https://social.news.hada.io/topic/6003"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6002",
-          "author": null,
-          "description": "- 2017년에 처음 출시될 때 부터 크롬/FF는 지원했지만, 다른 브라우저에선 1.0 폴백을 필요로 했음\n- 마지막으로 iOS/MacOS용 Safari 15에서 WebGL 2.0 지원되면서 대부분의 브라우저에서 지원됨 \nㅤ→ Metal 기반으로 WebGL 지원 \n- 이제 차세대인 W3C의 WebGPU 스펙 공식 출시를 기다리는 중...",
-          "link": "https://news.hada.io/topic?id=6002",
-          "publishedOn": "2022-02-18T00:54:02.000Z",
-          "wordCount": 112,
-          "title": "WebGL 2.0 모든 브라우저에서 완전히 지원 시작",
-          "imageUrl": "https://social.news.hada.io/topic/6002"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6001",
-          "author": null,
-          "description": "- 무료 PC/맥용 클라우드-First OS\nㅤ→ 주로 기업 대상 \n- 가상데스크톱(VDI) 및 웹앱 사용\n- 빠른 부팅, 자동 업데이트, 클라우드에서 통합 관리 가능\n- 먼저 USB 부팅해서 사용해본 뒤 설치도 가능. 네트워크 설치 지원 \n- 실행파일 차단 및 샌드박싱 기술로 안티바이러스 필요...",
-          "link": "https://news.hada.io/topic?id=6001",
-          "publishedOn": "2022-02-18T00:37:50.000Z",
-          "wordCount": 111,
-          "title": "구글, Chrome OS Flex 공개",
-          "imageUrl": "https://social.news.hada.io/topic/6001"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6000",
-          "author": null,
-          "description": "IBK투자증권이 NFT 전반에 대해서 정리한 슬라이드 형태 보고서 \n\n# 가상자산과 전통자산의 관계\n- 전 세계 가상자산 시가총액은 2021년 말 기준 약 2,657조원으로, 2020년 1분기 말 대비 9배 가까이 증가함\n- 국내 10대 암호화 거래소 거래량은 약 3.9조원 수준으로, 코스피 거래량인 9...",
-          "link": "https://news.hada.io/topic?id=6000",
-          "publishedOn": "2022-02-18T00:24:03.000Z",
-          "wordCount": 433,
-          "title": "NFT, 재미에서 일상으로 (92p PDF)",
-          "imageUrl": "https://social.news.hada.io/topic/6000"
         }
       ]
     },
@@ -325,16 +325,6 @@
           "wordCount": 275,
           "title": "Mac에서 코틀린 개발환경 구성하기",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcRh96U%2FbtrrxZaxg1y%2FyyxjtNZ4Yo06Zm42tyhmU0%2Fimg.png"
-        },
-        {
-          "id": "https://jojoldu.tistory.com/634",
-          "author": "향로",
-          "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\nDatabase에 관해 기본적인 id/pw 외에 해야할 설정들이 여러개 있는데요. \n그 중 실제 서비스 운영에 가장 중요한 설정 중 하나가 이전 글인 쿼리 타임아웃 과 함께 커넥션 풀 (Connection Pool) 설정입니다.\n이 커넥션풀 설정이 왜 필요한지, 어떻게 해야할지 등등을 알아보겠습니다.\n1. 실험 환경\n실험의 경우 아래 환경에서 진행합니다.\nNode 16\nPostgreSQL 14 (by Docker)\n간단하게 아래와 같이 Node와 PG를 사용한 코드를 하나 만들어둡니다.\n실험을 위해 lint 등을 빼고 빠르게 구성했습니다.\napp.js\nconst express = require('express');\nconst pg = require('pg');\n\nconst app = express()\nconst port = 3000\n\nconst client = new pg.Pool({\n  host: 'localhost',\n  user: 'test',\n  password: 'test',\n  database: 'test',\n  port: 5432,\n  max: 5,\n})\n\nclient.connect(err => {\n  if (err) {\n    console.log('Failed to connect db ' + err)\n  } else {\n    console.log('Connect to db done!')\n …",
-          "link": "https://jojoldu.tistory.com/634",
-          "publishedOn": "2022-01-21T01:22:10.000Z",
-          "wordCount": 1105,
-          "title": "NodeJS 와 PostgreSQL Connection Pool",
-          "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbakyIi%2FbtrrkuggMyE%2FJtpKSkKkK4O01kLj7R1ogk%2Fimg.png"
         }
       ]
     }
