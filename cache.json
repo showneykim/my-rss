@@ -11,7 +11,7 @@
           "description": "Being able to understand Node continues to be an important skill if you’re a front-end developer. Deno has arrived as another way to run JavaScript outside the browser, but the huge ecosystem of tools and software built with Node mean …\nComparing Node JavaScript to JavaScript in the Browser originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/node-javascript-compared-to-javascript/",
           "publishedOn": "2022-02-18T19:01:08.000Z",
-          "wordCount": 3703,
+          "wordCount": 3738,
           "title": "Comparing Node JavaScript to JavaScript in the Browser",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363467"
         },
@@ -21,7 +21,7 @@
           "description": "I linked to Jay’s front-end predictions last year and I think they panned out pretty well. I think he’s got a bit of a knack for that wide-scope look at front-end, including tooling and architecture, as well as browser tech. …\n(Jay Freestone’s) Front-End Predictions for 2022 originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/jay-freestone-front-end-predictions-for-2022/",
           "publishedOn": "2022-02-18T15:34:39.000Z",
-          "wordCount": 968,
+          "wordCount": 1091,
           "title": "(Jay Freestone’s) Front-End Predictions for 2022",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363911"
         },
@@ -61,7 +61,7 @@
           "description": "Within Drupal 10 core, we’re implementing a new auto-filling CSS Grid technique that I think is cool enough to share with the world.\nThe requirements are:\nThe user specifies a maximum number of columns. This is the auto-filling grid’s “natural” \n…\nAn Auto-Filling CSS Grid With Max Columns of a Minimum Size originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/an-auto-filling-css-grid-with-max-columns/",
           "publishedOn": "2022-02-16T15:06:57.000Z",
-          "wordCount": 1371,
+          "wordCount": 1342,
           "title": "An Auto-Filling CSS Grid With Max Columns of a Minimum Size",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363541"
         },
@@ -171,16 +171,6 @@
           "wordCount": 715,
           "title": "[추천도서] Do it! 점프 투 파이썬",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2022/02/k582635822_1.jpg"
-        },
-        {
-          "id": "https://rastalion.me/?p=2450",
-          "author": "Rasta Lion",
-          "description": "친한 동생이자 친구인 강전희 저자의 혼자 공부하는 R 데이터분석 책이 출간 되었습니다!! 처음 시작하는 R 데이터분석 이라는 책의 개정판 입니다. 출판사 IT 출판 정책에 의해 제목을 바꾼것 같네요.   R이라는 언어에 관심이 있어 처음...\nThe post [추천도서] 혼자 공부하는 R 데이터분석 appeared first on RastaLion's IT Blog.",
-          "link": "https://rastalion.me/%ec%b1%85%ec%86%8c%ea%b0%9c-%ed%98%bc%ec%9e%90-%ea%b3%b5%eb%b6%80%ed%95%98%eb%8a%94-r-%eb%8d%b0%ec%9d%b4%ed%84%b0%eb%b6%84%ec%84%9d/",
-          "publishedOn": "2022-01-22T03:23:28.000Z",
-          "wordCount": 580,
-          "title": "[추천도서] 혼자 공부하는 R 데이터분석",
-          "imageUrl": "https://hongong.hanbit.co.kr/wp-content/uploads/2022/01/%ED%98%BC%EC%9E%90-%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94-R-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-1-600x820.jpg"
         }
       ]
     },
@@ -189,6 +179,26 @@
       "feedUrl": "https://news.hada.io/rss/news",
       "siteUrl": "https://news.hada.io",
       "articles": [
+        {
+          "id": "https://news.hada.io/topic?id=6017",
+          "author": null,
+          "description": "- GCP의 차세대 Functions-as-a-Service \n- 기존 9분에서 60분으로 더 길어진 최대 실행 시간(HTTP)\nㅤ→ 데이터 처리 및 머신러닝 파이프라인에 적합 \n- 더 큰 인스턴스 제공(최대 16GB, 4 vCPU)\n- 한개의 펑션 인스턴스로 최대 1000개까지의 동시 리퀘스트 처리 지원\n- Pre-war...",
+          "link": "https://news.hada.io/topic?id=6017",
+          "publishedOn": "2022-02-21T00:40:39.000Z",
+          "wordCount": 127,
+          "title": "구글 Cloud Functions 2세대 공개",
+          "imageUrl": "https://social.news.hada.io/topic/6017"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6016",
+          "author": null,
+          "description": "- GraphQL을 이용해서 주로 쓰는 웹 API 호출을 쉽게 할 수 있도록 지원 \nㅤ→ GitHub, Stripe, Salesforce, Box, Spotify, Contentful 등 (더 추가 예정)\n- Netlify 대시보드에서 연결하면 바로 사용 가능하며, 작성된 쿼리로 서버리스 함수 코드를 생성",
+          "link": "https://news.hada.io/topic?id=6016",
+          "publishedOn": "2022-02-20T00:51:02.000Z",
+          "wordCount": 88,
+          "title": "Netlify Graph 공개",
+          "imageUrl": "https://social.news.hada.io/topic/6016"
+        },
         {
           "id": "https://news.hada.io/topic?id=6015",
           "author": null,
@@ -215,7 +225,7 @@
           "description": "약 9개월에 걸쳐 3명의 개발자분들과 함께 vite 공식 문서 번역을 진행했습니다.\n\n현재 모든 문서 번역이 완료된 상태이며, GitHub Actions를 이용해 원본 문서와 매일 sync-up을 하고 있어 최신 상태를 유지하고 있습니다.\n\n- 번역된 사이트 : https://vitejs-kr.github.io/...",
           "link": "https://news.hada.io/topic?id=6013",
           "publishedOn": "2022-02-19T07:02:03.000Z",
-          "wordCount": 110,
+          "wordCount": 113,
           "title": "자바스크립트 빌드 & 번들러 툴인 vite 문서를 번역했어요",
           "imageUrl": "https://social.news.hada.io/topic/6013"
         },
@@ -268,26 +278,6 @@
           "wordCount": 124,
           "title": "Elastic, Amazon과 상표권 침해 소송 합의",
           "imageUrl": "https://social.news.hada.io/topic/6008"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6007",
-          "author": null,
-          "description": "- 카카오브레인이 만든 GPT-3 모델의 한국어 특화 버전 KoGPT의 성능을 본래 점수보다 높게 공개\n- 코드상 문제로 테스트 과정에서 초기화를 하지 않고 평가한 점수 그대로 기입\n- 리포트에 밝힌 점수보다 5점 정도 낮아.. 평가 공정성 훼손",
-          "link": "https://news.hada.io/topic?id=6007",
-          "publishedOn": "2022-02-18T02:37:42.000Z",
-          "wordCount": 103,
-          "title": "카카오의 한국어 AI언어모델 KoGPT, 점수 과장됐다",
-          "imageUrl": "https://social.news.hada.io/topic/6007"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6006",
-          "author": null,
-          "description": "- 예전 매뉴얼 작성자들은 부정확한 내용들이 인쇄 되지 않게 더 주의를 기울였음\n- 매우 시각적이고 풍부한 콘텐츠, 상황을 잘 설명하는 삽화, 간결한 예제, 요즘 문서에선 찾아볼 수 없는 평온함이 있음\n- 이런 매뉴얼들을 찾고 읽어 보는 것은 테크니컬 라이터에게 큰 도움이 됨 \n- Bitsaver...",
-          "link": "https://news.hada.io/topic?id=6006",
-          "publishedOn": "2022-02-18T02:16:27.000Z",
-          "wordCount": 134,
-          "title": "내가 오래된 컴퓨터 매뉴얼을 모으고 읽는 이유",
-          "imageUrl": "https://social.news.hada.io/topic/6006"
         }
       ]
     },
