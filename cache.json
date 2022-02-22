@@ -6,6 +6,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=363766",
+          "author": "Miriam Suzanne",
+          "description": "This is your complete guide to CSS cascade layers, a CSS feature that allows us to define explicit contained layers of specificity, so that we have full control over which styles take priority in a project without relying on specificity …\nA Complete Guide to CSS Cascade Layers originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/css-cascade-layers/",
+          "publishedOn": "2022-02-21T15:40:35.000Z",
+          "wordCount": 7420,
+          "title": "A Complete Guide to CSS Cascade Layers",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363766"
+        },
+        {
           "id": "https://css-tricks.com/?p=363467",
           "author": "Hugh Haworth",
           "description": "Being able to understand Node continues to be an important skill if you’re a front-end developer. Deno has arrived as another way to run JavaScript outside the browser, but the huge ecosystem of tools and software built with Node mean …\nComparing Node JavaScript to JavaScript in the Browser originally published on CSS-Tricks. You should get the newsletter.",
@@ -144,16 +154,6 @@
           "wordCount": 824,
           "title": "Multi-Value CSS Properties With Optional Custom Property Values",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363027"
-        },
-        {
-          "id": "https://css-tricks.com/?p=362285",
-          "author": "Chris Coyier",
-          "description": "I was just writing in my “What’s new in since CSS3?” article about recent and possible future changes to CSS colors. It’s weirdly a lot. There are just as many or more new and upcoming ways to define colors than …\nA Whistle-Stop Tour of 4 New CSS Color Features originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/new-css-color-features-preview/",
-          "publishedOn": "2022-02-10T23:01:55.000Z",
-          "wordCount": 2723,
-          "title": "A Whistle-Stop Tour of 4 New CSS Color Features",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/362285"
         }
       ]
     },
@@ -168,7 +168,7 @@
           "description": "파이썬 입문의 베스트 셀러 Do it! 점프 투 파이썬 입니다. 개정판으로 나왔고 저자 분이 위키독스의 운영자분이시기 때문에 웹에서도 무료로 볼수 있는 책입니다. 책을 완독한 후기는 정말 입문용으로는 최고의 도서입니다. 이 책만 완독했다고 해서 프로그래밍에...\nThe post [추천도서] Do it! 점프 투 파이썬 appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/%ec%b6%94%ec%b2%9c%eb%8f%84%ec%84%9c-do-it-%ec%a0%90%ed%94%84-%ed%88%ac-%ed%8c%8c%ec%9d%b4%ec%8d%ac/",
           "publishedOn": "2022-02-05T07:10:52.000Z",
-          "wordCount": 715,
+          "wordCount": 714,
           "title": "[추천도서] Do it! 점프 투 파이썬",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2022/02/k582635822_1.jpg"
         }
@@ -180,12 +180,82 @@
       "siteUrl": "https://news.hada.io",
       "articles": [
         {
+          "id": "https://news.hada.io/topic?id=6024",
+          "author": null,
+          "description": "루비 온 레일즈의 창시자 dhh는 아래와 같은 이유들로 인해 줄곧 암호화폐에 부정적인 입장을 가지고 있었음.\n비트코인 채굴에 사용되는 막대한 에너지\n비트코인의 낮은 처리량과 높은 트랜잭션 비용\n미친듯한 가격 급등락\n하지만 최근 캐나다 트럭커 시위대 사건을 통",
+          "link": "https://news.hada.io/topic?id=6024",
+          "publishedOn": "2022-02-21T16:07:45.000Z",
+          "wordCount": 153,
+          "title": "I was wrong, we need crypto",
+          "imageUrl": "https://social.news.hada.io/topic/6024"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6023",
+          "author": null,
+          "description": "\"Reddit은 현재 가장 인기있는 검색엔진이다\"\n레딧팀만 그걸 모르고 있는지 훌륭한 검색 인터페이스를 만들지 않고 있음\n그래서 우린 구글을 이용해 검색하며 쿼리 끝에 \"reddit\" 이란 단어를 추가한다\n실제로 Redd",
+          "link": "https://news.hada.io/topic?id=6023",
+          "publishedOn": "2022-02-21T05:25:08.000Z",
+          "wordCount": 685,
+          "title": "구글 검색이 죽어가고 있다",
+          "imageUrl": "https://social.news.hada.io/topic/6023"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6022",
+          "author": null,
+          "description": "넷플릭스 문화와 인재상에 대한 한글 공식 페이지입니다.\n넷플릭스 채용 사이트에 포함된 페이지입니다.\n\n----\n\n# 넷플릭스의 문화\n\n즐거움을 추구하는 것은 우정을 나누는 것처럼 우리 모두가 지닌 기본적인 욕구입니다. 우리는 상호작용을 통해 서로 공감대를 형...",
+          "link": "https://news.hada.io/topic?id=6022",
+          "publishedOn": "2022-02-21T04:35:32.000Z",
+          "wordCount": 608,
+          "title": "[공식한글] 넷플릭스 문화, 가치관",
+          "imageUrl": "https://social.news.hada.io/topic/6022"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6021",
+          "author": null,
+          "description": "SSL인증서 → Let's Encrypt\nConcurrency → async/await\nCSS로 중앙정렬 → flexbox/grid\n빠른 프로그램 작성 → Go\n이미지 인식 → 전이학습(Trasfer Learning)\n크로스플랫폼 GUI 작성 → Electron\nVPN → Wireguard\n리눅스 커널에서 내 코드...",
+          "link": "https://news.hada.io/topic?id=6021",
+          "publishedOn": "2022-02-21T02:14:24.000Z",
+          "wordCount": 334,
+          "title": "예전엔 엄청 어려웠지만, 지금은 쉬워진 것들",
+          "imageUrl": "https://social.news.hada.io/topic/6021"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6020",
+          "author": null,
+          "description": "- 무료로 미국 전역의 6.3억개 법원 사건 및 소송 검색 가능\n- 구글 Scholar보다 100배, 미국 연방 사법부가 관리하는 공식사이트 PACER보다도 10배 많음 \n- 1976/1/1 ~ 2021/11/10 사이의 790만개 특허도 모두 검색 가능 \n- 일부는 Kaggle에 Dataset 으로도 제공",
+          "link": "https://news.hada.io/topic?id=6020",
+          "publishedOn": "2022-02-21T01:49:28.000Z",
+          "wordCount": 158,
+          "title": "Judyrecords - 무료 미국 법원 사건 및 소송 검색 시스템",
+          "imageUrl": "https://social.news.hada.io/topic/6020"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6019",
+          "author": null,
+          "description": "- 370개의 ImageMagick 스크립트 모음(BASH 쉘 스크립트)\n- 3D, 합성, 컬러/톤 조정, 타일링, 텍스트 효과 등 \n- 각 스크립트에 다양한 옵션을 줄수 있으며 적용한 예제 이미지 포함 \n- 카테고리 \nㅤ→ Geometry \nㅤ→ Image Effects \nㅤ→ Brightness / Contrast \n...",
+          "link": "https://news.hada.io/topic?id=6019",
+          "publishedOn": "2022-02-21T01:20:26.000Z",
+          "wordCount": 183,
+          "title": "Fred's ImageMagick Scripts",
+          "imageUrl": "https://social.news.hada.io/topic/6019"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6018",
+          "author": null,
+          "description": "- 여러 VCS의 장점을 결합 \nㅤ→ Git : 데이터 모델과 속도\nㅤ→ Mercurial : 익명 브랜칭, \"index\"로 부터 자유로운 CLI, revsets, 강력한 히스토리-재작성\nㅤ→ Pijul/Darcs : First-class conflicts\n- 기존 VCS에 없는 독자적인 기능 : working-copy-as-a-commit, Undo 기능...",
+          "link": "https://news.hada.io/topic?id=6018",
+          "publishedOn": "2022-02-21T01:06:06.000Z",
+          "wordCount": 217,
+          "title": "Jujutsu - 간단하고 강력한 Git 호환 DVCS",
+          "imageUrl": "https://social.news.hada.io/topic/6018"
+        },
+        {
           "id": "https://news.hada.io/topic?id=6017",
           "author": null,
           "description": "- GCP의 차세대 Functions-as-a-Service \n- 기존 9분에서 60분으로 더 길어진 최대 실행 시간(HTTP)\nㅤ→ 데이터 처리 및 머신러닝 파이프라인에 적합 \n- 더 큰 인스턴스 제공(최대 16GB, 4 vCPU)\n- 한개의 펑션 인스턴스로 최대 1000개까지의 동시 리퀘스트 처리 지원\n- Pre-war...",
           "link": "https://news.hada.io/topic?id=6017",
           "publishedOn": "2022-02-21T00:40:39.000Z",
-          "wordCount": 127,
+          "wordCount": 133,
           "title": "구글 Cloud Functions 2세대 공개",
           "imageUrl": "https://social.news.hada.io/topic/6017"
         },
@@ -208,76 +278,6 @@
           "wordCount": 93,
           "title": "Node.js 트레이드 마크, OpenJS 재단으로 이관",
           "imageUrl": "https://social.news.hada.io/topic/6015"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6014",
-          "author": null,
-          "description": "- 크롬은 3월말, FF는 5월초 버전 100에 도달\n- 버전번호가 3자리로 바뀌면서 UA정보중 버전 번호를 잘못 파싱하는 사이트에 문제가 발생할 수 있음 \nㅤ→ 12년전 버전 10에 처음 도달했을 때에도 여러 UA 파싱 라이브러리가 문제를 일으킴 \n- 각 브라우저들은 버전을 100으로 미리 세팅하도록 ...",
-          "link": "https://news.hada.io/topic?id=6014",
-          "publishedOn": "2022-02-20T00:13:01.000Z",
-          "wordCount": 134,
-          "title": "크롬과 Firefox, 버전 100 도달 예정",
-          "imageUrl": "https://social.news.hada.io/topic/6014"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6013",
-          "author": null,
-          "description": "약 9개월에 걸쳐 3명의 개발자분들과 함께 vite 공식 문서 번역을 진행했습니다.\n\n현재 모든 문서 번역이 완료된 상태이며, GitHub Actions를 이용해 원본 문서와 매일 sync-up을 하고 있어 최신 상태를 유지하고 있습니다.\n\n- 번역된 사이트 : https://vitejs-kr.github.io/...",
-          "link": "https://news.hada.io/topic?id=6013",
-          "publishedOn": "2022-02-19T07:02:03.000Z",
-          "wordCount": 113,
-          "title": "자바스크립트 빌드 & 번들러 툴인 vite 문서를 번역했어요",
-          "imageUrl": "https://social.news.hada.io/topic/6013"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6012",
-          "author": null,
-          "description": "- 서버에 PHP파일 하나만 놓으면 바로 포토 갤러리로 사용 가능\n- 파일/폴더 브라우저 \n- 포토 갤러리 : 프리뷰 이미지 캐싱으로 빠른 로딩 지원 \nㅤ→ IPTC, EXIF, GPS 지도 보기 지원\n- 인증된 사용자만 접근 하게 설정 가능\n- 텍스트/코드 편집 기능(구문 강조 지원)\n-...",
-          "link": "https://news.hada.io/topic?id=6012",
-          "publishedOn": "2022-02-19T02:40:49.000Z",
-          "wordCount": 130,
-          "title": "Files - PHP 파일 하나로 된 파일/사진 공유 앱",
-          "imageUrl": "https://social.news.hada.io/topic/6012"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6011",
-          "author": null,
-          "description": "- CSS Flexbox를 쉽게 배우기 \n- 총 24단계로 구성 \n- 오픈소스로 한국어 및 40개 언어로 번역됨",
-          "link": "https://news.hada.io/topic?id=6011",
-          "publishedOn": "2022-02-19T02:21:01.000Z",
-          "wordCount": 86,
-          "title": "Flexbox Froggy - 개구리를 움직여서 CSS Flexbox 배우기",
-          "imageUrl": "https://social.news.hada.io/topic/6011"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6010",
-          "author": null,
-          "description": "1. 로봇의 분류와 역사\n- 로봇의 정의와 분류: 산업용(제조) 로봇과 서비스 로봇\n- 로봇의 역사: 연대별 로봇 산업 변천사\n\n2. 주요 국가별 로봇 시장 현황\n- 중국: 2013년 이래로 8년 연속 세계 최대 로봇 시장 지위 유지 중\n- 미국: 로보틱스 로드맵 통해 우주 자율주행...",
-          "link": "https://news.hada.io/topic?id=6010",
-          "publishedOn": "2022-02-19T01:24:01.000Z",
-          "wordCount": 191,
-          "title": "로봇의 분류와 역사, 국가/분야별 로봇 시장 현황 (140p PDF)",
-          "imageUrl": "https://social.news.hada.io/topic/6010"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6009",
-          "author": null,
-          "description": "\"DIscovery And Launch\"\n- 세컨드 스크린 기기(모바일)에서 첫번째 스크린(TV, Set-Top 등)을 찾고 앱을 실행하게 해주는 N-Screen용 프로토콜 \n- 유튜브와 Netflix가 같이 개발 \nㅤ→ 유튜브의 \"Play on TV\" 버튼이 이를 통해서 동작",
-          "link": "https://news.hada.io/topic?id=6009",
-          "publishedOn": "2022-02-19T00:40:36.000Z",
-          "wordCount": 119,
-          "title": "DIAL - 폰에서 TV를 찾고 앱을 실행할 수 있게 해주는 프로토콜",
-          "imageUrl": "https://social.news.hada.io/topic/6009"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6008",
-          "author": null,
-          "description": "- ElasticSearch 때문에 발생했던 분쟁에 대해 합의 \n- 이제 AWS 와 AWS MarketPlace 위의 ElasticSearch 서비스는 Elastic Cloud 하나만 두는 것으로 결정",
-          "link": "https://news.hada.io/topic?id=6008",
-          "publishedOn": "2022-02-18T02:56:18.000Z",
-          "wordCount": 124,
-          "title": "Elastic, Amazon과 상표권 침해 소송 합의",
-          "imageUrl": "https://social.news.hada.io/topic/6008"
         }
       ]
     },
@@ -287,12 +287,22 @@
       "siteUrl": "https://jojoldu.tistory.com/",
       "articles": [
         {
+          "id": "https://jojoldu.tistory.com/638",
+          "author": "향로",
+          "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\nNodeJS 기반의 백엔드에서는 NestJS, RoutingControllers 등 최근 대세가 되는 MVC 프레임워크들이 모두 Class를 기반으로 한 DI (Dependency Injection) 방식을 사용하고 있다.\n그러다보니 Jest의 Mocking 방식은 백엔드 NodeJS 환경에서 적합한 도구는 아닐 수 있다. \n특히, Mock/Stub 객체 생성에 불편한 점이 많다.\n그래서 Test Runner로서 Jest는 사용하더라도, Mock 라이브러리는 다른 것을 사용하는 것을 추천하는데, 그 중 대표적인 것들은 다음과 같다.\nts-mockito\nsinonjs\njest-mock-extended\n이번 글에서는 그 중 ts-mockito 를 통한 테스트 더블 (Mock, Stub 등) 활용법을 알아본다.\n1. Jest 와 ts-mockito 비교\n먼저 기존 Jest 방식이 왜 불편한지 보자.\nJest로 객체 Mock/Stub 하는것에 대한 불편함만 다룬다. \n이외에는 Jest는 장점이 많은 테스트 프레임워크이다.\n테스트할 메인 코드는 다음과 같다.\nexport class OrderService {\n    constructor(\n        private readonly orderRepository: OrderRepository,\n        ) {\n    }\n\n    validateCompletedOr…",
+          "link": "https://jojoldu.tistory.com/638",
+          "publishedOn": "2022-02-21T01:33:06.000Z",
+          "wordCount": 1314,
+          "title": "(NodeJS 환경에서) jest.mock 보다 ts-mockito 사용하기",
+          "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FyDHv8%2FbtrtKCYT5Rm%2FFrJHxHENdmXT37oOchhOgK%2Fimg.png"
+        },
+        {
           "id": "https://jojoldu.tistory.com/637",
           "author": "향로",
           "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\n간혹 Service 계층을 항상 통합 테스트로만 작성하는 경우를 보게됩니다. \n모든 Service를 통합 테스트 혹은 E2E 테스트로만 검증하기 보다는 상황에 따라 적절한 Stub을 사용하여 단위 테스트로 작성한다면 전체 테스트 속도 향상에 도움이 됩니다.\n몇가지 예제를 통해 Stub을 사용하는 단위 테스트 코드를 보겠습니다.\n모든 코드는 Github 에 있습니다..\n예제 1.\n첫번째 예제로 다음과 같은 서비스 로직에 대한 단위 테스트입니다.\nexport class OrderService {\n    constructor(private readonly orderRepository: OrderRepository) {\n    }\n\n    validateCompletedOrder(orderId: number): void {\n        const order = this.orderRepository.findById(orderId);\n        if(order.isNotCompleted()) {\n            throw new Error('아직 완료처리되지 못했습니다.');\n        }\n    }\n}\n코드의 흐름을 이야기해보면\norderRepository를 통해 주문을 조회한다\n조회된 주문 상태가 완료가 아니면 메세지와 함께 에러가 발생한다\n조회된 주문 상태가 완료처리인 경우 그대로 메소드가 종료\n여…",
           "link": "https://jojoldu.tistory.com/637",
           "publishedOn": "2022-02-12T10:52:06.000Z",
-          "wordCount": 1415,
+          "wordCount": 1416,
           "title": "Stub 을 이용한 Service 계층 단위 테스트 하기",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FuafVI%2Fbtrs7lXnos1%2FUrCOOiX7kXaZcBnmJixBL0%2Fimg.png"
         },
@@ -302,7 +312,7 @@
           "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\n \n아래 모든 내용은 이번에 신규 오픈한 랠릿의 프로젝트 종료와 함께 TF 멤버분들께 전달한 메일 내용입니다.\n루비콘은 랠릿 런칭 프로젝트명입니다 :)\n안녕하세요 여러분 향로입니다.\n다들 프로젝트 오픈하고 가벼운 마음으로 저녁 보내고 계신가요? \n1월은 인프런 서비스 역대급 장애와 함께 랠릿 QA가 겹치니 정말 정신없는 1월을 보낸것 같아요. \n그러면서 루비콘 TF 멤버들과 나눴던 수많은 대화들이 떠올랐는데요. \n파트별 혹은 개인별 대화들을 복기해보면서 TF 회고와 별개로 이런 이야기는 꼭 해드리면 좋겠다 싶어 메일을 작성하게 되었습니다.\n저는 루비콘 프로젝트가 대단한 성과라고 생각 하지만, \n오픈하는 과정에서의 많은 일들로 인해서 자괴감을 느낀 분들에게는 “대단해요!” 라는 이야기는 그냥 겉치례로 들릴거라 생각해요.\n그래서 제 이야기를 잠깐 해보려고 합니다.\n저는 커리어 초기에 “나름 좀 재능있는 편이 아닐까?”, “훌륭하고 대단한 개발자가 되어야지” 와 같은 생각을 갖고 있었어요. \n근데 이 “대단한” 혹은 “훌륭한” 이라는 키워드를 자꾸 생각하다보니, 막상 허접한 제 자신을 인정을 못하겠는거 있죠?\n여러 컨퍼런스/강연을 다니면서 본 건 많아서 눈은 높은데, \n실제로 경험한건 많지 않다보니 \n막상 일을 할때의 못난 제 모습을 못참겠더라고요.\n그러다보니 결국은 허접한 사람이 될 것 같은 상황이 오면 겁쟁이처럼 피하는 사람이 되더라고요. \n초보니깐 자유롭게 뭐든 하고, 실수해도 되는데 오히려 아무것도 하지 않는 사람이 되었어요. \n허접한 내 모습을 못참겠는것 그것 때문에 수많은 성장할 수 있는 기회를 놓치고 있었어요.\n잠깐만 눈 딱감고 그 많은 기회를 배움과 성장의 재료로 삼으면 되는데도 그게 참 안되더라고요.\n사실은 초보자니깐 당연히 실수할 수 있는 것이고, \n시간이 지나서도 못하는게 부끄러운것이지, \n지금 못하는건 전혀 부끄러운일이 아닌데도 말이죠. \n막상 시간이 지나서 물어보면 아무도 비웃고 있지 않았는데, 그것 조차 몰랐던거죠.\n저는 이 루비콘이란 프로젝트가 그런 태도의 분기점이 될 수 있다고 봐요.\n각자가 느낀 부끄러운 점들이 많겠죠.\n그게 누군가에게는 더할나위 없이 수치스러울 수도 있을거에요. \n그렇지만, 그렇다고해서 피하지는 않았으면 좋겠어요.\n모든걸 다 기회로 삼으세요. \n아무거나 하셔도 되고, \n실수하셔도 됩니다. \n잘하는척, 뛰어난척 하느라 성장에 쓰일 기회마저 놓치는 바보같은 선택만 하지 말아주세요. \n모든 일은 다 지나갑니다. \n계속 머무르는 상태는 없더라고요. \n지나고보면 아무일도 아니에요.\n여하튼!\n다들 너무 고생하셨습니다. \n설 연휴 지나고, \n재밌게 회고하면서 앞으로 우리가 할 수많은 재미난 일들을 이야기해봐요 :)\n향로 드림.\n(마지막은 제가 좋아하는 이효리 짤로..)\n            \n반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({});",
           "link": "https://jojoldu.tistory.com/636",
           "publishedOn": "2022-01-28T15:49:16.000Z",
-          "wordCount": 487,
+          "wordCount": 488,
           "title": "루비콘 프로젝트 완료 메일",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FrnhxE%2Fbtrr4yu6juC%2F1iiKdxTL0HkPCykFw7Y7kk%2Fimg.png"
         },
@@ -312,7 +322,7 @@
           "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\n간단하게 코틀린을 테스트해볼 일이 있어 개인 PC에 코틀린을 설치해봤습니다. \n모든 과정은 Homebrew를 통해 진행합니다.\n1. JDK 구성\n아직 코틀린은 JVM이 있어야 하기 때문에 JDK를 꼭 설치해야 합니다.\n물론 kotlin native 의 시도가 계속 되고 있습니다.\nJDK가 미설치라면 다음과 같이 설치를 진행합니다. \n저는 OpenJDK 11을 설치했는데, 최근엔 17까지 나왔기 때문에 본인 환경에 맞게 설치하시면 됩니다.\nbrew install --cask adoptopenjdk11\n설치가 끝나면 아래와 같이 버전을 확인할 수 있습니다.\njava -version\n2. 코틀린 구성\nJava 버전을 확인했다면 코틀린을 바로 설치합니다.\nbrew install kotlin\n설치된 코틀린을 확인한다면 다음과 같이 할 수 있습니다.\nkotlinc -version\n3. 테스트\n설치된 코틀린을 통해 간단하게 코드를 작성해봅니다. \n코틀린은 콘솔에서 바로 실행해볼 수 있기 때문에 아래와 같이 테스트해봅니다.\nkotlinc-jvm\n실습이 끝나시면 쉘에서 빠져나오시면 됩니다.\n:quit\n            \n반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({});",
           "link": "https://jojoldu.tistory.com/635",
           "publishedOn": "2022-01-24T13:09:58.000Z",
-          "wordCount": 275,
+          "wordCount": 276,
           "title": "Mac에서 코틀린 개발환경 구성하기",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcRh96U%2FbtrrxZaxg1y%2FyyxjtNZ4Yo06Zm42tyhmU0%2Fimg.png"
         }

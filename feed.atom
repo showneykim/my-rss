@@ -1,10 +1,161 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-02-21T01:01:04.988Z</id>
+    <id>urn:2022-02-22T01:03:30.568Z</id>
     <title>osmos::feed</title>
-    <updated>2022-02-21T01:01:04.988Z</updated>
+    <updated>2022-02-22T01:03:30.568Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[I was wrong, we need crypto]]></title>
+        <id>https://news.hada.io/topic?id=6024</id>
+        <link href="https://news.hada.io/topic?id=6024"/>
+        <updated>2022-02-21T16:07:45.000Z</updated>
+        <summary type="html"><![CDATA[루비 온 레일즈의 창시자 dhh는 아래와 같은 이유들로 인해 줄곧 암호화폐에 부정적인 입장을 가지고 있었음.
+비트코인 채굴에 사용되는 막대한 에너지
+비트코인의 낮은 처리량과 높은 트랜잭션 비용
+미친듯한 가격 급등락
+하지만 최근 캐나다 트럭커 시위대 사건을 통]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Complete Guide to CSS Cascade Layers]]></title>
+        <id>https://css-tricks.com/?p=363766</id>
+        <link href="https://css-tricks.com/css-cascade-layers/"/>
+        <updated>2022-02-21T15:40:35.000Z</updated>
+        <summary type="html"><![CDATA[This is your complete guide to CSS cascade layers, a CSS feature that allows us to define explicit contained layers of specificity, so that we have full control over which styles take priority in a project without relying on specificity …
+A Complete Guide to CSS Cascade Layers originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Miriam Suzanne</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글 검색이 죽어가고 있다]]></title>
+        <id>https://news.hada.io/topic?id=6023</id>
+        <link href="https://news.hada.io/topic?id=6023"/>
+        <updated>2022-02-21T05:25:08.000Z</updated>
+        <summary type="html"><![CDATA["Reddit은 현재 가장 인기있는 검색엔진이다"
+레딧팀만 그걸 모르고 있는지 훌륭한 검색 인터페이스를 만들지 않고 있음
+그래서 우린 구글을 이용해 검색하며 쿼리 끝에 "reddit" 이란 단어를 추가한다
+실제로 Redd]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[공식한글] 넷플릭스 문화, 가치관]]></title>
+        <id>https://news.hada.io/topic?id=6022</id>
+        <link href="https://news.hada.io/topic?id=6022"/>
+        <updated>2022-02-21T04:35:32.000Z</updated>
+        <summary type="html"><![CDATA[넷플릭스 문화와 인재상에 대한 한글 공식 페이지입니다.
+넷플릭스 채용 사이트에 포함된 페이지입니다.
+
+----
+
+# 넷플릭스의 문화
+
+즐거움을 추구하는 것은 우정을 나누는 것처럼 우리 모두가 지닌 기본적인 욕구입니다. 우리는 상호작용을 통해 서로 공감대를 형...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[예전엔 엄청 어려웠지만, 지금은 쉬워진 것들]]></title>
+        <id>https://news.hada.io/topic?id=6021</id>
+        <link href="https://news.hada.io/topic?id=6021"/>
+        <updated>2022-02-21T02:14:24.000Z</updated>
+        <summary type="html"><![CDATA[SSL인증서 → Let's Encrypt
+Concurrency → async/await
+CSS로 중앙정렬 → flexbox/grid
+빠른 프로그램 작성 → Go
+이미지 인식 → 전이학습(Trasfer Learning)
+크로스플랫폼 GUI 작성 → Electron
+VPN → Wireguard
+리눅스 커널에서 내 코드...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Judyrecords - 무료 미국 법원 사건 및 소송 검색 시스템]]></title>
+        <id>https://news.hada.io/topic?id=6020</id>
+        <link href="https://news.hada.io/topic?id=6020"/>
+        <updated>2022-02-21T01:49:28.000Z</updated>
+        <summary type="html"><![CDATA[- 무료로 미국 전역의 6.3억개 법원 사건 및 소송 검색 가능
+- 구글 Scholar보다 100배, 미국 연방 사법부가 관리하는 공식사이트 PACER보다도 10배 많음 
+- 1976/1/1 ~ 2021/11/10 사이의 790만개 특허도 모두 검색 가능 
+- 일부는 Kaggle에 Dataset 으로도 제공]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(NodeJS 환경에서) jest.mock 보다 ts-mockito 사용하기]]></title>
+        <id>https://jojoldu.tistory.com/638</id>
+        <link href="https://jojoldu.tistory.com/638"/>
+        <updated>2022-02-21T01:33:06.000Z</updated>
+        <summary type="html"><![CDATA[반응형
+
+                    
+                    (adsbygoogle = window.adsbygoogle || []).push({}); 
+               
+
+NodeJS 기반의 백엔드에서는 NestJS, RoutingControllers 등 최근 대세가 되는 MVC 프레임워크들이 모두 Class를 기반으로 한 DI (Dependency Injection) 방식을 사용하고 있다.
+그러다보니 Jest의 Mocking 방식은 백엔드 NodeJS 환경에서 적합한 도구는 아닐 수 있다. 
+특히, Mock/Stub 객체 생성에 불편한 점이 많다.
+그래서 Test Runner로서 Jest는 사용하더라도, Mock 라이브러리는 다른 것을 사용하는 것을 추천하는데, 그 중 대표적인 것들은 다음과 같다.
+ts-mockito
+sinonjs
+jest-mock-extended
+이번 글에서는 그 중 ts-mockito 를 통한 테스트 더블 (Mock, Stub 등) 활용법을 알아본다.
+1. Jest 와 ts-mockito 비교
+먼저 기존 Jest 방식이 왜 불편한지 보자.
+Jest로 객체 Mock/Stub 하는것에 대한 불편함만 다룬다. 
+이외에는 Jest는 장점이 많은 테스트 프레임워크이다.
+테스트할 메인 코드는 다음과 같다.
+export class OrderService {
+    constructor(
+        private readonly orderRepository: OrderRepository,
+        ) {
+    }
+
+    validateCompletedOr…]]></summary>
+        <author>
+            <name>향로</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fred's ImageMagick Scripts]]></title>
+        <id>https://news.hada.io/topic?id=6019</id>
+        <link href="https://news.hada.io/topic?id=6019"/>
+        <updated>2022-02-21T01:20:26.000Z</updated>
+        <summary type="html"><![CDATA[- 370개의 ImageMagick 스크립트 모음(BASH 쉘 스크립트)
+- 3D, 합성, 컬러/톤 조정, 타일링, 텍스트 효과 등 
+- 각 스크립트에 다양한 옵션을 줄수 있으며 적용한 예제 이미지 포함 
+- 카테고리 
+ㅤ→ Geometry 
+ㅤ→ Image Effects 
+ㅤ→ Brightness / Contrast 
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jujutsu - 간단하고 강력한 Git 호환 DVCS]]></title>
+        <id>https://news.hada.io/topic?id=6018</id>
+        <link href="https://news.hada.io/topic?id=6018"/>
+        <updated>2022-02-21T01:06:06.000Z</updated>
+        <summary type="html"><![CDATA[- 여러 VCS의 장점을 결합 
+ㅤ→ Git : 데이터 모델과 속도
+ㅤ→ Mercurial : 익명 브랜칭, "index"로 부터 자유로운 CLI, revsets, 강력한 히스토리-재작성
+ㅤ→ Pijul/Darcs : First-class conflicts
+- 기존 VCS에 없는 독자적인 기능 : working-copy-as-a-commit, Undo 기능...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[구글 Cloud Functions 2세대 공개]]></title>
         <id>https://news.hada.io/topic?id=6017</id>
@@ -45,90 +196,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[크롬과 Firefox, 버전 100 도달 예정]]></title>
-        <id>https://news.hada.io/topic?id=6014</id>
-        <link href="https://news.hada.io/topic?id=6014"/>
-        <updated>2022-02-20T00:13:01.000Z</updated>
-        <summary type="html"><![CDATA[- 크롬은 3월말, FF는 5월초 버전 100에 도달
-- 버전번호가 3자리로 바뀌면서 UA정보중 버전 번호를 잘못 파싱하는 사이트에 문제가 발생할 수 있음 
-ㅤ→ 12년전 버전 10에 처음 도달했을 때에도 여러 UA 파싱 라이브러리가 문제를 일으킴 
-- 각 브라우저들은 버전을 100으로 미리 세팅하도록 ...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자바스크립트 빌드 & 번들러 툴인 vite 문서를 번역했어요]]></title>
-        <id>https://news.hada.io/topic?id=6013</id>
-        <link href="https://news.hada.io/topic?id=6013"/>
-        <updated>2022-02-19T07:02:03.000Z</updated>
-        <summary type="html"><![CDATA[약 9개월에 걸쳐 3명의 개발자분들과 함께 vite 공식 문서 번역을 진행했습니다.
-
-현재 모든 문서 번역이 완료된 상태이며, GitHub Actions를 이용해 원본 문서와 매일 sync-up을 하고 있어 최신 상태를 유지하고 있습니다.
-
-- 번역된 사이트 : https://vitejs-kr.github.io/...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Files - PHP 파일 하나로 된 파일/사진 공유 앱]]></title>
-        <id>https://news.hada.io/topic?id=6012</id>
-        <link href="https://news.hada.io/topic?id=6012"/>
-        <updated>2022-02-19T02:40:49.000Z</updated>
-        <summary type="html"><![CDATA[- 서버에 PHP파일 하나만 놓으면 바로 포토 갤러리로 사용 가능
-- 파일/폴더 브라우저 
-- 포토 갤러리 : 프리뷰 이미지 캐싱으로 빠른 로딩 지원 
-ㅤ→ IPTC, EXIF, GPS 지도 보기 지원
-- 인증된 사용자만 접근 하게 설정 가능
-- 텍스트/코드 편집 기능(구문 강조 지원)
--...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flexbox Froggy - 개구리를 움직여서 CSS Flexbox 배우기]]></title>
-        <id>https://news.hada.io/topic?id=6011</id>
-        <link href="https://news.hada.io/topic?id=6011"/>
-        <updated>2022-02-19T02:21:01.000Z</updated>
-        <summary type="html"><![CDATA[- CSS Flexbox를 쉽게 배우기 
-- 총 24단계로 구성 
-- 오픈소스로 한국어 및 40개 언어로 번역됨]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[로봇의 분류와 역사, 국가/분야별 로봇 시장 현황 (140p PDF)]]></title>
-        <id>https://news.hada.io/topic?id=6010</id>
-        <link href="https://news.hada.io/topic?id=6010"/>
-        <updated>2022-02-19T01:24:01.000Z</updated>
-        <summary type="html"><![CDATA[1. 로봇의 분류와 역사
-- 로봇의 정의와 분류: 산업용(제조) 로봇과 서비스 로봇
-- 로봇의 역사: 연대별 로봇 산업 변천사
-
-2. 주요 국가별 로봇 시장 현황
-- 중국: 2013년 이래로 8년 연속 세계 최대 로봇 시장 지위 유지 중
-- 미국: 로보틱스 로드맵 통해 우주 자율주행...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DIAL - 폰에서 TV를 찾고 앱을 실행할 수 있게 해주는 프로토콜]]></title>
-        <id>https://news.hada.io/topic?id=6009</id>
-        <link href="https://news.hada.io/topic?id=6009"/>
-        <updated>2022-02-19T00:40:36.000Z</updated>
-        <summary type="html"><![CDATA["DIscovery And Launch"
-- 세컨드 스크린 기기(모바일)에서 첫번째 스크린(TV, Set-Top 등)을 찾고 앱을 실행하게 해주는 N-Screen용 프로토콜 
-- 유튜브와 Netflix가 같이 개발 
-ㅤ→ 유튜브의 "Play on TV" 버튼이 이를 통해서 동작]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Comparing Node JavaScript to JavaScript in the Browser]]></title>
         <id>https://css-tricks.com/?p=363467</id>
         <link href="https://css-tricks.com/node-javascript-compared-to-javascript/"/>
@@ -148,17 +215,6 @@ Comparing Node JavaScript to JavaScript in the Browser originally published on C
 (Jay Freestone’s) Front-End Predictions for 2022 originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elastic, Amazon과 상표권 침해 소송 합의]]></title>
-        <id>https://news.hada.io/topic?id=6008</id>
-        <link href="https://news.hada.io/topic?id=6008"/>
-        <updated>2022-02-18T02:56:18.000Z</updated>
-        <summary type="html"><![CDATA[- ElasticSearch 때문에 발생했던 분쟁에 대해 합의 
-- 이제 AWS 와 AWS MarketPlace 위의 ElasticSearch 서비스는 Elastic Cloud 하나만 두는 것으로 결정]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
     </entry>
     <entry>
@@ -341,17 +397,6 @@ Now imagine you don’t always want all the transform values to be applied, so s
 Multi-Value CSS Properties With Optional Custom Property Values originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Yair Even Or</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Whistle-Stop Tour of 4 New CSS Color Features]]></title>
-        <id>https://css-tricks.com/?p=362285</id>
-        <link href="https://css-tricks.com/new-css-color-features-preview/"/>
-        <updated>2022-02-10T23:01:55.000Z</updated>
-        <summary type="html"><![CDATA[I was just writing in my “What’s new in since CSS3?” article about recent and possible future changes to CSS colors. It’s weirdly a lot. There are just as many or more new and upcoming ways to define colors than …
-A Whistle-Stop Tour of 4 New CSS Color Features originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
