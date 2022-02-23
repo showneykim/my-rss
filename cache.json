@@ -6,12 +6,32 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=363998",
+          "author": "Chris Coyier",
+          "description": "That’s a damn one-two punch from Dave. He goes for the ultimate clickbait title¹, then follows up with a pile of epic advice for us all. If you want web browsers to get better, listen up:\nComplaining on \n…\nBefore I go: When it comes to complaining about web browsers originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/before-i-go-when-it-comes-to-complaining-about-web-browsers/",
+          "publishedOn": "2022-02-22T20:06:57.000Z",
+          "wordCount": 548,
+          "title": "Before I go: When it comes to complaining about web browsers",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363998"
+        },
+        {
+          "id": "https://css-tricks.com/?p=363511",
+          "author": "Alex MacArthur",
+          "description": "On several occasions, I’ve needed to send off an HTTP request with some data to log when a user does something like navigate to a different page or submit a form. Consider this contrived example of sending some information to …\nReliably Send an HTTP Request as a User Leaves a Page originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/send-an-http-request-on-page-exit/",
+          "publishedOn": "2022-02-22T15:24:01.000Z",
+          "wordCount": 2248,
+          "title": "Reliably Send an HTTP Request as a User Leaves a Page",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363511"
+        },
+        {
           "id": "https://css-tricks.com/?p=363766",
           "author": "Miriam Suzanne",
           "description": "This is your complete guide to CSS cascade layers, a CSS feature that allows us to define explicit contained layers of specificity, so that we have full control over which styles take priority in a project without relying on specificity …\nA Complete Guide to CSS Cascade Layers originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/css-cascade-layers/",
           "publishedOn": "2022-02-21T15:40:35.000Z",
-          "wordCount": 7420,
+          "wordCount": 7887,
           "title": "A Complete Guide to CSS Cascade Layers",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363766"
         },
@@ -61,7 +81,7 @@
           "description": "A useful little UI widget thingy here from Jens Kuerschner. Click the add-to-calendar button, get a list of calendar apps, the user selects which one they actually use, and they get what they need for that calendar. Could be a …\nAdd-to-Calendar Button UI Widget originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/add-to-calendar-button-ui-widget/",
           "publishedOn": "2022-02-17T01:14:21.000Z",
-          "wordCount": 799,
+          "wordCount": 830,
           "title": "Add-to-Calendar Button UI Widget",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363861"
         },
@@ -71,7 +91,7 @@
           "description": "Within Drupal 10 core, we’re implementing a new auto-filling CSS Grid technique that I think is cool enough to share with the world.\nThe requirements are:\nThe user specifies a maximum number of columns. This is the auto-filling grid’s “natural” \n…\nAn Auto-Filling CSS Grid With Max Columns of a Minimum Size originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/an-auto-filling-css-grid-with-max-columns/",
           "publishedOn": "2022-02-16T15:06:57.000Z",
-          "wordCount": 1342,
+          "wordCount": 1428,
           "title": "An Auto-Filling CSS Grid With Max Columns of a Minimum Size",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363541"
         },
@@ -134,26 +154,6 @@
           "wordCount": 631,
           "title": "Your CSS reset needs text-size-adjust (probably)",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363498"
-        },
-        {
-          "id": "https://css-tricks.com/?p=363396",
-          "author": "Chris Coyier",
-          "description": "Every now and then, I find that I’ve accumulated a bunch of links about various things I find interesting. Like React and JavaScript! Here’s a list of nine links to other articles about them that I’ve been saving up and …\n9 New React and JavaScript Links for February 2022 originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/9-new-react-and-javascript-links-for-february-2022/",
-          "publishedOn": "2022-02-11T23:11:28.000Z",
-          "wordCount": 942,
-          "title": "9 New React and JavaScript Links for February 2022",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363396"
-        },
-        {
-          "id": "https://css-tricks.com/?p=363027",
-          "author": "Yair Even Or",
-          "description": "Imagine you have an element with a multi-value CSS property, such as transform: optional custom property values:\n.el {\n  transform: translate(100px) scale(1.5) skew(5deg);\n}\nNow imagine you don’t always want all the transform values to be applied, so some …\nMulti-Value CSS Properties With Optional Custom Property Values originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/optional-custom-property-values-trick/",
-          "publishedOn": "2022-02-11T15:30:11.000Z",
-          "wordCount": 824,
-          "title": "Multi-Value CSS Properties With Optional Custom Property Values",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363027"
         }
       ]
     },
@@ -180,12 +180,92 @@
       "siteUrl": "https://news.hada.io",
       "articles": [
         {
+          "id": "https://news.hada.io/topic?id=6032",
+          "author": null,
+          "description": "스택오버플로우에 올라오는 질문 수로 트렌드를 그려보면 2020년부터 Flutter가 React-Native를 추월\n2022년 현재 SO 전체 질문의 2.8%가 Flutter 관련, React-Native는 1.4%\n왜 모바일앱 개발자들이 Flutter를 좋아할까?\n플랫폼에 전혀 구애받지 않음 : UI도 Skia엔진으...",
+          "link": "https://news.hada.io/topic?id=6032",
+          "publishedOn": "2022-02-23T00:51:49.000Z",
+          "wordCount": 272,
+          "title": "Flutter가 가장 인기 있는 크로스 플랫폼 모바일 SDK인 이유",
+          "imageUrl": "https://social.news.hada.io/topic/6032"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6031",
+          "author": null,
+          "description": "애니 GIF 속도를 최대한 빠르게 하려면 \"Frame Delay\"를 \"10ms\"가 아닌 \"20ms\"로 지정해야 함. 왜 그럴까?\nGIF 89a부터 애니메이션이 지원되기 시작\n\n각 프레임별 딜레이를 설정 가능\n다음 프레임으로 넘어가기 전까지 기다리는 시간을 100분의 1초(1...",
+          "link": "https://news.hada.io/topic?id=6031",
+          "publishedOn": "2022-02-23T00:34:03.000Z",
+          "wordCount": 292,
+          "title": "가장 빠른 GIF는 존재하지 않음",
+          "imageUrl": "https://social.news.hada.io/topic/6031"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6030",
+          "author": null,
+          "description": "데스크탑 검색 페이지 하단에 위젯 형태의 카드를 포함\n\n6개의 카드 : 날씨, 트렌딩, 볼 영화/드라마, 주식, 로컬 이벤트, COVID뉴스\nHide Content 토글 버튼으로 숨기기 가능\n모든 내용은 기존의 활동에 기반하여 추천\n클릭시 해당 항목에 대한 검색 결과 페이...",
+          "link": "https://news.hada.io/topic?id=6030",
+          "publishedOn": "2022-02-23T00:08:47.000Z",
+          "wordCount": 103,
+          "title": "구글, 첫 페이지 하단에 위젯 포함하는 테스트 중",
+          "imageUrl": "https://social.news.hada.io/topic/6030"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6029",
+          "author": null,
+          "description": "애플을 5년 전에 퇴사했지만 애정을 가지고 계속 참여\n주요 원인은 WebEx로 진행되는 주간 코어팀 미팅이 매우 안좋았다는 것(Toxic)\n특히 작년 여름 미팅에서는 모욕을 당했고, 잠시 쉬기로 했다가 결국엔 팀을 떠나기로 결정\n자신의 제안이 무시되거나, 마찰을 만들어 내면서 시간...",
+          "link": "https://news.hada.io/topic?id=6029",
+          "publishedOn": "2022-02-22T02:12:49.000Z",
+          "wordCount": 283,
+          "title": "Chris Lattner가 Swift Core팀을 떠남",
+          "imageUrl": "https://social.news.hada.io/topic/6029"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6028",
+          "author": null,
+          "description": "2분동안 똑같은 물체를 얼마나 찾을 수 있는지 테스트\n6개중 2개만 같은 도형\n오픈소스 : C++로 작성. Emscripten을 이용하여 WebAssembly로 컴파일\n\n...",
+          "link": "https://news.hada.io/topic?id=6028",
+          "publishedOn": "2022-02-22T01:47:52.000Z",
+          "wordCount": 75,
+          "title": "물체 회전 능력 테스트 하기",
+          "imageUrl": "https://social.news.hada.io/topic/6028"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6027",
+          "author": null,
+          "description": "안드로이드의 시스템 폰트인 Roboto 패밀리의 새로운 오픈소스 폰트\n장문의 기사나 소설등을 읽기에 적합한 폰트\n가변(Variable) 폰트\n\n두께, 너비\nGrade : 너비를 변화시키지 않는 선에서 변하는 두께 설정하기\nOptical Size Axes : 특정 사이즈 별로 최적화된 서...",
+          "link": "https://news.hada.io/topic?id=6027",
+          "publishedOn": "2022-02-22T01:30:23.000Z",
+          "wordCount": 124,
+          "title": "Roboto Serif 폰트 공개",
+          "imageUrl": "https://social.news.hada.io/topic/6027"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6026",
+          "author": null,
+          "description": "Microsoft가 만든 오픈소스\n런타임(near-zero) & 빌드타임 구현을 같이 제공\nSSR 지원\nCSSType을 이용한 Type-Safe한 스타일 가능\nAtomic CSS 사용으로 스타일 재사용 가능 및 CSS 이슈 회피\n\n...",
+          "link": "https://news.hada.io/topic?id=6026",
+          "publishedOn": "2022-02-22T01:07:40.000Z",
+          "wordCount": 83,
+          "title": "Griffel - 미리 컴파일 가능한 CSS-in-JS",
+          "imageUrl": "https://social.news.hada.io/topic/6026"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6025",
+          "author": null,
+          "description": "DB와 스프레드시트의 하이브리드 방식\nPython 수식. 표준 라이브러리와 전체 문법 지원. Excel 함수들 포함\nSQLite 기반\nIncremental Import : 바뀐 부분만 업데이트 가능\nREST API, Zapier, n8n 등 연동\n다양한 템플릿 제공\n접근 제어 옵션 : 공유(문서...",
+          "link": "https://news.hada.io/topic?id=6025",
+          "publishedOn": "2022-02-22T00:45:09.000Z",
+          "wordCount": 131,
+          "title": "Grist - Airtable과 Google Sheet의 오픈소스 대체제",
+          "imageUrl": "https://social.news.hada.io/topic/6025"
+        },
+        {
           "id": "https://news.hada.io/topic?id=6024",
           "author": null,
           "description": "루비 온 레일즈의 창시자 dhh는 아래와 같은 이유들로 인해 줄곧 암호화폐에 부정적인 입장을 가지고 있었음.\n비트코인 채굴에 사용되는 막대한 에너지\n비트코인의 낮은 처리량과 높은 트랜잭션 비용\n미친듯한 가격 급등락\n하지만 최근 캐나다 트럭커 시위대 사건을 통",
           "link": "https://news.hada.io/topic?id=6024",
           "publishedOn": "2022-02-21T16:07:45.000Z",
-          "wordCount": 153,
+          "wordCount": 317,
           "title": "I was wrong, we need crypto",
           "imageUrl": "https://social.news.hada.io/topic/6024"
         },
@@ -195,89 +275,9 @@
           "description": "\"Reddit은 현재 가장 인기있는 검색엔진이다\"\n레딧팀만 그걸 모르고 있는지 훌륭한 검색 인터페이스를 만들지 않고 있음\n그래서 우린 구글을 이용해 검색하며 쿼리 끝에 \"reddit\" 이란 단어를 추가한다\n실제로 Redd",
           "link": "https://news.hada.io/topic?id=6023",
           "publishedOn": "2022-02-21T05:25:08.000Z",
-          "wordCount": 685,
+          "wordCount": 717,
           "title": "구글 검색이 죽어가고 있다",
           "imageUrl": "https://social.news.hada.io/topic/6023"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6022",
-          "author": null,
-          "description": "넷플릭스 문화와 인재상에 대한 한글 공식 페이지입니다.\n넷플릭스 채용 사이트에 포함된 페이지입니다.\n\n----\n\n# 넷플릭스의 문화\n\n즐거움을 추구하는 것은 우정을 나누는 것처럼 우리 모두가 지닌 기본적인 욕구입니다. 우리는 상호작용을 통해 서로 공감대를 형...",
-          "link": "https://news.hada.io/topic?id=6022",
-          "publishedOn": "2022-02-21T04:35:32.000Z",
-          "wordCount": 608,
-          "title": "[공식한글] 넷플릭스 문화, 가치관",
-          "imageUrl": "https://social.news.hada.io/topic/6022"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6021",
-          "author": null,
-          "description": "SSL인증서 → Let's Encrypt\nConcurrency → async/await\nCSS로 중앙정렬 → flexbox/grid\n빠른 프로그램 작성 → Go\n이미지 인식 → 전이학습(Trasfer Learning)\n크로스플랫폼 GUI 작성 → Electron\nVPN → Wireguard\n리눅스 커널에서 내 코드...",
-          "link": "https://news.hada.io/topic?id=6021",
-          "publishedOn": "2022-02-21T02:14:24.000Z",
-          "wordCount": 334,
-          "title": "예전엔 엄청 어려웠지만, 지금은 쉬워진 것들",
-          "imageUrl": "https://social.news.hada.io/topic/6021"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6020",
-          "author": null,
-          "description": "- 무료로 미국 전역의 6.3억개 법원 사건 및 소송 검색 가능\n- 구글 Scholar보다 100배, 미국 연방 사법부가 관리하는 공식사이트 PACER보다도 10배 많음 \n- 1976/1/1 ~ 2021/11/10 사이의 790만개 특허도 모두 검색 가능 \n- 일부는 Kaggle에 Dataset 으로도 제공",
-          "link": "https://news.hada.io/topic?id=6020",
-          "publishedOn": "2022-02-21T01:49:28.000Z",
-          "wordCount": 158,
-          "title": "Judyrecords - 무료 미국 법원 사건 및 소송 검색 시스템",
-          "imageUrl": "https://social.news.hada.io/topic/6020"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6019",
-          "author": null,
-          "description": "- 370개의 ImageMagick 스크립트 모음(BASH 쉘 스크립트)\n- 3D, 합성, 컬러/톤 조정, 타일링, 텍스트 효과 등 \n- 각 스크립트에 다양한 옵션을 줄수 있으며 적용한 예제 이미지 포함 \n- 카테고리 \nㅤ→ Geometry \nㅤ→ Image Effects \nㅤ→ Brightness / Contrast \n...",
-          "link": "https://news.hada.io/topic?id=6019",
-          "publishedOn": "2022-02-21T01:20:26.000Z",
-          "wordCount": 183,
-          "title": "Fred's ImageMagick Scripts",
-          "imageUrl": "https://social.news.hada.io/topic/6019"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6018",
-          "author": null,
-          "description": "- 여러 VCS의 장점을 결합 \nㅤ→ Git : 데이터 모델과 속도\nㅤ→ Mercurial : 익명 브랜칭, \"index\"로 부터 자유로운 CLI, revsets, 강력한 히스토리-재작성\nㅤ→ Pijul/Darcs : First-class conflicts\n- 기존 VCS에 없는 독자적인 기능 : working-copy-as-a-commit, Undo 기능...",
-          "link": "https://news.hada.io/topic?id=6018",
-          "publishedOn": "2022-02-21T01:06:06.000Z",
-          "wordCount": 217,
-          "title": "Jujutsu - 간단하고 강력한 Git 호환 DVCS",
-          "imageUrl": "https://social.news.hada.io/topic/6018"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6017",
-          "author": null,
-          "description": "- GCP의 차세대 Functions-as-a-Service \n- 기존 9분에서 60분으로 더 길어진 최대 실행 시간(HTTP)\nㅤ→ 데이터 처리 및 머신러닝 파이프라인에 적합 \n- 더 큰 인스턴스 제공(최대 16GB, 4 vCPU)\n- 한개의 펑션 인스턴스로 최대 1000개까지의 동시 리퀘스트 처리 지원\n- Pre-war...",
-          "link": "https://news.hada.io/topic?id=6017",
-          "publishedOn": "2022-02-21T00:40:39.000Z",
-          "wordCount": 133,
-          "title": "구글 Cloud Functions 2세대 공개",
-          "imageUrl": "https://social.news.hada.io/topic/6017"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6016",
-          "author": null,
-          "description": "- GraphQL을 이용해서 주로 쓰는 웹 API 호출을 쉽게 할 수 있도록 지원 \nㅤ→ GitHub, Stripe, Salesforce, Box, Spotify, Contentful 등 (더 추가 예정)\n- Netlify 대시보드에서 연결하면 바로 사용 가능하며, 작성된 쿼리로 서버리스 함수 코드를 생성",
-          "link": "https://news.hada.io/topic?id=6016",
-          "publishedOn": "2022-02-20T00:51:02.000Z",
-          "wordCount": 88,
-          "title": "Netlify Graph 공개",
-          "imageUrl": "https://social.news.hada.io/topic/6016"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6015",
-          "author": null,
-          "description": "- OpenJS는 기존엔 Joyent로 부터 6년간 무료 영구 라이센스를 받아서 사용  \nㅤ→ \"Node.js\" 와 육각형 로고\n- 이제 Joyent에서 OpenJS 재단으로 소유권과 관리가 이전",
-          "link": "https://news.hada.io/topic?id=6015",
-          "publishedOn": "2022-02-20T00:29:02.000Z",
-          "wordCount": 93,
-          "title": "Node.js 트레이드 마크, OpenJS 재단으로 이관",
-          "imageUrl": "https://social.news.hada.io/topic/6015"
         }
       ]
     },
@@ -315,16 +315,6 @@
           "wordCount": 488,
           "title": "루비콘 프로젝트 완료 메일",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FrnhxE%2Fbtrr4yu6juC%2F1iiKdxTL0HkPCykFw7Y7kk%2Fimg.png"
-        },
-        {
-          "id": "https://jojoldu.tistory.com/635",
-          "author": "향로",
-          "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\n간단하게 코틀린을 테스트해볼 일이 있어 개인 PC에 코틀린을 설치해봤습니다. \n모든 과정은 Homebrew를 통해 진행합니다.\n1. JDK 구성\n아직 코틀린은 JVM이 있어야 하기 때문에 JDK를 꼭 설치해야 합니다.\n물론 kotlin native 의 시도가 계속 되고 있습니다.\nJDK가 미설치라면 다음과 같이 설치를 진행합니다. \n저는 OpenJDK 11을 설치했는데, 최근엔 17까지 나왔기 때문에 본인 환경에 맞게 설치하시면 됩니다.\nbrew install --cask adoptopenjdk11\n설치가 끝나면 아래와 같이 버전을 확인할 수 있습니다.\njava -version\n2. 코틀린 구성\nJava 버전을 확인했다면 코틀린을 바로 설치합니다.\nbrew install kotlin\n설치된 코틀린을 확인한다면 다음과 같이 할 수 있습니다.\nkotlinc -version\n3. 테스트\n설치된 코틀린을 통해 간단하게 코드를 작성해봅니다. \n코틀린은 콘솔에서 바로 실행해볼 수 있기 때문에 아래와 같이 테스트해봅니다.\nkotlinc-jvm\n실습이 끝나시면 쉘에서 빠져나오시면 됩니다.\n:quit\n            \n반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({});",
-          "link": "https://jojoldu.tistory.com/635",
-          "publishedOn": "2022-01-24T13:09:58.000Z",
-          "wordCount": 276,
-          "title": "Mac에서 코틀린 개발환경 구성하기",
-          "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcRh96U%2FbtrrxZaxg1y%2FyyxjtNZ4Yo06Zm42tyhmU0%2Fimg.png"
         }
       ]
     }

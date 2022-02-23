@@ -1,10 +1,151 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-02-22T01:03:30.568Z</id>
+    <id>urn:2022-02-23T01:11:27.065Z</id>
     <title>osmos::feed</title>
-    <updated>2022-02-22T01:03:30.568Z</updated>
+    <updated>2022-02-23T01:11:27.065Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Flutter가 가장 인기 있는 크로스 플랫폼 모바일 SDK인 이유]]></title>
+        <id>https://news.hada.io/topic?id=6032</id>
+        <link href="https://news.hada.io/topic?id=6032"/>
+        <updated>2022-02-23T00:51:49.000Z</updated>
+        <summary type="html"><![CDATA[스택오버플로우에 올라오는 질문 수로 트렌드를 그려보면 2020년부터 Flutter가 React-Native를 추월
+2022년 현재 SO 전체 질문의 2.8%가 Flutter 관련, React-Native는 1.4%
+왜 모바일앱 개발자들이 Flutter를 좋아할까?
+플랫폼에 전혀 구애받지 않음 : UI도 Skia엔진으...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가장 빠른 GIF는 존재하지 않음]]></title>
+        <id>https://news.hada.io/topic?id=6031</id>
+        <link href="https://news.hada.io/topic?id=6031"/>
+        <updated>2022-02-23T00:34:03.000Z</updated>
+        <summary type="html"><![CDATA[애니 GIF 속도를 최대한 빠르게 하려면 "Frame Delay"를 "10ms"가 아닌 "20ms"로 지정해야 함. 왜 그럴까?
+GIF 89a부터 애니메이션이 지원되기 시작
+
+각 프레임별 딜레이를 설정 가능
+다음 프레임으로 넘어가기 전까지 기다리는 시간을 100분의 1초(1...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글, 첫 페이지 하단에 위젯 포함하는 테스트 중]]></title>
+        <id>https://news.hada.io/topic?id=6030</id>
+        <link href="https://news.hada.io/topic?id=6030"/>
+        <updated>2022-02-23T00:08:47.000Z</updated>
+        <summary type="html"><![CDATA[데스크탑 검색 페이지 하단에 위젯 형태의 카드를 포함
+
+6개의 카드 : 날씨, 트렌딩, 볼 영화/드라마, 주식, 로컬 이벤트, COVID뉴스
+Hide Content 토글 버튼으로 숨기기 가능
+모든 내용은 기존의 활동에 기반하여 추천
+클릭시 해당 항목에 대한 검색 결과 페이...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Before I go: When it comes to complaining about web browsers]]></title>
+        <id>https://css-tricks.com/?p=363998</id>
+        <link href="https://css-tricks.com/before-i-go-when-it-comes-to-complaining-about-web-browsers/"/>
+        <updated>2022-02-22T20:06:57.000Z</updated>
+        <summary type="html"><![CDATA[That’s a damn one-two punch from Dave. He goes for the ultimate clickbait title¹, then follows up with a pile of epic advice for us all. If you want web browsers to get better, listen up:
+Complaining on 
+…
+Before I go: When it comes to complaining about web browsers originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reliably Send an HTTP Request as a User Leaves a Page]]></title>
+        <id>https://css-tricks.com/?p=363511</id>
+        <link href="https://css-tricks.com/send-an-http-request-on-page-exit/"/>
+        <updated>2022-02-22T15:24:01.000Z</updated>
+        <summary type="html"><![CDATA[On several occasions, I’ve needed to send off an HTTP request with some data to log when a user does something like navigate to a different page or submit a form. Consider this contrived example of sending some information to …
+Reliably Send an HTTP Request as a User Leaves a Page originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Alex MacArthur</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chris Lattner가 Swift Core팀을 떠남]]></title>
+        <id>https://news.hada.io/topic?id=6029</id>
+        <link href="https://news.hada.io/topic?id=6029"/>
+        <updated>2022-02-22T02:12:49.000Z</updated>
+        <summary type="html"><![CDATA[애플을 5년 전에 퇴사했지만 애정을 가지고 계속 참여
+주요 원인은 WebEx로 진행되는 주간 코어팀 미팅이 매우 안좋았다는 것(Toxic)
+특히 작년 여름 미팅에서는 모욕을 당했고, 잠시 쉬기로 했다가 결국엔 팀을 떠나기로 결정
+자신의 제안이 무시되거나, 마찰을 만들어 내면서 시간...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[물체 회전 능력 테스트 하기]]></title>
+        <id>https://news.hada.io/topic?id=6028</id>
+        <link href="https://news.hada.io/topic?id=6028"/>
+        <updated>2022-02-22T01:47:52.000Z</updated>
+        <summary type="html"><![CDATA[2분동안 똑같은 물체를 얼마나 찾을 수 있는지 테스트
+6개중 2개만 같은 도형
+오픈소스 : C++로 작성. Emscripten을 이용하여 WebAssembly로 컴파일
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roboto Serif 폰트 공개]]></title>
+        <id>https://news.hada.io/topic?id=6027</id>
+        <link href="https://news.hada.io/topic?id=6027"/>
+        <updated>2022-02-22T01:30:23.000Z</updated>
+        <summary type="html"><![CDATA[안드로이드의 시스템 폰트인 Roboto 패밀리의 새로운 오픈소스 폰트
+장문의 기사나 소설등을 읽기에 적합한 폰트
+가변(Variable) 폰트
+
+두께, 너비
+Grade : 너비를 변화시키지 않는 선에서 변하는 두께 설정하기
+Optical Size Axes : 특정 사이즈 별로 최적화된 서...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Griffel - 미리 컴파일 가능한 CSS-in-JS]]></title>
+        <id>https://news.hada.io/topic?id=6026</id>
+        <link href="https://news.hada.io/topic?id=6026"/>
+        <updated>2022-02-22T01:07:40.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft가 만든 오픈소스
+런타임(near-zero) & 빌드타임 구현을 같이 제공
+SSR 지원
+CSSType을 이용한 Type-Safe한 스타일 가능
+Atomic CSS 사용으로 스타일 재사용 가능 및 CSS 이슈 회피
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grist - Airtable과 Google Sheet의 오픈소스 대체제]]></title>
+        <id>https://news.hada.io/topic?id=6025</id>
+        <link href="https://news.hada.io/topic?id=6025"/>
+        <updated>2022-02-22T00:45:09.000Z</updated>
+        <summary type="html"><![CDATA[DB와 스프레드시트의 하이브리드 방식
+Python 수식. 표준 라이브러리와 전체 문법 지원. Excel 함수들 포함
+SQLite 기반
+Incremental Import : 바뀐 부분만 업데이트 가능
+REST API, Zapier, n8n 등 연동
+다양한 템플릿 제공
+접근 제어 옵션 : 공유(문서...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I was wrong, we need crypto]]></title>
         <id>https://news.hada.io/topic?id=6024</id>
@@ -44,53 +185,6 @@ A Complete Guide to CSS Cascade Layers originally published on CSS-Tricks. You s
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[공식한글] 넷플릭스 문화, 가치관]]></title>
-        <id>https://news.hada.io/topic?id=6022</id>
-        <link href="https://news.hada.io/topic?id=6022"/>
-        <updated>2022-02-21T04:35:32.000Z</updated>
-        <summary type="html"><![CDATA[넷플릭스 문화와 인재상에 대한 한글 공식 페이지입니다.
-넷플릭스 채용 사이트에 포함된 페이지입니다.
-
-----
-
-# 넷플릭스의 문화
-
-즐거움을 추구하는 것은 우정을 나누는 것처럼 우리 모두가 지닌 기본적인 욕구입니다. 우리는 상호작용을 통해 서로 공감대를 형...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[예전엔 엄청 어려웠지만, 지금은 쉬워진 것들]]></title>
-        <id>https://news.hada.io/topic?id=6021</id>
-        <link href="https://news.hada.io/topic?id=6021"/>
-        <updated>2022-02-21T02:14:24.000Z</updated>
-        <summary type="html"><![CDATA[SSL인증서 → Let's Encrypt
-Concurrency → async/await
-CSS로 중앙정렬 → flexbox/grid
-빠른 프로그램 작성 → Go
-이미지 인식 → 전이학습(Trasfer Learning)
-크로스플랫폼 GUI 작성 → Electron
-VPN → Wireguard
-리눅스 커널에서 내 코드...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Judyrecords - 무료 미국 법원 사건 및 소송 검색 시스템]]></title>
-        <id>https://news.hada.io/topic?id=6020</id>
-        <link href="https://news.hada.io/topic?id=6020"/>
-        <updated>2022-02-21T01:49:28.000Z</updated>
-        <summary type="html"><![CDATA[- 무료로 미국 전역의 6.3억개 법원 사건 및 소송 검색 가능
-- 구글 Scholar보다 100배, 미국 연방 사법부가 관리하는 공식사이트 PACER보다도 10배 많음 
-- 1976/1/1 ~ 2021/11/10 사이의 790만개 특허도 모두 검색 가능 
-- 일부는 Kaggle에 Dataset 으로도 제공]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[(NodeJS 환경에서) jest.mock 보다 ts-mockito 사용하기]]></title>
         <id>https://jojoldu.tistory.com/638</id>
         <link href="https://jojoldu.tistory.com/638"/>
@@ -123,76 +217,6 @@ export class OrderService {
     validateCompletedOr…]]></summary>
         <author>
             <name>향로</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fred's ImageMagick Scripts]]></title>
-        <id>https://news.hada.io/topic?id=6019</id>
-        <link href="https://news.hada.io/topic?id=6019"/>
-        <updated>2022-02-21T01:20:26.000Z</updated>
-        <summary type="html"><![CDATA[- 370개의 ImageMagick 스크립트 모음(BASH 쉘 스크립트)
-- 3D, 합성, 컬러/톤 조정, 타일링, 텍스트 효과 등 
-- 각 스크립트에 다양한 옵션을 줄수 있으며 적용한 예제 이미지 포함 
-- 카테고리 
-ㅤ→ Geometry 
-ㅤ→ Image Effects 
-ㅤ→ Brightness / Contrast 
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jujutsu - 간단하고 강력한 Git 호환 DVCS]]></title>
-        <id>https://news.hada.io/topic?id=6018</id>
-        <link href="https://news.hada.io/topic?id=6018"/>
-        <updated>2022-02-21T01:06:06.000Z</updated>
-        <summary type="html"><![CDATA[- 여러 VCS의 장점을 결합 
-ㅤ→ Git : 데이터 모델과 속도
-ㅤ→ Mercurial : 익명 브랜칭, "index"로 부터 자유로운 CLI, revsets, 강력한 히스토리-재작성
-ㅤ→ Pijul/Darcs : First-class conflicts
-- 기존 VCS에 없는 독자적인 기능 : working-copy-as-a-commit, Undo 기능...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구글 Cloud Functions 2세대 공개]]></title>
-        <id>https://news.hada.io/topic?id=6017</id>
-        <link href="https://news.hada.io/topic?id=6017"/>
-        <updated>2022-02-21T00:40:39.000Z</updated>
-        <summary type="html"><![CDATA[- GCP의 차세대 Functions-as-a-Service 
-- 기존 9분에서 60분으로 더 길어진 최대 실행 시간(HTTP)
-ㅤ→ 데이터 처리 및 머신러닝 파이프라인에 적합 
-- 더 큰 인스턴스 제공(최대 16GB, 4 vCPU)
-- 한개의 펑션 인스턴스로 최대 1000개까지의 동시 리퀘스트 처리 지원
-- Pre-war...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Netlify Graph 공개]]></title>
-        <id>https://news.hada.io/topic?id=6016</id>
-        <link href="https://news.hada.io/topic?id=6016"/>
-        <updated>2022-02-20T00:51:02.000Z</updated>
-        <summary type="html"><![CDATA[- GraphQL을 이용해서 주로 쓰는 웹 API 호출을 쉽게 할 수 있도록 지원 
-ㅤ→ GitHub, Stripe, Salesforce, Box, Spotify, Contentful 등 (더 추가 예정)
-- Netlify 대시보드에서 연결하면 바로 사용 가능하며, 작성된 쿼리로 서버리스 함수 코드를 생성]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Node.js 트레이드 마크, OpenJS 재단으로 이관]]></title>
-        <id>https://news.hada.io/topic?id=6015</id>
-        <link href="https://news.hada.io/topic?id=6015"/>
-        <updated>2022-02-20T00:29:02.000Z</updated>
-        <summary type="html"><![CDATA[- OpenJS는 기존엔 Joyent로 부터 6년간 무료 영구 라이센스를 받아서 사용  
-ㅤ→ "Node.js" 와 육각형 로고
-- 이제 Joyent에서 OpenJS 재단으로 소유권과 관리가 이전]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
     </entry>
     <entry>
@@ -374,32 +398,6 @@ Your CSS reset needs text-size-adjust (probably) originally published on CSS-Tri
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[9 New React and JavaScript Links for February 2022]]></title>
-        <id>https://css-tricks.com/?p=363396</id>
-        <link href="https://css-tricks.com/9-new-react-and-javascript-links-for-february-2022/"/>
-        <updated>2022-02-11T23:11:28.000Z</updated>
-        <summary type="html"><![CDATA[Every now and then, I find that I’ve accumulated a bunch of links about various things I find interesting. Like React and JavaScript! Here’s a list of nine links to other articles about them that I’ve been saving up and …
-9 New React and JavaScript Links for February 2022 originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Multi-Value CSS Properties With Optional Custom Property Values]]></title>
-        <id>https://css-tricks.com/?p=363027</id>
-        <link href="https://css-tricks.com/optional-custom-property-values-trick/"/>
-        <updated>2022-02-11T15:30:11.000Z</updated>
-        <summary type="html"><![CDATA[Imagine you have an element with a multi-value CSS property, such as transform: optional custom property values:
-.el {
-  transform: translate(100px) scale(1.5) skew(5deg);
-}
-Now imagine you don’t always want all the transform values to be applied, so some …
-Multi-Value CSS Properties With Optional Custom Property Values originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Yair Even Or</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[추천도서] Do it! 점프 투 파이썬]]></title>
         <id>https://rastalion.me/?p=2458</id>
         <link href="https://rastalion.me/%ec%b6%94%ec%b2%9c%eb%8f%84%ec%84%9c-do-it-%ec%a0%90%ed%94%84-%ed%88%ac-%ed%8c%8c%ec%9d%b4%ec%8d%ac/"/>
@@ -462,47 +460,6 @@ The post [추천도서] Do it! 점프 투 파이썬 appeared first on RastaLion'
 재밌게 회고하면서 앞으로 우리가 할 수많은 재미난 일들을 이야기해봐요 :)
 향로 드림.
 (마지막은 제가 좋아하는 이효리 짤로..)
-            
-반응형
-
-                    
-                    (adsbygoogle = window.adsbygoogle || []).push({});]]></summary>
-        <author>
-            <name>향로</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mac에서 코틀린 개발환경 구성하기]]></title>
-        <id>https://jojoldu.tistory.com/635</id>
-        <link href="https://jojoldu.tistory.com/635"/>
-        <updated>2022-01-24T13:09:58.000Z</updated>
-        <summary type="html"><![CDATA[반응형
-
-                    
-                    (adsbygoogle = window.adsbygoogle || []).push({}); 
-               
-
-간단하게 코틀린을 테스트해볼 일이 있어 개인 PC에 코틀린을 설치해봤습니다. 
-모든 과정은 Homebrew를 통해 진행합니다.
-1. JDK 구성
-아직 코틀린은 JVM이 있어야 하기 때문에 JDK를 꼭 설치해야 합니다.
-물론 kotlin native 의 시도가 계속 되고 있습니다.
-JDK가 미설치라면 다음과 같이 설치를 진행합니다. 
-저는 OpenJDK 11을 설치했는데, 최근엔 17까지 나왔기 때문에 본인 환경에 맞게 설치하시면 됩니다.
-brew install --cask adoptopenjdk11
-설치가 끝나면 아래와 같이 버전을 확인할 수 있습니다.
-java -version
-2. 코틀린 구성
-Java 버전을 확인했다면 코틀린을 바로 설치합니다.
-brew install kotlin
-설치된 코틀린을 확인한다면 다음과 같이 할 수 있습니다.
-kotlinc -version
-3. 테스트
-설치된 코틀린을 통해 간단하게 코드를 작성해봅니다. 
-코틀린은 콘솔에서 바로 실행해볼 수 있기 때문에 아래와 같이 테스트해봅니다.
-kotlinc-jvm
-실습이 끝나시면 쉘에서 빠져나오시면 됩니다.
-:quit
             
 반응형
 
