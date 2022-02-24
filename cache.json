@@ -6,12 +6,32 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=363937",
+          "author": "Chris Coyier",
+          "description": "Kinda silly sounding, isn’t it? CSS database queries. But, hey, CSS is capable of talking to other languages in the sense that it can set the values of things that they can read. Plus, CSS can request other files, and …\nCSS Database Queries? Sure We Can! originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/css-database-queries/",
+          "publishedOn": "2022-02-23T20:04:39.000Z",
+          "wordCount": 671,
+          "title": "CSS Database Queries? Sure We Can!",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363937"
+        },
+        {
+          "id": "https://css-tricks.com/?p=363532",
+          "author": "Daniel Yuschick",
+          "description": "Let’s face it: building an AA or AAA-accessible product can be quite daunting. Luckily, having an accessible product isn’t all-or-nothing. Even seemingly small improvements can have nice quality of life benefits for many people.\nIn that spirit, here are five …\n5 Accessibility Quick Wins You Can Implement Today originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/5-accessibility-quick-wins-you-can-implement-today/",
+          "publishedOn": "2022-02-23T15:15:33.000Z",
+          "wordCount": 1607,
+          "title": "5 Accessibility Quick Wins You Can Implement Today",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363532"
+        },
+        {
           "id": "https://css-tricks.com/?p=363998",
           "author": "Chris Coyier",
           "description": "That’s a damn one-two punch from Dave. He goes for the ultimate clickbait title¹, then follows up with a pile of epic advice for us all. If you want web browsers to get better, listen up:\nComplaining on \n…\nBefore I go: When it comes to complaining about web browsers originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/before-i-go-when-it-comes-to-complaining-about-web-browsers/",
           "publishedOn": "2022-02-22T20:06:57.000Z",
-          "wordCount": 548,
+          "wordCount": 628,
           "title": "Before I go: When it comes to complaining about web browsers",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363998"
         },
@@ -21,7 +41,7 @@
           "description": "On several occasions, I’ve needed to send off an HTTP request with some data to log when a user does something like navigate to a different page or submit a form. Consider this contrived example of sending some information to …\nReliably Send an HTTP Request as a User Leaves a Page originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/send-an-http-request-on-page-exit/",
           "publishedOn": "2022-02-22T15:24:01.000Z",
-          "wordCount": 2248,
+          "wordCount": 2343,
           "title": "Reliably Send an HTTP Request as a User Leaves a Page",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363511"
         },
@@ -31,7 +51,7 @@
           "description": "This is your complete guide to CSS cascade layers, a CSS feature that allows us to define explicit contained layers of specificity, so that we have full control over which styles take priority in a project without relying on specificity …\nA Complete Guide to CSS Cascade Layers originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/css-cascade-layers/",
           "publishedOn": "2022-02-21T15:40:35.000Z",
-          "wordCount": 7887,
+          "wordCount": 8135,
           "title": "A Complete Guide to CSS Cascade Layers",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363766"
         },
@@ -41,7 +61,7 @@
           "description": "Being able to understand Node continues to be an important skill if you’re a front-end developer. Deno has arrived as another way to run JavaScript outside the browser, but the huge ecosystem of tools and software built with Node mean …\nComparing Node JavaScript to JavaScript in the Browser originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/node-javascript-compared-to-javascript/",
           "publishedOn": "2022-02-18T19:01:08.000Z",
-          "wordCount": 3738,
+          "wordCount": 3752,
           "title": "Comparing Node JavaScript to JavaScript in the Browser",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363467"
         },
@@ -61,7 +81,7 @@
           "description": "Font Awesome is an incredibly popular icon library. Unfortunately, it’s somewhat easy to use in a way that results in less-than-ideal performance. By subsetting Font Awesome, we can remove any unused glyphs from the font files it provides. This will …\nSubsetting Font Awesome to Improve Performance originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/subsetting-font-awesome-to-improve-performance/",
           "publishedOn": "2022-02-17T15:21:41.000Z",
-          "wordCount": 2403,
+          "wordCount": 2417,
           "title": "Subsetting Font Awesome to Improve Performance",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363179"
         },
@@ -91,7 +111,7 @@
           "description": "Within Drupal 10 core, we’re implementing a new auto-filling CSS Grid technique that I think is cool enough to share with the world.\nThe requirements are:\nThe user specifies a maximum number of columns. This is the auto-filling grid’s “natural” \n…\nAn Auto-Filling CSS Grid With Max Columns of a Minimum Size originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/an-auto-filling-css-grid-with-max-columns/",
           "publishedOn": "2022-02-16T15:06:57.000Z",
-          "wordCount": 1428,
+          "wordCount": 1468,
           "title": "An Auto-Filling CSS Grid With Max Columns of a Minimum Size",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363541"
         },
@@ -111,7 +131,7 @@
           "description": "Creating CSS link hover effects can add a bit of flair to an otherwise bland webpage. If you’ve ever found yourself stumped trying to make a slick hover effect, then I have six CSS effects for you to take and …\n6 Creative Ideas for CSS Link Hover Effects originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/css-link-hover-effects/",
           "publishedOn": "2022-02-15T15:37:04.000Z",
-          "wordCount": 2628,
+          "wordCount": 2642,
           "title": "6 Creative Ideas for CSS Link Hover Effects",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363124"
         },
@@ -121,7 +141,7 @@
           "description": "(This is a sponsored post.)\n✋ High fives to WordPress for releasing version 5.9 on January 29! This was the long-awaited introduction of the Site Editor and the reverberations are still being felt across the 43% slice of the …\nWordPress.com Has a New Home on YouTube originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/wordpress-com-has-a-new-home-on-youtube/",
           "publishedOn": "2022-02-15T15:35:35.000Z",
-          "wordCount": 644,
+          "wordCount": 658,
           "title": "WordPress.com Has a New Home on YouTube",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363739"
         },
@@ -134,26 +154,6 @@
           "wordCount": 763,
           "title": "Why are hyperlinks blue?",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363555"
-        },
-        {
-          "id": "https://css-tricks.com/?p=363339",
-          "author": "Charlie Gerard",
-          "description": "The File System Access API is a web API that allows read and write access to a user’s local files. It unlocks new capabilities to build powerful web applications, such as text editors or IDEs, image editing tools, improved …\nGetting Started With the File System Access API originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/getting-started-with-the-file-system-access-api/",
-          "publishedOn": "2022-02-14T16:01:21.000Z",
-          "wordCount": 2356,
-          "title": "Getting Started With the File System Access API",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363339"
-        },
-        {
-          "id": "https://css-tricks.com/?p=363498",
-          "author": "Chris Coyier",
-          "description": "Kilian Valkhof:\n[…] Mobile Safari increases the default font-size when you switch a website from portrait to landscape. On phones that is, it doesn’t do it on iPad. Safari has been doing this for a long time, as a \n…\nYour CSS reset needs text-size-adjust (probably) originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/your-css-reset-needs-text-size-adjust-probably/",
-          "publishedOn": "2022-02-12T00:46:40.000Z",
-          "wordCount": 631,
-          "title": "Your CSS reset needs text-size-adjust (probably)",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363498"
         }
       ]
     },
@@ -180,12 +180,72 @@
       "siteUrl": "https://news.hada.io",
       "articles": [
         {
+          "id": "https://news.hada.io/topic?id=6039",
+          "author": null,
+          "description": "SVG를 이용해서 다크모드 지원하는 Favicon 만들기\nico 와 svg를 동시에 지정해서 지원하는 브라우저에서만 적용 가능\nSVG xml 내에  태그를 포함해서 prefers-color-scheme: dark 를 추가\n\n...",
+          "link": "https://news.hada.io/topic?id=6039",
+          "publishedOn": "2022-02-24T00:59:02.000Z",
+          "wordCount": 89,
+          "title": "Adaptive Favicon 만들기",
+          "imageUrl": "https://social.news.hada.io/topic/6039"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6038",
+          "author": null,
+          "description": "특정한 리소스를 고유하게 지정하는 ID를 어떻게 만들 것인가 하면 보통은 크게 2가지 방법을 주로 쓰는 걸로 압니다. 하나는 DB 테이블의 Primary Key에 Auto Increment를 걸어서 나오는 순차적인 정수값을 그대로 써먹는 것이고, 다른 하나는 랜덤한 128비트 값인 GUID(UUID라고도 함)를 그때그때 생성하여 사용하는...",
+          "link": "https://news.hada.io/topic?id=6038",
+          "publishedOn": "2022-02-23T17:37:32.000Z",
+          "wordCount": 337,
+          "title": "리소스의 ID, GUID로 할까 Sequential로 할까?",
+          "imageUrl": "https://social.news.hada.io/topic/6038"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6037",
+          "author": null,
+          "description": "본문 내용 요약\nAI가 그리는 일본 애니메이션 스타일 프로필 사진 생성기입니다. 링크글은 제작자가 AI를 훈련한 과정을 적어놨어요.\n이 생성기의 특이점 중 하나는, 같은 캐릭터를 유지하면서도 다른 포즈로 그려달라고 요청할 수 있으며. 혹은 같은 포즈로 그려달라고 요청하면서도 다른 스...",
+          "link": "https://news.hada.io/topic?id=6037",
+          "publishedOn": "2022-02-23T05:12:44.000Z",
+          "wordCount": 261,
+          "title": "Waifu Labs V2 - AI가 그리며 커스텀 가능한 일본 애니메이션 스타일 그림 생성기",
+          "imageUrl": "https://social.news.hada.io/topic/6037"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6035",
+          "author": null,
+          "description": "K-Startup 사업공고를 아침마다 요약해주는 슬랙 봇을 만들었습니다.\n데이터는 공공데이터 포털에서 받아오고 있습니다.\n스타트업 종사자분들의 건",
+          "link": "https://news.hada.io/topic?id=6035",
+          "publishedOn": "2022-02-23T02:28:47.000Z",
+          "wordCount": 196,
+          "title": "Show GN: K-Startup 사업공고 알림 슬랙 봇",
+          "imageUrl": "https://social.news.hada.io/topic/6035"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6034",
+          "author": null,
+          "description": "9년 전 페이스북(메타)은 낙후된 인터넷 접근성을 개선하도록 돕겠다는 원대한 계획을 발표했다. 저소득 국가들에서 모바일 인터넷을 이용하려면 선불제로 데이터를 구입해야 하지만 프리 베이직스(Free Basics)는 어느 정도 무료 접속을 제공한다. 프리 베이직스가 가능한 국가들은 늘어나는 중이다. 그...",
+          "link": "https://news.hada.io/topic?id=6034",
+          "publishedOn": "2022-02-23T01:21:10.000Z",
+          "wordCount": 345,
+          "title": "페이스북은 저소득 국가들의 인터넷 접속을 돕고 있을까?",
+          "imageUrl": "https://social.news.hada.io/topic/6034"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6033",
+          "author": null,
+          "description": "무제한 폼, 무제한 제출, 이메일 알림, 파일 업로드, 결제 연동, 커버/로고 등 거의 모든 기능이 무료\n사용하기 쉬운 Form 편집기 제공\nNotion/Airtable/Zapier/Google Sheets 연동 지원\nWebHook 가능\n\n...",
+          "link": "https://news.hada.io/topic?id=6033",
+          "publishedOn": "2022-02-23T01:10:17.000Z",
+          "wordCount": 84,
+          "title": "Tally Forms - 무료 TypeForm 대체제",
+          "imageUrl": "https://social.news.hada.io/topic/6033"
+        },
+        {
           "id": "https://news.hada.io/topic?id=6032",
           "author": null,
           "description": "스택오버플로우에 올라오는 질문 수로 트렌드를 그려보면 2020년부터 Flutter가 React-Native를 추월\n2022년 현재 SO 전체 질문의 2.8%가 Flutter 관련, React-Native는 1.4%\n왜 모바일앱 개발자들이 Flutter를 좋아할까?\n플랫폼에 전혀 구애받지 않음 : UI도 Skia엔진으...",
           "link": "https://news.hada.io/topic?id=6032",
           "publishedOn": "2022-02-23T00:51:49.000Z",
-          "wordCount": 272,
+          "wordCount": 361,
           "title": "Flutter가 가장 인기 있는 크로스 플랫폼 모바일 SDK인 이유",
           "imageUrl": "https://social.news.hada.io/topic/6032"
         },
@@ -205,7 +265,7 @@
           "description": "데스크탑 검색 페이지 하단에 위젯 형태의 카드를 포함\n\n6개의 카드 : 날씨, 트렌딩, 볼 영화/드라마, 주식, 로컬 이벤트, COVID뉴스\nHide Content 토글 버튼으로 숨기기 가능\n모든 내용은 기존의 활동에 기반하여 추천\n클릭시 해당 항목에 대한 검색 결과 페이...",
           "link": "https://news.hada.io/topic?id=6030",
           "publishedOn": "2022-02-23T00:08:47.000Z",
-          "wordCount": 103,
+          "wordCount": 108,
           "title": "구글, 첫 페이지 하단에 위젯 포함하는 테스트 중",
           "imageUrl": "https://social.news.hada.io/topic/6030"
         },
@@ -215,69 +275,9 @@
           "description": "애플을 5년 전에 퇴사했지만 애정을 가지고 계속 참여\n주요 원인은 WebEx로 진행되는 주간 코어팀 미팅이 매우 안좋았다는 것(Toxic)\n특히 작년 여름 미팅에서는 모욕을 당했고, 잠시 쉬기로 했다가 결국엔 팀을 떠나기로 결정\n자신의 제안이 무시되거나, 마찰을 만들어 내면서 시간...",
           "link": "https://news.hada.io/topic?id=6029",
           "publishedOn": "2022-02-22T02:12:49.000Z",
-          "wordCount": 283,
+          "wordCount": 303,
           "title": "Chris Lattner가 Swift Core팀을 떠남",
           "imageUrl": "https://social.news.hada.io/topic/6029"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6028",
-          "author": null,
-          "description": "2분동안 똑같은 물체를 얼마나 찾을 수 있는지 테스트\n6개중 2개만 같은 도형\n오픈소스 : C++로 작성. Emscripten을 이용하여 WebAssembly로 컴파일\n\n...",
-          "link": "https://news.hada.io/topic?id=6028",
-          "publishedOn": "2022-02-22T01:47:52.000Z",
-          "wordCount": 75,
-          "title": "물체 회전 능력 테스트 하기",
-          "imageUrl": "https://social.news.hada.io/topic/6028"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6027",
-          "author": null,
-          "description": "안드로이드의 시스템 폰트인 Roboto 패밀리의 새로운 오픈소스 폰트\n장문의 기사나 소설등을 읽기에 적합한 폰트\n가변(Variable) 폰트\n\n두께, 너비\nGrade : 너비를 변화시키지 않는 선에서 변하는 두께 설정하기\nOptical Size Axes : 특정 사이즈 별로 최적화된 서...",
-          "link": "https://news.hada.io/topic?id=6027",
-          "publishedOn": "2022-02-22T01:30:23.000Z",
-          "wordCount": 124,
-          "title": "Roboto Serif 폰트 공개",
-          "imageUrl": "https://social.news.hada.io/topic/6027"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6026",
-          "author": null,
-          "description": "Microsoft가 만든 오픈소스\n런타임(near-zero) & 빌드타임 구현을 같이 제공\nSSR 지원\nCSSType을 이용한 Type-Safe한 스타일 가능\nAtomic CSS 사용으로 스타일 재사용 가능 및 CSS 이슈 회피\n\n...",
-          "link": "https://news.hada.io/topic?id=6026",
-          "publishedOn": "2022-02-22T01:07:40.000Z",
-          "wordCount": 83,
-          "title": "Griffel - 미리 컴파일 가능한 CSS-in-JS",
-          "imageUrl": "https://social.news.hada.io/topic/6026"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6025",
-          "author": null,
-          "description": "DB와 스프레드시트의 하이브리드 방식\nPython 수식. 표준 라이브러리와 전체 문법 지원. Excel 함수들 포함\nSQLite 기반\nIncremental Import : 바뀐 부분만 업데이트 가능\nREST API, Zapier, n8n 등 연동\n다양한 템플릿 제공\n접근 제어 옵션 : 공유(문서...",
-          "link": "https://news.hada.io/topic?id=6025",
-          "publishedOn": "2022-02-22T00:45:09.000Z",
-          "wordCount": 131,
-          "title": "Grist - Airtable과 Google Sheet의 오픈소스 대체제",
-          "imageUrl": "https://social.news.hada.io/topic/6025"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6024",
-          "author": null,
-          "description": "루비 온 레일즈의 창시자 dhh는 아래와 같은 이유들로 인해 줄곧 암호화폐에 부정적인 입장을 가지고 있었음.\n비트코인 채굴에 사용되는 막대한 에너지\n비트코인의 낮은 처리량과 높은 트랜잭션 비용\n미친듯한 가격 급등락\n하지만 최근 캐나다 트럭커 시위대 사건을 통",
-          "link": "https://news.hada.io/topic?id=6024",
-          "publishedOn": "2022-02-21T16:07:45.000Z",
-          "wordCount": 317,
-          "title": "I was wrong, we need crypto",
-          "imageUrl": "https://social.news.hada.io/topic/6024"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6023",
-          "author": null,
-          "description": "\"Reddit은 현재 가장 인기있는 검색엔진이다\"\n레딧팀만 그걸 모르고 있는지 훌륭한 검색 인터페이스를 만들지 않고 있음\n그래서 우린 구글을 이용해 검색하며 쿼리 끝에 \"reddit\" 이란 단어를 추가한다\n실제로 Redd",
-          "link": "https://news.hada.io/topic?id=6023",
-          "publishedOn": "2022-02-21T05:25:08.000Z",
-          "wordCount": 717,
-          "title": "구글 검색이 죽어가고 있다",
-          "imageUrl": "https://social.news.hada.io/topic/6023"
         }
       ]
     },

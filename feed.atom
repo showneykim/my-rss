@@ -1,10 +1,106 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-02-23T01:11:27.065Z</id>
+    <id>urn:2022-02-24T01:09:07.201Z</id>
     <title>osmos::feed</title>
-    <updated>2022-02-23T01:11:27.065Z</updated>
+    <updated>2022-02-24T01:09:07.201Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Adaptive Favicon 만들기]]></title>
+        <id>https://news.hada.io/topic?id=6039</id>
+        <link href="https://news.hada.io/topic?id=6039"/>
+        <updated>2022-02-24T00:59:02.000Z</updated>
+        <summary type="html"><![CDATA[SVG를 이용해서 다크모드 지원하는 Favicon 만들기
+ico 와 svg를 동시에 지정해서 지원하는 브라우저에서만 적용 가능
+SVG xml 내에  태그를 포함해서 prefers-color-scheme: dark 를 추가
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Database Queries? Sure We Can!]]></title>
+        <id>https://css-tricks.com/?p=363937</id>
+        <link href="https://css-tricks.com/css-database-queries/"/>
+        <updated>2022-02-23T20:04:39.000Z</updated>
+        <summary type="html"><![CDATA[Kinda silly sounding, isn’t it? CSS database queries. But, hey, CSS is capable of talking to other languages in the sense that it can set the values of things that they can read. Plus, CSS can request other files, and …
+CSS Database Queries? Sure We Can! originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[리소스의 ID, GUID로 할까 Sequential로 할까?]]></title>
+        <id>https://news.hada.io/topic?id=6038</id>
+        <link href="https://news.hada.io/topic?id=6038"/>
+        <updated>2022-02-23T17:37:32.000Z</updated>
+        <summary type="html"><![CDATA[특정한 리소스를 고유하게 지정하는 ID를 어떻게 만들 것인가 하면 보통은 크게 2가지 방법을 주로 쓰는 걸로 압니다. 하나는 DB 테이블의 Primary Key에 Auto Increment를 걸어서 나오는 순차적인 정수값을 그대로 써먹는 것이고, 다른 하나는 랜덤한 128비트 값인 GUID(UUID라고도 함)를 그때그때 생성하여 사용하는...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Accessibility Quick Wins You Can Implement Today]]></title>
+        <id>https://css-tricks.com/?p=363532</id>
+        <link href="https://css-tricks.com/5-accessibility-quick-wins-you-can-implement-today/"/>
+        <updated>2022-02-23T15:15:33.000Z</updated>
+        <summary type="html"><![CDATA[Let’s face it: building an AA or AAA-accessible product can be quite daunting. Luckily, having an accessible product isn’t all-or-nothing. Even seemingly small improvements can have nice quality of life benefits for many people.
+In that spirit, here are five …
+5 Accessibility Quick Wins You Can Implement Today originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Daniel Yuschick</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Waifu Labs V2 - AI가 그리며 커스텀 가능한 일본 애니메이션 스타일 그림 생성기]]></title>
+        <id>https://news.hada.io/topic?id=6037</id>
+        <link href="https://news.hada.io/topic?id=6037"/>
+        <updated>2022-02-23T05:12:44.000Z</updated>
+        <summary type="html"><![CDATA[본문 내용 요약
+AI가 그리는 일본 애니메이션 스타일 프로필 사진 생성기입니다. 링크글은 제작자가 AI를 훈련한 과정을 적어놨어요.
+이 생성기의 특이점 중 하나는, 같은 캐릭터를 유지하면서도 다른 포즈로 그려달라고 요청할 수 있으며. 혹은 같은 포즈로 그려달라고 요청하면서도 다른 스...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: K-Startup 사업공고 알림 슬랙 봇]]></title>
+        <id>https://news.hada.io/topic?id=6035</id>
+        <link href="https://news.hada.io/topic?id=6035"/>
+        <updated>2022-02-23T02:28:47.000Z</updated>
+        <summary type="html"><![CDATA[K-Startup 사업공고를 아침마다 요약해주는 슬랙 봇을 만들었습니다.
+데이터는 공공데이터 포털에서 받아오고 있습니다.
+스타트업 종사자분들의 건]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[페이스북은 저소득 국가들의 인터넷 접속을 돕고 있을까?]]></title>
+        <id>https://news.hada.io/topic?id=6034</id>
+        <link href="https://news.hada.io/topic?id=6034"/>
+        <updated>2022-02-23T01:21:10.000Z</updated>
+        <summary type="html"><![CDATA[9년 전 페이스북(메타)은 낙후된 인터넷 접근성을 개선하도록 돕겠다는 원대한 계획을 발표했다. 저소득 국가들에서 모바일 인터넷을 이용하려면 선불제로 데이터를 구입해야 하지만 프리 베이직스(Free Basics)는 어느 정도 무료 접속을 제공한다. 프리 베이직스가 가능한 국가들은 늘어나는 중이다. 그...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tally Forms - 무료 TypeForm 대체제]]></title>
+        <id>https://news.hada.io/topic?id=6033</id>
+        <link href="https://news.hada.io/topic?id=6033"/>
+        <updated>2022-02-23T01:10:17.000Z</updated>
+        <summary type="html"><![CDATA[무제한 폼, 무제한 제출, 이메일 알림, 파일 업로드, 결제 연동, 커버/로고 등 거의 모든 기능이 무료
+사용하기 쉬운 Form 편집기 제공
+Notion/Airtable/Zapier/Google Sheets 연동 지원
+WebHook 가능
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Flutter가 가장 인기 있는 크로스 플랫폼 모바일 SDK인 이유]]></title>
         <id>https://news.hada.io/topic?id=6032</id>
@@ -85,82 +181,6 @@ Reliably Send an HTTP Request as a User Leaves a Page originally published on CS
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[물체 회전 능력 테스트 하기]]></title>
-        <id>https://news.hada.io/topic?id=6028</id>
-        <link href="https://news.hada.io/topic?id=6028"/>
-        <updated>2022-02-22T01:47:52.000Z</updated>
-        <summary type="html"><![CDATA[2분동안 똑같은 물체를 얼마나 찾을 수 있는지 테스트
-6개중 2개만 같은 도형
-오픈소스 : C++로 작성. Emscripten을 이용하여 WebAssembly로 컴파일
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roboto Serif 폰트 공개]]></title>
-        <id>https://news.hada.io/topic?id=6027</id>
-        <link href="https://news.hada.io/topic?id=6027"/>
-        <updated>2022-02-22T01:30:23.000Z</updated>
-        <summary type="html"><![CDATA[안드로이드의 시스템 폰트인 Roboto 패밀리의 새로운 오픈소스 폰트
-장문의 기사나 소설등을 읽기에 적합한 폰트
-가변(Variable) 폰트
-
-두께, 너비
-Grade : 너비를 변화시키지 않는 선에서 변하는 두께 설정하기
-Optical Size Axes : 특정 사이즈 별로 최적화된 서...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Griffel - 미리 컴파일 가능한 CSS-in-JS]]></title>
-        <id>https://news.hada.io/topic?id=6026</id>
-        <link href="https://news.hada.io/topic?id=6026"/>
-        <updated>2022-02-22T01:07:40.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft가 만든 오픈소스
-런타임(near-zero) & 빌드타임 구현을 같이 제공
-SSR 지원
-CSSType을 이용한 Type-Safe한 스타일 가능
-Atomic CSS 사용으로 스타일 재사용 가능 및 CSS 이슈 회피
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grist - Airtable과 Google Sheet의 오픈소스 대체제]]></title>
-        <id>https://news.hada.io/topic?id=6025</id>
-        <link href="https://news.hada.io/topic?id=6025"/>
-        <updated>2022-02-22T00:45:09.000Z</updated>
-        <summary type="html"><![CDATA[DB와 스프레드시트의 하이브리드 방식
-Python 수식. 표준 라이브러리와 전체 문법 지원. Excel 함수들 포함
-SQLite 기반
-Incremental Import : 바뀐 부분만 업데이트 가능
-REST API, Zapier, n8n 등 연동
-다양한 템플릿 제공
-접근 제어 옵션 : 공유(문서...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I was wrong, we need crypto]]></title>
-        <id>https://news.hada.io/topic?id=6024</id>
-        <link href="https://news.hada.io/topic?id=6024"/>
-        <updated>2022-02-21T16:07:45.000Z</updated>
-        <summary type="html"><![CDATA[루비 온 레일즈의 창시자 dhh는 아래와 같은 이유들로 인해 줄곧 암호화폐에 부정적인 입장을 가지고 있었음.
-비트코인 채굴에 사용되는 막대한 에너지
-비트코인의 낮은 처리량과 높은 트랜잭션 비용
-미친듯한 가격 급등락
-하지만 최근 캐나다 트럭커 시위대 사건을 통]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A Complete Guide to CSS Cascade Layers]]></title>
         <id>https://css-tricks.com/?p=363766</id>
         <link href="https://css-tricks.com/css-cascade-layers/"/>
@@ -169,19 +189,6 @@ REST API, Zapier, n8n 등 연동
 A Complete Guide to CSS Cascade Layers originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Miriam Suzanne</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구글 검색이 죽어가고 있다]]></title>
-        <id>https://news.hada.io/topic?id=6023</id>
-        <link href="https://news.hada.io/topic?id=6023"/>
-        <updated>2022-02-21T05:25:08.000Z</updated>
-        <summary type="html"><![CDATA["Reddit은 현재 가장 인기있는 검색엔진이다"
-레딧팀만 그걸 모르고 있는지 훌륭한 검색 인터페이스를 만들지 않고 있음
-그래서 우린 구글을 이용해 검색하며 쿼리 끝에 "reddit" 이란 단어를 추가한다
-실제로 Redd]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
     </entry>
     <entry>
@@ -337,17 +344,6 @@ Why are hyperlinks blue? originally published on CSS-Tricks. You should get the 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Getting Started With the File System Access API]]></title>
-        <id>https://css-tricks.com/?p=363339</id>
-        <link href="https://css-tricks.com/getting-started-with-the-file-system-access-api/"/>
-        <updated>2022-02-14T16:01:21.000Z</updated>
-        <summary type="html"><![CDATA[The File System Access API is a web API that allows read and write access to a user’s local files. It unlocks new capabilities to build powerful web applications, such as text editors or IDEs, image editing tools, improved …
-Getting Started With the File System Access API originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Charlie Gerard</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Stub 을 이용한 Service 계층 단위 테스트 하기]]></title>
         <id>https://jojoldu.tistory.com/637</id>
         <link href="https://jojoldu.tistory.com/637"/>
@@ -382,19 +378,6 @@ orderRepository를 통해 주문을 조회한다
 여…]]></summary>
         <author>
             <name>향로</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your CSS reset needs text-size-adjust (probably)]]></title>
-        <id>https://css-tricks.com/?p=363498</id>
-        <link href="https://css-tricks.com/your-css-reset-needs-text-size-adjust-probably/"/>
-        <updated>2022-02-12T00:46:40.000Z</updated>
-        <summary type="html"><![CDATA[Kilian Valkhof:
-[…] Mobile Safari increases the default font-size when you switch a website from portrait to landscape. On phones that is, it doesn’t do it on iPad. Safari has been doing this for a long time, as a 
-…
-Your CSS reset needs text-size-adjust (probably) originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
