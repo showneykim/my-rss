@@ -6,12 +6,42 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=364138",
+          "author": "Chris Coyier",
+          "description": "Nic Chan:\n[…] the will-change property landed in major browsers in August 2015, and I’ve been on the lookout for when to use it ever since. It might seem self-evident to apply it to commonly animated properties such \n…\nMy white whale: A use case for will-change originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/my-white-whale-a-use-case-for-will-change/",
+          "publishedOn": "2022-02-24T20:59:29.000Z",
+          "wordCount": 575,
+          "title": "My white whale: A use case for will-change",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364138"
+        },
+        {
+          "id": "https://css-tricks.com/?p=363553",
+          "author": "Anand Chowdhary",
+          "description": "For the past few weeks, I’ve been hiring for a senior full-stack JavaScript engineer at my rental furniture company, Pabio. Since we’re a remote team, we conduct our interviews on Zoom, and I’ve observed that some developers are not …\nExplain the First 10 Lines of Twitter’s Source Code to Me originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/explain-the-first-10-lines-of-twitter-source-code/",
+          "publishedOn": "2022-02-24T15:31:55.000Z",
+          "wordCount": 2462,
+          "title": "Explain the First 10 Lines of Twitter’s Source Code to Me",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363553"
+        },
+        {
+          "id": "https://css-tricks.com/?p=363526",
+          "author": "ImageEngine",
+          "description": "(This is a sponsored post.)\nIn recent years, the Jamstack methodology for building websites has become increasingly popular. Performance, scalable, and secure, it’s easy to see why it’s becoming an attractive way to build websites for developers.\nGatsbyJS is …\nSuperior Image Optimization: An Ideal Solution Using Gatsby & ImageEngine originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/superior-image-optimization-an-ideal-solution-using-gatsby-imageengine/",
+          "publishedOn": "2022-02-24T15:31:49.000Z",
+          "wordCount": 2808,
+          "title": "Superior Image Optimization: An Ideal Solution Using Gatsby & ImageEngine",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363526"
+        },
+        {
           "id": "https://css-tricks.com/?p=363937",
           "author": "Chris Coyier",
           "description": "Kinda silly sounding, isn’t it? CSS database queries. But, hey, CSS is capable of talking to other languages in the sense that it can set the values of things that they can read. Plus, CSS can request other files, and …\nCSS Database Queries? Sure We Can! originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/css-database-queries/",
           "publishedOn": "2022-02-23T20:04:39.000Z",
-          "wordCount": 671,
+          "wordCount": 664,
           "title": "CSS Database Queries? Sure We Can!",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363937"
         },
@@ -21,7 +51,7 @@
           "description": "Let’s face it: building an AA or AAA-accessible product can be quite daunting. Luckily, having an accessible product isn’t all-or-nothing. Even seemingly small improvements can have nice quality of life benefits for many people.\nIn that spirit, here are five …\n5 Accessibility Quick Wins You Can Implement Today originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/5-accessibility-quick-wins-you-can-implement-today/",
           "publishedOn": "2022-02-23T15:15:33.000Z",
-          "wordCount": 1607,
+          "wordCount": 1736,
           "title": "5 Accessibility Quick Wins You Can Implement Today",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363532"
         },
@@ -41,7 +71,7 @@
           "description": "On several occasions, I’ve needed to send off an HTTP request with some data to log when a user does something like navigate to a different page or submit a form. Consider this contrived example of sending some information to …\nReliably Send an HTTP Request as a User Leaves a Page originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/send-an-http-request-on-page-exit/",
           "publishedOn": "2022-02-22T15:24:01.000Z",
-          "wordCount": 2343,
+          "wordCount": 2483,
           "title": "Reliably Send an HTTP Request as a User Leaves a Page",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363511"
         },
@@ -51,7 +81,7 @@
           "description": "This is your complete guide to CSS cascade layers, a CSS feature that allows us to define explicit contained layers of specificity, so that we have full control over which styles take priority in a project without relying on specificity …\nA Complete Guide to CSS Cascade Layers originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/css-cascade-layers/",
           "publishedOn": "2022-02-21T15:40:35.000Z",
-          "wordCount": 8135,
+          "wordCount": 8172,
           "title": "A Complete Guide to CSS Cascade Layers",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363766"
         },
@@ -61,7 +91,7 @@
           "description": "Being able to understand Node continues to be an important skill if you’re a front-end developer. Deno has arrived as another way to run JavaScript outside the browser, but the huge ecosystem of tools and software built with Node mean …\nComparing Node JavaScript to JavaScript in the Browser originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/node-javascript-compared-to-javascript/",
           "publishedOn": "2022-02-18T19:01:08.000Z",
-          "wordCount": 3752,
+          "wordCount": 3738,
           "title": "Comparing Node JavaScript to JavaScript in the Browser",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363467"
         },
@@ -81,18 +111,18 @@
           "description": "Font Awesome is an incredibly popular icon library. Unfortunately, it’s somewhat easy to use in a way that results in less-than-ideal performance. By subsetting Font Awesome, we can remove any unused glyphs from the font files it provides. This will …\nSubsetting Font Awesome to Improve Performance originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/subsetting-font-awesome-to-improve-performance/",
           "publishedOn": "2022-02-17T15:21:41.000Z",
-          "wordCount": 2417,
+          "wordCount": 2403,
           "title": "Subsetting Font Awesome to Improve Performance",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363179"
         },
         {
           "id": "https://css-tricks.com/?p=363872",
           "author": "Chris Coyier",
-          "description": "(This is a sponsored post.)\nFirst things first, if you didn’t know Netlify had a CLI, they do.  One of my favorite things about it running the command netlify dev on nearly any static-site generator project is seeing it …\nTop Things You Didn’t Know You Could Do With Netlify CLI￼ originally published on CSS-Tricks. You should get the newsletter.",
+          "description": "(This is a sponsored post.)\nFirst things first, if you didn’t know Netlify had a CLI, they do.  One of my favorite things about it running the command netlify dev on nearly any static-site generator project is seeing it …\nTop Things You Didn’t Know You Could Do With Netlify CLI originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/top-things-you-didnt-know-you-could-do-with-netlify-cli/",
           "publishedOn": "2022-02-17T13:00:00.000Z",
           "wordCount": 771,
-          "title": "Top Things You Didn’t Know You Could Do With Netlify CLI￼",
+          "title": "Top Things You Didn’t Know You Could Do With Netlify CLI",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363872"
         },
         {
@@ -111,7 +141,7 @@
           "description": "Within Drupal 10 core, we’re implementing a new auto-filling CSS Grid technique that I think is cool enough to share with the world.\nThe requirements are:\nThe user specifies a maximum number of columns. This is the auto-filling grid’s “natural” \n…\nAn Auto-Filling CSS Grid With Max Columns of a Minimum Size originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/an-auto-filling-css-grid-with-max-columns/",
           "publishedOn": "2022-02-16T15:06:57.000Z",
-          "wordCount": 1468,
+          "wordCount": 1489,
           "title": "An Auto-Filling CSS Grid With Max Columns of a Minimum Size",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363541"
         },
@@ -124,36 +154,6 @@
           "wordCount": 526,
           "title": "GSAP Flip Plugin for Animation",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363604"
-        },
-        {
-          "id": "https://css-tricks.com/?p=363124",
-          "author": "Harshil Patel",
-          "description": "Creating CSS link hover effects can add a bit of flair to an otherwise bland webpage. If you’ve ever found yourself stumped trying to make a slick hover effect, then I have six CSS effects for you to take and …\n6 Creative Ideas for CSS Link Hover Effects originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/css-link-hover-effects/",
-          "publishedOn": "2022-02-15T15:37:04.000Z",
-          "wordCount": 2642,
-          "title": "6 Creative Ideas for CSS Link Hover Effects",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363124"
-        },
-        {
-          "id": "https://css-tricks.com/?p=363739",
-          "author": "Geoff Graham",
-          "description": "(This is a sponsored post.)\n✋ High fives to WordPress for releasing version 5.9 on January 29! This was the long-awaited introduction of the Site Editor and the reverberations are still being felt across the 43% slice of the …\nWordPress.com Has a New Home on YouTube originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/wordpress-com-has-a-new-home-on-youtube/",
-          "publishedOn": "2022-02-15T15:35:35.000Z",
-          "wordCount": 658,
-          "title": "WordPress.com Has a New Home on YouTube",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363739"
-        },
-        {
-          "id": "https://css-tricks.com/?p=363555",
-          "author": "Chris Coyier",
-          "description": "Last year, Elise Blanchard did some great historical research and discovered that blue hyperlinks replaced black hyperlinks in 1993. They’ve been blue for so long now that the general advice I always hear is to keep them that way. There …\nWhy are hyperlinks blue? originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/why-are-hyperlinks-blue/",
-          "publishedOn": "2022-02-14T20:13:31.000Z",
-          "wordCount": 763,
-          "title": "Why are hyperlinks blue?",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363555"
         }
       ]
     },
@@ -168,7 +168,7 @@
           "description": "파이썬 입문의 베스트 셀러 Do it! 점프 투 파이썬 입니다. 개정판으로 나왔고 저자 분이 위키독스의 운영자분이시기 때문에 웹에서도 무료로 볼수 있는 책입니다. 책을 완독한 후기는 정말 입문용으로는 최고의 도서입니다. 이 책만 완독했다고 해서 프로그래밍에...\nThe post [추천도서] Do it! 점프 투 파이썬 appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/%ec%b6%94%ec%b2%9c%eb%8f%84%ec%84%9c-do-it-%ec%a0%90%ed%94%84-%ed%88%ac-%ed%8c%8c%ec%9d%b4%ec%8d%ac/",
           "publishedOn": "2022-02-05T07:10:52.000Z",
-          "wordCount": 714,
+          "wordCount": 681,
           "title": "[추천도서] Do it! 점프 투 파이썬",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2022/02/k582635822_1.jpg"
         }
@@ -179,6 +179,66 @@
       "feedUrl": "https://news.hada.io/rss/news",
       "siteUrl": "https://news.hada.io",
       "articles": [
+        {
+          "id": "https://news.hada.io/topic?id=6045",
+          "author": null,
+          "description": "로컬 웹서버를 NAT 안쪽에 있더라도 퍼블릭 도메인 명으로 접근 가능하게 해주는 솔루션\n오픈소스 : frp, ngrok 1.0, localtunnel, Teleport, chisel, expose, sish, tunnelto, pgrok, SirTunnel..\n상용/클로즈드 소스 : ngrok 2.0, CloudFlare Tunnel, Tailscale, Loophole, Packetriot, Ho...",
+          "link": "https://news.hada.io/topic?id=6045",
+          "publishedOn": "2022-02-25T00:33:04.000Z",
+          "wordCount": 123,
+          "title": "Awesome Tunneling - ngrok 대체제 모음",
+          "imageUrl": "https://social.news.hada.io/topic/6045"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6044",
+          "author": null,
+          "description": "모든 광고를 차단하고, 백그라운드 재생 및 PIP 까지 지원\n좋아하는 채널에 대해서는 화이트리스트 가능(광고 및 스폰서 허용)\n스와이프로 볼륨 및 밝기 조절\n블랙 테마 제공\n자동 반복재생 기능\n유튜브 뮤직 지원\n코덱 설정 오버라이딩 가능(H264/VP9)...",
+          "link": "https://news.hada.io/topic?id=6044",
+          "publishedOn": "2022-02-25T00:17:07.000Z",
+          "wordCount": 140,
+          "title": "Vanced - 광고를 차단해주는 안드로이드용 유튜브앱",
+          "imageUrl": "https://social.news.hada.io/topic/6044"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6043",
+          "author": null,
+          "description": "인터랙티브 디자인\n다양한 플러그인으로 커스터마이징 가능\n의존성 없고, 아무 프레임워크와도 잘 동작\n30kb의 작은 사이즈\n웹용 슬라이드 에디터인 DeckDeckGo 팀이 개발\n\n...",
+          "link": "https://news.hada.io/topic?id=6043",
+          "publishedOn": "2022-02-24T04:25:29.000Z",
+          "wordCount": 78,
+          "title": "Stylo - JS용 오픈소스 WYSIWYG 에디터",
+          "imageUrl": "https://social.news.hada.io/topic/6043"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6042",
+          "author": null,
+          "description": "웹캠 + 브라우저용 Human 라이브러리 사용\nThe Cat API의 고양이 사진 이용(한달 1만 리퀘스트까지 무료)\n노티앱인 Pushover를 이용해서 모바일로 사진 전송\n로컬에서 동작하는 오픈...",
+          "link": "https://news.hada.io/topic?id=6042",
+          "publishedOn": "2022-02-24T03:59:03.000Z",
+          "wordCount": 165,
+          "title": "얼굴 인식해서 내가 슬플 때 고양이 사진 보내기",
+          "imageUrl": "https://social.news.hada.io/topic/6042"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6041",
+          "author": null,
+          "description": "워커당 File Descriptor가 충분하지 않음\nerror_log off 는 없음\n업스트림 서버 연결에는 Keepalive를 활성화할 것\n지시문 상속이 동작하는 방식 제대로 알기\n...",
+          "link": "https://news.hada.io/topic?id=6041",
+          "publishedOn": "2022-02-24T03:27:59.000Z",
+          "wordCount": 134,
+          "title": "Nginx 설정 시 가장 많이 하는 10가지 실수 피하기",
+          "imageUrl": "https://social.news.hada.io/topic/6041"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6040",
+          "author": null,
+          "description": "브라우저 상에서 다양한 소스의 파일 관리 및 업로드/다운로드\nFTP/FTPS/SFTP, WebDAV, S3/B2, Dropbox, Google Drive, LDAP, Git, MySQL, CardDAV, CalDAV 등 지원\n비디오/오디오 플레이어, 이미지 뷰어 내장\n비디오/이미지 트랜스코딩\nFull Text 검색\n공유 링크...",
+          "link": "https://news.hada.io/topic?id=6040",
+          "publishedOn": "2022-02-24T01:18:58.000Z",
+          "wordCount": 104,
+          "title": "Filestash - 사용하기 쉬운 웹 파일 관리자 오픈소스",
+          "imageUrl": "https://social.news.hada.io/topic/6040"
+        },
         {
           "id": "https://news.hada.io/topic?id=6039",
           "author": null,
@@ -195,7 +255,7 @@
           "description": "특정한 리소스를 고유하게 지정하는 ID를 어떻게 만들 것인가 하면 보통은 크게 2가지 방법을 주로 쓰는 걸로 압니다. 하나는 DB 테이블의 Primary Key에 Auto Increment를 걸어서 나오는 순차적인 정수값을 그대로 써먹는 것이고, 다른 하나는 랜덤한 128비트 값인 GUID(UUID라고도 함)를 그때그때 생성하여 사용하는...",
           "link": "https://news.hada.io/topic?id=6038",
           "publishedOn": "2022-02-23T17:37:32.000Z",
-          "wordCount": 337,
+          "wordCount": 605,
           "title": "리소스의 ID, GUID로 할까 Sequential로 할까?",
           "imageUrl": "https://social.news.hada.io/topic/6038"
         },
@@ -215,69 +275,9 @@
           "description": "K-Startup 사업공고를 아침마다 요약해주는 슬랙 봇을 만들었습니다.\n데이터는 공공데이터 포털에서 받아오고 있습니다.\n스타트업 종사자분들의 건",
           "link": "https://news.hada.io/topic?id=6035",
           "publishedOn": "2022-02-23T02:28:47.000Z",
-          "wordCount": 196,
+          "wordCount": 221,
           "title": "Show GN: K-Startup 사업공고 알림 슬랙 봇",
           "imageUrl": "https://social.news.hada.io/topic/6035"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6034",
-          "author": null,
-          "description": "9년 전 페이스북(메타)은 낙후된 인터넷 접근성을 개선하도록 돕겠다는 원대한 계획을 발표했다. 저소득 국가들에서 모바일 인터넷을 이용하려면 선불제로 데이터를 구입해야 하지만 프리 베이직스(Free Basics)는 어느 정도 무료 접속을 제공한다. 프리 베이직스가 가능한 국가들은 늘어나는 중이다. 그...",
-          "link": "https://news.hada.io/topic?id=6034",
-          "publishedOn": "2022-02-23T01:21:10.000Z",
-          "wordCount": 345,
-          "title": "페이스북은 저소득 국가들의 인터넷 접속을 돕고 있을까?",
-          "imageUrl": "https://social.news.hada.io/topic/6034"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6033",
-          "author": null,
-          "description": "무제한 폼, 무제한 제출, 이메일 알림, 파일 업로드, 결제 연동, 커버/로고 등 거의 모든 기능이 무료\n사용하기 쉬운 Form 편집기 제공\nNotion/Airtable/Zapier/Google Sheets 연동 지원\nWebHook 가능\n\n...",
-          "link": "https://news.hada.io/topic?id=6033",
-          "publishedOn": "2022-02-23T01:10:17.000Z",
-          "wordCount": 84,
-          "title": "Tally Forms - 무료 TypeForm 대체제",
-          "imageUrl": "https://social.news.hada.io/topic/6033"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6032",
-          "author": null,
-          "description": "스택오버플로우에 올라오는 질문 수로 트렌드를 그려보면 2020년부터 Flutter가 React-Native를 추월\n2022년 현재 SO 전체 질문의 2.8%가 Flutter 관련, React-Native는 1.4%\n왜 모바일앱 개발자들이 Flutter를 좋아할까?\n플랫폼에 전혀 구애받지 않음 : UI도 Skia엔진으...",
-          "link": "https://news.hada.io/topic?id=6032",
-          "publishedOn": "2022-02-23T00:51:49.000Z",
-          "wordCount": 361,
-          "title": "Flutter가 가장 인기 있는 크로스 플랫폼 모바일 SDK인 이유",
-          "imageUrl": "https://social.news.hada.io/topic/6032"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6031",
-          "author": null,
-          "description": "애니 GIF 속도를 최대한 빠르게 하려면 \"Frame Delay\"를 \"10ms\"가 아닌 \"20ms\"로 지정해야 함. 왜 그럴까?\nGIF 89a부터 애니메이션이 지원되기 시작\n\n각 프레임별 딜레이를 설정 가능\n다음 프레임으로 넘어가기 전까지 기다리는 시간을 100분의 1초(1...",
-          "link": "https://news.hada.io/topic?id=6031",
-          "publishedOn": "2022-02-23T00:34:03.000Z",
-          "wordCount": 292,
-          "title": "가장 빠른 GIF는 존재하지 않음",
-          "imageUrl": "https://social.news.hada.io/topic/6031"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6030",
-          "author": null,
-          "description": "데스크탑 검색 페이지 하단에 위젯 형태의 카드를 포함\n\n6개의 카드 : 날씨, 트렌딩, 볼 영화/드라마, 주식, 로컬 이벤트, COVID뉴스\nHide Content 토글 버튼으로 숨기기 가능\n모든 내용은 기존의 활동에 기반하여 추천\n클릭시 해당 항목에 대한 검색 결과 페이...",
-          "link": "https://news.hada.io/topic?id=6030",
-          "publishedOn": "2022-02-23T00:08:47.000Z",
-          "wordCount": 108,
-          "title": "구글, 첫 페이지 하단에 위젯 포함하는 테스트 중",
-          "imageUrl": "https://social.news.hada.io/topic/6030"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6029",
-          "author": null,
-          "description": "애플을 5년 전에 퇴사했지만 애정을 가지고 계속 참여\n주요 원인은 WebEx로 진행되는 주간 코어팀 미팅이 매우 안좋았다는 것(Toxic)\n특히 작년 여름 미팅에서는 모욕을 당했고, 잠시 쉬기로 했다가 결국엔 팀을 떠나기로 결정\n자신의 제안이 무시되거나, 마찰을 만들어 내면서 시간...",
-          "link": "https://news.hada.io/topic?id=6029",
-          "publishedOn": "2022-02-22T02:12:49.000Z",
-          "wordCount": 303,
-          "title": "Chris Lattner가 Swift Core팀을 떠남",
-          "imageUrl": "https://social.news.hada.io/topic/6029"
         }
       ]
     },

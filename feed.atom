@@ -1,10 +1,133 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-02-24T01:09:07.201Z</id>
+    <id>urn:2022-02-25T01:08:48.590Z</id>
     <title>osmos::feed</title>
-    <updated>2022-02-24T01:09:07.201Z</updated>
+    <updated>2022-02-25T01:08:48.590Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Awesome Tunneling - ngrok 대체제 모음]]></title>
+        <id>https://news.hada.io/topic?id=6045</id>
+        <link href="https://news.hada.io/topic?id=6045"/>
+        <updated>2022-02-25T00:33:04.000Z</updated>
+        <summary type="html"><![CDATA[로컬 웹서버를 NAT 안쪽에 있더라도 퍼블릭 도메인 명으로 접근 가능하게 해주는 솔루션
+오픈소스 : frp, ngrok 1.0, localtunnel, Teleport, chisel, expose, sish, tunnelto, pgrok, SirTunnel..
+상용/클로즈드 소스 : ngrok 2.0, CloudFlare Tunnel, Tailscale, Loophole, Packetriot, Ho...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vanced - 광고를 차단해주는 안드로이드용 유튜브앱]]></title>
+        <id>https://news.hada.io/topic?id=6044</id>
+        <link href="https://news.hada.io/topic?id=6044"/>
+        <updated>2022-02-25T00:17:07.000Z</updated>
+        <summary type="html"><![CDATA[모든 광고를 차단하고, 백그라운드 재생 및 PIP 까지 지원
+좋아하는 채널에 대해서는 화이트리스트 가능(광고 및 스폰서 허용)
+스와이프로 볼륨 및 밝기 조절
+블랙 테마 제공
+자동 반복재생 기능
+유튜브 뮤직 지원
+코덱 설정 오버라이딩 가능(H264/VP9)...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My white whale: A use case for will-change]]></title>
+        <id>https://css-tricks.com/?p=364138</id>
+        <link href="https://css-tricks.com/my-white-whale-a-use-case-for-will-change/"/>
+        <updated>2022-02-24T20:59:29.000Z</updated>
+        <summary type="html"><![CDATA[Nic Chan:
+[…] the will-change property landed in major browsers in August 2015, and I’ve been on the lookout for when to use it ever since. It might seem self-evident to apply it to commonly animated properties such 
+…
+My white whale: A use case for will-change originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Explain the First 10 Lines of Twitter’s Source Code to Me]]></title>
+        <id>https://css-tricks.com/?p=363553</id>
+        <link href="https://css-tricks.com/explain-the-first-10-lines-of-twitter-source-code/"/>
+        <updated>2022-02-24T15:31:55.000Z</updated>
+        <summary type="html"><![CDATA[For the past few weeks, I’ve been hiring for a senior full-stack JavaScript engineer at my rental furniture company, Pabio. Since we’re a remote team, we conduct our interviews on Zoom, and I’ve observed that some developers are not …
+Explain the First 10 Lines of Twitter’s Source Code to Me originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Anand Chowdhary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Superior Image Optimization: An Ideal Solution Using Gatsby & ImageEngine]]></title>
+        <id>https://css-tricks.com/?p=363526</id>
+        <link href="https://css-tricks.com/superior-image-optimization-an-ideal-solution-using-gatsby-imageengine/"/>
+        <updated>2022-02-24T15:31:49.000Z</updated>
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+In recent years, the Jamstack methodology for building websites has become increasingly popular. Performance, scalable, and secure, it’s easy to see why it’s becoming an attractive way to build websites for developers.
+GatsbyJS is …
+Superior Image Optimization: An Ideal Solution Using Gatsby & ImageEngine originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>ImageEngine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stylo - JS용 오픈소스 WYSIWYG 에디터]]></title>
+        <id>https://news.hada.io/topic?id=6043</id>
+        <link href="https://news.hada.io/topic?id=6043"/>
+        <updated>2022-02-24T04:25:29.000Z</updated>
+        <summary type="html"><![CDATA[인터랙티브 디자인
+다양한 플러그인으로 커스터마이징 가능
+의존성 없고, 아무 프레임워크와도 잘 동작
+30kb의 작은 사이즈
+웹용 슬라이드 에디터인 DeckDeckGo 팀이 개발
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[얼굴 인식해서 내가 슬플 때 고양이 사진 보내기]]></title>
+        <id>https://news.hada.io/topic?id=6042</id>
+        <link href="https://news.hada.io/topic?id=6042"/>
+        <updated>2022-02-24T03:59:03.000Z</updated>
+        <summary type="html"><![CDATA[웹캠 + 브라우저용 Human 라이브러리 사용
+The Cat API의 고양이 사진 이용(한달 1만 리퀘스트까지 무료)
+노티앱인 Pushover를 이용해서 모바일로 사진 전송
+로컬에서 동작하는 오픈...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nginx 설정 시 가장 많이 하는 10가지 실수 피하기]]></title>
+        <id>https://news.hada.io/topic?id=6041</id>
+        <link href="https://news.hada.io/topic?id=6041"/>
+        <updated>2022-02-24T03:27:59.000Z</updated>
+        <summary type="html"><![CDATA[워커당 File Descriptor가 충분하지 않음
+error_log off 는 없음
+업스트림 서버 연결에는 Keepalive를 활성화할 것
+지시문 상속이 동작하는 방식 제대로 알기
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Filestash - 사용하기 쉬운 웹 파일 관리자 오픈소스]]></title>
+        <id>https://news.hada.io/topic?id=6040</id>
+        <link href="https://news.hada.io/topic?id=6040"/>
+        <updated>2022-02-24T01:18:58.000Z</updated>
+        <summary type="html"><![CDATA[브라우저 상에서 다양한 소스의 파일 관리 및 업로드/다운로드
+FTP/FTPS/SFTP, WebDAV, S3/B2, Dropbox, Google Drive, LDAP, Git, MySQL, CardDAV, CalDAV 등 지원
+비디오/오디오 플레이어, 이미지 뷰어 내장
+비디오/이미지 트랜스코딩
+Full Text 검색
+공유 링크...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Adaptive Favicon 만들기]]></title>
         <id>https://news.hada.io/topic?id=6039</id>
@@ -77,73 +200,6 @@ AI가 그리는 일본 애니메이션 스타일 프로필 사진 생성기입�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[페이스북은 저소득 국가들의 인터넷 접속을 돕고 있을까?]]></title>
-        <id>https://news.hada.io/topic?id=6034</id>
-        <link href="https://news.hada.io/topic?id=6034"/>
-        <updated>2022-02-23T01:21:10.000Z</updated>
-        <summary type="html"><![CDATA[9년 전 페이스북(메타)은 낙후된 인터넷 접근성을 개선하도록 돕겠다는 원대한 계획을 발표했다. 저소득 국가들에서 모바일 인터넷을 이용하려면 선불제로 데이터를 구입해야 하지만 프리 베이직스(Free Basics)는 어느 정도 무료 접속을 제공한다. 프리 베이직스가 가능한 국가들은 늘어나는 중이다. 그...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tally Forms - 무료 TypeForm 대체제]]></title>
-        <id>https://news.hada.io/topic?id=6033</id>
-        <link href="https://news.hada.io/topic?id=6033"/>
-        <updated>2022-02-23T01:10:17.000Z</updated>
-        <summary type="html"><![CDATA[무제한 폼, 무제한 제출, 이메일 알림, 파일 업로드, 결제 연동, 커버/로고 등 거의 모든 기능이 무료
-사용하기 쉬운 Form 편집기 제공
-Notion/Airtable/Zapier/Google Sheets 연동 지원
-WebHook 가능
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flutter가 가장 인기 있는 크로스 플랫폼 모바일 SDK인 이유]]></title>
-        <id>https://news.hada.io/topic?id=6032</id>
-        <link href="https://news.hada.io/topic?id=6032"/>
-        <updated>2022-02-23T00:51:49.000Z</updated>
-        <summary type="html"><![CDATA[스택오버플로우에 올라오는 질문 수로 트렌드를 그려보면 2020년부터 Flutter가 React-Native를 추월
-2022년 현재 SO 전체 질문의 2.8%가 Flutter 관련, React-Native는 1.4%
-왜 모바일앱 개발자들이 Flutter를 좋아할까?
-플랫폼에 전혀 구애받지 않음 : UI도 Skia엔진으...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가장 빠른 GIF는 존재하지 않음]]></title>
-        <id>https://news.hada.io/topic?id=6031</id>
-        <link href="https://news.hada.io/topic?id=6031"/>
-        <updated>2022-02-23T00:34:03.000Z</updated>
-        <summary type="html"><![CDATA[애니 GIF 속도를 최대한 빠르게 하려면 "Frame Delay"를 "10ms"가 아닌 "20ms"로 지정해야 함. 왜 그럴까?
-GIF 89a부터 애니메이션이 지원되기 시작
-
-각 프레임별 딜레이를 설정 가능
-다음 프레임으로 넘어가기 전까지 기다리는 시간을 100분의 1초(1...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구글, 첫 페이지 하단에 위젯 포함하는 테스트 중]]></title>
-        <id>https://news.hada.io/topic?id=6030</id>
-        <link href="https://news.hada.io/topic?id=6030"/>
-        <updated>2022-02-23T00:08:47.000Z</updated>
-        <summary type="html"><![CDATA[데스크탑 검색 페이지 하단에 위젯 형태의 카드를 포함
-
-6개의 카드 : 날씨, 트렌딩, 볼 영화/드라마, 주식, 로컬 이벤트, COVID뉴스
-Hide Content 토글 버튼으로 숨기기 가능
-모든 내용은 기존의 활동에 기반하여 추천
-클릭시 해당 항목에 대한 검색 결과 페이...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Before I go: When it comes to complaining about web browsers]]></title>
         <id>https://css-tricks.com/?p=363998</id>
         <link href="https://css-tricks.com/before-i-go-when-it-comes-to-complaining-about-web-browsers/"/>
@@ -165,19 +221,6 @@ Before I go: When it comes to complaining about web browsers originally publishe
 Reliably Send an HTTP Request as a User Leaves a Page originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Alex MacArthur</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chris Lattner가 Swift Core팀을 떠남]]></title>
-        <id>https://news.hada.io/topic?id=6029</id>
-        <link href="https://news.hada.io/topic?id=6029"/>
-        <updated>2022-02-22T02:12:49.000Z</updated>
-        <summary type="html"><![CDATA[애플을 5년 전에 퇴사했지만 애정을 가지고 계속 참여
-주요 원인은 WebEx로 진행되는 주간 코어팀 미팅이 매우 안좋았다는 것(Toxic)
-특히 작년 여름 미팅에서는 모욕을 당했고, 잠시 쉬기로 했다가 결국엔 팀을 떠나기로 결정
-자신의 제안이 무시되거나, 마찰을 만들어 내면서 시간...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
     </entry>
     <entry>
@@ -260,13 +303,13 @@ Subsetting Font Awesome to Improve Performance originally published on CSS-Trick
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top Things You Didn’t Know You Could Do With Netlify CLI￼]]></title>
+        <title type="html"><![CDATA[Top Things You Didn’t Know You Could Do With Netlify CLI]]></title>
         <id>https://css-tricks.com/?p=363872</id>
         <link href="https://css-tricks.com/top-things-you-didnt-know-you-could-do-with-netlify-cli/"/>
         <updated>2022-02-17T13:00:00.000Z</updated>
         <summary type="html"><![CDATA[(This is a sponsored post.)
 First things first, if you didn’t know Netlify had a CLI, they do.  One of my favorite things about it running the command netlify dev on nearly any static-site generator project is seeing it …
-Top Things You Didn’t Know You Could Do With Netlify CLI￼ originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+Top Things You Didn’t Know You Could Do With Netlify CLI originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Chris Coyier</name>
         </author>
@@ -305,40 +348,6 @@ An Auto-Filling CSS Grid With Max Columns of a Minimum Size originally published
 FLIP, coined by Paul Lewis, is an 
 …
 GSAP Flip Plugin for Animation originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6 Creative Ideas for CSS Link Hover Effects]]></title>
-        <id>https://css-tricks.com/?p=363124</id>
-        <link href="https://css-tricks.com/css-link-hover-effects/"/>
-        <updated>2022-02-15T15:37:04.000Z</updated>
-        <summary type="html"><![CDATA[Creating CSS link hover effects can add a bit of flair to an otherwise bland webpage. If you’ve ever found yourself stumped trying to make a slick hover effect, then I have six CSS effects for you to take and …
-6 Creative Ideas for CSS Link Hover Effects originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Harshil Patel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WordPress.com Has a New Home on YouTube]]></title>
-        <id>https://css-tricks.com/?p=363739</id>
-        <link href="https://css-tricks.com/wordpress-com-has-a-new-home-on-youtube/"/>
-        <updated>2022-02-15T15:35:35.000Z</updated>
-        <summary type="html"><![CDATA[(This is a sponsored post.)
-✋ High fives to WordPress for releasing version 5.9 on January 29! This was the long-awaited introduction of the Site Editor and the reverberations are still being felt across the 43% slice of the …
-WordPress.com Has a New Home on YouTube originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why are hyperlinks blue?]]></title>
-        <id>https://css-tricks.com/?p=363555</id>
-        <link href="https://css-tricks.com/why-are-hyperlinks-blue/"/>
-        <updated>2022-02-14T20:13:31.000Z</updated>
-        <summary type="html"><![CDATA[Last year, Elise Blanchard did some great historical research and discovered that blue hyperlinks replaced black hyperlinks in 1993. They’ve been blue for so long now that the general advice I always hear is to keep them that way. There …
-Why are hyperlinks blue? originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Chris Coyier</name>
         </author>
