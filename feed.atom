@@ -1,10 +1,113 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-02-25T01:08:48.590Z</id>
+    <id>urn:2022-02-26T01:02:15.908Z</id>
     <title>osmos::feed</title>
-    <updated>2022-02-25T01:08:48.590Z</updated>
+    <updated>2022-02-26T01:02:15.908Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Mozilla Firefox는 이대로 괜찮을까?]]></title>
+        <id>https://news.hada.io/topic?id=6050</id>
+        <link href="https://news.hada.io/topic?id=6050"/>
+        <updated>2022-02-26T00:19:14.000Z</updated>
+        <summary type="html"><![CDATA[파이어폭스 사용자가 줄은 원인과 대안
+웹 브라우저 기술 경쟁은 필수다
+웹 기술 주도권을 되찾아야 한다
+오픈 소스는 자생할 수 있다
+"모든 사람이 다양한 선택 옵션을 가질 수 있다면, 더 나은 인터넷을 만들 수 있습니다."]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trailing Slashes on URLs: Contentious or Settled?]]></title>
+        <id>https://css-tricks.com/?p=364070</id>
+        <link href="https://css-tricks.com/trailing-slashes-on-urls-contentious-or-settled/"/>
+        <updated>2022-02-25T21:13:08.000Z</updated>
+        <summary type="html"><![CDATA[A fun deep dive from Zach. Do you have an opinion on which you should use?
+1) https://website.com/foo/
+2) https://websites.com/foo
+The first option has a “trailing slash.” The second does not.
+I’ve always preferred this thinking: you use a trailing …
+Trailing Slashes on URLs: Contentious or Settled? originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When to Avoid the text-decoration Shorthand Property]]></title>
+        <id>https://css-tricks.com/?p=363619</id>
+        <link href="https://css-tricks.com/when-to-avoid-css-text-decoration-shorthand/"/>
+        <updated>2022-02-25T15:28:33.000Z</updated>
+        <summary type="html"><![CDATA[In my recent article about CSS underline bugs in Chrome, I discussed text-decoration-thickness and text-underline-offset, two relatively new and widely-supported CSS properties that give us more control over the styling of underlines.
+Let me demonstrate the usefulness of …
+When to Avoid the text-decoration Shorthand Property originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Šime Vidas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manuel Matuzovic’s CSS Specificity Demo]]></title>
+        <id>https://css-tricks.com/?p=364152</id>
+        <link href="https://css-tricks.com/manuel-matuzovics-css-specificity-demo/"/>
+        <updated>2022-02-25T15:27:19.000Z</updated>
+        <summary type="html"><![CDATA[If you’re looking for a primer on CSS specificity, we’ve got that. And if you’re trying to get ahead of the game, you should be aware of CSS Cascade Layers as well.
+One of the ways to help get …
+Manuel Matuzovic’s CSS Specificity Demo originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=6049</id>
+        <link href="https://news.hada.io/topic?id=6049"/>
+        <updated>2022-02-25T04:22:26.000Z</updated>
+        <summary type="html"><![CDATA[이번 주말에 뭘 하려고 계획 중인지 편하게 얘기해 보아요.
+읽을 책, 가볼 곳, 해볼 것.. 어떤 것이든 좋습니다.
+지난 주말에 계획하셨던 일의 회고도 한번 남겨봐 주세요.]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeepETA: Uber가 딥러닝으로 도착시간을 예측하는 법]]></title>
+        <id>https://news.hada.io/topic?id=6048</id>
+        <link href="https://news.hada.io/topic?id=6048"/>
+        <updated>2022-02-25T02:38:39.000Z</updated>
+        <summary type="html"><![CDATA[우버는 ETA를 요금 계산, 픽업 시간 예측, 라이더-드라이버간 매칭, 배달시간 계획등에 사용
+전통적인 ETA엔진들은 도로 네트웍을 작은 단위로 나눠서 그래프에 가중치를 두어서 계산
+하지만 "지도는 지형이 아님&qu...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shazam은 어떻게 동작하는가?]]></title>
+        <id>https://news.hada.io/topic?id=6047</id>
+        <link href="https://news.hada.io/topic?id=6047"/>
+        <updated>2022-02-25T02:11:55.000Z</updated>
+        <summary type="html"><![CDATA[노래 인식앱 Shazam 창업자들의 2003년 논문을 그대로 구현한 오픈소스 abracadabra 개발자가 정리한 내용
+논문에서 설명 안된 부분에 대해서 자신이 채운 방법을 소개하고 파이썬 코드와 연결
+왜 노래 인식은 어려운가?
+Spectrogram 계산하여 Peak들 찾고, 그 Peak들을 해쉬해서 핑...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Goopt - GPT-3를 이용한 Procedural Web 검색엔진]]></title>
+        <id>https://news.hada.io/topic?id=6046</id>
+        <link href="https://news.hada.io/topic?id=6046"/>
+        <updated>2022-02-25T00:53:38.000Z</updated>
+        <summary type="html"><![CDATA["Web 4.0은 절차적 웹의 바람직한 진화가 될 수 있을 것"
+특정 단어를 검색하면 AI가 내가 원한 콘텐츠를 자동 생성해서, 검색 엔진처럼 제공하는 실험
+NLP 와 Procedural Content Generation(PCG, 절차적 콘텐츠 생성) 기법을 결합
+모든 콘텐츠]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Awesome Tunneling - ngrok 대체제 모음]]></title>
         <id>https://news.hada.io/topic?id=6045</id>
@@ -114,35 +217,6 @@ error_log off 는 없음
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Filestash - 사용하기 쉬운 웹 파일 관리자 오픈소스]]></title>
-        <id>https://news.hada.io/topic?id=6040</id>
-        <link href="https://news.hada.io/topic?id=6040"/>
-        <updated>2022-02-24T01:18:58.000Z</updated>
-        <summary type="html"><![CDATA[브라우저 상에서 다양한 소스의 파일 관리 및 업로드/다운로드
-FTP/FTPS/SFTP, WebDAV, S3/B2, Dropbox, Google Drive, LDAP, Git, MySQL, CardDAV, CalDAV 등 지원
-비디오/오디오 플레이어, 이미지 뷰어 내장
-비디오/이미지 트랜스코딩
-Full Text 검색
-공유 링크...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adaptive Favicon 만들기]]></title>
-        <id>https://news.hada.io/topic?id=6039</id>
-        <link href="https://news.hada.io/topic?id=6039"/>
-        <updated>2022-02-24T00:59:02.000Z</updated>
-        <summary type="html"><![CDATA[SVG를 이용해서 다크모드 지원하는 Favicon 만들기
-ico 와 svg를 동시에 지정해서 지원하는 브라우저에서만 적용 가능
-SVG xml 내에  태그를 포함해서 prefers-color-scheme: dark 를 추가
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[CSS Database Queries? Sure We Can!]]></title>
         <id>https://css-tricks.com/?p=363937</id>
         <link href="https://css-tricks.com/css-database-queries/"/>
@@ -151,16 +225,6 @@ SVG xml 내에  태그를 포함해서 prefers-color-scheme: dark 를 추가
 CSS Database Queries? Sure We Can! originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리소스의 ID, GUID로 할까 Sequential로 할까?]]></title>
-        <id>https://news.hada.io/topic?id=6038</id>
-        <link href="https://news.hada.io/topic?id=6038"/>
-        <updated>2022-02-23T17:37:32.000Z</updated>
-        <summary type="html"><![CDATA[특정한 리소스를 고유하게 지정하는 ID를 어떻게 만들 것인가 하면 보통은 크게 2가지 방법을 주로 쓰는 걸로 압니다. 하나는 DB 테이블의 Primary Key에 Auto Increment를 걸어서 나오는 순차적인 정수값을 그대로 써먹는 것이고, 다른 하나는 랜덤한 128비트 값인 GUID(UUID라고도 함)를 그때그때 생성하여 사용하는...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
     </entry>
     <entry>
@@ -173,30 +237,6 @@ In that spirit, here are five …
 5 Accessibility Quick Wins You Can Implement Today originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Daniel Yuschick</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Waifu Labs V2 - AI가 그리며 커스텀 가능한 일본 애니메이션 스타일 그림 생성기]]></title>
-        <id>https://news.hada.io/topic?id=6037</id>
-        <link href="https://news.hada.io/topic?id=6037"/>
-        <updated>2022-02-23T05:12:44.000Z</updated>
-        <summary type="html"><![CDATA[본문 내용 요약
-AI가 그리는 일본 애니메이션 스타일 프로필 사진 생성기입니다. 링크글은 제작자가 AI를 훈련한 과정을 적어놨어요.
-이 생성기의 특이점 중 하나는, 같은 캐릭터를 유지하면서도 다른 포즈로 그려달라고 요청할 수 있으며. 혹은 같은 포즈로 그려달라고 요청하면서도 다른 스...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: K-Startup 사업공고 알림 슬랙 봇]]></title>
-        <id>https://news.hada.io/topic?id=6035</id>
-        <link href="https://news.hada.io/topic?id=6035"/>
-        <updated>2022-02-23T02:28:47.000Z</updated>
-        <summary type="html"><![CDATA[K-Startup 사업공고를 아침마다 요약해주는 슬랙 봇을 만들었습니다.
-데이터는 공공데이터 포털에서 받아오고 있습니다.
-스타트업 종사자분들의 건]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
     </entry>
     <entry>
@@ -310,44 +350,6 @@ Subsetting Font Awesome to Improve Performance originally published on CSS-Trick
         <summary type="html"><![CDATA[(This is a sponsored post.)
 First things first, if you didn’t know Netlify had a CLI, they do.  One of my favorite things about it running the command netlify dev on nearly any static-site generator project is seeing it …
 Top Things You Didn’t Know You Could Do With Netlify CLI originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Add-to-Calendar Button UI Widget]]></title>
-        <id>https://css-tricks.com/?p=363861</id>
-        <link href="https://css-tricks.com/add-to-calendar-button-ui-widget/"/>
-        <updated>2022-02-17T01:14:21.000Z</updated>
-        <summary type="html"><![CDATA[A useful little UI widget thingy here from Jens Kuerschner. Click the add-to-calendar button, get a list of calendar apps, the user selects which one they actually use, and they get what they need for that calendar. Could be a …
-Add-to-Calendar Button UI Widget originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Auto-Filling CSS Grid With Max Columns of a Minimum Size]]></title>
-        <id>https://css-tricks.com/?p=363541</id>
-        <link href="https://css-tricks.com/an-auto-filling-css-grid-with-max-columns/"/>
-        <updated>2022-02-16T15:06:57.000Z</updated>
-        <summary type="html"><![CDATA[Within Drupal 10 core, we’re implementing a new auto-filling CSS Grid technique that I think is cool enough to share with the world.
-The requirements are:
-The user specifies a maximum number of columns. This is the auto-filling grid’s “natural” 
-…
-An Auto-Filling CSS Grid With Max Columns of a Minimum Size originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Mike Herchel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GSAP Flip Plugin for Animation]]></title>
-        <id>https://css-tricks.com/?p=363604</id>
-        <link href="https://css-tricks.com/gsap-flip-plugin-for-animation/"/>
-        <updated>2022-02-15T21:41:10.000Z</updated>
-        <summary type="html"><![CDATA[Greensock made the GSAP Flip plugin free in the 3.9 release. FLIP is an animation concept that helps make super performance state-change animations. Ryan Mulligan has a good blog post: 
-FLIP, coined by Paul Lewis, is an 
-…
-GSAP Flip Plugin for Animation originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Chris Coyier</name>
         </author>
