@@ -1,10 +1,79 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-02-26T01:02:15.908Z</id>
+    <id>urn:2022-02-27T01:08:58.511Z</id>
     <title>osmos::feed</title>
-    <updated>2022-02-26T01:02:15.908Z</updated>
+    <updated>2022-02-27T01:08:58.511Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[GitLab Critical Security Release]]></title>
+        <id>https://news.hada.io/topic?id=6054</id>
+        <link href="https://news.hada.io/topic?id=6054"/>
+        <updated>2022-02-27T00:38:02.000Z</updated>
+        <summary type="html"><![CDATA[모든 GitLab CE/EE 설치본에 대해 즉시 업데이트 하는 것을 추천
+Quick Actions를 통해서 Runner 등록 토큰이 노출되는 취약점에 대한 패치
+
+모든 그룹/프로젝트에 대한 Runner 등록 토큰이 리셋됨
+자동화된 프로세스로 Runner를 등록하고 있다면 이 업데이트로 인해 해당 프로세스가...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rust 1.59.0 릴리즈]]></title>
+        <id>https://news.hada.io/topic?id=6053</id>
+        <link href="https://news.hada.io/topic?id=6053"/>
+        <updated>2022-02-27T00:11:01.000Z</updated>
+        <summary type="html"><![CDATA[인라인 어셈블리 지원 : 저수준 제어 및 특정 기계 명령어 이용 가능
+
+x86, x86-64, ARM, AArch64, RISC-V 지원
+구조 분해 할당 지원 : 좌측에 tuple, slice, struct 를 놓아서 한번에 할당
+
+
+(a, b) = (1, 2);
+
+
+
+Const Generic에 디폴...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가볍게 살펴보는 새로운 한/글 파일 포맷 HWPX]]></title>
+        <id>https://news.hada.io/topic?id=6052</id>
+        <link href="https://news.hada.io/topic?id=6052"/>
+        <updated>2022-02-26T00:54:06.000Z</updated>
+        <summary type="html"><![CDATA[한/글 파일의 역사
+HWPX 파일의 구조 확인하기
+문서 본문 내용은 어떻게 관리되는가?
+익숙한 HTML 코드와 비교해 보기
+HWPX 파일 공통으로 참고하면 좋을 Tip
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[쏘카의 데이터 디스커버리 플랫폼 도입기]]></title>
+        <id>https://news.hada.io/topic?id=6051</id>
+        <link href="https://news.hada.io/topic?id=6051"/>
+        <updated>2022-02-26T00:39:36.000Z</updated>
+        <summary type="html"><![CDATA[데이터 디스커버리란 무엇인가요?
+
+정의 / 중요성
+DDP의 정의
+데이터 디스커버리 플랫폼이 왜 필요한가요?
+
+도입 효과 : Data Discovery/Data Governance 관점
+데이터 디스커버리 플랫폼 비교 분석
+
+Datahub VS Amundsen]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mozilla Firefox는 이대로 괜찮을까?]]></title>
         <id>https://news.hada.io/topic?id=6050</id>
@@ -121,22 +190,6 @@ NLP 와 Procedural Content Generation(PCG, 절차적 콘텐츠 생성) 기법을
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vanced - 광고를 차단해주는 안드로이드용 유튜브앱]]></title>
-        <id>https://news.hada.io/topic?id=6044</id>
-        <link href="https://news.hada.io/topic?id=6044"/>
-        <updated>2022-02-25T00:17:07.000Z</updated>
-        <summary type="html"><![CDATA[모든 광고를 차단하고, 백그라운드 재생 및 PIP 까지 지원
-좋아하는 채널에 대해서는 화이트리스트 가능(광고 및 스폰서 허용)
-스와이프로 볼륨 및 밝기 조절
-블랙 테마 제공
-자동 반복재생 기능
-유튜브 뮤직 지원
-코덱 설정 오버라이딩 가능(H264/VP9)...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[My white whale: A use case for will-change]]></title>
         <id>https://css-tricks.com/?p=364138</id>
         <link href="https://css-tricks.com/my-white-whale-a-use-case-for-will-change/"/>
@@ -171,49 +224,6 @@ GatsbyJS is …
 Superior Image Optimization: An Ideal Solution Using Gatsby & ImageEngine originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>ImageEngine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stylo - JS용 오픈소스 WYSIWYG 에디터]]></title>
-        <id>https://news.hada.io/topic?id=6043</id>
-        <link href="https://news.hada.io/topic?id=6043"/>
-        <updated>2022-02-24T04:25:29.000Z</updated>
-        <summary type="html"><![CDATA[인터랙티브 디자인
-다양한 플러그인으로 커스터마이징 가능
-의존성 없고, 아무 프레임워크와도 잘 동작
-30kb의 작은 사이즈
-웹용 슬라이드 에디터인 DeckDeckGo 팀이 개발
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼굴 인식해서 내가 슬플 때 고양이 사진 보내기]]></title>
-        <id>https://news.hada.io/topic?id=6042</id>
-        <link href="https://news.hada.io/topic?id=6042"/>
-        <updated>2022-02-24T03:59:03.000Z</updated>
-        <summary type="html"><![CDATA[웹캠 + 브라우저용 Human 라이브러리 사용
-The Cat API의 고양이 사진 이용(한달 1만 리퀘스트까지 무료)
-노티앱인 Pushover를 이용해서 모바일로 사진 전송
-로컬에서 동작하는 오픈...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nginx 설정 시 가장 많이 하는 10가지 실수 피하기]]></title>
-        <id>https://news.hada.io/topic?id=6041</id>
-        <link href="https://news.hada.io/topic?id=6041"/>
-        <updated>2022-02-24T03:27:59.000Z</updated>
-        <summary type="html"><![CDATA[워커당 File Descriptor가 충분하지 않음
-error_log off 는 없음
-업스트림 서버 연결에는 Keepalive를 활성화할 것
-지시문 상속이 동작하는 방식 제대로 알기
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
     </entry>
     <entry>
@@ -275,7 +285,7 @@ A Complete Guide to CSS Cascade Layers originally published on CSS-Tricks. You s
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[(NodeJS 환경에서) jest.mock 보다 ts-mockito 사용하기]]></title>
+        <title type="html"><![CDATA[jest.mock 보다 ts-mockito 사용하기 (feat. Node.js)]]></title>
         <id>https://jojoldu.tistory.com/638</id>
         <link href="https://jojoldu.tistory.com/638"/>
         <updated>2022-02-21T01:33:06.000Z</updated>

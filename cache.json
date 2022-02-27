@@ -51,7 +51,7 @@
           "description": "For the past few weeks, I’ve been hiring for a senior full-stack JavaScript engineer at my rental furniture company, Pabio. Since we’re a remote team, we conduct our interviews on Zoom, and I’ve observed that some developers are not …\nExplain the First 10 Lines of Twitter’s Source Code to Me originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/explain-the-first-10-lines-of-twitter-source-code/",
           "publishedOn": "2022-02-24T15:31:55.000Z",
-          "wordCount": 5315,
+          "wordCount": 5593,
           "title": "Explain the First 10 Lines of Twitter’s Source Code to Me",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363553"
         },
@@ -71,7 +71,7 @@
           "description": "Kinda silly sounding, isn’t it? CSS database queries. But, hey, CSS is capable of talking to other languages in the sense that it can set the values of things that they can read. Plus, CSS can request other files, and …\nCSS Database Queries? Sure We Can! originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/css-database-queries/",
           "publishedOn": "2022-02-23T20:04:39.000Z",
-          "wordCount": 737,
+          "wordCount": 723,
           "title": "CSS Database Queries? Sure We Can!",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363937"
         },
@@ -131,7 +131,7 @@
           "description": "I linked to Jay’s front-end predictions last year and I think they panned out pretty well. I think he’s got a bit of a knack for that wide-scope look at front-end, including tooling and architecture, as well as browser tech. …\n(Jay Freestone’s) Front-End Predictions for 2022 originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/jay-freestone-front-end-predictions-for-2022/",
           "publishedOn": "2022-02-18T15:34:39.000Z",
-          "wordCount": 1105,
+          "wordCount": 1091,
           "title": "(Jay Freestone’s) Front-End Predictions for 2022",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363911"
         },
@@ -151,7 +151,7 @@
           "description": "(This is a sponsored post.)\nFirst things first, if you didn’t know Netlify had a CLI, they do.  One of my favorite things about it running the command netlify dev on nearly any static-site generator project is seeing it …\nTop Things You Didn’t Know You Could Do With Netlify CLI originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/top-things-you-didnt-know-you-could-do-with-netlify-cli/",
           "publishedOn": "2022-02-17T13:00:00.000Z",
-          "wordCount": 771,
+          "wordCount": 785,
           "title": "Top Things You Didn’t Know You Could Do With Netlify CLI",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363872"
         }
@@ -168,7 +168,7 @@
           "description": "파이썬 입문의 베스트 셀러 Do it! 점프 투 파이썬 입니다. 개정판으로 나왔고 저자 분이 위키독스의 운영자분이시기 때문에 웹에서도 무료로 볼수 있는 책입니다. 책을 완독한 후기는 정말 입문용으로는 최고의 도서입니다. 이 책만 완독했다고 해서 프로그래밍에...\nThe post [추천도서] Do it! 점프 투 파이썬 appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/%ec%b6%94%ec%b2%9c%eb%8f%84%ec%84%9c-do-it-%ec%a0%90%ed%94%84-%ed%88%ac-%ed%8c%8c%ec%9d%b4%ec%8d%ac/",
           "publishedOn": "2022-02-05T07:10:52.000Z",
-          "wordCount": 715,
+          "wordCount": 714,
           "title": "[추천도서] Do it! 점프 투 파이썬",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2022/02/k582635822_1.jpg"
         }
@@ -179,6 +179,46 @@
       "feedUrl": "https://news.hada.io/rss/news",
       "siteUrl": "https://news.hada.io",
       "articles": [
+        {
+          "id": "https://news.hada.io/topic?id=6054",
+          "author": null,
+          "description": "모든 GitLab CE/EE 설치본에 대해 즉시 업데이트 하는 것을 추천\nQuick Actions를 통해서 Runner 등록 토큰이 노출되는 취약점에 대한 패치\n\n모든 그룹/프로젝트에 대한 Runner 등록 토큰이 리셋됨\n자동화된 프로세스로 Runner를 등록하고 있다면 이 업데이트로 인해 해당 프로세스가...",
+          "link": "https://news.hada.io/topic?id=6054",
+          "publishedOn": "2022-02-27T00:38:02.000Z",
+          "wordCount": 120,
+          "title": "GitLab Critical Security Release",
+          "imageUrl": "https://social.news.hada.io/topic/6054"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6053",
+          "author": null,
+          "description": "인라인 어셈블리 지원 : 저수준 제어 및 특정 기계 명령어 이용 가능\n\nx86, x86-64, ARM, AArch64, RISC-V 지원\n구조 분해 할당 지원 : 좌측에 tuple, slice, struct 를 놓아서 한번에 할당\n\n\n(a, b) = (1, 2);\n\n\n\nConst Generic에 디폴...",
+          "link": "https://news.hada.io/topic?id=6053",
+          "publishedOn": "2022-02-27T00:11:01.000Z",
+          "wordCount": 103,
+          "title": "Rust 1.59.0 릴리즈",
+          "imageUrl": "https://social.news.hada.io/topic/6053"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6052",
+          "author": null,
+          "description": "한/글 파일의 역사\nHWPX 파일의 구조 확인하기\n문서 본문 내용은 어떻게 관리되는가?\n익숙한 HTML 코드와 비교해 보기\nHWPX 파일 공통으로 참고하면 좋을 Tip\n\n...",
+          "link": "https://news.hada.io/topic?id=6052",
+          "publishedOn": "2022-02-26T00:54:06.000Z",
+          "wordCount": 90,
+          "title": "가볍게 살펴보는 새로운 한/글 파일 포맷 HWPX",
+          "imageUrl": "https://social.news.hada.io/topic/6052"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6051",
+          "author": null,
+          "description": "데이터 디스커버리란 무엇인가요?\n\n정의 / 중요성\nDDP의 정의\n데이터 디스커버리 플랫폼이 왜 필요한가요?\n\n도입 효과 : Data Discovery/Data Governance 관점\n데이터 디스커버리 플랫폼 비교 분석\n\nDatahub VS Amundsen",
+          "link": "https://news.hada.io/topic?id=6051",
+          "publishedOn": "2022-02-26T00:39:36.000Z",
+          "wordCount": 130,
+          "title": "쏘카의 데이터 디스커버리 플랫폼 도입기",
+          "imageUrl": "https://social.news.hada.io/topic/6051"
+        },
         {
           "id": "https://news.hada.io/topic?id=6050",
           "author": null,
@@ -195,7 +235,7 @@
           "description": "이번 주말에 뭘 하려고 계획 중인지 편하게 얘기해 보아요.\n읽을 책, 가볼 곳, 해볼 것.. 어떤 것이든 좋습니다.\n지난 주말에 계획하셨던 일의 회고도 한번 남겨봐 주세요.",
           "link": "https://news.hada.io/topic?id=6049",
           "publishedOn": "2022-02-25T04:22:26.000Z",
-          "wordCount": 178,
+          "wordCount": 191,
           "title": "Ask GN: 이번 주말에 뭐 하시나요?",
           "imageUrl": "https://social.news.hada.io/topic/6049"
         },
@@ -215,7 +255,7 @@
           "description": "노래 인식앱 Shazam 창업자들의 2003년 논문을 그대로 구현한 오픈소스 abracadabra 개발자가 정리한 내용\n논문에서 설명 안된 부분에 대해서 자신이 채운 방법을 소개하고 파이썬 코드와 연결\n왜 노래 인식은 어려운가?\nSpectrogram 계산하여 Peak들 찾고, 그 Peak들을 해쉬해서 핑...",
           "link": "https://news.hada.io/topic?id=6047",
           "publishedOn": "2022-02-25T02:11:55.000Z",
-          "wordCount": 135,
+          "wordCount": 149,
           "title": "Shazam은 어떻게 동작하는가?",
           "imageUrl": "https://social.news.hada.io/topic/6047"
         },
@@ -238,46 +278,6 @@
           "wordCount": 123,
           "title": "Awesome Tunneling - ngrok 대체제 모음",
           "imageUrl": "https://social.news.hada.io/topic/6045"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6044",
-          "author": null,
-          "description": "모든 광고를 차단하고, 백그라운드 재생 및 PIP 까지 지원\n좋아하는 채널에 대해서는 화이트리스트 가능(광고 및 스폰서 허용)\n스와이프로 볼륨 및 밝기 조절\n블랙 테마 제공\n자동 반복재생 기능\n유튜브 뮤직 지원\n코덱 설정 오버라이딩 가능(H264/VP9)...",
-          "link": "https://news.hada.io/topic?id=6044",
-          "publishedOn": "2022-02-25T00:17:07.000Z",
-          "wordCount": 148,
-          "title": "Vanced - 광고를 차단해주는 안드로이드용 유튜브앱",
-          "imageUrl": "https://social.news.hada.io/topic/6044"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6043",
-          "author": null,
-          "description": "인터랙티브 디자인\n다양한 플러그인으로 커스터마이징 가능\n의존성 없고, 아무 프레임워크와도 잘 동작\n30kb의 작은 사이즈\n웹용 슬라이드 에디터인 DeckDeckGo 팀이 개발\n\n...",
-          "link": "https://news.hada.io/topic?id=6043",
-          "publishedOn": "2022-02-24T04:25:29.000Z",
-          "wordCount": 78,
-          "title": "Stylo - JS용 오픈소스 WYSIWYG 에디터",
-          "imageUrl": "https://social.news.hada.io/topic/6043"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6042",
-          "author": null,
-          "description": "웹캠 + 브라우저용 Human 라이브러리 사용\nThe Cat API의 고양이 사진 이용(한달 1만 리퀘스트까지 무료)\n노티앱인 Pushover를 이용해서 모바일로 사진 전송\n로컬에서 동작하는 오픈...",
-          "link": "https://news.hada.io/topic?id=6042",
-          "publishedOn": "2022-02-24T03:59:03.000Z",
-          "wordCount": 165,
-          "title": "얼굴 인식해서 내가 슬플 때 고양이 사진 보내기",
-          "imageUrl": "https://social.news.hada.io/topic/6042"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6041",
-          "author": null,
-          "description": "워커당 File Descriptor가 충분하지 않음\nerror_log off 는 없음\n업스트림 서버 연결에는 Keepalive를 활성화할 것\n지시문 상속이 동작하는 방식 제대로 알기\n...",
-          "link": "https://news.hada.io/topic?id=6041",
-          "publishedOn": "2022-02-24T03:27:59.000Z",
-          "wordCount": 134,
-          "title": "Nginx 설정 시 가장 많이 하는 10가지 실수 피하기",
-          "imageUrl": "https://social.news.hada.io/topic/6041"
         }
       ]
     },
@@ -292,8 +292,8 @@
           "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\nNodeJS 기반의 백엔드에서는 NestJS, RoutingControllers 등 최근 대세가 되는 MVC 프레임워크들이 모두 Class를 기반으로 한 DI (Dependency Injection) 방식을 사용하고 있다.\n그러다보니 Jest의 Mocking 방식은 백엔드 NodeJS 환경에서 적합한 도구는 아닐 수 있다. \n특히, Mock/Stub 객체 생성에 불편한 점이 많다.\n그래서 Test Runner로서 Jest는 사용하더라도, Mock 라이브러리는 다른 것을 사용하는 것을 추천하는데, 그 중 대표적인 것들은 다음과 같다.\nts-mockito\nsinonjs\njest-mock-extended\n이번 글에서는 그 중 ts-mockito 를 통한 테스트 더블 (Mock, Stub 등) 활용법을 알아본다.\n1. Jest 와 ts-mockito 비교\n먼저 기존 Jest 방식이 왜 불편한지 보자.\nJest로 객체 Mock/Stub 하는것에 대한 불편함만 다룬다. \n이외에는 Jest는 장점이 많은 테스트 프레임워크이다.\n테스트할 메인 코드는 다음과 같다.\nexport class OrderService {\n    constructor(\n        private readonly orderRepository: OrderRepository,\n        ) {\n    }\n\n    validateCompletedOr…",
           "link": "https://jojoldu.tistory.com/638",
           "publishedOn": "2022-02-21T01:33:06.000Z",
-          "wordCount": 1314,
-          "title": "(NodeJS 환경에서) jest.mock 보다 ts-mockito 사용하기",
+          "wordCount": 1312,
+          "title": "jest.mock 보다 ts-mockito 사용하기 (feat. Node.js)",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FyDHv8%2FbtrtKCYT5Rm%2FFrJHxHENdmXT37oOchhOgK%2Fimg.png"
         },
         {
@@ -302,7 +302,7 @@
           "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\n간혹 Service 계층을 항상 통합 테스트로만 작성하는 경우를 보게됩니다. \n모든 Service를 통합 테스트 혹은 E2E 테스트로만 검증하기 보다는 상황에 따라 적절한 Stub을 사용하여 단위 테스트로 작성한다면 전체 테스트 속도 향상에 도움이 됩니다.\n몇가지 예제를 통해 Stub을 사용하는 단위 테스트 코드를 보겠습니다.\n모든 코드는 Github 에 있습니다..\n예제 1.\n첫번째 예제로 다음과 같은 서비스 로직에 대한 단위 테스트입니다.\nexport class OrderService {\n    constructor(private readonly orderRepository: OrderRepository) {\n    }\n\n    validateCompletedOrder(orderId: number): void {\n        const order = this.orderRepository.findById(orderId);\n        if(order.isNotCompleted()) {\n            throw new Error('아직 완료처리되지 못했습니다.');\n        }\n    }\n}\n코드의 흐름을 이야기해보면\norderRepository를 통해 주문을 조회한다\n조회된 주문 상태가 완료가 아니면 메세지와 함께 에러가 발생한다\n조회된 주문 상태가 완료처리인 경우 그대로 메소드가 종료\n여…",
           "link": "https://jojoldu.tistory.com/637",
           "publishedOn": "2022-02-12T10:52:06.000Z",
-          "wordCount": 1416,
+          "wordCount": 1418,
           "title": "Stub 을 이용한 Service 계층 단위 테스트 하기",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FuafVI%2Fbtrs7lXnos1%2FUrCOOiX7kXaZcBnmJixBL0%2Fimg.png"
         },
