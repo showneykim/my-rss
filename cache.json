@@ -11,7 +11,7 @@
           "description": "A fun deep dive from Zach. Do you have an opinion on which you should use?\n1) https://website.com/foo/\n2) https://websites.com/foo\nThe first option has a “trailing slash.” The second does not.\nI’ve always preferred this thinking: you use a trailing …\nTrailing Slashes on URLs: Contentious or Settled? originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/trailing-slashes-on-urls-contentious-or-settled/",
           "publishedOn": "2022-02-25T21:13:08.000Z",
-          "wordCount": 726,
+          "wordCount": 816,
           "title": "Trailing Slashes on URLs: Contentious or Settled?",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364070"
         },
@@ -41,7 +41,7 @@
           "description": "Nic Chan:\n[…] the will-change property landed in major browsers in August 2015, and I’ve been on the lookout for when to use it ever since. It might seem self-evident to apply it to commonly animated properties such \n…\nMy white whale: A use case for will-change originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/my-white-whale-a-use-case-for-will-change/",
           "publishedOn": "2022-02-24T20:59:29.000Z",
-          "wordCount": 575,
+          "wordCount": 644,
           "title": "My white whale: A use case for will-change",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364138"
         },
@@ -51,7 +51,7 @@
           "description": "For the past few weeks, I’ve been hiring for a senior full-stack JavaScript engineer at my rental furniture company, Pabio. Since we’re a remote team, we conduct our interviews on Zoom, and I’ve observed that some developers are not …\nExplain the First 10 Lines of Twitter’s Source Code to Me originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/explain-the-first-10-lines-of-twitter-source-code/",
           "publishedOn": "2022-02-24T15:31:55.000Z",
-          "wordCount": 5593,
+          "wordCount": 5960,
           "title": "Explain the First 10 Lines of Twitter’s Source Code to Me",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363553"
         },
@@ -71,7 +71,7 @@
           "description": "Kinda silly sounding, isn’t it? CSS database queries. But, hey, CSS is capable of talking to other languages in the sense that it can set the values of things that they can read. Plus, CSS can request other files, and …\nCSS Database Queries? Sure We Can! originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/css-database-queries/",
           "publishedOn": "2022-02-23T20:04:39.000Z",
-          "wordCount": 723,
+          "wordCount": 746,
           "title": "CSS Database Queries? Sure We Can!",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363937"
         },
@@ -180,6 +180,16 @@
       "siteUrl": "https://news.hada.io",
       "articles": [
         {
+          "id": "https://news.hada.io/topic?id=6055",
+          "author": null,
+          "description": "대용량 파일도 빠르게 볼 수 있는 로그 뷰어\n갱신 멈춤 가능한 Tail 기능\n모든 로그파일의 특정 날짜/시간으로 이동 가능\n정규식을 이용한 문자열 하이라이팅\n여러 종류의 로그를 동시에 하이라이트 가능하게 그룹화 가능\n키보드로 모든 기능 지원\nJava...",
+          "link": "https://news.hada.io/topic?id=6055",
+          "publishedOn": "2022-02-27T01:06:01.000Z",
+          "wordCount": 94,
+          "title": "LogFX - 멀티플랫폼 오픈소스 로그 뷰어",
+          "imageUrl": "https://social.news.hada.io/topic/6055"
+        },
+        {
           "id": "https://news.hada.io/topic?id=6054",
           "author": null,
           "description": "모든 GitLab CE/EE 설치본에 대해 즉시 업데이트 하는 것을 추천\nQuick Actions를 통해서 Runner 등록 토큰이 노출되는 취약점에 대한 패치\n\n모든 그룹/프로젝트에 대한 Runner 등록 토큰이 리셋됨\n자동화된 프로세스로 Runner를 등록하고 있다면 이 업데이트로 인해 해당 프로세스가...",
@@ -268,16 +278,6 @@
           "wordCount": 222,
           "title": "Goopt - GPT-3를 이용한 Procedural Web 검색엔진",
           "imageUrl": "https://social.news.hada.io/topic/6046"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6045",
-          "author": null,
-          "description": "로컬 웹서버를 NAT 안쪽에 있더라도 퍼블릭 도메인 명으로 접근 가능하게 해주는 솔루션\n오픈소스 : frp, ngrok 1.0, localtunnel, Teleport, chisel, expose, sish, tunnelto, pgrok, SirTunnel..\n상용/클로즈드 소스 : ngrok 2.0, CloudFlare Tunnel, Tailscale, Loophole, Packetriot, Ho...",
-          "link": "https://news.hada.io/topic?id=6045",
-          "publishedOn": "2022-02-25T00:33:04.000Z",
-          "wordCount": 123,
-          "title": "Awesome Tunneling - ngrok 대체제 모음",
-          "imageUrl": "https://social.news.hada.io/topic/6045"
         }
       ]
     },
@@ -305,16 +305,6 @@
           "wordCount": 1418,
           "title": "Stub 을 이용한 Service 계층 단위 테스트 하기",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FuafVI%2Fbtrs7lXnos1%2FUrCOOiX7kXaZcBnmJixBL0%2Fimg.png"
-        },
-        {
-          "id": "https://jojoldu.tistory.com/636",
-          "author": "향로",
-          "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\n \n아래 모든 내용은 이번에 신규 오픈한 랠릿의 프로젝트 종료와 함께 TF 멤버분들께 전달한 메일 내용입니다.\n루비콘은 랠릿 런칭 프로젝트명입니다 :)\n안녕하세요 여러분 향로입니다.\n다들 프로젝트 오픈하고 가벼운 마음으로 저녁 보내고 계신가요? \n1월은 인프런 서비스 역대급 장애와 함께 랠릿 QA가 겹치니 정말 정신없는 1월을 보낸것 같아요. \n그러면서 루비콘 TF 멤버들과 나눴던 수많은 대화들이 떠올랐는데요. \n파트별 혹은 개인별 대화들을 복기해보면서 TF 회고와 별개로 이런 이야기는 꼭 해드리면 좋겠다 싶어 메일을 작성하게 되었습니다.\n저는 루비콘 프로젝트가 대단한 성과라고 생각 하지만, \n오픈하는 과정에서의 많은 일들로 인해서 자괴감을 느낀 분들에게는 “대단해요!” 라는 이야기는 그냥 겉치례로 들릴거라 생각해요.\n그래서 제 이야기를 잠깐 해보려고 합니다.\n저는 커리어 초기에 “나름 좀 재능있는 편이 아닐까?”, “훌륭하고 대단한 개발자가 되어야지” 와 같은 생각을 갖고 있었어요. \n근데 이 “대단한” 혹은 “훌륭한” 이라는 키워드를 자꾸 생각하다보니, 막상 허접한 제 자신을 인정을 못하겠는거 있죠?\n여러 컨퍼런스/강연을 다니면서 본 건 많아서 눈은 높은데, \n실제로 경험한건 많지 않다보니 \n막상 일을 할때의 못난 제 모습을 못참겠더라고요.\n그러다보니 결국은 허접한 사람이 될 것 같은 상황이 오면 겁쟁이처럼 피하는 사람이 되더라고요. \n초보니깐 자유롭게 뭐든 하고, 실수해도 되는데 오히려 아무것도 하지 않는 사람이 되었어요. \n허접한 내 모습을 못참겠는것 그것 때문에 수많은 성장할 수 있는 기회를 놓치고 있었어요.\n잠깐만 눈 딱감고 그 많은 기회를 배움과 성장의 재료로 삼으면 되는데도 그게 참 안되더라고요.\n사실은 초보자니깐 당연히 실수할 수 있는 것이고, \n시간이 지나서도 못하는게 부끄러운것이지, \n지금 못하는건 전혀 부끄러운일이 아닌데도 말이죠. \n막상 시간이 지나서 물어보면 아무도 비웃고 있지 않았는데, 그것 조차 몰랐던거죠.\n저는 이 루비콘이란 프로젝트가 그런 태도의 분기점이 될 수 있다고 봐요.\n각자가 느낀 부끄러운 점들이 많겠죠.\n그게 누군가에게는 더할나위 없이 수치스러울 수도 있을거에요. \n그렇지만, 그렇다고해서 피하지는 않았으면 좋겠어요.\n모든걸 다 기회로 삼으세요. \n아무거나 하셔도 되고, \n실수하셔도 됩니다. \n잘하는척, 뛰어난척 하느라 성장에 쓰일 기회마저 놓치는 바보같은 선택만 하지 말아주세요. \n모든 일은 다 지나갑니다. \n계속 머무르는 상태는 없더라고요. \n지나고보면 아무일도 아니에요.\n여하튼!\n다들 너무 고생하셨습니다. \n설 연휴 지나고, \n재밌게 회고하면서 앞으로 우리가 할 수많은 재미난 일들을 이야기해봐요 :)\n향로 드림.\n(마지막은 제가 좋아하는 이효리 짤로..)\n            \n반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({});",
-          "link": "https://jojoldu.tistory.com/636",
-          "publishedOn": "2022-01-28T15:49:16.000Z",
-          "wordCount": 488,
-          "title": "루비콘 프로젝트 완료 메일",
-          "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FrnhxE%2Fbtrr4yu6juC%2F1iiKdxTL0HkPCykFw7Y7kk%2Fimg.png"
         }
       ]
     }
