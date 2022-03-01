@@ -6,12 +6,32 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=364346",
+          "author": "Chris Coyier",
+          "description": "I enjoy articles like Hartley Charlton’s “Microsoft Edge Looks Set to Overtake Safari as World’s Second Most Popular Desktop Browser.” It’s juicy! We know these massive players in the browser market care very much about their market share, so when …\nIE Down, Edge Up… Global Browser Usage Stats Are for Cocktail Parties and Conference Slides originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/ie-down-edge-up-global-browser-usage-stats-are-for-cocktail-parties-and-conference-slides/",
+          "publishedOn": "2022-02-28T23:14:29.000Z",
+          "wordCount": 815,
+          "title": "IE Down, Edge Up… Global Browser Usage Stats Are for Cocktail Parties and Conference Slides",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364346"
+        },
+        {
+          "id": "https://css-tricks.com/?p=363929",
+          "author": "John Rhea",
+          "description": "We’ve discussed a lot about the internals of using CSS in this ongoing series on web components, but there are a few special pseudo-elements and pseudo-classes that, like good friends, willingly smell your possibly halitotic breath before you go …\nWeb Component Pseudo-Classes and Pseudo-Elements are Easier Than You Think originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/web-component-pseudo-classes-and-pseudo-elements/",
+          "publishedOn": "2022-02-28T15:37:23.000Z",
+          "wordCount": 2422,
+          "title": "Web Component Pseudo-Classes and Pseudo-Elements are Easier Than You Think",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363929"
+        },
+        {
           "id": "https://css-tricks.com/?p=364070",
           "author": "Chris Coyier",
           "description": "A fun deep dive from Zach. Do you have an opinion on which you should use?\n1) https://website.com/foo/\n2) https://websites.com/foo\nThe first option has a “trailing slash.” The second does not.\nI’ve always preferred this thinking: you use a trailing …\nTrailing Slashes on URLs: Contentious or Settled? originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/trailing-slashes-on-urls-contentious-or-settled/",
           "publishedOn": "2022-02-25T21:13:08.000Z",
-          "wordCount": 816,
+          "wordCount": 882,
           "title": "Trailing Slashes on URLs: Contentious or Settled?",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364070"
         },
@@ -51,7 +71,7 @@
           "description": "For the past few weeks, I’ve been hiring for a senior full-stack JavaScript engineer at my rental furniture company, Pabio. Since we’re a remote team, we conduct our interviews on Zoom, and I’ve observed that some developers are not …\nExplain the First 10 Lines of Twitter’s Source Code to Me originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/explain-the-first-10-lines-of-twitter-source-code/",
           "publishedOn": "2022-02-24T15:31:55.000Z",
-          "wordCount": 5960,
+          "wordCount": 6390,
           "title": "Explain the First 10 Lines of Twitter’s Source Code to Me",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363553"
         },
@@ -101,7 +121,7 @@
           "description": "On several occasions, I’ve needed to send off an HTTP request with some data to log when a user does something like navigate to a different page or submit a form. Consider this contrived example of sending some information to …\nReliably Send an HTTP Request as a User Leaves a Page originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/send-an-http-request-on-page-exit/",
           "publishedOn": "2022-02-22T15:24:01.000Z",
-          "wordCount": 2526,
+          "wordCount": 2597,
           "title": "Reliably Send an HTTP Request as a User Leaves a Page",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363511"
         },
@@ -111,7 +131,7 @@
           "description": "This is your complete guide to CSS cascade layers, a CSS feature that allows us to define explicit contained layers of specificity, so that we have full control over which styles take priority in a project without relying on specificity …\nA Complete Guide to CSS Cascade Layers originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/css-cascade-layers/",
           "publishedOn": "2022-02-21T15:40:35.000Z",
-          "wordCount": 8780,
+          "wordCount": 9217,
           "title": "A Complete Guide to CSS Cascade Layers",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363766"
         },
@@ -134,26 +154,6 @@
           "wordCount": 1091,
           "title": "(Jay Freestone’s) Front-End Predictions for 2022",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363911"
-        },
-        {
-          "id": "https://css-tricks.com/?p=363179",
-          "author": "Adam Rackis",
-          "description": "Font Awesome is an incredibly popular icon library. Unfortunately, it’s somewhat easy to use in a way that results in less-than-ideal performance. By subsetting Font Awesome, we can remove any unused glyphs from the font files it provides. This will …\nSubsetting Font Awesome to Improve Performance originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/subsetting-font-awesome-to-improve-performance/",
-          "publishedOn": "2022-02-17T15:21:41.000Z",
-          "wordCount": 2403,
-          "title": "Subsetting Font Awesome to Improve Performance",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363179"
-        },
-        {
-          "id": "https://css-tricks.com/?p=363872",
-          "author": "Chris Coyier",
-          "description": "(This is a sponsored post.)\nFirst things first, if you didn’t know Netlify had a CLI, they do.  One of my favorite things about it running the command netlify dev on nearly any static-site generator project is seeing it …\nTop Things You Didn’t Know You Could Do With Netlify CLI originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/top-things-you-didnt-know-you-could-do-with-netlify-cli/",
-          "publishedOn": "2022-02-17T13:00:00.000Z",
-          "wordCount": 785,
-          "title": "Top Things You Didn’t Know You Could Do With Netlify CLI",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363872"
         }
       ]
     },
@@ -168,7 +168,7 @@
           "description": "파이썬 입문의 베스트 셀러 Do it! 점프 투 파이썬 입니다. 개정판으로 나왔고 저자 분이 위키독스의 운영자분이시기 때문에 웹에서도 무료로 볼수 있는 책입니다. 책을 완독한 후기는 정말 입문용으로는 최고의 도서입니다. 이 책만 완독했다고 해서 프로그래밍에...\nThe post [추천도서] Do it! 점프 투 파이썬 appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/%ec%b6%94%ec%b2%9c%eb%8f%84%ec%84%9c-do-it-%ec%a0%90%ed%94%84-%ed%88%ac-%ed%8c%8c%ec%9d%b4%ec%8d%ac/",
           "publishedOn": "2022-02-05T07:10:52.000Z",
-          "wordCount": 714,
+          "wordCount": 712,
           "title": "[추천도서] Do it! 점프 투 파이썬",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2022/02/k582635822_1.jpg"
         }
@@ -180,104 +180,104 @@
       "siteUrl": "https://news.hada.io",
       "articles": [
         {
+          "id": "https://news.hada.io/topic?id=6064",
+          "author": null,
+          "description": "PostgreSQL/MySQL에 있는 JSON 연산자와 호환\n3.38 부터는 JSON 지원이 기본으로 활성화 되어 컴파일시에 옵션 줄 필요 없음\n\n...",
+          "link": "https://news.hada.io/topic?id=6064",
+          "publishedOn": "2022-03-01T00:47:47.000Z",
+          "wordCount": 94,
+          "title": "SQLite 3.38.0에 JSON 쿼리 연산자 추가",
+          "imageUrl": "https://social.news.hada.io/topic/6064"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6063",
+          "author": null,
+          "description": "깃헙이 각종 보안 권고사항을 모아서 관리하던 GitHub Advisory Database를 퍼블릭 레포지토리에 공개\n누구나 볼 수 있고, 기여하는 것도 가능\n→ 보안 권고를 쉽게 추가할 수 있는 인터페이스도 추가\n\n...",
+          "link": "https://news.hada.io/topic?id=6063",
+          "publishedOn": "2022-03-01T00:22:28.000Z",
+          "wordCount": 92,
+          "title": "GitHub의 보안 권고 데이터베이스가 오픈소스로 공개",
+          "imageUrl": "https://social.news.hada.io/topic/6063"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6062",
+          "author": null,
+          "description": "토스에서 최근 \"토스페이스\" 를 공개했습니다\nTossFace with Full Emoji List 프로젝트는 토스페이스가 다른 유니코드 이모지와 어떤 차이가 있는지 보여주기 위한 프로젝",
+          "link": "https://news.hada.io/topic?id=6062",
+          "publishedOn": "2022-02-28T15:12:09.000Z",
+          "wordCount": 107,
+          "title": "Show GN: 토스페이스\"tossface\"와 다른 유니코드 벤더 이모지 비교 페이지",
+          "imageUrl": "https://social.news.hada.io/topic/6062"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6061",
+          "author": null,
+          "description": "Monorepo란 무엇인가\n\"여러 개의 개별 프로젝트를, 잘 정의된 관계를 통해서 하나의 Repo에 담은 것\"\nMonorepo ≠ Monolith\n왜 해야할까 ?\n기존의 Polyrepo(여러개의 Repo를 사용하던 방식)를 선택한 이유는 \"팀 자율성(team autonomy)\" 때...",
+          "link": "https://news.hada.io/topic?id=6061",
+          "publishedOn": "2022-02-28T02:50:12.000Z",
+          "wordCount": 416,
+          "title": "Monorepo에 대한 모든 것",
+          "imageUrl": "https://social.news.hada.io/topic/6061"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6060",
+          "author": null,
+          "description": "가끔 사용자가 다른 페이지로 이동하거나, 폼 전송할 때 로그를 남기고 싶은 경우가 있음\n클릭 이벤트에 fetch를 넣는 것은 꼭 전송된다는 보장이 없음\n그래서 Fetch하고 나서 window.location 에 넣어서 이동해보지만 이것도 마찬가지로 보장 안됨\n\nXHR은 비동기 & 넌블록킹 이...",
+          "link": "https://news.hada.io/topic?id=6060",
+          "publishedOn": "2022-02-28T02:06:19.000Z",
+          "wordCount": 208,
+          "title": "사용자가 페이지를 떠날 때 안정적으로 HTTP 요청을 보내는 방법",
+          "imageUrl": "https://social.news.hada.io/topic/6060"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6059",
+          "author": null,
+          "description": "구독형인 Tinder Plus는 한개의 국가내에서도 최대 31가지의 다른 가격을 가지고 있으며, 누군가는 5배의 가격을 내기도 함\n6개국을 조사해 보니 30~49세가 18~29세보다 65.3% 더 비쌈\n→ 조사한 국가 중 네덜란드/한국/인도가 가장 가격 ...",
+          "link": "https://news.hada.io/topic?id=6059",
+          "publishedOn": "2022-02-28T01:55:05.000Z",
+          "wordCount": 160,
+          "title": "Tinder의 불투명/불공정한 가격 책정 알고리듬은 사용자에 따라 5배까지 차이가 난다",
+          "imageUrl": "https://social.news.hada.io/topic/6059"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6058",
+          "author": null,
+          "description": "ES2022 같은 스펙 문서 읽는 방법을, 마치 스펙 문서처럼 표현/정리해서 설명한 글\n왜 읽어야 할까? : 모든 JavaScript 구현의 동작에 대한 가장 권위 있는 소스이기 때문\n\n브라우저, Node.js, IoT 기기 어디에서든\nECMAScript 스펙에 포함된 것과 포함되지 않은 것",
+          "link": "https://news.hada.io/topic?id=6058",
+          "publishedOn": "2022-02-28T01:43:14.000Z",
+          "wordCount": 172,
+          "title": "ECMAScript 스펙을 읽는 법",
+          "imageUrl": "https://social.news.hada.io/topic/6058"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6057",
+          "author": null,
+          "description": "PostgreSQL을 위한 새로운 스토리지 엔진\n새로운 테이블 액세스 프레임워크와 표준 확장 인터페이스를 사용해서 PostgreSQL의 일부 힘든 문제들을 해결\nSSD/NVRAM등의 최신 하드웨어에 최적화하여 CPU 보틀넥을 회피\nUndo Log와 Page-Mergins로 개비지 콜렉션을 없애서 유지 보수 필...",
+          "link": "https://news.hada.io/topic?id=6057",
+          "publishedOn": "2022-02-28T01:31:53.000Z",
+          "wordCount": 210,
+          "title": "OrioleDB - 클라우드 네이티브 스토리지 엔진",
+          "imageUrl": "https://social.news.hada.io/topic/6057"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6056",
+          "author": null,
+          "description": "내부 비즈니스 담당자들이 다양한 데이터를 자연어로 쿼리할 수 있는 Qurious라는 차세대 시스템을 구성\n아키텍처\n\n슬랙/웹앱에서 질문 가능\n질문은 구글 클라우드 로드밸런서/NgRoutes 통해서 GKE에 있는 Qurious앱으로 전...",
+          "link": "https://news.hada.io/topic?id=6056",
+          "publishedOn": "2022-02-28T01:19:32.000Z",
+          "wordCount": 126,
+          "title": "트위터가 자연언어 쿼리로 데이터 인사이트 도출하는 법",
+          "imageUrl": "https://social.news.hada.io/topic/6056"
+        },
+        {
           "id": "https://news.hada.io/topic?id=6055",
           "author": null,
           "description": "대용량 파일도 빠르게 볼 수 있는 로그 뷰어\n갱신 멈춤 가능한 Tail 기능\n모든 로그파일의 특정 날짜/시간으로 이동 가능\n정규식을 이용한 문자열 하이라이팅\n여러 종류의 로그를 동시에 하이라이트 가능하게 그룹화 가능\n키보드로 모든 기능 지원\nJava...",
           "link": "https://news.hada.io/topic?id=6055",
           "publishedOn": "2022-02-27T01:06:01.000Z",
-          "wordCount": 94,
+          "wordCount": 129,
           "title": "LogFX - 멀티플랫폼 오픈소스 로그 뷰어",
           "imageUrl": "https://social.news.hada.io/topic/6055"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6054",
-          "author": null,
-          "description": "모든 GitLab CE/EE 설치본에 대해 즉시 업데이트 하는 것을 추천\nQuick Actions를 통해서 Runner 등록 토큰이 노출되는 취약점에 대한 패치\n\n모든 그룹/프로젝트에 대한 Runner 등록 토큰이 리셋됨\n자동화된 프로세스로 Runner를 등록하고 있다면 이 업데이트로 인해 해당 프로세스가...",
-          "link": "https://news.hada.io/topic?id=6054",
-          "publishedOn": "2022-02-27T00:38:02.000Z",
-          "wordCount": 120,
-          "title": "GitLab Critical Security Release",
-          "imageUrl": "https://social.news.hada.io/topic/6054"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6053",
-          "author": null,
-          "description": "인라인 어셈블리 지원 : 저수준 제어 및 특정 기계 명령어 이용 가능\n\nx86, x86-64, ARM, AArch64, RISC-V 지원\n구조 분해 할당 지원 : 좌측에 tuple, slice, struct 를 놓아서 한번에 할당\n\n\n(a, b) = (1, 2);\n\n\n\nConst Generic에 디폴...",
-          "link": "https://news.hada.io/topic?id=6053",
-          "publishedOn": "2022-02-27T00:11:01.000Z",
-          "wordCount": 103,
-          "title": "Rust 1.59.0 릴리즈",
-          "imageUrl": "https://social.news.hada.io/topic/6053"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6052",
-          "author": null,
-          "description": "한/글 파일의 역사\nHWPX 파일의 구조 확인하기\n문서 본문 내용은 어떻게 관리되는가?\n익숙한 HTML 코드와 비교해 보기\nHWPX 파일 공통으로 참고하면 좋을 Tip\n\n...",
-          "link": "https://news.hada.io/topic?id=6052",
-          "publishedOn": "2022-02-26T00:54:06.000Z",
-          "wordCount": 90,
-          "title": "가볍게 살펴보는 새로운 한/글 파일 포맷 HWPX",
-          "imageUrl": "https://social.news.hada.io/topic/6052"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6051",
-          "author": null,
-          "description": "데이터 디스커버리란 무엇인가요?\n\n정의 / 중요성\nDDP의 정의\n데이터 디스커버리 플랫폼이 왜 필요한가요?\n\n도입 효과 : Data Discovery/Data Governance 관점\n데이터 디스커버리 플랫폼 비교 분석\n\nDatahub VS Amundsen",
-          "link": "https://news.hada.io/topic?id=6051",
-          "publishedOn": "2022-02-26T00:39:36.000Z",
-          "wordCount": 130,
-          "title": "쏘카의 데이터 디스커버리 플랫폼 도입기",
-          "imageUrl": "https://social.news.hada.io/topic/6051"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6050",
-          "author": null,
-          "description": "파이어폭스 사용자가 줄은 원인과 대안\n웹 브라우저 기술 경쟁은 필수다\n웹 기술 주도권을 되찾아야 한다\n오픈 소스는 자생할 수 있다\n\"모든 사람이 다양한 선택 옵션을 가질 수 있다면, 더 나은 인터넷을 만들 수 있습니다.\"",
-          "link": "https://news.hada.io/topic?id=6050",
-          "publishedOn": "2022-02-26T00:19:14.000Z",
-          "wordCount": 87,
-          "title": "Mozilla Firefox는 이대로 괜찮을까?",
-          "imageUrl": "https://social.news.hada.io/topic/6050"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6049",
-          "author": null,
-          "description": "이번 주말에 뭘 하려고 계획 중인지 편하게 얘기해 보아요.\n읽을 책, 가볼 곳, 해볼 것.. 어떤 것이든 좋습니다.\n지난 주말에 계획하셨던 일의 회고도 한번 남겨봐 주세요.",
-          "link": "https://news.hada.io/topic?id=6049",
-          "publishedOn": "2022-02-25T04:22:26.000Z",
-          "wordCount": 191,
-          "title": "Ask GN: 이번 주말에 뭐 하시나요?",
-          "imageUrl": "https://social.news.hada.io/topic/6049"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6048",
-          "author": null,
-          "description": "우버는 ETA를 요금 계산, 픽업 시간 예측, 라이더-드라이버간 매칭, 배달시간 계획등에 사용\n전통적인 ETA엔진들은 도로 네트웍을 작은 단위로 나눠서 그래프에 가중치를 두어서 계산\n하지만 \"지도는 지형이 아님&qu...",
-          "link": "https://news.hada.io/topic?id=6048",
-          "publishedOn": "2022-02-25T02:38:39.000Z",
-          "wordCount": 205,
-          "title": "DeepETA: Uber가 딥러닝으로 도착시간을 예측하는 법",
-          "imageUrl": "https://social.news.hada.io/topic/6048"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6047",
-          "author": null,
-          "description": "노래 인식앱 Shazam 창업자들의 2003년 논문을 그대로 구현한 오픈소스 abracadabra 개발자가 정리한 내용\n논문에서 설명 안된 부분에 대해서 자신이 채운 방법을 소개하고 파이썬 코드와 연결\n왜 노래 인식은 어려운가?\nSpectrogram 계산하여 Peak들 찾고, 그 Peak들을 해쉬해서 핑...",
-          "link": "https://news.hada.io/topic?id=6047",
-          "publishedOn": "2022-02-25T02:11:55.000Z",
-          "wordCount": 149,
-          "title": "Shazam은 어떻게 동작하는가?",
-          "imageUrl": "https://social.news.hada.io/topic/6047"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6046",
-          "author": null,
-          "description": "\"Web 4.0은 절차적 웹의 바람직한 진화가 될 수 있을 것\"\n특정 단어를 검색하면 AI가 내가 원한 콘텐츠를 자동 생성해서, 검색 엔진처럼 제공하는 실험\nNLP 와 Procedural Content Generation(PCG, 절차적 콘텐츠 생성) 기법을 결합\n모든 콘텐츠",
-          "link": "https://news.hada.io/topic?id=6046",
-          "publishedOn": "2022-02-25T00:53:38.000Z",
-          "wordCount": 222,
-          "title": "Goopt - GPT-3를 이용한 Procedural Web 검색엔진",
-          "imageUrl": "https://social.news.hada.io/topic/6046"
         }
       ]
     },
@@ -286,6 +286,16 @@
       "feedUrl": "https://jojoldu.tistory.com/rss",
       "siteUrl": "https://jojoldu.tistory.com/",
       "articles": [
+        {
+          "id": "https://jojoldu.tistory.com/639",
+          "author": "향로",
+          "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\n최근 팀에서 코드리뷰를 진행하던 중에 promise.all 과 트랜잭션에 대해 오해하고 있는 부분들을 발견하게 되어 정리하게 되었습니다.\nPromise.all (혹은 allSettled)을 사용하면 트랜잭션 내에서도 비동기로 여러 작업들이 동시에 이루어질 수 있다고 오해하는 것인데요. \n실험을 해보면 그게 아니라는 것을 알 수 있습니다.\n실제 코드를 가지고 검증해보겠습니다.\n모든 실험 결과에 대해서 틀린 내용이 있다면 바로 댓글로 지적해주세요! \n모든 지적은 저의 성장에 많은 도움이 되기 때문에 감사한 마음으로 수정하겠습니다 :)\n0. 테스트 환경\n테스트할 환경은 다음과 같습니다.\nNode.js 16.3.1\nPostgreSQL 13.2\n모든 코드는 Github 에 있습니다.\n1. Promise.all\n먼저 promise.all 에 대해서 알아보겠습니다. \n(이미 아시겠지만, 이후 테스트를 설명하기 위한 배경 설명으로 봐주시면 됩니다.)\n테스트를 위해 다음과 같이 2개의 함수를 만들겠습니다.\nexport function sleep(sec) {\n    const start = performance.now();\n    return new Promise(resolve=>{\n        setTimeout(resolve, sec * 1000);\n    }).then(() => {\n        console.log…",
+          "link": "https://jojoldu.tistory.com/639",
+          "publishedOn": "2022-02-28T14:05:44.000Z",
+          "wordCount": 1409,
+          "title": "Promise.all 과 Transactions (feat. Node.js)",
+          "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FziO3a%2FbtruLtSuE7m%2FK95dBn4FuwdIr8xSRM2FIK%2Fimg.png"
+        },
         {
           "id": "https://jojoldu.tistory.com/638",
           "author": "향로",
