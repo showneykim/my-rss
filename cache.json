@@ -6,12 +6,32 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=363724",
+          "author": "Patrick Brosset",
+          "description": "Styling ranges of text in software is a very useful thing to be able to do. Thankfully, we have the CSS Custom Highlight API to look forward to because it represents the future of styling text ranges on the web.…\nCSS Custom Highlight API: The Future of Highlighting Text Ranges on the Web originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/css-custom-highlight-api-early-loo/",
+          "publishedOn": "2022-03-01T17:41:13.000Z",
+          "wordCount": 2472,
+          "title": "CSS Custom Highlight API: The Future of Highlighting Text Ranges on the Web",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363724"
+        },
+        {
+          "id": "https://css-tricks.com/?p=364351",
+          "author": "Chris Coyier",
+          "description": "Ahmad Shadeed covers the CSS fit-content sizing keyword. It’s useful! It just doesn’t come up super often. I find myself using min-content a lot more, like when setting up the height of a grid-template-row.\nThe fit-content keyword is actually …\nAhmad Shadeed: Use Cases For CSS fit-content originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/ahmad-shadeed-use-cases-for-css-fit-content/",
+          "publishedOn": "2022-03-01T15:41:16.000Z",
+          "wordCount": 454,
+          "title": "Ahmad Shadeed: Use Cases For CSS fit-content",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364351"
+        },
+        {
           "id": "https://css-tricks.com/?p=364346",
           "author": "Chris Coyier",
           "description": "I enjoy articles like Hartley Charlton’s “Microsoft Edge Looks Set to Overtake Safari as World’s Second Most Popular Desktop Browser.” It’s juicy! We know these massive players in the browser market care very much about their market share, so when …\nIE Down, Edge Up… Global Browser Usage Stats Are for Cocktail Parties and Conference Slides originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/ie-down-edge-up-global-browser-usage-stats-are-for-cocktail-parties-and-conference-slides/",
           "publishedOn": "2022-02-28T23:14:29.000Z",
-          "wordCount": 815,
+          "wordCount": 878,
           "title": "IE Down, Edge Up… Global Browser Usage Stats Are for Cocktail Parties and Conference Slides",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364346"
         },
@@ -21,7 +41,7 @@
           "description": "We’ve discussed a lot about the internals of using CSS in this ongoing series on web components, but there are a few special pseudo-elements and pseudo-classes that, like good friends, willingly smell your possibly halitotic breath before you go …\nWeb Component Pseudo-Classes and Pseudo-Elements are Easier Than You Think originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/web-component-pseudo-classes-and-pseudo-elements/",
           "publishedOn": "2022-02-28T15:37:23.000Z",
-          "wordCount": 2422,
+          "wordCount": 2413,
           "title": "Web Component Pseudo-Classes and Pseudo-Elements are Easier Than You Think",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363929"
         },
@@ -31,7 +51,7 @@
           "description": "A fun deep dive from Zach. Do you have an opinion on which you should use?\n1) https://website.com/foo/\n2) https://websites.com/foo\nThe first option has a “trailing slash.” The second does not.\nI’ve always preferred this thinking: you use a trailing …\nTrailing Slashes on URLs: Contentious or Settled? originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/trailing-slashes-on-urls-contentious-or-settled/",
           "publishedOn": "2022-02-25T21:13:08.000Z",
-          "wordCount": 882,
+          "wordCount": 847,
           "title": "Trailing Slashes on URLs: Contentious or Settled?",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364070"
         },
@@ -41,7 +61,7 @@
           "description": "In my recent article about CSS underline bugs in Chrome, I discussed text-decoration-thickness and text-underline-offset, two relatively new and widely-supported CSS properties that give us more control over the styling of underlines.\nLet me demonstrate the usefulness of …\nWhen to Avoid the text-decoration Shorthand Property originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/when-to-avoid-css-text-decoration-shorthand/",
           "publishedOn": "2022-02-25T15:28:33.000Z",
-          "wordCount": 1254,
+          "wordCount": 1214,
           "title": "When to Avoid the text-decoration Shorthand Property",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363619"
         },
@@ -51,7 +71,7 @@
           "description": "If you’re looking for a primer on CSS specificity, we’ve got that. And if you’re trying to get ahead of the game, you should be aware of CSS Cascade Layers as well.\nOne of the ways to help get …\nManuel Matuzovic’s CSS Specificity Demo originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/manuel-matuzovics-css-specificity-demo/",
           "publishedOn": "2022-02-25T15:27:19.000Z",
-          "wordCount": 534,
+          "wordCount": 494,
           "title": "Manuel Matuzovic’s CSS Specificity Demo",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364152"
         },
@@ -61,7 +81,7 @@
           "description": "Nic Chan:\n[…] the will-change property landed in major browsers in August 2015, and I’ve been on the lookout for when to use it ever since. It might seem self-evident to apply it to commonly animated properties such \n…\nMy white whale: A use case for will-change originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/my-white-whale-a-use-case-for-will-change/",
           "publishedOn": "2022-02-24T20:59:29.000Z",
-          "wordCount": 644,
+          "wordCount": 623,
           "title": "My white whale: A use case for will-change",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364138"
         },
@@ -71,7 +91,7 @@
           "description": "For the past few weeks, I’ve been hiring for a senior full-stack JavaScript engineer at my rental furniture company, Pabio. Since we’re a remote team, we conduct our interviews on Zoom, and I’ve observed that some developers are not …\nExplain the First 10 Lines of Twitter’s Source Code to Me originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/explain-the-first-10-lines-of-twitter-source-code/",
           "publishedOn": "2022-02-24T15:31:55.000Z",
-          "wordCount": 6390,
+          "wordCount": 6369,
           "title": "Explain the First 10 Lines of Twitter’s Source Code to Me",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363553"
         },
@@ -81,7 +101,7 @@
           "description": "(This is a sponsored post.)\nIn recent years, the Jamstack methodology for building websites has become increasingly popular. Performance, scalable, and secure, it’s easy to see why it’s becoming an attractive way to build websites for developers.\nGatsbyJS is …\nSuperior Image Optimization: An Ideal Solution Using Gatsby & ImageEngine originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/superior-image-optimization-an-ideal-solution-using-gatsby-imageengine/",
           "publishedOn": "2022-02-24T15:31:49.000Z",
-          "wordCount": 2808,
+          "wordCount": 2792,
           "title": "Superior Image Optimization: An Ideal Solution Using Gatsby & ImageEngine",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363526"
         },
@@ -91,7 +111,7 @@
           "description": "Kinda silly sounding, isn’t it? CSS database queries. But, hey, CSS is capable of talking to other languages in the sense that it can set the values of things that they can read. Plus, CSS can request other files, and …\nCSS Database Queries? Sure We Can! originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/css-database-queries/",
           "publishedOn": "2022-02-23T20:04:39.000Z",
-          "wordCount": 746,
+          "wordCount": 789,
           "title": "CSS Database Queries? Sure We Can!",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363937"
         },
@@ -101,7 +121,7 @@
           "description": "Let’s face it: building an AA or AAA-accessible product can be quite daunting. Luckily, having an accessible product isn’t all-or-nothing. Even seemingly small improvements can have nice quality of life benefits for many people.\nIn that spirit, here are five …\n5 Accessibility Quick Wins You Can Implement Today originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/5-accessibility-quick-wins-you-can-implement-today/",
           "publishedOn": "2022-02-23T15:15:33.000Z",
-          "wordCount": 1848,
+          "wordCount": 1808,
           "title": "5 Accessibility Quick Wins You Can Implement Today",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363532"
         },
@@ -111,7 +131,7 @@
           "description": "That’s a damn one-two punch from Dave. He goes for the ultimate clickbait title¹, then follows up with a pile of epic advice for us all. If you want web browsers to get better, listen up:\nComplaining on \n…\nBefore I go: When it comes to complaining about web browsers originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/before-i-go-when-it-comes-to-complaining-about-web-browsers/",
           "publishedOn": "2022-02-22T20:06:57.000Z",
-          "wordCount": 628,
+          "wordCount": 588,
           "title": "Before I go: When it comes to complaining about web browsers",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363998"
         },
@@ -121,7 +141,7 @@
           "description": "On several occasions, I’ve needed to send off an HTTP request with some data to log when a user does something like navigate to a different page or submit a form. Consider this contrived example of sending some information to …\nReliably Send an HTTP Request as a User Leaves a Page originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/send-an-http-request-on-page-exit/",
           "publishedOn": "2022-02-22T15:24:01.000Z",
-          "wordCount": 2597,
+          "wordCount": 2557,
           "title": "Reliably Send an HTTP Request as a User Leaves a Page",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363511"
         },
@@ -131,29 +151,9 @@
           "description": "This is your complete guide to CSS cascade layers, a CSS feature that allows us to define explicit contained layers of specificity, so that we have full control over which styles take priority in a project without relying on specificity …\nA Complete Guide to CSS Cascade Layers originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/css-cascade-layers/",
           "publishedOn": "2022-02-21T15:40:35.000Z",
-          "wordCount": 9217,
+          "wordCount": 9462,
           "title": "A Complete Guide to CSS Cascade Layers",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363766"
-        },
-        {
-          "id": "https://css-tricks.com/?p=363467",
-          "author": "Hugh Haworth",
-          "description": "Being able to understand Node continues to be an important skill if you’re a front-end developer. Deno has arrived as another way to run JavaScript outside the browser, but the huge ecosystem of tools and software built with Node mean …\nComparing Node JavaScript to JavaScript in the Browser originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/node-javascript-compared-to-javascript/",
-          "publishedOn": "2022-02-18T19:01:08.000Z",
-          "wordCount": 3738,
-          "title": "Comparing Node JavaScript to JavaScript in the Browser",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363467"
-        },
-        {
-          "id": "https://css-tricks.com/?p=363911",
-          "author": "Chris Coyier",
-          "description": "I linked to Jay’s front-end predictions last year and I think they panned out pretty well. I think he’s got a bit of a knack for that wide-scope look at front-end, including tooling and architecture, as well as browser tech. …\n(Jay Freestone’s) Front-End Predictions for 2022 originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/jay-freestone-front-end-predictions-for-2022/",
-          "publishedOn": "2022-02-18T15:34:39.000Z",
-          "wordCount": 1091,
-          "title": "(Jay Freestone’s) Front-End Predictions for 2022",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363911"
         }
       ]
     },
@@ -163,12 +163,22 @@
       "siteUrl": "https://rastalion.me",
       "articles": [
         {
+          "id": "https://rastalion.me/?p=2468",
+          "author": "Rasta Lion",
+          "description": "DBeaver에서 java heap space 부족이라고 나올때 DB를 관리하는 툴중에 DBeaver라는 툴이 있습니다. 커뮤니티 버전은 프리웨어이기도 하고, 엔터프라이즈 버전은 낮은 가격에도 강력한 부가 기능들이 있어 주로 사용하는 DB툴입니다. DBeaver에서 대용량 테이블을 이관하거나 CSV 파일들의 작업을...\nThe post DBeaver에서 java heap space 부족이라고 나올때 appeared first on RastaLion's IT Blog.",
+          "link": "https://rastalion.me/dbeaver%ec%97%90%ec%84%9c-java-heap-space-%eb%b6%80%ec%a1%b1%ec%9d%b4%eb%9d%bc%ea%b3%a0-%eb%82%98%ec%98%ac%eb%95%8c/",
+          "publishedOn": "2022-03-01T15:22:02.000Z",
+          "wordCount": 504,
+          "title": "DBeaver에서 java heap space 부족이라고 나올때",
+          "imageUrl": "https://rastalion.me/wp-content/uploads/2021/04/sm_5b46d890d85b8.jpg"
+        },
+        {
           "id": "https://rastalion.me/?p=2458",
           "author": "Rasta Lion",
           "description": "파이썬 입문의 베스트 셀러 Do it! 점프 투 파이썬 입니다. 개정판으로 나왔고 저자 분이 위키독스의 운영자분이시기 때문에 웹에서도 무료로 볼수 있는 책입니다. 책을 완독한 후기는 정말 입문용으로는 최고의 도서입니다. 이 책만 완독했다고 해서 프로그래밍에...\nThe post [추천도서] Do it! 점프 투 파이썬 appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/%ec%b6%94%ec%b2%9c%eb%8f%84%ec%84%9c-do-it-%ec%a0%90%ed%94%84-%ed%88%ac-%ed%8c%8c%ec%9d%b4%ec%8d%ac/",
           "publishedOn": "2022-02-05T07:10:52.000Z",
-          "wordCount": 712,
+          "wordCount": 718,
           "title": "[추천도서] Do it! 점프 투 파이썬",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2022/02/k582635822_1.jpg"
         }
@@ -179,6 +189,66 @@
       "feedUrl": "https://news.hada.io/rss/news",
       "siteUrl": "https://news.hada.io",
       "articles": [
+        {
+          "id": "https://news.hada.io/topic?id=6070",
+          "author": null,
+          "description": "경구용 코로나19 치료제 ‘팍스로비드’\n실용적인 핵융합로\n비밀번호의 종말\n단백질 접힘 예측용 AI\n지분증명\n오래 지속되는 전력망용 배터리\n인공지능을 위한 합성 데이터\n말라리아 백신\n탄소 제거 공장\n코로나 변이 추적...",
+          "link": "https://news.hada.io/topic?id=6070",
+          "publishedOn": "2022-03-02T00:51:01.000Z",
+          "wordCount": 152,
+          "title": "MIT 테크놀로지 리뷰 ‘2022년 10대 기술’ 발표",
+          "imageUrl": "https://social.news.hada.io/topic/6070"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6069",
+          "author": null,
+          "description": "카드에 파이썬 코드가 적혀있고, 20면 주사위를 굴려서 나온 수를 가지고 코드가 동작하는 것을 이해하기\n총 55장으로 구성\n파이썬 기본 문법부터 블룸필터, 딕셔너리, 람다, 그래프, Bayes정리, 링크드리스트등 다양한 주제\n직접 프린트하면 무료, 1덱에 10€/배송비 10€",
+          "link": "https://news.hada.io/topic?id=6069",
+          "publishedOn": "2022-03-02T00:28:02.000Z",
+          "wordCount": 148,
+          "title": "Programming Time - 아이에게 카드게임으로 파이썬 가르치기",
+          "imageUrl": "https://social.news.hada.io/topic/6069"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6068",
+          "author": null,
+          "description": "JS 개발자를 위한 Rust 입문서\nJavascript/Node.js 의 컨셉트와 워크플로우를 Rust 에코시스템으로 매핑\n총 24일간 진행되었던 가이드를 하나로 엮은 것\n목차중 일부\n\nnvm → rustup\nnpm → cargo\nBorrowing & Ownership, 문자열, 문법과 언어\n...",
+          "link": "https://news.hada.io/topic?id=6068",
+          "publishedOn": "2022-03-02T00:12:01.000Z",
+          "wordCount": 102,
+          "title": "Javascript to Rust e북(PDF)",
+          "imageUrl": "https://social.news.hada.io/topic/6068"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6067",
+          "author": null,
+          "description": "시스코의 Talos가 발견한 보안 문제점\nHancom Office의 HwordApp.dll에서 발견된 문제로 메모리 관련하여 보안 결함 보고가 있었음.\n한컴 오피스 2020 사용자들은  반드시 최신 보안 패치를 설치해야 함.\nhttps://www.hancom.com/cs_center/csDownload.do",
+          "link": "https://news.hada.io/topic?id=6067",
+          "publishedOn": "2022-03-01T06:08:46.000Z",
+          "wordCount": 80,
+          "title": "한컴 오피스 보안 버그",
+          "imageUrl": "https://social.news.hada.io/topic/6067"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6066",
+          "author": null,
+          "description": "스냅드래곤 8cx Gen3 칩 사용한 첫번째 Windows-on-Arm 씽크패드\n5나노, 4개의 Arm Cortex-X1 코어(3Ghz), 4개의 Cortex-A78코어(2.4Ghz)\n13.3인치, 1920x1200, 두께 1.34cm, 무게 1.06kg\n49.5 WHr 배터리로 28시간 사용 가능\n32GB LPDDR4x, 1TB PCIe 4.0 SSD\n5G...",
+          "link": "https://news.hada.io/topic?id=6066",
+          "publishedOn": "2022-03-01T01:21:35.000Z",
+          "wordCount": 134,
+          "title": "Lenovo, 첫번째 Arm 기반 ThinkPad X13s 발표",
+          "imageUrl": "https://social.news.hada.io/topic/6066"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6065",
+          "author": null,
+          "description": "리눅스 소스코드에서 자신만의 리눅스 시스템을 만드는 가이드 프로젝트\nPDF / HTML 형태의 이북으로 제공\n서브 프로젝트들\n\nLFS : Linux From Scratch 메인 가이드 (377P)\nBLFS : Beyond LFS\n→ 완성한 LFS를 좀 더 커스터마이징하고 사용하기 쉽게 만드는 확장",
+          "link": "https://news.hada.io/topic?id=6065",
+          "publishedOn": "2022-03-01T01:06:59.000Z",
+          "wordCount": 151,
+          "title": "Linux From Scratch",
+          "imageUrl": "https://social.news.hada.io/topic/6065"
+        },
         {
           "id": "https://news.hada.io/topic?id=6064",
           "author": null,
@@ -205,7 +275,7 @@
           "description": "토스에서 최근 \"토스페이스\" 를 공개했습니다\nTossFace with Full Emoji List 프로젝트는 토스페이스가 다른 유니코드 이모지와 어떤 차이가 있는지 보여주기 위한 프로젝",
           "link": "https://news.hada.io/topic?id=6062",
           "publishedOn": "2022-02-28T15:12:09.000Z",
-          "wordCount": 107,
+          "wordCount": 1482,
           "title": "Show GN: 토스페이스\"tossface\"와 다른 유니코드 벤더 이모지 비교 페이지",
           "imageUrl": "https://social.news.hada.io/topic/6062"
         },
@@ -218,66 +288,6 @@
           "wordCount": 416,
           "title": "Monorepo에 대한 모든 것",
           "imageUrl": "https://social.news.hada.io/topic/6061"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6060",
-          "author": null,
-          "description": "가끔 사용자가 다른 페이지로 이동하거나, 폼 전송할 때 로그를 남기고 싶은 경우가 있음\n클릭 이벤트에 fetch를 넣는 것은 꼭 전송된다는 보장이 없음\n그래서 Fetch하고 나서 window.location 에 넣어서 이동해보지만 이것도 마찬가지로 보장 안됨\n\nXHR은 비동기 & 넌블록킹 이...",
-          "link": "https://news.hada.io/topic?id=6060",
-          "publishedOn": "2022-02-28T02:06:19.000Z",
-          "wordCount": 208,
-          "title": "사용자가 페이지를 떠날 때 안정적으로 HTTP 요청을 보내는 방법",
-          "imageUrl": "https://social.news.hada.io/topic/6060"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6059",
-          "author": null,
-          "description": "구독형인 Tinder Plus는 한개의 국가내에서도 최대 31가지의 다른 가격을 가지고 있으며, 누군가는 5배의 가격을 내기도 함\n6개국을 조사해 보니 30~49세가 18~29세보다 65.3% 더 비쌈\n→ 조사한 국가 중 네덜란드/한국/인도가 가장 가격 ...",
-          "link": "https://news.hada.io/topic?id=6059",
-          "publishedOn": "2022-02-28T01:55:05.000Z",
-          "wordCount": 160,
-          "title": "Tinder의 불투명/불공정한 가격 책정 알고리듬은 사용자에 따라 5배까지 차이가 난다",
-          "imageUrl": "https://social.news.hada.io/topic/6059"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6058",
-          "author": null,
-          "description": "ES2022 같은 스펙 문서 읽는 방법을, 마치 스펙 문서처럼 표현/정리해서 설명한 글\n왜 읽어야 할까? : 모든 JavaScript 구현의 동작에 대한 가장 권위 있는 소스이기 때문\n\n브라우저, Node.js, IoT 기기 어디에서든\nECMAScript 스펙에 포함된 것과 포함되지 않은 것",
-          "link": "https://news.hada.io/topic?id=6058",
-          "publishedOn": "2022-02-28T01:43:14.000Z",
-          "wordCount": 172,
-          "title": "ECMAScript 스펙을 읽는 법",
-          "imageUrl": "https://social.news.hada.io/topic/6058"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6057",
-          "author": null,
-          "description": "PostgreSQL을 위한 새로운 스토리지 엔진\n새로운 테이블 액세스 프레임워크와 표준 확장 인터페이스를 사용해서 PostgreSQL의 일부 힘든 문제들을 해결\nSSD/NVRAM등의 최신 하드웨어에 최적화하여 CPU 보틀넥을 회피\nUndo Log와 Page-Mergins로 개비지 콜렉션을 없애서 유지 보수 필...",
-          "link": "https://news.hada.io/topic?id=6057",
-          "publishedOn": "2022-02-28T01:31:53.000Z",
-          "wordCount": 210,
-          "title": "OrioleDB - 클라우드 네이티브 스토리지 엔진",
-          "imageUrl": "https://social.news.hada.io/topic/6057"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6056",
-          "author": null,
-          "description": "내부 비즈니스 담당자들이 다양한 데이터를 자연어로 쿼리할 수 있는 Qurious라는 차세대 시스템을 구성\n아키텍처\n\n슬랙/웹앱에서 질문 가능\n질문은 구글 클라우드 로드밸런서/NgRoutes 통해서 GKE에 있는 Qurious앱으로 전...",
-          "link": "https://news.hada.io/topic?id=6056",
-          "publishedOn": "2022-02-28T01:19:32.000Z",
-          "wordCount": 126,
-          "title": "트위터가 자연언어 쿼리로 데이터 인사이트 도출하는 법",
-          "imageUrl": "https://social.news.hada.io/topic/6056"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6055",
-          "author": null,
-          "description": "대용량 파일도 빠르게 볼 수 있는 로그 뷰어\n갱신 멈춤 가능한 Tail 기능\n모든 로그파일의 특정 날짜/시간으로 이동 가능\n정규식을 이용한 문자열 하이라이팅\n여러 종류의 로그를 동시에 하이라이트 가능하게 그룹화 가능\n키보드로 모든 기능 지원\nJava...",
-          "link": "https://news.hada.io/topic?id=6055",
-          "publishedOn": "2022-02-27T01:06:01.000Z",
-          "wordCount": 129,
-          "title": "LogFX - 멀티플랫폼 오픈소스 로그 뷰어",
-          "imageUrl": "https://social.news.hada.io/topic/6055"
         }
       ]
     },
@@ -287,12 +297,22 @@
       "siteUrl": "https://jojoldu.tistory.com/",
       "articles": [
         {
+          "id": "https://jojoldu.tistory.com/640",
+          "author": "향로",
+          "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\n랠릿 서비스 를 오픈하고 참여자들의 개인 소감을 다들 작성하는 시간을 가졌다. \n실제 프로젝트의 프로세스 방식, QA 방식등을 전체적인 회고는 내일 (2022.03.02) 진행할 예정인데, 그 전에 각자 어땠는지 소감을 작성하는 시간을 2월에 가졌다.\n이번 글은 사내에 공유한 소감글을 블로그로 옮겼다.\n루비콘 프로젝트에서 진행한 프로젝트 방식 / 백엔드 프로젝트 방식 등은 TF 회고가 끝나고 올라갈 예정이다. \n이건 프로젝트에 참여한 개인적인 짧은 생각들만 정리했다.\n프로젝트 구성원들의 전체 소감은 3월안에 링크로 공유될 예정이다.\n일정\n프로젝트는 7월에 시작되어, 1월 27일에 정식 오픈하였다. \n중간 투입된 분들은 잘 모르실 수 있지만, 초기에 대표님과 PO 1분이 같이 사용자 스토리 잡는 것이 7월부터였다.\n7 ~ 8월: 사용자스토리, 와이어프레임\n9월: 디자인 구체화 / 도메인 & 개발환경 설계\n10월 ~ 12월: 개발\n12월 ~ 1월: QA 및 남은 기능 구현\n공식적으로는 약 7개월간 진행된 것이다.\n다만, 본격적으로 개발은 9월부터 진행되어 3개월간 개발하여 12월부터 QA를 하게 됐다.\n(9월 2일, 3일에 시작된 첫커밋)\n개발 기간만 보면 짧았지만, 전체 일정을 보면 결코 짧은 일정은 아니였다. \n7개월이란 시간이 빡빡하게 느껴진 것은 이 기간 안에서 비효율적으로 낭비되는 시간이 많았기 때문이…",
+          "link": "https://jojoldu.tistory.com/640",
+          "publishedOn": "2022-03-01T13:51:53.000Z",
+          "wordCount": 1402,
+          "title": "루비콘 프로젝트 (랠릿 오픈 프로젝트) 소감",
+          "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbdAIbH%2FbtruITrAVSl%2FSH5wfXmM2yaUadAK9kuS90%2Fimg.png"
+        },
+        {
           "id": "https://jojoldu.tistory.com/639",
           "author": "향로",
           "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\n최근 팀에서 코드리뷰를 진행하던 중에 promise.all 과 트랜잭션에 대해 오해하고 있는 부분들을 발견하게 되어 정리하게 되었습니다.\nPromise.all (혹은 allSettled)을 사용하면 트랜잭션 내에서도 비동기로 여러 작업들이 동시에 이루어질 수 있다고 오해하는 것인데요. \n실험을 해보면 그게 아니라는 것을 알 수 있습니다.\n실제 코드를 가지고 검증해보겠습니다.\n모든 실험 결과에 대해서 틀린 내용이 있다면 바로 댓글로 지적해주세요! \n모든 지적은 저의 성장에 많은 도움이 되기 때문에 감사한 마음으로 수정하겠습니다 :)\n0. 테스트 환경\n테스트할 환경은 다음과 같습니다.\nNode.js 16.3.1\nPostgreSQL 13.2\n모든 코드는 Github 에 있습니다.\n1. Promise.all\n먼저 promise.all 에 대해서 알아보겠습니다. \n(이미 아시겠지만, 이후 테스트를 설명하기 위한 배경 설명으로 봐주시면 됩니다.)\n테스트를 위해 다음과 같이 2개의 함수를 만들겠습니다.\nexport function sleep(sec) {\n    const start = performance.now();\n    return new Promise(resolve=>{\n        setTimeout(resolve, sec * 1000);\n    }).then(() => {\n        console.log…",
           "link": "https://jojoldu.tistory.com/639",
           "publishedOn": "2022-02-28T14:05:44.000Z",
-          "wordCount": 1409,
+          "wordCount": 1411,
           "title": "Promise.all 과 Transactions (feat. Node.js)",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FziO3a%2FbtruLtSuE7m%2FK95dBn4FuwdIr8xSRM2FIK%2Fimg.png"
         },
@@ -302,7 +322,7 @@
           "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\nNodeJS 기반의 백엔드에서는 NestJS, RoutingControllers 등 최근 대세가 되는 MVC 프레임워크들이 모두 Class를 기반으로 한 DI (Dependency Injection) 방식을 사용하고 있다.\n그러다보니 Jest의 Mocking 방식은 백엔드 NodeJS 환경에서 적합한 도구는 아닐 수 있다. \n특히, Mock/Stub 객체 생성에 불편한 점이 많다.\n그래서 Test Runner로서 Jest는 사용하더라도, Mock 라이브러리는 다른 것을 사용하는 것을 추천하는데, 그 중 대표적인 것들은 다음과 같다.\nts-mockito\nsinonjs\njest-mock-extended\n이번 글에서는 그 중 ts-mockito 를 통한 테스트 더블 (Mock, Stub 등) 활용법을 알아본다.\n1. Jest 와 ts-mockito 비교\n먼저 기존 Jest 방식이 왜 불편한지 보자.\nJest로 객체 Mock/Stub 하는것에 대한 불편함만 다룬다. \n이외에는 Jest는 장점이 많은 테스트 프레임워크이다.\n테스트할 메인 코드는 다음과 같다.\nexport class OrderService {\n    constructor(\n        private readonly orderRepository: OrderRepository,\n        ) {\n    }\n\n    validateCompletedOr…",
           "link": "https://jojoldu.tistory.com/638",
           "publishedOn": "2022-02-21T01:33:06.000Z",
-          "wordCount": 1312,
+          "wordCount": 1314,
           "title": "jest.mock 보다 ts-mockito 사용하기 (feat. Node.js)",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FyDHv8%2FbtrtKCYT5Rm%2FFrJHxHENdmXT37oOchhOgK%2Fimg.png"
         },
@@ -312,7 +332,7 @@
           "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\n간혹 Service 계층을 항상 통합 테스트로만 작성하는 경우를 보게됩니다. \n모든 Service를 통합 테스트 혹은 E2E 테스트로만 검증하기 보다는 상황에 따라 적절한 Stub을 사용하여 단위 테스트로 작성한다면 전체 테스트 속도 향상에 도움이 됩니다.\n몇가지 예제를 통해 Stub을 사용하는 단위 테스트 코드를 보겠습니다.\n모든 코드는 Github 에 있습니다..\n예제 1.\n첫번째 예제로 다음과 같은 서비스 로직에 대한 단위 테스트입니다.\nexport class OrderService {\n    constructor(private readonly orderRepository: OrderRepository) {\n    }\n\n    validateCompletedOrder(orderId: number): void {\n        const order = this.orderRepository.findById(orderId);\n        if(order.isNotCompleted()) {\n            throw new Error('아직 완료처리되지 못했습니다.');\n        }\n    }\n}\n코드의 흐름을 이야기해보면\norderRepository를 통해 주문을 조회한다\n조회된 주문 상태가 완료가 아니면 메세지와 함께 에러가 발생한다\n조회된 주문 상태가 완료처리인 경우 그대로 메소드가 종료\n여…",
           "link": "https://jojoldu.tistory.com/637",
           "publishedOn": "2022-02-12T10:52:06.000Z",
-          "wordCount": 1418,
+          "wordCount": 1420,
           "title": "Stub 을 이용한 Service 계층 단위 테스트 하기",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FuafVI%2Fbtrs7lXnos1%2FUrCOOiX7kXaZcBnmJixBL0%2Fimg.png"
         }
