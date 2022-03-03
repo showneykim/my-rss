@@ -6,12 +6,32 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=364350",
+          "author": "Chris Coyier",
+          "description": "I have a handful of good links to articles about performance that are burning a hole in my bookmarks folder, and wanna drop them here to share.\nThe new WebPageTest website design\nFrom fonts to SVG: an icon migration strategy\n…\n7 Fresh Links on Performance For March 2022 originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/performance-links-february-2022/",
+          "publishedOn": "2022-03-02T21:26:50.000Z",
+          "wordCount": 840,
+          "title": "7 Fresh Links on Performance For March 2022",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364350"
+        },
+        {
+          "id": "https://css-tricks.com/?p=363882",
+          "author": "Silvestar Bistrović",
+          "description": "“Raise the curtains” is what I call an effect where the background goes from dark to light on scroll, and the content on top also goes from light to dark while in a sticky position.\nHere’s an example where I …\nHow to Make a “Raise the Curtains” Effect in CSS originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/css-raise-the-curtains-effect/",
+          "publishedOn": "2022-03-02T15:57:32.000Z",
+          "wordCount": 1206,
+          "title": "How to Make a “Raise the Curtains” Effect in CSS",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363882"
+        },
+        {
           "id": "https://css-tricks.com/?p=363724",
           "author": "Patrick Brosset",
           "description": "Styling ranges of text in software is a very useful thing to be able to do. Thankfully, we have the CSS Custom Highlight API to look forward to because it represents the future of styling text ranges on the web.…\nCSS Custom Highlight API: The Future of Highlighting Text Ranges on the Web originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/css-custom-highlight-api-early-loo/",
           "publishedOn": "2022-03-01T17:41:13.000Z",
-          "wordCount": 2472,
+          "wordCount": 2489,
           "title": "CSS Custom Highlight API: The Future of Highlighting Text Ranges on the Web",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363724"
         },
@@ -31,7 +51,7 @@
           "description": "I enjoy articles like Hartley Charlton’s “Microsoft Edge Looks Set to Overtake Safari as World’s Second Most Popular Desktop Browser.” It’s juicy! We know these massive players in the browser market care very much about their market share, so when …\nIE Down, Edge Up… Global Browser Usage Stats Are for Cocktail Parties and Conference Slides originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/ie-down-edge-up-global-browser-usage-stats-are-for-cocktail-parties-and-conference-slides/",
           "publishedOn": "2022-02-28T23:14:29.000Z",
-          "wordCount": 878,
+          "wordCount": 940,
           "title": "IE Down, Edge Up… Global Browser Usage Stats Are for Cocktail Parties and Conference Slides",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364346"
         },
@@ -41,7 +61,7 @@
           "description": "We’ve discussed a lot about the internals of using CSS in this ongoing series on web components, but there are a few special pseudo-elements and pseudo-classes that, like good friends, willingly smell your possibly halitotic breath before you go …\nWeb Component Pseudo-Classes and Pseudo-Elements are Easier Than You Think originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/web-component-pseudo-classes-and-pseudo-elements/",
           "publishedOn": "2022-02-28T15:37:23.000Z",
-          "wordCount": 2413,
+          "wordCount": 2478,
           "title": "Web Component Pseudo-Classes and Pseudo-Elements are Easier Than You Think",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363929"
         },
@@ -81,7 +101,7 @@
           "description": "Nic Chan:\n[…] the will-change property landed in major browsers in August 2015, and I’ve been on the lookout for when to use it ever since. It might seem self-evident to apply it to commonly animated properties such \n…\nMy white whale: A use case for will-change originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/my-white-whale-a-use-case-for-will-change/",
           "publishedOn": "2022-02-24T20:59:29.000Z",
-          "wordCount": 623,
+          "wordCount": 604,
           "title": "My white whale: A use case for will-change",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364138"
         },
@@ -91,7 +111,7 @@
           "description": "For the past few weeks, I’ve been hiring for a senior full-stack JavaScript engineer at my rental furniture company, Pabio. Since we’re a remote team, we conduct our interviews on Zoom, and I’ve observed that some developers are not …\nExplain the First 10 Lines of Twitter’s Source Code to Me originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/explain-the-first-10-lines-of-twitter-source-code/",
           "publishedOn": "2022-02-24T15:31:55.000Z",
-          "wordCount": 6369,
+          "wordCount": 6591,
           "title": "Explain the First 10 Lines of Twitter’s Source Code to Me",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363553"
         },
@@ -101,7 +121,7 @@
           "description": "(This is a sponsored post.)\nIn recent years, the Jamstack methodology for building websites has become increasingly popular. Performance, scalable, and secure, it’s easy to see why it’s becoming an attractive way to build websites for developers.\nGatsbyJS is …\nSuperior Image Optimization: An Ideal Solution Using Gatsby & ImageEngine originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/superior-image-optimization-an-ideal-solution-using-gatsby-imageengine/",
           "publishedOn": "2022-02-24T15:31:49.000Z",
-          "wordCount": 2792,
+          "wordCount": 2773,
           "title": "Superior Image Optimization: An Ideal Solution Using Gatsby & ImageEngine",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363526"
         },
@@ -111,7 +131,7 @@
           "description": "Kinda silly sounding, isn’t it? CSS database queries. But, hey, CSS is capable of talking to other languages in the sense that it can set the values of things that they can read. Plus, CSS can request other files, and …\nCSS Database Queries? Sure We Can! originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/css-database-queries/",
           "publishedOn": "2022-02-23T20:04:39.000Z",
-          "wordCount": 789,
+          "wordCount": 815,
           "title": "CSS Database Queries? Sure We Can!",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363937"
         },
@@ -134,26 +154,6 @@
           "wordCount": 588,
           "title": "Before I go: When it comes to complaining about web browsers",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363998"
-        },
-        {
-          "id": "https://css-tricks.com/?p=363511",
-          "author": "Alex MacArthur",
-          "description": "On several occasions, I’ve needed to send off an HTTP request with some data to log when a user does something like navigate to a different page or submit a form. Consider this contrived example of sending some information to …\nReliably Send an HTTP Request as a User Leaves a Page originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/send-an-http-request-on-page-exit/",
-          "publishedOn": "2022-02-22T15:24:01.000Z",
-          "wordCount": 2557,
-          "title": "Reliably Send an HTTP Request as a User Leaves a Page",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363511"
-        },
-        {
-          "id": "https://css-tricks.com/?p=363766",
-          "author": "Miriam Suzanne",
-          "description": "This is your complete guide to CSS cascade layers, a CSS feature that allows us to define explicit contained layers of specificity, so that we have full control over which styles take priority in a project without relying on specificity …\nA Complete Guide to CSS Cascade Layers originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/css-cascade-layers/",
-          "publishedOn": "2022-02-21T15:40:35.000Z",
-          "wordCount": 9462,
-          "title": "A Complete Guide to CSS Cascade Layers",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363766"
         }
       ]
     },
@@ -168,7 +168,7 @@
           "description": "DBeaver에서 java heap space 부족이라고 나올때 DB를 관리하는 툴중에 DBeaver라는 툴이 있습니다. 커뮤니티 버전은 프리웨어이기도 하고, 엔터프라이즈 버전은 낮은 가격에도 강력한 부가 기능들이 있어 주로 사용하는 DB툴입니다. DBeaver에서 대용량 테이블을 이관하거나 CSV 파일들의 작업을...\nThe post DBeaver에서 java heap space 부족이라고 나올때 appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/dbeaver%ec%97%90%ec%84%9c-java-heap-space-%eb%b6%80%ec%a1%b1%ec%9d%b4%eb%9d%bc%ea%b3%a0-%eb%82%98%ec%98%ac%eb%95%8c/",
           "publishedOn": "2022-03-01T15:22:02.000Z",
-          "wordCount": 504,
+          "wordCount": 540,
           "title": "DBeaver에서 java heap space 부족이라고 나올때",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2021/04/sm_5b46d890d85b8.jpg"
         },
@@ -178,7 +178,7 @@
           "description": "파이썬 입문의 베스트 셀러 Do it! 점프 투 파이썬 입니다. 개정판으로 나왔고 저자 분이 위키독스의 운영자분이시기 때문에 웹에서도 무료로 볼수 있는 책입니다. 책을 완독한 후기는 정말 입문용으로는 최고의 도서입니다. 이 책만 완독했다고 해서 프로그래밍에...\nThe post [추천도서] Do it! 점프 투 파이썬 appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/%ec%b6%94%ec%b2%9c%eb%8f%84%ec%84%9c-do-it-%ec%a0%90%ed%94%84-%ed%88%ac-%ed%8c%8c%ec%9d%b4%ec%8d%ac/",
           "publishedOn": "2022-02-05T07:10:52.000Z",
-          "wordCount": 718,
+          "wordCount": 720,
           "title": "[추천도서] Do it! 점프 투 파이썬",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2022/02/k582635822_1.jpg"
         }
@@ -190,12 +190,62 @@
       "siteUrl": "https://news.hada.io",
       "articles": [
         {
+          "id": "https://news.hada.io/topic?id=6075",
+          "author": null,
+          "description": "Jupyter Notebook 으로 정리\n2번째 시도에서 맞췄다면 나는 잘하는 걸까? 아님 운이 좋은 걸까?\n처음에 가장 좋은 단어는 BRUTE/CHANT/FILET 이지만 그나마 2% 밖에 되지 않음\nHANDY,SWIFT,GLOVE,CRUMP 4개의 단어를 사용하면 100% 6번 안에 맞출 수 있음\n\nChristos는 ARIS...",
+          "link": "https://news.hada.io/topic?id=6075",
+          "publishedOn": "2022-03-03T00:44:03.000Z",
+          "wordCount": 117,
+          "title": "Wordle 잘하는 법",
+          "imageUrl": "https://social.news.hada.io/topic/6075"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6074",
+          "author": null,
+          "description": "Pong을 스페이스바 또는 화면 탭하는 싱글 버튼 누르는 게임으로 트위킹한 것\n모든 스프라이트와 사운드는 별도 애셋을 로드하지 않고 Javascript 코드에서 생성됨\n\n...",
+          "link": "https://news.hada.io/topic?id=6074",
+          "publishedOn": "2022-03-03T00:24:45.000Z",
+          "wordCount": 107,
+          "title": "Almost Pong",
+          "imageUrl": "https://social.news.hada.io/topic/6074"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6073",
+          "author": null,
+          "description": "MuZero가 유튜브와의 협업으로 오픈소스 VP9 코덱의 비디오 압축을 최적화\nAlphaGo 나 후속버전인 AlphaZero는 모두 게임 규칙을 사전학습했음\n그 후속인 MuZero는 룰에 대한 지식이나 학습없이도 체스,바둑 등을 마스터 가능\n유튜브 영상에 강화학습을 적용함으로써, 동영상 품질 ...",
+          "link": "https://news.hada.io/topic?id=6073",
+          "publishedOn": "2022-03-03T00:08:03.000Z",
+          "wordCount": 130,
+          "title": "딥마인드 MuZero AI가 유튜브 비디오 압축을 개선",
+          "imageUrl": "https://social.news.hada.io/topic/6073"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6072",
+          "author": null,
+          "description": "대부분의 인수자들은 (인수 전부터) 인수 대상과 관계를 만들었음. 회사의 미래에 M&A를 생각하고 있다면 리더들은 파트너 및 잠재적 인수자들과 관계를 만들기 시작해야 함\n스타트업은 기업이 아닌 개인에게 판매됨. 스타트업 인수는 챔피언(종종 제품 리더, CEO 또는 일반 관리자)의 커리어에 위...",
+          "link": "https://news.hada.io/topic?id=6072",
+          "publishedOn": "2022-03-02T01:51:02.000Z",
+          "wordCount": 495,
+          "title": "약 5조원 규모의 스타트업 M&A들을 진행하며 배운 것",
+          "imageUrl": "https://social.news.hada.io/topic/6072"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6071",
+          "author": null,
+          "description": "이제 C# 10 및 F# 6 으로 람다 개발 가능\nx86 및 Arm/Graviton2 프로세서 지원\nAWS Toolkit for Visual Studio 2022 / Amazon.Lambda.Tools / AWS SAM CLI 에서도 모두 지원하게 업데이트\n\n...",
+          "link": "https://news.hada.io/topic?id=6071",
+          "publishedOn": "2022-03-02T01:25:02.000Z",
+          "wordCount": 90,
+          "title": "AWS Lambda, .NET 6 런타임 지원 시작",
+          "imageUrl": "https://social.news.hada.io/topic/6071"
+        },
+        {
           "id": "https://news.hada.io/topic?id=6070",
           "author": null,
           "description": "경구용 코로나19 치료제 ‘팍스로비드’\n실용적인 핵융합로\n비밀번호의 종말\n단백질 접힘 예측용 AI\n지분증명\n오래 지속되는 전력망용 배터리\n인공지능을 위한 합성 데이터\n말라리아 백신\n탄소 제거 공장\n코로나 변이 추적...",
           "link": "https://news.hada.io/topic?id=6070",
           "publishedOn": "2022-03-02T00:51:01.000Z",
-          "wordCount": 152,
+          "wordCount": 187,
           "title": "MIT 테크놀로지 리뷰 ‘2022년 10대 기술’ 발표",
           "imageUrl": "https://social.news.hada.io/topic/6070"
         },
@@ -238,56 +288,6 @@
           "wordCount": 134,
           "title": "Lenovo, 첫번째 Arm 기반 ThinkPad X13s 발표",
           "imageUrl": "https://social.news.hada.io/topic/6066"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6065",
-          "author": null,
-          "description": "리눅스 소스코드에서 자신만의 리눅스 시스템을 만드는 가이드 프로젝트\nPDF / HTML 형태의 이북으로 제공\n서브 프로젝트들\n\nLFS : Linux From Scratch 메인 가이드 (377P)\nBLFS : Beyond LFS\n→ 완성한 LFS를 좀 더 커스터마이징하고 사용하기 쉽게 만드는 확장",
-          "link": "https://news.hada.io/topic?id=6065",
-          "publishedOn": "2022-03-01T01:06:59.000Z",
-          "wordCount": 151,
-          "title": "Linux From Scratch",
-          "imageUrl": "https://social.news.hada.io/topic/6065"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6064",
-          "author": null,
-          "description": "PostgreSQL/MySQL에 있는 JSON 연산자와 호환\n3.38 부터는 JSON 지원이 기본으로 활성화 되어 컴파일시에 옵션 줄 필요 없음\n\n...",
-          "link": "https://news.hada.io/topic?id=6064",
-          "publishedOn": "2022-03-01T00:47:47.000Z",
-          "wordCount": 94,
-          "title": "SQLite 3.38.0에 JSON 쿼리 연산자 추가",
-          "imageUrl": "https://social.news.hada.io/topic/6064"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6063",
-          "author": null,
-          "description": "깃헙이 각종 보안 권고사항을 모아서 관리하던 GitHub Advisory Database를 퍼블릭 레포지토리에 공개\n누구나 볼 수 있고, 기여하는 것도 가능\n→ 보안 권고를 쉽게 추가할 수 있는 인터페이스도 추가\n\n...",
-          "link": "https://news.hada.io/topic?id=6063",
-          "publishedOn": "2022-03-01T00:22:28.000Z",
-          "wordCount": 92,
-          "title": "GitHub의 보안 권고 데이터베이스가 오픈소스로 공개",
-          "imageUrl": "https://social.news.hada.io/topic/6063"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6062",
-          "author": null,
-          "description": "토스에서 최근 \"토스페이스\" 를 공개했습니다\nTossFace with Full Emoji List 프로젝트는 토스페이스가 다른 유니코드 이모지와 어떤 차이가 있는지 보여주기 위한 프로젝",
-          "link": "https://news.hada.io/topic?id=6062",
-          "publishedOn": "2022-02-28T15:12:09.000Z",
-          "wordCount": 1482,
-          "title": "Show GN: 토스페이스\"tossface\"와 다른 유니코드 벤더 이모지 비교 페이지",
-          "imageUrl": "https://social.news.hada.io/topic/6062"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6061",
-          "author": null,
-          "description": "Monorepo란 무엇인가\n\"여러 개의 개별 프로젝트를, 잘 정의된 관계를 통해서 하나의 Repo에 담은 것\"\nMonorepo ≠ Monolith\n왜 해야할까 ?\n기존의 Polyrepo(여러개의 Repo를 사용하던 방식)를 선택한 이유는 \"팀 자율성(team autonomy)\" 때...",
-          "link": "https://news.hada.io/topic?id=6061",
-          "publishedOn": "2022-02-28T02:50:12.000Z",
-          "wordCount": 416,
-          "title": "Monorepo에 대한 모든 것",
-          "imageUrl": "https://social.news.hada.io/topic/6061"
         }
       ]
     },

@@ -1,10 +1,102 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-02T01:12:22.409Z</id>
+    <id>urn:2022-03-03T01:14:00.964Z</id>
     <title>osmos::feed</title>
-    <updated>2022-03-02T01:12:22.410Z</updated>
+    <updated>2022-03-03T01:14:00.964Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Wordle 잘하는 법]]></title>
+        <id>https://news.hada.io/topic?id=6075</id>
+        <link href="https://news.hada.io/topic?id=6075"/>
+        <updated>2022-03-03T00:44:03.000Z</updated>
+        <summary type="html"><![CDATA[Jupyter Notebook 으로 정리
+2번째 시도에서 맞췄다면 나는 잘하는 걸까? 아님 운이 좋은 걸까?
+처음에 가장 좋은 단어는 BRUTE/CHANT/FILET 이지만 그나마 2% 밖에 되지 않음
+HANDY,SWIFT,GLOVE,CRUMP 4개의 단어를 사용하면 100% 6번 안에 맞출 수 있음
+
+Christos는 ARIS...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Almost Pong]]></title>
+        <id>https://news.hada.io/topic?id=6074</id>
+        <link href="https://news.hada.io/topic?id=6074"/>
+        <updated>2022-03-03T00:24:45.000Z</updated>
+        <summary type="html"><![CDATA[Pong을 스페이스바 또는 화면 탭하는 싱글 버튼 누르는 게임으로 트위킹한 것
+모든 스프라이트와 사운드는 별도 애셋을 로드하지 않고 Javascript 코드에서 생성됨
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[딥마인드 MuZero AI가 유튜브 비디오 압축을 개선]]></title>
+        <id>https://news.hada.io/topic?id=6073</id>
+        <link href="https://news.hada.io/topic?id=6073"/>
+        <updated>2022-03-03T00:08:03.000Z</updated>
+        <summary type="html"><![CDATA[MuZero가 유튜브와의 협업으로 오픈소스 VP9 코덱의 비디오 압축을 최적화
+AlphaGo 나 후속버전인 AlphaZero는 모두 게임 규칙을 사전학습했음
+그 후속인 MuZero는 룰에 대한 지식이나 학습없이도 체스,바둑 등을 마스터 가능
+유튜브 영상에 강화학습을 적용함으로써, 동영상 품질 ...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7 Fresh Links on Performance For March 2022]]></title>
+        <id>https://css-tricks.com/?p=364350</id>
+        <link href="https://css-tricks.com/performance-links-february-2022/"/>
+        <updated>2022-03-02T21:26:50.000Z</updated>
+        <summary type="html"><![CDATA[I have a handful of good links to articles about performance that are burning a hole in my bookmarks folder, and wanna drop them here to share.
+The new WebPageTest website design
+From fonts to SVG: an icon migration strategy
+…
+7 Fresh Links on Performance For March 2022 originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Make a “Raise the Curtains” Effect in CSS]]></title>
+        <id>https://css-tricks.com/?p=363882</id>
+        <link href="https://css-tricks.com/css-raise-the-curtains-effect/"/>
+        <updated>2022-03-02T15:57:32.000Z</updated>
+        <summary type="html"><![CDATA[“Raise the curtains” is what I call an effect where the background goes from dark to light on scroll, and the content on top also goes from light to dark while in a sticky position.
+Here’s an example where I …
+How to Make a “Raise the Curtains” Effect in CSS originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Silvestar Bistrović</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[약 5조원 규모의 스타트업 M&A들을 진행하며 배운 것]]></title>
+        <id>https://news.hada.io/topic?id=6072</id>
+        <link href="https://news.hada.io/topic?id=6072"/>
+        <updated>2022-03-02T01:51:02.000Z</updated>
+        <summary type="html"><![CDATA[대부분의 인수자들은 (인수 전부터) 인수 대상과 관계를 만들었음. 회사의 미래에 M&A를 생각하고 있다면 리더들은 파트너 및 잠재적 인수자들과 관계를 만들기 시작해야 함
+스타트업은 기업이 아닌 개인에게 판매됨. 스타트업 인수는 챔피언(종종 제품 리더, CEO 또는 일반 관리자)의 커리어에 위...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Lambda, .NET 6 런타임 지원 시작]]></title>
+        <id>https://news.hada.io/topic?id=6071</id>
+        <link href="https://news.hada.io/topic?id=6071"/>
+        <updated>2022-03-02T01:25:02.000Z</updated>
+        <summary type="html"><![CDATA[이제 C# 10 및 F# 6 으로 람다 개발 가능
+x86 및 Arm/Graviton2 프로세서 지원
+AWS Toolkit for Visual Studio 2022 / Amazon.Lambda.Tools / AWS SAM CLI 에서도 모두 지원하게 업데이트
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MIT 테크놀로지 리뷰 ‘2022년 10대 기술’ 발표]]></title>
         <id>https://news.hada.io/topic?id=6070</id>
@@ -151,49 +243,6 @@ https://www.hancom.com/cs_center/csDownload.do]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Linux From Scratch]]></title>
-        <id>https://news.hada.io/topic?id=6065</id>
-        <link href="https://news.hada.io/topic?id=6065"/>
-        <updated>2022-03-01T01:06:59.000Z</updated>
-        <summary type="html"><![CDATA[리눅스 소스코드에서 자신만의 리눅스 시스템을 만드는 가이드 프로젝트
-PDF / HTML 형태의 이북으로 제공
-서브 프로젝트들
-
-LFS : Linux From Scratch 메인 가이드 (377P)
-BLFS : Beyond LFS
-→ 완성한 LFS를 좀 더 커스터마이징하고 사용하기 쉽게 만드는 확장]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SQLite 3.38.0에 JSON 쿼리 연산자 추가]]></title>
-        <id>https://news.hada.io/topic?id=6064</id>
-        <link href="https://news.hada.io/topic?id=6064"/>
-        <updated>2022-03-01T00:47:47.000Z</updated>
-        <summary type="html"><![CDATA[PostgreSQL/MySQL에 있는 JSON 연산자와 호환
-3.38 부터는 JSON 지원이 기본으로 활성화 되어 컴파일시에 옵션 줄 필요 없음
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub의 보안 권고 데이터베이스가 오픈소스로 공개]]></title>
-        <id>https://news.hada.io/topic?id=6063</id>
-        <link href="https://news.hada.io/topic?id=6063"/>
-        <updated>2022-03-01T00:22:28.000Z</updated>
-        <summary type="html"><![CDATA[깃헙이 각종 보안 권고사항을 모아서 관리하던 GitHub Advisory Database를 퍼블릭 레포지토리에 공개
-누구나 볼 수 있고, 기여하는 것도 가능
-→ 보안 권고를 쉽게 추가할 수 있는 인터페이스도 추가
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[IE Down, Edge Up… Global Browser Usage Stats Are for Cocktail Parties and Conference Slides]]></title>
         <id>https://css-tricks.com/?p=364346</id>
         <link href="https://css-tricks.com/ie-down-edge-up-global-browser-usage-stats-are-for-cocktail-parties-and-conference-slides/"/>
@@ -213,17 +262,6 @@ IE Down, Edge Up… Global Browser Usage Stats Are for Cocktail Parties and Conf
 Web Component Pseudo-Classes and Pseudo-Elements are Easier Than You Think originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>John Rhea</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 토스페이스"tossface"와 다른 유니코드 벤더 이모지 비교 페이지]]></title>
-        <id>https://news.hada.io/topic?id=6062</id>
-        <link href="https://news.hada.io/topic?id=6062"/>
-        <updated>2022-02-28T15:12:09.000Z</updated>
-        <summary type="html"><![CDATA[토스에서 최근 "토스페이스" 를 공개했습니다
-TossFace with Full Emoji List 프로젝트는 토스페이스가 다른 유니코드 이모지와 어떤 차이가 있는지 보여주기 위한 프로젝]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
     </entry>
     <entry>
@@ -260,20 +298,6 @@ export function sleep(sec) {
         console.log…]]></summary>
         <author>
             <name>향로</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Monorepo에 대한 모든 것]]></title>
-        <id>https://news.hada.io/topic?id=6061</id>
-        <link href="https://news.hada.io/topic?id=6061"/>
-        <updated>2022-02-28T02:50:12.000Z</updated>
-        <summary type="html"><![CDATA[Monorepo란 무엇인가
-"여러 개의 개별 프로젝트를, 잘 정의된 관계를 통해서 하나의 Repo에 담은 것"
-Monorepo ≠ Monolith
-왜 해야할까 ?
-기존의 Polyrepo(여러개의 Repo를 사용하던 방식)를 선택한 이유는 "팀 자율성(team autonomy)" 때...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
     </entry>
     <entry>
@@ -386,28 +410,6 @@ Complaining on
 Before I go: When it comes to complaining about web browsers originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reliably Send an HTTP Request as a User Leaves a Page]]></title>
-        <id>https://css-tricks.com/?p=363511</id>
-        <link href="https://css-tricks.com/send-an-http-request-on-page-exit/"/>
-        <updated>2022-02-22T15:24:01.000Z</updated>
-        <summary type="html"><![CDATA[On several occasions, I’ve needed to send off an HTTP request with some data to log when a user does something like navigate to a different page or submit a form. Consider this contrived example of sending some information to …
-Reliably Send an HTTP Request as a User Leaves a Page originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Alex MacArthur</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Complete Guide to CSS Cascade Layers]]></title>
-        <id>https://css-tricks.com/?p=363766</id>
-        <link href="https://css-tricks.com/css-cascade-layers/"/>
-        <updated>2022-02-21T15:40:35.000Z</updated>
-        <summary type="html"><![CDATA[This is your complete guide to CSS cascade layers, a CSS feature that allows us to define explicit contained layers of specificity, so that we have full control over which styles take priority in a project without relying on specificity …
-A Complete Guide to CSS Cascade Layers originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Miriam Suzanne</name>
         </author>
     </entry>
     <entry>
