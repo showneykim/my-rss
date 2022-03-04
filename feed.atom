@@ -1,10 +1,148 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-03T01:14:00.964Z</id>
+    <id>urn:2022-03-04T01:18:35.913Z</id>
     <title>osmos::feed</title>
-    <updated>2022-03-03T01:14:00.964Z</updated>
+    <updated>2022-03-04T01:18:35.913Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[왜 RISC-V가 성공하고 있을까]]></title>
+        <id>https://news.hada.io/topic?id=6083</id>
+        <link href="https://news.hada.io/topic?id=6083"/>
+        <updated>2022-03-04T01:11:45.000Z</updated>
+        <summary type="html"><![CDATA[Free 와 Freedom
+변화하는 시장 : 무어의 법칙이 느려지고, 머신러닝의 급격한 증가
+RISC-V의 차별화 요소
+
+아키텍처 자체
+다양한 오픈소스 구현들
+프로세서 코어를 둘러싼 지원 코어들
+RISC-V를 구현하고 검증하기 위한 도구들
+범...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=6082</id>
+        <link href="https://news.hada.io/topic?id=6082"/>
+        <updated>2022-03-04T00:51:38.000Z</updated>
+        <summary type="html"><![CDATA[이번 주말에 뭘 하려고 계획 중인지 편하게 얘기해 보아요.
+읽을 책, 가볼 곳, 해볼 것.. 어떤 것이든 좋습니다.
+지난 주말에 계획하셨던 일의 회고도 한번 남겨봐 주세요.]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React 사이트를 SEO 친화적으로 만들기]]></title>
+        <id>https://news.hada.io/topic?id=6081</id>
+        <link href="https://news.hada.io/topic?id=6081"/>
+        <updated>2022-03-04T00:49:30.000Z</updated>
+        <summary type="html"><![CDATA[구글의 페이지 처리 프로세스 소개 및 React의 SEO 이슈들과 대처 방안
+SSR / SSG 적용은 필수 : 최초 렌더링 빠르게 & 검색 크롤러의 렌더링에 의존하지 않기
+HTTP 상태코드 제대로 사용할 것
+Hashed URL은 피하기
+링크는 꼭 < a href >로 (div 나 button 말고...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interop 2022: 브라우저가 함께 작동하여 개발자를 위한 웹 개선]]></title>
+        <id>https://news.hada.io/topic?id=6080</id>
+        <link href="https://news.hada.io/topic?id=6080"/>
+        <updated>2022-03-04T00:29:12.000Z</updated>
+        <summary type="html"><![CDATA[지금까지 크로스 브라우징은 Web 개발자들에게 엄청난 숙제였는데요,
+주요 브라우저 개발사인 Apple, Google, Mozilla, MS, Igalia, Bocoup 이 의기투합하여
+웹 개발자들을 위해]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[모질라 개발자 사이트 MDN, 새로운 사이트로 개편]]></title>
+        <id>https://news.hada.io/topic?id=6079</id>
+        <link href="https://news.hada.io/topic?id=6079"/>
+        <updated>2022-03-04T00:22:38.000Z</updated>
+        <summary type="html"><![CDATA[16년전 위키로 시작해서 최근에 GitHub이 호스팅하는 스태틱 사이트로 이관되었음
+'커뮤니티'에 초점을 둔 새로운 홈페이지로 개편
+
+누구나 MDN에 기여 가능하며, 기여자들을 강조
+탐색을 향상하기 위한 새로운 디자인 적용
+새로운 로고
+프리미엄 구독...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Say Hello to selectmenu, a Fully Style-able select Element]]></title>
+        <id>https://css-tricks.com/?p=363972</id>
+        <link href="https://css-tricks.com/the-selectmenu-element/"/>
+        <updated>2022-03-03T15:35:32.000Z</updated>
+        <summary type="html"><![CDATA[I want to introduce you to a new, experimental form control called <selectmenu>. We’ll get deep into it, including how much easier it is to style than a traditional <select> element. But first, let’s fill in some context …
+Say Hello to selectmenu, a Fully Style-able select Element originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Patrick Brosset</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build Membership Businesses with Memberful]]></title>
+        <id>https://css-tricks.com/?p=364001</id>
+        <link href="https://css-tricks.com/build-membership-businesses-with-memberful/"/>
+        <updated>2022-03-03T15:33:57.000Z</updated>
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+What would your business be like if you sold memberships? It might be more than fun to think about, in fact, it might just be transformative. With membership, would you include little add-ons or …
+Build Membership Businesses with Memberful originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EO 김태용 대표의 기업론]]></title>
+        <id>https://news.hada.io/topic?id=6078</id>
+        <link href="https://news.hada.io/topic?id=6078"/>
+        <updated>2022-03-03T03:03:51.000Z</updated>
+        <summary type="html"><![CDATA[✏️ EO 김태용 대표의 기업론
+한국에 스타트업이랑 조금이라도 연관 있는 사람이라면 모르기 힘든 EO. 작년에 진행했던 유니콘 하우스도 사실은 포맷이 그렇게 새로운 것은 아녔는데도 기대 이상으로 재미있게 시청했다. 그러고 보니, EO를 만든 김태용이란 사람은 어떤 사람인지 전혀 몰랐다. "말 잘하]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open Web Advocacy - 애플의 타사 브라우저 금지 규칙에 이의 제기]]></title>
+        <id>https://news.hada.io/topic?id=6077</id>
+        <link href="https://news.hada.io/topic?id=6077"/>
+        <updated>2022-03-03T01:34:39.000Z</updated>
+        <summary type="html"><![CDATA[오픈웹의 미래를 옹호하기 위해 엔지니어들이 모인 그룹
+규제 기관 및 입법/정책 입안자 등에게 업계의 주요 반경쟁 문제와 해결 방법을 이해하는데 필요한 기술 세부 정보를 제공하는 것을 목표
+현재 가장 큰 위협은 '애플이 iOS에서 써드파티 브라우저 엔진을 사용하지 못하게 막는 것']]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 주목해야 할 CSS 기능들]]></title>
+        <id>https://news.hada.io/topic?id=6076</id>
+        <link href="https://news.hada.io/topic?id=6076"/>
+        <updated>2022-03-03T01:07:26.000Z</updated>
+        <summary type="html"><![CDATA[Container Query
+:has()
+@when/@else
+accent-color
+CSS Color 함수들
+Cascade Layers
+Subgrid
+Scroll Timeline
+Nesting
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wordle 잘하는 법]]></title>
         <id>https://news.hada.io/topic?id=6075</id>
@@ -34,19 +172,6 @@ Christos는 ARIS...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[딥마인드 MuZero AI가 유튜브 비디오 압축을 개선]]></title>
-        <id>https://news.hada.io/topic?id=6073</id>
-        <link href="https://news.hada.io/topic?id=6073"/>
-        <updated>2022-03-03T00:08:03.000Z</updated>
-        <summary type="html"><![CDATA[MuZero가 유튜브와의 협업으로 오픈소스 VP9 코덱의 비디오 압축을 최적화
-AlphaGo 나 후속버전인 AlphaZero는 모두 게임 규칙을 사전학습했음
-그 후속인 MuZero는 룰에 대한 지식이나 학습없이도 체스,바둑 등을 마스터 가능
-유튜브 영상에 강화학습을 적용함으로써, 동영상 품질 ...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[7 Fresh Links on Performance For March 2022]]></title>
         <id>https://css-tricks.com/?p=364350</id>
         <link href="https://css-tricks.com/performance-links-february-2022/"/>
@@ -70,81 +195,6 @@ Here’s an example where I …
 How to Make a “Raise the Curtains” Effect in CSS originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Silvestar Bistrović</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[약 5조원 규모의 스타트업 M&A들을 진행하며 배운 것]]></title>
-        <id>https://news.hada.io/topic?id=6072</id>
-        <link href="https://news.hada.io/topic?id=6072"/>
-        <updated>2022-03-02T01:51:02.000Z</updated>
-        <summary type="html"><![CDATA[대부분의 인수자들은 (인수 전부터) 인수 대상과 관계를 만들었음. 회사의 미래에 M&A를 생각하고 있다면 리더들은 파트너 및 잠재적 인수자들과 관계를 만들기 시작해야 함
-스타트업은 기업이 아닌 개인에게 판매됨. 스타트업 인수는 챔피언(종종 제품 리더, CEO 또는 일반 관리자)의 커리어에 위...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Lambda, .NET 6 런타임 지원 시작]]></title>
-        <id>https://news.hada.io/topic?id=6071</id>
-        <link href="https://news.hada.io/topic?id=6071"/>
-        <updated>2022-03-02T01:25:02.000Z</updated>
-        <summary type="html"><![CDATA[이제 C# 10 및 F# 6 으로 람다 개발 가능
-x86 및 Arm/Graviton2 프로세서 지원
-AWS Toolkit for Visual Studio 2022 / Amazon.Lambda.Tools / AWS SAM CLI 에서도 모두 지원하게 업데이트
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MIT 테크놀로지 리뷰 ‘2022년 10대 기술’ 발표]]></title>
-        <id>https://news.hada.io/topic?id=6070</id>
-        <link href="https://news.hada.io/topic?id=6070"/>
-        <updated>2022-03-02T00:51:01.000Z</updated>
-        <summary type="html"><![CDATA[경구용 코로나19 치료제 ‘팍스로비드’
-실용적인 핵융합로
-비밀번호의 종말
-단백질 접힘 예측용 AI
-지분증명
-오래 지속되는 전력망용 배터리
-인공지능을 위한 합성 데이터
-말라리아 백신
-탄소 제거 공장
-코로나 변이 추적...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Programming Time - 아이에게 카드게임으로 파이썬 가르치기]]></title>
-        <id>https://news.hada.io/topic?id=6069</id>
-        <link href="https://news.hada.io/topic?id=6069"/>
-        <updated>2022-03-02T00:28:02.000Z</updated>
-        <summary type="html"><![CDATA[카드에 파이썬 코드가 적혀있고, 20면 주사위를 굴려서 나온 수를 가지고 코드가 동작하는 것을 이해하기
-총 55장으로 구성
-파이썬 기본 문법부터 블룸필터, 딕셔너리, 람다, 그래프, Bayes정리, 링크드리스트등 다양한 주제
-직접 프린트하면 무료, 1덱에 10€/배송비 10€]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Javascript to Rust e북(PDF)]]></title>
-        <id>https://news.hada.io/topic?id=6068</id>
-        <link href="https://news.hada.io/topic?id=6068"/>
-        <updated>2022-03-02T00:12:01.000Z</updated>
-        <summary type="html"><![CDATA[JS 개발자를 위한 Rust 입문서
-Javascript/Node.js 의 컨셉트와 워크플로우를 Rust 에코시스템으로 매핑
-총 24일간 진행되었던 가이드를 하나로 엮은 것
-목차중 일부
-
-nvm → rustup
-npm → cargo
-Borrowing & Ownership, 문자열, 문법과 언어
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
     </entry>
     <entry>
@@ -212,34 +262,6 @@ The post DBeaver에서 java heap space 부족이라고 나올때 appeared first 
 7개월이란 시간이 빡빡하게 느껴진 것은 이 기간 안에서 비효율적으로 낭비되는 시간이 많았기 때문이…]]></summary>
         <author>
             <name>향로</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한컴 오피스 보안 버그]]></title>
-        <id>https://news.hada.io/topic?id=6067</id>
-        <link href="https://news.hada.io/topic?id=6067"/>
-        <updated>2022-03-01T06:08:46.000Z</updated>
-        <summary type="html"><![CDATA[시스코의 Talos가 발견한 보안 문제점
-Hancom Office의 HwordApp.dll에서 발견된 문제로 메모리 관련하여 보안 결함 보고가 있었음.
-한컴 오피스 2020 사용자들은  반드시 최신 보안 패치를 설치해야 함.
-https://www.hancom.com/cs_center/csDownload.do]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lenovo, 첫번째 Arm 기반 ThinkPad X13s 발표]]></title>
-        <id>https://news.hada.io/topic?id=6066</id>
-        <link href="https://news.hada.io/topic?id=6066"/>
-        <updated>2022-03-01T01:21:35.000Z</updated>
-        <summary type="html"><![CDATA[스냅드래곤 8cx Gen3 칩 사용한 첫번째 Windows-on-Arm 씽크패드
-5나노, 4개의 Arm Cortex-X1 코어(3Ghz), 4개의 Cortex-A78코어(2.4Ghz)
-13.3인치, 1920x1200, 두께 1.34cm, 무게 1.06kg
-49.5 WHr 배터리로 28시간 사용 가능
-32GB LPDDR4x, 1TB PCIe 4.0 SSD
-5G...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
     </entry>
     <entry>
@@ -383,31 +405,6 @@ Superior Image Optimization: An Ideal Solution Using Gatsby & ImageEngine origin
         <updated>2022-02-23T20:04:39.000Z</updated>
         <summary type="html"><![CDATA[Kinda silly sounding, isn’t it? CSS database queries. But, hey, CSS is capable of talking to other languages in the sense that it can set the values of things that they can read. Plus, CSS can request other files, and …
 CSS Database Queries? Sure We Can! originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Accessibility Quick Wins You Can Implement Today]]></title>
-        <id>https://css-tricks.com/?p=363532</id>
-        <link href="https://css-tricks.com/5-accessibility-quick-wins-you-can-implement-today/"/>
-        <updated>2022-02-23T15:15:33.000Z</updated>
-        <summary type="html"><![CDATA[Let’s face it: building an AA or AAA-accessible product can be quite daunting. Luckily, having an accessible product isn’t all-or-nothing. Even seemingly small improvements can have nice quality of life benefits for many people.
-In that spirit, here are five …
-5 Accessibility Quick Wins You Can Implement Today originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Daniel Yuschick</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Before I go: When it comes to complaining about web browsers]]></title>
-        <id>https://css-tricks.com/?p=363998</id>
-        <link href="https://css-tricks.com/before-i-go-when-it-comes-to-complaining-about-web-browsers/"/>
-        <updated>2022-02-22T20:06:57.000Z</updated>
-        <summary type="html"><![CDATA[That’s a damn one-two punch from Dave. He goes for the ultimate clickbait title¹, then follows up with a pile of epic advice for us all. If you want web browsers to get better, listen up:
-Complaining on 
-…
-Before I go: When it comes to complaining about web browsers originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Chris Coyier</name>
         </author>

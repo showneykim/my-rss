@@ -6,6 +6,26 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=363972",
+          "author": "Patrick Brosset",
+          "description": "I want to introduce you to a new, experimental form control called <selectmenu>. We’ll get deep into it, including how much easier it is to style than a traditional <select> element. But first, let’s fill in some context …\nSay Hello to selectmenu, a Fully Style-able select Element originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/the-selectmenu-element/",
+          "publishedOn": "2022-03-03T15:35:32.000Z",
+          "wordCount": 36,
+          "title": "Say Hello to selectmenu, a Fully Style-able select Element",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363972"
+        },
+        {
+          "id": "https://css-tricks.com/?p=364001",
+          "author": "Chris Coyier",
+          "description": "(This is a sponsored post.)\nWhat would your business be like if you sold memberships? It might be more than fun to think about, in fact, it might just be transformative. With membership, would you include little add-ons or …\nBuild Membership Businesses with Memberful originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/build-membership-businesses-with-memberful/",
+          "publishedOn": "2022-03-03T15:33:57.000Z",
+          "wordCount": 884,
+          "title": "Build Membership Businesses with Memberful",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364001"
+        },
+        {
           "id": "https://css-tricks.com/?p=364350",
           "author": "Chris Coyier",
           "description": "I have a handful of good links to articles about performance that are burning a hole in my bookmarks folder, and wanna drop them here to share.\nThe new WebPageTest website design\nFrom fonts to SVG: an icon migration strategy\n…\n7 Fresh Links on Performance For March 2022 originally published on CSS-Tricks. You should get the newsletter.",
@@ -31,7 +51,7 @@
           "description": "Styling ranges of text in software is a very useful thing to be able to do. Thankfully, we have the CSS Custom Highlight API to look forward to because it represents the future of styling text ranges on the web.…\nCSS Custom Highlight API: The Future of Highlighting Text Ranges on the Web originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/css-custom-highlight-api-early-loo/",
           "publishedOn": "2022-03-01T17:41:13.000Z",
-          "wordCount": 2489,
+          "wordCount": 2533,
           "title": "CSS Custom Highlight API: The Future of Highlighting Text Ranges on the Web",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363724"
         },
@@ -51,7 +71,7 @@
           "description": "I enjoy articles like Hartley Charlton’s “Microsoft Edge Looks Set to Overtake Safari as World’s Second Most Popular Desktop Browser.” It’s juicy! We know these massive players in the browser market care very much about their market share, so when …\nIE Down, Edge Up… Global Browser Usage Stats Are for Cocktail Parties and Conference Slides originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/ie-down-edge-up-global-browser-usage-stats-are-for-cocktail-parties-and-conference-slides/",
           "publishedOn": "2022-02-28T23:14:29.000Z",
-          "wordCount": 940,
+          "wordCount": 859,
           "title": "IE Down, Edge Up… Global Browser Usage Stats Are for Cocktail Parties and Conference Slides",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364346"
         },
@@ -61,7 +81,7 @@
           "description": "We’ve discussed a lot about the internals of using CSS in this ongoing series on web components, but there are a few special pseudo-elements and pseudo-classes that, like good friends, willingly smell your possibly halitotic breath before you go …\nWeb Component Pseudo-Classes and Pseudo-Elements are Easier Than You Think originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/web-component-pseudo-classes-and-pseudo-elements/",
           "publishedOn": "2022-02-28T15:37:23.000Z",
-          "wordCount": 2478,
+          "wordCount": 2445,
           "title": "Web Component Pseudo-Classes and Pseudo-Elements are Easier Than You Think",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363929"
         },
@@ -111,7 +131,7 @@
           "description": "For the past few weeks, I’ve been hiring for a senior full-stack JavaScript engineer at my rental furniture company, Pabio. Since we’re a remote team, we conduct our interviews on Zoom, and I’ve observed that some developers are not …\nExplain the First 10 Lines of Twitter’s Source Code to Me originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/explain-the-first-10-lines-of-twitter-source-code/",
           "publishedOn": "2022-02-24T15:31:55.000Z",
-          "wordCount": 6591,
+          "wordCount": 6350,
           "title": "Explain the First 10 Lines of Twitter’s Source Code to Me",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363553"
         },
@@ -134,26 +154,6 @@
           "wordCount": 815,
           "title": "CSS Database Queries? Sure We Can!",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363937"
-        },
-        {
-          "id": "https://css-tricks.com/?p=363532",
-          "author": "Daniel Yuschick",
-          "description": "Let’s face it: building an AA or AAA-accessible product can be quite daunting. Luckily, having an accessible product isn’t all-or-nothing. Even seemingly small improvements can have nice quality of life benefits for many people.\nIn that spirit, here are five …\n5 Accessibility Quick Wins You Can Implement Today originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/5-accessibility-quick-wins-you-can-implement-today/",
-          "publishedOn": "2022-02-23T15:15:33.000Z",
-          "wordCount": 1808,
-          "title": "5 Accessibility Quick Wins You Can Implement Today",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363532"
-        },
-        {
-          "id": "https://css-tricks.com/?p=363998",
-          "author": "Chris Coyier",
-          "description": "That’s a damn one-two punch from Dave. He goes for the ultimate clickbait title¹, then follows up with a pile of epic advice for us all. If you want web browsers to get better, listen up:\nComplaining on \n…\nBefore I go: When it comes to complaining about web browsers originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/before-i-go-when-it-comes-to-complaining-about-web-browsers/",
-          "publishedOn": "2022-02-22T20:06:57.000Z",
-          "wordCount": 588,
-          "title": "Before I go: When it comes to complaining about web browsers",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363998"
         }
       ]
     },
@@ -168,7 +168,7 @@
           "description": "DBeaver에서 java heap space 부족이라고 나올때 DB를 관리하는 툴중에 DBeaver라는 툴이 있습니다. 커뮤니티 버전은 프리웨어이기도 하고, 엔터프라이즈 버전은 낮은 가격에도 강력한 부가 기능들이 있어 주로 사용하는 DB툴입니다. DBeaver에서 대용량 테이블을 이관하거나 CSV 파일들의 작업을...\nThe post DBeaver에서 java heap space 부족이라고 나올때 appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/dbeaver%ec%97%90%ec%84%9c-java-heap-space-%eb%b6%80%ec%a1%b1%ec%9d%b4%eb%9d%bc%ea%b3%a0-%eb%82%98%ec%98%ac%eb%95%8c/",
           "publishedOn": "2022-03-01T15:22:02.000Z",
-          "wordCount": 540,
+          "wordCount": 542,
           "title": "DBeaver에서 java heap space 부족이라고 나올때",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2021/04/sm_5b46d890d85b8.jpg"
         },
@@ -190,6 +190,86 @@
       "siteUrl": "https://news.hada.io",
       "articles": [
         {
+          "id": "https://news.hada.io/topic?id=6083",
+          "author": null,
+          "description": "Free 와 Freedom\n변화하는 시장 : 무어의 법칙이 느려지고, 머신러닝의 급격한 증가\nRISC-V의 차별화 요소\n\n아키텍처 자체\n다양한 오픈소스 구현들\n프로세서 코어를 둘러싼 지원 코어들\nRISC-V를 구현하고 검증하기 위한 도구들\n범...",
+          "link": "https://news.hada.io/topic?id=6083",
+          "publishedOn": "2022-03-04T01:11:45.000Z",
+          "wordCount": 139,
+          "title": "왜 RISC-V가 성공하고 있을까",
+          "imageUrl": "https://social.news.hada.io/topic/6083"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6082",
+          "author": null,
+          "description": "이번 주말에 뭘 하려고 계획 중인지 편하게 얘기해 보아요.\n읽을 책, 가볼 곳, 해볼 것.. 어떤 것이든 좋습니다.\n지난 주말에 계획하셨던 일의 회고도 한번 남겨봐 주세요.",
+          "link": "https://news.hada.io/topic?id=6082",
+          "publishedOn": "2022-03-04T00:51:38.000Z",
+          "wordCount": 116,
+          "title": "Ask GN: 이번 주말에 뭐 하시나요?",
+          "imageUrl": "https://social.news.hada.io/topic/6082"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6081",
+          "author": null,
+          "description": "구글의 페이지 처리 프로세스 소개 및 React의 SEO 이슈들과 대처 방안\nSSR / SSG 적용은 필수 : 최초 렌더링 빠르게 & 검색 크롤러의 렌더링에 의존하지 않기\nHTTP 상태코드 제대로 사용할 것\nHashed URL은 피하기\n링크는 꼭 < a href >로 (div 나 button 말고...",
+          "link": "https://news.hada.io/topic?id=6081",
+          "publishedOn": "2022-03-04T00:49:30.000Z",
+          "wordCount": 122,
+          "title": "React 사이트를 SEO 친화적으로 만들기",
+          "imageUrl": "https://social.news.hada.io/topic/6081"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6080",
+          "author": null,
+          "description": "지금까지 크로스 브라우징은 Web 개발자들에게 엄청난 숙제였는데요,\n주요 브라우저 개발사인 Apple, Google, Mozilla, MS, Igalia, Bocoup 이 의기투합하여\n웹 개발자들을 위해",
+          "link": "https://news.hada.io/topic?id=6080",
+          "publishedOn": "2022-03-04T00:29:12.000Z",
+          "wordCount": 105,
+          "title": "Interop 2022: 브라우저가 함께 작동하여 개발자를 위한 웹 개선",
+          "imageUrl": "https://social.news.hada.io/topic/6080"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6079",
+          "author": null,
+          "description": "16년전 위키로 시작해서 최근에 GitHub이 호스팅하는 스태틱 사이트로 이관되었음\n'커뮤니티'에 초점을 둔 새로운 홈페이지로 개편\n\n누구나 MDN에 기여 가능하며, 기여자들을 강조\n탐색을 향상하기 위한 새로운 디자인 적용\n새로운 로고\n프리미엄 구독...",
+          "link": "https://news.hada.io/topic?id=6079",
+          "publishedOn": "2022-03-04T00:22:38.000Z",
+          "wordCount": 95,
+          "title": "모질라 개발자 사이트 MDN, 새로운 사이트로 개편",
+          "imageUrl": "https://social.news.hada.io/topic/6079"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6078",
+          "author": null,
+          "description": "✏️ EO 김태용 대표의 기업론\n한국에 스타트업이랑 조금이라도 연관 있는 사람이라면 모르기 힘든 EO. 작년에 진행했던 유니콘 하우스도 사실은 포맷이 그렇게 새로운 것은 아녔는데도 기대 이상으로 재미있게 시청했다. 그러고 보니, EO를 만든 김태용이란 사람은 어떤 사람인지 전혀 몰랐다. \"말 잘하",
+          "link": "https://news.hada.io/topic?id=6078",
+          "publishedOn": "2022-03-03T03:03:51.000Z",
+          "wordCount": 183,
+          "title": "EO 김태용 대표의 기업론",
+          "imageUrl": "https://social.news.hada.io/topic/6078"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6077",
+          "author": null,
+          "description": "오픈웹의 미래를 옹호하기 위해 엔지니어들이 모인 그룹\n규제 기관 및 입법/정책 입안자 등에게 업계의 주요 반경쟁 문제와 해결 방법을 이해하는데 필요한 기술 세부 정보를 제공하는 것을 목표\n현재 가장 큰 위협은 '애플이 iOS에서 써드파티 브라우저 엔진을 사용하지 못하게 막는 것'",
+          "link": "https://news.hada.io/topic?id=6077",
+          "publishedOn": "2022-03-03T01:34:39.000Z",
+          "wordCount": 262,
+          "title": "Open Web Advocacy - 애플의 타사 브라우저 금지 규칙에 이의 제기",
+          "imageUrl": "https://social.news.hada.io/topic/6077"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6076",
+          "author": null,
+          "description": "Container Query\n:has()\n@when/@else\naccent-color\nCSS Color 함수들\nCascade Layers\nSubgrid\nScroll Timeline\nNesting\n\n...",
+          "link": "https://news.hada.io/topic?id=6076",
+          "publishedOn": "2022-03-03T01:07:26.000Z",
+          "wordCount": 91,
+          "title": "2022년 주목해야 할 CSS 기능들",
+          "imageUrl": "https://social.news.hada.io/topic/6076"
+        },
+        {
           "id": "https://news.hada.io/topic?id=6075",
           "author": null,
           "description": "Jupyter Notebook 으로 정리\n2번째 시도에서 맞췄다면 나는 잘하는 걸까? 아님 운이 좋은 걸까?\n처음에 가장 좋은 단어는 BRUTE/CHANT/FILET 이지만 그나마 2% 밖에 되지 않음\nHANDY,SWIFT,GLOVE,CRUMP 4개의 단어를 사용하면 100% 6번 안에 맞출 수 있음\n\nChristos는 ARIS...",
@@ -205,89 +285,9 @@
           "description": "Pong을 스페이스바 또는 화면 탭하는 싱글 버튼 누르는 게임으로 트위킹한 것\n모든 스프라이트와 사운드는 별도 애셋을 로드하지 않고 Javascript 코드에서 생성됨\n\n...",
           "link": "https://news.hada.io/topic?id=6074",
           "publishedOn": "2022-03-03T00:24:45.000Z",
-          "wordCount": 107,
+          "wordCount": 113,
           "title": "Almost Pong",
           "imageUrl": "https://social.news.hada.io/topic/6074"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6073",
-          "author": null,
-          "description": "MuZero가 유튜브와의 협업으로 오픈소스 VP9 코덱의 비디오 압축을 최적화\nAlphaGo 나 후속버전인 AlphaZero는 모두 게임 규칙을 사전학습했음\n그 후속인 MuZero는 룰에 대한 지식이나 학습없이도 체스,바둑 등을 마스터 가능\n유튜브 영상에 강화학습을 적용함으로써, 동영상 품질 ...",
-          "link": "https://news.hada.io/topic?id=6073",
-          "publishedOn": "2022-03-03T00:08:03.000Z",
-          "wordCount": 130,
-          "title": "딥마인드 MuZero AI가 유튜브 비디오 압축을 개선",
-          "imageUrl": "https://social.news.hada.io/topic/6073"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6072",
-          "author": null,
-          "description": "대부분의 인수자들은 (인수 전부터) 인수 대상과 관계를 만들었음. 회사의 미래에 M&A를 생각하고 있다면 리더들은 파트너 및 잠재적 인수자들과 관계를 만들기 시작해야 함\n스타트업은 기업이 아닌 개인에게 판매됨. 스타트업 인수는 챔피언(종종 제품 리더, CEO 또는 일반 관리자)의 커리어에 위...",
-          "link": "https://news.hada.io/topic?id=6072",
-          "publishedOn": "2022-03-02T01:51:02.000Z",
-          "wordCount": 495,
-          "title": "약 5조원 규모의 스타트업 M&A들을 진행하며 배운 것",
-          "imageUrl": "https://social.news.hada.io/topic/6072"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6071",
-          "author": null,
-          "description": "이제 C# 10 및 F# 6 으로 람다 개발 가능\nx86 및 Arm/Graviton2 프로세서 지원\nAWS Toolkit for Visual Studio 2022 / Amazon.Lambda.Tools / AWS SAM CLI 에서도 모두 지원하게 업데이트\n\n...",
-          "link": "https://news.hada.io/topic?id=6071",
-          "publishedOn": "2022-03-02T01:25:02.000Z",
-          "wordCount": 90,
-          "title": "AWS Lambda, .NET 6 런타임 지원 시작",
-          "imageUrl": "https://social.news.hada.io/topic/6071"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6070",
-          "author": null,
-          "description": "경구용 코로나19 치료제 ‘팍스로비드’\n실용적인 핵융합로\n비밀번호의 종말\n단백질 접힘 예측용 AI\n지분증명\n오래 지속되는 전력망용 배터리\n인공지능을 위한 합성 데이터\n말라리아 백신\n탄소 제거 공장\n코로나 변이 추적...",
-          "link": "https://news.hada.io/topic?id=6070",
-          "publishedOn": "2022-03-02T00:51:01.000Z",
-          "wordCount": 187,
-          "title": "MIT 테크놀로지 리뷰 ‘2022년 10대 기술’ 발표",
-          "imageUrl": "https://social.news.hada.io/topic/6070"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6069",
-          "author": null,
-          "description": "카드에 파이썬 코드가 적혀있고, 20면 주사위를 굴려서 나온 수를 가지고 코드가 동작하는 것을 이해하기\n총 55장으로 구성\n파이썬 기본 문법부터 블룸필터, 딕셔너리, 람다, 그래프, Bayes정리, 링크드리스트등 다양한 주제\n직접 프린트하면 무료, 1덱에 10€/배송비 10€",
-          "link": "https://news.hada.io/topic?id=6069",
-          "publishedOn": "2022-03-02T00:28:02.000Z",
-          "wordCount": 148,
-          "title": "Programming Time - 아이에게 카드게임으로 파이썬 가르치기",
-          "imageUrl": "https://social.news.hada.io/topic/6069"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6068",
-          "author": null,
-          "description": "JS 개발자를 위한 Rust 입문서\nJavascript/Node.js 의 컨셉트와 워크플로우를 Rust 에코시스템으로 매핑\n총 24일간 진행되었던 가이드를 하나로 엮은 것\n목차중 일부\n\nnvm → rustup\nnpm → cargo\nBorrowing & Ownership, 문자열, 문법과 언어\n...",
-          "link": "https://news.hada.io/topic?id=6068",
-          "publishedOn": "2022-03-02T00:12:01.000Z",
-          "wordCount": 102,
-          "title": "Javascript to Rust e북(PDF)",
-          "imageUrl": "https://social.news.hada.io/topic/6068"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6067",
-          "author": null,
-          "description": "시스코의 Talos가 발견한 보안 문제점\nHancom Office의 HwordApp.dll에서 발견된 문제로 메모리 관련하여 보안 결함 보고가 있었음.\n한컴 오피스 2020 사용자들은  반드시 최신 보안 패치를 설치해야 함.\nhttps://www.hancom.com/cs_center/csDownload.do",
-          "link": "https://news.hada.io/topic?id=6067",
-          "publishedOn": "2022-03-01T06:08:46.000Z",
-          "wordCount": 80,
-          "title": "한컴 오피스 보안 버그",
-          "imageUrl": "https://social.news.hada.io/topic/6067"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6066",
-          "author": null,
-          "description": "스냅드래곤 8cx Gen3 칩 사용한 첫번째 Windows-on-Arm 씽크패드\n5나노, 4개의 Arm Cortex-X1 코어(3Ghz), 4개의 Cortex-A78코어(2.4Ghz)\n13.3인치, 1920x1200, 두께 1.34cm, 무게 1.06kg\n49.5 WHr 배터리로 28시간 사용 가능\n32GB LPDDR4x, 1TB PCIe 4.0 SSD\n5G...",
-          "link": "https://news.hada.io/topic?id=6066",
-          "publishedOn": "2022-03-01T01:21:35.000Z",
-          "wordCount": 134,
-          "title": "Lenovo, 첫번째 Arm 기반 ThinkPad X13s 발표",
-          "imageUrl": "https://social.news.hada.io/topic/6066"
         }
       ]
     },
