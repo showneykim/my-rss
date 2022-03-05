@@ -11,7 +11,7 @@
           "description": "I want to introduce you to a new, experimental form control called <selectmenu>. We’ll get deep into it, including how much easier it is to style than a traditional <select> element. But first, let’s fill in some context …\nSay Hello to selectmenu, a Fully Style-able select Element originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/the-selectmenu-element/",
           "publishedOn": "2022-03-03T15:35:32.000Z",
-          "wordCount": 36,
+          "wordCount": 2848,
           "title": "Say Hello to selectmenu, a Fully Style-able select Element",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363972"
         },
@@ -41,7 +41,7 @@
           "description": "“Raise the curtains” is what I call an effect where the background goes from dark to light on scroll, and the content on top also goes from light to dark while in a sticky position.\nHere’s an example where I …\nHow to Make a “Raise the Curtains” Effect in CSS originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/css-raise-the-curtains-effect/",
           "publishedOn": "2022-03-02T15:57:32.000Z",
-          "wordCount": 1206,
+          "wordCount": 1301,
           "title": "How to Make a “Raise the Curtains” Effect in CSS",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363882"
         },
@@ -51,7 +51,7 @@
           "description": "Styling ranges of text in software is a very useful thing to be able to do. Thankfully, we have the CSS Custom Highlight API to look forward to because it represents the future of styling text ranges on the web.…\nCSS Custom Highlight API: The Future of Highlighting Text Ranges on the Web originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/css-custom-highlight-api-early-loo/",
           "publishedOn": "2022-03-01T17:41:13.000Z",
-          "wordCount": 2533,
+          "wordCount": 2574,
           "title": "CSS Custom Highlight API: The Future of Highlighting Text Ranges on the Web",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363724"
         },
@@ -61,7 +61,7 @@
           "description": "Ahmad Shadeed covers the CSS fit-content sizing keyword. It’s useful! It just doesn’t come up super often. I find myself using min-content a lot more, like when setting up the height of a grid-template-row.\nThe fit-content keyword is actually …\nAhmad Shadeed: Use Cases For CSS fit-content originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/ahmad-shadeed-use-cases-for-css-fit-content/",
           "publishedOn": "2022-03-01T15:41:16.000Z",
-          "wordCount": 454,
+          "wordCount": 435,
           "title": "Ahmad Shadeed: Use Cases For CSS fit-content",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364351"
         },
@@ -71,7 +71,7 @@
           "description": "I enjoy articles like Hartley Charlton’s “Microsoft Edge Looks Set to Overtake Safari as World’s Second Most Popular Desktop Browser.” It’s juicy! We know these massive players in the browser market care very much about their market share, so when …\nIE Down, Edge Up… Global Browser Usage Stats Are for Cocktail Parties and Conference Slides originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/ie-down-edge-up-global-browser-usage-stats-are-for-cocktail-parties-and-conference-slides/",
           "publishedOn": "2022-02-28T23:14:29.000Z",
-          "wordCount": 859,
+          "wordCount": 940,
           "title": "IE Down, Edge Up… Global Browser Usage Stats Are for Cocktail Parties and Conference Slides",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364346"
         },
@@ -81,7 +81,7 @@
           "description": "We’ve discussed a lot about the internals of using CSS in this ongoing series on web components, but there are a few special pseudo-elements and pseudo-classes that, like good friends, willingly smell your possibly halitotic breath before you go …\nWeb Component Pseudo-Classes and Pseudo-Elements are Easier Than You Think originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/web-component-pseudo-classes-and-pseudo-elements/",
           "publishedOn": "2022-02-28T15:37:23.000Z",
-          "wordCount": 2445,
+          "wordCount": 2478,
           "title": "Web Component Pseudo-Classes and Pseudo-Elements are Easier Than You Think",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363929"
         },
@@ -131,7 +131,7 @@
           "description": "For the past few weeks, I’ve been hiring for a senior full-stack JavaScript engineer at my rental furniture company, Pabio. Since we’re a remote team, we conduct our interviews on Zoom, and I’ve observed that some developers are not …\nExplain the First 10 Lines of Twitter’s Source Code to Me originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/explain-the-first-10-lines-of-twitter-source-code/",
           "publishedOn": "2022-02-24T15:31:55.000Z",
-          "wordCount": 6350,
+          "wordCount": 6591,
           "title": "Explain the First 10 Lines of Twitter’s Source Code to Me",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363553"
         },
@@ -168,7 +168,7 @@
           "description": "DBeaver에서 java heap space 부족이라고 나올때 DB를 관리하는 툴중에 DBeaver라는 툴이 있습니다. 커뮤니티 버전은 프리웨어이기도 하고, 엔터프라이즈 버전은 낮은 가격에도 강력한 부가 기능들이 있어 주로 사용하는 DB툴입니다. DBeaver에서 대용량 테이블을 이관하거나 CSV 파일들의 작업을...\nThe post DBeaver에서 java heap space 부족이라고 나올때 appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/dbeaver%ec%97%90%ec%84%9c-java-heap-space-%eb%b6%80%ec%a1%b1%ec%9d%b4%eb%9d%bc%ea%b3%a0-%eb%82%98%ec%98%ac%eb%95%8c/",
           "publishedOn": "2022-03-01T15:22:02.000Z",
-          "wordCount": 542,
+          "wordCount": 544,
           "title": "DBeaver에서 java heap space 부족이라고 나올때",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2021/04/sm_5b46d890d85b8.jpg"
         },
@@ -190,12 +190,52 @@
       "siteUrl": "https://news.hada.io",
       "articles": [
         {
+          "id": "https://news.hada.io/topic?id=6087",
+          "author": null,
+          "description": "스크린 전용으로 페이지 구분이 없는 편집 모드\n이미지는 스크린사이즈에 맞게 조정되며, 넓은 테이블은 좌우 스크롤 지원\n줄 바꿈도 화면 크기 및 줌 인/아웃에 맞추어 조정\n페이지 번호, 헤더와 푸터 등은 보이지 않으며 페이지 모드 에선 다시 볼 수 있음\n\n...",
+          "link": "https://news.hada.io/topic?id=6087",
+          "publishedOn": "2022-03-05T00:54:53.000Z",
+          "wordCount": 119,
+          "title": "Google Docs, Pageless 모드 추가",
+          "imageUrl": "https://social.news.hada.io/topic/6087"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6086",
+          "author": null,
+          "description": "WASM을 위한 패키지 매니저\nWASM Shell을 제공하여 브라우저에서 실행 및 테스트 가능 (wamser-wasi)\nWasmer로 리눅스/윈/맥에서 실행 가능한 스탠드얼론 앱 생성 지원\n\n...",
+          "link": "https://news.hada.io/topic?id=6086",
+          "publishedOn": "2022-03-05T00:33:42.000Z",
+          "wordCount": 76,
+          "title": "WAPM - WebAssembly Package Manager",
+          "imageUrl": "https://social.news.hada.io/topic/6086"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6085",
+          "author": null,
+          "description": "2022년 5월 30일부터 ​사용자 이름과 비밀번호만 사용하여 Google 계정에 로그인하도록 요청하는 서드 파티 앱 또는 기기의 사용을 더 이상 지원하지 않음",
+          "link": "https://news.hada.io/topic?id=6085",
+          "publishedOn": "2022-03-04T02:58:17.000Z",
+          "wordCount": 86,
+          "title": "구글, 사용자명/암호만 사용하는 보안 수준이 낮은 앱 이제 이용 불가",
+          "imageUrl": "https://social.news.hada.io/topic/6085"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6084",
+          "author": null,
+          "description": "경험을 통해 얻은 내용을 정리해서 내/외부 고객을 돕기 위함\n기능 컴포넌트\n\nWeb Framework\nTemplate Engines\nMessage Queuing\nInternationalization\nAccessibility\nGraphQL\nDatabases\nAuthentication and Authorization",
+          "link": "https://news.hada.io/topic?id=6084",
+          "publishedOn": "2022-03-04T01:53:10.000Z",
+          "wordCount": 147,
+          "title": "Red Hat과 IBM의 Node.js 레퍼런스 아키텍처",
+          "imageUrl": "https://social.news.hada.io/topic/6084"
+        },
+        {
           "id": "https://news.hada.io/topic?id=6083",
           "author": null,
           "description": "Free 와 Freedom\n변화하는 시장 : 무어의 법칙이 느려지고, 머신러닝의 급격한 증가\nRISC-V의 차별화 요소\n\n아키텍처 자체\n다양한 오픈소스 구현들\n프로세서 코어를 둘러싼 지원 코어들\nRISC-V를 구현하고 검증하기 위한 도구들\n범...",
           "link": "https://news.hada.io/topic?id=6083",
           "publishedOn": "2022-03-04T01:11:45.000Z",
-          "wordCount": 139,
+          "wordCount": 169,
           "title": "왜 RISC-V가 성공하고 있을까",
           "imageUrl": "https://social.news.hada.io/topic/6083"
         },
@@ -205,7 +245,7 @@
           "description": "이번 주말에 뭘 하려고 계획 중인지 편하게 얘기해 보아요.\n읽을 책, 가볼 곳, 해볼 것.. 어떤 것이든 좋습니다.\n지난 주말에 계획하셨던 일의 회고도 한번 남겨봐 주세요.",
           "link": "https://news.hada.io/topic?id=6082",
           "publishedOn": "2022-03-04T00:51:38.000Z",
-          "wordCount": 116,
+          "wordCount": 300,
           "title": "Ask GN: 이번 주말에 뭐 하시나요?",
           "imageUrl": "https://social.news.hada.io/topic/6082"
         },
@@ -235,7 +275,7 @@
           "description": "16년전 위키로 시작해서 최근에 GitHub이 호스팅하는 스태틱 사이트로 이관되었음\n'커뮤니티'에 초점을 둔 새로운 홈페이지로 개편\n\n누구나 MDN에 기여 가능하며, 기여자들을 강조\n탐색을 향상하기 위한 새로운 디자인 적용\n새로운 로고\n프리미엄 구독...",
           "link": "https://news.hada.io/topic?id=6079",
           "publishedOn": "2022-03-04T00:22:38.000Z",
-          "wordCount": 95,
+          "wordCount": 127,
           "title": "모질라 개발자 사이트 MDN, 새로운 사이트로 개편",
           "imageUrl": "https://social.news.hada.io/topic/6079"
         },
@@ -248,46 +288,6 @@
           "wordCount": 183,
           "title": "EO 김태용 대표의 기업론",
           "imageUrl": "https://social.news.hada.io/topic/6078"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6077",
-          "author": null,
-          "description": "오픈웹의 미래를 옹호하기 위해 엔지니어들이 모인 그룹\n규제 기관 및 입법/정책 입안자 등에게 업계의 주요 반경쟁 문제와 해결 방법을 이해하는데 필요한 기술 세부 정보를 제공하는 것을 목표\n현재 가장 큰 위협은 '애플이 iOS에서 써드파티 브라우저 엔진을 사용하지 못하게 막는 것'",
-          "link": "https://news.hada.io/topic?id=6077",
-          "publishedOn": "2022-03-03T01:34:39.000Z",
-          "wordCount": 262,
-          "title": "Open Web Advocacy - 애플의 타사 브라우저 금지 규칙에 이의 제기",
-          "imageUrl": "https://social.news.hada.io/topic/6077"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6076",
-          "author": null,
-          "description": "Container Query\n:has()\n@when/@else\naccent-color\nCSS Color 함수들\nCascade Layers\nSubgrid\nScroll Timeline\nNesting\n\n...",
-          "link": "https://news.hada.io/topic?id=6076",
-          "publishedOn": "2022-03-03T01:07:26.000Z",
-          "wordCount": 91,
-          "title": "2022년 주목해야 할 CSS 기능들",
-          "imageUrl": "https://social.news.hada.io/topic/6076"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6075",
-          "author": null,
-          "description": "Jupyter Notebook 으로 정리\n2번째 시도에서 맞췄다면 나는 잘하는 걸까? 아님 운이 좋은 걸까?\n처음에 가장 좋은 단어는 BRUTE/CHANT/FILET 이지만 그나마 2% 밖에 되지 않음\nHANDY,SWIFT,GLOVE,CRUMP 4개의 단어를 사용하면 100% 6번 안에 맞출 수 있음\n\nChristos는 ARIS...",
-          "link": "https://news.hada.io/topic?id=6075",
-          "publishedOn": "2022-03-03T00:44:03.000Z",
-          "wordCount": 117,
-          "title": "Wordle 잘하는 법",
-          "imageUrl": "https://social.news.hada.io/topic/6075"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6074",
-          "author": null,
-          "description": "Pong을 스페이스바 또는 화면 탭하는 싱글 버튼 누르는 게임으로 트위킹한 것\n모든 스프라이트와 사운드는 별도 애셋을 로드하지 않고 Javascript 코드에서 생성됨\n\n...",
-          "link": "https://news.hada.io/topic?id=6074",
-          "publishedOn": "2022-03-03T00:24:45.000Z",
-          "wordCount": 113,
-          "title": "Almost Pong",
-          "imageUrl": "https://social.news.hada.io/topic/6074"
         }
       ]
     },

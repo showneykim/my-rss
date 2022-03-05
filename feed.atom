@@ -1,10 +1,69 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-04T01:18:35.913Z</id>
+    <id>urn:2022-03-05T01:11:09.084Z</id>
     <title>osmos::feed</title>
-    <updated>2022-03-04T01:18:35.913Z</updated>
+    <updated>2022-03-05T01:11:09.084Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Google Docs, Pageless 모드 추가]]></title>
+        <id>https://news.hada.io/topic?id=6087</id>
+        <link href="https://news.hada.io/topic?id=6087"/>
+        <updated>2022-03-05T00:54:53.000Z</updated>
+        <summary type="html"><![CDATA[스크린 전용으로 페이지 구분이 없는 편집 모드
+이미지는 스크린사이즈에 맞게 조정되며, 넓은 테이블은 좌우 스크롤 지원
+줄 바꿈도 화면 크기 및 줌 인/아웃에 맞추어 조정
+페이지 번호, 헤더와 푸터 등은 보이지 않으며 페이지 모드 에선 다시 볼 수 있음
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WAPM - WebAssembly Package Manager]]></title>
+        <id>https://news.hada.io/topic?id=6086</id>
+        <link href="https://news.hada.io/topic?id=6086"/>
+        <updated>2022-03-05T00:33:42.000Z</updated>
+        <summary type="html"><![CDATA[WASM을 위한 패키지 매니저
+WASM Shell을 제공하여 브라우저에서 실행 및 테스트 가능 (wamser-wasi)
+Wasmer로 리눅스/윈/맥에서 실행 가능한 스탠드얼론 앱 생성 지원
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글, 사용자명/암호만 사용하는 보안 수준이 낮은 앱 이제 이용 불가]]></title>
+        <id>https://news.hada.io/topic?id=6085</id>
+        <link href="https://news.hada.io/topic?id=6085"/>
+        <updated>2022-03-04T02:58:17.000Z</updated>
+        <summary type="html"><![CDATA[2022년 5월 30일부터 ​사용자 이름과 비밀번호만 사용하여 Google 계정에 로그인하도록 요청하는 서드 파티 앱 또는 기기의 사용을 더 이상 지원하지 않음]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Red Hat과 IBM의 Node.js 레퍼런스 아키텍처]]></title>
+        <id>https://news.hada.io/topic?id=6084</id>
+        <link href="https://news.hada.io/topic?id=6084"/>
+        <updated>2022-03-04T01:53:10.000Z</updated>
+        <summary type="html"><![CDATA[경험을 통해 얻은 내용을 정리해서 내/외부 고객을 돕기 위함
+기능 컴포넌트
+
+Web Framework
+Template Engines
+Message Queuing
+Internationalization
+Accessibility
+GraphQL
+Databases
+Authentication and Authorization]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[왜 RISC-V가 성공하고 있을까]]></title>
         <id>https://news.hada.io/topic?id=6083</id>
@@ -107,66 +166,6 @@ Build Membership Businesses with Memberful originally published on CSS-Tricks. Y
         <updated>2022-03-03T03:03:51.000Z</updated>
         <summary type="html"><![CDATA[✏️ EO 김태용 대표의 기업론
 한국에 스타트업이랑 조금이라도 연관 있는 사람이라면 모르기 힘든 EO. 작년에 진행했던 유니콘 하우스도 사실은 포맷이 그렇게 새로운 것은 아녔는데도 기대 이상으로 재미있게 시청했다. 그러고 보니, EO를 만든 김태용이란 사람은 어떤 사람인지 전혀 몰랐다. "말 잘하]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Open Web Advocacy - 애플의 타사 브라우저 금지 규칙에 이의 제기]]></title>
-        <id>https://news.hada.io/topic?id=6077</id>
-        <link href="https://news.hada.io/topic?id=6077"/>
-        <updated>2022-03-03T01:34:39.000Z</updated>
-        <summary type="html"><![CDATA[오픈웹의 미래를 옹호하기 위해 엔지니어들이 모인 그룹
-규제 기관 및 입법/정책 입안자 등에게 업계의 주요 반경쟁 문제와 해결 방법을 이해하는데 필요한 기술 세부 정보를 제공하는 것을 목표
-현재 가장 큰 위협은 '애플이 iOS에서 써드파티 브라우저 엔진을 사용하지 못하게 막는 것']]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022년 주목해야 할 CSS 기능들]]></title>
-        <id>https://news.hada.io/topic?id=6076</id>
-        <link href="https://news.hada.io/topic?id=6076"/>
-        <updated>2022-03-03T01:07:26.000Z</updated>
-        <summary type="html"><![CDATA[Container Query
-:has()
-@when/@else
-accent-color
-CSS Color 함수들
-Cascade Layers
-Subgrid
-Scroll Timeline
-Nesting
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wordle 잘하는 법]]></title>
-        <id>https://news.hada.io/topic?id=6075</id>
-        <link href="https://news.hada.io/topic?id=6075"/>
-        <updated>2022-03-03T00:44:03.000Z</updated>
-        <summary type="html"><![CDATA[Jupyter Notebook 으로 정리
-2번째 시도에서 맞췄다면 나는 잘하는 걸까? 아님 운이 좋은 걸까?
-처음에 가장 좋은 단어는 BRUTE/CHANT/FILET 이지만 그나마 2% 밖에 되지 않음
-HANDY,SWIFT,GLOVE,CRUMP 4개의 단어를 사용하면 100% 6번 안에 맞출 수 있음
-
-Christos는 ARIS...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Almost Pong]]></title>
-        <id>https://news.hada.io/topic?id=6074</id>
-        <link href="https://news.hada.io/topic?id=6074"/>
-        <updated>2022-03-03T00:24:45.000Z</updated>
-        <summary type="html"><![CDATA[Pong을 스페이스바 또는 화면 탭하는 싱글 버튼 누르는 게임으로 트위킹한 것
-모든 스프라이트와 사운드는 별도 애셋을 로드하지 않고 Javascript 코드에서 생성됨
-
-...]]></summary>
         <author>
             <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
