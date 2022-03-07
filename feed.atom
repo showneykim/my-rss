@@ -1,10 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-06T01:09:01.529Z</id>
+    <id>urn:2022-03-07T01:10:42.802Z</id>
     <title>osmos::feed</title>
-    <updated>2022-03-06T01:09:01.529Z</updated>
+    <updated>2022-03-07T01:10:42.802Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[MarTech 스택 만들기 가이드]]></title>
+        <id>https://news.hada.io/topic?id=6096</id>
+        <link href="https://news.hada.io/topic?id=6096"/>
+        <updated>2022-03-07T00:44:29.000Z</updated>
+        <summary type="html"><![CDATA[Martech Stack : 마케팅 활동을 수행, 관리, 측정 및 개선하기 위해 사용하는 소프트웨어 모음
+주요 사용처
+조사 : 키워드 파악하기, 미디어/인플루언서의 소셜 리치 분석 등
+생성 : 협업, ...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025년의 데이터 드리븐 회사 예측]]></title>
+        <id>https://news.hada.io/topic?id=6095</id>
+        <link href="https://news.hada.io/topic?id=6095"/>
+        <updated>2022-03-07T00:27:47.000Z</updated>
+        <summary type="html"><![CDATA["스마트 워크플로우와 사람과 머신간의 매끄러운 상호작용이 기업의 대차대조표 같이 표준이 되고, 대부분의 직원이 데이터를 사용하여 거의 모든 업무를 최적화하게 될 것"
+모든 의사 결정, 상호 작용 및 프로세스에 데이터가 포함
+데이터는 실시간으로]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steam Deck 리뷰 : 아직 준비되지 않았다]]></title>
+        <id>https://news.hada.io/topic?id=6094</id>
+        <link href="https://news.hada.io/topic?id=6094"/>
+        <updated>2022-03-06T01:17:02.000Z</updated>
+        <summary type="html"><![CDATA["첫째, 스팀덱은 최근 몇년간 리뷰한 어떤 가젯보다 재미나다.
+장점
+저렴한 가격의 강력한 고품질 하드웨어
+무한한 사용자 정의 가능한 컨트롤
+쉬운]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Geekbench, 벤치마크에서 삼성 갤럭시 S10,S20,S21,S22 전모델 퇴출]]></title>
+        <id>https://news.hada.io/topic?id=6093</id>
+        <link href="https://news.hada.io/topic?id=6093"/>
+        <updated>2022-03-06T00:58:01.000Z</updated>
+        <summary type="html"><![CDATA[삼성의 GOS(Game Optimizing Service)가 게임과 앱에서 성능을 쓰로틀링
+앱의 동작이 아닌 앱의 ID를 이용하여 쓰로틀링 여부를 결정
+벤치마크 앱은 이 리스트에 포함되지 않기에, 벤치마크 조작이라고 판단
+갤럭시 S10,S20,S21,S22 전모델을 벤치마크 차트에서 삭제
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bypass Paywalls - 뉴스 사이트 페이월을 회피하는 브라우저 확장]]></title>
         <id>https://news.hada.io/topic?id=6092</id>
@@ -119,68 +173,6 @@ tsc를 이용해서 변환한 코드의 타입 체킹]]></summary>
 페이지 번호, 헤더와 푸터 등은 보이지 않으며 페이지 모드 에선 다시 볼 수 있음
 
 ...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WAPM - WebAssembly Package Manager]]></title>
-        <id>https://news.hada.io/topic?id=6086</id>
-        <link href="https://news.hada.io/topic?id=6086"/>
-        <updated>2022-03-05T00:33:42.000Z</updated>
-        <summary type="html"><![CDATA[WASM을 위한 패키지 매니저
-WASM Shell을 제공하여 브라우저에서 실행 및 테스트 가능 (wamser-wasi)
-Wasmer로 리눅스/윈/맥에서 실행 가능한 스탠드얼론 앱 생성 지원
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구글, 사용자명/암호만 사용하는 보안 수준이 낮은 앱 이제 이용 불가]]></title>
-        <id>https://news.hada.io/topic?id=6085</id>
-        <link href="https://news.hada.io/topic?id=6085"/>
-        <updated>2022-03-04T02:58:17.000Z</updated>
-        <summary type="html"><![CDATA[2022년 5월 30일부터 ​사용자 이름과 비밀번호만 사용하여 Google 계정에 로그인하도록 요청하는 서드 파티 앱 또는 기기의 사용을 더 이상 지원하지 않음]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Red Hat과 IBM의 Node.js 레퍼런스 아키텍처]]></title>
-        <id>https://news.hada.io/topic?id=6084</id>
-        <link href="https://news.hada.io/topic?id=6084"/>
-        <updated>2022-03-04T01:53:10.000Z</updated>
-        <summary type="html"><![CDATA[경험을 통해 얻은 내용을 정리해서 내/외부 고객을 돕기 위함
-기능 컴포넌트
-
-Web Framework
-Template Engines
-Message Queuing
-Internationalization
-Accessibility
-GraphQL
-Databases
-Authentication and Authorization]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[왜 RISC-V가 성공하고 있을까]]></title>
-        <id>https://news.hada.io/topic?id=6083</id>
-        <link href="https://news.hada.io/topic?id=6083"/>
-        <updated>2022-03-04T01:11:45.000Z</updated>
-        <summary type="html"><![CDATA[Free 와 Freedom
-변화하는 시장 : 무어의 법칙이 느려지고, 머신러닝의 급격한 증가
-RISC-V의 차별화 요소
-
-아키텍처 자체
-다양한 오픈소스 구현들
-프로세서 코어를 둘러싼 지원 코어들
-RISC-V를 구현하고 검증하기 위한 도구들
-범...]]></summary>
         <author>
             <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
@@ -516,17 +508,6 @@ orderRepository를 통해 주문을 조회한다
 여…]]></summary>
         <author>
             <name>향로</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[추천도서] Do it! 점프 투 파이썬]]></title>
-        <id>https://rastalion.me/?p=2458</id>
-        <link href="https://rastalion.me/%ec%b6%94%ec%b2%9c%eb%8f%84%ec%84%9c-do-it-%ec%a0%90%ed%94%84-%ed%88%ac-%ed%8c%8c%ec%9d%b4%ec%8d%ac/"/>
-        <updated>2022-02-05T07:10:52.000Z</updated>
-        <summary type="html"><![CDATA[파이썬 입문의 베스트 셀러 Do it! 점프 투 파이썬 입니다. 개정판으로 나왔고 저자 분이 위키독스의 운영자분이시기 때문에 웹에서도 무료로 볼수 있는 책입니다. 책을 완독한 후기는 정말 입문용으로는 최고의 도서입니다. 이 책만 완독했다고 해서 프로그래밍에...
-The post [추천도서] Do it! 점프 투 파이썬 appeared first on RastaLion's IT Blog.]]></summary>
-        <author>
-            <name>Rasta Lion</name>
         </author>
     </entry>
 </feed>

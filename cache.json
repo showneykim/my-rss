@@ -41,7 +41,7 @@
           "description": "“Raise the curtains” is what I call an effect where the background goes from dark to light on scroll, and the content on top also goes from light to dark while in a sticky position.\nHere’s an example where I …\nHow to Make a “Raise the Curtains” Effect in CSS originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/css-raise-the-curtains-effect/",
           "publishedOn": "2022-03-02T15:57:32.000Z",
-          "wordCount": 1301,
+          "wordCount": 1206,
           "title": "How to Make a “Raise the Curtains” Effect in CSS",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363882"
         },
@@ -51,7 +51,7 @@
           "description": "Styling ranges of text in software is a very useful thing to be able to do. Thankfully, we have the CSS Custom Highlight API to look forward to because it represents the future of styling text ranges on the web.…\nCSS Custom Highlight API: The Future of Highlighting Text Ranges on the Web originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/css-custom-highlight-api-early-loo/",
           "publishedOn": "2022-03-01T17:41:13.000Z",
-          "wordCount": 2574,
+          "wordCount": 2533,
           "title": "CSS Custom Highlight API: The Future of Highlighting Text Ranges on the Web",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363724"
         },
@@ -121,7 +121,7 @@
           "description": "Nic Chan:\n[…] the will-change property landed in major browsers in August 2015, and I’ve been on the lookout for when to use it ever since. It might seem self-evident to apply it to commonly animated properties such \n…\nMy white whale: A use case for will-change originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/my-white-whale-a-use-case-for-will-change/",
           "publishedOn": "2022-02-24T20:59:29.000Z",
-          "wordCount": 604,
+          "wordCount": 623,
           "title": "My white whale: A use case for will-change",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364138"
         },
@@ -131,7 +131,7 @@
           "description": "For the past few weeks, I’ve been hiring for a senior full-stack JavaScript engineer at my rental furniture company, Pabio. Since we’re a remote team, we conduct our interviews on Zoom, and I’ve observed that some developers are not …\nExplain the First 10 Lines of Twitter’s Source Code to Me originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/explain-the-first-10-lines-of-twitter-source-code/",
           "publishedOn": "2022-02-24T15:31:55.000Z",
-          "wordCount": 6591,
+          "wordCount": 6350,
           "title": "Explain the First 10 Lines of Twitter’s Source Code to Me",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363553"
         },
@@ -141,7 +141,7 @@
           "description": "(This is a sponsored post.)\nIn recent years, the Jamstack methodology for building websites has become increasingly popular. Performance, scalable, and secure, it’s easy to see why it’s becoming an attractive way to build websites for developers.\nGatsbyJS is …\nSuperior Image Optimization: An Ideal Solution Using Gatsby & ImageEngine originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/superior-image-optimization-an-ideal-solution-using-gatsby-imageengine/",
           "publishedOn": "2022-02-24T15:31:49.000Z",
-          "wordCount": 2773,
+          "wordCount": 2792,
           "title": "Superior Image Optimization: An Ideal Solution Using Gatsby & ImageEngine",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363526"
         },
@@ -168,19 +168,9 @@
           "description": "DBeaver에서 java heap space 부족이라고 나올때 DB를 관리하는 툴중에 DBeaver라는 툴이 있습니다. 커뮤니티 버전은 프리웨어이기도 하고, 엔터프라이즈 버전은 낮은 가격에도 강력한 부가 기능들이 있어 주로 사용하는 DB툴입니다. DBeaver에서 대용량 테이블을 이관하거나 CSV 파일들의 작업을...\nThe post DBeaver에서 java heap space 부족이라고 나올때 appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/dbeaver%ec%97%90%ec%84%9c-java-heap-space-%eb%b6%80%ec%a1%b1%ec%9d%b4%eb%9d%bc%ea%b3%a0-%eb%82%98%ec%98%ac%eb%95%8c/",
           "publishedOn": "2022-03-01T15:22:02.000Z",
-          "wordCount": 544,
+          "wordCount": 539,
           "title": "DBeaver에서 java heap space 부족이라고 나올때",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2021/04/sm_5b46d890d85b8.jpg"
-        },
-        {
-          "id": "https://rastalion.me/?p=2458",
-          "author": "Rasta Lion",
-          "description": "파이썬 입문의 베스트 셀러 Do it! 점프 투 파이썬 입니다. 개정판으로 나왔고 저자 분이 위키독스의 운영자분이시기 때문에 웹에서도 무료로 볼수 있는 책입니다. 책을 완독한 후기는 정말 입문용으로는 최고의 도서입니다. 이 책만 완독했다고 해서 프로그래밍에...\nThe post [추천도서] Do it! 점프 투 파이썬 appeared first on RastaLion's IT Blog.",
-          "link": "https://rastalion.me/%ec%b6%94%ec%b2%9c%eb%8f%84%ec%84%9c-do-it-%ec%a0%90%ed%94%84-%ed%88%ac-%ed%8c%8c%ec%9d%b4%ec%8d%ac/",
-          "publishedOn": "2022-02-05T07:10:52.000Z",
-          "wordCount": 718,
-          "title": "[추천도서] Do it! 점프 투 파이썬",
-          "imageUrl": "https://rastalion.me/wp-content/uploads/2022/02/k582635822_1.jpg"
         }
       ]
     },
@@ -190,12 +180,52 @@
       "siteUrl": "https://news.hada.io",
       "articles": [
         {
+          "id": "https://news.hada.io/topic?id=6096",
+          "author": null,
+          "description": "Martech Stack : 마케팅 활동을 수행, 관리, 측정 및 개선하기 위해 사용하는 소프트웨어 모음\n주요 사용처\n조사 : 키워드 파악하기, 미디어/인플루언서의 소셜 리치 분석 등\n생성 : 협업, ...",
+          "link": "https://news.hada.io/topic?id=6096",
+          "publishedOn": "2022-03-07T00:44:29.000Z",
+          "wordCount": 298,
+          "title": "MarTech 스택 만들기 가이드",
+          "imageUrl": "https://social.news.hada.io/topic/6096"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6095",
+          "author": null,
+          "description": "\"스마트 워크플로우와 사람과 머신간의 매끄러운 상호작용이 기업의 대차대조표 같이 표준이 되고, 대부분의 직원이 데이터를 사용하여 거의 모든 업무를 최적화하게 될 것\"\n모든 의사 결정, 상호 작용 및 프로세스에 데이터가 포함\n데이터는 실시간으로",
+          "link": "https://news.hada.io/topic?id=6095",
+          "publishedOn": "2022-03-07T00:27:47.000Z",
+          "wordCount": 132,
+          "title": "2025년의 데이터 드리븐 회사 예측",
+          "imageUrl": "https://social.news.hada.io/topic/6095"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6094",
+          "author": null,
+          "description": "\"첫째, 스팀덱은 최근 몇년간 리뷰한 어떤 가젯보다 재미나다.\n장점\n저렴한 가격의 강력한 고품질 하드웨어\n무한한 사용자 정의 가능한 컨트롤\n쉬운",
+          "link": "https://news.hada.io/topic?id=6094",
+          "publishedOn": "2022-03-06T01:17:02.000Z",
+          "wordCount": 178,
+          "title": "Steam Deck 리뷰 : 아직 준비되지 않았다",
+          "imageUrl": "https://social.news.hada.io/topic/6094"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6093",
+          "author": null,
+          "description": "삼성의 GOS(Game Optimizing Service)가 게임과 앱에서 성능을 쓰로틀링\n앱의 동작이 아닌 앱의 ID를 이용하여 쓰로틀링 여부를 결정\n벤치마크 앱은 이 리스트에 포함되지 않기에, 벤치마크 조작이라고 판단\n갤럭시 S10,S20,S21,S22 전모델을 벤치마크 차트에서 삭제\n\n...",
+          "link": "https://news.hada.io/topic?id=6093",
+          "publishedOn": "2022-03-06T00:58:01.000Z",
+          "wordCount": 147,
+          "title": "Geekbench, 벤치마크에서 삼성 갤럭시 S10,S20,S21,S22 전모델 퇴출",
+          "imageUrl": "https://social.news.hada.io/topic/6093"
+        },
+        {
           "id": "https://news.hada.io/topic?id=6092",
           "author": null,
           "description": "크롬/엣지/FF 지원\n다운받아서 직접 설치 필요\n크롬은 개발자 모드를 활성화 해야 설치 및 동작 가능\nMedium/NYT/FT 등 약 100여개의 사이트 지원\n\n...",
           "link": "https://news.hada.io/topic?id=6092",
           "publishedOn": "2022-03-06T00:33:01.000Z",
-          "wordCount": 84,
+          "wordCount": 120,
           "title": "Bypass Paywalls - 뉴스 사이트 페이월을 회피하는 브라우저 확장",
           "imageUrl": "https://social.news.hada.io/topic/6092"
         },
@@ -248,46 +278,6 @@
           "wordCount": 128,
           "title": "Google Docs, Pageless 모드 추가",
           "imageUrl": "https://social.news.hada.io/topic/6087"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6086",
-          "author": null,
-          "description": "WASM을 위한 패키지 매니저\nWASM Shell을 제공하여 브라우저에서 실행 및 테스트 가능 (wamser-wasi)\nWasmer로 리눅스/윈/맥에서 실행 가능한 스탠드얼론 앱 생성 지원\n\n...",
-          "link": "https://news.hada.io/topic?id=6086",
-          "publishedOn": "2022-03-05T00:33:42.000Z",
-          "wordCount": 76,
-          "title": "WAPM - WebAssembly Package Manager",
-          "imageUrl": "https://social.news.hada.io/topic/6086"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6085",
-          "author": null,
-          "description": "2022년 5월 30일부터 ​사용자 이름과 비밀번호만 사용하여 Google 계정에 로그인하도록 요청하는 서드 파티 앱 또는 기기의 사용을 더 이상 지원하지 않음",
-          "link": "https://news.hada.io/topic?id=6085",
-          "publishedOn": "2022-03-04T02:58:17.000Z",
-          "wordCount": 86,
-          "title": "구글, 사용자명/암호만 사용하는 보안 수준이 낮은 앱 이제 이용 불가",
-          "imageUrl": "https://social.news.hada.io/topic/6085"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6084",
-          "author": null,
-          "description": "경험을 통해 얻은 내용을 정리해서 내/외부 고객을 돕기 위함\n기능 컴포넌트\n\nWeb Framework\nTemplate Engines\nMessage Queuing\nInternationalization\nAccessibility\nGraphQL\nDatabases\nAuthentication and Authorization",
-          "link": "https://news.hada.io/topic?id=6084",
-          "publishedOn": "2022-03-04T01:53:10.000Z",
-          "wordCount": 147,
-          "title": "Red Hat과 IBM의 Node.js 레퍼런스 아키텍처",
-          "imageUrl": "https://social.news.hada.io/topic/6084"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6083",
-          "author": null,
-          "description": "Free 와 Freedom\n변화하는 시장 : 무어의 법칙이 느려지고, 머신러닝의 급격한 증가\nRISC-V의 차별화 요소\n\n아키텍처 자체\n다양한 오픈소스 구현들\n프로세서 코어를 둘러싼 지원 코어들\nRISC-V를 구현하고 검증하기 위한 도구들\n범...",
-          "link": "https://news.hada.io/topic?id=6083",
-          "publishedOn": "2022-03-04T01:11:45.000Z",
-          "wordCount": 169,
-          "title": "왜 RISC-V가 성공하고 있을까",
-          "imageUrl": "https://social.news.hada.io/topic/6083"
         }
       ]
     },
