@@ -1,10 +1,179 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-07T01:10:42.802Z</id>
+    <id>urn:2022-03-08T01:08:31.760Z</id>
     <title>osmos::feed</title>
-    <updated>2022-03-07T01:10:42.802Z</updated>
+    <updated>2022-03-08T01:08:31.760Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[러시아, 소프트웨어 불법복제 합법화 논의중]]></title>
+        <id>https://news.hada.io/topic?id=6104</id>
+        <link href="https://news.hada.io/topic?id=6104"/>
+        <updated>2022-03-08T00:50:45.000Z</updated>
+        <summary type="html"><![CDATA["러시아를 제재하는 국가들"의 소프트웨어를 불법복제해서 사용하는 것에 대해서 형사/행정적 책임을 철폐하는 방안이 논의 되고 있음
+Microsoft, IBM, Oracle 같은 기업들이 러시아에서 떠나는 것을 일시적으로 완화할 수 있을 것이라고
+하지만 대부분의 소프트웨어가 구독형이기...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[테스트코드에서 Optional chaining(?.) 쓰지않기]]></title>
+        <id>https://jojoldu.tistory.com/643</id>
+        <link href="https://jojoldu.tistory.com/643"/>
+        <updated>2022-03-08T00:26:46.000Z</updated>
+        <summary type="html"><![CDATA[반응형
+
+                    
+                    (adsbygoogle = window.adsbygoogle || []).push({}); 
+               
+
+여러 포스팅에서 언급한것처럼 테스트 코드는 빠르게 실패를 파악할 수 있어야 한다.
+그런면에서 Optional chaining(?.) 은 테스트코드에 적합하지 않다.
+MDN의 설명을 가져오면 Optional chaining(?.)은 체이닝 연산자(.) 와 유사하게 작동하지만, 만약 참조가 nullish (en-US) (null 또는 undefined)이라면, 에러가 발생하는 것 대신에 표현식의 리턴 값을 undefined로 반환한다.
+따라서 참조가 누락될 가능성이 있는 경우 연결된 속성으로 접근할 때 더 짧고 간단한 표현식이 생성된다. 
+어떤 속성이 필요한지에 대한 보증이 확실하지 않는 경우 객체의 내용을 탐색하는 동안 도움이 될 수 있다.
+안정적으로 객체 탐색이 가능하기 때문에 프로덕션 코드에서는 적극적으로 사용하는 편이다. 
+하지만 테스트 코드에서는 안정적인 점이 오히려 단점이 된다.
+문제
+이를 테면 다음과 같이 sut 의 하위에 있는 pay.amount 를 검증한다고 하자. 
+이때 Optional chaining(?.) 을 사용한다면 다음과 같다.
+it('?가 있는 경우 #1', () => {
+    const amount = 0;
+    const sut = createOrder(amount);
+
+    expect(sut?.pay?.amount).toBe(amount);
+});
+
+class Order…]]></summary>
+        <author>
+            <name>향로</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유니텔 서비스 종료 예정]]></title>
+        <id>https://news.hada.io/topic?id=6103</id>
+        <link href="https://news.hada.io/topic?id=6103"/>
+        <updated>2022-03-08T00:26:29.000Z</updated>
+        <summary type="html"><![CDATA[1996년부터 시작하여 오랜 기간을 거쳐온 4대 PC통신 서비스 중 하나인 유니텔이 2022년 6월 30일 서비스가 종료될 것임을 알리는 공지가 게재되었습니다.
+유니텔 서비스가 2022년 06월 30일 종료됩니다.
+안녕하세요. 유니텔입니다.
+먼저 오랜 기간 동안 유니텔을 이용해주신 고객]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Youtube-dl을 셧다운 하려는 시도가 계속 되고 있음]]></title>
+        <id>https://news.hada.io/topic?id=6102</id>
+        <link href="https://news.hada.io/topic?id=6102"/>
+        <updated>2022-03-08T00:22:55.000Z</updated>
+        <summary type="html"><![CDATA[2020년 미국음반산업협회(RIAA)가 GitHub에 DMCA 위반을 주장하여 삭제되었다가 복원되었음
+소니/워너/유니버설 뮤직이 독일 법정에서 youtube-dl 홈페이지를 호스팅하는 작은 호스팅 업체 Uberspace를 고소
+독일 시민권 협회(German Society for Civil Rights, GFF)가 이에 반대한다는 주장...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Make - 노코드 자동화 도구]]></title>
+        <id>https://news.hada.io/topic?id=6101</id>
+        <link href="https://news.hada.io/topic?id=6101"/>
+        <updated>2022-03-08T00:07:35.000Z</updated>
+        <summary type="html"><![CDATA[약 1000여개의 커넥터를 통해서 각종 서비스를 노코드 방식으로 연결하여 자동화 하는 도구
+5000개가 넘는 다양한 템플릿 제공
+무료티어 : 1000ops/월
+예전 이름은 Integromat. Zapier의 경쟁제품...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조건부 (if~else) 로직 테스트코드에서 사용하지 않기]]></title>
+        <id>https://jojoldu.tistory.com/642</id>
+        <link href="https://jojoldu.tistory.com/642"/>
+        <updated>2022-03-07T03:35:43.000Z</updated>
+        <summary type="html"><![CDATA[반응형
+
+                    
+                    (adsbygoogle = window.adsbygoogle || []).push({}); 
+               
+
+테스트 코드는 프로젝트의 생명 주기 보다 길때가 많다. 
+기존의 요구사항을 정리한것이 테스트 코드이기 때문에, 메인 코드보다 훨씬 더 읽기쉬워야만 한다.
+만약 테스트 코드가 복잡한 경우 어떻게 작동하는지 이해하기가 어렵다. 
+그래서 테스트 코드는 주석이 필요 없을 정도로 간단해야 한다.
+그런면에서 조건부 (if ~ else) 테스트 로직은 테스트를 실제보다 더 복잡하게 만드는 요인 중 하나다.
+이번 글에서는 조건부 로직을 테스트에서 사용한 경우에 어떻게 개선할 수 있을지 알아본다.
+1. 가변 결과를 검증하는 경우
+1-1. 문제
+첫번째 문제는 다음과 같이 테스트 실행때마다 결과가 달라지는 경우이다.
+it('[Bad] 가변결과 검증', () => {
+    const now = LocalDateTime.now();
+    const sut = new TimeDisplay();
+    const result = sut.display(now);
+
+    let actual;
+    if(now.hour() === 0 && now.minute() === 0) {
+        actual = 'Midnight';
+    } else if (now.hour() === 12 && now.minute() === 0) {
+        actual = 'Noon';
+    } else {
+        actual = no…]]></summary>
+        <author>
+            <name>향로</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이달의 구인공고 - 멤버를 찾고 계신가요 ?]]></title>
+        <id>https://news.hada.io/topic?id=6100</id>
+        <link href="https://news.hada.io/topic?id=6100"/>
+        <updated>2022-03-07T03:04:40.000Z</updated>
+        <summary type="html"><![CDATA[현재 근무중인 스타트업에서 같이 일할 멤버를 찾고 계시다면
+이 글은 매월 첫번째 월요일에 등록됩니다.
+해]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SaaS를 1년 운영해보고 배운 것]]></title>
+        <id>https://news.hada.io/topic?id=6099</id>
+        <link href="https://news.hada.io/topic?id=6099"/>
+        <updated>2022-03-07T01:39:09.000Z</updated>
+        <summary type="html"><![CDATA[업타임 체커인 OnlineOrNot을 Next.js + AWS Lambda로 7일만에 만들어서 런치하고 1년간 운영한 경험
+200개나 되는 경쟁자가 있음에도 서비스를 유지하는 비법은?
+주중 평일에 딱 두시간만 일함
+고객의 고통을 해결하는 기능에 집중
+엄청(ruthlessly) 반복적. ...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["진짜" 클라이언트 IP의 위험성]]></title>
+        <id>https://news.hada.io/topic?id=6098</id>
+        <link href="https://news.hada.io/topic?id=6098"/>
+        <updated>2022-03-07T01:23:55.000Z</updated>
+        <summary type="html"><![CDATA[요약
+X-Forwarded-For 헤더에서 "Real Client IP" 를 가져올때 가장 오른쪽 IP를 사용할 것
+XFF 헤더에서 가장 왼쪽 IP는 보통 "클라이언트에 가장 가까운" "거의 진짜"인것으로 간주되지만 속이는게 가능(spoofable). 보안과 관련된 어떤 것에도 사용하지 말...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[:latest 를 사용하지 마세요]]></title>
+        <id>https://news.hada.io/topic?id=6097</id>
+        <link href="https://news.hada.io/topic?id=6097"/>
+        <updated>2022-03-07T01:05:04.000Z</updated>
+        <summary type="html"><![CDATA[Dockerfile 에서 :latest 는 CD의 가장 중요한 요구사항인 "재현 가능한 멱등 빌드"를 깸
+쿠버네티스 Pod Manifest에서 latest를 지정하는 것은 더 안 좋음
+→ Dockerfile에선 롤백이라도 가능하지만, 배포 ...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MarTech 스택 만들기 가이드]]></title>
         <id>https://news.hada.io/topic?id=6096</id>
@@ -26,67 +195,6 @@
         <summary type="html"><![CDATA["스마트 워크플로우와 사람과 머신간의 매끄러운 상호작용이 기업의 대차대조표 같이 표준이 되고, 대부분의 직원이 데이터를 사용하여 거의 모든 업무를 최적화하게 될 것"
 모든 의사 결정, 상호 작용 및 프로세스에 데이터가 포함
 데이터는 실시간으로]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steam Deck 리뷰 : 아직 준비되지 않았다]]></title>
-        <id>https://news.hada.io/topic?id=6094</id>
-        <link href="https://news.hada.io/topic?id=6094"/>
-        <updated>2022-03-06T01:17:02.000Z</updated>
-        <summary type="html"><![CDATA["첫째, 스팀덱은 최근 몇년간 리뷰한 어떤 가젯보다 재미나다.
-장점
-저렴한 가격의 강력한 고품질 하드웨어
-무한한 사용자 정의 가능한 컨트롤
-쉬운]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Geekbench, 벤치마크에서 삼성 갤럭시 S10,S20,S21,S22 전모델 퇴출]]></title>
-        <id>https://news.hada.io/topic?id=6093</id>
-        <link href="https://news.hada.io/topic?id=6093"/>
-        <updated>2022-03-06T00:58:01.000Z</updated>
-        <summary type="html"><![CDATA[삼성의 GOS(Game Optimizing Service)가 게임과 앱에서 성능을 쓰로틀링
-앱의 동작이 아닌 앱의 ID를 이용하여 쓰로틀링 여부를 결정
-벤치마크 앱은 이 리스트에 포함되지 않기에, 벤치마크 조작이라고 판단
-갤럭시 S10,S20,S21,S22 전모델을 벤치마크 차트에서 삭제
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bypass Paywalls - 뉴스 사이트 페이월을 회피하는 브라우저 확장]]></title>
-        <id>https://news.hada.io/topic?id=6092</id>
-        <link href="https://news.hada.io/topic?id=6092"/>
-        <updated>2022-03-06T00:33:01.000Z</updated>
-        <summary type="html"><![CDATA[크롬/엣지/FF 지원
-다운받아서 직접 설치 필요
-크롬은 개발자 모드를 활성화 해야 설치 및 동작 가능
-Medium/NYT/FT 등 약 100여개의 사이트 지원
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS, Customer Carbon Footprint Tool – 탄소 배출 추적 도구 출시]]></title>
-        <id>https://news.hada.io/topic?id=6091</id>
-        <link href="https://news.hada.io/topic?id=6091"/>
-        <updated>2022-03-06T00:16:01.000Z</updated>
-        <summary type="html"><![CDATA[탈탄소화를 위한 Amazon의 노력에 대한 정보를 고객과 공유하고 같이 노력하기
-내 계정의 탄소 배출량을 보여주는 도구
-
-요약 및 지리적, 서비스별
-월별,분기별,연간기준 통계
-AWS가 100% 재생 에너지로 갔을 때 내 계정의 탄소배출량이 어떻게 바뀔 지를 예측
-
-...]]></summary>
         <author>
             <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
@@ -124,57 +232,6 @@ Github에서 이야기하는 여러 기능들을 미리 볼 수 있는 Feature p
                     (adsbygoogle = window.adsbygoogle || []).push({});]]></summary>
         <author>
             <name>향로</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국제은행간통신협회(SWIFT) 결제망 아키텍처]]></title>
-        <id>https://news.hada.io/topic?id=6090</id>
-        <link href="https://news.hada.io/topic?id=6090"/>
-        <updated>2022-03-05T11:19:18.000Z</updated>
-        <summary type="html"><![CDATA[SWIFT(Society for Worldwide Interbank Financial Telecommunication)는 전 세계 은행들이 다른 나라에 있는 은행과 금융 거래를 하기 위해 사용하는 메시징 시스템. 벨기에에 본부가 있으며, SWIFT 코드라 불리는 8-11자리 식별자로 송금 은행, 수신 은행을 식별함.
-SWIFT 코드는 1975년경 자체적인 형식으로]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[dnt - Deno to Node Transform]]></title>
-        <id>https://news.hada.io/topic?id=6089</id>
-        <link href="https://news.hada.io/topic?id=6089"/>
-        <updated>2022-03-05T01:27:06.000Z</updated>
-        <summary type="html"><![CDATA[Deno 모듈을 Node.js 용 npm 패키지로 변환해주는 도구
-Node.js랑 호환되는 TypeScript 코드로 변경
-
-Deno 네임스페이스 API들에는 shim 삽입
-Skypack 이나 esm.sh 같은 리모트 임포트를 package.json 에 추가
-tsc를 이용해서 변환한 코드의 타입 체킹]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Snowflake, Streamlit을 $800M에 인수]]></title>
-        <id>https://news.hada.io/topic?id=6088</id>
-        <link href="https://news.hada.io/topic?id=6088"/>
-        <updated>2022-03-05T01:09:15.000Z</updated>
-        <summary type="html"><![CDATA[Streamlit는 DE/DS들이 데이터 앱을 쉽게 만들 수 있는 도구를 만드는 회사(오픈소스로도 공개)]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Docs, Pageless 모드 추가]]></title>
-        <id>https://news.hada.io/topic?id=6087</id>
-        <link href="https://news.hada.io/topic?id=6087"/>
-        <updated>2022-03-05T00:54:53.000Z</updated>
-        <summary type="html"><![CDATA[스크린 전용으로 페이지 구분이 없는 편집 모드
-이미지는 스크린사이즈에 맞게 조정되며, 넓은 테이블은 좌우 스크롤 지원
-줄 바꿈도 화면 크기 및 줌 인/아웃에 맞추어 조정
-페이지 번호, 헤더와 푸터 등은 보이지 않으며 페이지 모드 에선 다시 볼 수 있음
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
     </entry>
     <entry>
