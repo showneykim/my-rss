@@ -1,10 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-09T01:13:39.663Z</id>
+    <id>urn:2022-03-10T01:16:40.437Z</id>
     <title>osmos::feed</title>
-    <updated>2022-03-09T01:13:39.663Z</updated>
+    <updated>2022-03-10T01:16:40.437Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[크롬의 새로운 속도 마일스톤]]></title>
+        <id>https://news.hada.io/topic?id=6113</id>
+        <link href="https://news.hada.io/topic?id=6113"/>
+        <updated>2022-03-10T00:31:53.000Z</updated>
+        <summary type="html"><![CDATA[맥용 크롬이 애플의 Speedometer 2.0 테스트에서 모든 브라우저중 최고 점수인 300점을 받음
+작년에 ThinLTO 기능을 도입하여 속도가 많이 개선되어 사파리 보다 그래픽 포함 15% 빨라짐
+M1용 크롬 출시후 17개월 동안 그전보다 43% 빨라짐
+최근의 주요 속도 개선점은 V8 Sparkplug...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 이력서 카드 생성과 이력서 유입 통계 관리]]></title>
+        <id>https://news.hada.io/topic?id=6112</id>
+        <link href="https://news.hada.io/topic?id=6112"/>
+        <updated>2022-03-09T12:54:27.000Z</updated>
+        <summary type="html"><![CDATA[자신만의 이력서 카드를 생성해 홍보하고, 연동된 이력서 유입을 통계내는 애플리케이션을 개발했습니다.
+만들어진 이력서 카드는 마크업문서 (깃허브 리드미, 노션 등 이미지 링크 삽입을 지원하는 문서 작성 툴)에 포함시킬 수 있고, 이력서 카드에 연동된 이력서 유입을 통계내서 보여줍니다.
+통계...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[페이스북 개발자의 성과 만들기]]></title>
+        <id>https://news.hada.io/topic?id=6111</id>
+        <link href="https://news.hada.io/topic?id=6111"/>
+        <updated>2022-03-09T09:53:57.000Z</updated>
+        <summary type="html"><![CDATA[페이스북에서 일하는 지인한테 페이스북에서는 일하는 방식과 성과 측정/평가를 어떻게 하는지를 듣고 이를 정리
+업무의 시작
+데이터를 기반으로 한 뚜렷하고 심플한 목표가 주기적으로 내려온다.
+이 목표를 이루기 위한 아이디어는 모든 작업자가 생각해 내서 프로젝트를 자발적으로]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[말이 되는 왓챠 2.0, 하지만 그것만으로 될까]]></title>
+        <id>https://news.hada.io/topic?id=6110</id>
+        <link href="https://news.hada.io/topic?id=6110"/>
+        <updated>2022-03-09T01:14:21.000Z</updated>
+        <summary type="html"><![CDATA[왓챠가 발표한 종합플랫폼 왓챠 2.0 선언에 대한 분석
+왓챠는 생태계의 핵심을 리텐션이라 봤고, 리텐션 끌올을 위한 슈퍼앱 전략을 발표했습니다.
+이 슈퍼앱 전략의 핵심은 콘텐츠, 그리고 그 콘텐츠들은 ‘과몰입’을 유발할 수 있어야 합니다.
+근데 문제는 시장이 제로섬으로 가고]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[애플, Mac Studio 와 Studio Display 공개]]></title>
         <id>https://news.hada.io/topic?id=6109</id>
@@ -122,44 +173,6 @@ class Order…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[유니텔 서비스 종료 예정]]></title>
-        <id>https://news.hada.io/topic?id=6103</id>
-        <link href="https://news.hada.io/topic?id=6103"/>
-        <updated>2022-03-08T00:26:29.000Z</updated>
-        <summary type="html"><![CDATA[1996년부터 시작하여 오랜 기간을 거쳐온 4대 PC통신 서비스 중 하나인 유니텔이 2022년 6월 30일 서비스가 종료될 것임을 알리는 공지가 게재되었습니다.
-유니텔 서비스가 2022년 06월 30일 종료됩니다.
-안녕하세요. 유니텔입니다.
-먼저 오랜 기간 동안 유니텔을 이용해주신 고객]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Youtube-dl을 셧다운 하려는 시도가 계속 되고 있음]]></title>
-        <id>https://news.hada.io/topic?id=6102</id>
-        <link href="https://news.hada.io/topic?id=6102"/>
-        <updated>2022-03-08T00:22:55.000Z</updated>
-        <summary type="html"><![CDATA[2020년 미국음반산업협회(RIAA)가 GitHub에 DMCA 위반을 주장하여 삭제되었다가 복원되었음
-소니/워너/유니버설 뮤직이 독일 법정에서 youtube-dl 홈페이지를 호스팅하는 작은 호스팅 업체 Uberspace를 고소
-독일 시민권 협회(German Society for Civil Rights, GFF)가 이에 반대한다는 주장...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Make - 노코드 자동화 도구]]></title>
-        <id>https://news.hada.io/topic?id=6101</id>
-        <link href="https://news.hada.io/topic?id=6101"/>
-        <updated>2022-03-08T00:07:35.000Z</updated>
-        <summary type="html"><![CDATA[약 1000여개의 커넥터를 통해서 각종 서비스를 노코드 방식으로 연결하여 자동화 하는 도구
-5000개가 넘는 다양한 템플릿 제공
-무료티어 : 1000ops/월
-예전 이름은 Integromat. Zapier의 경쟁제품...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[조건부 (if~else) 로직 테스트코드에서 사용하지 않기]]></title>
         <id>https://jojoldu.tistory.com/642</id>
         <link href="https://jojoldu.tistory.com/642"/>
@@ -193,18 +206,6 @@ it('[Bad] 가변결과 검증', () => {
         actual = no…]]></summary>
         <author>
             <name>향로</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 이달의 구인공고 - 멤버를 찾고 계신가요 ?]]></title>
-        <id>https://news.hada.io/topic?id=6100</id>
-        <link href="https://news.hada.io/topic?id=6100"/>
-        <updated>2022-03-07T03:04:40.000Z</updated>
-        <summary type="html"><![CDATA[현재 근무중인 스타트업에서 같이 일할 멤버를 찾고 계시다면
-이 글은 매월 첫번째 월요일에 등록됩니다.
-해]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
     </entry>
     <entry>

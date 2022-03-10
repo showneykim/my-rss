@@ -168,7 +168,7 @@
           "description": "DBeaver에서 java heap space 부족이라고 나올때 DB를 관리하는 툴중에 DBeaver라는 툴이 있습니다. 커뮤니티 버전은 프리웨어이기도 하고, 엔터프라이즈 버전은 낮은 가격에도 강력한 부가 기능들이 있어 주로 사용하는 DB툴입니다. DBeaver에서 대용량 테이블을 이관하거나 CSV 파일들의 작업을...\nThe post DBeaver에서 java heap space 부족이라고 나올때 appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/dbeaver%ec%97%90%ec%84%9c-java-heap-space-%eb%b6%80%ec%a1%b1%ec%9d%b4%eb%9d%bc%ea%b3%a0-%eb%82%98%ec%98%ac%eb%95%8c/",
           "publishedOn": "2022-03-01T15:22:02.000Z",
-          "wordCount": 540,
+          "wordCount": 536,
           "title": "DBeaver에서 java heap space 부족이라고 나올때",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2021/04/sm_5b46d890d85b8.jpg"
         }
@@ -180,12 +180,52 @@
       "siteUrl": "https://news.hada.io",
       "articles": [
         {
+          "id": "https://news.hada.io/topic?id=6113",
+          "author": null,
+          "description": "맥용 크롬이 애플의 Speedometer 2.0 테스트에서 모든 브라우저중 최고 점수인 300점을 받음\n작년에 ThinLTO 기능을 도입하여 속도가 많이 개선되어 사파리 보다 그래픽 포함 15% 빨라짐\nM1용 크롬 출시후 17개월 동안 그전보다 43% 빨라짐\n최근의 주요 속도 개선점은 V8 Sparkplug...",
+          "link": "https://news.hada.io/topic?id=6113",
+          "publishedOn": "2022-03-10T00:31:53.000Z",
+          "wordCount": 111,
+          "title": "크롬의 새로운 속도 마일스톤",
+          "imageUrl": "https://social.news.hada.io/topic/6113"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6112",
+          "author": null,
+          "description": "자신만의 이력서 카드를 생성해 홍보하고, 연동된 이력서 유입을 통계내는 애플리케이션을 개발했습니다.\n만들어진 이력서 카드는 마크업문서 (깃허브 리드미, 노션 등 이미지 링크 삽입을 지원하는 문서 작성 툴)에 포함시킬 수 있고, 이력서 카드에 연동된 이력서 유입을 통계내서 보여줍니다.\n통계...",
+          "link": "https://news.hada.io/topic?id=6112",
+          "publishedOn": "2022-03-09T12:54:27.000Z",
+          "wordCount": 223,
+          "title": "Show GN: 이력서 카드 생성과 이력서 유입 통계 관리",
+          "imageUrl": "https://social.news.hada.io/topic/6112"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6111",
+          "author": null,
+          "description": "페이스북에서 일하는 지인한테 페이스북에서는 일하는 방식과 성과 측정/평가를 어떻게 하는지를 듣고 이를 정리\n업무의 시작\n데이터를 기반으로 한 뚜렷하고 심플한 목표가 주기적으로 내려온다.\n이 목표를 이루기 위한 아이디어는 모든 작업자가 생각해 내서 프로젝트를 자발적으로",
+          "link": "https://news.hada.io/topic?id=6111",
+          "publishedOn": "2022-03-09T09:53:57.000Z",
+          "wordCount": 295,
+          "title": "페이스북 개발자의 성과 만들기",
+          "imageUrl": "https://social.news.hada.io/topic/6111"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6110",
+          "author": null,
+          "description": "왓챠가 발표한 종합플랫폼 왓챠 2.0 선언에 대한 분석\n왓챠는 생태계의 핵심을 리텐션이라 봤고, 리텐션 끌올을 위한 슈퍼앱 전략을 발표했습니다.\n이 슈퍼앱 전략의 핵심은 콘텐츠, 그리고 그 콘텐츠들은 ‘과몰입’을 유발할 수 있어야 합니다.\n근데 문제는 시장이 제로섬으로 가고",
+          "link": "https://news.hada.io/topic?id=6110",
+          "publishedOn": "2022-03-09T01:14:21.000Z",
+          "wordCount": 101,
+          "title": "말이 되는 왓챠 2.0, 하지만 그것만으로 될까",
+          "imageUrl": "https://social.news.hada.io/topic/6110"
+        },
+        {
           "id": "https://news.hada.io/topic?id=6109",
           "author": null,
           "description": "Mac Studio\nM1 Max 와 M1 Ultra 탑재 버전\n가로세로 19.7cm로 맥미니와 같은 크기에 높이만 9.5cm로 약 2.6배 높음\nM1 Max 는 16코어 Xeon Mac Pro 대비 50% 빠름\nM1 Ultra 는 16코어 Xeon Mac Pro 대비 90% 빠르고, 28코어 Mac Pro 대비 60% 빠름\n4개의 썬더볼트...",
           "link": "https://news.hada.io/topic?id=6109",
           "publishedOn": "2022-03-08T23:59:37.000Z",
-          "wordCount": 211,
+          "wordCount": 228,
           "title": "애플, Mac Studio 와 Studio Display 공개",
           "imageUrl": "https://social.news.hada.io/topic/6109"
         },
@@ -195,7 +235,7 @@
           "description": "2개의 M1 Max칩 다이를 결합한 SoC\n20코어 CPU, 64코어 GPU, 32코어 뉴럴엔진\n1140억개의 트랜지스터(M1대비 7배)\n데스크탑칩 대비 10배 향상된 800GB/S 메모리 대역폭, 128GB 통합 메모리 구성...",
           "link": "https://news.hada.io/topic?id=6108",
           "publishedOn": "2022-03-08T23:47:22.000Z",
-          "wordCount": 126,
+          "wordCount": 339,
           "title": "애플, M1 Ultra 칩 공개",
           "imageUrl": "https://social.news.hada.io/topic/6108"
         },
@@ -215,7 +255,7 @@
           "description": "전세계 주요 신문사 및 커뮤니티의 일간 탑 헤드라인 5개씩만 모아보는 페이지\n\nNYTimes, Reuters, Aljazeera, BBC, Washington Post, CNN, Epoch Times, France 24\nr/UpliftingNews, Cointelegraph, Lifehacker, Twitter World Trends, Slashdot, Verge\n글로벌 또는 국...",
           "link": "https://news.hada.io/topic?id=6106",
           "publishedOn": "2022-03-08T01:26:41.000Z",
-          "wordCount": 181,
+          "wordCount": 204,
           "title": "Just Five - 하루를 시작하는 헤드라인 뉴스 다섯개",
           "imageUrl": "https://social.news.hada.io/topic/6106"
         },
@@ -238,46 +278,6 @@
           "wordCount": 118,
           "title": "러시아, 소프트웨어 불법복제 합법화 논의중",
           "imageUrl": "https://social.news.hada.io/topic/6104"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6103",
-          "author": null,
-          "description": "1996년부터 시작하여 오랜 기간을 거쳐온 4대 PC통신 서비스 중 하나인 유니텔이 2022년 6월 30일 서비스가 종료될 것임을 알리는 공지가 게재되었습니다.\n유니텔 서비스가 2022년 06월 30일 종료됩니다.\n안녕하세요. 유니텔입니다.\n먼저 오랜 기간 동안 유니텔을 이용해주신 고객",
-          "link": "https://news.hada.io/topic?id=6103",
-          "publishedOn": "2022-03-08T00:26:29.000Z",
-          "wordCount": 195,
-          "title": "유니텔 서비스 종료 예정",
-          "imageUrl": "https://social.news.hada.io/topic/6103"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6102",
-          "author": null,
-          "description": "2020년 미국음반산업협회(RIAA)가 GitHub에 DMCA 위반을 주장하여 삭제되었다가 복원되었음\n소니/워너/유니버설 뮤직이 독일 법정에서 youtube-dl 홈페이지를 호스팅하는 작은 호스팅 업체 Uberspace를 고소\n독일 시민권 협회(German Society for Civil Rights, GFF)가 이에 반대한다는 주장...",
-          "link": "https://news.hada.io/topic?id=6102",
-          "publishedOn": "2022-03-08T00:22:55.000Z",
-          "wordCount": 121,
-          "title": "Youtube-dl을 셧다운 하려는 시도가 계속 되고 있음",
-          "imageUrl": "https://social.news.hada.io/topic/6102"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6101",
-          "author": null,
-          "description": "약 1000여개의 커넥터를 통해서 각종 서비스를 노코드 방식으로 연결하여 자동화 하는 도구\n5000개가 넘는 다양한 템플릿 제공\n무료티어 : 1000ops/월\n예전 이름은 Integromat. Zapier의 경쟁제품...",
-          "link": "https://news.hada.io/topic?id=6101",
-          "publishedOn": "2022-03-08T00:07:35.000Z",
-          "wordCount": 116,
-          "title": "Make - 노코드 자동화 도구",
-          "imageUrl": "https://social.news.hada.io/topic/6101"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6100",
-          "author": null,
-          "description": "현재 근무중인 스타트업에서 같이 일할 멤버를 찾고 계시다면\n이 글은 매월 첫번째 월요일에 등록됩니다.\n해",
-          "link": "https://news.hada.io/topic?id=6100",
-          "publishedOn": "2022-03-07T03:04:40.000Z",
-          "wordCount": 449,
-          "title": "Ask GN: 이달의 구인공고 - 멤버를 찾고 계신가요 ?",
-          "imageUrl": "https://social.news.hada.io/topic/6100"
         }
       ]
     },
