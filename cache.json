@@ -163,12 +163,22 @@
       "siteUrl": "https://rastalion.me",
       "articles": [
         {
+          "id": "https://rastalion.me/?p=2477",
+          "author": "Rasta Lion",
+          "description": "퇴사의 이유 새로운 직장에 대한 니즈는 한 직장에서 일정기간 업무를 해 왔다면 한 번쯤 생각할 때가 있습니다. 왜 퇴사가 하고 싶을까요? 여러가지 이유가 있지만 각자가 가지고 있는 다양한 가치관에 따라, 또는 지나친 업무량에 따라,...\nThe post 퇴사를 해야겠다고 생각이 들때 appeared first on RastaLion's IT Blog.",
+          "link": "https://rastalion.me/resign/",
+          "publishedOn": "2022-03-11T17:42:31.000Z",
+          "wordCount": 1523,
+          "title": "퇴사를 해야겠다고 생각이 들때",
+          "imageUrl": "https://rastalion.me/wp-content/uploads/2022/03/62ced3bfdda80.jpeg"
+        },
+        {
           "id": "https://rastalion.me/?p=2468",
           "author": "Rasta Lion",
           "description": "DBeaver에서 java heap space 부족이라고 나올때 DB를 관리하는 툴중에 DBeaver라는 툴이 있습니다. 커뮤니티 버전은 프리웨어이기도 하고, 엔터프라이즈 버전은 낮은 가격에도 강력한 부가 기능들이 있어 주로 사용하는 DB툴입니다. DBeaver에서 대용량 테이블을 이관하거나 CSV 파일들의 작업을...\nThe post DBeaver에서 java heap space 부족이라고 나올때 appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/dbeaver%ec%97%90%ec%84%9c-java-heap-space-%eb%b6%80%ec%a1%b1%ec%9d%b4%eb%9d%bc%ea%b3%a0-%eb%82%98%ec%98%ac%eb%95%8c/",
           "publishedOn": "2022-03-01T15:22:02.000Z",
-          "wordCount": 536,
+          "wordCount": 534,
           "title": "DBeaver에서 java heap space 부족이라고 나올때",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2021/04/sm_5b46d890d85b8.jpg"
         }
@@ -180,12 +190,42 @@
       "siteUrl": "https://news.hada.io",
       "articles": [
         {
+          "id": "https://news.hada.io/topic?id=6125",
+          "author": null,
+          "description": "Intro\nData Pipeline에서 Serverless 기술 도입 배경: Hourly보다 더 짧은 주기로 코드를 실행하기 좋은 환경을 찾던 중 Serverless 기술을 활용하기로 함\n불편했던 Lambda 배포 환경: Terraform으로 IaC 했을 때 작성해야할 코드가 많아서 불편할 뿐만 아니라 lambda packaging 등도 불편했...",
+          "link": "https://news.hada.io/topic?id=6125",
+          "publishedOn": "2022-03-11T06:50:10.000Z",
+          "wordCount": 154,
+          "title": "Airbridge Data Pipeline에서 Serverless 활용 사례",
+          "imageUrl": "https://social.news.hada.io/topic/6125"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6124",
+          "author": null,
+          "description": "페이스북, BBC, NYT, 트위터가 Onion 주소를 별도로 제공하는 이유\n첫번째 이점은 신뢰성과 가용성\nTor 브라우저에서 클릭시 정확한 사이트로의 연결을 보장\n혹시 있을수도 있는 \"Tor Exit Node\" 공격을 완화(mitigate)\n\".onion\" 주소를 사...",
+          "link": "https://news.hada.io/topic?id=6124",
+          "publishedOn": "2022-03-11T01:39:25.000Z",
+          "wordCount": 310,
+          "title": "왜 Browsing-over-Tor 대신 Onion 주소를 제공하는 걸 권장할까",
+          "imageUrl": "https://social.news.hada.io/topic/6124"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6123",
+          "author": null,
+          "description": "갤럭시 폴드/플립, 서피스 듀오 같은 기기들을 웹에서 지원하기\nCSS에서 horizontal-viewport-segments , vertical-viewport-segments 값이 \"2\"인지 미디어쿼리로 체크\nJS에서 window.visualViewport.segments 로 체크\nenv() 에서 ...",
+          "link": "https://news.hada.io/topic?id=6123",
+          "publishedOn": "2022-03-11T01:19:04.000Z",
+          "wordCount": 92,
+          "title": "듀얼스크린 과 폴더블용 웹 레이아웃 만들기",
+          "imageUrl": "https://social.news.hada.io/topic/6123"
+        },
+        {
           "id": "https://news.hada.io/topic?id=6122",
           "author": null,
           "description": "C 코드\n리눅스 컨테이너를 구성하는데 필요한 기본 메커니즘을 소개하고, 구현한 코드에 대한 설명\norgmode 문서\n\n...",
           "link": "https://news.hada.io/topic?id=6122",
           "publishedOn": "2022-03-11T00:49:47.000Z",
-          "wordCount": 97,
+          "wordCount": 101,
           "title": "500라인으로 만드는 리눅스 컨테이너 (2016)",
           "imageUrl": "https://social.news.hada.io/topic/6122"
         },
@@ -205,7 +245,7 @@
           "description": "Go 오픈소스\nJSON 만을 이용해서 DB 생성, API 구현, 인터페이스 설명 문서 작성\nGRPC 기반 프로세스 및 플러그인 메커니즘\nIoT 지원(ARM 에서 실행)\nCRM 시스템 데모, RFID를 이용한 창고관리 시스템 데모 제공\n\n...",
           "link": "https://news.hada.io/topic?id=6120",
           "publishedOn": "2022-03-11T00:16:05.000Z",
-          "wordCount": 126,
+          "wordCount": 175,
           "title": "Yao - 웹서비스와 대시보드를 쉽게 생성하는 로우코드 엔진",
           "imageUrl": "https://social.news.hada.io/topic/6120"
         },
@@ -248,36 +288,6 @@
           "wordCount": 113,
           "title": "구글, 사이버 보안회사 Mandiant를 6.67조원에 인수",
           "imageUrl": "https://social.news.hada.io/topic/6116"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6115",
-          "author": null,
-          "description": "Apache Arrow 와 Datafusion을 이용하여 코드 작성없이 정적 데이터에 대한 읽기전용 API를 생성해주는 오픈소스\nSQL/GraphQL/REST API를 Datafusion Plan으로 변환하여 쿼리를 실행\n데이터 레이어를 통해서 구글 스프레드시트, Airtable, S3, GCS, JSON, CSV, XLS, Parquet, MySQL 등에서 읽...",
-          "link": "https://news.hada.io/topic?id=6115",
-          "publishedOn": "2022-03-10T01:08:25.000Z",
-          "wordCount": 106,
-          "title": "ROAPI - 정적 데이터에 대한 Read Only API 생성도구",
-          "imageUrl": "https://social.news.hada.io/topic/6115"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6114",
-          "author": null,
-          "description": "Tor 브라우저에서 트위터 사이트 직접 접속 가능하도록 Onion 주소를 개설\n페이스북, BBC, NYT의 Onion 사이트 개설을 가이딩했던 Alec Muffett이 이번에도 참여\nAlec의 EOTK(Enterprise Onion Toolkit)을 도입하여 트위터에 맞게 수정\n\n...",
-          "link": "https://news.hada.io/topic?id=6114",
-          "publishedOn": "2022-03-10T00:51:32.000Z",
-          "wordCount": 127,
-          "title": "트위터, Tor 용 Onion 서비스 시작",
-          "imageUrl": "https://social.news.hada.io/topic/6114"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6113",
-          "author": null,
-          "description": "맥용 크롬이 애플의 Speedometer 2.0 테스트에서 모든 브라우저중 최고 점수인 300점을 받음\n작년에 ThinLTO 기능을 도입하여 속도가 많이 개선되어 사파리 보다 그래픽 포함 15% 빨라짐\nM1용 크롬 출시후 17개월 동안 그전보다 43% 빨라짐\n최근의 주요 속도 개선점은 V8 Sparkplug...",
-          "link": "https://news.hada.io/topic?id=6113",
-          "publishedOn": "2022-03-10T00:31:53.000Z",
-          "wordCount": 111,
-          "title": "크롬의 새로운 속도 마일스톤",
-          "imageUrl": "https://social.news.hada.io/topic/6113"
         }
       ]
     },
