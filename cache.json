@@ -168,7 +168,7 @@
           "description": "퇴사의 이유 새로운 직장에 대한 니즈는 한 직장에서 일정기간 업무를 해 왔다면 한 번쯤 생각할 때가 있습니다. 왜 퇴사가 하고 싶을까요? 여러가지 이유가 있지만 각자가 가지고 있는 다양한 가치관에 따라, 또는 지나친 업무량에 따라,...\nThe post 퇴사를 해야겠다고 생각이 들때 appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/resign/",
           "publishedOn": "2022-03-11T17:42:31.000Z",
-          "wordCount": 1523,
+          "wordCount": 1554,
           "title": "퇴사를 해야겠다고 생각이 들때",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2022/03/62ced3bfdda80.jpeg"
         },
@@ -178,7 +178,7 @@
           "description": "DBeaver에서 java heap space 부족이라고 나올때 DB를 관리하는 툴중에 DBeaver라는 툴이 있습니다. 커뮤니티 버전은 프리웨어이기도 하고, 엔터프라이즈 버전은 낮은 가격에도 강력한 부가 기능들이 있어 주로 사용하는 DB툴입니다. DBeaver에서 대용량 테이블을 이관하거나 CSV 파일들의 작업을...\nThe post DBeaver에서 java heap space 부족이라고 나올때 appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/dbeaver%ec%97%90%ec%84%9c-java-heap-space-%eb%b6%80%ec%a1%b1%ec%9d%b4%eb%9d%bc%ea%b3%a0-%eb%82%98%ec%98%ac%eb%95%8c/",
           "publishedOn": "2022-03-01T15:22:02.000Z",
-          "wordCount": 534,
+          "wordCount": 538,
           "title": "DBeaver에서 java heap space 부족이라고 나올때",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2021/04/sm_5b46d890d85b8.jpg"
         }
@@ -189,6 +189,76 @@
       "feedUrl": "https://news.hada.io/rss/news",
       "siteUrl": "https://news.hada.io",
       "articles": [
+        {
+          "id": "https://news.hada.io/topic?id=6132",
+          "author": null,
+          "description": "백엔드 REST API를 Go로 개발하고, 프론트를 Typescript로 개발할 경우에 필요한 Type들을 자동으로 생성해주는 도구\nReflection 기반의 방법과 달리, 코멘트를 유지하고, 상수를 이해하며, 비구조체 type 표현식도 지원\n\n...",
+          "link": "https://news.hada.io/topic?id=6132",
+          "publishedOn": "2022-03-13T00:35:01.000Z",
+          "wordCount": 87,
+          "title": "Tygo - Go 소스에서 Typescript 타입들 생성하는 도구",
+          "imageUrl": "https://social.news.hada.io/topic/6132"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6131",
+          "author": null,
+          "description": "프로필 페이지에서 View Shop 버튼을 눌러서 들어가면 50개까지의 상품을 등록하고 판매 가능\n사용료 없음\n현재는 미국 영어권 iPhone 사용자 및 일부 브랜드에만 적용...",
+          "link": "https://news.hada.io/topic?id=6131",
+          "publishedOn": "2022-03-13T00:13:01.000Z",
+          "wordCount": 93,
+          "title": "Twitter, Shops 기능 공개",
+          "imageUrl": "https://social.news.hada.io/topic/6131"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6130",
+          "author": null,
+          "description": "일반 형식의 SQLite DB를 GraphQL Endpoint로 만들어주는 도구\n객체간 관계를 추론(belongsTo, hasMany, belongsToMany)\n객체 생성,변경,삭제 및 Many-To-Many 관계를 연결하는데 필요한 기본 변환을 자동으로 처리\n\n...",
+          "link": "https://news.hada.io/topic?id=6130",
+          "publishedOn": "2022-03-12T23:35:05.000Z",
+          "wordCount": 83,
+          "title": "tuql - SQLite DB로 GraphQL 서버 만들기",
+          "imageUrl": "https://social.news.hada.io/topic/6130"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6129",
+          "author": null,
+          "description": "글에서 설명하는 한계들은 : GPT-3는 문장을 이해하지 못하고 그저 자연스럽게 이어가는 데에 초점에 맞춰져있음. 테슬라의 자율 주행 모델은 STOP 표지판을 든 사람을 구분하지 못함. 눈에 파묻힌 버스를 제설차로 분류함. 이 원인은 딥러닝이 생각하는 게 아니라 암기한 다음 분류하는 것이기 때문.",
+          "link": "https://news.hada.io/topic?id=6129",
+          "publishedOn": "2022-03-12T08:05:01.000Z",
+          "wordCount": 317,
+          "title": "딥러닝은 한계에 직면했다",
+          "imageUrl": "https://social.news.hada.io/topic/6129"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6128",
+          "author": null,
+          "description": "잠재적인 접근성(Accessibility) 위반 사항을 추적하고, 자동으로 Linting 및 테스트하는 도구들의 모음\nEmber로 작성된 오픈소스\nPotential A11y Violations DB를 관리\n\n실패하는 부분, 테스트 자동화 방법, 관련 링크등\n\n\n\n...",
+          "link": "https://news.hada.io/topic?id=6128",
+          "publishedOn": "2022-03-12T01:36:30.000Z",
+          "wordCount": 77,
+          "title": "A11y Automation Tracker",
+          "imageUrl": "https://social.news.hada.io/topic/6128"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6127",
+          "author": null,
+          "description": "Rust 에서 C++을, C++에서 Rust 코드를 안전하게 호출하는 메커니즘을 제공\n→ Safe Binding을 위한 저수준 작업들을 처리\n→ 타입 및 함수 시그니처를 정적 분석하고, 한쌍의 코드 생성기로 양쪽 경계를 채움\n→ 생성된 FFI(foreign function interface) 브릿지 코드는 거의 오버헤드 없음 ...",
+          "link": "https://news.hada.io/topic?id=6127",
+          "publishedOn": "2022-03-12T00:56:50.000Z",
+          "wordCount": 109,
+          "title": "CXX - Rust와 C++간의 안전한 Interop 라이브러리",
+          "imageUrl": "https://social.news.hada.io/topic/6127"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6126",
+          "author": null,
+          "description": "구독하는 뉴스들을 한번에 볼 수 있는 inbox와 비슷한 앱\nSubstack은 \"유료 뉴스레터를 쉽게 만드는 도구\"로 시작했지만, \"작가와 독자가 만나는 네트웍\"이 되고자 함\n→ 앱은 이 네트워크 비젼의 핵심\n→ 기존 메일 구독은 그대로 유지하고, 콘텐츠도 IP도 다 작가가...",
+          "link": "https://news.hada.io/topic?id=6126",
+          "publishedOn": "2022-03-12T00:40:33.000Z",
+          "wordCount": 207,
+          "title": "Substack iOS앱 공개",
+          "imageUrl": "https://social.news.hada.io/topic/6126"
+        },
         {
           "id": "https://news.hada.io/topic?id=6125",
           "author": null,
@@ -218,76 +288,6 @@
           "wordCount": 92,
           "title": "듀얼스크린 과 폴더블용 웹 레이아웃 만들기",
           "imageUrl": "https://social.news.hada.io/topic/6123"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6122",
-          "author": null,
-          "description": "C 코드\n리눅스 컨테이너를 구성하는데 필요한 기본 메커니즘을 소개하고, 구현한 코드에 대한 설명\norgmode 문서\n\n...",
-          "link": "https://news.hada.io/topic?id=6122",
-          "publishedOn": "2022-03-11T00:49:47.000Z",
-          "wordCount": 101,
-          "title": "500라인으로 만드는 리눅스 컨테이너 (2016)",
-          "imageUrl": "https://social.news.hada.io/topic/6122"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6121",
-          "author": null,
-          "description": "일관성 유지  : URL/헤더/인증/상태코드..\nISO8601 UTC 날짜 포맷 사용\nPublic Endpoint만 인증 예외. 나머지는 모두 인증 필수\n헬스 체크 Endpoint 제공\nAPI 버저닝\nAPI 키 인증 적용\n합리적인 HTTP 상태코드 와 메소드 사용\n각 Endpoint에 자...",
-          "link": "https://news.hada.io/topic?id=6121",
-          "publishedOn": "2022-03-11T00:38:47.000Z",
-          "wordCount": 127,
-          "title": "더 나은 REST API를 설계하는 법",
-          "imageUrl": "https://social.news.hada.io/topic/6121"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6120",
-          "author": null,
-          "description": "Go 오픈소스\nJSON 만을 이용해서 DB 생성, API 구현, 인터페이스 설명 문서 작성\nGRPC 기반 프로세스 및 플러그인 메커니즘\nIoT 지원(ARM 에서 실행)\nCRM 시스템 데모, RFID를 이용한 창고관리 시스템 데모 제공\n\n...",
-          "link": "https://news.hada.io/topic?id=6120",
-          "publishedOn": "2022-03-11T00:16:05.000Z",
-          "wordCount": 175,
-          "title": "Yao - 웹서비스와 대시보드를 쉽게 생성하는 로우코드 엔진",
-          "imageUrl": "https://social.news.hada.io/topic/6120"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6119",
-          "author": null,
-          "description": "이번 주말에 뭘 하려고 계획 중인지 편하게 얘기해 보아요.\n읽을 책, 가볼 곳, 해볼 것.. 어떤 것이든 좋습니다.\n지난 주말에 계획하셨던 일의 회고도 한번 남겨봐 주세요.",
-          "link": "https://news.hada.io/topic?id=6119",
-          "publishedOn": "2022-03-11T00:07:41.000Z",
-          "wordCount": 142,
-          "title": "Ask GN: 이번 주말에 뭐 하시나요?",
-          "imageUrl": "https://social.news.hada.io/topic/6119"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6118",
-          "author": null,
-          "description": "태블릿용 기능을 포함한 12L 이 Android 12.1 버전으로 업데이트\n삼성,Lenovo,Microsoft가 올해 내로 이를 지원하는 폴더블/태블릿 출시 예정\n12.1 업데이트는 Pixel 3~5만 현재 지원되며 Pixel 6은 이달 안에 공개\n→ 하지만 대부분의 기능 업데이트가 태블릿 용이라 폰에선 별 차이 ...",
-          "link": "https://news.hada.io/topic?id=6118",
-          "publishedOn": "2022-03-10T02:02:03.000Z",
-          "wordCount": 137,
-          "title": "구글, 태블릿용 Android 12L 출시했으나 지원하는 기기는 미출시",
-          "imageUrl": "https://social.news.hada.io/topic/6118"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6117",
-          "author": null,
-          "description": "M1 Ultra (20코어) : 싱글코어 1793, 멀티코어 24055\n인텔 Xeon W-3275M (2019 Mac Pro,28코어) : 1152/19951\n인텔 i9-12900K (16코어) : 1997/17201\nAMD Threadripper 3990x (64코어) : 1213/25133\nAMD 5950x (16코어) : 1686/16564\n\n...",
-          "link": "https://news.hada.io/topic?id=6117",
-          "publishedOn": "2022-03-10T01:45:12.000Z",
-          "wordCount": 87,
-          "title": "M1 Ultra Geekbench Score 1793/24055",
-          "imageUrl": "https://social.news.hada.io/topic/6117"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6116",
-          "author": null,
-          "description": "모토로라 인수 이후 가장 큰 규모\nMandiant는 미국 공군 특수 요원과 CERT(Computer Emergency Response Team) 출신들이 모여 만든 사이버 보안 회사\n600명 이상의 보안 침해 대응 컨설턴트를 보유중이고, 300명 이상의 분석가들이 자동 방어/보안검증/위협분석 등의 기능을 제공하는 Mandia...",
-          "link": "https://news.hada.io/topic?id=6116",
-          "publishedOn": "2022-03-10T01:22:39.000Z",
-          "wordCount": 113,
-          "title": "구글, 사이버 보안회사 Mandiant를 6.67조원에 인수",
-          "imageUrl": "https://social.news.hada.io/topic/6116"
         }
       ]
     },
@@ -319,7 +319,7 @@
         {
           "id": "https://jojoldu.tistory.com/641",
           "author": "향로",
-          "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\nGithub 에는 앞으로 출시할 기능 (Beta) 을 미리 써볼 수 있는 옵션이 있습니다. \n특히 최근에 Pull Request시 파일 트리를 볼 수 있는 기능이 베타 출시되었는데요. \n코드리뷰시에 굉장히 큰 도움을 주기 때문에 바로 적용해서 써보시는 것을 추천드립니다.\n이 포스팅은 2022.03.05에 작성된 것이기 때문에, 소개되는 베타기능들은 이후에 대부분 정식 출시된 상태일 것입니다.\n설정\nGithub 우측 상단의 프로필 아이콘을 클릭하신뒤, Feature preview를 선택합니다.\n그럼 아래와 같이 Modal이 나오는데, 이때 원하시는 베타 기능들을 선택하시고 Enable 을 누르시면 됩니다. \n(Enable을 클릭하면 아래와 같이 Disable로 버튼이 변경됩니다.)\n저는 여기서 Command Palette 와 Pull Request File Tree를 사용하도록 선택했습니다.\n설정하신 후에 새로고침을 해보시면 다음과 같이 Pull Request 화면의 좌측 사이드바에 검색창과 파일/디렉토리가 생긴 것을 볼 수 있습니다.\n해당 검색창에서 파일명으로 검색도 가능하며, 파일 클릭시 코드리뷰 화면에서도 바로 해당 파일로 이동이 됩니다.\nCommand Palette도 적용되어 Command + k (맥 기준) 다음과 같이 Github 웹 사이트에서 커맨드로 여러 액션을 수행할 수 있습니다.\n마무리\n기존에 Octotree 를 통해서 코드리뷰시 디렉토리와 파일을 보던 입장에서는 아주 환영할만한 기능이 추가되었습니다. \nGithub에서 이야기하는 여러 기능들을 미리 볼 수 있는 Feature preview 를 자주 보시면서 신규 기능이 나올때마다 사용해보시면 훨씬 재밌는 Github 경험을 해볼 수 있을것 같습니다.\n            \n반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({});",
+          "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\nGithub 에는 앞으로 출시할 기능 (Beta) 을 미리 써볼 수 있는 옵션이 있습니다. \n특히 최근에 Pull Request시 파일 트리를 볼 수 있는 기능이 베타 출시되었는데요. \n코드리뷰시에 굉장히 큰 도움을 주기 때문에 바로 적용해서 써보시는 것을 추천드립니다.\n이 포스팅은 2022.03.05에 작성된 것이기 때문에, 소개되는 베타기능들은 이후에 대부분 정식 출시된 상태일 것입니다.\n설정\nGithub 우측 상단의 프로필 아이콘을 클릭하신뒤, Feature preview를 선택합니다.\n그럼 아래와 같이 Modal이 나오는데, 이때 원하시는 베타 기능들을 선택하시고 Enable 을 누르시면 됩니다. \n(Enable을 클릭하면 아래와 같이 Disable로 버튼이 변경됩니다.)\n저는 여기서 Command Palette 와 Pull Request File Tree를 사용하도록 선택했습니다.\n설정하신 후에 새로고침을 해보시면 다음과 같이 Pull Request 화면의 좌측 사이드바에 검색창과 파일/디렉토리가 생긴 것을 볼 수 있습니다.\n해당 검색창에서 파일명으로 검색도 가능하며, 파일 클릭시 코드리뷰 화면에서도 바로 해당 파일로 이동이 됩니다.\nCommand Palette도 적용되어 Command + k (맥 기준) 다음과 같이 Github 웹 사이트에서 커맨드로 여러 액션을 수행할 수 있습니다.\n마무리\n기존에 Octotree 를 통해서 코드리뷰시 디렉토리와 파일을 보던 입장에서는 아주 환영할만한 기능이 추가되었습니다. \nGithub에서 이야기하는 여러 기능들을 미리 볼 수 있는 Feature preview 를 자주 보시면서 신규 기능이 나올때마다 사용해보시면 훨씬 재밌는 Github 경험을 해볼 수 있을것 같습니다.\n            \n반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\n\t\n카카오스토리\n트위터\n페이스북",
           "link": "https://jojoldu.tistory.com/641",
           "publishedOn": "2022-03-05T11:19:36.000Z",
           "wordCount": 352,

@@ -1,10 +1,103 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-12T01:06:30.962Z</id>
+    <id>urn:2022-03-13T01:08:23.330Z</id>
     <title>osmos::feed</title>
-    <updated>2022-03-12T01:06:30.962Z</updated>
+    <updated>2022-03-13T01:08:23.330Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Tygo - Go 소스에서 Typescript 타입들 생성하는 도구]]></title>
+        <id>https://news.hada.io/topic?id=6132</id>
+        <link href="https://news.hada.io/topic?id=6132"/>
+        <updated>2022-03-13T00:35:01.000Z</updated>
+        <summary type="html"><![CDATA[백엔드 REST API를 Go로 개발하고, 프론트를 Typescript로 개발할 경우에 필요한 Type들을 자동으로 생성해주는 도구
+Reflection 기반의 방법과 달리, 코멘트를 유지하고, 상수를 이해하며, 비구조체 type 표현식도 지원
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitter, Shops 기능 공개]]></title>
+        <id>https://news.hada.io/topic?id=6131</id>
+        <link href="https://news.hada.io/topic?id=6131"/>
+        <updated>2022-03-13T00:13:01.000Z</updated>
+        <summary type="html"><![CDATA[프로필 페이지에서 View Shop 버튼을 눌러서 들어가면 50개까지의 상품을 등록하고 판매 가능
+사용료 없음
+현재는 미국 영어권 iPhone 사용자 및 일부 브랜드에만 적용...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tuql - SQLite DB로 GraphQL 서버 만들기]]></title>
+        <id>https://news.hada.io/topic?id=6130</id>
+        <link href="https://news.hada.io/topic?id=6130"/>
+        <updated>2022-03-12T23:35:05.000Z</updated>
+        <summary type="html"><![CDATA[일반 형식의 SQLite DB를 GraphQL Endpoint로 만들어주는 도구
+객체간 관계를 추론(belongsTo, hasMany, belongsToMany)
+객체 생성,변경,삭제 및 Many-To-Many 관계를 연결하는데 필요한 기본 변환을 자동으로 처리
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[딥러닝은 한계에 직면했다]]></title>
+        <id>https://news.hada.io/topic?id=6129</id>
+        <link href="https://news.hada.io/topic?id=6129"/>
+        <updated>2022-03-12T08:05:01.000Z</updated>
+        <summary type="html"><![CDATA[글에서 설명하는 한계들은 : GPT-3는 문장을 이해하지 못하고 그저 자연스럽게 이어가는 데에 초점에 맞춰져있음. 테슬라의 자율 주행 모델은 STOP 표지판을 든 사람을 구분하지 못함. 눈에 파묻힌 버스를 제설차로 분류함. 이 원인은 딥러닝이 생각하는 게 아니라 암기한 다음 분류하는 것이기 때문.]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A11y Automation Tracker]]></title>
+        <id>https://news.hada.io/topic?id=6128</id>
+        <link href="https://news.hada.io/topic?id=6128"/>
+        <updated>2022-03-12T01:36:30.000Z</updated>
+        <summary type="html"><![CDATA[잠재적인 접근성(Accessibility) 위반 사항을 추적하고, 자동으로 Linting 및 테스트하는 도구들의 모음
+Ember로 작성된 오픈소스
+Potential A11y Violations DB를 관리
+
+실패하는 부분, 테스트 자동화 방법, 관련 링크등
+
+
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CXX - Rust와 C++간의 안전한 Interop 라이브러리]]></title>
+        <id>https://news.hada.io/topic?id=6127</id>
+        <link href="https://news.hada.io/topic?id=6127"/>
+        <updated>2022-03-12T00:56:50.000Z</updated>
+        <summary type="html"><![CDATA[Rust 에서 C++을, C++에서 Rust 코드를 안전하게 호출하는 메커니즘을 제공
+→ Safe Binding을 위한 저수준 작업들을 처리
+→ 타입 및 함수 시그니처를 정적 분석하고, 한쌍의 코드 생성기로 양쪽 경계를 채움
+→ 생성된 FFI(foreign function interface) 브릿지 코드는 거의 오버헤드 없음 ...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Substack iOS앱 공개]]></title>
+        <id>https://news.hada.io/topic?id=6126</id>
+        <link href="https://news.hada.io/topic?id=6126"/>
+        <updated>2022-03-12T00:40:33.000Z</updated>
+        <summary type="html"><![CDATA[구독하는 뉴스들을 한번에 볼 수 있는 inbox와 비슷한 앱
+Substack은 "유료 뉴스레터를 쉽게 만드는 도구"로 시작했지만, "작가와 독자가 만나는 네트웍"이 되고자 함
+→ 앱은 이 네트워크 비젼의 핵심
+→ 기존 메일 구독은 그대로 유지하고, 콘텐츠도 IP도 다 작가가...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[퇴사를 해야겠다고 생각이 들때]]></title>
         <id>https://rastalion.me/?p=2477</id>
@@ -51,106 +144,6 @@ Tor 브라우저에서 클릭시 정확한 사이트로의 연결을 보장
 CSS에서 horizontal-viewport-segments , vertical-viewport-segments 값이 "2"인지 미디어쿼리로 체크
 JS에서 window.visualViewport.segments 로 체크
 env() 에서 ...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[500라인으로 만드는 리눅스 컨테이너 (2016)]]></title>
-        <id>https://news.hada.io/topic?id=6122</id>
-        <link href="https://news.hada.io/topic?id=6122"/>
-        <updated>2022-03-11T00:49:47.000Z</updated>
-        <summary type="html"><![CDATA[C 코드
-리눅스 컨테이너를 구성하는데 필요한 기본 메커니즘을 소개하고, 구현한 코드에 대한 설명
-orgmode 문서
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더 나은 REST API를 설계하는 법]]></title>
-        <id>https://news.hada.io/topic?id=6121</id>
-        <link href="https://news.hada.io/topic?id=6121"/>
-        <updated>2022-03-11T00:38:47.000Z</updated>
-        <summary type="html"><![CDATA[일관성 유지  : URL/헤더/인증/상태코드..
-ISO8601 UTC 날짜 포맷 사용
-Public Endpoint만 인증 예외. 나머지는 모두 인증 필수
-헬스 체크 Endpoint 제공
-API 버저닝
-API 키 인증 적용
-합리적인 HTTP 상태코드 와 메소드 사용
-각 Endpoint에 자...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yao - 웹서비스와 대시보드를 쉽게 생성하는 로우코드 엔진]]></title>
-        <id>https://news.hada.io/topic?id=6120</id>
-        <link href="https://news.hada.io/topic?id=6120"/>
-        <updated>2022-03-11T00:16:05.000Z</updated>
-        <summary type="html"><![CDATA[Go 오픈소스
-JSON 만을 이용해서 DB 생성, API 구현, 인터페이스 설명 문서 작성
-GRPC 기반 프로세스 및 플러그인 메커니즘
-IoT 지원(ARM 에서 실행)
-CRM 시스템 데모, RFID를 이용한 창고관리 시스템 데모 제공
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
-        <id>https://news.hada.io/topic?id=6119</id>
-        <link href="https://news.hada.io/topic?id=6119"/>
-        <updated>2022-03-11T00:07:41.000Z</updated>
-        <summary type="html"><![CDATA[이번 주말에 뭘 하려고 계획 중인지 편하게 얘기해 보아요.
-읽을 책, 가볼 곳, 해볼 것.. 어떤 것이든 좋습니다.
-지난 주말에 계획하셨던 일의 회고도 한번 남겨봐 주세요.]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구글, 태블릿용 Android 12L 출시했으나 지원하는 기기는 미출시]]></title>
-        <id>https://news.hada.io/topic?id=6118</id>
-        <link href="https://news.hada.io/topic?id=6118"/>
-        <updated>2022-03-10T02:02:03.000Z</updated>
-        <summary type="html"><![CDATA[태블릿용 기능을 포함한 12L 이 Android 12.1 버전으로 업데이트
-삼성,Lenovo,Microsoft가 올해 내로 이를 지원하는 폴더블/태블릿 출시 예정
-12.1 업데이트는 Pixel 3~5만 현재 지원되며 Pixel 6은 이달 안에 공개
-→ 하지만 대부분의 기능 업데이트가 태블릿 용이라 폰에선 별 차이 ...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[M1 Ultra Geekbench Score 1793/24055]]></title>
-        <id>https://news.hada.io/topic?id=6117</id>
-        <link href="https://news.hada.io/topic?id=6117"/>
-        <updated>2022-03-10T01:45:12.000Z</updated>
-        <summary type="html"><![CDATA[M1 Ultra (20코어) : 싱글코어 1793, 멀티코어 24055
-인텔 Xeon W-3275M (2019 Mac Pro,28코어) : 1152/19951
-인텔 i9-12900K (16코어) : 1997/17201
-AMD Threadripper 3990x (64코어) : 1213/25133
-AMD 5950x (16코어) : 1686/16564
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구글, 사이버 보안회사 Mandiant를 6.67조원에 인수]]></title>
-        <id>https://news.hada.io/topic?id=6116</id>
-        <link href="https://news.hada.io/topic?id=6116"/>
-        <updated>2022-03-10T01:22:39.000Z</updated>
-        <summary type="html"><![CDATA[모토로라 인수 이후 가장 큰 규모
-Mandiant는 미국 공군 특수 요원과 CERT(Computer Emergency Response Team) 출신들이 모여 만든 사이버 보안 회사
-600명 이상의 보안 침해 대응 컨설턴트를 보유중이고, 300명 이상의 분석가들이 자동 방어/보안검증/위협분석 등의 기능을 제공하는 Mandia...]]></summary>
         <author>
             <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
@@ -254,7 +247,13 @@ Github에서 이야기하는 여러 기능들을 미리 볼 수 있는 Feature p
 반응형
 
                     
-                    (adsbygoogle = window.adsbygoogle || []).push({});]]></summary>
+                    (adsbygoogle = window.adsbygoogle || []).push({}); 
+               
+
+	
+카카오스토리
+트위터
+페이스북]]></summary>
         <author>
             <name>향로</name>
         </author>
