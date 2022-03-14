@@ -168,7 +168,7 @@
           "description": "퇴사의 이유 새로운 직장에 대한 니즈는 한 직장에서 일정기간 업무를 해 왔다면 한 번쯤 생각할 때가 있습니다. 왜 퇴사가 하고 싶을까요? 여러가지 이유가 있지만 각자가 가지고 있는 다양한 가치관에 따라, 또는 지나친 업무량에 따라,...\nThe post 퇴사를 해야겠다고 생각이 들때 appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/resign/",
           "publishedOn": "2022-03-11T17:42:31.000Z",
-          "wordCount": 1554,
+          "wordCount": 1561,
           "title": "퇴사를 해야겠다고 생각이 들때",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2022/03/62ced3bfdda80.jpeg"
         },
@@ -178,7 +178,7 @@
           "description": "DBeaver에서 java heap space 부족이라고 나올때 DB를 관리하는 툴중에 DBeaver라는 툴이 있습니다. 커뮤니티 버전은 프리웨어이기도 하고, 엔터프라이즈 버전은 낮은 가격에도 강력한 부가 기능들이 있어 주로 사용하는 DB툴입니다. DBeaver에서 대용량 테이블을 이관하거나 CSV 파일들의 작업을...\nThe post DBeaver에서 java heap space 부족이라고 나올때 appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/dbeaver%ec%97%90%ec%84%9c-java-heap-space-%eb%b6%80%ec%a1%b1%ec%9d%b4%eb%9d%bc%ea%b3%a0-%eb%82%98%ec%98%ac%eb%95%8c/",
           "publishedOn": "2022-03-01T15:22:02.000Z",
-          "wordCount": 538,
+          "wordCount": 533,
           "title": "DBeaver에서 java heap space 부족이라고 나올때",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2021/04/sm_5b46d890d85b8.jpg"
         }
@@ -190,12 +190,82 @@
       "siteUrl": "https://news.hada.io",
       "articles": [
         {
+          "id": "https://news.hada.io/topic?id=6139",
+          "author": null,
+          "description": "브라우저가 하는 동작을 분석해서 그대로 사용하기\n개발자 도구를 통해서 JSON 응답 찾기\nCopy as CURL로 복사하고 gunzip으로 풀기\n관련없는 헤더 제거하기\n파이썬으로 변환하기\nCurlConverter를 이용하면 C...",
+          "link": "https://news.hada.io/topic?id=6139",
+          "publishedOn": "2022-03-14T00:47:01.000Z",
+          "wordCount": 106,
+          "title": "Undocumented Web API 사용하는 법",
+          "imageUrl": "https://social.news.hada.io/topic/6139"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6138",
+          "author": null,
+          "description": "아티스트 들이 자신의 음악을 더 많이 홍보할수 있도록 도와주는 플랫폼\n자신의 음악을 직접 TikTok 에 업로드 가능하며, Apple Music/Spotify/Pandora/Deezer/Zoox/Resso 등의 음악 스트리밍 서비스도 지원\n배포는 무료고, 모든 거래수수료도 면제\n\n바이트댄스가 가진 플랫폼인 Tik...",
+          "link": "https://news.hada.io/topic?id=6138",
+          "publishedOn": "2022-03-14T00:29:02.000Z",
+          "wordCount": 136,
+          "title": "Tiktok, 음악 마케팅/배포 플랫폼 SoundOn 공개",
+          "imageUrl": "https://social.news.hada.io/topic/6138"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6137",
+          "author": null,
+          "description": "맥 터미널에서 아래 커맨드를 입력하면 시스템이 사용하는 웹뷰에서 \"Inspect Element\" 메뉴가 활성화되어,\n시스템 대화 창의 모든 웹뷰를 기존 웹사이트 처럼 개발자도구로 살펴보기 가능\ndefaults write NSGlobalDomain WebKitDeveloperExtras -bool true\ndefaults write -g Web...",
+          "link": "https://news.hada.io/topic?id=6137",
+          "publishedOn": "2022-03-14T00:11:01.000Z",
+          "wordCount": 190,
+          "title": "macOS가 사용하는 웹뷰 Inspect 하기",
+          "imageUrl": "https://social.news.hada.io/topic/6137"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6136",
+          "author": null,
+          "description": "Portable, No Configuration or Installation Needed.\nGitHub: https://github.com/miroslavpejic85/p2p",
+          "link": "https://news.hada.io/topic?id=6136",
+          "publishedOn": "2022-03-13T16:42:10.000Z",
+          "wordCount": 77,
+          "title": "Show GN: P2P Remote Desktop - Open Source - alternative to TeamViewer - AnyDesk ...",
+          "imageUrl": "https://social.news.hada.io/topic/6136"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6135",
+          "author": null,
+          "description": "Compatible with all browsers and platforms.\nLive demo: https://sfu.mirotalk.org\nGitHub: https://github.com/miroslavpejic85/mirotalksfu",
+          "link": "https://news.hada.io/topic?id=6135",
+          "publishedOn": "2022-03-13T15:26:39.000Z",
+          "wordCount": 81,
+          "title": "Show GN: MiroTalk - SFU - Open-Source - Simple, Secure, Scalable, Fast WebRTC Up to 4k",
+          "imageUrl": "https://social.news.hada.io/topic/6135"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6134",
+          "author": null,
+          "description": "Compatible with all browsers and platforms.\nLive demo: https://mirotalk.up.railway.app\nGitHub: https://github.com/miroslavpejic85/mirotalk",
+          "link": "https://news.hada.io/topic?id=6134",
+          "publishedOn": "2022-03-13T15:25:10.000Z",
+          "wordCount": 82,
+          "title": "Show GN: MiroTalk - P2P - Open-Source - Simple, Secure, Fast WebRTC Up to 4k and 60fps",
+          "imageUrl": "https://social.news.hada.io/topic/6134"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6133",
+          "author": null,
+          "description": "중앙 은행 디지털 통화는 시민들을 억압할 수 있는 잠제력을 가지고 있다는 예를 들고. 우리가 NO라고 말하지 않으면 그걸 막을 수 있는 근거가 없다는 걸 설명한 글입니다.\n요약문에서는 중앙 은행 디지털 통화가 어떻게 위험하고, 그것이 어떤 장점을 가지고 있으며, 전자 결제와의 차별점과 구체적인 위험을",
+          "link": "https://news.hada.io/topic?id=6133",
+          "publishedOn": "2022-03-13T05:25:02.000Z",
+          "wordCount": 1081,
+          "title": "중앙 은행 디지털 통화들에게 해줘야 할 단 한 마디 : 안돼!",
+          "imageUrl": "https://social.news.hada.io/topic/6133"
+        },
+        {
           "id": "https://news.hada.io/topic?id=6132",
           "author": null,
           "description": "백엔드 REST API를 Go로 개발하고, 프론트를 Typescript로 개발할 경우에 필요한 Type들을 자동으로 생성해주는 도구\nReflection 기반의 방법과 달리, 코멘트를 유지하고, 상수를 이해하며, 비구조체 type 표현식도 지원\n\n...",
           "link": "https://news.hada.io/topic?id=6132",
           "publishedOn": "2022-03-13T00:35:01.000Z",
-          "wordCount": 87,
+          "wordCount": 124,
           "title": "Tygo - Go 소스에서 Typescript 타입들 생성하는 도구",
           "imageUrl": "https://social.news.hada.io/topic/6132"
         },
@@ -218,76 +288,6 @@
           "wordCount": 83,
           "title": "tuql - SQLite DB로 GraphQL 서버 만들기",
           "imageUrl": "https://social.news.hada.io/topic/6130"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6129",
-          "author": null,
-          "description": "글에서 설명하는 한계들은 : GPT-3는 문장을 이해하지 못하고 그저 자연스럽게 이어가는 데에 초점에 맞춰져있음. 테슬라의 자율 주행 모델은 STOP 표지판을 든 사람을 구분하지 못함. 눈에 파묻힌 버스를 제설차로 분류함. 이 원인은 딥러닝이 생각하는 게 아니라 암기한 다음 분류하는 것이기 때문.",
-          "link": "https://news.hada.io/topic?id=6129",
-          "publishedOn": "2022-03-12T08:05:01.000Z",
-          "wordCount": 317,
-          "title": "딥러닝은 한계에 직면했다",
-          "imageUrl": "https://social.news.hada.io/topic/6129"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6128",
-          "author": null,
-          "description": "잠재적인 접근성(Accessibility) 위반 사항을 추적하고, 자동으로 Linting 및 테스트하는 도구들의 모음\nEmber로 작성된 오픈소스\nPotential A11y Violations DB를 관리\n\n실패하는 부분, 테스트 자동화 방법, 관련 링크등\n\n\n\n...",
-          "link": "https://news.hada.io/topic?id=6128",
-          "publishedOn": "2022-03-12T01:36:30.000Z",
-          "wordCount": 77,
-          "title": "A11y Automation Tracker",
-          "imageUrl": "https://social.news.hada.io/topic/6128"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6127",
-          "author": null,
-          "description": "Rust 에서 C++을, C++에서 Rust 코드를 안전하게 호출하는 메커니즘을 제공\n→ Safe Binding을 위한 저수준 작업들을 처리\n→ 타입 및 함수 시그니처를 정적 분석하고, 한쌍의 코드 생성기로 양쪽 경계를 채움\n→ 생성된 FFI(foreign function interface) 브릿지 코드는 거의 오버헤드 없음 ...",
-          "link": "https://news.hada.io/topic?id=6127",
-          "publishedOn": "2022-03-12T00:56:50.000Z",
-          "wordCount": 109,
-          "title": "CXX - Rust와 C++간의 안전한 Interop 라이브러리",
-          "imageUrl": "https://social.news.hada.io/topic/6127"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6126",
-          "author": null,
-          "description": "구독하는 뉴스들을 한번에 볼 수 있는 inbox와 비슷한 앱\nSubstack은 \"유료 뉴스레터를 쉽게 만드는 도구\"로 시작했지만, \"작가와 독자가 만나는 네트웍\"이 되고자 함\n→ 앱은 이 네트워크 비젼의 핵심\n→ 기존 메일 구독은 그대로 유지하고, 콘텐츠도 IP도 다 작가가...",
-          "link": "https://news.hada.io/topic?id=6126",
-          "publishedOn": "2022-03-12T00:40:33.000Z",
-          "wordCount": 207,
-          "title": "Substack iOS앱 공개",
-          "imageUrl": "https://social.news.hada.io/topic/6126"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6125",
-          "author": null,
-          "description": "Intro\nData Pipeline에서 Serverless 기술 도입 배경: Hourly보다 더 짧은 주기로 코드를 실행하기 좋은 환경을 찾던 중 Serverless 기술을 활용하기로 함\n불편했던 Lambda 배포 환경: Terraform으로 IaC 했을 때 작성해야할 코드가 많아서 불편할 뿐만 아니라 lambda packaging 등도 불편했...",
-          "link": "https://news.hada.io/topic?id=6125",
-          "publishedOn": "2022-03-11T06:50:10.000Z",
-          "wordCount": 154,
-          "title": "Airbridge Data Pipeline에서 Serverless 활용 사례",
-          "imageUrl": "https://social.news.hada.io/topic/6125"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6124",
-          "author": null,
-          "description": "페이스북, BBC, NYT, 트위터가 Onion 주소를 별도로 제공하는 이유\n첫번째 이점은 신뢰성과 가용성\nTor 브라우저에서 클릭시 정확한 사이트로의 연결을 보장\n혹시 있을수도 있는 \"Tor Exit Node\" 공격을 완화(mitigate)\n\".onion\" 주소를 사...",
-          "link": "https://news.hada.io/topic?id=6124",
-          "publishedOn": "2022-03-11T01:39:25.000Z",
-          "wordCount": 310,
-          "title": "왜 Browsing-over-Tor 대신 Onion 주소를 제공하는 걸 권장할까",
-          "imageUrl": "https://social.news.hada.io/topic/6124"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6123",
-          "author": null,
-          "description": "갤럭시 폴드/플립, 서피스 듀오 같은 기기들을 웹에서 지원하기\nCSS에서 horizontal-viewport-segments , vertical-viewport-segments 값이 \"2\"인지 미디어쿼리로 체크\nJS에서 window.visualViewport.segments 로 체크\nenv() 에서 ...",
-          "link": "https://news.hada.io/topic?id=6123",
-          "publishedOn": "2022-03-11T01:19:04.000Z",
-          "wordCount": 92,
-          "title": "듀얼스크린 과 폴더블용 웹 레이아웃 만들기",
-          "imageUrl": "https://social.news.hada.io/topic/6123"
         }
       ]
     },
@@ -297,12 +297,22 @@
       "siteUrl": "https://jojoldu.tistory.com/",
       "articles": [
         {
+          "id": "https://jojoldu.tistory.com/655",
+          "author": "향로",
+          "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\nESLint 8.0 이상 버전을 사용할 경우 기존에 사용중인 WebStorm, IntelliJ 등에서 다음과 같이 에러가 발생하곤합니다.\nTypeError: this.cliEngineCtor is not a constructor\n\n아래 로그를 보시면 this.cliEngineCtor is not a constructor 내용을 볼 수 있는데요.\nTypeError: this.cliEngineCtor is not a constructor\n    at ESLintPlugin.invokeESLint (/Users/seojeong-kuk/Library/Application Support/JetBrains/Toolbox/apps/WebStorm/ch-0/211.7628.25/WebStorm.app/Contents/plugins/JavaScriptLanguage/languageService/eslint/bin/eslint-plugin.js:103:25)\n    at ESLintPlugin.getErrors (/Users/seojeong-kuk/Library/Application Support/JetBrains/Toolbox/apps/WebStorm/ch-0/211.7628.25/WebStorm.app/Contents/plugins/JavaScriptLanguage/languageService/eslint/bin/eslint-plugin.js:82:21)\n    at ESLintPlugin.onMessage (/Users/seojeong-kuk/Library/Application Support/JetBrains/Toolbox/apps/WebStorm/ch-0/211.7628.25/WebStorm.app/Contents/plugins/JavaScriptLanguage/languageService/eslint/bin/eslint-plugin.js:56:64)\n    at Interface.<anonymous> (/Users/seojeong-kuk/Library/Application Support/JetBrains/Toolbox/apps/WebStorm/ch-0/211.7628.25/WebStorm.app/Contents/plugins/JavaScriptLanguage/jsLanguageServicesImpl/js-language-service.js:105:39)\n    at Interface.emit (node:events:390:28)\n    at Interface._onLine (node:readline:487:10)\n    at Interface._normalWrite (node:readline:661:12)\n    at Socket.ondata (node:readline:269:10)\n    at Socket.emit (node:events:390:28)\n    at addChunk (node:internal/streams/readable:315:12)\nProcess finished with exit code -1\n이는 ESLint 가 버전업이 됨에 따라 기존 클래스가 삭제되었기 때문인데요.\nthe-cliengine-class-has-been-removed\n그래서 아래와 같이 2021.2.2 보다 낮은 버전에서는 ESLint 8.0 이상의 버전을 사용할 수가 없습니다.\n이를 해결 하기 위해서는 2021.2.2 이상의 IDE를 사용하시면 됩니다. \n이미 정식 버전이 2021.3.2 까지 나왔기 때문에 여전히 2021.1 버전을 사용하신다면 얼른 업데이트 하시는 것을 추천드립니다.\n참고\nESLint 8.0 support\n            \n반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({});",
+          "link": "https://jojoldu.tistory.com/655",
+          "publishedOn": "2022-03-13T09:10:35.000Z",
+          "wordCount": 320,
+          "title": "WebStorm (IntelliJ IDEA) 에서 this.cliEngineCtor is not a constructor 이슈 발생시 (feat. ESLint 8.0)",
+          "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FehOtaJ%2FbtrvJ0XxaxA%2FEQkRIW04ay0O5lLSky8sZK%2Fimg.png"
+        },
+        {
           "id": "https://jojoldu.tistory.com/643",
           "author": "향로",
           "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\n여러 포스팅에서 언급한것처럼 테스트 코드는 빠르게 실패를 파악할 수 있어야 한다.\n그런면에서 Optional chaining(?.) 은 테스트코드에 적합하지 않다.\nMDN의 설명을 가져오면 Optional chaining(?.)은 체이닝 연산자(.) 와 유사하게 작동하지만, 만약 참조가 nullish (en-US) (null 또는 undefined)이라면, 에러가 발생하는 것 대신에 표현식의 리턴 값을 undefined로 반환한다.\n따라서 참조가 누락될 가능성이 있는 경우 연결된 속성으로 접근할 때 더 짧고 간단한 표현식이 생성된다. \n어떤 속성이 필요한지에 대한 보증이 확실하지 않는 경우 객체의 내용을 탐색하는 동안 도움이 될 수 있다.\n안정적으로 객체 탐색이 가능하기 때문에 프로덕션 코드에서는 적극적으로 사용하는 편이다. \n하지만 테스트 코드에서는 안정적인 점이 오히려 단점이 된다.\n문제\n이를 테면 다음과 같이 sut 의 하위에 있는 pay.amount 를 검증한다고 하자. \n이때 Optional chaining(?.) 을 사용한다면 다음과 같다.\nit('?가 있는 경우 #1', () => {\n    const amount = 0;\n    const sut = createOrder(amount);\n\n    expect(sut?.pay?.amount).toBe(amount);\n});\n\nclass Order…",
           "link": "https://jojoldu.tistory.com/643",
           "publishedOn": "2022-03-08T00:26:46.000Z",
-          "wordCount": 506,
+          "wordCount": 507,
           "title": "테스트코드에서 Optional chaining(?.) 쓰지않기",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FzIsO7%2FbtrvtcvF3Zi%2FkghW6ofDOgXOiKJsfHYGLK%2Fimg.png"
         },
@@ -312,17 +322,17 @@
           "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\n테스트 코드는 프로젝트의 생명 주기 보다 길때가 많다. \n기존의 요구사항을 정리한것이 테스트 코드이기 때문에, 메인 코드보다 훨씬 더 읽기쉬워야만 한다.\n만약 테스트 코드가 복잡한 경우 어떻게 작동하는지 이해하기가 어렵다. \n그래서 테스트 코드는 주석이 필요 없을 정도로 간단해야 한다.\n그런면에서 조건부 (if ~ else) 테스트 로직은 테스트를 실제보다 더 복잡하게 만드는 요인 중 하나다.\n이번 글에서는 조건부 로직을 테스트에서 사용한 경우에 어떻게 개선할 수 있을지 알아본다.\n1. 가변 결과를 검증하는 경우\n1-1. 문제\n첫번째 문제는 다음과 같이 테스트 실행때마다 결과가 달라지는 경우이다.\nit('[Bad] 가변결과 검증', () => {\n    const now = LocalDateTime.now();\n    const sut = new TimeDisplay();\n    const result = sut.display(now);\n\n    let actual;\n    if(now.hour() === 0 && now.minute() === 0) {\n        actual = 'Midnight';\n    } else if (now.hour() === 12 && now.minute() === 0) {\n        actual = 'Noon';\n    } else {\n        actual = no…",
           "link": "https://jojoldu.tistory.com/642",
           "publishedOn": "2022-03-07T03:35:43.000Z",
-          "wordCount": 1072,
+          "wordCount": 1073,
           "title": "조건부 (if~else) 로직 테스트코드에서 사용하지 않기",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fcxmuyf%2Fbtrvne8iDrE%2FKAaA0pw9W0LAHjVj3iniTk%2Fimg.png"
         },
         {
           "id": "https://jojoldu.tistory.com/641",
           "author": "향로",
-          "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\nGithub 에는 앞으로 출시할 기능 (Beta) 을 미리 써볼 수 있는 옵션이 있습니다. \n특히 최근에 Pull Request시 파일 트리를 볼 수 있는 기능이 베타 출시되었는데요. \n코드리뷰시에 굉장히 큰 도움을 주기 때문에 바로 적용해서 써보시는 것을 추천드립니다.\n이 포스팅은 2022.03.05에 작성된 것이기 때문에, 소개되는 베타기능들은 이후에 대부분 정식 출시된 상태일 것입니다.\n설정\nGithub 우측 상단의 프로필 아이콘을 클릭하신뒤, Feature preview를 선택합니다.\n그럼 아래와 같이 Modal이 나오는데, 이때 원하시는 베타 기능들을 선택하시고 Enable 을 누르시면 됩니다. \n(Enable을 클릭하면 아래와 같이 Disable로 버튼이 변경됩니다.)\n저는 여기서 Command Palette 와 Pull Request File Tree를 사용하도록 선택했습니다.\n설정하신 후에 새로고침을 해보시면 다음과 같이 Pull Request 화면의 좌측 사이드바에 검색창과 파일/디렉토리가 생긴 것을 볼 수 있습니다.\n해당 검색창에서 파일명으로 검색도 가능하며, 파일 클릭시 코드리뷰 화면에서도 바로 해당 파일로 이동이 됩니다.\nCommand Palette도 적용되어 Command + k (맥 기준) 다음과 같이 Github 웹 사이트에서 커맨드로 여러 액션을 수행할 수 있습니다.\n마무리\n기존에 Octotree 를 통해서 코드리뷰시 디렉토리와 파일을 보던 입장에서는 아주 환영할만한 기능이 추가되었습니다. \nGithub에서 이야기하는 여러 기능들을 미리 볼 수 있는 Feature preview 를 자주 보시면서 신규 기능이 나올때마다 사용해보시면 훨씬 재밌는 Github 경험을 해볼 수 있을것 같습니다.\n            \n반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\n\t\n카카오스토리\n트위터\n페이스북",
+          "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\nGithub 에는 앞으로 출시할 기능 (Beta) 을 미리 써볼 수 있는 옵션이 있습니다. \n특히 최근에 Pull Request시 파일 트리를 볼 수 있는 기능이 베타 출시되었는데요. \n코드리뷰시에 굉장히 큰 도움을 주기 때문에 바로 적용해서 써보시는 것을 추천드립니다.\n이 포스팅은 2022.03.05에 작성된 것이기 때문에, 소개되는 베타기능들은 이후에 대부분 정식 출시된 상태일 것입니다.\n설정\nGithub 우측 상단의 프로필 아이콘을 클릭하신뒤, Feature preview를 선택합니다.\n그럼 아래와 같이 Modal이 나오는데, 이때 원하시는 베타 기능들을 선택하시고 Enable 을 누르시면 됩니다. \n(Enable을 클릭하면 아래와 같이 Disable로 버튼이 변경됩니다.)\n저는 여기서 Command Palette 와 Pull Request File Tree를 사용하도록 선택했습니다.\n설정하신 후에 새로고침을 해보시면 다음과 같이 Pull Request 화면의 좌측 사이드바에 검색창과 파일/디렉토리가 생긴 것을 볼 수 있습니다.\n해당 검색창에서 파일명으로 검색도 가능하며, 파일 클릭시 코드리뷰 화면에서도 바로 해당 파일로 이동이 됩니다.\nCommand Palette도 적용되어 Command + k (맥 기준) 다음과 같이 Github 웹 사이트에서 커맨드로 여러 액션을 수행할 수 있습니다.\n마무리\n기존에 Octotree 를 통해서 코드리뷰시 디렉토리와 파일을 보던 입장에서는 아주 환영할만한 기능이 추가되었습니다. \nGithub에서 이야기하는 여러 기능들을 미리 볼 수 있는 Feature preview 를 자주 보시면서 신규 기능이 나올때마다 사용해보시면 훨씬 재밌는 Github 경험을 해볼 수 있을것 같습니다.\n            \n반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({});",
           "link": "https://jojoldu.tistory.com/641",
           "publishedOn": "2022-03-05T11:19:36.000Z",
-          "wordCount": 352,
+          "wordCount": 353,
           "title": "Github 기능 미리 써보기 (Code Review시 디렉토리 미리보기)",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fb8p70Y%2Fbtru7rhAEhd%2FbF4p5PK6KGMUDQvE5fDK9k%2Fimg.png"
         },
@@ -332,7 +342,7 @@
           "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\n랠릿 서비스 를 오픈하고 참여자들의 개인 소감을 다들 작성하는 시간을 가졌다. \n실제 프로젝트의 프로세스 방식, QA 방식등을 전체적인 회고는 내일 (2022.03.02) 진행할 예정인데, 그 전에 각자 어땠는지 소감을 작성하는 시간을 2월에 가졌다.\n이번 글은 사내에 공유한 소감글을 블로그로 옮겼다.\n루비콘 프로젝트에서 진행한 프로젝트 방식 / 백엔드 프로젝트 방식 등은 TF 회고가 끝나고 올라갈 예정이다. \n이건 프로젝트에 참여한 개인적인 짧은 생각들만 정리했다.\n프로젝트 구성원들의 전체 소감은 3월안에 링크로 공유될 예정이다.\n일정\n프로젝트는 7월에 시작되어, 1월 27일에 정식 오픈하였다. \n중간 투입된 분들은 잘 모르실 수 있지만, 초기에 대표님과 PO 1분이 같이 사용자 스토리 잡는 것이 7월부터였다.\n7 ~ 8월: 사용자스토리, 와이어프레임\n9월: 디자인 구체화 / 도메인 & 개발환경 설계\n10월 ~ 12월: 개발\n12월 ~ 1월: QA 및 남은 기능 구현\n공식적으로는 약 7개월간 진행된 것이다.\n다만, 본격적으로 개발은 9월부터 진행되어 3개월간 개발하여 12월부터 QA를 하게 됐다.\n(9월 2일, 3일에 시작된 첫커밋)\n개발 기간만 보면 짧았지만, 전체 일정을 보면 결코 짧은 일정은 아니였다. \n7개월이란 시간이 빡빡하게 느껴진 것은 이 기간 안에서 비효율적으로 낭비되는 시간이 많았기 때문이…",
           "link": "https://jojoldu.tistory.com/640",
           "publishedOn": "2022-03-01T13:51:53.000Z",
-          "wordCount": 1404,
+          "wordCount": 1405,
           "title": "루비콘 프로젝트 (랠릿 오픈 프로젝트) 소감",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbdAIbH%2FbtruITrAVSl%2FSH5wfXmM2yaUadAK9kuS90%2Fimg.png"
         },
@@ -342,7 +352,7 @@
           "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\n최근 팀에서 코드리뷰를 진행하던 중에 promise.all 과 트랜잭션에 대해 오해하고 있는 부분들을 발견하게 되어 정리하게 되었습니다.\nPromise.all (혹은 allSettled)을 사용하면 트랜잭션 내에서도 비동기로 여러 작업들이 동시에 이루어질 수 있다고 오해하는 것인데요. \n실험을 해보면 그게 아니라는 것을 알 수 있습니다.\n실제 코드를 가지고 검증해보겠습니다.\n모든 실험 결과에 대해서 틀린 내용이 있다면 바로 댓글로 지적해주세요! \n모든 지적은 저의 성장에 많은 도움이 되기 때문에 감사한 마음으로 수정하겠습니다 :)\n0. 테스트 환경\n테스트할 환경은 다음과 같습니다.\nNode.js 16.3.1\nPostgreSQL 13.2\n모든 코드는 Github 에 있습니다.\n1. Promise.all\n먼저 promise.all 에 대해서 알아보겠습니다. \n(이미 아시겠지만, 이후 테스트를 설명하기 위한 배경 설명으로 봐주시면 됩니다.)\n테스트를 위해 다음과 같이 2개의 함수를 만들겠습니다.\nexport function sleep(sec) {\n    const start = performance.now();\n    return new Promise(resolve=>{\n        setTimeout(resolve, sec * 1000);\n    }).then(() => {\n        console.log…",
           "link": "https://jojoldu.tistory.com/639",
           "publishedOn": "2022-02-28T14:05:44.000Z",
-          "wordCount": 1413,
+          "wordCount": 1414,
           "title": "Promise.all 과 Transactions (feat. Node.js)",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FziO3a%2FbtruLtSuE7m%2FK95dBn4FuwdIr8xSRM2FIK%2Fimg.png"
         },
@@ -352,19 +362,9 @@
           "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\nNodeJS 기반의 백엔드에서는 NestJS, RoutingControllers 등 최근 대세가 되는 MVC 프레임워크들이 모두 Class를 기반으로 한 DI (Dependency Injection) 방식을 사용하고 있다.\n그러다보니 Jest의 Mocking 방식은 백엔드 NodeJS 환경에서 적합한 도구는 아닐 수 있다. \n특히, Mock/Stub 객체 생성에 불편한 점이 많다.\n그래서 Test Runner로서 Jest는 사용하더라도, Mock 라이브러리는 다른 것을 사용하는 것을 추천하는데, 그 중 대표적인 것들은 다음과 같다.\nts-mockito\nsinonjs\njest-mock-extended\n이번 글에서는 그 중 ts-mockito 를 통한 테스트 더블 (Mock, Stub 등) 활용법을 알아본다.\n1. Jest 와 ts-mockito 비교\n먼저 기존 Jest 방식이 왜 불편한지 보자.\nJest로 객체 Mock/Stub 하는것에 대한 불편함만 다룬다. \n이외에는 Jest는 장점이 많은 테스트 프레임워크이다.\n테스트할 메인 코드는 다음과 같다.\nexport class OrderService {\n    constructor(\n        private readonly orderRepository: OrderRepository,\n        ) {\n    }\n\n    validateCompletedOr…",
           "link": "https://jojoldu.tistory.com/638",
           "publishedOn": "2022-02-21T01:33:06.000Z",
-          "wordCount": 1315,
+          "wordCount": 1316,
           "title": "jest.mock 보다 ts-mockito 사용하기 (feat. Node.js)",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FyDHv8%2FbtrtKCYT5Rm%2FFrJHxHENdmXT37oOchhOgK%2Fimg.png"
-        },
-        {
-          "id": "https://jojoldu.tistory.com/637",
-          "author": "향로",
-          "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\n간혹 Service 계층을 항상 통합 테스트로만 작성하는 경우를 보게됩니다. \n모든 Service를 통합 테스트 혹은 E2E 테스트로만 검증하기 보다는 상황에 따라 적절한 Stub을 사용하여 단위 테스트로 작성한다면 전체 테스트 속도 향상에 도움이 됩니다.\n몇가지 예제를 통해 Stub을 사용하는 단위 테스트 코드를 보겠습니다.\n모든 코드는 Github 에 있습니다..\n예제 1.\n첫번째 예제로 다음과 같은 서비스 로직에 대한 단위 테스트입니다.\nexport class OrderService {\n    constructor(private readonly orderRepository: OrderRepository) {\n    }\n\n    validateCompletedOrder(orderId: number): void {\n        const order = this.orderRepository.findById(orderId);\n        if(order.isNotCompleted()) {\n            throw new Error('아직 완료처리되지 못했습니다.');\n        }\n    }\n}\n코드의 흐름을 이야기해보면\norderRepository를 통해 주문을 조회한다\n조회된 주문 상태가 완료가 아니면 메세지와 함께 에러가 발생한다\n조회된 주문 상태가 완료처리인 경우 그대로 메소드가 종료\n여…",
-          "link": "https://jojoldu.tistory.com/637",
-          "publishedOn": "2022-02-12T10:52:06.000Z",
-          "wordCount": 1422,
-          "title": "Stub 을 이용한 Service 계층 단위 테스트 하기",
-          "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FuafVI%2Fbtrs7lXnos1%2FUrCOOiX7kXaZcBnmJixBL0%2Fimg.png"
         }
       ]
     }
