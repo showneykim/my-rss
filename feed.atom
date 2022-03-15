@@ -1,10 +1,94 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-14T01:12:08.542Z</id>
+    <id>urn:2022-03-15T01:15:01.842Z</id>
     <title>osmos::feed</title>
-    <updated>2022-03-14T01:12:08.542Z</updated>
+    <updated>2022-03-15T01:15:01.842Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Roland 50 Studio]]></title>
+        <id>https://news.hada.io/topic?id=6145</id>
+        <link href="https://news.hada.io/topic?id=6145"/>
+        <updated>2022-03-15T00:52:28.000Z</updated>
+        <summary type="html"><![CDATA[롤랜드 50주년 기념 사이트
+TR-808 드럼 머신, TB-303 베이스 신디사이저, SH-101 신디사이저 를 웹브라우저에서 구현
+음악을 만들고 다운로드 및 공유 가능
+추가로 4개의 장비가 더 공개예정(카운트다운 진행중)
+사운드 디자이너 Yuri Szuki가 만들었던 808303.studio 의...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[로컬 개발환경에서 HTTPS 이용하기]]></title>
+        <id>https://news.hada.io/topic?id=6144</id>
+        <link href="https://news.hada.io/topic?id=6144"/>
+        <updated>2022-03-15T00:27:24.000Z</updated>
+        <summary type="html"><![CDATA[왜 로컬에서 HTTPS를 써야 할까
+
+프로덕션 환경과 최대한 비슷하게
+강력한 보안 정책 적용 - Content Security Policy(CSP)
+서비스 워커, Secure/Prefixed 쿠키 등 특정 브라우저 기능 이용
+localhost 대신 특정 호스트명 이용
+로컬에서 HTTPS 사용하...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Physically-based GPU Raytracer from Scratch]]></title>
+        <id>https://news.hada.io/topic?id=6143</id>
+        <link href="https://news.hada.io/topic?id=6143"/>
+        <updated>2022-03-14T13:06:27.000Z</updated>
+        <summary type="html"><![CDATA[Physically-based GPU Raytracer from Scratch]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[페어 프로그래밍 안티 패턴들]]></title>
+        <id>https://news.hada.io/topic?id=6142</id>
+        <link href="https://news.hada.io/topic?id=6142"/>
+        <updated>2022-03-14T02:03:01.000Z</updated>
+        <summary type="html"><![CDATA[네비게이터
+오류들을 너무 빨리 체크하는 것
+
+드라이버가 문법에러와 오타를 수정 할 시간을 주기
+너무 작은 에러를 계속 지적하는건 흐름을 끊고, 페어가 타인의 시선을 의식하게 됨
+당신의 임무는 틀린 단어를 바로 지적하는게 아니라 큰 그림을 고려하는 것
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PDF 번역 프로그램]]></title>
+        <id>https://news.hada.io/topic?id=6141</id>
+        <link href="https://news.hada.io/topic?id=6141"/>
+        <updated>2022-03-14T01:34:01.000Z</updated>
+        <summary type="html"><![CDATA[PDF의 페이지 레이아웃을 그대로 유지하면서 페이지 또는 문서 단위로 번역
+
+페이지 단위, 여러 페이지를 한번에, 페이지 내에서 특정 텍스트만 선택해서 번역
+자체 번역 엔진, 구글 번역 엔진, 카카오 번역 엔진을 선택해서 번역 가능
+영어,일본어,중국어를 포함한 18개...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Escape from the Office | Apple at Work]]></title>
+        <id>https://news.hada.io/topic?id=6140</id>
+        <link href="https://news.hada.io/topic?id=6140"/>
+        <updated>2022-03-14T01:12:01.000Z</updated>
+        <summary type="html"><![CDATA[애플이 Apple Business Essentials 를 홍보하기 위해 만든 8:50초 짜리 숏무비
+주인공들이 간단한 아이디어로 새 회사를 시작하는 스타트업 창업 홍보 영상 같은 분위기라 재미납니다
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Undocumented Web API 사용하는 법]]></title>
         <id>https://news.hada.io/topic?id=6139</id>
@@ -59,30 +143,6 @@ GitHub: https://github.com/miroslavpejic85/p2p]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: MiroTalk - SFU - Open-Source - Simple, Secure, Scalable, Fast WebRTC Up to 4k]]></title>
-        <id>https://news.hada.io/topic?id=6135</id>
-        <link href="https://news.hada.io/topic?id=6135"/>
-        <updated>2022-03-13T15:26:39.000Z</updated>
-        <summary type="html"><![CDATA[Compatible with all browsers and platforms.
-Live demo: https://sfu.mirotalk.org
-GitHub: https://github.com/miroslavpejic85/mirotalksfu]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: MiroTalk - P2P - Open-Source - Simple, Secure, Fast WebRTC Up to 4k and 60fps]]></title>
-        <id>https://news.hada.io/topic?id=6134</id>
-        <link href="https://news.hada.io/topic?id=6134"/>
-        <updated>2022-03-13T15:25:10.000Z</updated>
-        <summary type="html"><![CDATA[Compatible with all browsers and platforms.
-Live demo: https://mirotalk.up.railway.app
-GitHub: https://github.com/miroslavpejic85/mirotalk]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[WebStorm (IntelliJ IDEA) 에서 this.cliEngineCtor is not a constructor 이슈 발생시 (feat. ESLint 8.0)]]></title>
         <id>https://jojoldu.tistory.com/655</id>
         <link href="https://jojoldu.tistory.com/655"/>
@@ -123,56 +183,6 @@ ESLint 8.0 support
                     (adsbygoogle = window.adsbygoogle || []).push({});]]></summary>
         <author>
             <name>향로</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중앙 은행 디지털 통화들에게 해줘야 할 단 한 마디 : 안돼!]]></title>
-        <id>https://news.hada.io/topic?id=6133</id>
-        <link href="https://news.hada.io/topic?id=6133"/>
-        <updated>2022-03-13T05:25:02.000Z</updated>
-        <summary type="html"><![CDATA[중앙 은행 디지털 통화는 시민들을 억압할 수 있는 잠제력을 가지고 있다는 예를 들고. 우리가 NO라고 말하지 않으면 그걸 막을 수 있는 근거가 없다는 걸 설명한 글입니다.
-요약문에서는 중앙 은행 디지털 통화가 어떻게 위험하고, 그것이 어떤 장점을 가지고 있으며, 전자 결제와의 차별점과 구체적인 위험을]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tygo - Go 소스에서 Typescript 타입들 생성하는 도구]]></title>
-        <id>https://news.hada.io/topic?id=6132</id>
-        <link href="https://news.hada.io/topic?id=6132"/>
-        <updated>2022-03-13T00:35:01.000Z</updated>
-        <summary type="html"><![CDATA[백엔드 REST API를 Go로 개발하고, 프론트를 Typescript로 개발할 경우에 필요한 Type들을 자동으로 생성해주는 도구
-Reflection 기반의 방법과 달리, 코멘트를 유지하고, 상수를 이해하며, 비구조체 type 표현식도 지원
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twitter, Shops 기능 공개]]></title>
-        <id>https://news.hada.io/topic?id=6131</id>
-        <link href="https://news.hada.io/topic?id=6131"/>
-        <updated>2022-03-13T00:13:01.000Z</updated>
-        <summary type="html"><![CDATA[프로필 페이지에서 View Shop 버튼을 눌러서 들어가면 50개까지의 상품을 등록하고 판매 가능
-사용료 없음
-현재는 미국 영어권 iPhone 사용자 및 일부 브랜드에만 적용...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[tuql - SQLite DB로 GraphQL 서버 만들기]]></title>
-        <id>https://news.hada.io/topic?id=6130</id>
-        <link href="https://news.hada.io/topic?id=6130"/>
-        <updated>2022-03-12T23:35:05.000Z</updated>
-        <summary type="html"><![CDATA[일반 형식의 SQLite DB를 GraphQL Endpoint로 만들어주는 도구
-객체간 관계를 추론(belongsTo, hasMany, belongsToMany)
-객체 생성,변경,삭제 및 Many-To-Many 관계를 연결하는데 필요한 기본 변환을 자동으로 처리
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
     </entry>
     <entry>
