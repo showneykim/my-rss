@@ -6,12 +6,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=365042",
+          "author": "Chris Coyier",
+          "description": "Hey hey!\nI’ve got a big announcement to make here. (Where’s my gong? I feel like this really needs a good gong hit.)\nCSS-Tricks, this very website you’re looking at, has been acquired by DigitalOcean!\nYou can hear …\nCSS-Tricks is joining DigitalOcean! originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/css-tricks-is-joining-digitalocean/",
+          "publishedOn": "2022-03-15T12:18:44.000Z",
+          "wordCount": 3692,
+          "title": "CSS-Tricks is joining DigitalOcean!",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365042"
+        },
+        {
           "id": "https://css-tricks.com/?p=363972",
           "author": "Patrick Brosset",
           "description": "I want to introduce you to a new, experimental form control called <selectmenu>. We’ll get deep into it, including how much easier it is to style than a traditional <select> element. But first, let’s fill in some context …\nSay Hello to selectmenu, a Fully Style-able select Element originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/the-selectmenu-element/",
           "publishedOn": "2022-03-03T15:35:32.000Z",
-          "wordCount": 3033,
+          "wordCount": 3329,
           "title": "Say Hello to selectmenu, a Fully Style-able select Element",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363972"
         },
@@ -21,7 +31,7 @@
           "description": "(This is a sponsored post.)\nWhat would your business be like if you sold memberships? It might be more than fun to think about, in fact, it might just be transformative. With membership, would you include little add-ons or …\nBuild Membership Businesses with Memberful originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/build-membership-businesses-with-memberful/",
           "publishedOn": "2022-03-03T15:33:57.000Z",
-          "wordCount": 883,
+          "wordCount": 938,
           "title": "Build Membership Businesses with Memberful",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364001"
         },
@@ -31,7 +41,7 @@
           "description": "I have a handful of good links to articles about performance that are burning a hole in my bookmarks folder, and wanna drop them here to share.\nThe new WebPageTest website design\nFrom fonts to SVG: an icon migration strategy\n…\n7 Fresh Links on Performance For March 2022 originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/performance-links-february-2022/",
           "publishedOn": "2022-03-02T21:26:50.000Z",
-          "wordCount": 839,
+          "wordCount": 767,
           "title": "7 Fresh Links on Performance For March 2022",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364350"
         },
@@ -41,7 +51,7 @@
           "description": "“Raise the curtains” is what I call an effect where the background goes from dark to light on scroll, and the content on top also goes from light to dark while in a sticky position.\nHere’s an example where I …\nHow to Make a “Raise the Curtains” Effect in CSS originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/css-raise-the-curtains-effect/",
           "publishedOn": "2022-03-02T15:57:32.000Z",
-          "wordCount": 1300,
+          "wordCount": 1248,
           "title": "How to Make a “Raise the Curtains” Effect in CSS",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363882"
         },
@@ -51,7 +61,7 @@
           "description": "Styling ranges of text in software is a very useful thing to be able to do. Thankfully, we have the CSS Custom Highlight API to look forward to because it represents the future of styling text ranges on the web.…\nCSS Custom Highlight API: The Future of Highlighting Text Ranges on the Web originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/css-custom-highlight-api-early-loo/",
           "publishedOn": "2022-03-01T17:41:13.000Z",
-          "wordCount": 2573,
+          "wordCount": 2521,
           "title": "CSS Custom Highlight API: The Future of Highlighting Text Ranges on the Web",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363724"
         },
@@ -61,7 +71,7 @@
           "description": "Ahmad Shadeed covers the CSS fit-content sizing keyword. It’s useful! It just doesn’t come up super often. I find myself using min-content a lot more, like when setting up the height of a grid-template-row.\nThe fit-content keyword is actually …\nAhmad Shadeed: Use Cases For CSS fit-content originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/ahmad-shadeed-use-cases-for-css-fit-content/",
           "publishedOn": "2022-03-01T15:41:16.000Z",
-          "wordCount": 434,
+          "wordCount": 382,
           "title": "Ahmad Shadeed: Use Cases For CSS fit-content",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364351"
         },
@@ -71,7 +81,7 @@
           "description": "I enjoy articles like Hartley Charlton’s “Microsoft Edge Looks Set to Overtake Safari as World’s Second Most Popular Desktop Browser.” It’s juicy! We know these massive players in the browser market care very much about their market share, so when …\nIE Down, Edge Up… Global Browser Usage Stats Are for Cocktail Parties and Conference Slides originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/ie-down-edge-up-global-browser-usage-stats-are-for-cocktail-parties-and-conference-slides/",
           "publishedOn": "2022-02-28T23:14:29.000Z",
-          "wordCount": 939,
+          "wordCount": 901,
           "title": "IE Down, Edge Up… Global Browser Usage Stats Are for Cocktail Parties and Conference Slides",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364346"
         },
@@ -81,7 +91,7 @@
           "description": "We’ve discussed a lot about the internals of using CSS in this ongoing series on web components, but there are a few special pseudo-elements and pseudo-classes that, like good friends, willingly smell your possibly halitotic breath before you go …\nWeb Component Pseudo-Classes and Pseudo-Elements are Easier Than You Think originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/web-component-pseudo-classes-and-pseudo-elements/",
           "publishedOn": "2022-02-28T15:37:23.000Z",
-          "wordCount": 2477,
+          "wordCount": 2425,
           "title": "Web Component Pseudo-Classes and Pseudo-Elements are Easier Than You Think",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363929"
         },
@@ -91,7 +101,7 @@
           "description": "A fun deep dive from Zach. Do you have an opinion on which you should use?\n1) https://website.com/foo/\n2) https://websites.com/foo\nThe first option has a “trailing slash.” The second does not.\nI’ve always preferred this thinking: you use a trailing …\nTrailing Slashes on URLs: Contentious or Settled? originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/trailing-slashes-on-urls-contentious-or-settled/",
           "publishedOn": "2022-02-25T21:13:08.000Z",
-          "wordCount": 846,
+          "wordCount": 963,
           "title": "Trailing Slashes on URLs: Contentious or Settled?",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364070"
         },
@@ -101,7 +111,7 @@
           "description": "In my recent article about CSS underline bugs in Chrome, I discussed text-decoration-thickness and text-underline-offset, two relatively new and widely-supported CSS properties that give us more control over the styling of underlines.\nLet me demonstrate the usefulness of …\nWhen to Avoid the text-decoration Shorthand Property originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/when-to-avoid-css-text-decoration-shorthand/",
           "publishedOn": "2022-02-25T15:28:33.000Z",
-          "wordCount": 1213,
+          "wordCount": 1161,
           "title": "When to Avoid the text-decoration Shorthand Property",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363619"
         },
@@ -111,7 +121,7 @@
           "description": "If you’re looking for a primer on CSS specificity, we’ve got that. And if you’re trying to get ahead of the game, you should be aware of CSS Cascade Layers as well.\nOne of the ways to help get …\nManuel Matuzovic’s CSS Specificity Demo originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/manuel-matuzovics-css-specificity-demo/",
           "publishedOn": "2022-02-25T15:27:19.000Z",
-          "wordCount": 493,
+          "wordCount": 462,
           "title": "Manuel Matuzovic’s CSS Specificity Demo",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364152"
         },
@@ -121,7 +131,7 @@
           "description": "Nic Chan:\n[…] the will-change property landed in major browsers in August 2015, and I’ve been on the lookout for when to use it ever since. It might seem self-evident to apply it to commonly animated properties such \n…\nMy white whale: A use case for will-change originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/my-white-whale-a-use-case-for-will-change/",
           "publishedOn": "2022-02-24T20:59:29.000Z",
-          "wordCount": 603,
+          "wordCount": 551,
           "title": "My white whale: A use case for will-change",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364138"
         },
@@ -131,7 +141,7 @@
           "description": "For the past few weeks, I’ve been hiring for a senior full-stack JavaScript engineer at my rental furniture company, Pabio. Since we’re a remote team, we conduct our interviews on Zoom, and I’ve observed that some developers are not …\nExplain the First 10 Lines of Twitter’s Source Code to Me originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/explain-the-first-10-lines-of-twitter-source-code/",
           "publishedOn": "2022-02-24T15:31:55.000Z",
-          "wordCount": 6590,
+          "wordCount": 6923,
           "title": "Explain the First 10 Lines of Twitter’s Source Code to Me",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363553"
         },
@@ -141,19 +151,9 @@
           "description": "(This is a sponsored post.)\nIn recent years, the Jamstack methodology for building websites has become increasingly popular. Performance, scalable, and secure, it’s easy to see why it’s becoming an attractive way to build websites for developers.\nGatsbyJS is …\nSuperior Image Optimization: An Ideal Solution Using Gatsby & ImageEngine originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/superior-image-optimization-an-ideal-solution-using-gatsby-imageengine/",
           "publishedOn": "2022-02-24T15:31:49.000Z",
-          "wordCount": 2772,
+          "wordCount": 2793,
           "title": "Superior Image Optimization: An Ideal Solution Using Gatsby & ImageEngine",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363526"
-        },
-        {
-          "id": "https://css-tricks.com/?p=363937",
-          "author": "Chris Coyier",
-          "description": "Kinda silly sounding, isn’t it? CSS database queries. But, hey, CSS is capable of talking to other languages in the sense that it can set the values of things that they can read. Plus, CSS can request other files, and …\nCSS Database Queries? Sure We Can! originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/css-database-queries/",
-          "publishedOn": "2022-02-23T20:04:39.000Z",
-          "wordCount": 814,
-          "title": "CSS Database Queries? Sure We Can!",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363937"
         }
       ]
     },
@@ -168,7 +168,7 @@
           "description": "퇴사의 이유 새로운 직장에 대한 니즈는 한 직장에서 일정기간 업무를 해 왔다면 한 번쯤 생각할 때가 있습니다. 왜 퇴사가 하고 싶을까요? 여러가지 이유가 있지만 각자가 가지고 있는 다양한 가치관에 따라, 또는 지나친 업무량에 따라,...\nThe post 퇴사를 해야겠다고 생각이 들때 appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/resign/",
           "publishedOn": "2022-03-11T17:42:31.000Z",
-          "wordCount": 1578,
+          "wordCount": 1546,
           "title": "퇴사를 해야겠다고 생각이 들때",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2022/03/62ced3bfdda80.jpeg"
         },
@@ -178,7 +178,7 @@
           "description": "DBeaver에서 java heap space 부족이라고 나올때 DB를 관리하는 툴중에 DBeaver라는 툴이 있습니다. 커뮤니티 버전은 프리웨어이기도 하고, 엔터프라이즈 버전은 낮은 가격에도 강력한 부가 기능들이 있어 주로 사용하는 DB툴입니다. DBeaver에서 대용량 테이블을 이관하거나 CSV 파일들의 작업을...\nThe post DBeaver에서 java heap space 부족이라고 나올때 appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/dbeaver%ec%97%90%ec%84%9c-java-heap-space-%eb%b6%80%ec%a1%b1%ec%9d%b4%eb%9d%bc%ea%b3%a0-%eb%82%98%ec%98%ac%eb%95%8c/",
           "publishedOn": "2022-03-01T15:22:02.000Z",
-          "wordCount": 530,
+          "wordCount": 531,
           "title": "DBeaver에서 java heap space 부족이라고 나올때",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2021/04/sm_5b46d890d85b8.jpg"
         }
@@ -190,104 +190,104 @@
       "siteUrl": "https://news.hada.io",
       "articles": [
         {
-          "id": "https://news.hada.io/topic?id=6145",
+          "id": "https://news.hada.io/topic?id=6155",
           "author": null,
-          "description": "롤랜드 50주년 기념 사이트\nTR-808 드럼 머신, TB-303 베이스 신디사이저, SH-101 신디사이저 를 웹브라우저에서 구현\n음악을 만들고 다운로드 및 공유 가능\n추가로 4개의 장비가 더 공개예정(카운트다운 진행중)\n사운드 디자이너 Yuri Szuki가 만들었던 808303.studio 의...",
-          "link": "https://news.hada.io/topic?id=6145",
-          "publishedOn": "2022-03-15T00:52:28.000Z",
-          "wordCount": 133,
-          "title": "Roland 50 Studio",
-          "imageUrl": "https://social.news.hada.io/topic/6145"
+          "description": "설정만 잘 한다면, 추가로 안티바이러스 프로그램 사서 설치할 필요없음\n로컬 그룹 정책 설정\n\nMAPS 활성화(Microsoft Advanced Protection Service)\n랜섬웨어 보호\n파워쉘을 통한 추가 설정\n\nSignature Update Interval을 1시간으로, 매 스캔마다 강제...",
+          "link": "https://news.hada.io/topic?id=6155",
+          "publishedOn": "2022-03-16T00:36:01.000Z",
+          "wordCount": 108,
+          "title": "Windows Defender면 충분합니다",
+          "imageUrl": "https://social.news.hada.io/topic/6155"
         },
         {
-          "id": "https://news.hada.io/topic?id=6144",
+          "id": "https://news.hada.io/topic?id=6154",
           "author": null,
-          "description": "왜 로컬에서 HTTPS를 써야 할까\n\n프로덕션 환경과 최대한 비슷하게\n강력한 보안 정책 적용 - Content Security Policy(CSP)\n서비스 워커, Secure/Prefixed 쿠키 등 특정 브라우저 기능 이용\nlocalhost 대신 특정 호스트명 이용\n로컬에서 HTTPS 사용하...",
-          "link": "https://news.hada.io/topic?id=6144",
-          "publishedOn": "2022-03-15T00:27:24.000Z",
-          "wordCount": 120,
-          "title": "로컬 개발환경에서 HTTPS 이용하기",
-          "imageUrl": "https://social.news.hada.io/topic/6144"
+          "description": "구글이 운영하는 도메인 레지스트라\n2015년 런치해서 7년간의 베타 종료하고 GA로\n26개국, 300개의 TLD 지원\n2FA, 프라이버시 보호, DNSSEC 등의 기능 기본 지원\n런칭 기념 할인 행사중 : 페이지에 나온 DOMAINS20 은 20% 코드(최대$5)이고, FRIENDSOFDOMAINS 를 넣으시면...",
+          "link": "https://news.hada.io/topic?id=6154",
+          "publishedOn": "2022-03-16T00:19:01.000Z",
+          "wordCount": 173,
+          "title": "Google Domains 베타 종료하고 정식 출시",
+          "imageUrl": "https://social.news.hada.io/topic/6154"
         },
         {
-          "id": "https://news.hada.io/topic?id=6143",
+          "id": "https://news.hada.io/topic?id=6153",
           "author": null,
-          "description": "Physically-based GPU Raytracer from Scratch",
-          "link": "https://news.hada.io/topic?id=6143",
-          "publishedOn": "2022-03-14T13:06:27.000Z",
-          "wordCount": 55,
-          "title": "Physically-based GPU Raytracer from Scratch",
-          "imageUrl": "https://social.news.hada.io/topic/6143"
+          "description": "약 5만개의 온라인 강의에서 검색\n주제별 또는 대학별로 브라우징 가능\n\nCS, Biz, Art & Design, Engineering, Math, Science..\n17만개의 리뷰를 통해서 강의품질 확인 가능\n하버드/스탠포드/MIT 를 포함한 1000여개의 대학 강의들\nCoursera / Ud...",
+          "link": "https://news.hada.io/topic?id=6153",
+          "publishedOn": "2022-03-16T00:05:01.000Z",
+          "wordCount": 94,
+          "title": "Class Central - 온라인 강의 검색엔진",
+          "imageUrl": "https://social.news.hada.io/topic/6153"
         },
         {
-          "id": "https://news.hada.io/topic?id=6142",
+          "id": "https://news.hada.io/topic?id=6152",
           "author": null,
-          "description": "네비게이터\n오류들을 너무 빨리 체크하는 것\n\n드라이버가 문법에러와 오타를 수정 할 시간을 주기\n너무 작은 에러를 계속 지적하는건 흐름을 끊고, 페어가 타인의 시선을 의식하게 됨\n당신의 임무는 틀린 단어를 바로 지적하는게 아니라 큰 그림을 고려하는 것\n\n...",
-          "link": "https://news.hada.io/topic?id=6142",
-          "publishedOn": "2022-03-14T02:03:01.000Z",
-          "wordCount": 495,
-          "title": "페어 프로그래밍 안티 패턴들",
-          "imageUrl": "https://social.news.hada.io/topic/6142"
+          "description": "Alt-Drag(https://stefansundin.github.io/altdrag/)은 키보드 Alt +마우스 Click & Drag로 화면에 떠 있는 창들을 손쉽게 이동할 수 있는 방식을 사용할 수 있게 해주는 윈도용 유틸리티 입니다.\n반드시 창의 타이틀바를 클릭해서 창을 이동하는 불편함과는 달리 Alt-Drag를 이용하면 Alt키를 누르고 창의",
+          "link": "https://news.hada.io/topic?id=6152",
+          "publishedOn": "2022-03-15T11:37:45.000Z",
+          "wordCount": 167,
+          "title": "AltDrag의 대체제 AltSnap",
+          "imageUrl": "https://social.news.hada.io/topic/6152"
         },
         {
-          "id": "https://news.hada.io/topic?id=6141",
+          "id": "https://news.hada.io/topic?id=6151",
           "author": null,
-          "description": "PDF의 페이지 레이아웃을 그대로 유지하면서 페이지 또는 문서 단위로 번역\n\n페이지 단위, 여러 페이지를 한번에, 페이지 내에서 특정 텍스트만 선택해서 번역\n자체 번역 엔진, 구글 번역 엔진, 카카오 번역 엔진을 선택해서 번역 가능\n영어,일본어,중국어를 포함한 18개...",
-          "link": "https://news.hada.io/topic?id=6141",
-          "publishedOn": "2022-03-14T01:34:01.000Z",
-          "wordCount": 137,
-          "title": "PDF 번역 프로그램",
-          "imageUrl": "https://social.news.hada.io/topic/6141"
+          "description": "BOT이나 REST API에서 공개적으로 접근해야하는 URL이 요구되는 경우가 있지만. 보통 제가 작은 프로젝트나 실험을 할 때는 공개 URL을 만들기 귀찮았습니다.\nngrok은 그 귀찮음을 해결해줍니다. ngrok을 다운 받고, 'ngrok http 3000'을 하면 localhost 3000 포트와 연결된 공개 URL을 생성합니다....",
+          "link": "https://news.hada.io/topic?id=6151",
+          "publishedOn": "2022-03-15T06:55:11.000Z",
+          "wordCount": 204,
+          "title": "ngrok - 로컬 개발을 위해 제공되는 공개 URL 생성 솔루션",
+          "imageUrl": "https://social.news.hada.io/topic/6151"
         },
         {
-          "id": "https://news.hada.io/topic?id=6140",
+          "id": "https://news.hada.io/topic?id=6150",
           "author": null,
-          "description": "애플이 Apple Business Essentials 를 홍보하기 위해 만든 8:50초 짜리 숏무비\n주인공들이 간단한 아이디어로 새 회사를 시작하는 스타트업 창업 홍보 영상 같은 분위기라 재미납니다\n\n...",
-          "link": "https://news.hada.io/topic?id=6140",
-          "publishedOn": "2022-03-14T01:12:01.000Z",
-          "wordCount": 116,
-          "title": "Escape from the Office | Apple at Work",
-          "imageUrl": "https://social.news.hada.io/topic/6140"
+          "description": "곧 사이트의 다운로드 링크는 동작 안하게 되며, 이미 설치된 버전은 그대로 사용은 가능",
+          "link": "https://news.hada.io/topic?id=6150",
+          "publishedOn": "2022-03-15T02:54:41.000Z",
+          "wordCount": 96,
+          "title": "광고차단 유튜브앱 Vanced 개발 중단",
+          "imageUrl": "https://social.news.hada.io/topic/6150"
         },
         {
-          "id": "https://news.hada.io/topic?id=6139",
+          "id": "https://news.hada.io/topic?id=6149",
           "author": null,
-          "description": "브라우저가 하는 동작을 분석해서 그대로 사용하기\n개발자 도구를 통해서 JSON 응답 찾기\nCopy as CURL로 복사하고 gunzip으로 풀기\n관련없는 헤더 제거하기\n파이썬으로 변환하기\nCurlConverter를 이용하면 C...",
-          "link": "https://news.hada.io/topic?id=6139",
-          "publishedOn": "2022-03-14T00:47:01.000Z",
-          "wordCount": 122,
-          "title": "Undocumented Web API 사용하는 법",
-          "imageUrl": "https://social.news.hada.io/topic/6139"
+          "description": "스토리지, 컴퓨트, 네트워킹 제품들의 가격이 조정 될 예정\n\n인하/인상이 섞여 있어서 사용하는 제품군 별로 체크 해야함\n예) 멀티리전 Nearline/Coldline 스토리지는 가격 상승, Archive 스토리지는 가격 인하\n2022/10/1 부터 적용\n\n...",
+          "link": "https://news.hada.io/topic?id=6149",
+          "publishedOn": "2022-03-15T02:24:10.000Z",
+          "wordCount": 144,
+          "title": "Google Cloud 인프라 가격 변경",
+          "imageUrl": "https://social.news.hada.io/topic/6149"
         },
         {
-          "id": "https://news.hada.io/topic?id=6138",
+          "id": "https://news.hada.io/topic?id=6148",
           "author": null,
-          "description": "아티스트 들이 자신의 음악을 더 많이 홍보할수 있도록 도와주는 플랫폼\n자신의 음악을 직접 TikTok 에 업로드 가능하며, Apple Music/Spotify/Pandora/Deezer/Zoox/Resso 등의 음악 스트리밍 서비스도 지원\n배포는 무료고, 모든 거래수수료도 면제\n\n바이트댄스가 가진 플랫폼인 Tik...",
-          "link": "https://news.hada.io/topic?id=6138",
-          "publishedOn": "2022-03-14T00:29:02.000Z",
-          "wordCount": 136,
-          "title": "Tiktok, 음악 마케팅/배포 플랫폼 SoundOn 공개",
-          "imageUrl": "https://social.news.hada.io/topic/6138"
+          "description": "기존 5백만개에서 2배로 확장. 컬럼수는 여전히 최대 18278개(A 부터 ZZZ)\n\nExcel/CSV 에서 임포트할 때도 마찬가지로 적용\n변환시에 한 셀에 5만글자 이상인 셀은 제거됨\nAdd Row 버튼 눌러서 바로 천만줄을 만드는건 불가(최대 500만줄씩 두번해야)\n\n...",
+          "link": "https://news.hada.io/topic?id=6148",
+          "publishedOn": "2022-03-15T01:59:01.000Z",
+          "wordCount": 163,
+          "title": "구글 스프레드 시트, 최대 셀수를 1천만개로 확장",
+          "imageUrl": "https://social.news.hada.io/topic/6148"
         },
         {
-          "id": "https://news.hada.io/topic?id=6137",
+          "id": "https://news.hada.io/topic?id=6147",
           "author": null,
-          "description": "맥 터미널에서 아래 커맨드를 입력하면 시스템이 사용하는 웹뷰에서 \"Inspect Element\" 메뉴가 활성화되어,\n시스템 대화 창의 모든 웹뷰를 기존 웹사이트 처럼 개발자도구로 살펴보기 가능\ndefaults write NSGlobalDomain WebKitDeveloperExtras -bool true\ndefaults write -g Web...",
-          "link": "https://news.hada.io/topic?id=6137",
-          "publishedOn": "2022-03-14T00:11:01.000Z",
-          "wordCount": 310,
-          "title": "macOS가 사용하는 웹뷰 Inspect 하기",
-          "imageUrl": "https://social.news.hada.io/topic/6137"
+          "description": "구글 검색 광고에서 가장 비싼 키워드들 정리 (US기준)\n탑 5000 키워드의 카테고리별 순위\n\n법률 19.4% > 교육 8.7% > 보험 6.1% > 중독 및 재활 프로그램 4.9% > 대출 1.1%\nCPC 기준 가장 비싼 키워드\n\n1등 best motorcycle accident laywer : 클릭...",
+          "link": "https://news.hada.io/topic?id=6147",
+          "publishedOn": "2022-03-15T01:29:01.000Z",
+          "wordCount": 233,
+          "title": "2022년 가장 비싼 광고 키워드들",
+          "imageUrl": "https://social.news.hada.io/topic/6147"
         },
         {
-          "id": "https://news.hada.io/topic?id=6136",
+          "id": "https://news.hada.io/topic?id=6146",
           "author": null,
-          "description": "Portable, No Configuration or Installation Needed.\nGitHub: https://github.com/miroslavpejic85/p2p",
-          "link": "https://news.hada.io/topic?id=6136",
-          "publishedOn": "2022-03-13T16:42:10.000Z",
-          "wordCount": 77,
-          "title": "Show GN: P2P Remote Desktop - Open Source - alternative to TeamViewer - AnyDesk ...",
-          "imageUrl": "https://social.news.hada.io/topic/6136"
+          "description": "한개 이상의 SQLite 파일에 대해서 REST(JSON over HTTP)로 쿼리 가능하게 해주는 Go 오픈소스\n\nSQLite에 원격 접속 필요한 서버리스 등에서 사용 가능\n실행파일 1개로 바로 서버 실행\n\n여러개의 .db 파일 동시 서빙 가능\n인메모리 DB도 지원\n\n\n...",
+          "link": "https://news.hada.io/topic?id=6146",
+          "publishedOn": "2022-03-15T01:13:01.000Z",
+          "wordCount": 121,
+          "title": "ws4sqlite - SQLite를 REST로 이용하게 해주는 서버",
+          "imageUrl": "https://social.news.hada.io/topic/6146"
         }
       ]
     },
