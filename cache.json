@@ -11,7 +11,7 @@
           "description": "Hey hey!\nI’ve got a big announcement to make here. (Where’s my gong? I feel like this really needs a good gong hit.)\nCSS-Tricks, this very website you’re looking at, has been acquired by DigitalOcean!\nYou can hear …\nCSS-Tricks is joining DigitalOcean! originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/css-tricks-is-joining-digitalocean/",
           "publishedOn": "2022-03-15T12:18:44.000Z",
-          "wordCount": 3692,
+          "wordCount": 5555,
           "title": "CSS-Tricks is joining DigitalOcean!",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365042"
         },
@@ -21,7 +21,7 @@
           "description": "I want to introduce you to a new, experimental form control called <selectmenu>. We’ll get deep into it, including how much easier it is to style than a traditional <select> element. But first, let’s fill in some context …\nSay Hello to selectmenu, a Fully Style-able select Element originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/the-selectmenu-element/",
           "publishedOn": "2022-03-03T15:35:32.000Z",
-          "wordCount": 3329,
+          "wordCount": 3600,
           "title": "Say Hello to selectmenu, a Fully Style-able select Element",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363972"
         },
@@ -168,7 +168,7 @@
           "description": "퇴사의 이유 새로운 직장에 대한 니즈는 한 직장에서 일정기간 업무를 해 왔다면 한 번쯤 생각할 때가 있습니다. 왜 퇴사가 하고 싶을까요? 여러가지 이유가 있지만 각자가 가지고 있는 다양한 가치관에 따라, 또는 지나친 업무량에 따라,...\nThe post 퇴사를 해야겠다고 생각이 들때 appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/resign/",
           "publishedOn": "2022-03-11T17:42:31.000Z",
-          "wordCount": 1546,
+          "wordCount": 1577,
           "title": "퇴사를 해야겠다고 생각이 들때",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2022/03/62ced3bfdda80.jpeg"
         },
@@ -190,104 +190,104 @@
       "siteUrl": "https://news.hada.io",
       "articles": [
         {
-          "id": "https://news.hada.io/topic?id=6155",
+          "id": "https://news.hada.io/topic?id=6169",
           "author": null,
-          "description": "설정만 잘 한다면, 추가로 안티바이러스 프로그램 사서 설치할 필요없음\n로컬 그룹 정책 설정\n\nMAPS 활성화(Microsoft Advanced Protection Service)\n랜섬웨어 보호\n파워쉘을 통한 추가 설정\n\nSignature Update Interval을 1시간으로, 매 스캔마다 강제...",
-          "link": "https://news.hada.io/topic?id=6155",
-          "publishedOn": "2022-03-16T00:36:01.000Z",
-          "wordCount": 108,
-          "title": "Windows Defender면 충분합니다",
-          "imageUrl": "https://social.news.hada.io/topic/6155"
+          "description": "Okular는 KDE의 오픈소스 PDF 리더 & 범용 문서 뷰어\n\"Blue Angel Ecolabel\" 을 수상\n소프트웨어 제품으로는 첫번째로 인증을 받음\n→ 자원 및 에너지 효율에 대한 투명성, 하드웨어 작동 수명, 사용자 자율...",
+          "link": "https://news.hada.io/topic?id=6169",
+          "publishedOn": "2022-03-17T00:49:52.000Z",
+          "wordCount": 112,
+          "title": "KDE의 PDF 리더 Okular가 세계 최초로 \"환경 인증\"을 받음",
+          "imageUrl": "https://social.news.hada.io/topic/6169"
         },
         {
-          "id": "https://news.hada.io/topic?id=6154",
+          "id": "https://news.hada.io/topic?id=6168",
           "author": null,
-          "description": "구글이 운영하는 도메인 레지스트라\n2015년 런치해서 7년간의 베타 종료하고 GA로\n26개국, 300개의 TLD 지원\n2FA, 프라이버시 보호, DNSSEC 등의 기능 기본 지원\n런칭 기념 할인 행사중 : 페이지에 나온 DOMAINS20 은 20% 코드(최대$5)이고, FRIENDSOFDOMAINS 를 넣으시면...",
-          "link": "https://news.hada.io/topic?id=6154",
-          "publishedOn": "2022-03-16T00:19:01.000Z",
-          "wordCount": 173,
-          "title": "Google Domains 베타 종료하고 정식 출시",
-          "imageUrl": "https://social.news.hada.io/topic/6154"
+          "description": "\"We believe people can do more together, than alone.\"",
+          "link": "https://news.hada.io/topic?id=6168",
+          "publishedOn": "2022-03-17T00:47:01.000Z",
+          "wordCount": 85,
+          "title": "페이스북, TikTok에 공식 계정 개설",
+          "imageUrl": "https://social.news.hada.io/topic/6168"
         },
         {
-          "id": "https://news.hada.io/topic?id=6153",
+          "id": "https://news.hada.io/topic?id=6167",
           "author": null,
-          "description": "약 5만개의 온라인 강의에서 검색\n주제별 또는 대학별로 브라우징 가능\n\nCS, Biz, Art & Design, Engineering, Math, Science..\n17만개의 리뷰를 통해서 강의품질 확인 가능\n하버드/스탠포드/MIT 를 포함한 1000여개의 대학 강의들\nCoursera / Ud...",
-          "link": "https://news.hada.io/topic?id=6153",
-          "publishedOn": "2022-03-16T00:05:01.000Z",
-          "wordCount": 94,
-          "title": "Class Central - 온라인 강의 검색엔진",
-          "imageUrl": "https://social.news.hada.io/topic/6153"
+          "description": "Generic\n\n많은 분이 기다리던 제너릭이 드디어 릴리즈 되었습니다.\nFuzzing\n\nFuzzing을 기본으로 제공하는 최초의 major 언어 라고 하는군요\nWorkspaces\n\nyarn, npm 과 유사한 workspace 기능도 추가되었습니다\n한 프로젝트에서 m...",
+          "link": "https://news.hada.io/topic?id=6167",
+          "publishedOn": "2022-03-17T00:27:30.000Z",
+          "wordCount": 112,
+          "title": "Go 1.18 릴리즈 (제너릭 포함)",
+          "imageUrl": "https://social.news.hada.io/topic/6167"
         },
         {
-          "id": "https://news.hada.io/topic?id=6152",
+          "id": "https://news.hada.io/topic?id=6166",
           "author": null,
-          "description": "Alt-Drag(https://stefansundin.github.io/altdrag/)은 키보드 Alt +마우스 Click & Drag로 화면에 떠 있는 창들을 손쉽게 이동할 수 있는 방식을 사용할 수 있게 해주는 윈도용 유틸리티 입니다.\n반드시 창의 타이틀바를 클릭해서 창을 이동하는 불편함과는 달리 Alt-Drag를 이용하면 Alt키를 누르고 창의",
-          "link": "https://news.hada.io/topic?id=6152",
-          "publishedOn": "2022-03-15T11:37:45.000Z",
-          "wordCount": 167,
-          "title": "AltDrag의 대체제 AltSnap",
-          "imageUrl": "https://social.news.hada.io/topic/6152"
+          "description": "아마존 버전의 ClubHouse\n자신만의 라디오 스타일 쇼 호스트가 가능한 서비스\n\n수백만곡의 음악 무료 사용 가능\nDJ처럼 음악과 음성을 바꿔가며 쇼 구성\nCall-in 기능으로 청취자 참여 가능\n라이브 전에 음악 플레이리스트를 작성하면 더 적합한 리스...",
+          "link": "https://news.hada.io/topic?id=6166",
+          "publishedOn": "2022-03-17T00:22:05.000Z",
+          "wordCount": 104,
+          "title": "아마존 실시간 오디오 앱 Amp 공개",
+          "imageUrl": "https://social.news.hada.io/topic/6166"
         },
         {
-          "id": "https://news.hada.io/topic?id=6151",
+          "id": "https://news.hada.io/topic?id=6165",
           "author": null,
-          "description": "BOT이나 REST API에서 공개적으로 접근해야하는 URL이 요구되는 경우가 있지만. 보통 제가 작은 프로젝트나 실험을 할 때는 공개 URL을 만들기 귀찮았습니다.\nngrok은 그 귀찮음을 해결해줍니다. ngrok을 다운 받고, 'ngrok http 3000'을 하면 localhost 3000 포트와 연결된 공개 URL을 생성합니다....",
-          "link": "https://news.hada.io/topic?id=6151",
-          "publishedOn": "2022-03-15T06:55:11.000Z",
-          "wordCount": 204,
-          "title": "ngrok - 로컬 개발을 위해 제공되는 공개 URL 생성 솔루션",
-          "imageUrl": "https://social.news.hada.io/topic/6151"
+          "description": "2021년에 10억 비디오 조회수를 넘은 노래가 430곡\n이중 175곡은 빌보드 핫100에 들어갔음\n많은 아티스트들이 이를 통해서 메이저 레이블과 계약을 이끌어 냄\nUS내에서 라틴 뮤직 장르가 가장 빠르게 성장중\n가장 인기인 장르는 Hip-Hop/Rap...",
+          "link": "https://news.hada.io/topic?id=6165",
+          "publishedOn": "2022-03-17T00:09:45.000Z",
+          "wordCount": 88,
+          "title": "TikTok은 새로운 음악플랫폼이다",
+          "imageUrl": "https://social.news.hada.io/topic/6165"
         },
         {
-          "id": "https://news.hada.io/topic?id=6150",
+          "id": "https://news.hada.io/topic?id=6164",
           "author": null,
-          "description": "곧 사이트의 다운로드 링크는 동작 안하게 되며, 이미 설치된 버전은 그대로 사용은 가능",
-          "link": "https://news.hada.io/topic?id=6150",
-          "publishedOn": "2022-03-15T02:54:41.000Z",
-          "wordCount": 96,
-          "title": "광고차단 유튜브앱 Vanced 개발 중단",
-          "imageUrl": "https://social.news.hada.io/topic/6150"
+          "description": "서비스 출시 후 5년 동안 사용하던 Webpack을 Vite로 옮기며 있었던 이야기를 공유합니다. 부족한 부분이 많지만 재밌게 읽어주신다면 감사하겠습니다.\nWebpack의 장점과 웹 생태계의 변화\nWebpack은 지난 10년간 개발, 관리되며 생태계가 잘 갖춰져 있음.\nCreate React App 등 많은 곳",
+          "link": "https://news.hada.io/topic?id=6164",
+          "publishedOn": "2022-03-16T04:53:35.000Z",
+          "wordCount": 419,
+          "title": "Webpack → Vite: 번들러 마이그레이션 이야기",
+          "imageUrl": "https://social.news.hada.io/topic/6164"
         },
         {
-          "id": "https://news.hada.io/topic?id=6149",
+          "id": "https://news.hada.io/topic?id=6162",
           "author": null,
-          "description": "스토리지, 컴퓨트, 네트워킹 제품들의 가격이 조정 될 예정\n\n인하/인상이 섞여 있어서 사용하는 제품군 별로 체크 해야함\n예) 멀티리전 Nearline/Coldline 스토리지는 가격 상승, Archive 스토리지는 가격 인하\n2022/10/1 부터 적용\n\n...",
-          "link": "https://news.hada.io/topic?id=6149",
-          "publishedOn": "2022-03-15T02:24:10.000Z",
-          "wordCount": 144,
-          "title": "Google Cloud 인프라 가격 변경",
-          "imageUrl": "https://social.news.hada.io/topic/6149"
+          "description": "CEO Rene Haas가 직원들에게 감원내용이 포함된 이메일 발송\n\"경쟁을 유지하기 위해 중복 작업을 제거해야 합니다. 미래 성공에 더 이상 중요하지 않은 작업을 중단합니다.\"\nCEO가 된지 한달된 Haas는 \"비용과 투자 대상을 좀 더 엄격해",
+          "link": "https://news.hada.io/topic?id=6162",
+          "publishedOn": "2022-03-16T04:39:36.000Z",
+          "wordCount": 131,
+          "title": "ARM, 직원의 최대 15%(약1000명)를 감원 예정",
+          "imageUrl": "https://social.news.hada.io/topic/6162"
         },
         {
-          "id": "https://news.hada.io/topic?id=6148",
+          "id": "https://news.hada.io/topic?id=6161",
           "author": null,
-          "description": "기존 5백만개에서 2배로 확장. 컬럼수는 여전히 최대 18278개(A 부터 ZZZ)\n\nExcel/CSV 에서 임포트할 때도 마찬가지로 적용\n변환시에 한 셀에 5만글자 이상인 셀은 제거됨\nAdd Row 버튼 눌러서 바로 천만줄을 만드는건 불가(최대 500만줄씩 두번해야)\n\n...",
-          "link": "https://news.hada.io/topic?id=6148",
-          "publishedOn": "2022-03-15T01:59:01.000Z",
-          "wordCount": 163,
-          "title": "구글 스프레드 시트, 최대 셀수를 1천만개로 확장",
-          "imageUrl": "https://social.news.hada.io/topic/6148"
+          "description": "텍스트를 편집 또는 삽입하는 기능을 추가\n기존 코드를 수정/리팩토링하는 용도로 사용 가능\n문장을 재작성 하거나, 긴...",
+          "link": "https://news.hada.io/topic?id=6161",
+          "publishedOn": "2022-03-16T03:10:37.000Z",
+          "wordCount": 103,
+          "title": "GPT-3의 새 기능 : 편집과 삽입",
+          "imageUrl": "https://social.news.hada.io/topic/6161"
         },
         {
-          "id": "https://news.hada.io/topic?id=6147",
+          "id": "https://news.hada.io/topic?id=6160",
           "author": null,
-          "description": "구글 검색 광고에서 가장 비싼 키워드들 정리 (US기준)\n탑 5000 키워드의 카테고리별 순위\n\n법률 19.4% > 교육 8.7% > 보험 6.1% > 중독 및 재활 프로그램 4.9% > 대출 1.1%\nCPC 기준 가장 비싼 키워드\n\n1등 best motorcycle accident laywer : 클릭...",
-          "link": "https://news.hada.io/topic?id=6147",
-          "publishedOn": "2022-03-15T01:29:01.000Z",
-          "wordCount": 233,
-          "title": "2022년 가장 비싼 광고 키워드들",
-          "imageUrl": "https://social.news.hada.io/topic/6147"
+          "description": "클라우드 플랫폼 DigitalOcean이 프론트엔드 개발자용 정보 사이트인 CSS-Tricks를 인수\n\n약 6500개의 아티클,비디오,가이드\nChris Coyier가 2007년에 창업해서 작은 팀으로 운영되던 사이트\n계속 별도 사이트로 무료로 운영하며, Chris는 디오로 이관하는 동안 고문으로...",
+          "link": "https://news.hada.io/topic?id=6160",
+          "publishedOn": "2022-03-16T02:40:00.000Z",
+          "wordCount": 180,
+          "title": "DigitalOcean이 CSS-Tricks 인수",
+          "imageUrl": "https://social.news.hada.io/topic/6160"
         },
         {
-          "id": "https://news.hada.io/topic?id=6146",
+          "id": "https://news.hada.io/topic?id=6158",
           "author": null,
-          "description": "한개 이상의 SQLite 파일에 대해서 REST(JSON over HTTP)로 쿼리 가능하게 해주는 Go 오픈소스\n\nSQLite에 원격 접속 필요한 서버리스 등에서 사용 가능\n실행파일 1개로 바로 서버 실행\n\n여러개의 .db 파일 동시 서빙 가능\n인메모리 DB도 지원\n\n\n...",
-          "link": "https://news.hada.io/topic?id=6146",
-          "publishedOn": "2022-03-15T01:13:01.000Z",
-          "wordCount": 121,
-          "title": "ws4sqlite - SQLite를 REST로 이용하게 해주는 서버",
-          "imageUrl": "https://social.news.hada.io/topic/6146"
+          "description": "\"코드 리뷰 좋은지 알겠는데, 시간이 없다. 리뷰 말고도 할 일이 많다.\"\n코드리뷰 강의를 하는 필자가 가장 많이 받는 위 질문에 대한 답변 정리\n코드 리뷰에 최소의 시간이 소요되도록 저자(PR 작성자)가 노력하자\n매일 아침 10분",
+          "link": "https://news.hada.io/topic?id=6158",
+          "publishedOn": "2022-03-16T01:31:01.000Z",
+          "wordCount": 254,
+          "title": "코드리뷰 관련해서 많이 받는 질문에 대한 답변",
+          "imageUrl": "https://social.news.hada.io/topic/6158"
         }
       ]
     },
@@ -309,10 +309,10 @@
         {
           "id": "https://jojoldu.tistory.com/643",
           "author": "향로",
-          "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\n여러 포스팅에서 언급한것처럼 테스트 코드는 빠르게 실패를 파악할 수 있어야 한다.\n그런면에서 Optional chaining(?.) 은 테스트코드에 적합하지 않다.\nMDN의 설명을 가져오면 Optional chaining(?.)은 체이닝 연산자(.) 와 유사하게 작동하지만, 만약 참조가 nullish (en-US) (null 또는 undefined)이라면, 에러가 발생하는 것 대신에 표현식의 리턴 값을 undefined로 반환한다.\n따라서 참조가 누락될 가능성이 있는 경우 연결된 속성으로 접근할 때 더 짧고 간단한 표현식이 생성된다. \n어떤 속성이 필요한지에 대한 보증이 확실하지 않는 경우 객체의 내용을 탐색하는 동안 도움이 될 수 있다.\n안정적으로 객체 탐색이 가능하기 때문에 프로덕션 코드에서는 적극적으로 사용하는 편이다. \n하지만 테스트 코드에서는 안정적인 점이 오히려 단점이 된다.\n문제\n이를 테면 다음과 같이 sut 의 하위에 있는 pay.amount 를 검증한다고 하자. \n이때 Optional chaining(?.) 을 사용한다면 다음과 같다.\nit('?가 있는 경우 #1', () => {\n    const amount = 0;\n    const sut = createOrder(amount);\n\n    expect(sut?.pay?.amount).toBe(amount);\n});\n\nclass Order…",
+          "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\n여러 포스팅에서 언급한것처럼 테스트 코드는 빠르게 실패를 파악할 수 있어야 한다.\n그런면에서 Optional chaining(?.) 은 테스트코드에 적합하지 않다.\nMDN의 설명을 가져오면 Optional chaining(?.)은 체이닝 연산자(.) 와 유사하게 작동하지만, 만약 참조가 nullish (null 또는 undefined)이라면, 에러가 발생하는 것 대신에 표현식의 리턴 값을 undefined로 반환한다.\n따라서 참조가 누락될 가능성이 있는 경우 연결된 속성으로 접근할 때 더 짧고 간단한 표현식이 생성된다. \n어떤 속성이 필요한지에 대한 보증이 확실하지 않는 경우 객체의 내용을 탐색하는 동안 도움이 될 수 있다.\n안정적으로 객체 탐색이 가능하기 때문에 프로덕션 코드에서는 적극적으로 사용하는 편이다. \n하지만 테스트 코드에서는 안정적인 점이 오히려 단점이 된다.\n문제\n이를 테면 다음과 같이 sut 의 하위에 있는 pay.amount 를 검증한다고 하자. \n이때 Optional chaining(?.) 을 사용한다면 다음과 같다.\nit('?가 있는 경우 #1', () => {\n    const amount = 0;\n    const sut = createOrder(amount);\n\n    expect(sut?.pay?.amount).toBe(amount);\n});\n\nclass Order {\n    p…",
           "link": "https://jojoldu.tistory.com/643",
           "publishedOn": "2022-03-08T00:26:46.000Z",
-          "wordCount": 507,
+          "wordCount": 506,
           "title": "테스트코드에서 Optional chaining(?.) 쓰지않기",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FzIsO7%2FbtrvtcvF3Zi%2FkghW6ofDOgXOiKJsfHYGLK%2Fimg.png"
         },
