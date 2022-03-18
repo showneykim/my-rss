@@ -1,10 +1,122 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-17T01:14:11.690Z</id>
+    <id>urn:2022-03-18T01:17:05.823Z</id>
     <title>osmos::feed</title>
-    <updated>2022-03-17T01:14:11.690Z</updated>
+    <updated>2022-03-18T01:17:05.823Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[2022 Type Trends 보고서 [65p PDF]]]></title>
+        <id>https://news.hada.io/topic?id=6177</id>
+        <link href="https://news.hada.io/topic?id=6177"/>
+        <updated>2022-03-18T00:46:54.000Z</updated>
+        <summary type="html"><![CDATA[Neue Nouveau
+Svelte Serifs
+Loopy
+Mix-Up
+Organic-Mod
+Flux
+Throw-Up
+It's a Trap!
+Certified Gold
+NF-Type
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DevTerm R-01 : 첫번째 RISC-V 기반 포터블 컴퓨터]]></title>
+        <id>https://news.hada.io/topic?id=6176</id>
+        <link href="https://news.hada.io/topic?id=6176"/>
+        <updated>2022-03-18T00:33:41.000Z</updated>
+        <summary type="html"><![CDATA[전설적인 TRS-80 Model 100 디자인의 "slabtop"
+$239
+RISC-V 싱글코어@1GHz, No GPU, 1GB DDR3
+6.86" IPS 스크린
+Clockwork 65% 키보드
+58mm 200dpi 써멀프린터
+32GB TF-Card
+ClockworkPi v3.14 메인보드
+18650 배터리...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Podman, Registry 없이 컨테이너 이미지 전송 가능]]></title>
+        <id>https://news.hada.io/topic?id=6175</id>
+        <link href="https://news.hada.io/topic?id=6175"/>
+        <updated>2022-03-18T00:07:11.000Z</updated>
+        <summary type="html"><![CDATA[Podman 4.0의 새로운 "podman image scp" 명령으로 같은 시스템의 사용자간 또는 네트웍 머신간에 이미지 전송 가능
+SSH 지원 기능을 활용
+
+root 계정에서 non-root 계정으로 이미지 복사
+"podman system connection add" 로 추가된 기존 연결을 활용해서 네트웍...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=6174</id>
+        <link href="https://news.hada.io/topic?id=6174"/>
+        <updated>2022-03-18T00:03:09.000Z</updated>
+        <summary type="html"><![CDATA[이번 주말에 뭘 하려고 계획 중인지 편하게 얘기해 보아요.
+읽을 책, 가볼 곳, 해볼 것.. 어떤 것이든 좋습니다.
+지난 주말에 계획하셨던 일의 회고도 한번 남겨봐 주세요.]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google IO 2022]]></title>
+        <id>https://news.hada.io/topic?id=6173</id>
+        <link href="https://news.hada.io/topic?id=6173"/>
+        <updated>2022-03-17T06:36:57.000Z</updated>
+        <summary type="html"><![CDATA[2022년 5월 11일~12일, Shoreline과 온라인을 통해 라이브로 진행되는 I/O에 참여하세요.
+참가 등록하면 뱃지도 주네요.
+sundar pichai' 트윗:
+https:]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글 "Immersive Stream for Games" 공개]]></title>
+        <id>https://news.hada.io/topic?id=6172</id>
+        <link href="https://news.hada.io/topic?id=6172"/>
+        <updated>2022-03-17T03:20:24.000Z</updated>
+        <summary type="html"><![CDATA[구글 게임 개발자 서밋에서 Stadia의 B2B 버전 발표
+구글 클라우드를 통해서 회사들이 스타디아 플랫폼을 이용, 직접 플레이어들에게 게임 스트리밍 가능
+파일롯으로 AT&T와 함께 배트맨:아캄 나이트를 가입자에게...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tailscale이 무료 요금제를 유지하는 방법]]></title>
+        <id>https://news.hada.io/topic?id=6171</id>
+        <link href="https://news.hada.io/topic?id=6171"/>
+        <updated>2022-03-17T02:19:56.000Z</updated>
+        <summary type="html"><![CDATA[Tailscale의 구조는 control plane (중앙화된 node 탐색 서비스)와 data plane(비중앙화된 P2P 통신 서비스)로 구성됨 -> 중앙화된 관리, 레이턴시 최소화 외에도 큰 비용 절감 효과
+SaaS 회사에서 주로 지출하게 되는 3가지 비용: 제품 개]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[라이트 모드, 다크 모드, 그리고 Gen-Z 모드]]></title>
+        <id>https://news.hada.io/topic?id=6170</id>
+        <link href="https://news.hada.io/topic?id=6170"/>
+        <updated>2022-03-17T01:06:38.000Z</updated>
+        <summary type="html"><![CDATA[밀레니얼이나 그 이전 세대들은 의도적으로 심플하고 깔끔한 UI를 구성하지만,
+비디오 데이팅 앱인 Filteroff가 라이트/다크 모드 외에 Gen-Z 모드라고 하는 별도의 화면 모드를 ...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KDE의 PDF 리더 Okular가 세계 최초로 "환경 인증"을 받음]]></title>
         <id>https://news.hada.io/topic?id=6169</id>
@@ -24,119 +136,6 @@
         <link href="https://news.hada.io/topic?id=6168"/>
         <updated>2022-03-17T00:47:01.000Z</updated>
         <summary type="html"><![CDATA["We believe people can do more together, than alone."]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Go 1.18 릴리즈 (제너릭 포함)]]></title>
-        <id>https://news.hada.io/topic?id=6167</id>
-        <link href="https://news.hada.io/topic?id=6167"/>
-        <updated>2022-03-17T00:27:30.000Z</updated>
-        <summary type="html"><![CDATA[Generic
-
-많은 분이 기다리던 제너릭이 드디어 릴리즈 되었습니다.
-Fuzzing
-
-Fuzzing을 기본으로 제공하는 최초의 major 언어 라고 하는군요
-Workspaces
-
-yarn, npm 과 유사한 workspace 기능도 추가되었습니다
-한 프로젝트에서 m...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아마존 실시간 오디오 앱 Amp 공개]]></title>
-        <id>https://news.hada.io/topic?id=6166</id>
-        <link href="https://news.hada.io/topic?id=6166"/>
-        <updated>2022-03-17T00:22:05.000Z</updated>
-        <summary type="html"><![CDATA[아마존 버전의 ClubHouse
-자신만의 라디오 스타일 쇼 호스트가 가능한 서비스
-
-수백만곡의 음악 무료 사용 가능
-DJ처럼 음악과 음성을 바꿔가며 쇼 구성
-Call-in 기능으로 청취자 참여 가능
-라이브 전에 음악 플레이리스트를 작성하면 더 적합한 리스...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TikTok은 새로운 음악플랫폼이다]]></title>
-        <id>https://news.hada.io/topic?id=6165</id>
-        <link href="https://news.hada.io/topic?id=6165"/>
-        <updated>2022-03-17T00:09:45.000Z</updated>
-        <summary type="html"><![CDATA[2021년에 10억 비디오 조회수를 넘은 노래가 430곡
-이중 175곡은 빌보드 핫100에 들어갔음
-많은 아티스트들이 이를 통해서 메이저 레이블과 계약을 이끌어 냄
-US내에서 라틴 뮤직 장르가 가장 빠르게 성장중
-가장 인기인 장르는 Hip-Hop/Rap...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Webpack → Vite: 번들러 마이그레이션 이야기]]></title>
-        <id>https://news.hada.io/topic?id=6164</id>
-        <link href="https://news.hada.io/topic?id=6164"/>
-        <updated>2022-03-16T04:53:35.000Z</updated>
-        <summary type="html"><![CDATA[서비스 출시 후 5년 동안 사용하던 Webpack을 Vite로 옮기며 있었던 이야기를 공유합니다. 부족한 부분이 많지만 재밌게 읽어주신다면 감사하겠습니다.
-Webpack의 장점과 웹 생태계의 변화
-Webpack은 지난 10년간 개발, 관리되며 생태계가 잘 갖춰져 있음.
-Create React App 등 많은 곳]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ARM, 직원의 최대 15%(약1000명)를 감원 예정]]></title>
-        <id>https://news.hada.io/topic?id=6162</id>
-        <link href="https://news.hada.io/topic?id=6162"/>
-        <updated>2022-03-16T04:39:36.000Z</updated>
-        <summary type="html"><![CDATA[CEO Rene Haas가 직원들에게 감원내용이 포함된 이메일 발송
-"경쟁을 유지하기 위해 중복 작업을 제거해야 합니다. 미래 성공에 더 이상 중요하지 않은 작업을 중단합니다."
-CEO가 된지 한달된 Haas는 "비용과 투자 대상을 좀 더 엄격해]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPT-3의 새 기능 : 편집과 삽입]]></title>
-        <id>https://news.hada.io/topic?id=6161</id>
-        <link href="https://news.hada.io/topic?id=6161"/>
-        <updated>2022-03-16T03:10:37.000Z</updated>
-        <summary type="html"><![CDATA[텍스트를 편집 또는 삽입하는 기능을 추가
-기존 코드를 수정/리팩토링하는 용도로 사용 가능
-문장을 재작성 하거나, 긴...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DigitalOcean이 CSS-Tricks 인수]]></title>
-        <id>https://news.hada.io/topic?id=6160</id>
-        <link href="https://news.hada.io/topic?id=6160"/>
-        <updated>2022-03-16T02:40:00.000Z</updated>
-        <summary type="html"><![CDATA[클라우드 플랫폼 DigitalOcean이 프론트엔드 개발자용 정보 사이트인 CSS-Tricks를 인수
-
-약 6500개의 아티클,비디오,가이드
-Chris Coyier가 2007년에 창업해서 작은 팀으로 운영되던 사이트
-계속 별도 사이트로 무료로 운영하며, Chris는 디오로 이관하는 동안 고문으로...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코드리뷰 관련해서 많이 받는 질문에 대한 답변]]></title>
-        <id>https://news.hada.io/topic?id=6158</id>
-        <link href="https://news.hada.io/topic?id=6158"/>
-        <updated>2022-03-16T01:31:01.000Z</updated>
-        <summary type="html"><![CDATA["코드 리뷰 좋은지 알겠는데, 시간이 없다. 리뷰 말고도 할 일이 많다."
-코드리뷰 강의를 하는 필자가 가장 많이 받는 위 질문에 대한 답변 정리
-코드 리뷰에 최소의 시간이 소요되도록 저자(PR 작성자)가 노력하자
-매일 아침 10분]]></summary>
         <author>
             <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>

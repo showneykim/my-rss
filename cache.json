@@ -11,7 +11,7 @@
           "description": "Hey hey!\nI’ve got a big announcement to make here. (Where’s my gong? I feel like this really needs a good gong hit.)\nCSS-Tricks, this very website you’re looking at, has been acquired by DigitalOcean!\nYou can hear …\nCSS-Tricks is joining DigitalOcean! originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/css-tricks-is-joining-digitalocean/",
           "publishedOn": "2022-03-15T12:18:44.000Z",
-          "wordCount": 5555,
+          "wordCount": 5873,
           "title": "CSS-Tricks is joining DigitalOcean!",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365042"
         },
@@ -178,7 +178,7 @@
           "description": "DBeaver에서 java heap space 부족이라고 나올때 DB를 관리하는 툴중에 DBeaver라는 툴이 있습니다. 커뮤니티 버전은 프리웨어이기도 하고, 엔터프라이즈 버전은 낮은 가격에도 강력한 부가 기능들이 있어 주로 사용하는 DB툴입니다. DBeaver에서 대용량 테이블을 이관하거나 CSV 파일들의 작업을...\nThe post DBeaver에서 java heap space 부족이라고 나올때 appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/dbeaver%ec%97%90%ec%84%9c-java-heap-space-%eb%b6%80%ec%a1%b1%ec%9d%b4%eb%9d%bc%ea%b3%a0-%eb%82%98%ec%98%ac%eb%95%8c/",
           "publishedOn": "2022-03-01T15:22:02.000Z",
-          "wordCount": 531,
+          "wordCount": 532,
           "title": "DBeaver에서 java heap space 부족이라고 나올때",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2021/04/sm_5b46d890d85b8.jpg"
         }
@@ -190,12 +190,92 @@
       "siteUrl": "https://news.hada.io",
       "articles": [
         {
+          "id": "https://news.hada.io/topic?id=6177",
+          "author": null,
+          "description": "Neue Nouveau\nSvelte Serifs\nLoopy\nMix-Up\nOrganic-Mod\nFlux\nThrow-Up\nIt's a Trap!\nCertified Gold\nNF-Type\n\n...",
+          "link": "https://news.hada.io/topic?id=6177",
+          "publishedOn": "2022-03-18T00:46:54.000Z",
+          "wordCount": 79,
+          "title": "2022 Type Trends 보고서 [65p PDF]",
+          "imageUrl": "https://social.news.hada.io/topic/6177"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6176",
+          "author": null,
+          "description": "전설적인 TRS-80 Model 100 디자인의 \"slabtop\"\n$239\nRISC-V 싱글코어@1GHz, No GPU, 1GB DDR3\n6.86\" IPS 스크린\nClockwork 65% 키보드\n58mm 200dpi 써멀프린터\n32GB TF-Card\nClockworkPi v3.14 메인보드\n18650 배터리...",
+          "link": "https://news.hada.io/topic?id=6176",
+          "publishedOn": "2022-03-18T00:33:41.000Z",
+          "wordCount": 120,
+          "title": "DevTerm R-01 : 첫번째 RISC-V 기반 포터블 컴퓨터",
+          "imageUrl": "https://social.news.hada.io/topic/6176"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6175",
+          "author": null,
+          "description": "Podman 4.0의 새로운 \"podman image scp\" 명령으로 같은 시스템의 사용자간 또는 네트웍 머신간에 이미지 전송 가능\nSSH 지원 기능을 활용\n\nroot 계정에서 non-root 계정으로 이미지 복사\n\"podman system connection add\" 로 추가된 기존 연결을 활용해서 네트웍...",
+          "link": "https://news.hada.io/topic?id=6175",
+          "publishedOn": "2022-03-18T00:07:11.000Z",
+          "wordCount": 98,
+          "title": "Podman, Registry 없이 컨테이너 이미지 전송 가능",
+          "imageUrl": "https://social.news.hada.io/topic/6175"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6174",
+          "author": null,
+          "description": "이번 주말에 뭘 하려고 계획 중인지 편하게 얘기해 보아요.\n읽을 책, 가볼 곳, 해볼 것.. 어떤 것이든 좋습니다.\n지난 주말에 계획하셨던 일의 회고도 한번 남겨봐 주세요.",
+          "link": "https://news.hada.io/topic?id=6174",
+          "publishedOn": "2022-03-18T00:03:09.000Z",
+          "wordCount": 129,
+          "title": "Ask GN: 이번 주말에 뭐 하시나요?",
+          "imageUrl": "https://social.news.hada.io/topic/6174"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6173",
+          "author": null,
+          "description": "2022년 5월 11일~12일, Shoreline과 온라인을 통해 라이브로 진행되는 I/O에 참여하세요.\n참가 등록하면 뱃지도 주네요.\nsundar pichai' 트윗:\nhttps:",
+          "link": "https://news.hada.io/topic?id=6173",
+          "publishedOn": "2022-03-17T06:36:57.000Z",
+          "wordCount": 86,
+          "title": "Google IO 2022",
+          "imageUrl": "https://social.news.hada.io/topic/6173"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6172",
+          "author": null,
+          "description": "구글 게임 개발자 서밋에서 Stadia의 B2B 버전 발표\n구글 클라우드를 통해서 회사들이 스타디아 플랫폼을 이용, 직접 플레이어들에게 게임 스트리밍 가능\n파일롯으로 AT&T와 함께 배트맨:아캄 나이트를 가입자에게...",
+          "link": "https://news.hada.io/topic?id=6172",
+          "publishedOn": "2022-03-17T03:20:24.000Z",
+          "wordCount": 155,
+          "title": "구글 \"Immersive Stream for Games\" 공개",
+          "imageUrl": "https://social.news.hada.io/topic/6172"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6171",
+          "author": null,
+          "description": "Tailscale의 구조는 control plane (중앙화된 node 탐색 서비스)와 data plane(비중앙화된 P2P 통신 서비스)로 구성됨 -> 중앙화된 관리, 레이턴시 최소화 외에도 큰 비용 절감 효과\nSaaS 회사에서 주로 지출하게 되는 3가지 비용: 제품 개",
+          "link": "https://news.hada.io/topic?id=6171",
+          "publishedOn": "2022-03-17T02:19:56.000Z",
+          "wordCount": 178,
+          "title": "Tailscale이 무료 요금제를 유지하는 방법",
+          "imageUrl": "https://social.news.hada.io/topic/6171"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6170",
+          "author": null,
+          "description": "밀레니얼이나 그 이전 세대들은 의도적으로 심플하고 깔끔한 UI를 구성하지만,\n비디오 데이팅 앱인 Filteroff가 라이트/다크 모드 외에 Gen-Z 모드라고 하는 별도의 화면 모드를 ...",
+          "link": "https://news.hada.io/topic?id=6170",
+          "publishedOn": "2022-03-17T01:06:38.000Z",
+          "wordCount": 118,
+          "title": "라이트 모드, 다크 모드, 그리고 Gen-Z 모드",
+          "imageUrl": "https://social.news.hada.io/topic/6170"
+        },
+        {
           "id": "https://news.hada.io/topic?id=6169",
           "author": null,
           "description": "Okular는 KDE의 오픈소스 PDF 리더 & 범용 문서 뷰어\n\"Blue Angel Ecolabel\" 을 수상\n소프트웨어 제품으로는 첫번째로 인증을 받음\n→ 자원 및 에너지 효율에 대한 투명성, 하드웨어 작동 수명, 사용자 자율...",
           "link": "https://news.hada.io/topic?id=6169",
           "publishedOn": "2022-03-17T00:49:52.000Z",
-          "wordCount": 112,
+          "wordCount": 129,
           "title": "KDE의 PDF 리더 Okular가 세계 최초로 \"환경 인증\"을 받음",
           "imageUrl": "https://social.news.hada.io/topic/6169"
         },
@@ -208,86 +288,6 @@
           "wordCount": 85,
           "title": "페이스북, TikTok에 공식 계정 개설",
           "imageUrl": "https://social.news.hada.io/topic/6168"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6167",
-          "author": null,
-          "description": "Generic\n\n많은 분이 기다리던 제너릭이 드디어 릴리즈 되었습니다.\nFuzzing\n\nFuzzing을 기본으로 제공하는 최초의 major 언어 라고 하는군요\nWorkspaces\n\nyarn, npm 과 유사한 workspace 기능도 추가되었습니다\n한 프로젝트에서 m...",
-          "link": "https://news.hada.io/topic?id=6167",
-          "publishedOn": "2022-03-17T00:27:30.000Z",
-          "wordCount": 112,
-          "title": "Go 1.18 릴리즈 (제너릭 포함)",
-          "imageUrl": "https://social.news.hada.io/topic/6167"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6166",
-          "author": null,
-          "description": "아마존 버전의 ClubHouse\n자신만의 라디오 스타일 쇼 호스트가 가능한 서비스\n\n수백만곡의 음악 무료 사용 가능\nDJ처럼 음악과 음성을 바꿔가며 쇼 구성\nCall-in 기능으로 청취자 참여 가능\n라이브 전에 음악 플레이리스트를 작성하면 더 적합한 리스...",
-          "link": "https://news.hada.io/topic?id=6166",
-          "publishedOn": "2022-03-17T00:22:05.000Z",
-          "wordCount": 104,
-          "title": "아마존 실시간 오디오 앱 Amp 공개",
-          "imageUrl": "https://social.news.hada.io/topic/6166"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6165",
-          "author": null,
-          "description": "2021년에 10억 비디오 조회수를 넘은 노래가 430곡\n이중 175곡은 빌보드 핫100에 들어갔음\n많은 아티스트들이 이를 통해서 메이저 레이블과 계약을 이끌어 냄\nUS내에서 라틴 뮤직 장르가 가장 빠르게 성장중\n가장 인기인 장르는 Hip-Hop/Rap...",
-          "link": "https://news.hada.io/topic?id=6165",
-          "publishedOn": "2022-03-17T00:09:45.000Z",
-          "wordCount": 88,
-          "title": "TikTok은 새로운 음악플랫폼이다",
-          "imageUrl": "https://social.news.hada.io/topic/6165"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6164",
-          "author": null,
-          "description": "서비스 출시 후 5년 동안 사용하던 Webpack을 Vite로 옮기며 있었던 이야기를 공유합니다. 부족한 부분이 많지만 재밌게 읽어주신다면 감사하겠습니다.\nWebpack의 장점과 웹 생태계의 변화\nWebpack은 지난 10년간 개발, 관리되며 생태계가 잘 갖춰져 있음.\nCreate React App 등 많은 곳",
-          "link": "https://news.hada.io/topic?id=6164",
-          "publishedOn": "2022-03-16T04:53:35.000Z",
-          "wordCount": 419,
-          "title": "Webpack → Vite: 번들러 마이그레이션 이야기",
-          "imageUrl": "https://social.news.hada.io/topic/6164"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6162",
-          "author": null,
-          "description": "CEO Rene Haas가 직원들에게 감원내용이 포함된 이메일 발송\n\"경쟁을 유지하기 위해 중복 작업을 제거해야 합니다. 미래 성공에 더 이상 중요하지 않은 작업을 중단합니다.\"\nCEO가 된지 한달된 Haas는 \"비용과 투자 대상을 좀 더 엄격해",
-          "link": "https://news.hada.io/topic?id=6162",
-          "publishedOn": "2022-03-16T04:39:36.000Z",
-          "wordCount": 131,
-          "title": "ARM, 직원의 최대 15%(약1000명)를 감원 예정",
-          "imageUrl": "https://social.news.hada.io/topic/6162"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6161",
-          "author": null,
-          "description": "텍스트를 편집 또는 삽입하는 기능을 추가\n기존 코드를 수정/리팩토링하는 용도로 사용 가능\n문장을 재작성 하거나, 긴...",
-          "link": "https://news.hada.io/topic?id=6161",
-          "publishedOn": "2022-03-16T03:10:37.000Z",
-          "wordCount": 103,
-          "title": "GPT-3의 새 기능 : 편집과 삽입",
-          "imageUrl": "https://social.news.hada.io/topic/6161"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6160",
-          "author": null,
-          "description": "클라우드 플랫폼 DigitalOcean이 프론트엔드 개발자용 정보 사이트인 CSS-Tricks를 인수\n\n약 6500개의 아티클,비디오,가이드\nChris Coyier가 2007년에 창업해서 작은 팀으로 운영되던 사이트\n계속 별도 사이트로 무료로 운영하며, Chris는 디오로 이관하는 동안 고문으로...",
-          "link": "https://news.hada.io/topic?id=6160",
-          "publishedOn": "2022-03-16T02:40:00.000Z",
-          "wordCount": 180,
-          "title": "DigitalOcean이 CSS-Tricks 인수",
-          "imageUrl": "https://social.news.hada.io/topic/6160"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6158",
-          "author": null,
-          "description": "\"코드 리뷰 좋은지 알겠는데, 시간이 없다. 리뷰 말고도 할 일이 많다.\"\n코드리뷰 강의를 하는 필자가 가장 많이 받는 위 질문에 대한 답변 정리\n코드 리뷰에 최소의 시간이 소요되도록 저자(PR 작성자)가 노력하자\n매일 아침 10분",
-          "link": "https://news.hada.io/topic?id=6158",
-          "publishedOn": "2022-03-16T01:31:01.000Z",
-          "wordCount": 254,
-          "title": "코드리뷰 관련해서 많이 받는 질문에 대한 답변",
-          "imageUrl": "https://social.news.hada.io/topic/6158"
         }
       ]
     },
