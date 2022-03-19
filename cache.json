@@ -6,12 +6,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=364090",
+          "author": "Bence Szabó",
+          "description": "I recently created a brick wall pattern as part of my #PetitePatterns series, a challenge where I create organic-looking patterns or textures in SVG within 560 bytes (or approximately the size of two tweets). To fit this constraint, I have …\nOptimizing SVG Patterns to Their Smallest Size originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/optimizing-svg-patterns/",
+          "publishedOn": "2022-03-18T22:31:22.000Z",
+          "wordCount": 2521,
+          "title": "Optimizing SVG Patterns to Their Smallest Size",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364090"
+        },
+        {
           "id": "https://css-tricks.com/?p=365042",
           "author": "Chris Coyier",
           "description": "Hey hey!\nI’ve got a big announcement to make here. (Where’s my gong? I feel like this really needs a good gong hit.)\nCSS-Tricks, this very website you’re looking at, has been acquired by DigitalOcean!\nYou can hear …\nCSS-Tricks is joining DigitalOcean! originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/css-tricks-is-joining-digitalocean/",
           "publishedOn": "2022-03-15T12:18:44.000Z",
-          "wordCount": 5873,
+          "wordCount": 5882,
           "title": "CSS-Tricks is joining DigitalOcean!",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365042"
         },
@@ -144,16 +154,6 @@
           "wordCount": 6923,
           "title": "Explain the First 10 Lines of Twitter’s Source Code to Me",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363553"
-        },
-        {
-          "id": "https://css-tricks.com/?p=363526",
-          "author": "ImageEngine",
-          "description": "(This is a sponsored post.)\nIn recent years, the Jamstack methodology for building websites has become increasingly popular. Performance, scalable, and secure, it’s easy to see why it’s becoming an attractive way to build websites for developers.\nGatsbyJS is …\nSuperior Image Optimization: An Ideal Solution Using Gatsby & ImageEngine originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/superior-image-optimization-an-ideal-solution-using-gatsby-imageengine/",
-          "publishedOn": "2022-02-24T15:31:49.000Z",
-          "wordCount": 2793,
-          "title": "Superior Image Optimization: An Ideal Solution Using Gatsby & ImageEngine",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363526"
         }
       ]
     },
@@ -190,6 +190,96 @@
       "siteUrl": "https://news.hada.io",
       "articles": [
         {
+          "id": "https://news.hada.io/topic?id=6186",
+          "author": null,
+          "description": "AI에 대한 지식 없이도 제품 추천, 개인화, 분류 등에 필요한 예측 모델을 구축/훈련/배포 가능한 도구\n기본 유스 케이스 제공\n\nRanking, Churn Prediction, Categorization, Estimation, Customer Life Time Value, Lead Scoring 등\n몇줄의 코드만으로 실시간 AI 예측 ...",
+          "link": "https://news.hada.io/topic?id=6186",
+          "publishedOn": "2022-03-19T00:48:01.000Z",
+          "wordCount": 98,
+          "title": "Mage - AI로 데이터에서 예측 해주는 도구",
+          "imageUrl": "https://social.news.hada.io/topic/6186"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6185",
+          "author": null,
+          "description": "아직 C로 되어있는 메인 Tor 구현체를 교체할 수준은 아니지만, 이게 미래라고 믿음\n고수준 API 는 \"대부분 안정적\" 이며, 다른 프로젝트에 시험적으로 임베드될 준비가 되었음\n\n호환이 깨지지 않을거라는 보장은 없지만, 특별한 이유없이 고수준 API를 변경하지는 않을 것\n...",
+          "link": "https://news.hada.io/topic?id=6185",
+          "publishedOn": "2022-03-19T00:25:01.000Z",
+          "wordCount": 101,
+          "title": "Arti 0.1.0 릴리즈 - Rust로 작성한 Tor 클라이언트",
+          "imageUrl": "https://social.news.hada.io/topic/6185"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6184",
+          "author": null,
+          "description": "HTML\nimg Lazy로딩\ndialog, ::backdrop 지원\nCSS\n:has()\nCascade Layers\ncontain\n뷰포트 : svw,lvh,dvmin 같은 *vw, *vh, *vi, *vb, *vmin, *vmax 지원\n:focus-visible\naccent-color\ncalc() : sin, cos...",
+          "link": "https://news.hada.io/topic?id=6184",
+          "publishedOn": "2022-03-19T00:06:01.000Z",
+          "wordCount": 217,
+          "title": "Safari 15.4에 추가된 새 WebKit 기능들",
+          "imageUrl": "https://social.news.hada.io/topic/6184"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6183",
+          "author": null,
+          "description": "\b2개월차 PO, 무엇을 도전 했고 어떻게 하고 있나? 삽질은 삽질인데 과연 잘하고 있는 삽질인가?",
+          "link": "https://news.hada.io/topic?id=6183",
+          "publishedOn": "2022-03-18T12:32:44.000Z",
+          "wordCount": 74,
+          "title": "뉴비 PO 첫 2달간 뭐했니?",
+          "imageUrl": "https://social.news.hada.io/topic/6183"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6182",
+          "author": null,
+          "description": "4000개의 영화와 17000개의 TV 쇼가 아마존 프라임 비디오에 추가\n\n...",
+          "link": "https://news.hada.io/topic?id=6182",
+          "publishedOn": "2022-03-18T03:32:50.000Z",
+          "wordCount": 91,
+          "title": "Amazon, 10조원($8.5b)에 MGM 인수 완료",
+          "imageUrl": "https://social.news.hada.io/topic/6182"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6181",
+          "author": null,
+          "description": "2년반 전에 GA4를 출시했고, 2023년부터 이전 세대인 Universal Analytics는 지원을 중단하기 시작할 예정\nGA4는 여러 플랫폼에서 작동하며, 쿠키에만 의존하지 않고, 이벤트 기반 모델을 사용하여 사용자 중심 측정을 제공\n\n프라이버시 중점으로 설계. 더 이상 IP주소를 저장하지 않음(GDPR등...",
+          "link": "https://news.hada.io/topic?id=6181",
+          "publishedOn": "2022-03-18T01:47:48.000Z",
+          "wordCount": 119,
+          "title": "구글 Universal Analytics 내년부터 지원 중단, Google Analytics 4로 전환하세요",
+          "imageUrl": "https://social.news.hada.io/topic/6181"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6180",
+          "author": null,
+          "description": "윈11 인사이더 빌드의 탐색기에서 다른 마이크로소프트 제품 홍보가 포착됨",
+          "link": "https://news.hada.io/topic?id=6180",
+          "publishedOn": "2022-03-18T01:32:01.000Z",
+          "wordCount": 176,
+          "title": "Microsoft, 윈도우11 파일 탐색기에서 광고를 테스트중",
+          "imageUrl": "https://social.news.hada.io/topic/6180"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6179",
+          "author": null,
+          "description": "React Native 와 Next.js 를 같이 사용하여 크로스 플랫폼앱을 개발할 수 있도록 도와주는 라이브러리\n여러 플랫폼간에 \"네비게이션 코드\"를 공유 가능하게 만들어 주는 작은 Wrapper 를 제공\n패턴과 예제들 포함\n\n...",
+          "link": "https://news.hada.io/topic?id=6179",
+          "publishedOn": "2022-03-18T01:24:47.000Z",
+          "wordCount": 88,
+          "title": "Solito : React Native + Next.js Unified",
+          "imageUrl": "https://social.news.hada.io/topic/6179"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6178",
+          "author": null,
+          "description": "특정 웹페이지의 스크린샷을 자동으로 찍어서 저장하는 GitHub Repo Template\n문서화를 위해서 웹사이트의 변경된 내용을 저장하는 용도로 사용\nRun workflow 버튼 누르면 스크린샷을 저장\n한번에 여러 사이트 캡쳐하기, 레티나 해상도 모드, 캡쳐전 딜레이 지정, PDF로 저장하기 등...",
+          "link": "https://news.hada.io/topic?id=6178",
+          "publishedOn": "2022-03-18T01:09:08.000Z",
+          "wordCount": 103,
+          "title": "shot-scraper-template - 웹 페이지 스크린샷을 저장하는 GitHub Repo만들기",
+          "imageUrl": "https://social.news.hada.io/topic/6178"
+        },
+        {
           "id": "https://news.hada.io/topic?id=6177",
           "author": null,
           "description": "Neue Nouveau\nSvelte Serifs\nLoopy\nMix-Up\nOrganic-Mod\nFlux\nThrow-Up\nIt's a Trap!\nCertified Gold\nNF-Type\n\n...",
@@ -198,96 +288,6 @@
           "wordCount": 79,
           "title": "2022 Type Trends 보고서 [65p PDF]",
           "imageUrl": "https://social.news.hada.io/topic/6177"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6176",
-          "author": null,
-          "description": "전설적인 TRS-80 Model 100 디자인의 \"slabtop\"\n$239\nRISC-V 싱글코어@1GHz, No GPU, 1GB DDR3\n6.86\" IPS 스크린\nClockwork 65% 키보드\n58mm 200dpi 써멀프린터\n32GB TF-Card\nClockworkPi v3.14 메인보드\n18650 배터리...",
-          "link": "https://news.hada.io/topic?id=6176",
-          "publishedOn": "2022-03-18T00:33:41.000Z",
-          "wordCount": 120,
-          "title": "DevTerm R-01 : 첫번째 RISC-V 기반 포터블 컴퓨터",
-          "imageUrl": "https://social.news.hada.io/topic/6176"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6175",
-          "author": null,
-          "description": "Podman 4.0의 새로운 \"podman image scp\" 명령으로 같은 시스템의 사용자간 또는 네트웍 머신간에 이미지 전송 가능\nSSH 지원 기능을 활용\n\nroot 계정에서 non-root 계정으로 이미지 복사\n\"podman system connection add\" 로 추가된 기존 연결을 활용해서 네트웍...",
-          "link": "https://news.hada.io/topic?id=6175",
-          "publishedOn": "2022-03-18T00:07:11.000Z",
-          "wordCount": 98,
-          "title": "Podman, Registry 없이 컨테이너 이미지 전송 가능",
-          "imageUrl": "https://social.news.hada.io/topic/6175"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6174",
-          "author": null,
-          "description": "이번 주말에 뭘 하려고 계획 중인지 편하게 얘기해 보아요.\n읽을 책, 가볼 곳, 해볼 것.. 어떤 것이든 좋습니다.\n지난 주말에 계획하셨던 일의 회고도 한번 남겨봐 주세요.",
-          "link": "https://news.hada.io/topic?id=6174",
-          "publishedOn": "2022-03-18T00:03:09.000Z",
-          "wordCount": 129,
-          "title": "Ask GN: 이번 주말에 뭐 하시나요?",
-          "imageUrl": "https://social.news.hada.io/topic/6174"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6173",
-          "author": null,
-          "description": "2022년 5월 11일~12일, Shoreline과 온라인을 통해 라이브로 진행되는 I/O에 참여하세요.\n참가 등록하면 뱃지도 주네요.\nsundar pichai' 트윗:\nhttps:",
-          "link": "https://news.hada.io/topic?id=6173",
-          "publishedOn": "2022-03-17T06:36:57.000Z",
-          "wordCount": 86,
-          "title": "Google IO 2022",
-          "imageUrl": "https://social.news.hada.io/topic/6173"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6172",
-          "author": null,
-          "description": "구글 게임 개발자 서밋에서 Stadia의 B2B 버전 발표\n구글 클라우드를 통해서 회사들이 스타디아 플랫폼을 이용, 직접 플레이어들에게 게임 스트리밍 가능\n파일롯으로 AT&T와 함께 배트맨:아캄 나이트를 가입자에게...",
-          "link": "https://news.hada.io/topic?id=6172",
-          "publishedOn": "2022-03-17T03:20:24.000Z",
-          "wordCount": 155,
-          "title": "구글 \"Immersive Stream for Games\" 공개",
-          "imageUrl": "https://social.news.hada.io/topic/6172"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6171",
-          "author": null,
-          "description": "Tailscale의 구조는 control plane (중앙화된 node 탐색 서비스)와 data plane(비중앙화된 P2P 통신 서비스)로 구성됨 -> 중앙화된 관리, 레이턴시 최소화 외에도 큰 비용 절감 효과\nSaaS 회사에서 주로 지출하게 되는 3가지 비용: 제품 개",
-          "link": "https://news.hada.io/topic?id=6171",
-          "publishedOn": "2022-03-17T02:19:56.000Z",
-          "wordCount": 178,
-          "title": "Tailscale이 무료 요금제를 유지하는 방법",
-          "imageUrl": "https://social.news.hada.io/topic/6171"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6170",
-          "author": null,
-          "description": "밀레니얼이나 그 이전 세대들은 의도적으로 심플하고 깔끔한 UI를 구성하지만,\n비디오 데이팅 앱인 Filteroff가 라이트/다크 모드 외에 Gen-Z 모드라고 하는 별도의 화면 모드를 ...",
-          "link": "https://news.hada.io/topic?id=6170",
-          "publishedOn": "2022-03-17T01:06:38.000Z",
-          "wordCount": 118,
-          "title": "라이트 모드, 다크 모드, 그리고 Gen-Z 모드",
-          "imageUrl": "https://social.news.hada.io/topic/6170"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6169",
-          "author": null,
-          "description": "Okular는 KDE의 오픈소스 PDF 리더 & 범용 문서 뷰어\n\"Blue Angel Ecolabel\" 을 수상\n소프트웨어 제품으로는 첫번째로 인증을 받음\n→ 자원 및 에너지 효율에 대한 투명성, 하드웨어 작동 수명, 사용자 자율...",
-          "link": "https://news.hada.io/topic?id=6169",
-          "publishedOn": "2022-03-17T00:49:52.000Z",
-          "wordCount": 129,
-          "title": "KDE의 PDF 리더 Okular가 세계 최초로 \"환경 인증\"을 받음",
-          "imageUrl": "https://social.news.hada.io/topic/6169"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6168",
-          "author": null,
-          "description": "\"We believe people can do more together, than alone.\"",
-          "link": "https://news.hada.io/topic?id=6168",
-          "publishedOn": "2022-03-17T00:47:01.000Z",
-          "wordCount": 85,
-          "title": "페이스북, TikTok에 공식 계정 개설",
-          "imageUrl": "https://social.news.hada.io/topic/6168"
         }
       ]
     },
@@ -297,12 +297,22 @@
       "siteUrl": "https://jojoldu.tistory.com/",
       "articles": [
         {
+          "id": "https://jojoldu.tistory.com/656",
+          "author": "향로",
+          "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\nJest를 통한 테스트를 작성하다보면 Exception에 대한 검증을 작성해야할 때가 있다. \n이럴때 보통 2가지 방법 중 하나를 선택한다.\ntry ~ catch\nexpect.rejects.toThrowError\n실제 코드로는 다음과 같다.\n// try ~ catch\nit(\"[try/catch] 주문금액이 -이면 BadParameter Exception 을 던진다.\", async () => {\n    try {\n        await acceptOrder({amount: -1000});\n    } catch (e) {\n        expect(e).toBeInstanceOf(BadParameterException);\n        expect(e.message).toBe('승인 요청 주문의 금액은 -가 될 수 없습니다');\n    }\n});\n\n// expect\nit(\"[expect] 주문금액이 -이면 BadParameter Exception 을 던진다.\", async () => {\n    await expect(async () => {\n        await acceptOrder({amount: -1000});\n    }).rejects.toThrowError(new BadParameterException('승인 요청 주문의 금액은 -가 될 수 없습니다'));\n});\n이 중에서 개인적으로는 expect…",
+          "link": "https://jojoldu.tistory.com/656",
+          "publishedOn": "2022-03-18T01:52:12.000Z",
+          "wordCount": 630,
+          "title": "Jest로 Error 검증시 catch 보다는 expect",
+          "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fbxy32e%2Fbtrwezr0HQ4%2FWkd4JA72UcmDWGXvPoKggK%2Fimg.png"
+        },
+        {
           "id": "https://jojoldu.tistory.com/655",
           "author": "향로",
           "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\nESLint 8.0 이상 버전을 사용할 경우 기존에 사용중인 WebStorm, IntelliJ 등에서 다음과 같이 에러가 발생하곤합니다.\nTypeError: this.cliEngineCtor is not a constructor\n\n아래 로그를 보시면 this.cliEngineCtor is not a constructor 내용을 볼 수 있는데요.\nTypeError: this.cliEngineCtor is not a constructor\n    at ESLintPlugin.invokeESLint (/Users/seojeong-kuk/Library/Application Support/JetBrains/Toolbox/apps/WebStorm/ch-0/211.7628.25/WebStorm.app/Contents/plugins/JavaScriptLanguage/languageService/eslint/bin/eslint-plugin.js:103:25)\n    at ESLintPlugin.getErrors (/Users/seojeong-kuk/Library/Application Support/JetBrains/Toolbox/apps/WebStorm/ch-0/211.7628.25/WebStorm.app/Contents/plugins/JavaScriptLanguage/languageService/eslint/bin/eslint-plugin.js:82:21)\n    at ESLintPlugin.onMessage (/Users/seojeong-kuk/Library/Application Support/JetBrains/Toolbox/apps/WebStorm/ch-0/211.7628.25/WebStorm.app/Contents/plugins/JavaScriptLanguage/languageService/eslint/bin/eslint-plugin.js:56:64)\n    at Interface.<anonymous> (/Users/seojeong-kuk/Library/Application Support/JetBrains/Toolbox/apps/WebStorm/ch-0/211.7628.25/WebStorm.app/Contents/plugins/JavaScriptLanguage/jsLanguageServicesImpl/js-language-service.js:105:39)\n    at Interface.emit (node:events:390:28)\n    at Interface._onLine (node:readline:487:10)\n    at Interface._normalWrite (node:readline:661:12)\n    at Socket.ondata (node:readline:269:10)\n    at Socket.emit (node:events:390:28)\n    at addChunk (node:internal/streams/readable:315:12)\nProcess finished with exit code -1\n이는 ESLint 가 버전업이 됨에 따라 기존 클래스가 삭제되었기 때문인데요.\nthe-cliengine-class-has-been-removed\n그래서 아래와 같이 2021.2.2 보다 낮은 버전에서는 ESLint 8.0 이상의 버전을 사용할 수가 없습니다.\n이를 해결 하기 위해서는 2021.2.2 이상의 IDE를 사용하시면 됩니다. \n이미 정식 버전이 2021.3.2 까지 나왔기 때문에 여전히 2021.1 버전을 사용하신다면 얼른 업데이트 하시는 것을 추천드립니다.\n참고\nESLint 8.0 support\n            \n반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({});",
           "link": "https://jojoldu.tistory.com/655",
           "publishedOn": "2022-03-13T09:10:35.000Z",
-          "wordCount": 320,
+          "wordCount": 321,
           "title": "WebStorm (IntelliJ IDEA) 에서 this.cliEngineCtor is not a constructor 이슈 발생시 (feat. ESLint 8.0)",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FehOtaJ%2FbtrvJ0XxaxA%2FEQkRIW04ay0O5lLSky8sZK%2Fimg.png"
         },
@@ -312,7 +322,7 @@
           "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\n여러 포스팅에서 언급한것처럼 테스트 코드는 빠르게 실패를 파악할 수 있어야 한다.\n그런면에서 Optional chaining(?.) 은 테스트코드에 적합하지 않다.\nMDN의 설명을 가져오면 Optional chaining(?.)은 체이닝 연산자(.) 와 유사하게 작동하지만, 만약 참조가 nullish (null 또는 undefined)이라면, 에러가 발생하는 것 대신에 표현식의 리턴 값을 undefined로 반환한다.\n따라서 참조가 누락될 가능성이 있는 경우 연결된 속성으로 접근할 때 더 짧고 간단한 표현식이 생성된다. \n어떤 속성이 필요한지에 대한 보증이 확실하지 않는 경우 객체의 내용을 탐색하는 동안 도움이 될 수 있다.\n안정적으로 객체 탐색이 가능하기 때문에 프로덕션 코드에서는 적극적으로 사용하는 편이다. \n하지만 테스트 코드에서는 안정적인 점이 오히려 단점이 된다.\n문제\n이를 테면 다음과 같이 sut 의 하위에 있는 pay.amount 를 검증한다고 하자. \n이때 Optional chaining(?.) 을 사용한다면 다음과 같다.\nit('?가 있는 경우 #1', () => {\n    const amount = 0;\n    const sut = createOrder(amount);\n\n    expect(sut?.pay?.amount).toBe(amount);\n});\n\nclass Order {\n    p…",
           "link": "https://jojoldu.tistory.com/643",
           "publishedOn": "2022-03-08T00:26:46.000Z",
-          "wordCount": 506,
+          "wordCount": 507,
           "title": "테스트코드에서 Optional chaining(?.) 쓰지않기",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FzIsO7%2FbtrvtcvF3Zi%2FkghW6ofDOgXOiKJsfHYGLK%2Fimg.png"
         },
@@ -322,7 +332,7 @@
           "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\n테스트 코드는 프로젝트의 생명 주기 보다 길때가 많다. \n기존의 요구사항을 정리한것이 테스트 코드이기 때문에, 메인 코드보다 훨씬 더 읽기쉬워야만 한다.\n만약 테스트 코드가 복잡한 경우 어떻게 작동하는지 이해하기가 어렵다. \n그래서 테스트 코드는 주석이 필요 없을 정도로 간단해야 한다.\n그런면에서 조건부 (if ~ else) 테스트 로직은 테스트를 실제보다 더 복잡하게 만드는 요인 중 하나다.\n이번 글에서는 조건부 로직을 테스트에서 사용한 경우에 어떻게 개선할 수 있을지 알아본다.\n1. 가변 결과를 검증하는 경우\n1-1. 문제\n첫번째 문제는 다음과 같이 테스트 실행때마다 결과가 달라지는 경우이다.\nit('[Bad] 가변결과 검증', () => {\n    const now = LocalDateTime.now();\n    const sut = new TimeDisplay();\n    const result = sut.display(now);\n\n    let actual;\n    if(now.hour() === 0 && now.minute() === 0) {\n        actual = 'Midnight';\n    } else if (now.hour() === 12 && now.minute() === 0) {\n        actual = 'Noon';\n    } else {\n        actual = no…",
           "link": "https://jojoldu.tistory.com/642",
           "publishedOn": "2022-03-07T03:35:43.000Z",
-          "wordCount": 1073,
+          "wordCount": 1074,
           "title": "조건부 (if~else) 로직 테스트코드에서 사용하지 않기",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fcxmuyf%2Fbtrvne8iDrE%2FKAaA0pw9W0LAHjVj3iniTk%2Fimg.png"
         },
@@ -332,7 +342,7 @@
           "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\nGithub 에는 앞으로 출시할 기능 (Beta) 을 미리 써볼 수 있는 옵션이 있습니다. \n특히 최근에 Pull Request시 파일 트리를 볼 수 있는 기능이 베타 출시되었는데요. \n코드리뷰시에 굉장히 큰 도움을 주기 때문에 바로 적용해서 써보시는 것을 추천드립니다.\n이 포스팅은 2022.03.05에 작성된 것이기 때문에, 소개되는 베타기능들은 이후에 대부분 정식 출시된 상태일 것입니다.\n설정\nGithub 우측 상단의 프로필 아이콘을 클릭하신뒤, Feature preview를 선택합니다.\n그럼 아래와 같이 Modal이 나오는데, 이때 원하시는 베타 기능들을 선택하시고 Enable 을 누르시면 됩니다. \n(Enable을 클릭하면 아래와 같이 Disable로 버튼이 변경됩니다.)\n저는 여기서 Command Palette 와 Pull Request File Tree를 사용하도록 선택했습니다.\n설정하신 후에 새로고침을 해보시면 다음과 같이 Pull Request 화면의 좌측 사이드바에 검색창과 파일/디렉토리가 생긴 것을 볼 수 있습니다.\n해당 검색창에서 파일명으로 검색도 가능하며, 파일 클릭시 코드리뷰 화면에서도 바로 해당 파일로 이동이 됩니다.\nCommand Palette도 적용되어 Command + k (맥 기준) 다음과 같이 Github 웹 사이트에서 커맨드로 여러 액션을 수행할 수 있습니다.\n마무리\n기존에 Octotree 를 통해서 코드리뷰시 디렉토리와 파일을 보던 입장에서는 아주 환영할만한 기능이 추가되었습니다. \nGithub에서 이야기하는 여러 기능들을 미리 볼 수 있는 Feature preview 를 자주 보시면서 신규 기능이 나올때마다 사용해보시면 훨씬 재밌는 Github 경험을 해볼 수 있을것 같습니다.\n            \n반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({});",
           "link": "https://jojoldu.tistory.com/641",
           "publishedOn": "2022-03-05T11:19:36.000Z",
-          "wordCount": 353,
+          "wordCount": 354,
           "title": "Github 기능 미리 써보기 (Code Review시 디렉토리 미리보기)",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fb8p70Y%2Fbtru7rhAEhd%2FbF4p5PK6KGMUDQvE5fDK9k%2Fimg.png"
         },
@@ -342,7 +352,7 @@
           "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\n랠릿 서비스 를 오픈하고 참여자들의 개인 소감을 다들 작성하는 시간을 가졌다. \n실제 프로젝트의 프로세스 방식, QA 방식등을 전체적인 회고는 내일 (2022.03.02) 진행할 예정인데, 그 전에 각자 어땠는지 소감을 작성하는 시간을 2월에 가졌다.\n이번 글은 사내에 공유한 소감글을 블로그로 옮겼다.\n루비콘 프로젝트에서 진행한 프로젝트 방식 / 백엔드 프로젝트 방식 등은 TF 회고가 끝나고 올라갈 예정이다. \n이건 프로젝트에 참여한 개인적인 짧은 생각들만 정리했다.\n프로젝트 구성원들의 전체 소감은 3월안에 링크로 공유될 예정이다.\n일정\n프로젝트는 7월에 시작되어, 1월 27일에 정식 오픈하였다. \n중간 투입된 분들은 잘 모르실 수 있지만, 초기에 대표님과 PO 1분이 같이 사용자 스토리 잡는 것이 7월부터였다.\n7 ~ 8월: 사용자스토리, 와이어프레임\n9월: 디자인 구체화 / 도메인 & 개발환경 설계\n10월 ~ 12월: 개발\n12월 ~ 1월: QA 및 남은 기능 구현\n공식적으로는 약 7개월간 진행된 것이다.\n다만, 본격적으로 개발은 9월부터 진행되어 3개월간 개발하여 12월부터 QA를 하게 됐다.\n(9월 2일, 3일에 시작된 첫커밋)\n개발 기간만 보면 짧았지만, 전체 일정을 보면 결코 짧은 일정은 아니였다. \n7개월이란 시간이 빡빡하게 느껴진 것은 이 기간 안에서 비효율적으로 낭비되는 시간이 많았기 때문이…",
           "link": "https://jojoldu.tistory.com/640",
           "publishedOn": "2022-03-01T13:51:53.000Z",
-          "wordCount": 1405,
+          "wordCount": 1406,
           "title": "루비콘 프로젝트 (랠릿 오픈 프로젝트) 소감",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbdAIbH%2FbtruITrAVSl%2FSH5wfXmM2yaUadAK9kuS90%2Fimg.png"
         },
@@ -352,7 +362,7 @@
           "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\n최근 팀에서 코드리뷰를 진행하던 중에 promise.all 과 트랜잭션에 대해 오해하고 있는 부분들을 발견하게 되어 정리하게 되었습니다.\nPromise.all (혹은 allSettled)을 사용하면 트랜잭션 내에서도 비동기로 여러 작업들이 동시에 이루어질 수 있다고 오해하는 것인데요. \n실험을 해보면 그게 아니라는 것을 알 수 있습니다.\n실제 코드를 가지고 검증해보겠습니다.\n모든 실험 결과에 대해서 틀린 내용이 있다면 바로 댓글로 지적해주세요! \n모든 지적은 저의 성장에 많은 도움이 되기 때문에 감사한 마음으로 수정하겠습니다 :)\n0. 테스트 환경\n테스트할 환경은 다음과 같습니다.\nNode.js 16.3.1\nPostgreSQL 13.2\n모든 코드는 Github 에 있습니다.\n1. Promise.all\n먼저 promise.all 에 대해서 알아보겠습니다. \n(이미 아시겠지만, 이후 테스트를 설명하기 위한 배경 설명으로 봐주시면 됩니다.)\n테스트를 위해 다음과 같이 2개의 함수를 만들겠습니다.\nexport function sleep(sec) {\n    const start = performance.now();\n    return new Promise(resolve=>{\n        setTimeout(resolve, sec * 1000);\n    }).then(() => {\n        console.log…",
           "link": "https://jojoldu.tistory.com/639",
           "publishedOn": "2022-02-28T14:05:44.000Z",
-          "wordCount": 1414,
+          "wordCount": 1415,
           "title": "Promise.all 과 Transactions (feat. Node.js)",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FziO3a%2FbtruLtSuE7m%2FK95dBn4FuwdIr8xSRM2FIK%2Fimg.png"
         },

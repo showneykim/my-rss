@@ -1,10 +1,178 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-18T01:17:05.823Z</id>
+    <id>urn:2022-03-19T01:07:29.338Z</id>
     <title>osmos::feed</title>
-    <updated>2022-03-18T01:17:05.823Z</updated>
+    <updated>2022-03-19T01:07:29.338Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Mage - AI로 데이터에서 예측 해주는 도구]]></title>
+        <id>https://news.hada.io/topic?id=6186</id>
+        <link href="https://news.hada.io/topic?id=6186"/>
+        <updated>2022-03-19T00:48:01.000Z</updated>
+        <summary type="html"><![CDATA[AI에 대한 지식 없이도 제품 추천, 개인화, 분류 등에 필요한 예측 모델을 구축/훈련/배포 가능한 도구
+기본 유스 케이스 제공
+
+Ranking, Churn Prediction, Categorization, Estimation, Customer Life Time Value, Lead Scoring 등
+몇줄의 코드만으로 실시간 AI 예측 ...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arti 0.1.0 릴리즈 - Rust로 작성한 Tor 클라이언트]]></title>
+        <id>https://news.hada.io/topic?id=6185</id>
+        <link href="https://news.hada.io/topic?id=6185"/>
+        <updated>2022-03-19T00:25:01.000Z</updated>
+        <summary type="html"><![CDATA[아직 C로 되어있는 메인 Tor 구현체를 교체할 수준은 아니지만, 이게 미래라고 믿음
+고수준 API 는 "대부분 안정적" 이며, 다른 프로젝트에 시험적으로 임베드될 준비가 되었음
+
+호환이 깨지지 않을거라는 보장은 없지만, 특별한 이유없이 고수준 API를 변경하지는 않을 것
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Safari 15.4에 추가된 새 WebKit 기능들]]></title>
+        <id>https://news.hada.io/topic?id=6184</id>
+        <link href="https://news.hada.io/topic?id=6184"/>
+        <updated>2022-03-19T00:06:01.000Z</updated>
+        <summary type="html"><![CDATA[HTML
+img Lazy로딩
+dialog, ::backdrop 지원
+CSS
+:has()
+Cascade Layers
+contain
+뷰포트 : svw,lvh,dvmin 같은 *vw, *vh, *vi, *vb, *vmin, *vmax 지원
+:focus-visible
+accent-color
+calc() : sin, cos...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimizing SVG Patterns to Their Smallest Size]]></title>
+        <id>https://css-tricks.com/?p=364090</id>
+        <link href="https://css-tricks.com/optimizing-svg-patterns/"/>
+        <updated>2022-03-18T22:31:22.000Z</updated>
+        <summary type="html"><![CDATA[I recently created a brick wall pattern as part of my #PetitePatterns series, a challenge where I create organic-looking patterns or textures in SVG within 560 bytes (or approximately the size of two tweets). To fit this constraint, I have …
+Optimizing SVG Patterns to Their Smallest Size originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Bence Szabó</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뉴비 PO 첫 2달간 뭐했니?]]></title>
+        <id>https://news.hada.io/topic?id=6183</id>
+        <link href="https://news.hada.io/topic?id=6183"/>
+        <updated>2022-03-18T12:32:44.000Z</updated>
+        <summary type="html"><![CDATA[2개월차 PO, 무엇을 도전 했고 어떻게 하고 있나? 삽질은 삽질인데 과연 잘하고 있는 삽질인가?]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon, 10조원($8.5b)에 MGM 인수 완료]]></title>
+        <id>https://news.hada.io/topic?id=6182</id>
+        <link href="https://news.hada.io/topic?id=6182"/>
+        <updated>2022-03-18T03:32:50.000Z</updated>
+        <summary type="html"><![CDATA[4000개의 영화와 17000개의 TV 쇼가 아마존 프라임 비디오에 추가
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jest로 Error 검증시 catch 보다는 expect]]></title>
+        <id>https://jojoldu.tistory.com/656</id>
+        <link href="https://jojoldu.tistory.com/656"/>
+        <updated>2022-03-18T01:52:12.000Z</updated>
+        <summary type="html"><![CDATA[반응형
+
+                    
+                    (adsbygoogle = window.adsbygoogle || []).push({}); 
+               
+
+Jest를 통한 테스트를 작성하다보면 Exception에 대한 검증을 작성해야할 때가 있다. 
+이럴때 보통 2가지 방법 중 하나를 선택한다.
+try ~ catch
+expect.rejects.toThrowError
+실제 코드로는 다음과 같다.
+// try ~ catch
+it("[try/catch] 주문금액이 -이면 BadParameter Exception 을 던진다.", async () => {
+    try {
+        await acceptOrder({amount: -1000});
+    } catch (e) {
+        expect(e).toBeInstanceOf(BadParameterException);
+        expect(e.message).toBe('승인 요청 주문의 금액은 -가 될 수 없습니다');
+    }
+});
+
+// expect
+it("[expect] 주문금액이 -이면 BadParameter Exception 을 던진다.", async () => {
+    await expect(async () => {
+        await acceptOrder({amount: -1000});
+    }).rejects.toThrowError(new BadParameterException('승인 요청 주문의 금액은 -가 될 수 없습니다'));
+});
+이 중에서 개인적으로는 expect…]]></summary>
+        <author>
+            <name>향로</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글 Universal Analytics 내년부터 지원 중단, Google Analytics 4로 전환하세요]]></title>
+        <id>https://news.hada.io/topic?id=6181</id>
+        <link href="https://news.hada.io/topic?id=6181"/>
+        <updated>2022-03-18T01:47:48.000Z</updated>
+        <summary type="html"><![CDATA[2년반 전에 GA4를 출시했고, 2023년부터 이전 세대인 Universal Analytics는 지원을 중단하기 시작할 예정
+GA4는 여러 플랫폼에서 작동하며, 쿠키에만 의존하지 않고, 이벤트 기반 모델을 사용하여 사용자 중심 측정을 제공
+
+프라이버시 중점으로 설계. 더 이상 IP주소를 저장하지 않음(GDPR등...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft, 윈도우11 파일 탐색기에서 광고를 테스트중]]></title>
+        <id>https://news.hada.io/topic?id=6180</id>
+        <link href="https://news.hada.io/topic?id=6180"/>
+        <updated>2022-03-18T01:32:01.000Z</updated>
+        <summary type="html"><![CDATA[윈11 인사이더 빌드의 탐색기에서 다른 마이크로소프트 제품 홍보가 포착됨]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solito : React Native + Next.js Unified]]></title>
+        <id>https://news.hada.io/topic?id=6179</id>
+        <link href="https://news.hada.io/topic?id=6179"/>
+        <updated>2022-03-18T01:24:47.000Z</updated>
+        <summary type="html"><![CDATA[React Native 와 Next.js 를 같이 사용하여 크로스 플랫폼앱을 개발할 수 있도록 도와주는 라이브러리
+여러 플랫폼간에 "네비게이션 코드"를 공유 가능하게 만들어 주는 작은 Wrapper 를 제공
+패턴과 예제들 포함
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[shot-scraper-template - 웹 페이지 스크린샷을 저장하는 GitHub Repo만들기]]></title>
+        <id>https://news.hada.io/topic?id=6178</id>
+        <link href="https://news.hada.io/topic?id=6178"/>
+        <updated>2022-03-18T01:09:08.000Z</updated>
+        <summary type="html"><![CDATA[특정 웹페이지의 스크린샷을 자동으로 찍어서 저장하는 GitHub Repo Template
+문서화를 위해서 웹사이트의 변경된 내용을 저장하는 용도로 사용
+Run workflow 버튼 누르면 스크린샷을 저장
+한번에 여러 사이트 캡쳐하기, 레티나 해상도 모드, 캡쳐전 딜레이 지정, PDF로 저장하기 등...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 Type Trends 보고서 [65p PDF]]]></title>
         <id>https://news.hada.io/topic?id=6177</id>
@@ -22,120 +190,6 @@ Certified Gold
 NF-Type
 
 ...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DevTerm R-01 : 첫번째 RISC-V 기반 포터블 컴퓨터]]></title>
-        <id>https://news.hada.io/topic?id=6176</id>
-        <link href="https://news.hada.io/topic?id=6176"/>
-        <updated>2022-03-18T00:33:41.000Z</updated>
-        <summary type="html"><![CDATA[전설적인 TRS-80 Model 100 디자인의 "slabtop"
-$239
-RISC-V 싱글코어@1GHz, No GPU, 1GB DDR3
-6.86" IPS 스크린
-Clockwork 65% 키보드
-58mm 200dpi 써멀프린터
-32GB TF-Card
-ClockworkPi v3.14 메인보드
-18650 배터리...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Podman, Registry 없이 컨테이너 이미지 전송 가능]]></title>
-        <id>https://news.hada.io/topic?id=6175</id>
-        <link href="https://news.hada.io/topic?id=6175"/>
-        <updated>2022-03-18T00:07:11.000Z</updated>
-        <summary type="html"><![CDATA[Podman 4.0의 새로운 "podman image scp" 명령으로 같은 시스템의 사용자간 또는 네트웍 머신간에 이미지 전송 가능
-SSH 지원 기능을 활용
-
-root 계정에서 non-root 계정으로 이미지 복사
-"podman system connection add" 로 추가된 기존 연결을 활용해서 네트웍...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
-        <id>https://news.hada.io/topic?id=6174</id>
-        <link href="https://news.hada.io/topic?id=6174"/>
-        <updated>2022-03-18T00:03:09.000Z</updated>
-        <summary type="html"><![CDATA[이번 주말에 뭘 하려고 계획 중인지 편하게 얘기해 보아요.
-읽을 책, 가볼 곳, 해볼 것.. 어떤 것이든 좋습니다.
-지난 주말에 계획하셨던 일의 회고도 한번 남겨봐 주세요.]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google IO 2022]]></title>
-        <id>https://news.hada.io/topic?id=6173</id>
-        <link href="https://news.hada.io/topic?id=6173"/>
-        <updated>2022-03-17T06:36:57.000Z</updated>
-        <summary type="html"><![CDATA[2022년 5월 11일~12일, Shoreline과 온라인을 통해 라이브로 진행되는 I/O에 참여하세요.
-참가 등록하면 뱃지도 주네요.
-sundar pichai' 트윗:
-https:]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구글 "Immersive Stream for Games" 공개]]></title>
-        <id>https://news.hada.io/topic?id=6172</id>
-        <link href="https://news.hada.io/topic?id=6172"/>
-        <updated>2022-03-17T03:20:24.000Z</updated>
-        <summary type="html"><![CDATA[구글 게임 개발자 서밋에서 Stadia의 B2B 버전 발표
-구글 클라우드를 통해서 회사들이 스타디아 플랫폼을 이용, 직접 플레이어들에게 게임 스트리밍 가능
-파일롯으로 AT&T와 함께 배트맨:아캄 나이트를 가입자에게...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tailscale이 무료 요금제를 유지하는 방법]]></title>
-        <id>https://news.hada.io/topic?id=6171</id>
-        <link href="https://news.hada.io/topic?id=6171"/>
-        <updated>2022-03-17T02:19:56.000Z</updated>
-        <summary type="html"><![CDATA[Tailscale의 구조는 control plane (중앙화된 node 탐색 서비스)와 data plane(비중앙화된 P2P 통신 서비스)로 구성됨 -> 중앙화된 관리, 레이턴시 최소화 외에도 큰 비용 절감 효과
-SaaS 회사에서 주로 지출하게 되는 3가지 비용: 제품 개]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라이트 모드, 다크 모드, 그리고 Gen-Z 모드]]></title>
-        <id>https://news.hada.io/topic?id=6170</id>
-        <link href="https://news.hada.io/topic?id=6170"/>
-        <updated>2022-03-17T01:06:38.000Z</updated>
-        <summary type="html"><![CDATA[밀레니얼이나 그 이전 세대들은 의도적으로 심플하고 깔끔한 UI를 구성하지만,
-비디오 데이팅 앱인 Filteroff가 라이트/다크 모드 외에 Gen-Z 모드라고 하는 별도의 화면 모드를 ...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KDE의 PDF 리더 Okular가 세계 최초로 "환경 인증"을 받음]]></title>
-        <id>https://news.hada.io/topic?id=6169</id>
-        <link href="https://news.hada.io/topic?id=6169"/>
-        <updated>2022-03-17T00:49:52.000Z</updated>
-        <summary type="html"><![CDATA[Okular는 KDE의 오픈소스 PDF 리더 & 범용 문서 뷰어
-"Blue Angel Ecolabel" 을 수상
-소프트웨어 제품으로는 첫번째로 인증을 받음
-→ 자원 및 에너지 효율에 대한 투명성, 하드웨어 작동 수명, 사용자 자율...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[페이스북, TikTok에 공식 계정 개설]]></title>
-        <id>https://news.hada.io/topic?id=6168</id>
-        <link href="https://news.hada.io/topic?id=6168"/>
-        <updated>2022-03-17T00:47:01.000Z</updated>
-        <summary type="html"><![CDATA["We believe people can do more together, than alone."]]></summary>
         <author>
             <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
@@ -548,19 +602,6 @@ My white whale: A use case for will-change originally published on CSS-Tricks. Y
 Explain the First 10 Lines of Twitter’s Source Code to Me originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Anand Chowdhary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Superior Image Optimization: An Ideal Solution Using Gatsby & ImageEngine]]></title>
-        <id>https://css-tricks.com/?p=363526</id>
-        <link href="https://css-tricks.com/superior-image-optimization-an-ideal-solution-using-gatsby-imageengine/"/>
-        <updated>2022-02-24T15:31:49.000Z</updated>
-        <summary type="html"><![CDATA[(This is a sponsored post.)
-In recent years, the Jamstack methodology for building websites has become increasingly popular. Performance, scalable, and secure, it’s easy to see why it’s becoming an attractive way to build websites for developers.
-GatsbyJS is …
-Superior Image Optimization: An Ideal Solution Using Gatsby & ImageEngine originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>ImageEngine</name>
         </author>
     </entry>
     <entry>
