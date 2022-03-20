@@ -168,7 +168,7 @@
           "description": "퇴사의 이유 새로운 직장에 대한 니즈는 한 직장에서 일정기간 업무를 해 왔다면 한 번쯤 생각할 때가 있습니다. 왜 퇴사가 하고 싶을까요? 여러가지 이유가 있지만 각자가 가지고 있는 다양한 가치관에 따라, 또는 지나친 업무량에 따라,...\nThe post 퇴사를 해야겠다고 생각이 들때 appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/resign/",
           "publishedOn": "2022-03-11T17:42:31.000Z",
-          "wordCount": 1577,
+          "wordCount": 1575,
           "title": "퇴사를 해야겠다고 생각이 들때",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2022/03/62ced3bfdda80.jpeg"
         },
@@ -178,7 +178,7 @@
           "description": "DBeaver에서 java heap space 부족이라고 나올때 DB를 관리하는 툴중에 DBeaver라는 툴이 있습니다. 커뮤니티 버전은 프리웨어이기도 하고, 엔터프라이즈 버전은 낮은 가격에도 강력한 부가 기능들이 있어 주로 사용하는 DB툴입니다. DBeaver에서 대용량 테이블을 이관하거나 CSV 파일들의 작업을...\nThe post DBeaver에서 java heap space 부족이라고 나올때 appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/dbeaver%ec%97%90%ec%84%9c-java-heap-space-%eb%b6%80%ec%a1%b1%ec%9d%b4%eb%9d%bc%ea%b3%a0-%eb%82%98%ec%98%ac%eb%95%8c/",
           "publishedOn": "2022-03-01T15:22:02.000Z",
-          "wordCount": 532,
+          "wordCount": 529,
           "title": "DBeaver에서 java heap space 부족이라고 나올때",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2021/04/sm_5b46d890d85b8.jpg"
         }
@@ -189,6 +189,66 @@
       "feedUrl": "https://news.hada.io/rss/news",
       "siteUrl": "https://news.hada.io",
       "articles": [
+        {
+          "id": "https://news.hada.io/topic?id=6192",
+          "author": null,
+          "description": "ESM 지원\n패키지 명을 faker 에서 @faker-js/faker 로 변경\nTypeScript 지원 : 자체 Types 같이 배포\n일부에 한해서 Tree-Shaking 지원\n\n...",
+          "link": "https://news.hada.io/topic?id=6192",
+          "publishedOn": "2022-03-20T00:37:01.000Z",
+          "wordCount": 71,
+          "title": "Faker v6 릴리즈",
+          "imageUrl": "https://social.news.hada.io/topic/6192"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6191",
+          "author": null,
+          "description": "다양한 색상/모양의 아바타를 생성해주는 오픈소스\n\n40개의 유니크 컬러, 60개의 유니크 쉐이프\n사용자명/이메일 기반 문자 아바타 생성 (John Doe 는 JD)\n그림자, 크기 조절, 대체 텍스트등 커스터마이징 가능\n\n...",
+          "link": "https://news.hada.io/topic?id=6191",
+          "publishedOn": "2022-03-20T00:19:01.000Z",
+          "wordCount": 84,
+          "title": "Avvvatars - React용 Avatar 플레이스홀더 생성기",
+          "imageUrl": "https://social.news.hada.io/topic/6191"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6190",
+          "author": null,
+          "description": "매달 CT 스캐너로 특정 물품을 상세히 찍어서 공개하는 페이지\n스크롤 하면서 물체를 회전시키며 내부/관련기술/시장을 설명하는 형식\n플라스틱 병뚜껑 시장은 연 $40b(48조원)규모의 시장이며 계속 성장중\n\n하인즈 케첩 뚜껑\nHuy Fong 스리라차 소스 뚜껑\nVita C...",
+          "link": "https://news.hada.io/topic?id=6190",
+          "publishedOn": "2022-03-20T00:06:01.000Z",
+          "wordCount": 107,
+          "title": "이 달의 CT 스캔 : 식품 포장재",
+          "imageUrl": "https://social.news.hada.io/topic/6190"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6189",
+          "author": null,
+          "description": "마그네틱 접합부\nHDMI 포트 모듈\n스크린 모듈\n카메라, TPU accelerator 모듈을 이용한 물체 감지\n이 외에도 80 종류 이상의 기능\n현재 Raspberry Pi Compute Module 4 로 동작\n웹 기반 대시보드\n시연영상: https://youtu.be/b3F9OtH2Xx4\n...",
+          "link": "https://news.hada.io/topic?id=6189",
+          "publishedOn": "2022-03-19T21:00:03.000Z",
+          "wordCount": 92,
+          "title": "Pockit : 손바닥 크기의 마그네틱 모듈형 컴퓨터",
+          "imageUrl": "https://social.news.hada.io/topic/6189"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6188",
+          "author": null,
+          "description": "이전 GeekNews에 올라온 ECMAScript 스펙을 읽는 법을 번역한 글 입니다.\n번역 글과 원문을 함께 보시면 더욱 도움이 될 것 같습니다.\n흔히 자바스크립트 스펙 문서 (ECMA-262)라고 읽는 ECMAScript 언어 스펙 문서는 자바스크립트의 복잡한 동작 방식을 이해",
+          "link": "https://news.hada.io/topic?id=6188",
+          "publishedOn": "2022-03-19T10:37:14.000Z",
+          "wordCount": 130,
+          "title": "[ 번역글 ] ECMAScript 스펙을 읽는 법",
+          "imageUrl": "https://social.news.hada.io/topic/6188"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6187",
+          "author": null,
+          "description": "훌륭한 터미널 UI 제공 프로젝트들 모음\n\n...",
+          "link": "https://news.hada.io/topic?id=6187",
+          "publishedOn": "2022-03-19T01:20:01.000Z",
+          "wordCount": 55,
+          "title": "Awesome TUIs",
+          "imageUrl": "https://social.news.hada.io/topic/6187"
+        },
         {
           "id": "https://news.hada.io/topic?id=6186",
           "author": null,
@@ -205,7 +265,7 @@
           "description": "아직 C로 되어있는 메인 Tor 구현체를 교체할 수준은 아니지만, 이게 미래라고 믿음\n고수준 API 는 \"대부분 안정적\" 이며, 다른 프로젝트에 시험적으로 임베드될 준비가 되었음\n\n호환이 깨지지 않을거라는 보장은 없지만, 특별한 이유없이 고수준 API를 변경하지는 않을 것\n...",
           "link": "https://news.hada.io/topic?id=6185",
           "publishedOn": "2022-03-19T00:25:01.000Z",
-          "wordCount": 101,
+          "wordCount": 108,
           "title": "Arti 0.1.0 릴리즈 - Rust로 작성한 Tor 클라이언트",
           "imageUrl": "https://social.news.hada.io/topic/6185"
         },
@@ -225,69 +285,9 @@
           "description": "\b2개월차 PO, 무엇을 도전 했고 어떻게 하고 있나? 삽질은 삽질인데 과연 잘하고 있는 삽질인가?",
           "link": "https://news.hada.io/topic?id=6183",
           "publishedOn": "2022-03-18T12:32:44.000Z",
-          "wordCount": 74,
+          "wordCount": 91,
           "title": "뉴비 PO 첫 2달간 뭐했니?",
           "imageUrl": "https://social.news.hada.io/topic/6183"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6182",
-          "author": null,
-          "description": "4000개의 영화와 17000개의 TV 쇼가 아마존 프라임 비디오에 추가\n\n...",
-          "link": "https://news.hada.io/topic?id=6182",
-          "publishedOn": "2022-03-18T03:32:50.000Z",
-          "wordCount": 91,
-          "title": "Amazon, 10조원($8.5b)에 MGM 인수 완료",
-          "imageUrl": "https://social.news.hada.io/topic/6182"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6181",
-          "author": null,
-          "description": "2년반 전에 GA4를 출시했고, 2023년부터 이전 세대인 Universal Analytics는 지원을 중단하기 시작할 예정\nGA4는 여러 플랫폼에서 작동하며, 쿠키에만 의존하지 않고, 이벤트 기반 모델을 사용하여 사용자 중심 측정을 제공\n\n프라이버시 중점으로 설계. 더 이상 IP주소를 저장하지 않음(GDPR등...",
-          "link": "https://news.hada.io/topic?id=6181",
-          "publishedOn": "2022-03-18T01:47:48.000Z",
-          "wordCount": 119,
-          "title": "구글 Universal Analytics 내년부터 지원 중단, Google Analytics 4로 전환하세요",
-          "imageUrl": "https://social.news.hada.io/topic/6181"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6180",
-          "author": null,
-          "description": "윈11 인사이더 빌드의 탐색기에서 다른 마이크로소프트 제품 홍보가 포착됨",
-          "link": "https://news.hada.io/topic?id=6180",
-          "publishedOn": "2022-03-18T01:32:01.000Z",
-          "wordCount": 176,
-          "title": "Microsoft, 윈도우11 파일 탐색기에서 광고를 테스트중",
-          "imageUrl": "https://social.news.hada.io/topic/6180"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6179",
-          "author": null,
-          "description": "React Native 와 Next.js 를 같이 사용하여 크로스 플랫폼앱을 개발할 수 있도록 도와주는 라이브러리\n여러 플랫폼간에 \"네비게이션 코드\"를 공유 가능하게 만들어 주는 작은 Wrapper 를 제공\n패턴과 예제들 포함\n\n...",
-          "link": "https://news.hada.io/topic?id=6179",
-          "publishedOn": "2022-03-18T01:24:47.000Z",
-          "wordCount": 88,
-          "title": "Solito : React Native + Next.js Unified",
-          "imageUrl": "https://social.news.hada.io/topic/6179"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6178",
-          "author": null,
-          "description": "특정 웹페이지의 스크린샷을 자동으로 찍어서 저장하는 GitHub Repo Template\n문서화를 위해서 웹사이트의 변경된 내용을 저장하는 용도로 사용\nRun workflow 버튼 누르면 스크린샷을 저장\n한번에 여러 사이트 캡쳐하기, 레티나 해상도 모드, 캡쳐전 딜레이 지정, PDF로 저장하기 등...",
-          "link": "https://news.hada.io/topic?id=6178",
-          "publishedOn": "2022-03-18T01:09:08.000Z",
-          "wordCount": 103,
-          "title": "shot-scraper-template - 웹 페이지 스크린샷을 저장하는 GitHub Repo만들기",
-          "imageUrl": "https://social.news.hada.io/topic/6178"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6177",
-          "author": null,
-          "description": "Neue Nouveau\nSvelte Serifs\nLoopy\nMix-Up\nOrganic-Mod\nFlux\nThrow-Up\nIt's a Trap!\nCertified Gold\nNF-Type\n\n...",
-          "link": "https://news.hada.io/topic?id=6177",
-          "publishedOn": "2022-03-18T00:46:54.000Z",
-          "wordCount": 79,
-          "title": "2022 Type Trends 보고서 [65p PDF]",
-          "imageUrl": "https://social.news.hada.io/topic/6177"
         }
       ]
     },

@@ -1,10 +1,99 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-19T01:07:29.338Z</id>
+    <id>urn:2022-03-20T01:14:33.386Z</id>
     <title>osmos::feed</title>
-    <updated>2022-03-19T01:07:29.338Z</updated>
+    <updated>2022-03-20T01:14:33.386Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Faker v6 릴리즈]]></title>
+        <id>https://news.hada.io/topic?id=6192</id>
+        <link href="https://news.hada.io/topic?id=6192"/>
+        <updated>2022-03-20T00:37:01.000Z</updated>
+        <summary type="html"><![CDATA[ESM 지원
+패키지 명을 faker 에서 @faker-js/faker 로 변경
+TypeScript 지원 : 자체 Types 같이 배포
+일부에 한해서 Tree-Shaking 지원
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Avvvatars - React용 Avatar 플레이스홀더 생성기]]></title>
+        <id>https://news.hada.io/topic?id=6191</id>
+        <link href="https://news.hada.io/topic?id=6191"/>
+        <updated>2022-03-20T00:19:01.000Z</updated>
+        <summary type="html"><![CDATA[다양한 색상/모양의 아바타를 생성해주는 오픈소스
+
+40개의 유니크 컬러, 60개의 유니크 쉐이프
+사용자명/이메일 기반 문자 아바타 생성 (John Doe 는 JD)
+그림자, 크기 조절, 대체 텍스트등 커스터마이징 가능
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이 달의 CT 스캔 : 식품 포장재]]></title>
+        <id>https://news.hada.io/topic?id=6190</id>
+        <link href="https://news.hada.io/topic?id=6190"/>
+        <updated>2022-03-20T00:06:01.000Z</updated>
+        <summary type="html"><![CDATA[매달 CT 스캐너로 특정 물품을 상세히 찍어서 공개하는 페이지
+스크롤 하면서 물체를 회전시키며 내부/관련기술/시장을 설명하는 형식
+플라스틱 병뚜껑 시장은 연 $40b(48조원)규모의 시장이며 계속 성장중
+
+하인즈 케첩 뚜껑
+Huy Fong 스리라차 소스 뚜껑
+Vita C...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pockit : 손바닥 크기의 마그네틱 모듈형 컴퓨터]]></title>
+        <id>https://news.hada.io/topic?id=6189</id>
+        <link href="https://news.hada.io/topic?id=6189"/>
+        <updated>2022-03-19T21:00:03.000Z</updated>
+        <summary type="html"><![CDATA[마그네틱 접합부
+HDMI 포트 모듈
+스크린 모듈
+카메라, TPU accelerator 모듈을 이용한 물체 감지
+이 외에도 80 종류 이상의 기능
+현재 Raspberry Pi Compute Module 4 로 동작
+웹 기반 대시보드
+시연영상: https://youtu.be/b3F9OtH2Xx4
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ 번역글 ] ECMAScript 스펙을 읽는 법]]></title>
+        <id>https://news.hada.io/topic?id=6188</id>
+        <link href="https://news.hada.io/topic?id=6188"/>
+        <updated>2022-03-19T10:37:14.000Z</updated>
+        <summary type="html"><![CDATA[이전 GeekNews에 올라온 ECMAScript 스펙을 읽는 법을 번역한 글 입니다.
+번역 글과 원문을 함께 보시면 더욱 도움이 될 것 같습니다.
+흔히 자바스크립트 스펙 문서 (ECMA-262)라고 읽는 ECMAScript 언어 스펙 문서는 자바스크립트의 복잡한 동작 방식을 이해]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Awesome TUIs]]></title>
+        <id>https://news.hada.io/topic?id=6187</id>
+        <link href="https://news.hada.io/topic?id=6187"/>
+        <updated>2022-03-19T01:20:01.000Z</updated>
+        <summary type="html"><![CDATA[훌륭한 터미널 UI 제공 프로젝트들 모음
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mage - AI로 데이터에서 예측 해주는 도구]]></title>
         <id>https://news.hada.io/topic?id=6186</id>
@@ -75,18 +164,6 @@ Optimizing SVG Patterns to Their Smallest Size originally published on CSS-Trick
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon, 10조원($8.5b)에 MGM 인수 완료]]></title>
-        <id>https://news.hada.io/topic?id=6182</id>
-        <link href="https://news.hada.io/topic?id=6182"/>
-        <updated>2022-03-18T03:32:50.000Z</updated>
-        <summary type="html"><![CDATA[4000개의 영화와 17000개의 TV 쇼가 아마존 프라임 비디오에 추가
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Jest로 Error 검증시 catch 보다는 expect]]></title>
         <id>https://jojoldu.tistory.com/656</id>
         <link href="https://jojoldu.tistory.com/656"/>
@@ -121,77 +198,6 @@ it("[expect] 주문금액이 -이면 BadParameter Exception 을 던진다.", asy
 이 중에서 개인적으로는 expect…]]></summary>
         <author>
             <name>향로</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구글 Universal Analytics 내년부터 지원 중단, Google Analytics 4로 전환하세요]]></title>
-        <id>https://news.hada.io/topic?id=6181</id>
-        <link href="https://news.hada.io/topic?id=6181"/>
-        <updated>2022-03-18T01:47:48.000Z</updated>
-        <summary type="html"><![CDATA[2년반 전에 GA4를 출시했고, 2023년부터 이전 세대인 Universal Analytics는 지원을 중단하기 시작할 예정
-GA4는 여러 플랫폼에서 작동하며, 쿠키에만 의존하지 않고, 이벤트 기반 모델을 사용하여 사용자 중심 측정을 제공
-
-프라이버시 중점으로 설계. 더 이상 IP주소를 저장하지 않음(GDPR등...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft, 윈도우11 파일 탐색기에서 광고를 테스트중]]></title>
-        <id>https://news.hada.io/topic?id=6180</id>
-        <link href="https://news.hada.io/topic?id=6180"/>
-        <updated>2022-03-18T01:32:01.000Z</updated>
-        <summary type="html"><![CDATA[윈11 인사이더 빌드의 탐색기에서 다른 마이크로소프트 제품 홍보가 포착됨]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solito : React Native + Next.js Unified]]></title>
-        <id>https://news.hada.io/topic?id=6179</id>
-        <link href="https://news.hada.io/topic?id=6179"/>
-        <updated>2022-03-18T01:24:47.000Z</updated>
-        <summary type="html"><![CDATA[React Native 와 Next.js 를 같이 사용하여 크로스 플랫폼앱을 개발할 수 있도록 도와주는 라이브러리
-여러 플랫폼간에 "네비게이션 코드"를 공유 가능하게 만들어 주는 작은 Wrapper 를 제공
-패턴과 예제들 포함
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[shot-scraper-template - 웹 페이지 스크린샷을 저장하는 GitHub Repo만들기]]></title>
-        <id>https://news.hada.io/topic?id=6178</id>
-        <link href="https://news.hada.io/topic?id=6178"/>
-        <updated>2022-03-18T01:09:08.000Z</updated>
-        <summary type="html"><![CDATA[특정 웹페이지의 스크린샷을 자동으로 찍어서 저장하는 GitHub Repo Template
-문서화를 위해서 웹사이트의 변경된 내용을 저장하는 용도로 사용
-Run workflow 버튼 누르면 스크린샷을 저장
-한번에 여러 사이트 캡쳐하기, 레티나 해상도 모드, 캡쳐전 딜레이 지정, PDF로 저장하기 등...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 Type Trends 보고서 [65p PDF]]]></title>
-        <id>https://news.hada.io/topic?id=6177</id>
-        <link href="https://news.hada.io/topic?id=6177"/>
-        <updated>2022-03-18T00:46:54.000Z</updated>
-        <summary type="html"><![CDATA[Neue Nouveau
-Svelte Serifs
-Loopy
-Mix-Up
-Organic-Mod
-Flux
-Throw-Up
-It's a Trap!
-Certified Gold
-NF-Type
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
     </entry>
     <entry>
