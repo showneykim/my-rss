@@ -1,10 +1,86 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-20T01:14:33.386Z</id>
+    <id>urn:2022-03-21T01:15:39.421Z</id>
     <title>osmos::feed</title>
-    <updated>2022-03-20T01:14:33.386Z</updated>
+    <updated>2022-03-21T01:15:39.421Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Next.js 공식 'Foundations' 코스 공개]]></title>
+        <id>https://news.hada.io/topic?id=6197</id>
+        <link href="https://news.hada.io/topic?id=6197"/>
+        <updated>2022-03-21T00:59:01.000Z</updated>
+        <summary type="html"><![CDATA[JavaScript로 간단한 프로젝트를 만들고, React로 전환하고, 다시 Next.js 로 만들면서 익히는 초보자용 코스
+주요 내용
+
+About Next.js
+From JavaScript to React
+From React to Next.js
+How Next.js Works
+
+
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 사무실에서 쓰기에 좋았던 물건이 있나요?]]></title>
+        <id>https://news.hada.io/topic?id=6196</id>
+        <link href="https://news.hada.io/topic?id=6196"/>
+        <updated>2022-03-21T00:43:21.000Z</updated>
+        <summary type="html"><![CDATA[작은 사무실에 두면 쓰기에 좋았거나 만족감이 생겼던 물건들이 있으신가요?
+전자 제품이나 작은 소품, 쓰기에 편했던 집기 등을 추천해 주세요.]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI의 code-davici 모델 이용해서 자연어로 게임 만들기]]></title>
+        <id>https://news.hada.io/topic?id=6195</id>
+        <link href="https://news.hada.io/topic?id=6195"/>
+        <updated>2022-03-21T00:40:01.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI가 4000개의 토큰까지 가능하게 업데이트 됨
+이를 이용해서 코드 한줄 없이 텍스트 설명만으로 작은 게임을 몇가지 생성해봄
+미니 젤다의 전설, 5글자 워들, 매트릭스 레인 효과, 틱-택-토, 뱀파이어 헌터, VR 미로 빌더, 이미지 조작도구, 페인팅 앱
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Asahi Linux 알파 릴리즈 - 애플 M1칩용 리눅스]]></title>
+        <id>https://news.hada.io/topic?id=6194</id>
+        <link href="https://news.hada.io/topic?id=6194"/>
+        <updated>2022-03-21T00:26:01.000Z</updated>
+        <summary type="html"><![CDATA[M1, M1 Pro, M1 Max (Mac Studio는 제외)
+macOS 12.3 이상에서 53GB 공간 필요
+기존 맥OS 파티션을 줄여서 설치하며, 맥OS로 듀얼부팅 지원
+세가지 모드 인스톨러
+
+Asahi Linux Desktop : Arch Linux ARM + Plasma Desktop + 기본 패키지. 그래픽 설치 위자드 제공]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deno 1.20 릴리즈]]></title>
+        <id>https://news.hada.io/topic?id=6193</id>
+        <link href="https://news.hada.io/topic?id=6193"/>
+        <updated>2022-03-20T03:06:30.000Z</updated>
+        <summary type="html"><![CDATA[Rust 호출을 더 빠르게
+HTTP 응답 바디를 자동 압축
+deno bench 벤치마킽 명령어 추가
+deno task 태스크 러너 (npm scripts/makefile 과 비슷)
+설정파일에서 import map 지정 가능
+TLS/HTTPS 용 PEM/키 정보를 텍스트로 로딩 가능
+Deno.upgradeHttp() 로...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Faker v6 릴리즈]]></title>
         <id>https://news.hada.io/topic?id=6192</id>
@@ -83,66 +159,6 @@ HDMI 포트 모듈
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Awesome TUIs]]></title>
-        <id>https://news.hada.io/topic?id=6187</id>
-        <link href="https://news.hada.io/topic?id=6187"/>
-        <updated>2022-03-19T01:20:01.000Z</updated>
-        <summary type="html"><![CDATA[훌륭한 터미널 UI 제공 프로젝트들 모음
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mage - AI로 데이터에서 예측 해주는 도구]]></title>
-        <id>https://news.hada.io/topic?id=6186</id>
-        <link href="https://news.hada.io/topic?id=6186"/>
-        <updated>2022-03-19T00:48:01.000Z</updated>
-        <summary type="html"><![CDATA[AI에 대한 지식 없이도 제품 추천, 개인화, 분류 등에 필요한 예측 모델을 구축/훈련/배포 가능한 도구
-기본 유스 케이스 제공
-
-Ranking, Churn Prediction, Categorization, Estimation, Customer Life Time Value, Lead Scoring 등
-몇줄의 코드만으로 실시간 AI 예측 ...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arti 0.1.0 릴리즈 - Rust로 작성한 Tor 클라이언트]]></title>
-        <id>https://news.hada.io/topic?id=6185</id>
-        <link href="https://news.hada.io/topic?id=6185"/>
-        <updated>2022-03-19T00:25:01.000Z</updated>
-        <summary type="html"><![CDATA[아직 C로 되어있는 메인 Tor 구현체를 교체할 수준은 아니지만, 이게 미래라고 믿음
-고수준 API 는 "대부분 안정적" 이며, 다른 프로젝트에 시험적으로 임베드될 준비가 되었음
-
-호환이 깨지지 않을거라는 보장은 없지만, 특별한 이유없이 고수준 API를 변경하지는 않을 것
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Safari 15.4에 추가된 새 WebKit 기능들]]></title>
-        <id>https://news.hada.io/topic?id=6184</id>
-        <link href="https://news.hada.io/topic?id=6184"/>
-        <updated>2022-03-19T00:06:01.000Z</updated>
-        <summary type="html"><![CDATA[HTML
-img Lazy로딩
-dialog, ::backdrop 지원
-CSS
-:has()
-Cascade Layers
-contain
-뷰포트 : svw,lvh,dvmin 같은 *vw, *vh, *vi, *vb, *vmin, *vmax 지원
-:focus-visible
-accent-color
-calc() : sin, cos...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Optimizing SVG Patterns to Their Smallest Size]]></title>
         <id>https://css-tricks.com/?p=364090</id>
         <link href="https://css-tricks.com/optimizing-svg-patterns/"/>
@@ -151,16 +167,6 @@ calc() : sin, cos...]]></summary>
 Optimizing SVG Patterns to Their Smallest Size originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Bence Szabó</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴비 PO 첫 2달간 뭐했니?]]></title>
-        <id>https://news.hada.io/topic?id=6183</id>
-        <link href="https://news.hada.io/topic?id=6183"/>
-        <updated>2022-03-18T12:32:44.000Z</updated>
-        <summary type="html"><![CDATA[2개월차 PO, 무엇을 도전 했고 어떻게 하고 있나? 삽질은 삽질인데 과연 잘하고 있는 삽질인가?]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
     </entry>
     <entry>
