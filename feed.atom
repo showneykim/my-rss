@@ -1,10 +1,144 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-21T01:15:39.421Z</id>
+    <id>urn:2022-03-22T01:20:17.945Z</id>
     <title>osmos::feed</title>
-    <updated>2022-03-21T01:15:39.421Z</updated>
+    <updated>2022-03-22T01:20:17.945Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[예제로 배우는 Deno]]></title>
+        <id>https://news.hada.io/topic?id=6205</id>
+        <link href="https://news.hada.io/topic?id=6205"/>
+        <updated>2022-03-22T01:12:11.000Z</updated>
+        <summary type="html"><![CDATA["Deno by example" : 사용법을 알려주는 주석 달린 예제 모음
+레퍼런스 이자 교육용으로 사용 가능
+
+Hello World
+Logging with colors
+Importing & Exporting
+Dependency Management
+Importing JSON
+Parsing and serializing JSO...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[dav1d 1.0.0 릴리즈 - 오픈소스 크로스플랫폼 AV1 디코더]]></title>
+        <id>https://news.hada.io/topic?id=6204</id>
+        <link href="https://news.hada.io/topic?id=6204"/>
+        <updated>2022-03-22T00:57:52.000Z</updated>
+        <summary type="html"><![CDATA[완전한 C 구현체
+속도를 위해 별도로 작성된 18.5만 라인의 손 작업 어셈블리 코드
+
+x86_64(SSE3, AVX2), ARMv7 과 ARMv8 모두
+AVX-512 가속 지원
+GPU 가속을 위한 새 API 추가
+오류 발생시 디코딩 실패한 프레임 정보 리턴하는 API 추가
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기술 창업자들의 고객지원 실수와 해결책들]]></title>
+        <id>https://news.hada.io/topic?id=6203</id>
+        <link href="https://news.hada.io/topic?id=6203"/>
+        <updated>2022-03-22T00:37:00.000Z</updated>
+        <summary type="html"><![CDATA[티켓이 아니라 사람
+고객의 고통을 이해하고, 사과하고, 인내에 감사하기
+버그 리포트를 받으면 수정될 때까지 기다렸다 회신하지 말고, 먼저 회신하면서 수정 예상 타임라인 알려주기
+화나고 무례한 고객의 상황을 이해하기. 선을 넘으면 예의를 지키되, 경계를 정할 것
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vimeo: "우리는 B2B 솔루션이지, 인디 버전의 유튜브가 아니다"]]></title>
+        <id>https://news.hada.io/topic?id=6202</id>
+        <link href="https://news.hada.io/topic?id=6202"/>
+        <updated>2022-03-22T00:20:10.000Z</updated>
+        <summary type="html"><![CDATA[Vimeo가 117명의 구독자, 영상당 평균 150뷰 나오는 비디오 창작자에게 연간 $3500 사용료를 청구한 사례가 기사화됨
+또한 Premium 에서 Basic으로 다운그레이드하면 비디오가 삭제되기에 비디오를 유지하려면 비용...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Write HTML, the HTML Way (Not the XHTML Way)]]></title>
+        <id>https://css-tricks.com/?p=363745</id>
+        <link href="https://css-tricks.com/write-html-the-html-way-not-the-xhtml-way/"/>
+        <updated>2022-03-21T20:08:38.000Z</updated>
+        <summary type="html"><![CDATA[You may not use XHTML (anymore), but when you write HTML, you may be more influenced by XHTML than you think. You are very likely writing HTML, the XHTML way.
+What is the XHTML way of writing HTML, and what …
+Write HTML, the HTML Way (Not the XHTML Way) originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Jens Oliver Meiert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[35년간의 뉴스레터 운영에서 얻은 경험들]]></title>
+        <id>https://news.hada.io/topic?id=6201</id>
+        <link href="https://news.hada.io/topic?id=6201"/>
+        <updated>2022-03-21T02:03:01.000Z</updated>
+        <summary type="html"><![CDATA[이메일은 계속 살아남을 것. 언젠가는 자신의 스타일에 잘 맞는 매체(비디오/오디오)를 갖게 되겠지만, 이메일은 보편적임. 여전히 King!
+당신의 개인적인 목소리엔 경쟁이 없음
+관계를 구축하는 것, 그게 다임. 다른 것을 시도하는 것은 자신이나 독자에게 거짓말을 하는 것.
+프로젝트...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[네이버, 카카오, 엔씨소프트 임원은 연봉을 얼마나 받을까?]]></title>
+        <id>https://news.hada.io/topic?id=6200</id>
+        <link href="https://news.hada.io/topic?id=6200"/>
+        <updated>2022-03-21T01:46:01.000Z</updated>
+        <summary type="html"><![CDATA[전자 공시 시스템(DART) 에 공시된 사업보고서 내용을 참고한 추정
+2014년도부터 상장사들은 5억 원 이상 상위 5명의 임직원의 연봉이 공개
+
+네이버 - 급여 보상 우선
+카카오 - 주식 보상 우선
+엔씨소프트 – 인센티브 보상 우선
+✓ 상세 금액은 원글...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[웹 개발자의 비밀무기들]]></title>
+        <id>https://news.hada.io/topic?id=6199</id>
+        <link href="https://news.hada.io/topic?id=6199"/>
+        <updated>2022-03-21T01:34:01.000Z</updated>
+        <summary type="html"><![CDATA[Loom
+Markup.io
+Hoverify
+크롬 확장들 : CSSPeeper, SVG Grabber, WAVE, CSS Magic, WhatFont,Full Page Screenshot Capture
+Waapalyzer
+PixelParallel
+구글 Lighthouse
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오픈소스의 무기화에 대해]]></title>
+        <id>https://news.hada.io/topic?id=6198</id>
+        <link href="https://news.hada.io/topic?id=6198"/>
+        <updated>2022-03-21T01:14:01.000Z</updated>
+        <summary type="html"><![CDATA[러시아 문제가 소프트웨어 개발 영역으로 변져서 의도치 않은 결과가 발생
+
+MongoDB가 러시아에서 서비스 중단
+특정 Node 라이브러리가 러시아 IP일 경우 파일을 강제로 삭제하게 만든 것
+특정 테라폼 모듈이 라이센스 항목을 변경하여, 러시아의 침공을 인정하고 "푸틴은 멍청...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Next.js 공식 'Foundations' 코스 공개]]></title>
         <id>https://news.hada.io/topic?id=6197</id>
@@ -32,128 +166,6 @@ How Next.js Works
         <updated>2022-03-21T00:43:21.000Z</updated>
         <summary type="html"><![CDATA[작은 사무실에 두면 쓰기에 좋았거나 만족감이 생겼던 물건들이 있으신가요?
 전자 제품이나 작은 소품, 쓰기에 편했던 집기 등을 추천해 주세요.]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI의 code-davici 모델 이용해서 자연어로 게임 만들기]]></title>
-        <id>https://news.hada.io/topic?id=6195</id>
-        <link href="https://news.hada.io/topic?id=6195"/>
-        <updated>2022-03-21T00:40:01.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI가 4000개의 토큰까지 가능하게 업데이트 됨
-이를 이용해서 코드 한줄 없이 텍스트 설명만으로 작은 게임을 몇가지 생성해봄
-미니 젤다의 전설, 5글자 워들, 매트릭스 레인 효과, 틱-택-토, 뱀파이어 헌터, VR 미로 빌더, 이미지 조작도구, 페인팅 앱
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Asahi Linux 알파 릴리즈 - 애플 M1칩용 리눅스]]></title>
-        <id>https://news.hada.io/topic?id=6194</id>
-        <link href="https://news.hada.io/topic?id=6194"/>
-        <updated>2022-03-21T00:26:01.000Z</updated>
-        <summary type="html"><![CDATA[M1, M1 Pro, M1 Max (Mac Studio는 제외)
-macOS 12.3 이상에서 53GB 공간 필요
-기존 맥OS 파티션을 줄여서 설치하며, 맥OS로 듀얼부팅 지원
-세가지 모드 인스톨러
-
-Asahi Linux Desktop : Arch Linux ARM + Plasma Desktop + 기본 패키지. 그래픽 설치 위자드 제공]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deno 1.20 릴리즈]]></title>
-        <id>https://news.hada.io/topic?id=6193</id>
-        <link href="https://news.hada.io/topic?id=6193"/>
-        <updated>2022-03-20T03:06:30.000Z</updated>
-        <summary type="html"><![CDATA[Rust 호출을 더 빠르게
-HTTP 응답 바디를 자동 압축
-deno bench 벤치마킽 명령어 추가
-deno task 태스크 러너 (npm scripts/makefile 과 비슷)
-설정파일에서 import map 지정 가능
-TLS/HTTPS 용 PEM/키 정보를 텍스트로 로딩 가능
-Deno.upgradeHttp() 로...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Faker v6 릴리즈]]></title>
-        <id>https://news.hada.io/topic?id=6192</id>
-        <link href="https://news.hada.io/topic?id=6192"/>
-        <updated>2022-03-20T00:37:01.000Z</updated>
-        <summary type="html"><![CDATA[ESM 지원
-패키지 명을 faker 에서 @faker-js/faker 로 변경
-TypeScript 지원 : 자체 Types 같이 배포
-일부에 한해서 Tree-Shaking 지원
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Avvvatars - React용 Avatar 플레이스홀더 생성기]]></title>
-        <id>https://news.hada.io/topic?id=6191</id>
-        <link href="https://news.hada.io/topic?id=6191"/>
-        <updated>2022-03-20T00:19:01.000Z</updated>
-        <summary type="html"><![CDATA[다양한 색상/모양의 아바타를 생성해주는 오픈소스
-
-40개의 유니크 컬러, 60개의 유니크 쉐이프
-사용자명/이메일 기반 문자 아바타 생성 (John Doe 는 JD)
-그림자, 크기 조절, 대체 텍스트등 커스터마이징 가능
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이 달의 CT 스캔 : 식품 포장재]]></title>
-        <id>https://news.hada.io/topic?id=6190</id>
-        <link href="https://news.hada.io/topic?id=6190"/>
-        <updated>2022-03-20T00:06:01.000Z</updated>
-        <summary type="html"><![CDATA[매달 CT 스캐너로 특정 물품을 상세히 찍어서 공개하는 페이지
-스크롤 하면서 물체를 회전시키며 내부/관련기술/시장을 설명하는 형식
-플라스틱 병뚜껑 시장은 연 $40b(48조원)규모의 시장이며 계속 성장중
-
-하인즈 케첩 뚜껑
-Huy Fong 스리라차 소스 뚜껑
-Vita C...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pockit : 손바닥 크기의 마그네틱 모듈형 컴퓨터]]></title>
-        <id>https://news.hada.io/topic?id=6189</id>
-        <link href="https://news.hada.io/topic?id=6189"/>
-        <updated>2022-03-19T21:00:03.000Z</updated>
-        <summary type="html"><![CDATA[마그네틱 접합부
-HDMI 포트 모듈
-스크린 모듈
-카메라, TPU accelerator 모듈을 이용한 물체 감지
-이 외에도 80 종류 이상의 기능
-현재 Raspberry Pi Compute Module 4 로 동작
-웹 기반 대시보드
-시연영상: https://youtu.be/b3F9OtH2Xx4
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[ 번역글 ] ECMAScript 스펙을 읽는 법]]></title>
-        <id>https://news.hada.io/topic?id=6188</id>
-        <link href="https://news.hada.io/topic?id=6188"/>
-        <updated>2022-03-19T10:37:14.000Z</updated>
-        <summary type="html"><![CDATA[이전 GeekNews에 올라온 ECMAScript 스펙을 읽는 법을 번역한 글 입니다.
-번역 글과 원문을 함께 보시면 더욱 도움이 될 것 같습니다.
-흔히 자바스크립트 스펙 문서 (ECMA-262)라고 읽는 ECMAScript 언어 스펙 문서는 자바스크립트의 복잡한 동작 방식을 이해]]></summary>
         <author>
             <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
@@ -603,17 +615,6 @@ Manuel Matuzovic’s CSS Specificity Demo originally published on CSS-Tricks. Yo
 My white whale: A use case for will-change originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Explain the First 10 Lines of Twitter’s Source Code to Me]]></title>
-        <id>https://css-tricks.com/?p=363553</id>
-        <link href="https://css-tricks.com/explain-the-first-10-lines-of-twitter-source-code/"/>
-        <updated>2022-02-24T15:31:55.000Z</updated>
-        <summary type="html"><![CDATA[For the past few weeks, I’ve been hiring for a senior full-stack JavaScript engineer at my rental furniture company, Pabio. Since we’re a remote team, we conduct our interviews on Zoom, and I’ve observed that some developers are not …
-Explain the First 10 Lines of Twitter’s Source Code to Me originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Anand Chowdhary</name>
         </author>
     </entry>
     <entry>
