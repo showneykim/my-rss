@@ -168,7 +168,7 @@
           "description": "퇴사의 이유 새로운 직장에 대한 니즈는 한 직장에서 일정기간 업무를 해 왔다면 한 번쯤 생각할 때가 있습니다. 왜 퇴사가 하고 싶을까요? 여러가지 이유가 있지만 각자가 가지고 있는 다양한 가치관에 따라, 또는 지나친 업무량에 따라,...\nThe post 퇴사를 해야겠다고 생각이 들때 appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/resign/",
           "publishedOn": "2022-03-11T17:42:31.000Z",
-          "wordCount": 1577,
+          "wordCount": 1578,
           "title": "퇴사를 해야겠다고 생각이 들때",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2022/03/62ced3bfdda80.jpeg"
         },
@@ -178,7 +178,7 @@
           "description": "DBeaver에서 java heap space 부족이라고 나올때 DB를 관리하는 툴중에 DBeaver라는 툴이 있습니다. 커뮤니티 버전은 프리웨어이기도 하고, 엔터프라이즈 버전은 낮은 가격에도 강력한 부가 기능들이 있어 주로 사용하는 DB툴입니다. DBeaver에서 대용량 테이블을 이관하거나 CSV 파일들의 작업을...\nThe post DBeaver에서 java heap space 부족이라고 나올때 appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/dbeaver%ec%97%90%ec%84%9c-java-heap-space-%eb%b6%80%ec%a1%b1%ec%9d%b4%eb%9d%bc%ea%b3%a0-%eb%82%98%ec%98%ac%eb%95%8c/",
           "publishedOn": "2022-03-01T15:22:02.000Z",
-          "wordCount": 531,
+          "wordCount": 537,
           "title": "DBeaver에서 java heap space 부족이라고 나올때",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2021/04/sm_5b46d890d85b8.jpg"
         }
@@ -189,6 +189,66 @@
       "feedUrl": "https://news.hada.io/rss/news",
       "siteUrl": "https://news.hada.io",
       "articles": [
+        {
+          "id": "https://news.hada.io/topic?id=6211",
+          "author": null,
+          "description": "Okta는 전세계 15000+개의 고객사를 보유한 세계 최대 SSO 보안 회사\nLapsus$에서 Okta의 사내 Slack,Cloudflare 및 내부 시스템 스크린샷을 텔레그램 채널에 게시\nOkta쪽에선 1/5일 부터 5일간 직원 랩톱 하나에 억세스 한 걸 확인했지만, 권한은 제한적이었다고 밝힘\n다시 Lapsus...",
+          "link": "https://news.hada.io/topic?id=6211",
+          "publishedOn": "2022-03-23T00:42:44.000Z",
+          "wordCount": 118,
+          "title": "Lapsus$ 해킹그룹, Okta를 해킹했다고 주장",
+          "imageUrl": "https://social.news.hada.io/topic/6211"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6210",
+          "author": null,
+          "description": "Asahi Linux Installer로 M1 머신에 UEFI 추가가 가능해졌음\n이 기능을 활용하여 USB에 담은 OpenBSD/Arm64 설치 프로세스 진행 가능\nMac Studio를 제외한 모든 M1 머신에서 동작하며, Asahi Linux와 동일한 기능들 지원\n\n키보드, 터치패드, 이더넷, WiFi, USB, NVMe..\n\n...",
+          "link": "https://news.hada.io/topic?id=6210",
+          "publishedOn": "2022-03-23T00:18:02.000Z",
+          "wordCount": 113,
+          "title": "OpenBSD/Arm64를 애플 M1 에서 동작 성공",
+          "imageUrl": "https://social.news.hada.io/topic/6210"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6209",
+          "author": null,
+          "description": "AWS 서비스를 이용한 인터랙티브 학습을 통해 클라우드 기술을 배우는 게임\n아바타로 도시를 돌아다니다가, NPC가 내는 문제들을 클라우드 솔루션을 이용해서 해결(퍼즐/시뮬레이션/핸즈온 랩 등의 방식)\n실제 비즈니스에서 발생하는 문제들로 구성\n\n...",
+          "link": "https://news.hada.io/topic?id=6209",
+          "publishedOn": "2022-03-22T04:31:41.000Z",
+          "wordCount": 141,
+          "title": "AWS Cloud Quest 공개 - 클라우드 기술 교육용 온라인 RPG",
+          "imageUrl": "https://social.news.hada.io/topic/6209"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6208",
+          "author": null,
+          "description": "Swift로 작성된 네이티브 에디터라서 빠르고 경량\n앱스토어에서 다운 가능\nCJK 언어 친화적(인코딩 처리, 세로 쓰기 및 라인 높이)\n50개 이상 언어의 구문 강조 지원, 강력한 검색&치환, GUI기반의 쉬운 설정, 자동 백업\n다양한 매크로 언어 사용 가능(Python/Ruby/PH...",
+          "link": "https://news.hada.io/topic?id=6208",
+          "publishedOn": "2022-03-22T02:24:03.000Z",
+          "wordCount": 140,
+          "title": "CotEditor - macOS용 오픈소스 텍스트 에디터",
+          "imageUrl": "https://social.news.hada.io/topic/6208"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6207",
+          "author": null,
+          "description": "새로 출시된 애플 스튜디오 디스플레이엔 A13 Bionic 칩이 들어감(아이폰 11에서 사용되었던 칩)\n이 칩의 최저 용량이 64GB이므로, 별도로 만들지 않고 그걸 그대로 이용하면서 62GB는 사용하지 않는 듯\n즉, 이 디스플레이는 9세대 iPad와 똑 같은 A13칩, 같은 사양의 12MP 프론트 카메라, 6...",
+          "link": "https://news.hada.io/topic?id=6207",
+          "publishedOn": "2022-03-22T01:44:39.000Z",
+          "wordCount": 175,
+          "title": "Apple Studio Display엔 64GB가 있지만 2GB만 사용함",
+          "imageUrl": "https://social.news.hada.io/topic/6207"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6206",
+          "author": null,
+          "description": "NVidia Shield 및 Chromecast 등에 사용 되는 Apple TV 앱은 iTunes 무비를 직접 구매 및 대여 가능했으나,\n이 버튼 클릭시 \"아이폰/아이패드 및 다른 스트리밍 기기의 애플TV앱에서 구매/대여 ...",
+          "link": "https://news.hada.io/topic?id=6206",
+          "publishedOn": "2022-03-22T01:29:32.000Z",
+          "wordCount": 181,
+          "title": "Android TV 와 Google TV의 애플 TV앱에서 더이상 iTunes 영화 구매/대여 불가",
+          "imageUrl": "https://social.news.hada.io/topic/6206"
+        },
         {
           "id": "https://news.hada.io/topic?id=6205",
           "author": null,
@@ -225,69 +285,9 @@
           "description": "Vimeo가 117명의 구독자, 영상당 평균 150뷰 나오는 비디오 창작자에게 연간 $3500 사용료를 청구한 사례가 기사화됨\n또한 Premium 에서 Basic으로 다운그레이드하면 비디오가 삭제되기에 비디오를 유지하려면 비용...",
           "link": "https://news.hada.io/topic?id=6202",
           "publishedOn": "2022-03-22T00:20:10.000Z",
-          "wordCount": 193,
+          "wordCount": 200,
           "title": "Vimeo: \"우리는 B2B 솔루션이지, 인디 버전의 유튜브가 아니다\"",
           "imageUrl": "https://social.news.hada.io/topic/6202"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6201",
-          "author": null,
-          "description": "이메일은 계속 살아남을 것. 언젠가는 자신의 스타일에 잘 맞는 매체(비디오/오디오)를 갖게 되겠지만, 이메일은 보편적임. 여전히 King!\n당신의 개인적인 목소리엔 경쟁이 없음\n관계를 구축하는 것, 그게 다임. 다른 것을 시도하는 것은 자신이나 독자에게 거짓말을 하는 것.\n프로젝트...",
-          "link": "https://news.hada.io/topic?id=6201",
-          "publishedOn": "2022-03-21T02:03:01.000Z",
-          "wordCount": 1024,
-          "title": "35년간의 뉴스레터 운영에서 얻은 경험들",
-          "imageUrl": "https://social.news.hada.io/topic/6201"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6200",
-          "author": null,
-          "description": "전자 공시 시스템(DART) 에 공시된 사업보고서 내용을 참고한 추정\n2014년도부터 상장사들은 5억 원 이상 상위 5명의 임직원의 연봉이 공개\n\n네이버 - 급여 보상 우선\n카카오 - 주식 보상 우선\n엔씨소프트 – 인센티브 보상 우선\n✓ 상세 금액은 원글...",
-          "link": "https://news.hada.io/topic?id=6200",
-          "publishedOn": "2022-03-21T01:46:01.000Z",
-          "wordCount": 98,
-          "title": "네이버, 카카오, 엔씨소프트 임원은 연봉을 얼마나 받을까?",
-          "imageUrl": "https://social.news.hada.io/topic/6200"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6199",
-          "author": null,
-          "description": "Loom\nMarkup.io\nHoverify\n크롬 확장들 : CSSPeeper, SVG Grabber, WAVE, CSS Magic, WhatFont,Full Page Screenshot Capture\nWaapalyzer\nPixelParallel\n구글 Lighthouse\n\n...",
-          "link": "https://news.hada.io/topic?id=6199",
-          "publishedOn": "2022-03-21T01:34:01.000Z",
-          "wordCount": 71,
-          "title": "웹 개발자의 비밀무기들",
-          "imageUrl": "https://social.news.hada.io/topic/6199"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6198",
-          "author": null,
-          "description": "러시아 문제가 소프트웨어 개발 영역으로 변져서 의도치 않은 결과가 발생\n\nMongoDB가 러시아에서 서비스 중단\n특정 Node 라이브러리가 러시아 IP일 경우 파일을 강제로 삭제하게 만든 것\n특정 테라폼 모듈이 라이센스 항목을 변경하여, 러시아의 침공을 인정하고 \"푸틴은 멍청...",
-          "link": "https://news.hada.io/topic?id=6198",
-          "publishedOn": "2022-03-21T01:14:01.000Z",
-          "wordCount": 399,
-          "title": "오픈소스의 무기화에 대해",
-          "imageUrl": "https://social.news.hada.io/topic/6198"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6197",
-          "author": null,
-          "description": "JavaScript로 간단한 프로젝트를 만들고, React로 전환하고, 다시 Next.js 로 만들면서 익히는 초보자용 코스\n주요 내용\n\nAbout Next.js\nFrom JavaScript to React\nFrom React to Next.js\nHow Next.js Works\n\n\n\n...",
-          "link": "https://news.hada.io/topic?id=6197",
-          "publishedOn": "2022-03-21T00:59:01.000Z",
-          "wordCount": 83,
-          "title": "Next.js 공식 'Foundations' 코스 공개",
-          "imageUrl": "https://social.news.hada.io/topic/6197"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6196",
-          "author": null,
-          "description": "작은 사무실에 두면 쓰기에 좋았거나 만족감이 생겼던 물건들이 있으신가요?\n전자 제품이나 작은 소품, 쓰기에 편했던 집기 등을 추천해 주세요.",
-          "link": "https://news.hada.io/topic?id=6196",
-          "publishedOn": "2022-03-21T00:43:21.000Z",
-          "wordCount": 297,
-          "title": "Ask GN: 사무실에서 쓰기에 좋았던 물건이 있나요?",
-          "imageUrl": "https://social.news.hada.io/topic/6196"
         }
       ]
     },
@@ -365,16 +365,6 @@
           "wordCount": 1415,
           "title": "Promise.all 과 Transactions (feat. Node.js)",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FziO3a%2FbtruLtSuE7m%2FK95dBn4FuwdIr8xSRM2FIK%2Fimg.png"
-        },
-        {
-          "id": "https://jojoldu.tistory.com/638",
-          "author": "향로",
-          "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\nNodeJS 기반의 백엔드에서는 NestJS, RoutingControllers 등 최근 대세가 되는 MVC 프레임워크들이 모두 Class를 기반으로 한 DI (Dependency Injection) 방식을 사용하고 있다.\n그러다보니 Jest의 Mocking 방식은 백엔드 NodeJS 환경에서 적합한 도구는 아닐 수 있다. \n특히, Mock/Stub 객체 생성에 불편한 점이 많다.\n그래서 Test Runner로서 Jest는 사용하더라도, Mock 라이브러리는 다른 것을 사용하는 것을 추천하는데, 그 중 대표적인 것들은 다음과 같다.\nts-mockito\nsinonjs\njest-mock-extended\n이번 글에서는 그 중 ts-mockito 를 통한 테스트 더블 (Mock, Stub 등) 활용법을 알아본다.\n1. Jest 와 ts-mockito 비교\n먼저 기존 Jest 방식이 왜 불편한지 보자.\nJest로 객체 Mock/Stub 하는것에 대한 불편함만 다룬다. \n이외에는 Jest는 장점이 많은 테스트 프레임워크이다.\n테스트할 메인 코드는 다음과 같다.\nexport class OrderService {\n    constructor(\n        private readonly orderRepository: OrderRepository,\n        ) {\n    }\n\n    validateCompletedOr…",
-          "link": "https://jojoldu.tistory.com/638",
-          "publishedOn": "2022-02-21T01:33:06.000Z",
-          "wordCount": 1316,
-          "title": "jest.mock 보다 ts-mockito 사용하기 (feat. Node.js)",
-          "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FyDHv8%2FbtrtKCYT5Rm%2FFrJHxHENdmXT37oOchhOgK%2Fimg.png"
         }
       ]
     }
