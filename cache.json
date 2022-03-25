@@ -11,7 +11,7 @@
           "description": "You may not use XHTML (anymore), but when you write HTML, you may be more influenced by XHTML than you think. You are very likely writing HTML, the XHTML way.\nWhat is the XHTML way of writing HTML, and what …\nWrite HTML, the HTML Way (Not the XHTML Way) originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/write-html-the-html-way-not-the-xhtml-way/",
           "publishedOn": "2022-03-21T20:08:38.000Z",
-          "wordCount": 1490,
+          "wordCount": 2046,
           "title": "Write HTML, the HTML Way (Not the XHTML Way)",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363745"
         },
@@ -21,7 +21,7 @@
           "description": "I recently created a brick wall pattern as part of my #PetitePatterns series, a challenge where I create organic-looking patterns or textures in SVG within 560 bytes (or approximately the size of two tweets). To fit this constraint, I have …\nOptimizing SVG Patterns to Their Smallest Size originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/optimizing-svg-patterns/",
           "publishedOn": "2022-03-18T22:31:22.000Z",
-          "wordCount": 2621,
+          "wordCount": 3022,
           "title": "Optimizing SVG Patterns to Their Smallest Size",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364090"
         },
@@ -31,7 +31,7 @@
           "description": "Hey hey!\nI’ve got a big announcement to make here. (Where’s my gong? I feel like this really needs a good gong hit.)\nCSS-Tricks, this very website you’re looking at, has been acquired by DigitalOcean!\nYou can hear …\nCSS-Tricks is joining DigitalOcean! originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/css-tricks-is-joining-digitalocean/",
           "publishedOn": "2022-03-15T12:18:44.000Z",
-          "wordCount": 5882,
+          "wordCount": 6499,
           "title": "CSS-Tricks is joining DigitalOcean!",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365042"
         },
@@ -168,7 +168,7 @@
           "description": "퇴사의 이유 새로운 직장에 대한 니즈는 한 직장에서 일정기간 업무를 해 왔다면 한 번쯤 생각할 때가 있습니다. 왜 퇴사가 하고 싶을까요? 여러가지 이유가 있지만 각자가 가지고 있는 다양한 가치관에 따라, 또는 지나친 업무량에 따라,...\nThe post 퇴사를 해야겠다고 생각이 들때 appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/resign/",
           "publishedOn": "2022-03-11T17:42:31.000Z",
-          "wordCount": 1580,
+          "wordCount": 1574,
           "title": "퇴사를 해야겠다고 생각이 들때",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2022/03/62ced3bfdda80.jpeg"
         },
@@ -178,7 +178,7 @@
           "description": "DBeaver에서 java heap space 부족이라고 나올때 DB를 관리하는 툴중에 DBeaver라는 툴이 있습니다. 커뮤니티 버전은 프리웨어이기도 하고, 엔터프라이즈 버전은 낮은 가격에도 강력한 부가 기능들이 있어 주로 사용하는 DB툴입니다. DBeaver에서 대용량 테이블을 이관하거나 CSV 파일들의 작업을...\nThe post DBeaver에서 java heap space 부족이라고 나올때 appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/dbeaver%ec%97%90%ec%84%9c-java-heap-space-%eb%b6%80%ec%a1%b1%ec%9d%b4%eb%9d%bc%ea%b3%a0-%eb%82%98%ec%98%ac%eb%95%8c/",
           "publishedOn": "2022-03-01T15:22:02.000Z",
-          "wordCount": 527,
+          "wordCount": 532,
           "title": "DBeaver에서 java heap space 부족이라고 나올때",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2021/04/sm_5b46d890d85b8.jpg"
         }
@@ -190,12 +190,72 @@
       "siteUrl": "https://news.hada.io",
       "articles": [
         {
+          "id": "https://news.hada.io/topic?id=6225",
+          "author": null,
+          "description": "AI 모델을 입력 받아 빠르게 실행하는 최적화 버전을 만들어 줌\n여러개의 딥러닝 컴파일러를 테스트하여 특정 하드웨어에 최적의 방법을 찾아냄\n\n딥러닝 모델 Agnostic : 트랜스포머, LSTM, CNN, FCN 등 딥러닝 모델 상관없음\n하드웨어 Agnostic : 대부분의 CPU와 GPU 지원. 곧 TPU ...",
+          "link": "https://news.hada.io/topic?id=6225",
+          "publishedOn": "2022-03-25T00:41:18.000Z",
+          "wordCount": 131,
+          "title": "Nebullvm - AI Inference(추론)를 5~20배 가속하는 오픈소스 라이브러리",
+          "imageUrl": "https://social.news.hada.io/topic/6225"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6224",
+          "author": null,
+          "description": "프리미엄 구독 서비스\n3개의 기능 공개\n\nNotification : 특정 문서 변경, CSS 기능 런치, API 사용 가능등의 알림 받기\nCollections : 자주 보는 문서들 모아보기. 기기간 동기화\nOffline : PWA로 오프라인 상태에서도 브라우징 지원\n3가지 구독 플랜...",
+          "link": "https://news.hada.io/topic?id=6224",
+          "publishedOn": "2022-03-25T00:29:40.000Z",
+          "wordCount": 136,
+          "title": "모질라 개발자 사이트 MDN Plus 공개",
+          "imageUrl": "https://social.news.hada.io/topic/6224"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6223",
+          "author": null,
+          "description": "텔레메트리, 광고가 없고 개인정보 수집하지 않는 깨끗한 인터페이스\n개인화된 검색 제공\n휴리스틱과 딥러닝을 이용하여 쿼리 의도를 이해하여, 최상의 정보 소스를 선택하고, API로 가져와 결과의 순위를 지정 ( \"검색 클라이언트\" 처럼 동작 )\n\n구글, 빙 같은 기존 검색...",
+          "link": "https://news.hada.io/topic?id=6223",
+          "publishedOn": "2022-03-25T00:17:55.000Z",
+          "wordCount": 190,
+          "title": "Kagi Search - 빠르고 사용자 중심적인 검색 엔진",
+          "imageUrl": "https://social.news.hada.io/topic/6223"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6222",
+          "author": null,
+          "description": "미국 영화 협회의 극장/홈/모바일 엔터테인먼트 시장 보고서 (67p PDF)",
+          "link": "https://news.hada.io/topic?id=6222",
+          "publishedOn": "2022-03-24T04:29:05.000Z",
+          "wordCount": 62,
+          "title": "MPAA 2021 테마 보고서",
+          "imageUrl": "https://social.news.hada.io/topic/6222"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6221",
+          "author": null,
+          "description": "Stripe : 온라인 페이먼트 회사. Climate 프로그램으로 자사 시스템 이용 회사들에게 CO2 제거에 동참하게 권유중 (10개중 1개는 가입)\nSolugen : 옥수수 시럽을 산업용 화학물질로 바꾸는 공정을 개발해서 기름,석탄,천연가스 사용량을 줄이는 회사\nTwelve : 금속촉매와 재생에너지를 이용하...",
+          "link": "https://news.hada.io/topic?id=6221",
+          "publishedOn": "2022-03-24T02:43:26.000Z",
+          "wordCount": 312,
+          "title": "Fastcompany 선정 2022년 가장 혁신적인 회사 50",
+          "imageUrl": "https://social.news.hada.io/topic/6221"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6220",
+          "author": null,
+          "description": "\"A Reasonably Secure OS\"\nXen기반 가상화로 여러개의 운영체제(Qubes)를 동시에 실행하며 완전히 격리시킴\n각 OS가 완전 별도의 머신에 설치된 것처럼 동작\n\n사용자의 액션이 여러 기기에서 움직이는 것 처럼 보이게 만들어서 추",
+          "link": "https://news.hada.io/topic?id=6220",
+          "publishedOn": "2022-03-24T01:39:21.000Z",
+          "wordCount": 168,
+          "title": "Qubes OS - 가장 안전한 운영체제",
+          "imageUrl": "https://social.news.hada.io/topic/6220"
+        },
+        {
           "id": "https://news.hada.io/topic?id=6219",
           "author": null,
           "description": "구글 플레이 스토어에서 다운받은 Spotify 앱에서 스포티파이 자체 결제 또는 구글 결제를 선택 가능\n이를 위해서 구글과 다년간의 계약을 했고, 전세계에서 이를 사용 가능하게 롤아웃 예정\n\n...",
           "link": "https://news.hada.io/topic?id=6219",
           "publishedOn": "2022-03-24T00:48:46.000Z",
-          "wordCount": 134,
+          "wordCount": 141,
           "title": "Spotify와 구글, 결제 방식을 선택할 수 있는 User Choice Billing 발표",
           "imageUrl": "https://social.news.hada.io/topic/6219"
         },
@@ -228,66 +288,6 @@
           "wordCount": 347,
           "title": "2022 AI Index Report",
           "imageUrl": "https://social.news.hada.io/topic/6216"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6215",
-          "author": null,
-          "description": "GTC 2022에서 차세대 Hopper™ 아키텍처 와 그 기반의 H100을 발표.\n대규모 AI와 HPC를 가속하는 6개의 기술 혁신\n\nTSMC 4나노 공정으로 800억개의 트랜지스터를 집적. PCIe Gen5 지원 및 HBM3 메모리를 활용한 최초의 GPU...",
-          "link": "https://news.hada.io/topic?id=6215",
-          "publishedOn": "2022-03-23T03:03:16.000Z",
-          "wordCount": 197,
-          "title": "NVIDIA, Hopper 아키텍처의 H100 GPU 발표",
-          "imageUrl": "https://social.news.hada.io/topic/6215"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6214",
-          "author": null,
-          "description": "클라우드 서버 클래스 수준의 RISC-V 구현체를 목표\nOut of Order, Super Scalar, Speculative\n최대 8 IPC(Instructions per Clock), 목표는 ALU 헤비한 작업에도 평균 ~4 정도\n양방향 동시 멀티스레딩 가능\n멀티코어\n현재 AWS FPGA 인스턴스에서 리눅스 부팅 가...",
-          "link": "https://news.hada.io/topic?id=6214",
-          "publishedOn": "2022-03-23T01:36:22.000Z",
-          "wordCount": 99,
-          "title": "VRoom - 하이엔드 RISC-V 구현체 오픈소스",
-          "imageUrl": "https://social.news.hada.io/topic/6214"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6213",
-          "author": null,
-          "description": "메르세데스의 \"Drive Pilot\" 시스템은 고속도로에서 60km/h(40mph)에서 자율운전을 수행\n테슬라의 AutoPilot, GM의 SuperCruise와 달리 Drive Pilot이 운전중 사고가 나면 메스세데스가 법적인 책임을 진다고\n독일 고속도로에서는 승인이 났고, 미국에서는 2022년 말까지 적용 예정...",
-          "link": "https://news.hada.io/topic?id=6213",
-          "publishedOn": "2022-03-23T01:19:21.000Z",
-          "wordCount": 297,
-          "title": "벤츠, 자율운전중 사고시 법적 책임을 지겠다고 밝혀",
-          "imageUrl": "https://social.news.hada.io/topic/6213"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6212",
-          "author": null,
-          "description": "NVidia의 RTX GPU 코드, 삼성 갤럭시의 소스 코드를 훔쳤던 것에 이어\nMicrosoft의 Bing, Cortana 관련 소스코드를 훔쳐서 토렌트로 릴리즈\nLG전자를 해킹해서 회사 직원 및 서비스 계정에 대한 모든 Hash를 덤프했다고 하면서, 새로 CSIRT(Computer Security Incident Response Team)을 꾸리...",
-          "link": "https://news.hada.io/topic?id=6212",
-          "publishedOn": "2022-03-23T01:04:10.000Z",
-          "wordCount": 103,
-          "title": "Lapsus$, Microsoft의 소스코드와 LG 계정 해쉬 덤프도 훔쳤다고 밝혀",
-          "imageUrl": "https://social.news.hada.io/topic/6212"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6211",
-          "author": null,
-          "description": "Okta는 전세계 15000+개의 고객사를 보유한 세계 최대 SSO 보안 회사\nLapsus$에서 Okta의 사내 Slack,Cloudflare 및 내부 시스템 스크린샷을 텔레그램 채널에 게시\nOkta쪽에선 1/5일 부터 5일간 직원 랩톱 하나에 억세스 한 걸 확인했지만, 권한은 제한적이었다고 밝힘\n다시 Lapsus...",
-          "link": "https://news.hada.io/topic?id=6211",
-          "publishedOn": "2022-03-23T00:42:44.000Z",
-          "wordCount": 159,
-          "title": "Lapsus$ 해킹그룹, Okta를 해킹했다고 주장",
-          "imageUrl": "https://social.news.hada.io/topic/6211"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6210",
-          "author": null,
-          "description": "Asahi Linux Installer로 M1 머신에 UEFI 추가가 가능해졌음\n이 기능을 활용하여 USB에 담은 OpenBSD/Arm64 설치 프로세스 진행 가능\nMac Studio를 제외한 모든 M1 머신에서 동작하며, Asahi Linux와 동일한 기능들 지원\n\n키보드, 터치패드, 이더넷, WiFi, USB, NVMe..\n\n...",
-          "link": "https://news.hada.io/topic?id=6210",
-          "publishedOn": "2022-03-23T00:18:02.000Z",
-          "wordCount": 137,
-          "title": "OpenBSD/Arm64를 애플 M1 에서 동작 성공",
-          "imageUrl": "https://social.news.hada.io/topic/6210"
         }
       ]
     },
@@ -296,6 +296,16 @@
       "feedUrl": "https://jojoldu.tistory.com/rss",
       "siteUrl": "https://jojoldu.tistory.com/",
       "articles": [
+        {
+          "id": "https://jojoldu.tistory.com/657",
+          "author": "향로",
+          "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\nCloudFlare의 정적사이트 플랫폼인 CloudFlare Pages가 출시되었다.\nhttps://pages.cloudflare.com/\n이미 Netlify 와 같이 정적 사이트 플랫폼이 많은데 굳이 CloudFlare를 써야하나? 싶었다. \n(저도 그동안은 Netlify을 썼기 때문에)\n그럼에도 써봐야하는 이유는 Free Plan의 구성이 말도 안되게 좋기 때문이다.\n무제한 사이트 발행\n무제한 요청\n무제한 대역폭\nFree Plan 라고는 믿을수 없을만큼의 좋은 혜택을 제공한다. \n대부분의 정적 사이트가 저정도 혜택은 유료 Plan인걸 고려하면 선택하지 않을 이유가 전혀 없다고 생각했다.\n1. Next.js App 생성\n먼저 간단한 Next.js App을 생성한다.\n여기서 사용된 코드는 모두 Github 에 있다.\nnpx create-next-app react-in-action --use-npm --example \"https://github.com/vercel/next-learn/tree/master/basics/learn-starter\"\nreact-in-action 으로 프로젝트를 생성한다.\n이렇게 생성된 샘플 프로젝트에 아래 2가지 설정을 추가한다.\n1-1. export 추가\n생성된 프로젝트의 package.json 을 열어서 아래와 같이 build 에 next export 를 추가한다\n{\n  \"pri…",
+          "link": "https://jojoldu.tistory.com/657",
+          "publishedOn": "2022-03-25T01:15:44.000Z",
+          "wordCount": 563,
+          "title": "CloudFlare Pages로 Next.js 서비스 배포하기",
+          "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fb2WCr5%2FbtrxeyEg2wj%2Fn5yC3SYMpcEoSgHQCEUcM0%2Fimg.png"
+        },
         {
           "id": "https://jojoldu.tistory.com/656",
           "author": "향로",
@@ -362,7 +372,7 @@
           "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\n최근 팀에서 코드리뷰를 진행하던 중에 promise.all 과 트랜잭션에 대해 오해하고 있는 부분들을 발견하게 되어 정리하게 되었습니다.\nPromise.all (혹은 allSettled)을 사용하면 트랜잭션 내에서도 비동기로 여러 작업들이 동시에 이루어질 수 있다고 오해하는 것인데요. \n실험을 해보면 그게 아니라는 것을 알 수 있습니다.\n실제 코드를 가지고 검증해보겠습니다.\n모든 실험 결과에 대해서 틀린 내용이 있다면 바로 댓글로 지적해주세요! \n모든 지적은 저의 성장에 많은 도움이 되기 때문에 감사한 마음으로 수정하겠습니다 :)\n0. 테스트 환경\n테스트할 환경은 다음과 같습니다.\nNode.js 16.3.1\nPostgreSQL 13.2\n모든 코드는 Github 에 있습니다.\n1. Promise.all\n먼저 promise.all 에 대해서 알아보겠습니다. \n(이미 아시겠지만, 이후 테스트를 설명하기 위한 배경 설명으로 봐주시면 됩니다.)\n테스트를 위해 다음과 같이 2개의 함수를 만들겠습니다.\nexport function sleep(sec) {\n    const start = performance.now();\n    return new Promise(resolve=>{\n        setTimeout(resolve, sec * 1000);\n    }).then(() => {\n        console.log…",
           "link": "https://jojoldu.tistory.com/639",
           "publishedOn": "2022-02-28T14:05:44.000Z",
-          "wordCount": 1415,
+          "wordCount": 1414,
           "title": "Promise.all 과 Transactions (feat. Node.js)",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FziO3a%2FbtruLtSuE7m%2FK95dBn4FuwdIr8xSRM2FIK%2Fimg.png"
         }

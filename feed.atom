@@ -1,10 +1,125 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-24T01:18:46.079Z</id>
+    <id>urn:2022-03-25T01:21:07.030Z</id>
     <title>osmos::feed</title>
-    <updated>2022-03-24T01:18:46.079Z</updated>
+    <updated>2022-03-25T01:21:07.030Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CloudFlare Pages로 Next.js 서비스 배포하기]]></title>
+        <id>https://jojoldu.tistory.com/657</id>
+        <link href="https://jojoldu.tistory.com/657"/>
+        <updated>2022-03-25T01:15:44.000Z</updated>
+        <summary type="html"><![CDATA[반응형
+
+                    
+                    (adsbygoogle = window.adsbygoogle || []).push({}); 
+               
+
+CloudFlare의 정적사이트 플랫폼인 CloudFlare Pages가 출시되었다.
+https://pages.cloudflare.com/
+이미 Netlify 와 같이 정적 사이트 플랫폼이 많은데 굳이 CloudFlare를 써야하나? 싶었다. 
+(저도 그동안은 Netlify을 썼기 때문에)
+그럼에도 써봐야하는 이유는 Free Plan의 구성이 말도 안되게 좋기 때문이다.
+무제한 사이트 발행
+무제한 요청
+무제한 대역폭
+Free Plan 라고는 믿을수 없을만큼의 좋은 혜택을 제공한다. 
+대부분의 정적 사이트가 저정도 혜택은 유료 Plan인걸 고려하면 선택하지 않을 이유가 전혀 없다고 생각했다.
+1. Next.js App 생성
+먼저 간단한 Next.js App을 생성한다.
+여기서 사용된 코드는 모두 Github 에 있다.
+npx create-next-app react-in-action --use-npm --example "https://github.com/vercel/next-learn/tree/master/basics/learn-starter"
+react-in-action 으로 프로젝트를 생성한다.
+이렇게 생성된 샘플 프로젝트에 아래 2가지 설정을 추가한다.
+1-1. export 추가
+생성된 프로젝트의 package.json 을 열어서 아래와 같이 build 에 next export 를 추가한다
+{
+  "pri…]]></summary>
+        <author>
+            <name>향로</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nebullvm - AI Inference(추론)를 5~20배 가속하는 오픈소스 라이브러리]]></title>
+        <id>https://news.hada.io/topic?id=6225</id>
+        <link href="https://news.hada.io/topic?id=6225"/>
+        <updated>2022-03-25T00:41:18.000Z</updated>
+        <summary type="html"><![CDATA[AI 모델을 입력 받아 빠르게 실행하는 최적화 버전을 만들어 줌
+여러개의 딥러닝 컴파일러를 테스트하여 특정 하드웨어에 최적의 방법을 찾아냄
+
+딥러닝 모델 Agnostic : 트랜스포머, LSTM, CNN, FCN 등 딥러닝 모델 상관없음
+하드웨어 Agnostic : 대부분의 CPU와 GPU 지원. 곧 TPU ...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[모질라 개발자 사이트 MDN Plus 공개]]></title>
+        <id>https://news.hada.io/topic?id=6224</id>
+        <link href="https://news.hada.io/topic?id=6224"/>
+        <updated>2022-03-25T00:29:40.000Z</updated>
+        <summary type="html"><![CDATA[프리미엄 구독 서비스
+3개의 기능 공개
+
+Notification : 특정 문서 변경, CSS 기능 런치, API 사용 가능등의 알림 받기
+Collections : 자주 보는 문서들 모아보기. 기기간 동기화
+Offline : PWA로 오프라인 상태에서도 브라우징 지원
+3가지 구독 플랜...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kagi Search - 빠르고 사용자 중심적인 검색 엔진]]></title>
+        <id>https://news.hada.io/topic?id=6223</id>
+        <link href="https://news.hada.io/topic?id=6223"/>
+        <updated>2022-03-25T00:17:55.000Z</updated>
+        <summary type="html"><![CDATA[텔레메트리, 광고가 없고 개인정보 수집하지 않는 깨끗한 인터페이스
+개인화된 검색 제공
+휴리스틱과 딥러닝을 이용하여 쿼리 의도를 이해하여, 최상의 정보 소스를 선택하고, API로 가져와 결과의 순위를 지정 ( "검색 클라이언트" 처럼 동작 )
+
+구글, 빙 같은 기존 검색...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MPAA 2021 테마 보고서]]></title>
+        <id>https://news.hada.io/topic?id=6222</id>
+        <link href="https://news.hada.io/topic?id=6222"/>
+        <updated>2022-03-24T04:29:05.000Z</updated>
+        <summary type="html"><![CDATA[미국 영화 협회의 극장/홈/모바일 엔터테인먼트 시장 보고서 (67p PDF)]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fastcompany 선정 2022년 가장 혁신적인 회사 50]]></title>
+        <id>https://news.hada.io/topic?id=6221</id>
+        <link href="https://news.hada.io/topic?id=6221"/>
+        <updated>2022-03-24T02:43:26.000Z</updated>
+        <summary type="html"><![CDATA[Stripe : 온라인 페이먼트 회사. Climate 프로그램으로 자사 시스템 이용 회사들에게 CO2 제거에 동참하게 권유중 (10개중 1개는 가입)
+Solugen : 옥수수 시럽을 산업용 화학물질로 바꾸는 공정을 개발해서 기름,석탄,천연가스 사용량을 줄이는 회사
+Twelve : 금속촉매와 재생에너지를 이용하...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Qubes OS - 가장 안전한 운영체제]]></title>
+        <id>https://news.hada.io/topic?id=6220</id>
+        <link href="https://news.hada.io/topic?id=6220"/>
+        <updated>2022-03-24T01:39:21.000Z</updated>
+        <summary type="html"><![CDATA["A Reasonably Secure OS"
+Xen기반 가상화로 여러개의 운영체제(Qubes)를 동시에 실행하며 완전히 격리시킴
+각 OS가 완전 별도의 머신에 설치된 것처럼 동작
+
+사용자의 액션이 여러 기기에서 움직이는 것 처럼 보이게 만들어서 추]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Spotify와 구글, 결제 방식을 선택할 수 있는 User Choice Billing 발표]]></title>
         <id>https://news.hada.io/topic?id=6219</id>
@@ -57,87 +172,6 @@ Oracle이 만든 OpenJDK 18 (GPL) 이 공개 되었고, 다른 벤더 빌드들�
 전세계의 AI 데이터를 추적,수집해서 시각화하여 연구자,정책 입안자,언론인,대중들이 AI를 이해하는데 도움이 되도록 구성한 자료
 230p PDF, Raw 데이터도 구글드라이브로 공개
 Top Takeaways
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NVIDIA, Hopper 아키텍처의 H100 GPU 발표]]></title>
-        <id>https://news.hada.io/topic?id=6215</id>
-        <link href="https://news.hada.io/topic?id=6215"/>
-        <updated>2022-03-23T03:03:16.000Z</updated>
-        <summary type="html"><![CDATA[GTC 2022에서 차세대 Hopper™ 아키텍처 와 그 기반의 H100을 발표.
-대규모 AI와 HPC를 가속하는 6개의 기술 혁신
-
-TSMC 4나노 공정으로 800억개의 트랜지스터를 집적. PCIe Gen5 지원 및 HBM3 메모리를 활용한 최초의 GPU...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VRoom - 하이엔드 RISC-V 구현체 오픈소스]]></title>
-        <id>https://news.hada.io/topic?id=6214</id>
-        <link href="https://news.hada.io/topic?id=6214"/>
-        <updated>2022-03-23T01:36:22.000Z</updated>
-        <summary type="html"><![CDATA[클라우드 서버 클래스 수준의 RISC-V 구현체를 목표
-Out of Order, Super Scalar, Speculative
-최대 8 IPC(Instructions per Clock), 목표는 ALU 헤비한 작업에도 평균 ~4 정도
-양방향 동시 멀티스레딩 가능
-멀티코어
-현재 AWS FPGA 인스턴스에서 리눅스 부팅 가...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[벤츠, 자율운전중 사고시 법적 책임을 지겠다고 밝혀]]></title>
-        <id>https://news.hada.io/topic?id=6213</id>
-        <link href="https://news.hada.io/topic?id=6213"/>
-        <updated>2022-03-23T01:19:21.000Z</updated>
-        <summary type="html"><![CDATA[메르세데스의 "Drive Pilot" 시스템은 고속도로에서 60km/h(40mph)에서 자율운전을 수행
-테슬라의 AutoPilot, GM의 SuperCruise와 달리 Drive Pilot이 운전중 사고가 나면 메스세데스가 법적인 책임을 진다고
-독일 고속도로에서는 승인이 났고, 미국에서는 2022년 말까지 적용 예정...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lapsus$, Microsoft의 소스코드와 LG 계정 해쉬 덤프도 훔쳤다고 밝혀]]></title>
-        <id>https://news.hada.io/topic?id=6212</id>
-        <link href="https://news.hada.io/topic?id=6212"/>
-        <updated>2022-03-23T01:04:10.000Z</updated>
-        <summary type="html"><![CDATA[NVidia의 RTX GPU 코드, 삼성 갤럭시의 소스 코드를 훔쳤던 것에 이어
-Microsoft의 Bing, Cortana 관련 소스코드를 훔쳐서 토렌트로 릴리즈
-LG전자를 해킹해서 회사 직원 및 서비스 계정에 대한 모든 Hash를 덤프했다고 하면서, 새로 CSIRT(Computer Security Incident Response Team)을 꾸리...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lapsus$ 해킹그룹, Okta를 해킹했다고 주장]]></title>
-        <id>https://news.hada.io/topic?id=6211</id>
-        <link href="https://news.hada.io/topic?id=6211"/>
-        <updated>2022-03-23T00:42:44.000Z</updated>
-        <summary type="html"><![CDATA[Okta는 전세계 15000+개의 고객사를 보유한 세계 최대 SSO 보안 회사
-Lapsus$에서 Okta의 사내 Slack,Cloudflare 및 내부 시스템 스크린샷을 텔레그램 채널에 게시
-Okta쪽에선 1/5일 부터 5일간 직원 랩톱 하나에 억세스 한 걸 확인했지만, 권한은 제한적이었다고 밝힘
-다시 Lapsus...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenBSD/Arm64를 애플 M1 에서 동작 성공]]></title>
-        <id>https://news.hada.io/topic?id=6210</id>
-        <link href="https://news.hada.io/topic?id=6210"/>
-        <updated>2022-03-23T00:18:02.000Z</updated>
-        <summary type="html"><![CDATA[Asahi Linux Installer로 M1 머신에 UEFI 추가가 가능해졌음
-이 기능을 활용하여 USB에 담은 OpenBSD/Arm64 설치 프로세스 진행 가능
-Mac Studio를 제외한 모든 M1 머신에서 동작하며, Asahi Linux와 동일한 기능들 지원
-
-키보드, 터치패드, 이더넷, WiFi, USB, NVMe..
-
 ...]]></summary>
         <author>
             <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
