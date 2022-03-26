@@ -1,10 +1,107 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-25T01:21:07.030Z</id>
+    <id>urn:2022-03-26T01:15:53.618Z</id>
     <title>osmos::feed</title>
-    <updated>2022-03-25T01:21:07.030Z</updated>
+    <updated>2022-03-26T01:15:53.618Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[AgnosticUI - 하나의 스타일시트로 모든 프레임워크 지원]]></title>
+        <id>https://news.hada.io/topic?id=6231</id>
+        <link href="https://news.hada.io/topic?id=6231"/>
+        <updated>2022-03-26T00:26:02.000Z</updated>
+        <summary type="html"><![CDATA[React, Vue 3, Svelte, Angluar를 모두 지원하는 UI 컴포넌트
+프레임워크간 테마 동기화 : 한번 브랜딩한 컴포넌트를 모든 프로젝트에서 같이 사용
+Decoupled CSS + No Preprocessing
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Librem 5 :  리눅스 스마트폰의 첫 인상]]></title>
+        <id>https://news.hada.io/topic?id=6230</id>
+        <link href="https://news.hada.io/topic?id=6230"/>
+        <updated>2022-03-26T00:05:01.000Z</updated>
+        <summary type="html"><![CDATA[Debian 에서 파생된 PureOS 사용
+모뎀/마이크/WiFi/블루투스 하드웨어 킬스위치 제공
+필자는 이전에 Ubuntu Touch로 운영되는 OnePlus One 을 사용하다가 교체했음
+→ "예상외로 많은 것이 잘 동작하며 기존 폰...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내가 틀렸네요]]></title>
+        <id>https://jojoldu.tistory.com/658</id>
+        <link href="https://jojoldu.tistory.com/658"/>
+        <updated>2022-03-25T14:22:57.000Z</updated>
+        <summary type="html"><![CDATA[반응형
+
+                    
+                    (adsbygoogle = window.adsbygoogle || []).push({}); 
+               
+
+
+팀에 공유한 내용인데 블로그에도 정리한다.
+오늘 주변의 추천으로 희종님의 글을 봤다.
+https://ahnheejong.name/articles/i-was-wrong-test/
+예전에 어느책에서 봤던 내용인데 (제목은 까먹었다 ㅠㅠ) 
+나 스스로 "내가 틀렸네요" 라고 입밖으로 낼 수 있는 용기가 있다면 그사람은 성장하는중이다 라는 이야기를 본적이 있다.
+그래서 그 이후로 
+"제가 잘못알고 있었네요" 
+라고 이야기를 해야하는 순간이 오면 진짜 민망하고, 인정하기 싫었지만, 
+"그래도 이걸 이야기하지 않으면 나는 성장하지 못하겠지? 그게 더 무서운거 아닌가?" 
+라는 생각으로 어떻게든 내뱉었다.
+어떤 일을 하는데 있어 개인이 성장하려면 내가 틀렸음을 인정하고, 이걸 입밖으로 낼 용기를 가지는 것이 필요하다.
+이걸 자주 하지 않으면 더이상 주변의 사람들이 부족한점/잘못한점/틀린점에 대해 이야기하지 않게 된다.
+어차피 얘기해줘도 인정하지 않을것이고, 변하지도 않을텐데 굳이 감정상하고 싶진 않아서 그렇다.
+그렇게 될수록 점점 본인만의 세상에 갇히거나(흔히 말하는 꼰대) 더이상 성장하지 못하는 사람이 된다.
+1년에 몇번이나 내가 틀렸음을 이야기했는지
+가장 최근에 “너 그거 틀렸어” 피드백을 언제 받았는지
+등을 정기적으로 검토해보면 좋다.
+특히 일기 쓰면 정말 좋다.
+마침 왓챠의 채용공고에 적힌 같이 일하고 싶은 동료 이야기가 보인다.
+가장 최근에 "내가 틀렸네요" 라는 말은 언제했는지 찾아봤더니, 
+최근에 내가 가이드한 방향이 너무 예전 지식이라 새 방향을 지적받을때 이야기 했었다. 
+그 동료에게 정말 감사하다.
+희종님의 글 덕분에 다시 한번 "내가 틀렸네요"의 힘을 상기시킬 수 있어서 너무 감사드리고 싶다.
+            
+반응형
+
+                    
+                    (adsbygoogle = window.adsbygoogle || []).push({});]]></summary>
+        <author>
+            <name>향로</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI로 가짜뉴스, 딥페이크, 이를 전파하는 소셜 미디어 봇 판별하는 방식]]></title>
+        <id>https://news.hada.io/topic?id=6229</id>
+        <link href="https://news.hada.io/topic?id=6229"/>
+        <updated>2022-03-25T09:14:00.000Z</updated>
+        <summary type="html"><![CDATA[1.영국 기업 로지컬리
+머신러닝과 자연어 처리 기술, 사람 지능을 결합해 언론 보도 신뢰성을 평가함
+로지컬리 웹 브라우저 확장 프로그램은 10만여 발행처에서 나온 믿을만한 기사와 함께 내용 맥락을 살펴봄
+이어 정보 출처와 기사 신뢰성 등을 평가함
+연구 파트너의 전문]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=6228</id>
+        <link href="https://news.hada.io/topic?id=6228"/>
+        <updated>2022-03-25T02:20:01.000Z</updated>
+        <summary type="html"><![CDATA[이번 주말에 뭘 하려고 계획 중인지 편하게 얘기해 보아요.
+읽을 책, 가볼 곳, 해볼 것.. 어떤 것이든 좋습니다.
+지난 주말에 계획하셨던 일의 회고도 한번 남겨봐 주세요.]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CloudFlare Pages로 Next.js 서비스 배포하기]]></title>
         <id>https://jojoldu.tistory.com/657</id>
@@ -38,6 +135,34 @@ react-in-action 으로 프로젝트를 생성한다.
   "pri…]]></summary>
         <author>
             <name>향로</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Payments가 세상을 먹어치우고 있다]]></title>
+        <id>https://news.hada.io/topic?id=6227</id>
+        <link href="https://news.hada.io/topic?id=6227"/>
+        <updated>2022-03-25T01:13:32.000Z</updated>
+        <summary type="html"><![CDATA[JP Morgan의 29p PDF 보고서
+"2010년에 뉴욕에서 런던으로 돈을 보내는 가장 빠른 방법은 JFK에서 히드로 공항으로 직접 돈을 들고 가는 것이었다"
+POWER+ Framework를 통해 한 꼭지씩 설명
+
+Platforms : 슈퍼앱, 중국 vs. 글로벌
+Online : 이커머스, 디지털 아이...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BoxyHQ - Auth0 / WorkOS 의 오픈소스 대체제]]></title>
+        <id>https://news.hada.io/topic?id=6226</id>
+        <link href="https://news.hada.io/topic?id=6226"/>
+        <updated>2022-03-25T00:58:52.000Z</updated>
+        <summary type="html"><![CDATA[SaaS 스타트업에 필요한 엔터프라이즈 대응 기능을 몇 줄의 코드로 추가 가능
+TypeScript + Go 오픈소스
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
     </entry>
     <entry>
@@ -90,89 +215,6 @@ Offline : PWA로 오프라인 상태에서도 브라우징 지원
         <link href="https://news.hada.io/topic?id=6222"/>
         <updated>2022-03-24T04:29:05.000Z</updated>
         <summary type="html"><![CDATA[미국 영화 협회의 극장/홈/모바일 엔터테인먼트 시장 보고서 (67p PDF)]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fastcompany 선정 2022년 가장 혁신적인 회사 50]]></title>
-        <id>https://news.hada.io/topic?id=6221</id>
-        <link href="https://news.hada.io/topic?id=6221"/>
-        <updated>2022-03-24T02:43:26.000Z</updated>
-        <summary type="html"><![CDATA[Stripe : 온라인 페이먼트 회사. Climate 프로그램으로 자사 시스템 이용 회사들에게 CO2 제거에 동참하게 권유중 (10개중 1개는 가입)
-Solugen : 옥수수 시럽을 산업용 화학물질로 바꾸는 공정을 개발해서 기름,석탄,천연가스 사용량을 줄이는 회사
-Twelve : 금속촉매와 재생에너지를 이용하...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Qubes OS - 가장 안전한 운영체제]]></title>
-        <id>https://news.hada.io/topic?id=6220</id>
-        <link href="https://news.hada.io/topic?id=6220"/>
-        <updated>2022-03-24T01:39:21.000Z</updated>
-        <summary type="html"><![CDATA["A Reasonably Secure OS"
-Xen기반 가상화로 여러개의 운영체제(Qubes)를 동시에 실행하며 완전히 격리시킴
-각 OS가 완전 별도의 머신에 설치된 것처럼 동작
-
-사용자의 액션이 여러 기기에서 움직이는 것 처럼 보이게 만들어서 추]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spotify와 구글, 결제 방식을 선택할 수 있는 User Choice Billing 발표]]></title>
-        <id>https://news.hada.io/topic?id=6219</id>
-        <link href="https://news.hada.io/topic?id=6219"/>
-        <updated>2022-03-24T00:48:46.000Z</updated>
-        <summary type="html"><![CDATA[구글 플레이 스토어에서 다운받은 Spotify 앱에서 스포티파이 자체 결제 또는 구글 결제를 선택 가능
-이를 위해서 구글과 다년간의 계약을 했고, 전세계에서 이를 사용 가능하게 롤아웃 예정
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mitmproxy 8 릴리즈]]></title>
-        <id>https://news.hada.io/topic?id=6218</id>
-        <link href="https://news.hada.io/topic?id=6218"/>
-        <updated>2022-03-24T00:36:57.000Z</updated>
-        <summary type="html"><![CDATA[HTTP 1/2, 웹소켓, SSL/TLS 등의 웹 트래픽을 인터셉트, 수정, 리플레이 하기 위한 오픈소스 인터랙티브 HTTPS Proxy
-CLI + Web UI + Python API 제공 및 강력한 에코 시스템
-8.0 개선사항
-
-Web UI 개선 : TCP / WebSocket 플로우 렌더링, cURL/HTTPie/Raw HTTP Export 지원]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Java 18 / JDK 18 : General Availability]]></title>
-        <id>https://news.hada.io/topic?id=6217</id>
-        <link href="https://news.hada.io/topic?id=6217"/>
-        <updated>2022-03-24T00:20:39.000Z</updated>
-        <summary type="html"><![CDATA[Java 18의 레퍼런스 구현체 JDK 18이 GA
-프로덕션 사용 가능
-Oracle이 만든 OpenJDK 18 (GPL) 이 공개 되었고, 다른 벤더 빌드들도 곧 공개 될 것
-9개의 JEP 포함
-400: UTF-8 by Default
-408: Simple Web Server
-413: Code Snippets in Java API Documentation...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 AI Index Report]]></title>
-        <id>https://news.hada.io/topic?id=6216</id>
-        <link href="https://news.hada.io/topic?id=6216"/>
-        <updated>2022-03-24T00:05:47.000Z</updated>
-        <summary type="html"><![CDATA[스탠포드 인간 중심 인공지능 연구소(HAI)가 발행하는 AI 지수 보고서
-전세계의 AI 데이터를 추적,수집해서 시각화하여 연구자,정책 입안자,언론인,대중들이 AI를 이해하는데 도움이 되도록 구성한 자료
-230p PDF, Raw 데이터도 구글드라이브로 공개
-Top Takeaways
-...]]></summary>
         <author>
             <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>

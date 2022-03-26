@@ -11,7 +11,7 @@
           "description": "You may not use XHTML (anymore), but when you write HTML, you may be more influenced by XHTML than you think. You are very likely writing HTML, the XHTML way.\nWhat is the XHTML way of writing HTML, and what …\nWrite HTML, the HTML Way (Not the XHTML Way) originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/write-html-the-html-way-not-the-xhtml-way/",
           "publishedOn": "2022-03-21T20:08:38.000Z",
-          "wordCount": 2046,
+          "wordCount": 2495,
           "title": "Write HTML, the HTML Way (Not the XHTML Way)",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363745"
         },
@@ -190,6 +190,66 @@
       "siteUrl": "https://news.hada.io",
       "articles": [
         {
+          "id": "https://news.hada.io/topic?id=6231",
+          "author": null,
+          "description": "React, Vue 3, Svelte, Angluar를 모두 지원하는 UI 컴포넌트\n프레임워크간 테마 동기화 : 한번 브랜딩한 컴포넌트를 모든 프로젝트에서 같이 사용\nDecoupled CSS + No Preprocessing\n\n...",
+          "link": "https://news.hada.io/topic?id=6231",
+          "publishedOn": "2022-03-26T00:26:02.000Z",
+          "wordCount": 84,
+          "title": "AgnosticUI - 하나의 스타일시트로 모든 프레임워크 지원",
+          "imageUrl": "https://social.news.hada.io/topic/6231"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6230",
+          "author": null,
+          "description": "Debian 에서 파생된 PureOS 사용\n모뎀/마이크/WiFi/블루투스 하드웨어 킬스위치 제공\n필자는 이전에 Ubuntu Touch로 운영되는 OnePlus One 을 사용하다가 교체했음\n→ \"예상외로 많은 것이 잘 동작하며 기존 폰...",
+          "link": "https://news.hada.io/topic?id=6230",
+          "publishedOn": "2022-03-26T00:05:01.000Z",
+          "wordCount": 118,
+          "title": "Librem 5 :  리눅스 스마트폰의 첫 인상",
+          "imageUrl": "https://social.news.hada.io/topic/6230"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6229",
+          "author": null,
+          "description": "1.영국 기업 로지컬리\n머신러닝과 자연어 처리 기술, 사람 지능을 결합해 언론 보도 신뢰성을 평가함\n로지컬리 웹 브라우저 확장 프로그램은 10만여 발행처에서 나온 믿을만한 기사와 함께 내용 맥락을 살펴봄\n이어 정보 출처와 기사 신뢰성 등을 평가함\n연구 파트너의 전문",
+          "link": "https://news.hada.io/topic?id=6229",
+          "publishedOn": "2022-03-25T09:14:00.000Z",
+          "wordCount": 331,
+          "title": "AI로 가짜뉴스, 딥페이크, 이를 전파하는 소셜 미디어 봇 판별하는 방식",
+          "imageUrl": "https://social.news.hada.io/topic/6229"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6228",
+          "author": null,
+          "description": "이번 주말에 뭘 하려고 계획 중인지 편하게 얘기해 보아요.\n읽을 책, 가볼 곳, 해볼 것.. 어떤 것이든 좋습니다.\n지난 주말에 계획하셨던 일의 회고도 한번 남겨봐 주세요.",
+          "link": "https://news.hada.io/topic?id=6228",
+          "publishedOn": "2022-03-25T02:20:01.000Z",
+          "wordCount": 288,
+          "title": "Ask GN: 이번 주말에 뭐 하시나요?",
+          "imageUrl": "https://social.news.hada.io/topic/6228"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6227",
+          "author": null,
+          "description": "JP Morgan의 29p PDF 보고서\n\"2010년에 뉴욕에서 런던으로 돈을 보내는 가장 빠른 방법은 JFK에서 히드로 공항으로 직접 돈을 들고 가는 것이었다\"\nPOWER+ Framework를 통해 한 꼭지씩 설명\n\nPlatforms : 슈퍼앱, 중국 vs. 글로벌\nOnline : 이커머스, 디지털 아이...",
+          "link": "https://news.hada.io/topic?id=6227",
+          "publishedOn": "2022-03-25T01:13:32.000Z",
+          "wordCount": 177,
+          "title": "Payments가 세상을 먹어치우고 있다",
+          "imageUrl": "https://social.news.hada.io/topic/6227"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6226",
+          "author": null,
+          "description": "SaaS 스타트업에 필요한 엔터프라이즈 대응 기능을 몇 줄의 코드로 추가 가능\nTypeScript + Go 오픈소스\n\n...",
+          "link": "https://news.hada.io/topic?id=6226",
+          "publishedOn": "2022-03-25T00:58:52.000Z",
+          "wordCount": 136,
+          "title": "BoxyHQ - Auth0 / WorkOS 의 오픈소스 대체제",
+          "imageUrl": "https://social.news.hada.io/topic/6226"
+        },
+        {
           "id": "https://news.hada.io/topic?id=6225",
           "author": null,
           "description": "AI 모델을 입력 받아 빠르게 실행하는 최적화 버전을 만들어 줌\n여러개의 딥러닝 컴파일러를 테스트하여 특정 하드웨어에 최적의 방법을 찾아냄\n\n딥러닝 모델 Agnostic : 트랜스포머, LSTM, CNN, FCN 등 딥러닝 모델 상관없음\n하드웨어 Agnostic : 대부분의 CPU와 GPU 지원. 곧 TPU ...",
@@ -215,7 +275,7 @@
           "description": "텔레메트리, 광고가 없고 개인정보 수집하지 않는 깨끗한 인터페이스\n개인화된 검색 제공\n휴리스틱과 딥러닝을 이용하여 쿼리 의도를 이해하여, 최상의 정보 소스를 선택하고, API로 가져와 결과의 순위를 지정 ( \"검색 클라이언트\" 처럼 동작 )\n\n구글, 빙 같은 기존 검색...",
           "link": "https://news.hada.io/topic?id=6223",
           "publishedOn": "2022-03-25T00:17:55.000Z",
-          "wordCount": 190,
+          "wordCount": 210,
           "title": "Kagi Search - 빠르고 사용자 중심적인 검색 엔진",
           "imageUrl": "https://social.news.hada.io/topic/6223"
         },
@@ -228,66 +288,6 @@
           "wordCount": 62,
           "title": "MPAA 2021 테마 보고서",
           "imageUrl": "https://social.news.hada.io/topic/6222"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6221",
-          "author": null,
-          "description": "Stripe : 온라인 페이먼트 회사. Climate 프로그램으로 자사 시스템 이용 회사들에게 CO2 제거에 동참하게 권유중 (10개중 1개는 가입)\nSolugen : 옥수수 시럽을 산업용 화학물질로 바꾸는 공정을 개발해서 기름,석탄,천연가스 사용량을 줄이는 회사\nTwelve : 금속촉매와 재생에너지를 이용하...",
-          "link": "https://news.hada.io/topic?id=6221",
-          "publishedOn": "2022-03-24T02:43:26.000Z",
-          "wordCount": 312,
-          "title": "Fastcompany 선정 2022년 가장 혁신적인 회사 50",
-          "imageUrl": "https://social.news.hada.io/topic/6221"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6220",
-          "author": null,
-          "description": "\"A Reasonably Secure OS\"\nXen기반 가상화로 여러개의 운영체제(Qubes)를 동시에 실행하며 완전히 격리시킴\n각 OS가 완전 별도의 머신에 설치된 것처럼 동작\n\n사용자의 액션이 여러 기기에서 움직이는 것 처럼 보이게 만들어서 추",
-          "link": "https://news.hada.io/topic?id=6220",
-          "publishedOn": "2022-03-24T01:39:21.000Z",
-          "wordCount": 168,
-          "title": "Qubes OS - 가장 안전한 운영체제",
-          "imageUrl": "https://social.news.hada.io/topic/6220"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6219",
-          "author": null,
-          "description": "구글 플레이 스토어에서 다운받은 Spotify 앱에서 스포티파이 자체 결제 또는 구글 결제를 선택 가능\n이를 위해서 구글과 다년간의 계약을 했고, 전세계에서 이를 사용 가능하게 롤아웃 예정\n\n...",
-          "link": "https://news.hada.io/topic?id=6219",
-          "publishedOn": "2022-03-24T00:48:46.000Z",
-          "wordCount": 141,
-          "title": "Spotify와 구글, 결제 방식을 선택할 수 있는 User Choice Billing 발표",
-          "imageUrl": "https://social.news.hada.io/topic/6219"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6218",
-          "author": null,
-          "description": "HTTP 1/2, 웹소켓, SSL/TLS 등의 웹 트래픽을 인터셉트, 수정, 리플레이 하기 위한 오픈소스 인터랙티브 HTTPS Proxy\nCLI + Web UI + Python API 제공 및 강력한 에코 시스템\n8.0 개선사항\n\nWeb UI 개선 : TCP / WebSocket 플로우 렌더링, cURL/HTTPie/Raw HTTP Export 지원",
-          "link": "https://news.hada.io/topic?id=6218",
-          "publishedOn": "2022-03-24T00:36:57.000Z",
-          "wordCount": 110,
-          "title": "Mitmproxy 8 릴리즈",
-          "imageUrl": "https://social.news.hada.io/topic/6218"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6217",
-          "author": null,
-          "description": "Java 18의 레퍼런스 구현체 JDK 18이 GA\n프로덕션 사용 가능\nOracle이 만든 OpenJDK 18 (GPL) 이 공개 되었고, 다른 벤더 빌드들도 곧 공개 될 것\n9개의 JEP 포함\n400: UTF-8 by Default\n408: Simple Web Server\n413: Code Snippets in Java API Documentation...",
-          "link": "https://news.hada.io/topic?id=6217",
-          "publishedOn": "2022-03-24T00:20:39.000Z",
-          "wordCount": 163,
-          "title": "Java 18 / JDK 18 : General Availability",
-          "imageUrl": "https://social.news.hada.io/topic/6217"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6216",
-          "author": null,
-          "description": "스탠포드 인간 중심 인공지능 연구소(HAI)가 발행하는 AI 지수 보고서\n전세계의 AI 데이터를 추적,수집해서 시각화하여 연구자,정책 입안자,언론인,대중들이 AI를 이해하는데 도움이 되도록 구성한 자료\n230p PDF, Raw 데이터도 구글드라이브로 공개\nTop Takeaways\n...",
-          "link": "https://news.hada.io/topic?id=6216",
-          "publishedOn": "2022-03-24T00:05:47.000Z",
-          "wordCount": 347,
-          "title": "2022 AI Index Report",
-          "imageUrl": "https://social.news.hada.io/topic/6216"
         }
       ]
     },
@@ -297,12 +297,22 @@
       "siteUrl": "https://jojoldu.tistory.com/",
       "articles": [
         {
+          "id": "https://jojoldu.tistory.com/658",
+          "author": "향로",
+          "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\n\n팀에 공유한 내용인데 블로그에도 정리한다.\n오늘 주변의 추천으로 희종님의 글을 봤다.\nhttps://ahnheejong.name/articles/i-was-wrong-test/\n예전에 어느책에서 봤던 내용인데 (제목은 까먹었다 ㅠㅠ) \n나 스스로 \"내가 틀렸네요\" 라고 입밖으로 낼 수 있는 용기가 있다면 그사람은 성장하는중이다 라는 이야기를 본적이 있다.\n그래서 그 이후로 \n\"제가 잘못알고 있었네요\" \n라고 이야기를 해야하는 순간이 오면 진짜 민망하고, 인정하기 싫었지만, \n\"그래도 이걸 이야기하지 않으면 나는 성장하지 못하겠지? 그게 더 무서운거 아닌가?\" \n라는 생각으로 어떻게든 내뱉었다.\n어떤 일을 하는데 있어 개인이 성장하려면 내가 틀렸음을 인정하고, 이걸 입밖으로 낼 용기를 가지는 것이 필요하다.\n이걸 자주 하지 않으면 더이상 주변의 사람들이 부족한점/잘못한점/틀린점에 대해 이야기하지 않게 된다.\n어차피 얘기해줘도 인정하지 않을것이고, 변하지도 않을텐데 굳이 감정상하고 싶진 않아서 그렇다.\n그렇게 될수록 점점 본인만의 세상에 갇히거나(흔히 말하는 꼰대) 더이상 성장하지 못하는 사람이 된다.\n1년에 몇번이나 내가 틀렸음을 이야기했는지\n가장 최근에 “너 그거 틀렸어” 피드백을 언제 받았는지\n등을 정기적으로 검토해보면 좋다.\n특히 일기 쓰면 정말 좋다.\n마침 왓챠의 채용공고에 적힌 같이 일하고 싶은 동료 이야기가 보인다.\n가장 최근에 \"내가 틀렸네요\" 라는 말은 언제했는지 찾아봤더니, \n최근에 내가 가이드한 방향이 너무 예전 지식이라 새 방향을 지적받을때 이야기 했었다. \n그 동료에게 정말 감사하다.\n희종님의 글 덕분에 다시 한번 \"내가 틀렸네요\"의 힘을 상기시킬 수 있어서 너무 감사드리고 싶다.\n            \n반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({});",
+          "link": "https://jojoldu.tistory.com/658",
+          "publishedOn": "2022-03-25T14:22:57.000Z",
+          "wordCount": 331,
+          "title": "내가 틀렸네요",
+          "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FDO8kj%2Fbtrxh9ej1vi%2FIAB0ctbCycN6aUlpYzo1q0%2Fimg.jpg"
+        },
+        {
           "id": "https://jojoldu.tistory.com/657",
           "author": "향로",
           "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\nCloudFlare의 정적사이트 플랫폼인 CloudFlare Pages가 출시되었다.\nhttps://pages.cloudflare.com/\n이미 Netlify 와 같이 정적 사이트 플랫폼이 많은데 굳이 CloudFlare를 써야하나? 싶었다. \n(저도 그동안은 Netlify을 썼기 때문에)\n그럼에도 써봐야하는 이유는 Free Plan의 구성이 말도 안되게 좋기 때문이다.\n무제한 사이트 발행\n무제한 요청\n무제한 대역폭\nFree Plan 라고는 믿을수 없을만큼의 좋은 혜택을 제공한다. \n대부분의 정적 사이트가 저정도 혜택은 유료 Plan인걸 고려하면 선택하지 않을 이유가 전혀 없다고 생각했다.\n1. Next.js App 생성\n먼저 간단한 Next.js App을 생성한다.\n여기서 사용된 코드는 모두 Github 에 있다.\nnpx create-next-app react-in-action --use-npm --example \"https://github.com/vercel/next-learn/tree/master/basics/learn-starter\"\nreact-in-action 으로 프로젝트를 생성한다.\n이렇게 생성된 샘플 프로젝트에 아래 2가지 설정을 추가한다.\n1-1. export 추가\n생성된 프로젝트의 package.json 을 열어서 아래와 같이 build 에 next export 를 추가한다\n{\n  \"pri…",
           "link": "https://jojoldu.tistory.com/657",
           "publishedOn": "2022-03-25T01:15:44.000Z",
-          "wordCount": 563,
+          "wordCount": 562,
           "title": "CloudFlare Pages로 Next.js 서비스 배포하기",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fb2WCr5%2FbtrxeyEg2wj%2Fn5yC3SYMpcEoSgHQCEUcM0%2Fimg.png"
         },
@@ -312,7 +322,7 @@
           "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\nJest를 통한 테스트를 작성하다보면 Exception에 대한 검증을 작성해야할 때가 있다. \n이럴때 보통 2가지 방법 중 하나를 선택한다.\ntry ~ catch\nexpect.rejects.toThrowError\n실제 코드로는 다음과 같다.\n// try ~ catch\nit(\"[try/catch] 주문금액이 -이면 BadParameter Exception 을 던진다.\", async () => {\n    try {\n        await acceptOrder({amount: -1000});\n    } catch (e) {\n        expect(e).toBeInstanceOf(BadParameterException);\n        expect(e.message).toBe('승인 요청 주문의 금액은 -가 될 수 없습니다');\n    }\n});\n\n// expect\nit(\"[expect] 주문금액이 -이면 BadParameter Exception 을 던진다.\", async () => {\n    await expect(async () => {\n        await acceptOrder({amount: -1000});\n    }).rejects.toThrowError(new BadParameterException('승인 요청 주문의 금액은 -가 될 수 없습니다'));\n});\n이 중에서 개인적으로는 expect…",
           "link": "https://jojoldu.tistory.com/656",
           "publishedOn": "2022-03-18T01:52:12.000Z",
-          "wordCount": 630,
+          "wordCount": 629,
           "title": "Jest로 Error 검증시 catch 보다는 expect",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fbxy32e%2Fbtrwezr0HQ4%2FWkd4JA72UcmDWGXvPoKggK%2Fimg.png"
         },
@@ -322,7 +332,7 @@
           "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\nESLint 8.0 이상 버전을 사용할 경우 기존에 사용중인 WebStorm, IntelliJ 등에서 다음과 같이 에러가 발생하곤합니다.\nTypeError: this.cliEngineCtor is not a constructor\n\n아래 로그를 보시면 this.cliEngineCtor is not a constructor 내용을 볼 수 있는데요.\nTypeError: this.cliEngineCtor is not a constructor\n    at ESLintPlugin.invokeESLint (/Users/seojeong-kuk/Library/Application Support/JetBrains/Toolbox/apps/WebStorm/ch-0/211.7628.25/WebStorm.app/Contents/plugins/JavaScriptLanguage/languageService/eslint/bin/eslint-plugin.js:103:25)\n    at ESLintPlugin.getErrors (/Users/seojeong-kuk/Library/Application Support/JetBrains/Toolbox/apps/WebStorm/ch-0/211.7628.25/WebStorm.app/Contents/plugins/JavaScriptLanguage/languageService/eslint/bin/eslint-plugin.js:82:21)\n    at ESLintPlugin.onMessage (/Users/seojeong-kuk/Library/Application Support/JetBrains/Toolbox/apps/WebStorm/ch-0/211.7628.25/WebStorm.app/Contents/plugins/JavaScriptLanguage/languageService/eslint/bin/eslint-plugin.js:56:64)\n    at Interface.<anonymous> (/Users/seojeong-kuk/Library/Application Support/JetBrains/Toolbox/apps/WebStorm/ch-0/211.7628.25/WebStorm.app/Contents/plugins/JavaScriptLanguage/jsLanguageServicesImpl/js-language-service.js:105:39)\n    at Interface.emit (node:events:390:28)\n    at Interface._onLine (node:readline:487:10)\n    at Interface._normalWrite (node:readline:661:12)\n    at Socket.ondata (node:readline:269:10)\n    at Socket.emit (node:events:390:28)\n    at addChunk (node:internal/streams/readable:315:12)\nProcess finished with exit code -1\n이는 ESLint 가 버전업이 됨에 따라 기존 클래스가 삭제되었기 때문인데요.\nthe-cliengine-class-has-been-removed\n그래서 아래와 같이 2021.2.2 보다 낮은 버전에서는 ESLint 8.0 이상의 버전을 사용할 수가 없습니다.\n이를 해결 하기 위해서는 2021.2.2 이상의 IDE를 사용하시면 됩니다. \n이미 정식 버전이 2021.3.2 까지 나왔기 때문에 여전히 2021.1 버전을 사용하신다면 얼른 업데이트 하시는 것을 추천드립니다.\n참고\nESLint 8.0 support\n            \n반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({});",
           "link": "https://jojoldu.tistory.com/655",
           "publishedOn": "2022-03-13T09:10:35.000Z",
-          "wordCount": 313,
+          "wordCount": 312,
           "title": "WebStorm (IntelliJ IDEA) 에서 this.cliEngineCtor is not a constructor 이슈 발생시 (feat. ESLint 8.0)",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FehOtaJ%2FbtrvJ0XxaxA%2FEQkRIW04ay0O5lLSky8sZK%2Fimg.png"
         },
@@ -332,7 +342,7 @@
           "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\n여러 포스팅에서 언급한것처럼 테스트 코드는 빠르게 실패를 파악할 수 있어야 한다.\n그런면에서 Optional chaining(?.) 은 테스트코드에 적합하지 않다.\nMDN의 설명을 가져오면 Optional chaining(?.)은 체이닝 연산자(.) 와 유사하게 작동하지만, 만약 참조가 nullish (null 또는 undefined)이라면, 에러가 발생하는 것 대신에 표현식의 리턴 값을 undefined로 반환한다.\n따라서 참조가 누락될 가능성이 있는 경우 연결된 속성으로 접근할 때 더 짧고 간단한 표현식이 생성된다. \n어떤 속성이 필요한지에 대한 보증이 확실하지 않는 경우 객체의 내용을 탐색하는 동안 도움이 될 수 있다.\n안정적으로 객체 탐색이 가능하기 때문에 프로덕션 코드에서는 적극적으로 사용하는 편이다. \n하지만 테스트 코드에서는 안정적인 점이 오히려 단점이 된다.\n문제\n이를 테면 다음과 같이 sut 의 하위에 있는 pay.amount 를 검증한다고 하자. \n이때 Optional chaining(?.) 을 사용한다면 다음과 같다.\nit('?가 있는 경우 #1', () => {\n    const amount = 0;\n    const sut = createOrder(amount);\n\n    expect(sut?.pay?.amount).toBe(amount);\n});\n\nclass Order {\n    p…",
           "link": "https://jojoldu.tistory.com/643",
           "publishedOn": "2022-03-08T00:26:46.000Z",
-          "wordCount": 507,
+          "wordCount": 506,
           "title": "테스트코드에서 Optional chaining(?.) 쓰지않기",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FzIsO7%2FbtrvtcvF3Zi%2FkghW6ofDOgXOiKJsfHYGLK%2Fimg.png"
         },
@@ -342,7 +352,7 @@
           "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\n테스트 코드는 프로젝트의 생명 주기 보다 길때가 많다. \n기존의 요구사항을 정리한것이 테스트 코드이기 때문에, 메인 코드보다 훨씬 더 읽기쉬워야만 한다.\n만약 테스트 코드가 복잡한 경우 어떻게 작동하는지 이해하기가 어렵다. \n그래서 테스트 코드는 주석이 필요 없을 정도로 간단해야 한다.\n그런면에서 조건부 (if ~ else) 테스트 로직은 테스트를 실제보다 더 복잡하게 만드는 요인 중 하나다.\n이번 글에서는 조건부 로직을 테스트에서 사용한 경우에 어떻게 개선할 수 있을지 알아본다.\n1. 가변 결과를 검증하는 경우\n1-1. 문제\n첫번째 문제는 다음과 같이 테스트 실행때마다 결과가 달라지는 경우이다.\nit('[Bad] 가변결과 검증', () => {\n    const now = LocalDateTime.now();\n    const sut = new TimeDisplay();\n    const result = sut.display(now);\n\n    let actual;\n    if(now.hour() === 0 && now.minute() === 0) {\n        actual = 'Midnight';\n    } else if (now.hour() === 12 && now.minute() === 0) {\n        actual = 'Noon';\n    } else {\n        actual = no…",
           "link": "https://jojoldu.tistory.com/642",
           "publishedOn": "2022-03-07T03:35:43.000Z",
-          "wordCount": 1074,
+          "wordCount": 1073,
           "title": "조건부 (if~else) 로직 테스트코드에서 사용하지 않기",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fcxmuyf%2Fbtrvne8iDrE%2FKAaA0pw9W0LAHjVj3iniTk%2Fimg.png"
         },
@@ -352,7 +362,7 @@
           "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\nGithub 에는 앞으로 출시할 기능 (Beta) 을 미리 써볼 수 있는 옵션이 있습니다. \n특히 최근에 Pull Request시 파일 트리를 볼 수 있는 기능이 베타 출시되었는데요. \n코드리뷰시에 굉장히 큰 도움을 주기 때문에 바로 적용해서 써보시는 것을 추천드립니다.\n이 포스팅은 2022.03.05에 작성된 것이기 때문에, 소개되는 베타기능들은 이후에 대부분 정식 출시된 상태일 것입니다.\n설정\nGithub 우측 상단의 프로필 아이콘을 클릭하신뒤, Feature preview를 선택합니다.\n그럼 아래와 같이 Modal이 나오는데, 이때 원하시는 베타 기능들을 선택하시고 Enable 을 누르시면 됩니다. \n(Enable을 클릭하면 아래와 같이 Disable로 버튼이 변경됩니다.)\n저는 여기서 Command Palette 와 Pull Request File Tree를 사용하도록 선택했습니다.\n설정하신 후에 새로고침을 해보시면 다음과 같이 Pull Request 화면의 좌측 사이드바에 검색창과 파일/디렉토리가 생긴 것을 볼 수 있습니다.\n해당 검색창에서 파일명으로 검색도 가능하며, 파일 클릭시 코드리뷰 화면에서도 바로 해당 파일로 이동이 됩니다.\nCommand Palette도 적용되어 Command + k (맥 기준) 다음과 같이 Github 웹 사이트에서 커맨드로 여러 액션을 수행할 수 있습니다.\n마무리\n기존에 Octotree 를 통해서 코드리뷰시 디렉토리와 파일을 보던 입장에서는 아주 환영할만한 기능이 추가되었습니다. \nGithub에서 이야기하는 여러 기능들을 미리 볼 수 있는 Feature preview 를 자주 보시면서 신규 기능이 나올때마다 사용해보시면 훨씬 재밌는 Github 경험을 해볼 수 있을것 같습니다.\n            \n반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({});",
           "link": "https://jojoldu.tistory.com/641",
           "publishedOn": "2022-03-05T11:19:36.000Z",
-          "wordCount": 354,
+          "wordCount": 353,
           "title": "Github 기능 미리 써보기 (Code Review시 디렉토리 미리보기)",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fb8p70Y%2Fbtru7rhAEhd%2FbF4p5PK6KGMUDQvE5fDK9k%2Fimg.png"
         },
@@ -362,7 +372,7 @@
           "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\n랠릿 서비스 를 오픈하고 참여자들의 개인 소감을 다들 작성하는 시간을 가졌다. \n실제 프로젝트의 프로세스 방식, QA 방식등을 전체적인 회고는 내일 (2022.03.02) 진행할 예정인데, 그 전에 각자 어땠는지 소감을 작성하는 시간을 2월에 가졌다.\n이번 글은 사내에 공유한 소감글을 블로그로 옮겼다.\n루비콘 프로젝트에서 진행한 프로젝트 방식 / 백엔드 프로젝트 방식 등은 TF 회고가 끝나고 올라갈 예정이다. \n이건 프로젝트에 참여한 개인적인 짧은 생각들만 정리했다.\n프로젝트 구성원들의 전체 소감은 3월안에 링크로 공유될 예정이다.\n일정\n프로젝트는 7월에 시작되어, 1월 27일에 정식 오픈하였다. \n중간 투입된 분들은 잘 모르실 수 있지만, 초기에 대표님과 PO 1분이 같이 사용자 스토리 잡는 것이 7월부터였다.\n7 ~ 8월: 사용자스토리, 와이어프레임\n9월: 디자인 구체화 / 도메인 & 개발환경 설계\n10월 ~ 12월: 개발\n12월 ~ 1월: QA 및 남은 기능 구현\n공식적으로는 약 7개월간 진행된 것이다.\n다만, 본격적으로 개발은 9월부터 진행되어 3개월간 개발하여 12월부터 QA를 하게 됐다.\n(9월 2일, 3일에 시작된 첫커밋)\n개발 기간만 보면 짧았지만, 전체 일정을 보면 결코 짧은 일정은 아니였다. \n7개월이란 시간이 빡빡하게 느껴진 것은 이 기간 안에서 비효율적으로 낭비되는 시간이 많았기 때문이…",
           "link": "https://jojoldu.tistory.com/640",
           "publishedOn": "2022-03-01T13:51:53.000Z",
-          "wordCount": 1406,
+          "wordCount": 1401,
           "title": "루비콘 프로젝트 (랠릿 오픈 프로젝트) 소감",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbdAIbH%2FbtruITrAVSl%2FSH5wfXmM2yaUadAK9kuS90%2Fimg.png"
         },
@@ -372,7 +382,7 @@
           "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\n최근 팀에서 코드리뷰를 진행하던 중에 promise.all 과 트랜잭션에 대해 오해하고 있는 부분들을 발견하게 되어 정리하게 되었습니다.\nPromise.all (혹은 allSettled)을 사용하면 트랜잭션 내에서도 비동기로 여러 작업들이 동시에 이루어질 수 있다고 오해하는 것인데요. \n실험을 해보면 그게 아니라는 것을 알 수 있습니다.\n실제 코드를 가지고 검증해보겠습니다.\n모든 실험 결과에 대해서 틀린 내용이 있다면 바로 댓글로 지적해주세요! \n모든 지적은 저의 성장에 많은 도움이 되기 때문에 감사한 마음으로 수정하겠습니다 :)\n0. 테스트 환경\n테스트할 환경은 다음과 같습니다.\nNode.js 16.3.1\nPostgreSQL 13.2\n모든 코드는 Github 에 있습니다.\n1. Promise.all\n먼저 promise.all 에 대해서 알아보겠습니다. \n(이미 아시겠지만, 이후 테스트를 설명하기 위한 배경 설명으로 봐주시면 됩니다.)\n테스트를 위해 다음과 같이 2개의 함수를 만들겠습니다.\nexport function sleep(sec) {\n    const start = performance.now();\n    return new Promise(resolve=>{\n        setTimeout(resolve, sec * 1000);\n    }).then(() => {\n        console.log…",
           "link": "https://jojoldu.tistory.com/639",
           "publishedOn": "2022-02-28T14:05:44.000Z",
-          "wordCount": 1414,
+          "wordCount": 1412,
           "title": "Promise.all 과 Transactions (feat. Node.js)",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FziO3a%2FbtruLtSuE7m%2FK95dBn4FuwdIr8xSRM2FIK%2Fimg.png"
         }
