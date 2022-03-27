@@ -144,16 +144,6 @@
           "wordCount": 462,
           "title": "Manuel Matuzovic’s CSS Specificity Demo",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364152"
-        },
-        {
-          "id": "https://css-tricks.com/?p=364138",
-          "author": "Chris Coyier",
-          "description": "Nic Chan:\n[…] the will-change property landed in major browsers in August 2015, and I’ve been on the lookout for when to use it ever since. It might seem self-evident to apply it to commonly animated properties such \n…\nMy white whale: A use case for will-change originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/my-white-whale-a-use-case-for-will-change/",
-          "publishedOn": "2022-02-24T20:59:29.000Z",
-          "wordCount": 551,
-          "title": "My white whale: A use case for will-change",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364138"
         }
       ]
     },
@@ -168,7 +158,7 @@
           "description": "퇴사의 이유 새로운 직장에 대한 니즈는 한 직장에서 일정기간 업무를 해 왔다면 한 번쯤 생각할 때가 있습니다. 왜 퇴사가 하고 싶을까요? 여러가지 이유가 있지만 각자가 가지고 있는 다양한 가치관에 따라, 또는 지나친 업무량에 따라,...\nThe post 퇴사를 해야겠다고 생각이 들때 appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/resign/",
           "publishedOn": "2022-03-11T17:42:31.000Z",
-          "wordCount": 1574,
+          "wordCount": 1791,
           "title": "퇴사를 해야겠다고 생각이 들때",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2022/03/62ced3bfdda80.jpeg"
         },
@@ -178,7 +168,7 @@
           "description": "DBeaver에서 java heap space 부족이라고 나올때 DB를 관리하는 툴중에 DBeaver라는 툴이 있습니다. 커뮤니티 버전은 프리웨어이기도 하고, 엔터프라이즈 버전은 낮은 가격에도 강력한 부가 기능들이 있어 주로 사용하는 DB툴입니다. DBeaver에서 대용량 테이블을 이관하거나 CSV 파일들의 작업을...\nThe post DBeaver에서 java heap space 부족이라고 나올때 appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/dbeaver%ec%97%90%ec%84%9c-java-heap-space-%eb%b6%80%ec%a1%b1%ec%9d%b4%eb%9d%bc%ea%b3%a0-%eb%82%98%ec%98%ac%eb%95%8c/",
           "publishedOn": "2022-03-01T15:22:02.000Z",
-          "wordCount": 532,
+          "wordCount": 534,
           "title": "DBeaver에서 java heap space 부족이라고 나올때",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2021/04/sm_5b46d890d85b8.jpg"
         }
@@ -189,6 +179,56 @@
       "feedUrl": "https://news.hada.io/rss/news",
       "siteUrl": "https://news.hada.io",
       "articles": [
+        {
+          "id": "https://news.hada.io/topic?id=6236",
+          "author": null,
+          "description": "새로운 음악적 아이디어를 만들 수 있는 환경\nSuperCollider 엔진 + Clojure 로 만들어진 오픈소스\n\n...",
+          "link": "https://news.hada.io/topic?id=6236",
+          "publishedOn": "2022-03-27T00:45:01.000Z",
+          "wordCount": 81,
+          "title": "Overtone - 오픈소스 협업 프로그래머블 음악 환경",
+          "imageUrl": "https://social.news.hada.io/topic/6236"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6235",
+          "author": null,
+          "description": "\"Reverse Engineered Vanced\"\n기존 Vanced 팀과 상관없이 Vanced 앱을 그대로 이어서 개발\n\n...",
+          "link": "https://news.hada.io/topic?id=6235",
+          "publishedOn": "2022-03-27T00:23:01.000Z",
+          "wordCount": 88,
+          "title": "ReVanced - 광고차단 유튜브 앱 Vanced를 이어서 개발",
+          "imageUrl": "https://social.news.hada.io/topic/6235"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6234",
+          "author": null,
+          "description": "AI를 이용한 인버스 렌더링 기술 : NeRF(Nueral Radiance Fields)\n수십장의 사진으로 주변환경을 학습하는데 몇 초 정도 걸리고, 수십 밀리초내에 3D 화면을 생성\n\n예제에선 4장의 사진만으로 학습\nNVIDIA GPU에서 최적화된 다중해상도 해쉬 그리드 인코딩 기술로, 기존...",
+          "link": "https://news.hada.io/topic?id=6234",
+          "publishedOn": "2022-03-27T00:04:02.000Z",
+          "wordCount": 110,
+          "title": "NVIDIA Instant NeRF - AI로 2D사진을 3D장면으로 즉시 렌더링",
+          "imageUrl": "https://social.news.hada.io/topic/6234"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6233",
+          "author": null,
+          "description": "파이썬 웹 어플리케이션 개발에 주로 사용되던 Flask의 단점을 보완한 프레임워크\nDI 중심 설계 덕분에 버그 가능성은 낮고, 생산성과 성능은 높음\nFlask의 각 구성요소들은 FastAPI에서 어떻게 대체할 수 있는지 정리\n성능도 성능이지만, 좋은 공식 문서, 프레임워크 수준의 OpenA...",
+          "link": "https://news.hada.io/topic?id=6233",
+          "publishedOn": "2022-03-26T05:42:56.000Z",
+          "wordCount": 114,
+          "title": "FastAPI의 시대. 아직도 Flask 쓰시나요?",
+          "imageUrl": "https://social.news.hada.io/topic/6233"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6232",
+          "author": null,
+          "description": "No Telemetry\nPrivate Search : DuckDuckGo, Searx, Qwant\nuBlock Origin 기본 포함\n개인정보 보호 향상\n항상 최신 버전의 Firefox 를 이용하여 빌드\n\n...",
+          "link": "https://news.hada.io/topic?id=6232",
+          "publishedOn": "2022-03-26T01:06:02.000Z",
+          "wordCount": 118,
+          "title": "LibreWolf - 개인정보 보호/보안/자유에 중점을 둔 Firefox 포크",
+          "imageUrl": "https://social.news.hada.io/topic/6232"
+        },
         {
           "id": "https://news.hada.io/topic?id=6231",
           "author": null,
@@ -238,56 +278,6 @@
           "wordCount": 177,
           "title": "Payments가 세상을 먹어치우고 있다",
           "imageUrl": "https://social.news.hada.io/topic/6227"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6226",
-          "author": null,
-          "description": "SaaS 스타트업에 필요한 엔터프라이즈 대응 기능을 몇 줄의 코드로 추가 가능\nTypeScript + Go 오픈소스\n\n...",
-          "link": "https://news.hada.io/topic?id=6226",
-          "publishedOn": "2022-03-25T00:58:52.000Z",
-          "wordCount": 136,
-          "title": "BoxyHQ - Auth0 / WorkOS 의 오픈소스 대체제",
-          "imageUrl": "https://social.news.hada.io/topic/6226"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6225",
-          "author": null,
-          "description": "AI 모델을 입력 받아 빠르게 실행하는 최적화 버전을 만들어 줌\n여러개의 딥러닝 컴파일러를 테스트하여 특정 하드웨어에 최적의 방법을 찾아냄\n\n딥러닝 모델 Agnostic : 트랜스포머, LSTM, CNN, FCN 등 딥러닝 모델 상관없음\n하드웨어 Agnostic : 대부분의 CPU와 GPU 지원. 곧 TPU ...",
-          "link": "https://news.hada.io/topic?id=6225",
-          "publishedOn": "2022-03-25T00:41:18.000Z",
-          "wordCount": 131,
-          "title": "Nebullvm - AI Inference(추론)를 5~20배 가속하는 오픈소스 라이브러리",
-          "imageUrl": "https://social.news.hada.io/topic/6225"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6224",
-          "author": null,
-          "description": "프리미엄 구독 서비스\n3개의 기능 공개\n\nNotification : 특정 문서 변경, CSS 기능 런치, API 사용 가능등의 알림 받기\nCollections : 자주 보는 문서들 모아보기. 기기간 동기화\nOffline : PWA로 오프라인 상태에서도 브라우징 지원\n3가지 구독 플랜...",
-          "link": "https://news.hada.io/topic?id=6224",
-          "publishedOn": "2022-03-25T00:29:40.000Z",
-          "wordCount": 136,
-          "title": "모질라 개발자 사이트 MDN Plus 공개",
-          "imageUrl": "https://social.news.hada.io/topic/6224"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6223",
-          "author": null,
-          "description": "텔레메트리, 광고가 없고 개인정보 수집하지 않는 깨끗한 인터페이스\n개인화된 검색 제공\n휴리스틱과 딥러닝을 이용하여 쿼리 의도를 이해하여, 최상의 정보 소스를 선택하고, API로 가져와 결과의 순위를 지정 ( \"검색 클라이언트\" 처럼 동작 )\n\n구글, 빙 같은 기존 검색...",
-          "link": "https://news.hada.io/topic?id=6223",
-          "publishedOn": "2022-03-25T00:17:55.000Z",
-          "wordCount": 210,
-          "title": "Kagi Search - 빠르고 사용자 중심적인 검색 엔진",
-          "imageUrl": "https://social.news.hada.io/topic/6223"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6222",
-          "author": null,
-          "description": "미국 영화 협회의 극장/홈/모바일 엔터테인먼트 시장 보고서 (67p PDF)",
-          "link": "https://news.hada.io/topic?id=6222",
-          "publishedOn": "2022-03-24T04:29:05.000Z",
-          "wordCount": 62,
-          "title": "MPAA 2021 테마 보고서",
-          "imageUrl": "https://social.news.hada.io/topic/6222"
         }
       ]
     },
@@ -297,12 +287,22 @@
       "siteUrl": "https://jojoldu.tistory.com/",
       "articles": [
         {
+          "id": "https://jojoldu.tistory.com/659",
+          "author": "향로",
+          "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\n팀 단위의 프로젝트에서는 Github Action 빌드의 결과를 Slack으로 보내겠지만, \n개인적인 프로젝트에서는 Telegram을 사용할 때가 많다.\n메세지 제한이 없고\n\n슬랙은 무료 Plan에서는 채널당 메세지가 10,000개 제한이 있다.\n네이티브 앱이라 슬랙에 비해 속도 체감이 심하다\n특정 프로젝트의 build 결과를 텔레그램 메신저로 받을 수 있도록 진행한다.\n1. bot 생성\n먼저 텔레그램 봇을 생성한다.\n텔레그램 메신저로 이동하여 BotFather 를 찾는다.\n아래와 같이 BotFather 채팅방에서 /newbot을 입력한다\n그리고 나선 봇 이름을 등록한다.\n봇 이름은 다음과 같은 규칙이 필요하다\nXXXBot 혹은 XXX_bot 과 같이 마지막 뒤에 Bot 혹은 _bot 이 들어가야만한다\n생성이 완료되었다면, 여기서 끝이 아니고 2개의 값을 가져와야 한다\n텔레그램 봇 토큰\n텔래그램 봇 채팅방 ID\n정상적으로 생성되었다면 위 이미지의 회색 박스처럼 Token 이 나온다. \n이는 잠깐 두고, \n생성된 Bot 채팅방으로 이동해서 간단하게 메세지를 하나 보낸다.\n이 메세지를 보내고 나면 이제 텔레그램 API를 통해 채팅방 ID를 가져올 수 있다.\n아래 API로 생성된 토큰을 넣어 호출해본다. \n(HTTP Get 요청이라 브라우저에서 직접 입력해도 된다.)\nhttps://api.telegram.org/…",
+          "link": "https://jojoldu.tistory.com/659",
+          "publishedOn": "2022-03-26T12:33:19.000Z",
+          "wordCount": 592,
+          "title": "Github Action 빌드 결과 Telegram Bot으로 보내기",
+          "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FErm29%2Fbtrxr4vCllu%2FzKaRCIjg074dbndiaRk42K%2Fimg.png"
+        },
+        {
           "id": "https://jojoldu.tistory.com/658",
           "author": "향로",
           "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\n\n팀에 공유한 내용인데 블로그에도 정리한다.\n오늘 주변의 추천으로 희종님의 글을 봤다.\nhttps://ahnheejong.name/articles/i-was-wrong-test/\n예전에 어느책에서 봤던 내용인데 (제목은 까먹었다 ㅠㅠ) \n나 스스로 \"내가 틀렸네요\" 라고 입밖으로 낼 수 있는 용기가 있다면 그사람은 성장하는중이다 라는 이야기를 본적이 있다.\n그래서 그 이후로 \n\"제가 잘못알고 있었네요\" \n라고 이야기를 해야하는 순간이 오면 진짜 민망하고, 인정하기 싫었지만, \n\"그래도 이걸 이야기하지 않으면 나는 성장하지 못하겠지? 그게 더 무서운거 아닌가?\" \n라는 생각으로 어떻게든 내뱉었다.\n어떤 일을 하는데 있어 개인이 성장하려면 내가 틀렸음을 인정하고, 이걸 입밖으로 낼 용기를 가지는 것이 필요하다.\n이걸 자주 하지 않으면 더이상 주변의 사람들이 부족한점/잘못한점/틀린점에 대해 이야기하지 않게 된다.\n어차피 얘기해줘도 인정하지 않을것이고, 변하지도 않을텐데 굳이 감정상하고 싶진 않아서 그렇다.\n그렇게 될수록 점점 본인만의 세상에 갇히거나(흔히 말하는 꼰대) 더이상 성장하지 못하는 사람이 된다.\n1년에 몇번이나 내가 틀렸음을 이야기했는지\n가장 최근에 “너 그거 틀렸어” 피드백을 언제 받았는지\n등을 정기적으로 검토해보면 좋다.\n특히 일기 쓰면 정말 좋다.\n마침 왓챠의 채용공고에 적힌 같이 일하고 싶은 동료 이야기가 보인다.\n가장 최근에 \"내가 틀렸네요\" 라는 말은 언제했는지 찾아봤더니, \n최근에 내가 가이드한 방향이 너무 예전 지식이라 새 방향을 지적받을때 이야기 했었다. \n그 동료에게 정말 감사하다.\n희종님의 글 덕분에 다시 한번 \"내가 틀렸네요\"의 힘을 상기시킬 수 있어서 너무 감사드리고 싶다.\n            \n반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({});",
           "link": "https://jojoldu.tistory.com/658",
           "publishedOn": "2022-03-25T14:22:57.000Z",
-          "wordCount": 331,
+          "wordCount": 334,
           "title": "내가 틀렸네요",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FDO8kj%2Fbtrxh9ej1vi%2FIAB0ctbCycN6aUlpYzo1q0%2Fimg.jpg"
         },
@@ -312,7 +312,7 @@
           "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\nCloudFlare의 정적사이트 플랫폼인 CloudFlare Pages가 출시되었다.\nhttps://pages.cloudflare.com/\n이미 Netlify 와 같이 정적 사이트 플랫폼이 많은데 굳이 CloudFlare를 써야하나? 싶었다. \n(저도 그동안은 Netlify을 썼기 때문에)\n그럼에도 써봐야하는 이유는 Free Plan의 구성이 말도 안되게 좋기 때문이다.\n무제한 사이트 발행\n무제한 요청\n무제한 대역폭\nFree Plan 라고는 믿을수 없을만큼의 좋은 혜택을 제공한다. \n대부분의 정적 사이트가 저정도 혜택은 유료 Plan인걸 고려하면 선택하지 않을 이유가 전혀 없다고 생각했다.\n1. Next.js App 생성\n먼저 간단한 Next.js App을 생성한다.\n여기서 사용된 코드는 모두 Github 에 있다.\nnpx create-next-app react-in-action --use-npm --example \"https://github.com/vercel/next-learn/tree/master/basics/learn-starter\"\nreact-in-action 으로 프로젝트를 생성한다.\n이렇게 생성된 샘플 프로젝트에 아래 2가지 설정을 추가한다.\n1-1. export 추가\n생성된 프로젝트의 package.json 을 열어서 아래와 같이 build 에 next export 를 추가한다\n{\n  \"pri…",
           "link": "https://jojoldu.tistory.com/657",
           "publishedOn": "2022-03-25T01:15:44.000Z",
-          "wordCount": 562,
+          "wordCount": 563,
           "title": "CloudFlare Pages로 Next.js 서비스 배포하기",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fb2WCr5%2FbtrxeyEg2wj%2Fn5yC3SYMpcEoSgHQCEUcM0%2Fimg.png"
         },
@@ -322,7 +322,7 @@
           "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\nJest를 통한 테스트를 작성하다보면 Exception에 대한 검증을 작성해야할 때가 있다. \n이럴때 보통 2가지 방법 중 하나를 선택한다.\ntry ~ catch\nexpect.rejects.toThrowError\n실제 코드로는 다음과 같다.\n// try ~ catch\nit(\"[try/catch] 주문금액이 -이면 BadParameter Exception 을 던진다.\", async () => {\n    try {\n        await acceptOrder({amount: -1000});\n    } catch (e) {\n        expect(e).toBeInstanceOf(BadParameterException);\n        expect(e.message).toBe('승인 요청 주문의 금액은 -가 될 수 없습니다');\n    }\n});\n\n// expect\nit(\"[expect] 주문금액이 -이면 BadParameter Exception 을 던진다.\", async () => {\n    await expect(async () => {\n        await acceptOrder({amount: -1000});\n    }).rejects.toThrowError(new BadParameterException('승인 요청 주문의 금액은 -가 될 수 없습니다'));\n});\n이 중에서 개인적으로는 expect…",
           "link": "https://jojoldu.tistory.com/656",
           "publishedOn": "2022-03-18T01:52:12.000Z",
-          "wordCount": 629,
+          "wordCount": 632,
           "title": "Jest로 Error 검증시 catch 보다는 expect",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fbxy32e%2Fbtrwezr0HQ4%2FWkd4JA72UcmDWGXvPoKggK%2Fimg.png"
         },
@@ -332,7 +332,7 @@
           "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\nESLint 8.0 이상 버전을 사용할 경우 기존에 사용중인 WebStorm, IntelliJ 등에서 다음과 같이 에러가 발생하곤합니다.\nTypeError: this.cliEngineCtor is not a constructor\n\n아래 로그를 보시면 this.cliEngineCtor is not a constructor 내용을 볼 수 있는데요.\nTypeError: this.cliEngineCtor is not a constructor\n    at ESLintPlugin.invokeESLint (/Users/seojeong-kuk/Library/Application Support/JetBrains/Toolbox/apps/WebStorm/ch-0/211.7628.25/WebStorm.app/Contents/plugins/JavaScriptLanguage/languageService/eslint/bin/eslint-plugin.js:103:25)\n    at ESLintPlugin.getErrors (/Users/seojeong-kuk/Library/Application Support/JetBrains/Toolbox/apps/WebStorm/ch-0/211.7628.25/WebStorm.app/Contents/plugins/JavaScriptLanguage/languageService/eslint/bin/eslint-plugin.js:82:21)\n    at ESLintPlugin.onMessage (/Users/seojeong-kuk/Library/Application Support/JetBrains/Toolbox/apps/WebStorm/ch-0/211.7628.25/WebStorm.app/Contents/plugins/JavaScriptLanguage/languageService/eslint/bin/eslint-plugin.js:56:64)\n    at Interface.<anonymous> (/Users/seojeong-kuk/Library/Application Support/JetBrains/Toolbox/apps/WebStorm/ch-0/211.7628.25/WebStorm.app/Contents/plugins/JavaScriptLanguage/jsLanguageServicesImpl/js-language-service.js:105:39)\n    at Interface.emit (node:events:390:28)\n    at Interface._onLine (node:readline:487:10)\n    at Interface._normalWrite (node:readline:661:12)\n    at Socket.ondata (node:readline:269:10)\n    at Socket.emit (node:events:390:28)\n    at addChunk (node:internal/streams/readable:315:12)\nProcess finished with exit code -1\n이는 ESLint 가 버전업이 됨에 따라 기존 클래스가 삭제되었기 때문인데요.\nthe-cliengine-class-has-been-removed\n그래서 아래와 같이 2021.2.2 보다 낮은 버전에서는 ESLint 8.0 이상의 버전을 사용할 수가 없습니다.\n이를 해결 하기 위해서는 2021.2.2 이상의 IDE를 사용하시면 됩니다. \n이미 정식 버전이 2021.3.2 까지 나왔기 때문에 여전히 2021.1 버전을 사용하신다면 얼른 업데이트 하시는 것을 추천드립니다.\n참고\nESLint 8.0 support\n            \n반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({});",
           "link": "https://jojoldu.tistory.com/655",
           "publishedOn": "2022-03-13T09:10:35.000Z",
-          "wordCount": 312,
+          "wordCount": 315,
           "title": "WebStorm (IntelliJ IDEA) 에서 this.cliEngineCtor is not a constructor 이슈 발생시 (feat. ESLint 8.0)",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FehOtaJ%2FbtrvJ0XxaxA%2FEQkRIW04ay0O5lLSky8sZK%2Fimg.png"
         },
@@ -342,7 +342,7 @@
           "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\n여러 포스팅에서 언급한것처럼 테스트 코드는 빠르게 실패를 파악할 수 있어야 한다.\n그런면에서 Optional chaining(?.) 은 테스트코드에 적합하지 않다.\nMDN의 설명을 가져오면 Optional chaining(?.)은 체이닝 연산자(.) 와 유사하게 작동하지만, 만약 참조가 nullish (null 또는 undefined)이라면, 에러가 발생하는 것 대신에 표현식의 리턴 값을 undefined로 반환한다.\n따라서 참조가 누락될 가능성이 있는 경우 연결된 속성으로 접근할 때 더 짧고 간단한 표현식이 생성된다. \n어떤 속성이 필요한지에 대한 보증이 확실하지 않는 경우 객체의 내용을 탐색하는 동안 도움이 될 수 있다.\n안정적으로 객체 탐색이 가능하기 때문에 프로덕션 코드에서는 적극적으로 사용하는 편이다. \n하지만 테스트 코드에서는 안정적인 점이 오히려 단점이 된다.\n문제\n이를 테면 다음과 같이 sut 의 하위에 있는 pay.amount 를 검증한다고 하자. \n이때 Optional chaining(?.) 을 사용한다면 다음과 같다.\nit('?가 있는 경우 #1', () => {\n    const amount = 0;\n    const sut = createOrder(amount);\n\n    expect(sut?.pay?.amount).toBe(amount);\n});\n\nclass Order {\n    p…",
           "link": "https://jojoldu.tistory.com/643",
           "publishedOn": "2022-03-08T00:26:46.000Z",
-          "wordCount": 506,
+          "wordCount": 509,
           "title": "테스트코드에서 Optional chaining(?.) 쓰지않기",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FzIsO7%2FbtrvtcvF3Zi%2FkghW6ofDOgXOiKJsfHYGLK%2Fimg.png"
         },
@@ -352,7 +352,7 @@
           "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\n테스트 코드는 프로젝트의 생명 주기 보다 길때가 많다. \n기존의 요구사항을 정리한것이 테스트 코드이기 때문에, 메인 코드보다 훨씬 더 읽기쉬워야만 한다.\n만약 테스트 코드가 복잡한 경우 어떻게 작동하는지 이해하기가 어렵다. \n그래서 테스트 코드는 주석이 필요 없을 정도로 간단해야 한다.\n그런면에서 조건부 (if ~ else) 테스트 로직은 테스트를 실제보다 더 복잡하게 만드는 요인 중 하나다.\n이번 글에서는 조건부 로직을 테스트에서 사용한 경우에 어떻게 개선할 수 있을지 알아본다.\n1. 가변 결과를 검증하는 경우\n1-1. 문제\n첫번째 문제는 다음과 같이 테스트 실행때마다 결과가 달라지는 경우이다.\nit('[Bad] 가변결과 검증', () => {\n    const now = LocalDateTime.now();\n    const sut = new TimeDisplay();\n    const result = sut.display(now);\n\n    let actual;\n    if(now.hour() === 0 && now.minute() === 0) {\n        actual = 'Midnight';\n    } else if (now.hour() === 12 && now.minute() === 0) {\n        actual = 'Noon';\n    } else {\n        actual = no…",
           "link": "https://jojoldu.tistory.com/642",
           "publishedOn": "2022-03-07T03:35:43.000Z",
-          "wordCount": 1073,
+          "wordCount": 1076,
           "title": "조건부 (if~else) 로직 테스트코드에서 사용하지 않기",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fcxmuyf%2Fbtrvne8iDrE%2FKAaA0pw9W0LAHjVj3iniTk%2Fimg.png"
         },
@@ -362,7 +362,7 @@
           "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\nGithub 에는 앞으로 출시할 기능 (Beta) 을 미리 써볼 수 있는 옵션이 있습니다. \n특히 최근에 Pull Request시 파일 트리를 볼 수 있는 기능이 베타 출시되었는데요. \n코드리뷰시에 굉장히 큰 도움을 주기 때문에 바로 적용해서 써보시는 것을 추천드립니다.\n이 포스팅은 2022.03.05에 작성된 것이기 때문에, 소개되는 베타기능들은 이후에 대부분 정식 출시된 상태일 것입니다.\n설정\nGithub 우측 상단의 프로필 아이콘을 클릭하신뒤, Feature preview를 선택합니다.\n그럼 아래와 같이 Modal이 나오는데, 이때 원하시는 베타 기능들을 선택하시고 Enable 을 누르시면 됩니다. \n(Enable을 클릭하면 아래와 같이 Disable로 버튼이 변경됩니다.)\n저는 여기서 Command Palette 와 Pull Request File Tree를 사용하도록 선택했습니다.\n설정하신 후에 새로고침을 해보시면 다음과 같이 Pull Request 화면의 좌측 사이드바에 검색창과 파일/디렉토리가 생긴 것을 볼 수 있습니다.\n해당 검색창에서 파일명으로 검색도 가능하며, 파일 클릭시 코드리뷰 화면에서도 바로 해당 파일로 이동이 됩니다.\nCommand Palette도 적용되어 Command + k (맥 기준) 다음과 같이 Github 웹 사이트에서 커맨드로 여러 액션을 수행할 수 있습니다.\n마무리\n기존에 Octotree 를 통해서 코드리뷰시 디렉토리와 파일을 보던 입장에서는 아주 환영할만한 기능이 추가되었습니다. \nGithub에서 이야기하는 여러 기능들을 미리 볼 수 있는 Feature preview 를 자주 보시면서 신규 기능이 나올때마다 사용해보시면 훨씬 재밌는 Github 경험을 해볼 수 있을것 같습니다.\n            \n반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({});",
           "link": "https://jojoldu.tistory.com/641",
           "publishedOn": "2022-03-05T11:19:36.000Z",
-          "wordCount": 353,
+          "wordCount": 355,
           "title": "Github 기능 미리 써보기 (Code Review시 디렉토리 미리보기)",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fb8p70Y%2Fbtru7rhAEhd%2FbF4p5PK6KGMUDQvE5fDK9k%2Fimg.png"
         },
@@ -372,7 +372,7 @@
           "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\n랠릿 서비스 를 오픈하고 참여자들의 개인 소감을 다들 작성하는 시간을 가졌다. \n실제 프로젝트의 프로세스 방식, QA 방식등을 전체적인 회고는 내일 (2022.03.02) 진행할 예정인데, 그 전에 각자 어땠는지 소감을 작성하는 시간을 2월에 가졌다.\n이번 글은 사내에 공유한 소감글을 블로그로 옮겼다.\n루비콘 프로젝트에서 진행한 프로젝트 방식 / 백엔드 프로젝트 방식 등은 TF 회고가 끝나고 올라갈 예정이다. \n이건 프로젝트에 참여한 개인적인 짧은 생각들만 정리했다.\n프로젝트 구성원들의 전체 소감은 3월안에 링크로 공유될 예정이다.\n일정\n프로젝트는 7월에 시작되어, 1월 27일에 정식 오픈하였다. \n중간 투입된 분들은 잘 모르실 수 있지만, 초기에 대표님과 PO 1분이 같이 사용자 스토리 잡는 것이 7월부터였다.\n7 ~ 8월: 사용자스토리, 와이어프레임\n9월: 디자인 구체화 / 도메인 & 개발환경 설계\n10월 ~ 12월: 개발\n12월 ~ 1월: QA 및 남은 기능 구현\n공식적으로는 약 7개월간 진행된 것이다.\n다만, 본격적으로 개발은 9월부터 진행되어 3개월간 개발하여 12월부터 QA를 하게 됐다.\n(9월 2일, 3일에 시작된 첫커밋)\n개발 기간만 보면 짧았지만, 전체 일정을 보면 결코 짧은 일정은 아니였다. \n7개월이란 시간이 빡빡하게 느껴진 것은 이 기간 안에서 비효율적으로 낭비되는 시간이 많았기 때문이…",
           "link": "https://jojoldu.tistory.com/640",
           "publishedOn": "2022-03-01T13:51:53.000Z",
-          "wordCount": 1401,
+          "wordCount": 1403,
           "title": "루비콘 프로젝트 (랠릿 오픈 프로젝트) 소감",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbdAIbH%2FbtruITrAVSl%2FSH5wfXmM2yaUadAK9kuS90%2Fimg.png"
         },
@@ -382,7 +382,7 @@
           "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\n최근 팀에서 코드리뷰를 진행하던 중에 promise.all 과 트랜잭션에 대해 오해하고 있는 부분들을 발견하게 되어 정리하게 되었습니다.\nPromise.all (혹은 allSettled)을 사용하면 트랜잭션 내에서도 비동기로 여러 작업들이 동시에 이루어질 수 있다고 오해하는 것인데요. \n실험을 해보면 그게 아니라는 것을 알 수 있습니다.\n실제 코드를 가지고 검증해보겠습니다.\n모든 실험 결과에 대해서 틀린 내용이 있다면 바로 댓글로 지적해주세요! \n모든 지적은 저의 성장에 많은 도움이 되기 때문에 감사한 마음으로 수정하겠습니다 :)\n0. 테스트 환경\n테스트할 환경은 다음과 같습니다.\nNode.js 16.3.1\nPostgreSQL 13.2\n모든 코드는 Github 에 있습니다.\n1. Promise.all\n먼저 promise.all 에 대해서 알아보겠습니다. \n(이미 아시겠지만, 이후 테스트를 설명하기 위한 배경 설명으로 봐주시면 됩니다.)\n테스트를 위해 다음과 같이 2개의 함수를 만들겠습니다.\nexport function sleep(sec) {\n    const start = performance.now();\n    return new Promise(resolve=>{\n        setTimeout(resolve, sec * 1000);\n    }).then(() => {\n        console.log…",
           "link": "https://jojoldu.tistory.com/639",
           "publishedOn": "2022-02-28T14:05:44.000Z",
-          "wordCount": 1412,
+          "wordCount": 1414,
           "title": "Promise.all 과 Transactions (feat. Node.js)",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FziO3a%2FbtruLtSuE7m%2FK95dBn4FuwdIr8xSRM2FIK%2Fimg.png"
         }

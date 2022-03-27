@@ -1,10 +1,118 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-26T01:15:53.618Z</id>
+    <id>urn:2022-03-27T01:23:17.021Z</id>
     <title>osmos::feed</title>
-    <updated>2022-03-26T01:15:53.618Z</updated>
+    <updated>2022-03-27T01:23:17.021Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Overtone - 오픈소스 협업 프로그래머블 음악 환경]]></title>
+        <id>https://news.hada.io/topic?id=6236</id>
+        <link href="https://news.hada.io/topic?id=6236"/>
+        <updated>2022-03-27T00:45:01.000Z</updated>
+        <summary type="html"><![CDATA[새로운 음악적 아이디어를 만들 수 있는 환경
+SuperCollider 엔진 + Clojure 로 만들어진 오픈소스
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ReVanced - 광고차단 유튜브 앱 Vanced를 이어서 개발]]></title>
+        <id>https://news.hada.io/topic?id=6235</id>
+        <link href="https://news.hada.io/topic?id=6235"/>
+        <updated>2022-03-27T00:23:01.000Z</updated>
+        <summary type="html"><![CDATA["Reverse Engineered Vanced"
+기존 Vanced 팀과 상관없이 Vanced 앱을 그대로 이어서 개발
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA Instant NeRF - AI로 2D사진을 3D장면으로 즉시 렌더링]]></title>
+        <id>https://news.hada.io/topic?id=6234</id>
+        <link href="https://news.hada.io/topic?id=6234"/>
+        <updated>2022-03-27T00:04:02.000Z</updated>
+        <summary type="html"><![CDATA[AI를 이용한 인버스 렌더링 기술 : NeRF(Nueral Radiance Fields)
+수십장의 사진으로 주변환경을 학습하는데 몇 초 정도 걸리고, 수십 밀리초내에 3D 화면을 생성
+
+예제에선 4장의 사진만으로 학습
+NVIDIA GPU에서 최적화된 다중해상도 해쉬 그리드 인코딩 기술로, 기존...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Github Action 빌드 결과 Telegram Bot으로 보내기]]></title>
+        <id>https://jojoldu.tistory.com/659</id>
+        <link href="https://jojoldu.tistory.com/659"/>
+        <updated>2022-03-26T12:33:19.000Z</updated>
+        <summary type="html"><![CDATA[반응형
+
+                    
+                    (adsbygoogle = window.adsbygoogle || []).push({}); 
+               
+
+팀 단위의 프로젝트에서는 Github Action 빌드의 결과를 Slack으로 보내겠지만, 
+개인적인 프로젝트에서는 Telegram을 사용할 때가 많다.
+메세지 제한이 없고
+
+슬랙은 무료 Plan에서는 채널당 메세지가 10,000개 제한이 있다.
+네이티브 앱이라 슬랙에 비해 속도 체감이 심하다
+특정 프로젝트의 build 결과를 텔레그램 메신저로 받을 수 있도록 진행한다.
+1. bot 생성
+먼저 텔레그램 봇을 생성한다.
+텔레그램 메신저로 이동하여 BotFather 를 찾는다.
+아래와 같이 BotFather 채팅방에서 /newbot을 입력한다
+그리고 나선 봇 이름을 등록한다.
+봇 이름은 다음과 같은 규칙이 필요하다
+XXXBot 혹은 XXX_bot 과 같이 마지막 뒤에 Bot 혹은 _bot 이 들어가야만한다
+생성이 완료되었다면, 여기서 끝이 아니고 2개의 값을 가져와야 한다
+텔레그램 봇 토큰
+텔래그램 봇 채팅방 ID
+정상적으로 생성되었다면 위 이미지의 회색 박스처럼 Token 이 나온다. 
+이는 잠깐 두고, 
+생성된 Bot 채팅방으로 이동해서 간단하게 메세지를 하나 보낸다.
+이 메세지를 보내고 나면 이제 텔레그램 API를 통해 채팅방 ID를 가져올 수 있다.
+아래 API로 생성된 토큰을 넣어 호출해본다. 
+(HTTP Get 요청이라 브라우저에서 직접 입력해도 된다.)
+https://api.telegram.org/…]]></summary>
+        <author>
+            <name>향로</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FastAPI의 시대. 아직도 Flask 쓰시나요?]]></title>
+        <id>https://news.hada.io/topic?id=6233</id>
+        <link href="https://news.hada.io/topic?id=6233"/>
+        <updated>2022-03-26T05:42:56.000Z</updated>
+        <summary type="html"><![CDATA[파이썬 웹 어플리케이션 개발에 주로 사용되던 Flask의 단점을 보완한 프레임워크
+DI 중심 설계 덕분에 버그 가능성은 낮고, 생산성과 성능은 높음
+Flask의 각 구성요소들은 FastAPI에서 어떻게 대체할 수 있는지 정리
+성능도 성능이지만, 좋은 공식 문서, 프레임워크 수준의 OpenA...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LibreWolf - 개인정보 보호/보안/자유에 중점을 둔 Firefox 포크]]></title>
+        <id>https://news.hada.io/topic?id=6232</id>
+        <link href="https://news.hada.io/topic?id=6232"/>
+        <updated>2022-03-26T01:06:02.000Z</updated>
+        <summary type="html"><![CDATA[No Telemetry
+Private Search : DuckDuckGo, Searx, Qwant
+uBlock Origin 기본 포함
+개인정보 보호 향상
+항상 최신 버전의 Firefox 를 이용하여 빌드
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AgnosticUI - 하나의 스타일시트로 모든 프레임워크 지원]]></title>
         <id>https://news.hada.io/topic?id=6231</id>
@@ -148,73 +256,6 @@ POWER+ Framework를 통해 한 꼭지씩 설명
 
 Platforms : 슈퍼앱, 중국 vs. 글로벌
 Online : 이커머스, 디지털 아이...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BoxyHQ - Auth0 / WorkOS 의 오픈소스 대체제]]></title>
-        <id>https://news.hada.io/topic?id=6226</id>
-        <link href="https://news.hada.io/topic?id=6226"/>
-        <updated>2022-03-25T00:58:52.000Z</updated>
-        <summary type="html"><![CDATA[SaaS 스타트업에 필요한 엔터프라이즈 대응 기능을 몇 줄의 코드로 추가 가능
-TypeScript + Go 오픈소스
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nebullvm - AI Inference(추론)를 5~20배 가속하는 오픈소스 라이브러리]]></title>
-        <id>https://news.hada.io/topic?id=6225</id>
-        <link href="https://news.hada.io/topic?id=6225"/>
-        <updated>2022-03-25T00:41:18.000Z</updated>
-        <summary type="html"><![CDATA[AI 모델을 입력 받아 빠르게 실행하는 최적화 버전을 만들어 줌
-여러개의 딥러닝 컴파일러를 테스트하여 특정 하드웨어에 최적의 방법을 찾아냄
-
-딥러닝 모델 Agnostic : 트랜스포머, LSTM, CNN, FCN 등 딥러닝 모델 상관없음
-하드웨어 Agnostic : 대부분의 CPU와 GPU 지원. 곧 TPU ...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[모질라 개발자 사이트 MDN Plus 공개]]></title>
-        <id>https://news.hada.io/topic?id=6224</id>
-        <link href="https://news.hada.io/topic?id=6224"/>
-        <updated>2022-03-25T00:29:40.000Z</updated>
-        <summary type="html"><![CDATA[프리미엄 구독 서비스
-3개의 기능 공개
-
-Notification : 특정 문서 변경, CSS 기능 런치, API 사용 가능등의 알림 받기
-Collections : 자주 보는 문서들 모아보기. 기기간 동기화
-Offline : PWA로 오프라인 상태에서도 브라우징 지원
-3가지 구독 플랜...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kagi Search - 빠르고 사용자 중심적인 검색 엔진]]></title>
-        <id>https://news.hada.io/topic?id=6223</id>
-        <link href="https://news.hada.io/topic?id=6223"/>
-        <updated>2022-03-25T00:17:55.000Z</updated>
-        <summary type="html"><![CDATA[텔레메트리, 광고가 없고 개인정보 수집하지 않는 깨끗한 인터페이스
-개인화된 검색 제공
-휴리스틱과 딥러닝을 이용하여 쿼리 의도를 이해하여, 최상의 정보 소스를 선택하고, API로 가져와 결과의 순위를 지정 ( "검색 클라이언트" 처럼 동작 )
-
-구글, 빙 같은 기존 검색...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MPAA 2021 테마 보고서]]></title>
-        <id>https://news.hada.io/topic?id=6222</id>
-        <link href="https://news.hada.io/topic?id=6222"/>
-        <updated>2022-03-24T04:29:05.000Z</updated>
-        <summary type="html"><![CDATA[미국 영화 협회의 극장/홈/모바일 엔터테인먼트 시장 보고서 (67p PDF)]]></summary>
         <author>
             <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
@@ -661,19 +702,6 @@ When to Avoid the text-decoration Shorthand Property originally published on CSS
         <summary type="html"><![CDATA[If you’re looking for a primer on CSS specificity, we’ve got that. And if you’re trying to get ahead of the game, you should be aware of CSS Cascade Layers as well.
 One of the ways to help get …
 Manuel Matuzovic’s CSS Specificity Demo originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My white whale: A use case for will-change]]></title>
-        <id>https://css-tricks.com/?p=364138</id>
-        <link href="https://css-tricks.com/my-white-whale-a-use-case-for-will-change/"/>
-        <updated>2022-02-24T20:59:29.000Z</updated>
-        <summary type="html"><![CDATA[Nic Chan:
-[…] the will-change property landed in major browsers in August 2015, and I’ve been on the lookout for when to use it ever since. It might seem self-evident to apply it to commonly animated properties such 
-…
-My white whale: A use case for will-change originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Chris Coyier</name>
         </author>
