@@ -114,36 +114,6 @@
           "wordCount": 2425,
           "title": "Web Component Pseudo-Classes and Pseudo-Elements are Easier Than You Think",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363929"
-        },
-        {
-          "id": "https://css-tricks.com/?p=364070",
-          "author": "Chris Coyier",
-          "description": "A fun deep dive from Zach. Do you have an opinion on which you should use?\n1) https://website.com/foo/\n2) https://websites.com/foo\nThe first option has a “trailing slash.” The second does not.\nI’ve always preferred this thinking: you use a trailing …\nTrailing Slashes on URLs: Contentious or Settled? originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/trailing-slashes-on-urls-contentious-or-settled/",
-          "publishedOn": "2022-02-25T21:13:08.000Z",
-          "wordCount": 963,
-          "title": "Trailing Slashes on URLs: Contentious or Settled?",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364070"
-        },
-        {
-          "id": "https://css-tricks.com/?p=363619",
-          "author": "Šime Vidas",
-          "description": "In my recent article about CSS underline bugs in Chrome, I discussed text-decoration-thickness and text-underline-offset, two relatively new and widely-supported CSS properties that give us more control over the styling of underlines.\nLet me demonstrate the usefulness of …\nWhen to Avoid the text-decoration Shorthand Property originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/when-to-avoid-css-text-decoration-shorthand/",
-          "publishedOn": "2022-02-25T15:28:33.000Z",
-          "wordCount": 1161,
-          "title": "When to Avoid the text-decoration Shorthand Property",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363619"
-        },
-        {
-          "id": "https://css-tricks.com/?p=364152",
-          "author": "Chris Coyier",
-          "description": "If you’re looking for a primer on CSS specificity, we’ve got that. And if you’re trying to get ahead of the game, you should be aware of CSS Cascade Layers as well.\nOne of the ways to help get …\nManuel Matuzovic’s CSS Specificity Demo originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/manuel-matuzovics-css-specificity-demo/",
-          "publishedOn": "2022-02-25T15:27:19.000Z",
-          "wordCount": 462,
-          "title": "Manuel Matuzovic’s CSS Specificity Demo",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364152"
         }
       ]
     },
@@ -158,7 +128,7 @@
           "description": "퇴사의 이유 새로운 직장에 대한 니즈는 한 직장에서 일정기간 업무를 해 왔다면 한 번쯤 생각할 때가 있습니다. 왜 퇴사가 하고 싶을까요? 여러가지 이유가 있지만 각자가 가지고 있는 다양한 가치관에 따라, 또는 지나친 업무량에 따라,...\nThe post 퇴사를 해야겠다고 생각이 들때 appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/resign/",
           "publishedOn": "2022-03-11T17:42:31.000Z",
-          "wordCount": 1791,
+          "wordCount": 1869,
           "title": "퇴사를 해야겠다고 생각이 들때",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2022/03/62ced3bfdda80.jpeg"
         },
@@ -168,7 +138,7 @@
           "description": "DBeaver에서 java heap space 부족이라고 나올때 DB를 관리하는 툴중에 DBeaver라는 툴이 있습니다. 커뮤니티 버전은 프리웨어이기도 하고, 엔터프라이즈 버전은 낮은 가격에도 강력한 부가 기능들이 있어 주로 사용하는 DB툴입니다. DBeaver에서 대용량 테이블을 이관하거나 CSV 파일들의 작업을...\nThe post DBeaver에서 java heap space 부족이라고 나올때 appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/dbeaver%ec%97%90%ec%84%9c-java-heap-space-%eb%b6%80%ec%a1%b1%ec%9d%b4%eb%9d%bc%ea%b3%a0-%eb%82%98%ec%98%ac%eb%95%8c/",
           "publishedOn": "2022-03-01T15:22:02.000Z",
-          "wordCount": 534,
+          "wordCount": 537,
           "title": "DBeaver에서 java heap space 부족이라고 나올때",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2021/04/sm_5b46d890d85b8.jpg"
         }
@@ -179,6 +149,66 @@
       "feedUrl": "https://news.hada.io/rss/news",
       "siteUrl": "https://news.hada.io",
       "articles": [
+        {
+          "id": "https://news.hada.io/topic?id=6242",
+          "author": null,
+          "description": "Cover page: 우리는 누구인가?\nVision Statement: 우리는 무엇을 위해 존재하는 스타트업인가?\nProblem: 우리가 풀고자 하는 문제는 무엇인가?\nSolution: 우리의 솔루션은 고객에게 어떤 가치가 있는가?\nWhy Now: 우리는 왜 지금 시장에 문을 두드리는가?\nMarket...",
+          "link": "https://news.hada.io/topic?id=6242",
+          "publishedOn": "2022-03-28T01:26:01.000Z",
+          "wordCount": 163,
+          "title": "스타트업 피치 덱 체크포인트",
+          "imageUrl": "https://social.news.hada.io/topic/6242"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6241",
+          "author": null,
+          "description": "HTTP API로 이벤트 데이터를 받아서 설정된 Endpoint로 전달하는 웹훅 인프라 오픈소스\n지원 기능\n\n보안 : 이벤트 페이로드를 Signing\n이벤트 타입별 URL : 한개의 이벤트를 받아서 여러 엔드포인트로 팬아웃. 원하는 이벤트를 설정할수 있고 중복도 지원\n재시도 : 특정 횟...",
+          "link": "https://news.hada.io/topic?id=6241",
+          "publishedOn": "2022-03-28T01:06:01.000Z",
+          "wordCount": 142,
+          "title": "Convoy - 빠르고 안전한 Cloud Native 웹훅 서비스",
+          "imageUrl": "https://social.news.hada.io/topic/6241"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6240",
+          "author": null,
+          "description": "HN에 올라온 질문과 답변들\nNix로 매월 페타 데이터를 처리하는 수천 CPU코어와 수백 종류의 데이터 파이프라인을 운영중\nWhatsApp은 페북에 인수되기 전 베어메탈 서버에서 FreeBSD로 운영. BEAM 및 어플리케이션 코드를 rsync로 처리했음\nGrooveshark는 소수의 물리 서버만으로 45M",
+          "link": "https://news.hada.io/topic?id=6240",
+          "publishedOn": "2022-03-28T00:41:01.000Z",
+          "wordCount": 234,
+          "title": "컨테이너 기술 안 쓰고 대규모로 운영하시는 분 계신가요?",
+          "imageUrl": "https://social.news.hada.io/topic/6240"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6239",
+          "author": null,
+          "description": "K8s 개발자들에서 완전히 새로운 개발 환경을 제공하는 오픈소스\n개발자 머신에서 서비스를 로컬 실행\n피처 브랜치를 프로덕션과 비슷한 K8s 환경에서 운영\nTelepresense 2의 대체제\n\n개발자 머신이 클러스터의 일부가 되는 T2와 달리, Gefyra는 Wireguard 기반의 VPN을 이...",
+          "link": "https://news.hada.io/topic?id=6239",
+          "publishedOn": "2022-03-28T00:26:02.000Z",
+          "wordCount": 110,
+          "title": "Gefyra - 빠르고 안정적인 쿠버네티스 기반 로컬 개발환경",
+          "imageUrl": "https://social.news.hada.io/topic/6239"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6238",
+          "author": null,
+          "description": "다운로드 가속기 겸 비디오 다운로더 오픈소스\n윈도우/리눅스/맥 지원\n일반 다운로더보다 5-6배 빠른 속도\n다양한 비디오 스트리밍 사이트 지원\n크롬/FF/등의 브라우저와 잘 연동\n비디오 변환기능 내장\nHTTP/S, FTP, MPEG-DASH, Apple HLS, Adobe HDS 지...",
+          "link": "https://news.hada.io/topic?id=6238",
+          "publishedOn": "2022-03-27T01:17:02.000Z",
+          "wordCount": 88,
+          "title": "XDM - Xtreme Download Manager",
+          "imageUrl": "https://social.news.hada.io/topic/6238"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6237",
+          "author": null,
+          "description": "Repo에 새로운 이슈가 등록되면 자동으로 티켓을 프린터로 인쇄하기\nEpson TM-T88IV(감열식 영수증 프린터) + 라즈베리 Pi Zero W\nPHP 코드. ESC/POS 명령으로 인쇄하는 라이브러리 사용\n\n...",
+          "link": "https://news.hada.io/topic?id=6237",
+          "publishedOn": "2022-03-27T01:02:01.000Z",
+          "wordCount": 94,
+          "title": "GitHub Issue 실물 티켓 프린터를 만들었어요",
+          "imageUrl": "https://social.news.hada.io/topic/6237"
+        },
         {
           "id": "https://news.hada.io/topic?id=6236",
           "author": null,
@@ -218,66 +248,6 @@
           "wordCount": 114,
           "title": "FastAPI의 시대. 아직도 Flask 쓰시나요?",
           "imageUrl": "https://social.news.hada.io/topic/6233"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6232",
-          "author": null,
-          "description": "No Telemetry\nPrivate Search : DuckDuckGo, Searx, Qwant\nuBlock Origin 기본 포함\n개인정보 보호 향상\n항상 최신 버전의 Firefox 를 이용하여 빌드\n\n...",
-          "link": "https://news.hada.io/topic?id=6232",
-          "publishedOn": "2022-03-26T01:06:02.000Z",
-          "wordCount": 118,
-          "title": "LibreWolf - 개인정보 보호/보안/자유에 중점을 둔 Firefox 포크",
-          "imageUrl": "https://social.news.hada.io/topic/6232"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6231",
-          "author": null,
-          "description": "React, Vue 3, Svelte, Angluar를 모두 지원하는 UI 컴포넌트\n프레임워크간 테마 동기화 : 한번 브랜딩한 컴포넌트를 모든 프로젝트에서 같이 사용\nDecoupled CSS + No Preprocessing\n\n...",
-          "link": "https://news.hada.io/topic?id=6231",
-          "publishedOn": "2022-03-26T00:26:02.000Z",
-          "wordCount": 84,
-          "title": "AgnosticUI - 하나의 스타일시트로 모든 프레임워크 지원",
-          "imageUrl": "https://social.news.hada.io/topic/6231"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6230",
-          "author": null,
-          "description": "Debian 에서 파생된 PureOS 사용\n모뎀/마이크/WiFi/블루투스 하드웨어 킬스위치 제공\n필자는 이전에 Ubuntu Touch로 운영되는 OnePlus One 을 사용하다가 교체했음\n→ \"예상외로 많은 것이 잘 동작하며 기존 폰...",
-          "link": "https://news.hada.io/topic?id=6230",
-          "publishedOn": "2022-03-26T00:05:01.000Z",
-          "wordCount": 118,
-          "title": "Librem 5 :  리눅스 스마트폰의 첫 인상",
-          "imageUrl": "https://social.news.hada.io/topic/6230"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6229",
-          "author": null,
-          "description": "1.영국 기업 로지컬리\n머신러닝과 자연어 처리 기술, 사람 지능을 결합해 언론 보도 신뢰성을 평가함\n로지컬리 웹 브라우저 확장 프로그램은 10만여 발행처에서 나온 믿을만한 기사와 함께 내용 맥락을 살펴봄\n이어 정보 출처와 기사 신뢰성 등을 평가함\n연구 파트너의 전문",
-          "link": "https://news.hada.io/topic?id=6229",
-          "publishedOn": "2022-03-25T09:14:00.000Z",
-          "wordCount": 331,
-          "title": "AI로 가짜뉴스, 딥페이크, 이를 전파하는 소셜 미디어 봇 판별하는 방식",
-          "imageUrl": "https://social.news.hada.io/topic/6229"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6228",
-          "author": null,
-          "description": "이번 주말에 뭘 하려고 계획 중인지 편하게 얘기해 보아요.\n읽을 책, 가볼 곳, 해볼 것.. 어떤 것이든 좋습니다.\n지난 주말에 계획하셨던 일의 회고도 한번 남겨봐 주세요.",
-          "link": "https://news.hada.io/topic?id=6228",
-          "publishedOn": "2022-03-25T02:20:01.000Z",
-          "wordCount": 288,
-          "title": "Ask GN: 이번 주말에 뭐 하시나요?",
-          "imageUrl": "https://social.news.hada.io/topic/6228"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6227",
-          "author": null,
-          "description": "JP Morgan의 29p PDF 보고서\n\"2010년에 뉴욕에서 런던으로 돈을 보내는 가장 빠른 방법은 JFK에서 히드로 공항으로 직접 돈을 들고 가는 것이었다\"\nPOWER+ Framework를 통해 한 꼭지씩 설명\n\nPlatforms : 슈퍼앱, 중국 vs. 글로벌\nOnline : 이커머스, 디지털 아이...",
-          "link": "https://news.hada.io/topic?id=6227",
-          "publishedOn": "2022-03-25T01:13:32.000Z",
-          "wordCount": 177,
-          "title": "Payments가 세상을 먹어치우고 있다",
-          "imageUrl": "https://social.news.hada.io/topic/6227"
         }
       ]
     },

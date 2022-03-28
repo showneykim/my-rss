@@ -1,10 +1,98 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-27T01:23:17.021Z</id>
+    <id>urn:2022-03-28T01:35:58.896Z</id>
     <title>osmos::feed</title>
-    <updated>2022-03-27T01:23:17.021Z</updated>
+    <updated>2022-03-28T01:35:58.896Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[스타트업 피치 덱 체크포인트]]></title>
+        <id>https://news.hada.io/topic?id=6242</id>
+        <link href="https://news.hada.io/topic?id=6242"/>
+        <updated>2022-03-28T01:26:01.000Z</updated>
+        <summary type="html"><![CDATA[Cover page: 우리는 누구인가?
+Vision Statement: 우리는 무엇을 위해 존재하는 스타트업인가?
+Problem: 우리가 풀고자 하는 문제는 무엇인가?
+Solution: 우리의 솔루션은 고객에게 어떤 가치가 있는가?
+Why Now: 우리는 왜 지금 시장에 문을 두드리는가?
+Market...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Convoy - 빠르고 안전한 Cloud Native 웹훅 서비스]]></title>
+        <id>https://news.hada.io/topic?id=6241</id>
+        <link href="https://news.hada.io/topic?id=6241"/>
+        <updated>2022-03-28T01:06:01.000Z</updated>
+        <summary type="html"><![CDATA[HTTP API로 이벤트 데이터를 받아서 설정된 Endpoint로 전달하는 웹훅 인프라 오픈소스
+지원 기능
+
+보안 : 이벤트 페이로드를 Signing
+이벤트 타입별 URL : 한개의 이벤트를 받아서 여러 엔드포인트로 팬아웃. 원하는 이벤트를 설정할수 있고 중복도 지원
+재시도 : 특정 횟...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[컨테이너 기술 안 쓰고 대규모로 운영하시는 분 계신가요?]]></title>
+        <id>https://news.hada.io/topic?id=6240</id>
+        <link href="https://news.hada.io/topic?id=6240"/>
+        <updated>2022-03-28T00:41:01.000Z</updated>
+        <summary type="html"><![CDATA[HN에 올라온 질문과 답변들
+Nix로 매월 페타 데이터를 처리하는 수천 CPU코어와 수백 종류의 데이터 파이프라인을 운영중
+WhatsApp은 페북에 인수되기 전 베어메탈 서버에서 FreeBSD로 운영. BEAM 및 어플리케이션 코드를 rsync로 처리했음
+Grooveshark는 소수의 물리 서버만으로 45M]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gefyra - 빠르고 안정적인 쿠버네티스 기반 로컬 개발환경]]></title>
+        <id>https://news.hada.io/topic?id=6239</id>
+        <link href="https://news.hada.io/topic?id=6239"/>
+        <updated>2022-03-28T00:26:02.000Z</updated>
+        <summary type="html"><![CDATA[K8s 개발자들에서 완전히 새로운 개발 환경을 제공하는 오픈소스
+개발자 머신에서 서비스를 로컬 실행
+피처 브랜치를 프로덕션과 비슷한 K8s 환경에서 운영
+Telepresense 2의 대체제
+
+개발자 머신이 클러스터의 일부가 되는 T2와 달리, Gefyra는 Wireguard 기반의 VPN을 이...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XDM - Xtreme Download Manager]]></title>
+        <id>https://news.hada.io/topic?id=6238</id>
+        <link href="https://news.hada.io/topic?id=6238"/>
+        <updated>2022-03-27T01:17:02.000Z</updated>
+        <summary type="html"><![CDATA[다운로드 가속기 겸 비디오 다운로더 오픈소스
+윈도우/리눅스/맥 지원
+일반 다운로더보다 5-6배 빠른 속도
+다양한 비디오 스트리밍 사이트 지원
+크롬/FF/등의 브라우저와 잘 연동
+비디오 변환기능 내장
+HTTP/S, FTP, MPEG-DASH, Apple HLS, Adobe HDS 지...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Issue 실물 티켓 프린터를 만들었어요]]></title>
+        <id>https://news.hada.io/topic?id=6237</id>
+        <link href="https://news.hada.io/topic?id=6237"/>
+        <updated>2022-03-27T01:02:01.000Z</updated>
+        <summary type="html"><![CDATA[Repo에 새로운 이슈가 등록되면 자동으로 티켓을 프린터로 인쇄하기
+Epson TM-T88IV(감열식 영수증 프린터) + 라즈베리 Pi Zero W
+PHP 코드. ESC/POS 명령으로 인쇄하는 라이브러리 사용
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Overtone - 오픈소스 협업 프로그래머블 음악 환경]]></title>
         <id>https://news.hada.io/topic?id=6236</id>
@@ -98,49 +186,6 @@ Flask의 각 구성요소들은 FastAPI에서 어떻게 대체할 수 있는지 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LibreWolf - 개인정보 보호/보안/자유에 중점을 둔 Firefox 포크]]></title>
-        <id>https://news.hada.io/topic?id=6232</id>
-        <link href="https://news.hada.io/topic?id=6232"/>
-        <updated>2022-03-26T01:06:02.000Z</updated>
-        <summary type="html"><![CDATA[No Telemetry
-Private Search : DuckDuckGo, Searx, Qwant
-uBlock Origin 기본 포함
-개인정보 보호 향상
-항상 최신 버전의 Firefox 를 이용하여 빌드
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AgnosticUI - 하나의 스타일시트로 모든 프레임워크 지원]]></title>
-        <id>https://news.hada.io/topic?id=6231</id>
-        <link href="https://news.hada.io/topic?id=6231"/>
-        <updated>2022-03-26T00:26:02.000Z</updated>
-        <summary type="html"><![CDATA[React, Vue 3, Svelte, Angluar를 모두 지원하는 UI 컴포넌트
-프레임워크간 테마 동기화 : 한번 브랜딩한 컴포넌트를 모든 프로젝트에서 같이 사용
-Decoupled CSS + No Preprocessing
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Librem 5 :  리눅스 스마트폰의 첫 인상]]></title>
-        <id>https://news.hada.io/topic?id=6230</id>
-        <link href="https://news.hada.io/topic?id=6230"/>
-        <updated>2022-03-26T00:05:01.000Z</updated>
-        <summary type="html"><![CDATA[Debian 에서 파생된 PureOS 사용
-모뎀/마이크/WiFi/블루투스 하드웨어 킬스위치 제공
-필자는 이전에 Ubuntu Touch로 운영되는 OnePlus One 을 사용하다가 교체했음
-→ "예상외로 많은 것이 잘 동작하며 기존 폰...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[내가 틀렸네요]]></title>
         <id>https://jojoldu.tistory.com/658</id>
         <link href="https://jojoldu.tistory.com/658"/>
@@ -185,32 +230,6 @@ https://ahnheejong.name/articles/i-was-wrong-test/
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI로 가짜뉴스, 딥페이크, 이를 전파하는 소셜 미디어 봇 판별하는 방식]]></title>
-        <id>https://news.hada.io/topic?id=6229</id>
-        <link href="https://news.hada.io/topic?id=6229"/>
-        <updated>2022-03-25T09:14:00.000Z</updated>
-        <summary type="html"><![CDATA[1.영국 기업 로지컬리
-머신러닝과 자연어 처리 기술, 사람 지능을 결합해 언론 보도 신뢰성을 평가함
-로지컬리 웹 브라우저 확장 프로그램은 10만여 발행처에서 나온 믿을만한 기사와 함께 내용 맥락을 살펴봄
-이어 정보 출처와 기사 신뢰성 등을 평가함
-연구 파트너의 전문]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
-        <id>https://news.hada.io/topic?id=6228</id>
-        <link href="https://news.hada.io/topic?id=6228"/>
-        <updated>2022-03-25T02:20:01.000Z</updated>
-        <summary type="html"><![CDATA[이번 주말에 뭘 하려고 계획 중인지 편하게 얘기해 보아요.
-읽을 책, 가볼 곳, 해볼 것.. 어떤 것이든 좋습니다.
-지난 주말에 계획하셨던 일의 회고도 한번 남겨봐 주세요.]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[CloudFlare Pages로 Next.js 서비스 배포하기]]></title>
         <id>https://jojoldu.tistory.com/657</id>
         <link href="https://jojoldu.tistory.com/657"/>
@@ -243,21 +262,6 @@ react-in-action 으로 프로젝트를 생성한다.
   "pri…]]></summary>
         <author>
             <name>향로</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Payments가 세상을 먹어치우고 있다]]></title>
-        <id>https://news.hada.io/topic?id=6227</id>
-        <link href="https://news.hada.io/topic?id=6227"/>
-        <updated>2022-03-25T01:13:32.000Z</updated>
-        <summary type="html"><![CDATA[JP Morgan의 29p PDF 보고서
-"2010년에 뉴욕에서 런던으로 돈을 보내는 가장 빠른 방법은 JFK에서 히드로 공항으로 직접 돈을 들고 가는 것이었다"
-POWER+ Framework를 통해 한 꼭지씩 설명
-
-Platforms : 슈퍼앱, 중국 vs. 글로벌
-Online : 이커머스, 디지털 아이...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
     </entry>
     <entry>
@@ -665,45 +669,6 @@ export function sleep(sec) {
         console.log…]]></summary>
         <author>
             <name>향로</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trailing Slashes on URLs: Contentious or Settled?]]></title>
-        <id>https://css-tricks.com/?p=364070</id>
-        <link href="https://css-tricks.com/trailing-slashes-on-urls-contentious-or-settled/"/>
-        <updated>2022-02-25T21:13:08.000Z</updated>
-        <summary type="html"><![CDATA[A fun deep dive from Zach. Do you have an opinion on which you should use?
-1) https://website.com/foo/
-2) https://websites.com/foo
-The first option has a “trailing slash.” The second does not.
-I’ve always preferred this thinking: you use a trailing …
-Trailing Slashes on URLs: Contentious or Settled? originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When to Avoid the text-decoration Shorthand Property]]></title>
-        <id>https://css-tricks.com/?p=363619</id>
-        <link href="https://css-tricks.com/when-to-avoid-css-text-decoration-shorthand/"/>
-        <updated>2022-02-25T15:28:33.000Z</updated>
-        <summary type="html"><![CDATA[In my recent article about CSS underline bugs in Chrome, I discussed text-decoration-thickness and text-underline-offset, two relatively new and widely-supported CSS properties that give us more control over the styling of underlines.
-Let me demonstrate the usefulness of …
-When to Avoid the text-decoration Shorthand Property originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Šime Vidas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manuel Matuzovic’s CSS Specificity Demo]]></title>
-        <id>https://css-tricks.com/?p=364152</id>
-        <link href="https://css-tricks.com/manuel-matuzovics-css-specificity-demo/"/>
-        <updated>2022-02-25T15:27:19.000Z</updated>
-        <summary type="html"><![CDATA[If you’re looking for a primer on CSS specificity, we’ve got that. And if you’re trying to get ahead of the game, you should be aware of CSS Cascade Layers as well.
-One of the ways to help get …
-Manuel Matuzovic’s CSS Specificity Demo originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
 </feed>
