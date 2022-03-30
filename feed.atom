@@ -1,10 +1,135 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-29T01:21:57.032Z</id>
+    <id>urn:2022-03-30T01:23:16.160Z</id>
     <title>osmos::feed</title>
-    <updated>2022-03-29T01:21:57.032Z</updated>
+    <updated>2022-03-30T01:23:16.160Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[구글 문서, 마크다운 편집 지원 기능 추가]]></title>
+        <id>https://news.hada.io/topic?id=6256</id>
+        <link href="https://news.hada.io/topic?id=6256"/>
+        <updated>2022-03-30T01:00:04.000Z</updated>
+        <summary type="html"><![CDATA[구글 문서 설정을 통해서 켤 수 있으며, 여러 마크다운 문법을 지원.]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Caddy-SSH 를 소개합니다]]></title>
+        <id>https://news.hada.io/topic?id=6255</id>
+        <link href="https://news.hada.io/topic?id=6255"/>
+        <updated>2022-03-30T00:59:52.000Z</updated>
+        <summary type="html"><![CDATA[Caddy 웹서버 위에서 플러그인 방식으로 실행되는 Go로 작성된 SSH 서버
+SSH키/암호 및 Config에 지정된 URL로 로그인 가능(깃헙의 키 URL등)
+What's Next
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[검색 랭킹 흐름 만들기: 검색은 처음 인디요]]></title>
+        <id>https://news.hada.io/topic?id=6254</id>
+        <link href="https://news.hada.io/topic?id=6254"/>
+        <updated>2022-03-30T00:44:24.000Z</updated>
+        <summary type="html"><![CDATA[검색 문서 분류
+
+Airflow On Kubernetes 환경을 통해 모델을 학습해요.
+S3에 모델을 저장하고, CentralDogma를 통해서 버저닝을 해요.
+Go 언어로 배포된 model을 실시간으로 Inference하고 있어요
+Spark을 통해 대용량 문서를 예측을 해요
+검색 문서 ...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글 위협분석그룹(TAG), 북한의 위협에 대응]]></title>
+        <id>https://news.hada.io/topic?id=6253</id>
+        <link href="https://news.hada.io/topic?id=6253"/>
+        <updated>2022-03-30T00:28:38.000Z</updated>
+        <summary type="html"><![CDATA[2월 10일, 북한정부의 지원을 받는 2개의 해킹그룹이 크롬 브라우저의 원격코드 취약점을 이용해 공격을 시도
+
+미국의 뉴스매체, IT, 암호화폐 및 핀테크 회사들
+다른 나라와 기관들도 대상이 되었을수 있음
+이 취약점은 2월 14일에 패치됨. 처음 공격은 1월 14일부터 이...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS를 쓰는 스타트업 창업자가 자주하는 10가지 실수들]]></title>
+        <id>https://news.hada.io/topic?id=6252</id>
+        <link href="https://news.hada.io/topic?id=6252"/>
+        <updated>2022-03-30T00:13:56.000Z</updated>
+        <summary type="html"><![CDATA[AWS Budget 기능을 설정하지 않았다
+AWS Business Support를 활용하지 않았다
+루트 계정으로만 운영하고 있었다
+멀티 팩터 인증(MFA)을 설정하지 않았다
+인프라로서 코드(Infrastructure as Code) 기능을 사용하지 않았다
+액세스 키를 누가 어디서 사용하고 있는...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React v18 정식 릴리즈]]></title>
+        <id>https://news.hada.io/topic?id=6251</id>
+        <link href="https://news.hada.io/topic?id=6251"/>
+        <updated>2022-03-29T19:39:35.000Z</updated>
+        <summary type="html"><![CDATA[React v18.0이 정식 릴리즈되어 오늘부터 사용 가능.
+Automatic Batching 도입
+
+기존에 setTimeout 등에서 state update가 batch로 되지 않던 것이 개선
+Transition 기능 추가
+
+startTransition 등을 활용해 특정 부분이 우선적으로 반응하거나 처리되게끔 만들 수]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Killed by Microsoft]]></title>
+        <id>https://news.hada.io/topic?id=6249</id>
+        <link href="https://news.hada.io/topic?id=6249"/>
+        <updated>2022-03-29T02:02:01.000Z</updated>
+        <summary type="html"><![CDATA[마이크로소프트가 중단한 제품,서비스,기기 및 앱들의 리스트
+현재 70개
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fluent Icons - 4000개의 오픈소스 아이콘]]></title>
+        <id>https://news.hada.io/topic?id=6248</id>
+        <link href="https://news.hada.io/topic?id=6248"/>
+        <updated>2022-03-29T01:30:02.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft가 만들어서 공개한 Fluent Icons를 보기 쉽게 만든 사이트
+검색 및 미리보기, 색상 변경 가능
+SVG/HTML Image 및 React/Vue Component로 복사 지원
+SVG/PNG/WebP 다운로드
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[위대한 비즈니스에서 배우는 교훈]]></title>
+        <id>https://news.hada.io/topic?id=6247</id>
+        <link href="https://news.hada.io/topic?id=6247"/>
+        <updated>2022-03-29T01:08:02.000Z</updated>
+        <summary type="html"><![CDATA[고통스러워도 끈질긴 리크루터가 되기 (Stripe) : 채용하는데 3년 이상 걸린 5명의 직원이 있음
+집중 근무(Deep work) 시간을 극대화 하기 (Levels) : 미팅/슬랙/문자/스탠드업등을 최대한 줄이기
+고객에 대한 집착 (Coupang) : 고객별 상세 배달 지침
+인센티브 Align하기 (AngelLi...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AltTab - 윈도우의 Alt-Tab을 macOS에]]></title>
         <id>https://news.hada.io/topic?id=6246</id>
@@ -14,38 +139,6 @@
 모든 앱/Space/Screen에 있는 창에 대응(원하는 것만 가능하게 선택 가능)
 선택 창에 대해서 창닫기(W)/최소화(M)/종료(Q)/숨기기(H) 등 단축키 지원
 맥/윈도우 테마. 한 줄당 최대 윈도우/최대줄수/아이콘 사...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Modern PHP]]></title>
-        <id>https://news.hada.io/topic?id=6245</id>
-        <link href="https://news.hada.io/topic?id=6245"/>
-        <updated>2022-03-29T00:29:53.000Z</updated>
-        <summary type="html"><![CDATA[PHP 7 이후에 새로 추가된 기능 중 주목할만한 기능들
-Array destructuring (v7.1)
-Spread operator within arrays (v7.4) & (v8.1)
-Match expressions (v8.0)
-Enumerations (enums) (v8.1)
-Arrow functions (v7.4)
-Named parameters (v8.0)
-<li]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cli2Cloud - 터미널 아웃풋을 실시간 공유하기]]></title>
-        <id>https://news.hada.io/topic?id=6244</id>
-        <link href="https://news.hada.io/topic?id=6244"/>
-        <updated>2022-03-29T00:10:02.000Z</updated>
-        <summary type="html"><![CDATA[터미널 아웃풋을 Pipe 하여 공유하면 클라이언트 ID가 생성
-웹에서 접근하면 해당 커맨드의 stdout/stderr를 누구나 볼 수 있음
-AES CBC를 이용한 E2E 암호화 지원
-TypeScript + Go 오픈소스
-$ ping google.com | cli2cloud  
-Your cl...]]></summary>
         <author>
             <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
@@ -100,107 +193,6 @@ Activating design mode
 웬만해서는 휴재도 잘 나지 …]]></summary>
         <author>
             <name>향로</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SaaS기업의 비밀 : 왜 멀티테넌시가 중요한가]]></title>
-        <id>https://news.hada.io/topic?id=6243</id>
-        <link href="https://news.hada.io/topic?id=6243"/>
-        <updated>2022-03-28T01:54:01.000Z</updated>
-        <summary type="html"><![CDATA["Multitenancy는 SaaS의 확장성을 훌륭하게 만드는 숨겨진 기반"
-SaaS 모델의 높은 마진과 무한해 보이는 확장성은 주식시장/투자자/창업자들이 이 분야에 뛰어드는 이유
-그것을 가능하게 하는 것은 바로 인프라, 특히 "멀티테넌시" 개념
-오늘날 거의 모든 회사는]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스타트업 피치 덱 체크포인트]]></title>
-        <id>https://news.hada.io/topic?id=6242</id>
-        <link href="https://news.hada.io/topic?id=6242"/>
-        <updated>2022-03-28T01:26:01.000Z</updated>
-        <summary type="html"><![CDATA[Cover page: 우리는 누구인가?
-Vision Statement: 우리는 무엇을 위해 존재하는 스타트업인가?
-Problem: 우리가 풀고자 하는 문제는 무엇인가?
-Solution: 우리의 솔루션은 고객에게 어떤 가치가 있는가?
-Why Now: 우리는 왜 지금 시장에 문을 두드리는가?
-Market...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Convoy - 빠르고 안전한 Cloud Native 웹훅 서비스]]></title>
-        <id>https://news.hada.io/topic?id=6241</id>
-        <link href="https://news.hada.io/topic?id=6241"/>
-        <updated>2022-03-28T01:06:01.000Z</updated>
-        <summary type="html"><![CDATA[HTTP API로 이벤트 데이터를 받아서 설정된 Endpoint로 전달하는 웹훅 인프라 오픈소스
-지원 기능
-
-보안 : 이벤트 페이로드를 Signing
-이벤트 타입별 URL : 한개의 이벤트를 받아서 여러 엔드포인트로 팬아웃. 원하는 이벤트를 설정할수 있고 중복도 지원
-재시도 : 특정 횟...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[컨테이너 기술 안 쓰고 대규모로 운영하시는 분 계신가요?]]></title>
-        <id>https://news.hada.io/topic?id=6240</id>
-        <link href="https://news.hada.io/topic?id=6240"/>
-        <updated>2022-03-28T00:41:01.000Z</updated>
-        <summary type="html"><![CDATA[HN에 올라온 질문과 답변들
-Nix로 매월 페타 데이터를 처리하는 수천 CPU코어와 수백 종류의 데이터 파이프라인을 운영중
-WhatsApp은 페북에 인수되기 전 베어메탈 서버에서 FreeBSD로 운영. BEAM 및 어플리케이션 코드를 rsync로 처리했음
-Grooveshark는 소수의 물리 서버만으로 45M]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gefyra - 빠르고 안정적인 쿠버네티스 기반 로컬 개발환경]]></title>
-        <id>https://news.hada.io/topic?id=6239</id>
-        <link href="https://news.hada.io/topic?id=6239"/>
-        <updated>2022-03-28T00:26:02.000Z</updated>
-        <summary type="html"><![CDATA[K8s 개발자들에서 완전히 새로운 개발 환경을 제공하는 오픈소스
-개발자 머신에서 서비스를 로컬 실행
-피처 브랜치를 프로덕션과 비슷한 K8s 환경에서 운영
-Telepresense 2의 대체제
-
-개발자 머신이 클러스터의 일부가 되는 T2와 달리, Gefyra는 Wireguard 기반의 VPN을 이...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XDM - Xtreme Download Manager]]></title>
-        <id>https://news.hada.io/topic?id=6238</id>
-        <link href="https://news.hada.io/topic?id=6238"/>
-        <updated>2022-03-27T01:17:02.000Z</updated>
-        <summary type="html"><![CDATA[다운로드 가속기 겸 비디오 다운로더 오픈소스
-윈도우/리눅스/맥 지원
-일반 다운로더보다 5-6배 빠른 속도
-다양한 비디오 스트리밍 사이트 지원
-크롬/FF/등의 브라우저와 잘 연동
-비디오 변환기능 내장
-HTTP/S, FTP, MPEG-DASH, Apple HLS, Adobe HDS 지...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub Issue 실물 티켓 프린터를 만들었어요]]></title>
-        <id>https://news.hada.io/topic?id=6237</id>
-        <link href="https://news.hada.io/topic?id=6237"/>
-        <updated>2022-03-27T01:02:01.000Z</updated>
-        <summary type="html"><![CDATA[Repo에 새로운 이슈가 등록되면 자동으로 티켓을 프린터로 인쇄하기
-Epson TM-T88IV(감열식 영수증 프린터) + 라즈베리 Pi Zero W
-PHP 코드. ESC/POS 명령으로 인쇄하는 라이브러리 사용
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
     </entry>
     <entry>

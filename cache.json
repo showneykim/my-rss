@@ -11,7 +11,7 @@
           "description": "A bookmarklet is a JavaScript-based bookmark that adds to a web browser. I’d like to show you some awesome web browser hacks to aid your web development workflow and how to convert those hacks into time-saving bookmarklets.\nActivating design mode\n…\n6 Useful Bookmarklets to Boost Web Development originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/web-development-bookmarklets/",
           "publishedOn": "2022-03-28T18:15:41.000Z",
-          "wordCount": 1504,
+          "wordCount": 1541,
           "title": "6 Useful Bookmarklets to Boost Web Development",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364118"
         },
@@ -138,7 +138,7 @@
           "description": "퇴사의 이유 새로운 직장에 대한 니즈는 한 직장에서 일정기간 업무를 해 왔다면 한 번쯤 생각할 때가 있습니다. 왜 퇴사가 하고 싶을까요? 여러가지 이유가 있지만 각자가 가지고 있는 다양한 가치관에 따라, 또는 지나친 업무량에 따라,...\nThe post 퇴사를 해야겠다고 생각이 들때 appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/resign/",
           "publishedOn": "2022-03-11T17:42:31.000Z",
-          "wordCount": 1838,
+          "wordCount": 1872,
           "title": "퇴사를 해야겠다고 생각이 들때",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2022/03/62ced3bfdda80.jpeg"
         },
@@ -148,7 +148,7 @@
           "description": "DBeaver에서 java heap space 부족이라고 나올때 DB를 관리하는 툴중에 DBeaver라는 툴이 있습니다. 커뮤니티 버전은 프리웨어이기도 하고, 엔터프라이즈 버전은 낮은 가격에도 강력한 부가 기능들이 있어 주로 사용하는 DB툴입니다. DBeaver에서 대용량 테이블을 이관하거나 CSV 파일들의 작업을...\nThe post DBeaver에서 java heap space 부족이라고 나올때 appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/dbeaver%ec%97%90%ec%84%9c-java-heap-space-%eb%b6%80%ec%a1%b1%ec%9d%b4%eb%9d%bc%ea%b3%a0-%eb%82%98%ec%98%ac%eb%95%8c/",
           "publishedOn": "2022-03-01T15:22:02.000Z",
-          "wordCount": 534,
+          "wordCount": 529,
           "title": "DBeaver에서 java heap space 부족이라고 나올때",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2021/04/sm_5b46d890d85b8.jpg"
         }
@@ -160,104 +160,104 @@
       "siteUrl": "https://news.hada.io",
       "articles": [
         {
+          "id": "https://news.hada.io/topic?id=6256",
+          "author": null,
+          "description": "구글 문서 설정을 통해서 켤 수 있으며, 여러 마크다운 문법을 지원.",
+          "link": "https://news.hada.io/topic?id=6256",
+          "publishedOn": "2022-03-30T01:00:04.000Z",
+          "wordCount": 70,
+          "title": "구글 문서, 마크다운 편집 지원 기능 추가",
+          "imageUrl": "https://social.news.hada.io/topic/6256"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6255",
+          "author": null,
+          "description": "Caddy 웹서버 위에서 플러그인 방식으로 실행되는 Go로 작성된 SSH 서버\nSSH키/암호 및 Config에 지정된 URL로 로그인 가능(깃헙의 키 URL등)\nWhat's Next\n...",
+          "link": "https://news.hada.io/topic?id=6255",
+          "publishedOn": "2022-03-30T00:59:52.000Z",
+          "wordCount": 121,
+          "title": "Caddy-SSH 를 소개합니다",
+          "imageUrl": "https://social.news.hada.io/topic/6255"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6254",
+          "author": null,
+          "description": "검색 문서 분류\n\nAirflow On Kubernetes 환경을 통해 모델을 학습해요.\nS3에 모델을 저장하고, CentralDogma를 통해서 버저닝을 해요.\nGo 언어로 배포된 model을 실시간으로 Inference하고 있어요\nSpark을 통해 대용량 문서를 예측을 해요\n검색 문서 ...",
+          "link": "https://news.hada.io/topic?id=6254",
+          "publishedOn": "2022-03-30T00:44:24.000Z",
+          "wordCount": 104,
+          "title": "검색 랭킹 흐름 만들기: 검색은 처음 인디요",
+          "imageUrl": "https://social.news.hada.io/topic/6254"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6253",
+          "author": null,
+          "description": "2월 10일, 북한정부의 지원을 받는 2개의 해킹그룹이 크롬 브라우저의 원격코드 취약점을 이용해 공격을 시도\n\n미국의 뉴스매체, IT, 암호화폐 및 핀테크 회사들\n다른 나라와 기관들도 대상이 되었을수 있음\n이 취약점은 2월 14일에 패치됨. 처음 공격은 1월 14일부터 이...",
+          "link": "https://news.hada.io/topic?id=6253",
+          "publishedOn": "2022-03-30T00:28:38.000Z",
+          "wordCount": 124,
+          "title": "구글 위협분석그룹(TAG), 북한의 위협에 대응",
+          "imageUrl": "https://social.news.hada.io/topic/6253"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6252",
+          "author": null,
+          "description": "AWS Budget 기능을 설정하지 않았다\nAWS Business Support를 활용하지 않았다\n루트 계정으로만 운영하고 있었다\n멀티 팩터 인증(MFA)을 설정하지 않았다\n인프라로서 코드(Infrastructure as Code) 기능을 사용하지 않았다\n액세스 키를 누가 어디서 사용하고 있는...",
+          "link": "https://news.hada.io/topic?id=6252",
+          "publishedOn": "2022-03-30T00:13:56.000Z",
+          "wordCount": 134,
+          "title": "AWS를 쓰는 스타트업 창업자가 자주하는 10가지 실수들",
+          "imageUrl": "https://social.news.hada.io/topic/6252"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6251",
+          "author": null,
+          "description": "React v18.0이 정식 릴리즈되어 오늘부터 사용 가능.\nAutomatic Batching 도입\n\n기존에 setTimeout 등에서 state update가 batch로 되지 않던 것이 개선\nTransition 기능 추가\n\nstartTransition 등을 활용해 특정 부분이 우선적으로 반응하거나 처리되게끔 만들 수",
+          "link": "https://news.hada.io/topic?id=6251",
+          "publishedOn": "2022-03-29T19:39:35.000Z",
+          "wordCount": 131,
+          "title": "React v18 정식 릴리즈",
+          "imageUrl": "https://social.news.hada.io/topic/6251"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6249",
+          "author": null,
+          "description": "마이크로소프트가 중단한 제품,서비스,기기 및 앱들의 리스트\n현재 70개\n\n...",
+          "link": "https://news.hada.io/topic?id=6249",
+          "publishedOn": "2022-03-29T02:02:01.000Z",
+          "wordCount": 72,
+          "title": "Killed by Microsoft",
+          "imageUrl": "https://social.news.hada.io/topic/6249"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6248",
+          "author": null,
+          "description": "Microsoft가 만들어서 공개한 Fluent Icons를 보기 쉽게 만든 사이트\n검색 및 미리보기, 색상 변경 가능\nSVG/HTML Image 및 React/Vue Component로 복사 지원\nSVG/PNG/WebP 다운로드\n\n...",
+          "link": "https://news.hada.io/topic?id=6248",
+          "publishedOn": "2022-03-29T01:30:02.000Z",
+          "wordCount": 88,
+          "title": "Fluent Icons - 4000개의 오픈소스 아이콘",
+          "imageUrl": "https://social.news.hada.io/topic/6248"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6247",
+          "author": null,
+          "description": "고통스러워도 끈질긴 리크루터가 되기 (Stripe) : 채용하는데 3년 이상 걸린 5명의 직원이 있음\n집중 근무(Deep work) 시간을 극대화 하기 (Levels) : 미팅/슬랙/문자/스탠드업등을 최대한 줄이기\n고객에 대한 집착 (Coupang) : 고객별 상세 배달 지침\n인센티브 Align하기 (AngelLi...",
+          "link": "https://news.hada.io/topic?id=6247",
+          "publishedOn": "2022-03-29T01:08:02.000Z",
+          "wordCount": 175,
+          "title": "위대한 비즈니스에서 배우는 교훈",
+          "imageUrl": "https://social.news.hada.io/topic/6247"
+        },
+        {
           "id": "https://news.hada.io/topic?id=6246",
           "author": null,
           "description": "윈도우에서 Alt-Tab으로 창 미리보기 보며 이동하는 기능을 맥에서 사용\n모든 앱/Space/Screen에 있는 창에 대응(원하는 것만 가능하게 선택 가능)\n선택 창에 대해서 창닫기(W)/최소화(M)/종료(Q)/숨기기(H) 등 단축키 지원\n맥/윈도우 테마. 한 줄당 최대 윈도우/최대줄수/아이콘 사...",
           "link": "https://news.hada.io/topic?id=6246",
           "publishedOn": "2022-03-29T00:53:01.000Z",
-          "wordCount": 95,
+          "wordCount": 110,
           "title": "AltTab - 윈도우의 Alt-Tab을 macOS에",
           "imageUrl": "https://social.news.hada.io/topic/6246"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6245",
-          "author": null,
-          "description": "PHP 7 이후에 새로 추가된 기능 중 주목할만한 기능들\nArray destructuring (v7.1)\nSpread operator within arrays (v7.4) & (v8.1)\nMatch expressions (v8.0)\nEnumerations (enums) (v8.1)\nArrow functions (v7.4)\nNamed parameters (v8.0)\n<li",
-          "link": "https://news.hada.io/topic?id=6245",
-          "publishedOn": "2022-03-29T00:29:53.000Z",
-          "wordCount": 138,
-          "title": "Modern PHP",
-          "imageUrl": "https://social.news.hada.io/topic/6245"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6244",
-          "author": null,
-          "description": "터미널 아웃풋을 Pipe 하여 공유하면 클라이언트 ID가 생성\n웹에서 접근하면 해당 커맨드의 stdout/stderr를 누구나 볼 수 있음\nAES CBC를 이용한 E2E 암호화 지원\nTypeScript + Go 오픈소스\n$ ping google.com | cli2cloud  \nYour cl...",
-          "link": "https://news.hada.io/topic?id=6244",
-          "publishedOn": "2022-03-29T00:10:02.000Z",
-          "wordCount": 100,
-          "title": "Cli2Cloud - 터미널 아웃풋을 실시간 공유하기",
-          "imageUrl": "https://social.news.hada.io/topic/6244"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6243",
-          "author": null,
-          "description": "\"Multitenancy는 SaaS의 확장성을 훌륭하게 만드는 숨겨진 기반\"\nSaaS 모델의 높은 마진과 무한해 보이는 확장성은 주식시장/투자자/창업자들이 이 분야에 뛰어드는 이유\n그것을 가능하게 하는 것은 바로 인프라, 특히 \"멀티테넌시\" 개념\n오늘날 거의 모든 회사는",
-          "link": "https://news.hada.io/topic?id=6243",
-          "publishedOn": "2022-03-28T01:54:01.000Z",
-          "wordCount": 718,
-          "title": "SaaS기업의 비밀 : 왜 멀티테넌시가 중요한가",
-          "imageUrl": "https://social.news.hada.io/topic/6243"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6242",
-          "author": null,
-          "description": "Cover page: 우리는 누구인가?\nVision Statement: 우리는 무엇을 위해 존재하는 스타트업인가?\nProblem: 우리가 풀고자 하는 문제는 무엇인가?\nSolution: 우리의 솔루션은 고객에게 어떤 가치가 있는가?\nWhy Now: 우리는 왜 지금 시장에 문을 두드리는가?\nMarket...",
-          "link": "https://news.hada.io/topic?id=6242",
-          "publishedOn": "2022-03-28T01:26:01.000Z",
-          "wordCount": 163,
-          "title": "스타트업 피치 덱 체크포인트",
-          "imageUrl": "https://social.news.hada.io/topic/6242"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6241",
-          "author": null,
-          "description": "HTTP API로 이벤트 데이터를 받아서 설정된 Endpoint로 전달하는 웹훅 인프라 오픈소스\n지원 기능\n\n보안 : 이벤트 페이로드를 Signing\n이벤트 타입별 URL : 한개의 이벤트를 받아서 여러 엔드포인트로 팬아웃. 원하는 이벤트를 설정할수 있고 중복도 지원\n재시도 : 특정 횟...",
-          "link": "https://news.hada.io/topic?id=6241",
-          "publishedOn": "2022-03-28T01:06:01.000Z",
-          "wordCount": 142,
-          "title": "Convoy - 빠르고 안전한 Cloud Native 웹훅 서비스",
-          "imageUrl": "https://social.news.hada.io/topic/6241"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6240",
-          "author": null,
-          "description": "HN에 올라온 질문과 답변들\nNix로 매월 페타 데이터를 처리하는 수천 CPU코어와 수백 종류의 데이터 파이프라인을 운영중\nWhatsApp은 페북에 인수되기 전 베어메탈 서버에서 FreeBSD로 운영. BEAM 및 어플리케이션 코드를 rsync로 처리했음\nGrooveshark는 소수의 물리 서버만으로 45M",
-          "link": "https://news.hada.io/topic?id=6240",
-          "publishedOn": "2022-03-28T00:41:01.000Z",
-          "wordCount": 285,
-          "title": "컨테이너 기술 안 쓰고 대규모로 운영하시는 분 계신가요?",
-          "imageUrl": "https://social.news.hada.io/topic/6240"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6239",
-          "author": null,
-          "description": "K8s 개발자들에서 완전히 새로운 개발 환경을 제공하는 오픈소스\n개발자 머신에서 서비스를 로컬 실행\n피처 브랜치를 프로덕션과 비슷한 K8s 환경에서 운영\nTelepresense 2의 대체제\n\n개발자 머신이 클러스터의 일부가 되는 T2와 달리, Gefyra는 Wireguard 기반의 VPN을 이...",
-          "link": "https://news.hada.io/topic?id=6239",
-          "publishedOn": "2022-03-28T00:26:02.000Z",
-          "wordCount": 110,
-          "title": "Gefyra - 빠르고 안정적인 쿠버네티스 기반 로컬 개발환경",
-          "imageUrl": "https://social.news.hada.io/topic/6239"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6238",
-          "author": null,
-          "description": "다운로드 가속기 겸 비디오 다운로더 오픈소스\n윈도우/리눅스/맥 지원\n일반 다운로더보다 5-6배 빠른 속도\n다양한 비디오 스트리밍 사이트 지원\n크롬/FF/등의 브라우저와 잘 연동\n비디오 변환기능 내장\nHTTP/S, FTP, MPEG-DASH, Apple HLS, Adobe HDS 지...",
-          "link": "https://news.hada.io/topic?id=6238",
-          "publishedOn": "2022-03-27T01:17:02.000Z",
-          "wordCount": 104,
-          "title": "XDM - Xtreme Download Manager",
-          "imageUrl": "https://social.news.hada.io/topic/6238"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6237",
-          "author": null,
-          "description": "Repo에 새로운 이슈가 등록되면 자동으로 티켓을 프린터로 인쇄하기\nEpson TM-T88IV(감열식 영수증 프린터) + 라즈베리 Pi Zero W\nPHP 코드. ESC/POS 명령으로 인쇄하는 라이브러리 사용\n\n...",
-          "link": "https://news.hada.io/topic?id=6237",
-          "publishedOn": "2022-03-27T01:02:01.000Z",
-          "wordCount": 94,
-          "title": "GitHub Issue 실물 티켓 프린터를 만들었어요",
-          "imageUrl": "https://social.news.hada.io/topic/6237"
         }
       ]
     },
