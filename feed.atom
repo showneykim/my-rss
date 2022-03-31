@@ -1,10 +1,136 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-30T01:23:16.160Z</id>
+    <id>urn:2022-03-31T01:22:43.637Z</id>
     <title>osmos::feed</title>
-    <updated>2022-03-30T01:23:16.160Z</updated>
+    <updated>2022-03-31T01:22:43.637Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[MirageOS 4.0 공개]]></title>
+        <id>https://news.hada.io/topic?id=6264</id>
+        <link href="https://news.hada.io/topic?id=6264"/>
+        <updated>2022-03-31T00:58:49.000Z</updated>
+        <summary type="html"><![CDATA[단일 어플리케이션 실행을 위한 UniKernel을 만들어주는 라이브러리 OS
+
+Linux/Mac 등에서 코드를 개발해서 Xen/KVM 하이퍼바이저에서 실행되는 유니커널로 컴파일
+몇MB 정도의 OS 포함한 이미지가 생성되어 수ms안에 부팅해서 서비스 가능
+정적 웹사이트 호스팅, SMTP ...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USWDS - 미국 연방정부용 디자인 시스템]]></title>
+        <id>https://news.hada.io/topic?id=6263</id>
+        <link href="https://news.hada.io/topic?id=6263"/>
+        <updated>2022-03-31T00:43:01.000Z</updated>
+        <summary type="html"><![CDATA[접근이 쉽고 모바일 친화적인 정부 웹사이트를 만들기 위한 디자인 시스템
+
+유저 인터페이스 컴포넌트 : 버튼, 아코디언, 콤보박스등 44개
+디자인 토큰 : 타이포그래피, 유닛, 색상 등의 일관된 팔레트
+유틸리티 : 단일CSS 속성에 연결된 간단한 HTML 클래스들
+페이지 템플...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netflix, Skip Intro(오프닝 건너뛰기) 버튼 5년 회고]]></title>
+        <id>https://news.hada.io/topic?id=6262</id>
+        <link href="https://news.hada.io/topic?id=6262"/>
+        <updated>2022-03-31T00:26:00.000Z</updated>
+        <summary type="html"><![CDATA[하루에 1.36억회 눌리며, 매일 총 195년의 시간을 절약중
+처음엔 앞뒤로 10초씩 건너뛰기 버튼을 만들면 어떨까 하는 아이디어에서 시작
+실제 조사를 통해서 15%정도가 첫부분에서 수작업으로 건너뛰는 것을 발견
+목표는 필요할때만 나타나서 한번의 클릭으로 인트로를 건너뛰는 버...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stibee, 유료 구독 뉴스레터 기능 공개]]></title>
+        <id>https://news.hada.io/topic?id=6261</id>
+        <link href="https://news.hada.io/topic?id=6261"/>
+        <updated>2022-03-31T00:03:57.000Z</updated>
+        <summary type="html"><![CDATA[정기결제를 받는 유료 뉴스레터 발행 및 구독자 관리 기능
+년간/월간 구독 지원, 금액은 각각 설정 가능(연 구독 할인을 위해)
+PG 수수료 3.2% 만 받으며, 플랫폼 별도의 수수료는 없음(월 4900원인 스탠다드 요금제 부터 사용가능)
+정기 발행 및 시즌제 발행 방식 지원
+프...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tricks to Cut Corners Using CSS Mask and Clip-Path Properties]]></title>
+        <id>https://css-tricks.com/?p=364279</id>
+        <link href="https://css-tricks.com/cut-corners-using-css-mask-and-clip-path-properties/"/>
+        <updated>2022-03-30T16:35:08.000Z</updated>
+        <summary type="html"><![CDATA[We recently covered creating fancy borders with CSS mask properties, and now we are going to cut the corners with CSS mask and clip-path! A lot of techniques exist to cut different shapes from the corners of any element. …
+Tricks to Cut Corners Using CSS Mask and Clip-Path Properties originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sony, PS Plus와 PS Now를 통합한 정기 구독 서비스 리뉴얼]]></title>
+        <id>https://news.hada.io/topic?id=6260</id>
+        <link href="https://news.hada.io/topic?id=6260"/>
+        <updated>2022-03-30T03:36:56.000Z</updated>
+        <summary type="html"><![CDATA[PlayStation Plus 3가지 티어
+
+에센셜 : 기존 PS Plus와 기능/가격 동일. 매달 2개 게임 + 온라인 멀티플레이 + 클라우드 스토리지
+스페셜 : 약 400개의 PS4/PS5 게임 제공
+프리미엄 (한국 제외): PS1,PS2,PSP 스트리밍 및 다운로드, PS3 클라우드 스트리밍
+디럭스 : PS1,P...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[누군가를 당신의 전공 분야로 끌어들이게 해줄 책은?]]></title>
+        <id>https://news.hada.io/topic?id=6259</id>
+        <link href="https://news.hada.io/topic?id=6259"/>
+        <updated>2022-03-30T02:45:47.000Z</updated>
+        <summary type="html"><![CDATA[HN에 올라온 질문과 대답들
+국제 개발 : Seeing Like a State(국가처럼 보기)
+건축&공학 : Structures - Or Why Things Don't Fall Down
+화학&약물 : Pihkal - A Chemical Love Story
+심리학&의사소통 : Metaphors We Live By
+시스템 이론 : An Introd]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[딥/머신러닝에 관심 있다면? 구름IDE GPU 인스턴스 베타 오픈]]></title>
+        <id>https://news.hada.io/topic?id=6258</id>
+        <link href="https://news.hada.io/topic?id=6258"/>
+        <updated>2022-03-30T01:40:35.000Z</updated>
+        <summary type="html"><![CDATA[국내 유일의 클라우드 기반 통합 개발 환경인 구름IDE를 통해서
+손쉽게 몇 번의 클릭만으로 딥러닝을 위한 개발 환경을 빠르게 생성
+NVIDIA Tesla T4 모델 제공
+추후 다양한 GPU 모델 제공 예정]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[difftastic - 언어 문법을 이해하는 diff]]></title>
+        <id>https://news.hada.io/topic?id=6257</id>
+        <link href="https://news.hada.io/topic?id=6257"/>
+        <updated>2022-03-30T01:18:46.000Z</updated>
+        <summary type="html"><![CDATA[다양한 언어의 문법을 이해해서 의미없는 글자 변경은 무시
+
+블록 처리에 따른 들여쓰기, Align, Line-Wrapping 등
+변경된 코드를 눈으로 보고 확인하기 위한 용도 (Patching & Merging은 지원하지 않음)
+지원 언어
+
+Bash, C, C++, C# , Clojure , Common L...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[구글 문서, 마크다운 편집 지원 기능 추가]]></title>
         <id>https://news.hada.io/topic?id=6256</id>
@@ -24,121 +150,6 @@
 SSH키/암호 및 Config에 지정된 URL로 로그인 가능(깃헙의 키 URL등)
 What's Next
 ...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[검색 랭킹 흐름 만들기: 검색은 처음 인디요]]></title>
-        <id>https://news.hada.io/topic?id=6254</id>
-        <link href="https://news.hada.io/topic?id=6254"/>
-        <updated>2022-03-30T00:44:24.000Z</updated>
-        <summary type="html"><![CDATA[검색 문서 분류
-
-Airflow On Kubernetes 환경을 통해 모델을 학습해요.
-S3에 모델을 저장하고, CentralDogma를 통해서 버저닝을 해요.
-Go 언어로 배포된 model을 실시간으로 Inference하고 있어요
-Spark을 통해 대용량 문서를 예측을 해요
-검색 문서 ...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구글 위협분석그룹(TAG), 북한의 위협에 대응]]></title>
-        <id>https://news.hada.io/topic?id=6253</id>
-        <link href="https://news.hada.io/topic?id=6253"/>
-        <updated>2022-03-30T00:28:38.000Z</updated>
-        <summary type="html"><![CDATA[2월 10일, 북한정부의 지원을 받는 2개의 해킹그룹이 크롬 브라우저의 원격코드 취약점을 이용해 공격을 시도
-
-미국의 뉴스매체, IT, 암호화폐 및 핀테크 회사들
-다른 나라와 기관들도 대상이 되었을수 있음
-이 취약점은 2월 14일에 패치됨. 처음 공격은 1월 14일부터 이...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS를 쓰는 스타트업 창업자가 자주하는 10가지 실수들]]></title>
-        <id>https://news.hada.io/topic?id=6252</id>
-        <link href="https://news.hada.io/topic?id=6252"/>
-        <updated>2022-03-30T00:13:56.000Z</updated>
-        <summary type="html"><![CDATA[AWS Budget 기능을 설정하지 않았다
-AWS Business Support를 활용하지 않았다
-루트 계정으로만 운영하고 있었다
-멀티 팩터 인증(MFA)을 설정하지 않았다
-인프라로서 코드(Infrastructure as Code) 기능을 사용하지 않았다
-액세스 키를 누가 어디서 사용하고 있는...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React v18 정식 릴리즈]]></title>
-        <id>https://news.hada.io/topic?id=6251</id>
-        <link href="https://news.hada.io/topic?id=6251"/>
-        <updated>2022-03-29T19:39:35.000Z</updated>
-        <summary type="html"><![CDATA[React v18.0이 정식 릴리즈되어 오늘부터 사용 가능.
-Automatic Batching 도입
-
-기존에 setTimeout 등에서 state update가 batch로 되지 않던 것이 개선
-Transition 기능 추가
-
-startTransition 등을 활용해 특정 부분이 우선적으로 반응하거나 처리되게끔 만들 수]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Killed by Microsoft]]></title>
-        <id>https://news.hada.io/topic?id=6249</id>
-        <link href="https://news.hada.io/topic?id=6249"/>
-        <updated>2022-03-29T02:02:01.000Z</updated>
-        <summary type="html"><![CDATA[마이크로소프트가 중단한 제품,서비스,기기 및 앱들의 리스트
-현재 70개
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fluent Icons - 4000개의 오픈소스 아이콘]]></title>
-        <id>https://news.hada.io/topic?id=6248</id>
-        <link href="https://news.hada.io/topic?id=6248"/>
-        <updated>2022-03-29T01:30:02.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft가 만들어서 공개한 Fluent Icons를 보기 쉽게 만든 사이트
-검색 및 미리보기, 색상 변경 가능
-SVG/HTML Image 및 React/Vue Component로 복사 지원
-SVG/PNG/WebP 다운로드
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[위대한 비즈니스에서 배우는 교훈]]></title>
-        <id>https://news.hada.io/topic?id=6247</id>
-        <link href="https://news.hada.io/topic?id=6247"/>
-        <updated>2022-03-29T01:08:02.000Z</updated>
-        <summary type="html"><![CDATA[고통스러워도 끈질긴 리크루터가 되기 (Stripe) : 채용하는데 3년 이상 걸린 5명의 직원이 있음
-집중 근무(Deep work) 시간을 극대화 하기 (Levels) : 미팅/슬랙/문자/스탠드업등을 최대한 줄이기
-고객에 대한 집착 (Coupang) : 고객별 상세 배달 지침
-인센티브 Align하기 (AngelLi...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AltTab - 윈도우의 Alt-Tab을 macOS에]]></title>
-        <id>https://news.hada.io/topic?id=6246</id>
-        <link href="https://news.hada.io/topic?id=6246"/>
-        <updated>2022-03-29T00:53:01.000Z</updated>
-        <summary type="html"><![CDATA[윈도우에서 Alt-Tab으로 창 미리보기 보며 이동하는 기능을 맥에서 사용
-모든 앱/Space/Screen에 있는 창에 대응(원하는 것만 가능하게 선택 가능)
-선택 창에 대해서 창닫기(W)/최소화(M)/종료(Q)/숨기기(H) 등 단축키 지원
-맥/윈도우 테마. 한 줄당 최대 윈도우/최대줄수/아이콘 사...]]></summary>
         <author>
             <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
@@ -172,7 +183,7 @@ Activating design mode
 웹 소설의 경우 누적 조회수가 2.6억이다. 
 네이버 시리즈 최고 히트작 중 하나이다.
 처음엔 이 작품을 웹툰으로 시작했다. 
-웹툰으로 쭉 보다가 웹 소설로 전향한 경우이다. 
+웹툰으로 쭉 보다가 웹 소설로 전향했다. 
 이유는 아무리 돈이 있어도 회차가 더 나오지 않아 그 이상 볼 수가 없었기 때문이다.
 웹툰에서는 56화밖에 없는 이야기가 웹소설에서는 1183화까지 나와있다. 
 그러다보니 다음 이야기가 너무 궁금해서 웹소설로 넘어가서 보고 있다.
@@ -190,7 +201,7 @@ Activating design mode
 웹툰은 1주일에 1회도 어렵다.
 (작가님들을 위한 정기휴재는 이제 웹툰에서는 거의 필수로 적용된다)
 반면 웹소설은 1주일에 5~7회를 연재한다. 
-웬만해서는 휴재도 잘 나지 …]]></summary>
+웬만해서는 휴재도 잘 나지 않는다.…]]></summary>
         <author>
             <name>향로</name>
         </author>
@@ -658,64 +669,6 @@ The post DBeaver에서 java heap space 부족이라고 나올때 appeared first 
 (9월 2일, 3일에 시작된 첫커밋)
 개발 기간만 보면 짧았지만, 전체 일정을 보면 결코 짧은 일정은 아니였다. 
 7개월이란 시간이 빡빡하게 느껴진 것은 이 기간 안에서 비효율적으로 낭비되는 시간이 많았기 때문이…]]></summary>
-        <author>
-            <name>향로</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IE Down, Edge Up… Global Browser Usage Stats Are for Cocktail Parties and Conference Slides]]></title>
-        <id>https://css-tricks.com/?p=364346</id>
-        <link href="https://css-tricks.com/ie-down-edge-up-global-browser-usage-stats-are-for-cocktail-parties-and-conference-slides/"/>
-        <updated>2022-02-28T23:14:29.000Z</updated>
-        <summary type="html"><![CDATA[I enjoy articles like Hartley Charlton’s “Microsoft Edge Looks Set to Overtake Safari as World’s Second Most Popular Desktop Browser.” It’s juicy! We know these massive players in the browser market care very much about their market share, so when …
-IE Down, Edge Up… Global Browser Usage Stats Are for Cocktail Parties and Conference Slides originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Component Pseudo-Classes and Pseudo-Elements are Easier Than You Think]]></title>
-        <id>https://css-tricks.com/?p=363929</id>
-        <link href="https://css-tricks.com/web-component-pseudo-classes-and-pseudo-elements/"/>
-        <updated>2022-02-28T15:37:23.000Z</updated>
-        <summary type="html"><![CDATA[We’ve discussed a lot about the internals of using CSS in this ongoing series on web components, but there are a few special pseudo-elements and pseudo-classes that, like good friends, willingly smell your possibly halitotic breath before you go …
-Web Component Pseudo-Classes and Pseudo-Elements are Easier Than You Think originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>John Rhea</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Promise.all 과 Transactions (feat. Node.js)]]></title>
-        <id>https://jojoldu.tistory.com/639</id>
-        <link href="https://jojoldu.tistory.com/639"/>
-        <updated>2022-02-28T14:05:44.000Z</updated>
-        <summary type="html"><![CDATA[반응형
-
-                    
-                    (adsbygoogle = window.adsbygoogle || []).push({}); 
-               
-
-최근 팀에서 코드리뷰를 진행하던 중에 promise.all 과 트랜잭션에 대해 오해하고 있는 부분들을 발견하게 되어 정리하게 되었습니다.
-Promise.all (혹은 allSettled)을 사용하면 트랜잭션 내에서도 비동기로 여러 작업들이 동시에 이루어질 수 있다고 오해하는 것인데요. 
-실험을 해보면 그게 아니라는 것을 알 수 있습니다.
-실제 코드를 가지고 검증해보겠습니다.
-모든 실험 결과에 대해서 틀린 내용이 있다면 바로 댓글로 지적해주세요! 
-모든 지적은 저의 성장에 많은 도움이 되기 때문에 감사한 마음으로 수정하겠습니다 :)
-0. 테스트 환경
-테스트할 환경은 다음과 같습니다.
-Node.js 16.3.1
-PostgreSQL 13.2
-모든 코드는 Github 에 있습니다.
-1. Promise.all
-먼저 promise.all 에 대해서 알아보겠습니다. 
-(이미 아시겠지만, 이후 테스트를 설명하기 위한 배경 설명으로 봐주시면 됩니다.)
-테스트를 위해 다음과 같이 2개의 함수를 만들겠습니다.
-export function sleep(sec) {
-    const start = performance.now();
-    return new Promise(resolve=>{
-        setTimeout(resolve, sec * 1000);
-    }).then(() => {
-        console.log…]]></summary>
         <author>
             <name>향로</name>
         </author>
