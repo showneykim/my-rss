@@ -21,7 +21,7 @@
           "description": "A bookmarklet is a JavaScript-based bookmark that adds to a web browser. I’d like to show you some awesome web browser hacks to aid your web development workflow and how to convert those hacks into time-saving bookmarklets.\nActivating design mode\n…\n6 Useful Bookmarklets to Boost Web Development originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/web-development-bookmarklets/",
           "publishedOn": "2022-03-28T18:15:41.000Z",
-          "wordCount": 2294,
+          "wordCount": 2390,
           "title": "6 Useful Bookmarklets to Boost Web Development",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364118"
         },
@@ -74,26 +74,6 @@
           "wordCount": 938,
           "title": "Build Membership Businesses with Memberful",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364001"
-        },
-        {
-          "id": "https://css-tricks.com/?p=364350",
-          "author": "Chris Coyier",
-          "description": "I have a handful of good links to articles about performance that are burning a hole in my bookmarks folder, and wanna drop them here to share.\nThe new WebPageTest website design\nFrom fonts to SVG: an icon migration strategy\n…\n7 Fresh Links on Performance For March 2022 originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/performance-links-february-2022/",
-          "publishedOn": "2022-03-02T21:26:50.000Z",
-          "wordCount": 767,
-          "title": "7 Fresh Links on Performance For March 2022",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364350"
-        },
-        {
-          "id": "https://css-tricks.com/?p=363882",
-          "author": "Silvestar Bistrović",
-          "description": "“Raise the curtains” is what I call an effect where the background goes from dark to light on scroll, and the content on top also goes from light to dark while in a sticky position.\nHere’s an example where I …\nHow to Make a “Raise the Curtains” Effect in CSS originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/css-raise-the-curtains-effect/",
-          "publishedOn": "2022-03-02T15:57:32.000Z",
-          "wordCount": 1248,
-          "title": "How to Make a “Raise the Curtains” Effect in CSS",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363882"
         }
       ]
     },
@@ -108,7 +88,7 @@
           "description": "퇴사의 이유 새로운 직장에 대한 니즈는 한 직장에서 일정기간 업무를 해 왔다면 한 번쯤 생각할 때가 있습니다. 왜 퇴사가 하고 싶을까요? 여러가지 이유가 있지만 각자가 가지고 있는 다양한 가치관에 따라, 또는 지나친 업무량에 따라,...\nThe post 퇴사를 해야겠다고 생각이 들때 appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/resign/",
           "publishedOn": "2022-03-11T17:42:31.000Z",
-          "wordCount": 1871,
+          "wordCount": 1842,
           "title": "퇴사를 해야겠다고 생각이 들때",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2022/03/62ced3bfdda80.jpeg"
         }
@@ -119,6 +99,66 @@
       "feedUrl": "https://news.hada.io/rss/news",
       "siteUrl": "https://news.hada.io",
       "articles": [
+        {
+          "id": "https://news.hada.io/topic?id=6286",
+          "author": null,
+          "description": "WASM으로 웹앱, 마이크로서비스, 서버 등을 개발하기 위한 멀티랭귀지 프레임워크\n\nRust/Go 를 강력히 지원하지만, Python/Ruby/Grain/C++ 등으로도 작성 가능\nHTTP 요청등을 간단히 처리하는 인터페이스를 제공\nWAGI(WebAssembly Gateway Interface) 모듈과 100% 호환...",
+          "link": "https://news.hada.io/topic?id=6286",
+          "publishedOn": "2022-04-02T01:04:01.000Z",
+          "wordCount": 88,
+          "title": "Spin - 오픈소스 WebAssembly 프레임워크",
+          "imageUrl": "https://social.news.hada.io/topic/6286"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6285",
+          "author": null,
+          "description": "추천 환경 : GNOME 3 + CentOS 8 / Fedora 35 / Red Hat 8.5 / Ubuntu 20.04",
+          "link": "https://news.hada.io/topic?id=6285",
+          "publishedOn": "2022-04-02T00:49:02.000Z",
+          "wordCount": 73,
+          "title": "Wacom의 Linux용 Pen과 Tablet지원 현황",
+          "imageUrl": "https://social.news.hada.io/topic/6285"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6284",
+          "author": null,
+          "description": "Postgres Wire 프로토콜을 이용하여 원격 SQLite에 접근 가능하게 하는 프록시\npsql/DBeaver/Postico2 같은 Postgres용 GUI 도구로 SQLite를 원격에서 관리 가능\nGo 오픈소스\n\n...",
+          "link": "https://news.hada.io/topic?id=6284",
+          "publishedOn": "2022-04-02T00:24:01.000Z",
+          "wordCount": 80,
+          "title": "Postlite - Postgres Wire 호환 SQLite Proxy",
+          "imageUrl": "https://social.news.hada.io/topic/6284"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6283",
+          "author": null,
+          "description": "WASM으로 컴파일한 Doom을 Grafana에서 Datasource로 추가하고, 시계열 데이터처럼 렌더링하여 실행\n\nFull/Half 해상도 지원\nHalf(100x160) 해상도에서 256개의 활성 시계열(색상당 하나 씩) 및 16k 데이터포인트가 30fps 정도로 렌더링\nGrafana 사내 해커톤에서 만들어...",
+          "link": "https://news.hada.io/topic?id=6283",
+          "publishedOn": "2022-04-02T00:08:01.000Z",
+          "wordCount": 94,
+          "title": "Doomfana - Grafana에서 Doom 실행하기",
+          "imageUrl": "https://social.news.hada.io/topic/6283"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6282",
+          "author": null,
+          "description": "게임 개발을 돕기위해 AWS 서비스/솔루션/파트너를 얼라인\n클라우드 게임 개발, 게임 서버, 게임 보안, 실시간 운영, 게임 분석, 게임 AI & ML\n\n...",
+          "link": "https://news.hada.io/topic?id=6282",
+          "publishedOn": "2022-04-01T01:48:40.000Z",
+          "wordCount": 74,
+          "title": "AWS for Games 공개",
+          "imageUrl": "https://social.news.hada.io/topic/6282"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6281",
+          "author": null,
+          "description": "이번 주말에 뭘 하려고 계획 중인지 편하게 얘기해 보아요.\n읽을 책, 가볼 곳, 해볼 것.. 어떤 것이든 좋습니다.\n지난 주말에 계획하셨던 일의 회고도 한번 남겨봐 주세요.",
+          "link": "https://news.hada.io/topic?id=6281",
+          "publishedOn": "2022-04-01T01:35:58.000Z",
+          "wordCount": 137,
+          "title": "Ask GN: 이번 주말에 뭐 하시나요?",
+          "imageUrl": "https://social.news.hada.io/topic/6281"
+        },
         {
           "id": "https://news.hada.io/topic?id=6280",
           "author": null,
@@ -158,66 +198,6 @@
           "wordCount": 75,
           "title": "Supabase, GraphQL 지원 시작",
           "imageUrl": "https://social.news.hada.io/topic/6277"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6276",
-          "author": null,
-          "description": "\"A unified approach to federated learning, analytics, and evaluation.\"\n워크로드/ML Framework/프로그래밍 언어가 어떤 것이든 상관없음\n수천만개의 클라이언트까지 확장해서 실제 시스템에 적용 가능\n\n모바일,클라우드,라즈베리파이 등 다양한 장비/OS 지원",
-          "link": "https://news.hada.io/topic?id=6276",
-          "publishedOn": "2022-04-01T00:29:07.000Z",
-          "wordCount": 107,
-          "title": "Flower - 연합 학습(Federated Learning) 프레임워크",
-          "imageUrl": "https://social.news.hada.io/topic/6276"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6275",
-          "author": null,
-          "description": "Future Today Institute가 매년 발행하는 기술 동향 보고서\n4/20 까지는 무료로 다운로드 가능\n인공지능, 메타버스, Home of Things, 로봇, 탈중앙화 & 블록체인, 기후/에너지/우주 등 13개 분야별 정리\n목차\nArtificial Intelligence\nRecognitio...",
-          "link": "https://news.hada.io/topic?id=6275",
-          "publishedOn": "2022-04-01T00:17:15.000Z",
-          "wordCount": 151,
-          "title": "FTI의 2022 테크 트렌드 보고서 [658p PDF]",
-          "imageUrl": "https://social.news.hada.io/topic/6275"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6274",
-          "author": null,
-          "description": "Stripe의 대부분 코드는 Ruby : 15만개 파일에 1500만 라인\n\n새 멤버가 코드를 이해하기 쉽게하고, 에러를 줄이기 위해 만든 오픈소스 타입체커\n정적코드 분석을 통해서 각각의 코드 연결성을 이해하고, 타입 에러 및 자동완성, 사용법 문서화동에 도움을 줌\n4년동안 만...",
-          "link": "https://news.hada.io/topic?id=6274",
-          "publishedOn": "2022-04-01T00:01:40.000Z",
-          "wordCount": 115,
-          "title": "Sorbet : Stripe가 만든 Ruby용 Type Checker",
-          "imageUrl": "https://social.news.hada.io/topic/6274"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6273",
-          "author": null,
-          "description": "B2B 마케팅 도구인 Airbridge를 API팀이 어떤 프로세스로 만들어 나가는지에 대한 소개글\n고객의 요청사항과 아아디어를 수집\n우선 순위를 해결해야하는 문제 선정\nKick off 진행\n\n어떠한 작업인지 파악하고 사용자 시나리오 구체화\n개발자도 이 단계부터 참여해서",
-          "link": "https://news.hada.io/topic?id=6273",
-          "publishedOn": "2022-03-31T08:35:48.000Z",
-          "wordCount": 258,
-          "title": "고객의 불편함이 제품으로 되기까지 - Airbridge API 팀의 개발 프로세스",
-          "imageUrl": "https://social.news.hada.io/topic/6273"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6272",
-          "author": null,
-          "description": "로켓펀치가 매년 공개하는 가이드북의 올해 주제는 ‘자율 근무 조직에 잘 적응하기 위한 온보딩 가이드북’입니다. 신규 입사자가 새로운 업무 환경에서 무리 없이 일할 수 있도록 365일간의 적응 과정을 상세하게 정리했습니다. 비상업적 목적으로 자유롭게 활용해 주시기 바라며, 가이드북에 대한 개선 의견은 댓글...",
-          "link": "https://news.hada.io/topic?id=6272",
-          "publishedOn": "2022-03-31T05:04:59.000Z",
-          "wordCount": 141,
-          "title": "로켓펀치(알리콘), '자율 근무 습득 지침서 - 자습지' 공개",
-          "imageUrl": "https://social.news.hada.io/topic/6272"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6271",
-          "author": null,
-          "description": "3자리 버전 번호 : UA파싱 라이브러리 확인 및 웹사이트 테스트 필요\n축약하지 않은 UserAgent 스트링을 사용하는 최종 버전\n\n101부터 점차 줄여나가며, User-Agent Client Hints API로 대체\nMulti-screen window placement API\n개발도구\n\nCSS @suppor...",
-          "link": "https://news.hada.io/topic?id=6271",
-          "publishedOn": "2022-03-31T02:55:19.000Z",
-          "wordCount": 122,
-          "title": "구글 크롬 100 릴리즈",
-          "imageUrl": "https://social.news.hada.io/topic/6271"
         }
       ]
     },
@@ -227,12 +207,22 @@
       "siteUrl": "https://jojoldu.tistory.com/",
       "articles": [
         {
+          "id": "https://jojoldu.tistory.com/661",
+          "author": "향로",
+          "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\n\n아래는 인프랩의 채용 담당자를 통해 전달받은 메일의 답변을 옮긴것입니다. \n비슷한 메일이 많이 와서 블로그에도 정리하게 되었습니다.\n\n안녕하세요 A님. \n인프랩 개발팀입니다. :)\n퇴근하고나서 이메일 주신 내용을 읽어보고나서 답변을 정리해서 전달드립니다.\n먼저 오해를 풀고자 하는데요. \n오랫동안 Node.js 백엔드 개발자 채용 공고가 계속 올라가 있는 이유는 원하는 사람의 채용이 안되어서 그런것은 아닙니다 ^^;\n저희 같은 IT 기반의 스타트업은 대기업처럼 개발자에 한해서는 TO를 정해놓고 채용을 진행하지 않습니다.\n저희가 생각한 인재분이라면 Unlimit으로 채용을 하기 때문에 계속해서 열려있습니다.\n구체적으로 말씀드리면,\n작년 채용공고를 올리고 현재 6개월정도가 지났습니다.\n그 사이에 당시 4명이였던 Node.js 백엔드 개발자팀은 현재 9명이 되었습니다.\n그리고 2주뒤에 또 한명의 Node.js 개발자분이 합류하실 예정이라 곧 10명의 팀이 됩니다.\n즉, 6~7개월만에 2.5배 인원이 된 것입니다.\n그렇지만, 아직도 더 많은 인원을 채용하고자 합니다.\n현재 개발팀 규모의 몇배의 인원으로 확장할 계획이고, 아마도 몇년간 채용공고가 내려갈 일은 없을것 같습니다 :)\n이건 비단 저희 인프랩만 그런것은 아닙니다.\n대부분의 빅테크 스타트업부터 작은 스타트업들까지, 개발자에 한해서는 TO를 정하고 채용하진 않…",
+          "link": "https://jojoldu.tistory.com/661",
+          "publishedOn": "2022-04-01T17:30:37.000Z",
+          "wordCount": 907,
+          "title": "어떻게 준비하면 인프랩에 입사할 수 있나요.",
+          "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fb9CgFl%2FbtrycPMDZgY%2FBzy5q4K7gx5sjNywmHOUI1%2Fimg.png"
+        },
+        {
           "id": "https://jojoldu.tistory.com/660",
           "author": "향로",
           "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\n요즘 재밌게 보고 있는 웹툰 & 웹소설 중에 네이버 시리즈에 있는 화산귀환이 있다.\n웹 소설로 시작해서 그 인기에 힘입어 웹툰으로 나오게 된 작품이다.\n웹 소설의 경우 누적 조회수가 2.6억이다. \n네이버 시리즈 최고 히트작 중 하나이다.\n처음엔 이 작품을 웹툰으로 시작했다. \n웹툰으로 쭉 보다가 웹 소설로 전향했다. \n이유는 아무리 돈이 있어도 회차가 더 나오지 않아 그 이상 볼 수가 없었기 때문이다.\n웹툰에서는 56화밖에 없는 이야기가 웹소설에서는 1183화까지 나와있다. \n그러다보니 다음 이야기가 너무 궁금해서 웹소설로 넘어가서 보고 있다.\n그래서 요즘 웹툰은 그냥 작가님을 위한 응원의 마음으로 결제하고, 시간이 될 때마다 웹소설만 본다.\n요즘은 굳이 웹툰을 결제해야하나 생각중이다. \n어차피 웹 소설로 다 본 내용이기 때문이다.\n이건 참 신기한 일이다. \n웹툰은 컨텐츠를 소비하는 입장으로 장점이 많다.\n훨씬 보는 재미가 있다.\n훨씬 보기에 편하다.\n\n굳이 글을 다 읽을 필요가 없다\n컨텐츠 소비자로서 이만큼 장점이 있음에도 웹소설을 보는게 요즘의 내 모습이라는 것이다.\n왜 그럴까 생각해보면 결국 연재주기 때문이라고 생각했다.\n웹툰은 1주일에 1회도 어렵다.\n(작가님들을 위한 정기휴재는 이제 웹툰에서는 거의 필수로 적용된다)\n반면 웹소설은 1주일에 5~7회를 연재한다. \n웬만해서는 휴재도 잘 나지 않는다.…",
           "link": "https://jojoldu.tistory.com/660",
           "publishedOn": "2022-03-28T14:50:28.000Z",
-          "wordCount": 1182,
+          "wordCount": 1185,
           "title": "공급자 지향 플랫폼",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FMLlgY%2FbtrxIMhKFOZ%2FdltBR2TG1az9j0VI9ha4ak%2Fimg.jpg"
         },
@@ -252,7 +242,7 @@
           "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\n\n팀에 공유한 내용인데 블로그에도 정리한다.\n오늘 주변의 추천으로 희종님의 글을 봤다.\nhttps://ahnheejong.name/articles/i-was-wrong-test/\n예전에 어느책에서 봤던 내용인데 (제목은 까먹었다 ㅠㅠ) \n나 스스로 \"내가 틀렸네요\" 라고 입밖으로 낼 수 있는 용기가 있다면 그사람은 성장하는중이다 라는 이야기를 본적이 있다.\n그래서 그 이후로 \n\"제가 잘못알고 있었네요\" \n라고 이야기를 해야하는 순간이 오면 진짜 민망하고, 인정하기 싫었지만, \n\"그래도 이걸 이야기하지 않으면 나는 성장하지 못하겠지? 그게 더 무서운거 아닌가?\" \n라는 생각으로 어떻게든 내뱉었다.\n어떤 일을 하는데 있어 개인이 성장하려면 내가 틀렸음을 인정하고, 이걸 입밖으로 낼 용기를 가지는 것이 필요하다.\n이걸 자주 하지 않으면 더이상 주변의 사람들이 부족한점/잘못한점/틀린점에 대해 이야기하지 않게 된다.\n어차피 얘기해줘도 인정하지 않을것이고, 변하지도 않을텐데 굳이 감정상하고 싶진 않아서 그렇다.\n그렇게 될수록 점점 본인만의 세상에 갇히거나(흔히 말하는 꼰대) 더이상 성장하지 못하는 사람이 된다.\n1년에 몇번이나 내가 틀렸음을 이야기했는지\n가장 최근에 “너 그거 틀렸어” 피드백을 언제 받았는지\n등을 정기적으로 검토해보면 좋다.\n특히 일기 쓰면 정말 좋다.\n마침 왓챠의 채용공고에 적힌 같이 일하고 싶은 동료 이야기가 보인다.\n가장 최근에 \"내가 틀렸네요\" 라는 말은 언제했는지 찾아봤더니, \n최근에 내가 가이드한 방향이 너무 예전 지식이라 새 방향을 지적받을때 이야기 했었다. \n그 동료에게 정말 감사하다.\n희종님의 글 덕분에 다시 한번 \"내가 틀렸네요\"의 힘을 상기시킬 수 있어서 너무 감사드리고 싶다.\n            \n반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({});",
           "link": "https://jojoldu.tistory.com/658",
           "publishedOn": "2022-03-25T14:22:57.000Z",
-          "wordCount": 335,
+          "wordCount": 338,
           "title": "내가 틀렸네요",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FDO8kj%2Fbtrxh9ej1vi%2FIAB0ctbCycN6aUlpYzo1q0%2Fimg.jpg"
         },
@@ -292,7 +282,7 @@
           "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\n여러 포스팅에서 언급한것처럼 테스트 코드는 빠르게 실패를 파악할 수 있어야 한다.\n그런면에서 Optional chaining(?.) 은 테스트코드에 적합하지 않다.\nMDN의 설명을 가져오면 Optional chaining(?.)은 체이닝 연산자(.) 와 유사하게 작동하지만, 만약 참조가 nullish (null 또는 undefined)이라면, 에러가 발생하는 것 대신에 표현식의 리턴 값을 undefined로 반환한다.\n따라서 참조가 누락될 가능성이 있는 경우 연결된 속성으로 접근할 때 더 짧고 간단한 표현식이 생성된다. \n어떤 속성이 필요한지에 대한 보증이 확실하지 않는 경우 객체의 내용을 탐색하는 동안 도움이 될 수 있다.\n안정적으로 객체 탐색이 가능하기 때문에 프로덕션 코드에서는 적극적으로 사용하는 편이다. \n하지만 테스트 코드에서는 안정적인 점이 오히려 단점이 된다.\n문제\n이를 테면 다음과 같이 sut 의 하위에 있는 pay.amount 를 검증한다고 하자. \n이때 Optional chaining(?.) 을 사용한다면 다음과 같다.\nit('?가 있는 경우 #1', () => {\n    const amount = 0;\n    const sut = createOrder(amount);\n\n    expect(sut?.pay?.amount).toBe(amount);\n});\n\nclass Order {\n    p…",
           "link": "https://jojoldu.tistory.com/643",
           "publishedOn": "2022-03-08T00:26:46.000Z",
-          "wordCount": 510,
+          "wordCount": 509,
           "title": "테스트코드에서 Optional chaining(?.) 쓰지않기",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FzIsO7%2FbtrvtcvF3Zi%2FkghW6ofDOgXOiKJsfHYGLK%2Fimg.png"
         },
@@ -302,7 +292,7 @@
           "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\n테스트 코드는 프로젝트의 생명 주기 보다 길때가 많다. \n기존의 요구사항을 정리한것이 테스트 코드이기 때문에, 메인 코드보다 훨씬 더 읽기쉬워야만 한다.\n만약 테스트 코드가 복잡한 경우 어떻게 작동하는지 이해하기가 어렵다. \n그래서 테스트 코드는 주석이 필요 없을 정도로 간단해야 한다.\n그런면에서 조건부 (if ~ else) 테스트 로직은 테스트를 실제보다 더 복잡하게 만드는 요인 중 하나다.\n이번 글에서는 조건부 로직을 테스트에서 사용한 경우에 어떻게 개선할 수 있을지 알아본다.\n1. 가변 결과를 검증하는 경우\n1-1. 문제\n첫번째 문제는 다음과 같이 테스트 실행때마다 결과가 달라지는 경우이다.\nit('[Bad] 가변결과 검증', () => {\n    const now = LocalDateTime.now();\n    const sut = new TimeDisplay();\n    const result = sut.display(now);\n\n    let actual;\n    if(now.hour() === 0 && now.minute() === 0) {\n        actual = 'Midnight';\n    } else if (now.hour() === 12 && now.minute() === 0) {\n        actual = 'Noon';\n    } else {\n        actual = no…",
           "link": "https://jojoldu.tistory.com/642",
           "publishedOn": "2022-03-07T03:35:43.000Z",
-          "wordCount": 1076,
+          "wordCount": 1075,
           "title": "조건부 (if~else) 로직 테스트코드에서 사용하지 않기",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fcxmuyf%2Fbtrvne8iDrE%2FKAaA0pw9W0LAHjVj3iniTk%2Fimg.png"
         },
@@ -312,7 +302,7 @@
           "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\nGithub 에는 앞으로 출시할 기능 (Beta) 을 미리 써볼 수 있는 옵션이 있습니다. \n특히 최근에 Pull Request시 파일 트리를 볼 수 있는 기능이 베타 출시되었는데요. \n코드리뷰시에 굉장히 큰 도움을 주기 때문에 바로 적용해서 써보시는 것을 추천드립니다.\n이 포스팅은 2022.03.05에 작성된 것이기 때문에, 소개되는 베타기능들은 이후에 대부분 정식 출시된 상태일 것입니다.\n설정\nGithub 우측 상단의 프로필 아이콘을 클릭하신뒤, Feature preview를 선택합니다.\n그럼 아래와 같이 Modal이 나오는데, 이때 원하시는 베타 기능들을 선택하시고 Enable 을 누르시면 됩니다. \n(Enable을 클릭하면 아래와 같이 Disable로 버튼이 변경됩니다.)\n저는 여기서 Command Palette 와 Pull Request File Tree를 사용하도록 선택했습니다.\n설정하신 후에 새로고침을 해보시면 다음과 같이 Pull Request 화면의 좌측 사이드바에 검색창과 파일/디렉토리가 생긴 것을 볼 수 있습니다.\n해당 검색창에서 파일명으로 검색도 가능하며, 파일 클릭시 코드리뷰 화면에서도 바로 해당 파일로 이동이 됩니다.\nCommand Palette도 적용되어 Command + k (맥 기준) 다음과 같이 Github 웹 사이트에서 커맨드로 여러 액션을 수행할 수 있습니다.\n마무리\n기존에 Octotree 를 통해서 코드리뷰시 디렉토리와 파일을 보던 입장에서는 아주 환영할만한 기능이 추가되었습니다. \nGithub에서 이야기하는 여러 기능들을 미리 볼 수 있는 Feature preview 를 자주 보시면서 신규 기능이 나올때마다 사용해보시면 훨씬 재밌는 Github 경험을 해볼 수 있을것 같습니다.\n            \n반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({});",
           "link": "https://jojoldu.tistory.com/641",
           "publishedOn": "2022-03-05T11:19:36.000Z",
-          "wordCount": 355,
+          "wordCount": 354,
           "title": "Github 기능 미리 써보기 (Code Review시 디렉토리 미리보기)",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fb8p70Y%2Fbtru7rhAEhd%2FbF4p5PK6KGMUDQvE5fDK9k%2Fimg.png"
         }
