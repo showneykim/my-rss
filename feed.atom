@@ -1,10 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-02T01:21:47.222Z</id>
+    <id>urn:2022-04-03T01:35:24.528Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-02T01:21:47.222Z</updated>
+    <updated>2022-04-03T01:35:24.528Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Sysend.js - 브라우저의 탭간에 메시지를 전송하는 라이브러리]]></title>
+        <id>https://news.hada.io/topic?id=6289</id>
+        <link href="https://news.hada.io/topic?id=6289"/>
+        <updated>2022-04-03T00:41:02.000Z</updated>
+        <summary type="html"><![CDATA[열린 탭간에 메시지를 전송 가능하게 해서 웹 어플리케이션 동기화 가능
+HTML5 LocalStorage / BroadcastChannel API를 사용
+Cross-Domain(Cross-Origin) 커뮤니케이션 지원
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[fman build system - Python 과 QT로 크로스플랫폼 개발을 쉽게]]></title>
+        <id>https://news.hada.io/topic?id=6288</id>
+        <link href="https://news.hada.io/topic?id=6288"/>
+        <updated>2022-04-03T00:25:01.000Z</updated>
+        <summary type="html"><![CDATA[fbs : "Electron의 가벼운 대체제"
+Python & QT 는 크로스플랫폼 개발에 적합하지만,
+윈/맥/리눅스용 앱으로 패키징 및 인스톨러를 한번에
+GPL 오픈소스]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[gh-dash - 깃헙 PR과 이슈 대시보드를 CLI에서 보기]]></title>
+        <id>https://news.hada.io/topic?id=6287</id>
+        <link href="https://news.hada.io/topic?id=6287"/>
+        <updated>2022-04-03T00:06:01.000Z</updated>
+        <summary type="html"><![CDATA[gh 커맨드를 확장
+config.yml 로 PR / Issue 섹션별 다수의 필터를 지정 가능
+표준 깃헙 필터 포맷 사용
+  - title: My Pull Requests  
+    filters: is:open author:@me  
+  - title: Issue Assigned to Me  
+    filters: is:open assignee:@me]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Spin - 오픈소스 WebAssembly 프레임워크]]></title>
         <id>https://news.hada.io/topic?id=6286</id>
@@ -129,43 +172,6 @@ Grafana 사내 해커톤에서 만들어...]]></summary>
 
 Redis Stack Server : Redis + RediSearch, RedisJSON, RedisGraph, RedisTimeSeries, RedisBloom
 ...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10만명의 기술 인터뷰를 분석해서, 최고 성적을 낸 사람들이 일하는 회사를 조사해봤어요]]></title>
-        <id>https://news.hada.io/topic?id=6279</id>
-        <link href="https://news.hada.io/topic?id=6279"/>
-        <updated>2022-04-01T01:04:31.000Z</updated>
-        <summary type="html"><![CDATA[익명 기술인터뷰를 진행하는 플랫폼에서 진행한 인터뷰 결과를 분석
-총합 : Dropbox > Twitter > Lyft > Uber > Amazon > Google > Bloomberg LP > Facebook > Linkedin > Microsoft
-기술 : Dropbox > Bloomberg LP > Twitter > Lyft > Google
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spring 프레임워크 RCE 패치 릴리즈 (CVE-2022-22965)]]></title>
-        <id>https://news.hada.io/topic?id=6278</id>
-        <link href="https://news.hada.io/topic?id=6278"/>
-        <updated>2022-04-01T00:46:50.000Z</updated>
-        <summary type="html"><![CDATA[원격코드 실행이 가능한 취약점 패치
-Spring 5.3.0 ~ 5.3.17, 5.2.0 ~ 5.2.19 및 그 이전 버전에 해당
-조건 : JDK9 이상 + 톰캣 + WAR로 패키징 + spring-webmvc / webflux 의존성이 있는 경우
-5.3.18 이나 5.2.20 으로 업그레이드하면 해결
-→ 업그레이드 불가능하면, @Cont...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Supabase, GraphQL 지원 시작]]></title>
-        <id>https://news.hada.io/topic?id=6277</id>
-        <link href="https://news.hada.io/topic?id=6277"/>
-        <updated>2022-04-01T00:36:25.000Z</updated>
-        <summary type="html"><![CDATA[몇달전 자신들이 공개한 pg_graphql 오픈소스 기반]]></summary>
         <author>
             <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
@@ -582,29 +588,6 @@ Github에서 이야기하는 여러 기능들을 미리 볼 수 있는 Feature p
                     (adsbygoogle = window.adsbygoogle || []).push({});]]></summary>
         <author>
             <name>향로</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Say Hello to selectmenu, a Fully Style-able select Element]]></title>
-        <id>https://css-tricks.com/?p=363972</id>
-        <link href="https://css-tricks.com/the-selectmenu-element/"/>
-        <updated>2022-03-03T15:35:32.000Z</updated>
-        <summary type="html"><![CDATA[I want to introduce you to a new, experimental form control called <selectmenu>. We’ll get deep into it, including how much easier it is to style than a traditional <select> element. But first, let’s fill in some context …
-Say Hello to selectmenu, a Fully Style-able select Element originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Patrick Brosset</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build Membership Businesses with Memberful]]></title>
-        <id>https://css-tricks.com/?p=364001</id>
-        <link href="https://css-tricks.com/build-membership-businesses-with-memberful/"/>
-        <updated>2022-03-03T15:33:57.000Z</updated>
-        <summary type="html"><![CDATA[(This is a sponsored post.)
-What would your business be like if you sold memberships? It might be more than fun to think about, in fact, it might just be transformative. With membership, would you include little add-ons or …
-Build Membership Businesses with Memberful originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
 </feed>

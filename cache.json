@@ -54,26 +54,6 @@
           "wordCount": 6613,
           "title": "CSS-Tricks is joining DigitalOcean!",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365042"
-        },
-        {
-          "id": "https://css-tricks.com/?p=363972",
-          "author": "Patrick Brosset",
-          "description": "I want to introduce you to a new, experimental form control called <selectmenu>. We’ll get deep into it, including how much easier it is to style than a traditional <select> element. But first, let’s fill in some context …\nSay Hello to selectmenu, a Fully Style-able select Element originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/the-selectmenu-element/",
-          "publishedOn": "2022-03-03T15:35:32.000Z",
-          "wordCount": 3600,
-          "title": "Say Hello to selectmenu, a Fully Style-able select Element",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363972"
-        },
-        {
-          "id": "https://css-tricks.com/?p=364001",
-          "author": "Chris Coyier",
-          "description": "(This is a sponsored post.)\nWhat would your business be like if you sold memberships? It might be more than fun to think about, in fact, it might just be transformative. With membership, would you include little add-ons or …\nBuild Membership Businesses with Memberful originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/build-membership-businesses-with-memberful/",
-          "publishedOn": "2022-03-03T15:33:57.000Z",
-          "wordCount": 938,
-          "title": "Build Membership Businesses with Memberful",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364001"
         }
       ]
     },
@@ -88,7 +68,7 @@
           "description": "퇴사의 이유 새로운 직장에 대한 니즈는 한 직장에서 일정기간 업무를 해 왔다면 한 번쯤 생각할 때가 있습니다. 왜 퇴사가 하고 싶을까요? 여러가지 이유가 있지만 각자가 가지고 있는 다양한 가치관에 따라, 또는 지나친 업무량에 따라,...\nThe post 퇴사를 해야겠다고 생각이 들때 appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/resign/",
           "publishedOn": "2022-03-11T17:42:31.000Z",
-          "wordCount": 1842,
+          "wordCount": 1873,
           "title": "퇴사를 해야겠다고 생각이 들때",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2022/03/62ced3bfdda80.jpeg"
         }
@@ -99,6 +79,36 @@
       "feedUrl": "https://news.hada.io/rss/news",
       "siteUrl": "https://news.hada.io",
       "articles": [
+        {
+          "id": "https://news.hada.io/topic?id=6289",
+          "author": null,
+          "description": "열린 탭간에 메시지를 전송 가능하게 해서 웹 어플리케이션 동기화 가능\nHTML5 LocalStorage / BroadcastChannel API를 사용\nCross-Domain(Cross-Origin) 커뮤니케이션 지원\n\n...",
+          "link": "https://news.hada.io/topic?id=6289",
+          "publishedOn": "2022-04-03T00:41:02.000Z",
+          "wordCount": 78,
+          "title": "Sysend.js - 브라우저의 탭간에 메시지를 전송하는 라이브러리",
+          "imageUrl": "https://social.news.hada.io/topic/6289"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6288",
+          "author": null,
+          "description": "fbs : \"Electron의 가벼운 대체제\"\nPython & QT 는 크로스플랫폼 개발에 적합하지만,\n윈/맥/리눅스용 앱으로 패키징 및 인스톨러를 한번에\nGPL 오픈소스",
+          "link": "https://news.hada.io/topic?id=6288",
+          "publishedOn": "2022-04-03T00:25:01.000Z",
+          "wordCount": 103,
+          "title": "fman build system - Python 과 QT로 크로스플랫폼 개발을 쉽게",
+          "imageUrl": "https://social.news.hada.io/topic/6288"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6287",
+          "author": null,
+          "description": "gh 커맨드를 확장\nconfig.yml 로 PR / Issue 섹션별 다수의 필터를 지정 가능\n표준 깃헙 필터 포맷 사용\n  - title: My Pull Requests  \n    filters: is:open author:@me  \n  - title: Issue Assigned to Me  \n    filters: is:open assignee:@me",
+          "link": "https://news.hada.io/topic?id=6287",
+          "publishedOn": "2022-04-03T00:06:01.000Z",
+          "wordCount": 96,
+          "title": "gh-dash - 깃헙 PR과 이슈 대시보드를 CLI에서 보기",
+          "imageUrl": "https://social.news.hada.io/topic/6287"
+        },
         {
           "id": "https://news.hada.io/topic?id=6286",
           "author": null,
@@ -135,7 +145,7 @@
           "description": "WASM으로 컴파일한 Doom을 Grafana에서 Datasource로 추가하고, 시계열 데이터처럼 렌더링하여 실행\n\nFull/Half 해상도 지원\nHalf(100x160) 해상도에서 256개의 활성 시계열(색상당 하나 씩) 및 16k 데이터포인트가 30fps 정도로 렌더링\nGrafana 사내 해커톤에서 만들어...",
           "link": "https://news.hada.io/topic?id=6283",
           "publishedOn": "2022-04-02T00:08:01.000Z",
-          "wordCount": 94,
+          "wordCount": 103,
           "title": "Doomfana - Grafana에서 Doom 실행하기",
           "imageUrl": "https://social.news.hada.io/topic/6283"
         },
@@ -168,36 +178,6 @@
           "wordCount": 140,
           "title": "Redis Stack 공개",
           "imageUrl": "https://social.news.hada.io/topic/6280"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6279",
-          "author": null,
-          "description": "익명 기술인터뷰를 진행하는 플랫폼에서 진행한 인터뷰 결과를 분석\n총합 : Dropbox > Twitter > Lyft > Uber > Amazon > Google > Bloomberg LP > Facebook > Linkedin > Microsoft\n기술 : Dropbox > Bloomberg LP > Twitter > Lyft > Google\n...",
-          "link": "https://news.hada.io/topic?id=6279",
-          "publishedOn": "2022-04-01T01:04:31.000Z",
-          "wordCount": 166,
-          "title": "10만명의 기술 인터뷰를 분석해서, 최고 성적을 낸 사람들이 일하는 회사를 조사해봤어요",
-          "imageUrl": "https://social.news.hada.io/topic/6279"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6278",
-          "author": null,
-          "description": "원격코드 실행이 가능한 취약점 패치\nSpring 5.3.0 ~ 5.3.17, 5.2.0 ~ 5.2.19 및 그 이전 버전에 해당\n조건 : JDK9 이상 + 톰캣 + WAR로 패키징 + spring-webmvc / webflux 의존성이 있는 경우\n5.3.18 이나 5.2.20 으로 업그레이드하면 해결\n→ 업그레이드 불가능하면, @Cont...",
-          "link": "https://news.hada.io/topic?id=6278",
-          "publishedOn": "2022-04-01T00:46:50.000Z",
-          "wordCount": 105,
-          "title": "Spring 프레임워크 RCE 패치 릴리즈 (CVE-2022-22965)",
-          "imageUrl": "https://social.news.hada.io/topic/6278"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6277",
-          "author": null,
-          "description": "몇달전 자신들이 공개한 pg_graphql 오픈소스 기반",
-          "link": "https://news.hada.io/topic?id=6277",
-          "publishedOn": "2022-04-01T00:36:25.000Z",
-          "wordCount": 75,
-          "title": "Supabase, GraphQL 지원 시작",
-          "imageUrl": "https://social.news.hada.io/topic/6277"
         }
       ]
     },
