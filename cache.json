@@ -78,7 +78,7 @@
           "description": "퇴사의 이유 새로운 직장에 대한 니즈는 한 직장에서 일정기간 업무를 해 왔다면 한 번쯤 생각할 때가 있습니다. 왜 퇴사가 하고 싶을까요? 여러가지 이유가 있지만 각자가 가지고 있는 다양한 가치관에 따라, 또는 지나친 업무량에 따라,...\nThe post 퇴사를 해야겠다고 생각이 들때 appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/resign/",
           "publishedOn": "2022-03-11T17:42:31.000Z",
-          "wordCount": 1873,
+          "wordCount": 1871,
           "title": "퇴사를 해야겠다고 생각이 들때",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2022/03/62ced3bfdda80.jpeg"
         }
@@ -90,12 +90,72 @@
       "siteUrl": "https://news.hada.io",
       "articles": [
         {
+          "id": "https://news.hada.io/topic?id=6325",
+          "author": null,
+          "description": "과학/공학 분야에서 주로 사용되는 Julia 언어로 웹 앱 개발을 지원\n백엔드/UI/데이터 어플리케이션 및 대시보드/웹서비스/API 등 풀스택 웹 앱 개발 가능\nGenie.jl\n웹서버 내장, 유연한 템플릿 엔진, 강력한 라우터 및 쿠키/세션관리, 캐슁등 지원\nMVC 아키텍...",
+          "link": "https://news.hada.io/topic?id=6325",
+          "publishedOn": "2022-04-08T01:05:02.000Z",
+          "wordCount": 134,
+          "title": "GenieFramework - Julia용 웹 개발 프레임워크",
+          "imageUrl": "https://social.news.hada.io/topic/6325"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6324",
+          "author": null,
+          "description": "자신 또는 남의 유튜브 채널에서 스팸 코멘트를 찾고 모두 한번에 삭제하거나 신고해주는 도구\n15가지의 필터링 방법 지원\n\nAuto-Smart, Sensitive-Smart\n채널ID/사용자명/텍스트/Non-ASCII 모드 스캔\n4가지 스캐닝 모드\n\n비디오 1개, 최근 비디오 5개...",
+          "link": "https://news.hada.io/topic?id=6324",
+          "publishedOn": "2022-04-08T00:50:01.000Z",
+          "wordCount": 116,
+          "title": "YT-Spammer-Purge : 유튜브 스팸댓글 자동 삭제 도구",
+          "imageUrl": "https://social.news.hada.io/topic/6324"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6323",
+          "author": null,
+          "description": "사용자 이름과 암호, API 토큰, 프라이빗 키등을 자동 스캔하여 유출되는 것을 방지\nGitHub/GitLab/BitBucket 저장소 및 로컬 디렉토리 지원\n150개 Signature 지원 : AWS, Azure, Google, Docker, Heroku, ..\nLive Web UI 제공\nJavaScript + Go 오픈소스\n\n...",
+          "link": "https://news.hada.io/topic?id=6323",
+          "publishedOn": "2022-04-08T00:33:02.000Z",
+          "wordCount": 104,
+          "title": "shhgit - Secret 유출 방지용 검색 오픈소스",
+          "imageUrl": "https://social.news.hada.io/topic/6323"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6322",
+          "author": null,
+          "description": "자연어 설명을 가지고 실제 이미지를 생성해내는 AI 시스템\n1년 2개월만에 내놓는 버전 2는 4배 해상도로 더 사실적이고 정확한 이미지를 생성\n컨셉/속성/스타일을 결합 가능\n→ 우주인/테디베어/수프 그릇이, 말타고 있는/리조트에서 쉬는/농구하는, 사진같은/앤디워홀 스타일/연필 드...",
+          "link": "https://news.hada.io/topic?id=6322",
+          "publishedOn": "2022-04-08T00:16:01.000Z",
+          "wordCount": 103,
+          "title": "DALL·E 2 공개",
+          "imageUrl": "https://social.news.hada.io/topic/6322"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6321",
+          "author": null,
+          "description": "지난 2021년 연말 SNS를 강타했던 \"내 트리를 꾸며줘\" 서비스에 대해 알고 계신가요? 일종의 온라인 롤링페이퍼 서비스입니다. 토이 프로젝트로 시작한 서비스였는데요, 서비스 시작 5일만에 가입자 250만명에 이를 정도로 급작스럽게 성장했습니다. 그리고 크리스마스 당일에는 동접자 117만명, 초당 4만회...",
+          "link": "https://news.hada.io/topic?id=6321",
+          "publishedOn": "2022-04-07T01:53:20.000Z",
+          "wordCount": 138,
+          "title": "\"내 트리를 꾸며줘\" 1600만 트래픽을 지탱했던 애저 서버리스 아키텍처 [video 1:12분]",
+          "imageUrl": "https://social.news.hada.io/topic/6321"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6320",
+          "author": null,
+          "description": "pytorch 와 micrograd 의 중간쯤\n1000라인도 안되는 코드의 간단하고 쉬운 딥러닝 프레임워크\n\nAccelerator를 쉽게 추가 가능\nEfficientNet 및 Transformer 모델 지원\n애플 뉴럴 엔진 및 구글 TPU 지원 작업 진행중\n최종적으로는 tinygrad를 위한 하드...",
+          "link": "https://news.hada.io/topic?id=6320",
+          "publishedOn": "2022-04-07T01:30:01.000Z",
+          "wordCount": 98,
+          "title": "geohot/tinygrad - 미니멀한 딥러닝 프레임워크",
+          "imageUrl": "https://social.news.hada.io/topic/6320"
+        },
+        {
           "id": "https://news.hada.io/topic?id=6319",
           "author": null,
           "description": "이상한 앨범 이름\n† from Justice\n★ from David Bowie\n' from Frank Zappa\n() from Sigur Rós\n<|°_°|> from Caravan Palace\n헷갈리는 앨범 이름\n(untitled) from The Byrds\nuntitled from R Kelly\nuntil...",
           "link": "https://news.hada.io/topic?id=6319",
           "publishedOn": "2022-04-07T01:06:41.000Z",
-          "wordCount": 453,
+          "wordCount": 573,
           "title": "음악을 다룰 때 고려해야 할 엣지케이스들",
           "imageUrl": "https://social.news.hada.io/topic/6319"
         },
@@ -115,7 +175,7 @@
           "description": "새로운 기능들은 이미 Fortnite 와 Matrix Awaken 에서 사용된 바 있음\n주요 기능들\n\n차세대 실시간 렌더링 : Lumen & Nanite\n새로운 Open World 툴셋\n빌트인 캐릭터 & 애니메이션 도...",
           "link": "https://news.hada.io/topic?id=6317",
           "publishedOn": "2022-04-07T00:35:20.000Z",
-          "wordCount": 280,
+          "wordCount": 309,
           "title": "Unreal Engine 5 정식 릴리즈",
           "imageUrl": "https://social.news.hada.io/topic/6317"
         },
@@ -128,66 +188,6 @@
           "wordCount": 715,
           "title": "Show GN: Pbkit - Deno로 만든 Protobuf 툴킷 (컴파일러, 패키지 매니저, VSCode 확장, 크롬 확장)",
           "imageUrl": "https://social.news.hada.io/topic/6316"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6315",
-          "author": null,
-          "description": "영어 단어를 외우는데 이런 문제점이 있더라구요. 기존의 단어장이나 단어장 앱들이 좀 불편한...\n내가 아는거만 모아서 외우고 싶은데 걍 순서대로 봤던거 또 봐야 함\n단어 퀴즈 앱들은 보기가 있어서 대충 때려 맞추기 가능. 실전에서 단어만 딱 보면 머리가 하얘짐\n그래서 영",
-          "link": "https://news.hada.io/topic?id=6315",
-          "publishedOn": "2022-04-06T05:28:44.000Z",
-          "wordCount": 185,
-          "title": "Show GN: 영어 단어 반복 학습에 최적화된 단어장을 만들어봤어요.",
-          "imageUrl": "https://social.news.hada.io/topic/6315"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6314",
-          "author": null,
-          "description": "네덜란드의 철도 사업자, NS에 의하면 IT 시스템 장애로 4월 3일 일요일 열차를 운행하지 못했습니다.\n장애가 발생한 것은 기차와 직원에 대한 일정을 생성하는 시스템이었는데, 사고가 발생하면 시스템이 일정을 조정해주고 있었습니다만 장애로 인해 불가능했습니다.\n\n...",
-          "link": "https://news.hada.io/topic?id=6314",
-          "publishedOn": "2022-04-06T03:32:24.000Z",
-          "wordCount": 150,
-          "title": "IT 시스템이 고장나 있는동안, 오늘은(4월 3일) 어떤 열차도 운행하지 못합니다",
-          "imageUrl": "https://social.news.hada.io/topic/6314"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6313",
-          "author": null,
-          "description": "GPU 가속 되는 네이티브 터미널 (4k에서 60fps)\nzsh, fish, bash 등과 호환\n커맨드 입력이 코드에디팅 하는 것과 비슷. 커서 이동, 선택, 자동완성 메뉴등\n커맨드 단위(입력/출력이 한 블럭) 스크롤링 네비게이션 가능. 클릭하면 출력을 복사\n간단한 GUI로 워크플로우 사용...",
-          "link": "https://news.hada.io/topic?id=6313",
-          "publishedOn": "2022-04-06T02:50:56.000Z",
-          "wordCount": 311,
-          "title": "Warp - Rust로 작성된 빠른 터미널",
-          "imageUrl": "https://social.news.hada.io/topic/6313"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6312",
-          "author": null,
-          "description": "Digikam 으로 사진 다운로드\nGeeqie 로 브라우징\nRawTeherapee 로 RAW파일 처리\nDigikam 으로 관리\nSyncthing 으로 기기간 복제\nrestic 으로 백업\n현재 18만장의 파일을 Digikam 으로 관리중\nGeeqie 로 사진을 보고 추려냄",
-          "link": "https://news.hada.io/topic?id=6312",
-          "publishedOn": "2022-04-06T01:40:45.000Z",
-          "wordCount": 163,
-          "title": "프리 소프트웨어로 구성한 사진작업 워크플로우",
-          "imageUrl": "https://social.news.hada.io/topic/6312"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6311",
-          "author": null,
-          "description": "페이스북/인스타/트위터가 차단된 러시아 사용자에겐 중국이 소유한 틱톡만 가능\n하지만, 러시아 사용자들은 틱톡에선 우크라이나 사정을 전혀 볼 수 없음\n우크라이나 하르키우(Kharkiv) 와 러시아 벨고로트(Belgorod) 는 80km 떨어진 인접 도시\n틱톡 크롤링 봇을 만들어 양쪽 도시...",
-          "link": "https://news.hada.io/topic?id=6311",
-          "publishedOn": "2022-04-06T01:04:16.000Z",
-          "wordCount": 385,
-          "title": "하나의 앱 - 두개의 세계 : 러시아와 우크라이나의 TikTok",
-          "imageUrl": "https://social.news.hada.io/topic/6311"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6310",
-          "author": null,
-          "description": "온라인 컨퍼런스에 추가로, 6월 6일 키노트와 State of the Union 비디오를 함께 보는 이벤트를 애플파크에서 개최 예정(개발자 & 학생 대상, 별도 참가신청 필요)",
-          "link": "https://news.hada.io/topic?id=6310",
-          "publishedOn": "2022-04-06T00:24:52.000Z",
-          "wordCount": 80,
-          "title": "애플 WWDC22 6월 6~10일 온라인 개최",
-          "imageUrl": "https://social.news.hada.io/topic/6310"
         }
       ]
     },
