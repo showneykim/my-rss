@@ -90,6 +90,56 @@
       "siteUrl": "https://news.hada.io",
       "articles": [
         {
+          "id": "https://news.hada.io/topic?id=6330",
+          "author": null,
+          "description": "개발자들이 가장 선호하는 기업에서는 각각 고유의 핵심가치(Core Value)를 내세워 일하는 문화를 혁신하고 있는데, 이들이 강조하는 핵심가치 키워드 BEST 5는 바로 신속 신뢰 소통 몰입 도전 이다.\n신속(Fast) : 완벽한 계획보다 빠",
+          "link": "https://news.hada.io/topic?id=6330",
+          "publishedOn": "2022-04-09T00:31:00.000Z",
+          "wordCount": 165,
+          "title": "네카라쿠배당토 핵심가치는 뭐가 다를까?",
+          "imageUrl": "https://social.news.hada.io/topic/6330"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6329",
+          "author": null,
+          "description": "\"Built-in HTTPS Endpoints for Single-Function Microservices\"\n람다 함수에 URL엔드포인트를 설정해서 호출(CORS 헤더 설정 지원)\n버전별로 호출 및 Alias 지정 가능\n\n...",
+          "link": "https://news.hada.io/topic?id=6329",
+          "publishedOn": "2022-04-09T00:16:44.000Z",
+          "wordCount": 75,
+          "title": "AWS Lambda Function URLs 공개",
+          "imageUrl": "https://social.news.hada.io/topic/6329"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6328",
+          "author": null,
+          "description": "랜덤으로 중세 도시의 지도를 만들어주는 페이지입니다. 멋진 이름도 생성해줘요.\n생성된 도시는 URL로 seed와 파라미터가 정해집니다. URL을 복사하면, 지금 보는 지도를 공유할 수 있습니다.\n컬러 설정을 자유롭게 변경할 수 있습니다.\n해당 페이지의 소스코드는",
+          "link": "https://news.hada.io/topic?id=6328",
+          "publishedOn": "2022-04-08T03:51:56.000Z",
+          "wordCount": 125,
+          "title": "중세 도시 지도 생성기",
+          "imageUrl": "https://social.news.hada.io/topic/6328"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6327",
+          "author": null,
+          "description": "이번 주말에 뭘 하려고 계획 중인지 편하게 얘기해 보아요.\n읽을 책, 가볼 곳, 해볼 것.. 어떤 것이든 좋습니다.\n지난 주말에 계획하셨던 일의 회고도 한번 남겨봐 주세요.",
+          "link": "https://news.hada.io/topic?id=6327",
+          "publishedOn": "2022-04-08T02:41:01.000Z",
+          "wordCount": 271,
+          "title": "Ask GN: 이번 주말에 뭐 하시나요?",
+          "imageUrl": "https://social.news.hada.io/topic/6327"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6326",
+          "author": null,
+          "description": "여러개의 액션을 묶어서 한개의 API로 처리가능\n지원 액션\n\nPDF 생성/변환/합치기/분리/복제/삭제\n이미지 변환\nOCR, 워터마크\nJS/Python/Java/C#/PHP 샘플 코드 및 Postman 컬렉션 제...",
+          "link": "https://news.hada.io/topic?id=6326",
+          "publishedOn": "2022-04-08T01:24:01.000Z",
+          "wordCount": 96,
+          "title": "PSPDFKit API - PDF처리용 HTTP API",
+          "imageUrl": "https://social.news.hada.io/topic/6326"
+        },
+        {
           "id": "https://news.hada.io/topic?id=6325",
           "author": null,
           "description": "과학/공학 분야에서 주로 사용되는 Julia 언어로 웹 앱 개발을 지원\n백엔드/UI/데이터 어플리케이션 및 대시보드/웹서비스/API 등 풀스택 웹 앱 개발 가능\nGenie.jl\n웹서버 내장, 유연한 템플릿 엔진, 강력한 라우터 및 쿠키/세션관리, 캐슁등 지원\nMVC 아키텍...",
@@ -138,56 +188,6 @@
           "wordCount": 138,
           "title": "\"내 트리를 꾸며줘\" 1600만 트래픽을 지탱했던 애저 서버리스 아키텍처 [video 1:12분]",
           "imageUrl": "https://social.news.hada.io/topic/6321"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6320",
-          "author": null,
-          "description": "pytorch 와 micrograd 의 중간쯤\n1000라인도 안되는 코드의 간단하고 쉬운 딥러닝 프레임워크\n\nAccelerator를 쉽게 추가 가능\nEfficientNet 및 Transformer 모델 지원\n애플 뉴럴 엔진 및 구글 TPU 지원 작업 진행중\n최종적으로는 tinygrad를 위한 하드...",
-          "link": "https://news.hada.io/topic?id=6320",
-          "publishedOn": "2022-04-07T01:30:01.000Z",
-          "wordCount": 98,
-          "title": "geohot/tinygrad - 미니멀한 딥러닝 프레임워크",
-          "imageUrl": "https://social.news.hada.io/topic/6320"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6319",
-          "author": null,
-          "description": "이상한 앨범 이름\n† from Justice\n★ from David Bowie\n' from Frank Zappa\n() from Sigur Rós\n<|°_°|> from Caravan Palace\n헷갈리는 앨범 이름\n(untitled) from The Byrds\nuntitled from R Kelly\nuntil...",
-          "link": "https://news.hada.io/topic?id=6319",
-          "publishedOn": "2022-04-07T01:06:41.000Z",
-          "wordCount": 573,
-          "title": "음악을 다룰 때 고려해야 할 엣지케이스들",
-          "imageUrl": "https://social.news.hada.io/topic/6319"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6318",
-          "author": null,
-          "description": "구글 시트/엑셀과 비슷. 키보드/마우스/터치로 조작가능\n의존성없는 경량 컴포넌트. 속도 빠름\nReact/Vue/Angular 프레임워크 호환\nJSON/CSV/SQL 지원\n\n...",
-          "link": "https://news.hada.io/topic?id=6318",
-          "publishedOn": "2022-04-07T00:49:10.000Z",
-          "wordCount": 99,
-          "title": "DataGridXL2.js - 엑셀과 비슷한 데이터 테이블 라이브러리",
-          "imageUrl": "https://social.news.hada.io/topic/6318"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6317",
-          "author": null,
-          "description": "새로운 기능들은 이미 Fortnite 와 Matrix Awaken 에서 사용된 바 있음\n주요 기능들\n\n차세대 실시간 렌더링 : Lumen & Nanite\n새로운 Open World 툴셋\n빌트인 캐릭터 & 애니메이션 도...",
-          "link": "https://news.hada.io/topic?id=6317",
-          "publishedOn": "2022-04-07T00:35:20.000Z",
-          "wordCount": 309,
-          "title": "Unreal Engine 5 정식 릴리즈",
-          "imageUrl": "https://social.news.hada.io/topic/6317"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6316",
-          "author": null,
-          "description": "산타토익을 서비스중인 뤼이드에서는 gRPC/Protobuf를 아주 활발하게 사용하고 있습니다.\n웹 프론트엔드에서 gRPC/Protobuf 스택을 사용",
-          "link": "https://news.hada.io/topic?id=6316",
-          "publishedOn": "2022-04-06T06:44:18.000Z",
-          "wordCount": 715,
-          "title": "Show GN: Pbkit - Deno로 만든 Protobuf 툴킷 (컴파일러, 패키지 매니저, VSCode 확장, 크롬 확장)",
-          "imageUrl": "https://social.news.hada.io/topic/6316"
         }
       ]
     },
