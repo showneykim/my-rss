@@ -1,10 +1,164 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-09T01:19:25.358Z</id>
+    <id>urn:2022-04-10T01:35:09.355Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-09T01:19:25.358Z</updated>
+    <updated>2022-04-10T01:35:09.355Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[구글 렌즈 "멀티서치" 기능 베타 시작]]></title>
+        <id>https://news.hada.io/topic?id=6335</id>
+        <link href="https://news.hada.io/topic?id=6335"/>
+        <updated>2022-04-10T00:55:01.000Z</updated>
+        <summary type="html"><![CDATA[iOS/Android 구글앱에서 카메라를 이용한 Lens검색에 멀티서치 도입
+사진을 찍어서 나온 검색 결과에서 "Add to your search" 버튼이 추가됨
+추가로 단어를 넣어서 검색 결과를 refine
+
+색상, 브랜드, 시각적 속성 등을 추가
+오랜지색 드레스를 찾은 후에 '녹색'...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yaade - 오픈소스, 셀프호스트, 협업 API 개발 환경]]></title>
+        <id>https://news.hada.io/topic?id=6334</id>
+        <link href="https://news.hada.io/topic?id=6334"/>
+        <updated>2022-04-10T00:25:01.000Z</updated>
+        <summary type="html"><![CDATA[Postman 대체제 : 이미 Hoppscotch 같은 오픈소스가 있지만, 인증도 없고 Firebase 의존성이 있음
+기능
+
+셀프호스트
+암호를 통한 인증
+OpenAPI v3 임포트 지원
+쉬운 싱글파일 데이터 Import/Export
+
+
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단언문 (expect/assert) 안에서 비교하지 않기]]></title>
+        <id>https://jojoldu.tistory.com/663</id>
+        <link href="https://jojoldu.tistory.com/663"/>
+        <updated>2022-04-09T16:17:05.000Z</updated>
+        <summary type="html"><![CDATA[반응형
+
+                    
+                    (adsbygoogle = window.adsbygoogle || []).push({}); 
+               
+
+간혹 코드를 보면 expect 에서 비교를 하는 코드를 보곤 한다. 
+이를테면 다음과 같은 경우이다.
+it('getCount의 결과는 5보다 크다', () => {
+    const result = getCount();
+
+    expect(result > 5).toBe(true);
+});
+당장 봐서는 문제가 없어보인다. 
+오히려 비교값이 더 큰지 검증하는 jest 함수를 별도로 찾아보지 않아도 된다는 장점도 있어보인다.
+비슷한 예제로 다음과 같은 코드도 종종 보게 된다.
+it('getCount의 값은 10과 동일하다', () => {
+    const count = getCount();
+
+    expect(count === 10).toBe(true);
+});
+하지만 이 테스트 코드들은 크게 2개의 단점을 갖고 있다. 
+(정확히는 잘못된 assertion 을 사용하고 있다.)
+첫번째는 실패할 경우 실패 원인을 찾기가 어렵다.
+이를테면 아래의 코드로 실패할 경우
+it('getCount의 값은 10과 동일하다', () => {
+    const count = getCount();
+
+    expect(count === 10).toBe(true);
+});
+결과는 다음과 같이 출력된다.
+검증 대상이 count === 10 의 결과인 true 혹은 false 이기 때문에, 실패시 출력되는 실제 받은 값(Received) 역시 true/false 만 나오게 된다.
+테스트가 실패했지만 getCount의 결과는 어디서도 확인할 수 없게 된다.
+반면에 다음과 같이 테스트 코드를 작성한다면
+it('getCount의 값은 10이다', () => {
+    const count = getCount();
+
+    expect(count).toBe(10);
+});
+검증 대상이 getCount() 이기 때문에 실패시 실제 받은 값(Received)을 쉽게 확인할 수 있다.
+테스트 코드는 언제든지 실패할 수 있기 때문에 실패시 얼마나 빨리 원인을 찾을 수 있냐는 굉장히 중요하다. 
+이게 갖춰지지 않으면 테스트 코드 수정하는데 대부분의 시간을 보내게 된다.
+또 하나의 단점은 사람의 언어로 코드가 작성되지 않는다는 점이다.
+이건 사람마다 크게 체감하는 바가 다른것 같다.
+이를테면 첫번째 코드와 두번째 코드를 사람의 언어로 설명하면 다음과 같다.
+expect(result === 10).toBe(true)
+
+getCount의 결과가 10인 것은 참이다.
+expect(getCount()).toBe(10)
+
+getCount의 결과는 10이다.
+둘의 코드를 사람의 언어로 치환해보면 첫번째 코드가 얼마나 어색한지 체감된다.
+테스트 코드는 구현 코드 보다 훨씬 더 사람의 언어를 사용해야한다고 믿고 있다. 
+테스트 코드는 당장 PO나 기획자분들이 사용하는 언어 그대로 구현되어야만 코드를 해석하는 노력이 거의 없다고 생각한다. 
+그리고 그런 테스트 코드가 결국 오랫동안 유지보수 되고, 프로젝트를 지킬 수 있다.
+그래서 단언문(expect/assert) 안에서는 절대 검증하지 않는 것이 좋다.
+여담이지만 비슷한 예로 Java로 한다면 다음과 같다.
+//bad
+assertTrue(a == 1)
+
+//good
+assertThat(a).is(1)
+            
+반응형
+
+                    
+                    (adsbygoogle = window.adsbygoogle || []).push({});]]></summary>
+        <author>
+            <name>향로</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 틸노트 : 데일리 기반으로 TIL (Today I Learned) 를 기록하고 관리할 수 있는 클라우드 노트]]></title>
+        <id>https://news.hada.io/topic?id=6333</id>
+        <link href="https://news.hada.io/topic?id=6333"/>
+        <updated>2022-04-09T08:34:25.000Z</updated>
+        <summary type="html"><![CDATA[안녕하세요.
+사이드 프로젝트로 만든 오늘 내가 배운 것 (TIL) 을 작성하고 관리할 수 있게 하는 클라우드 노트인 tilnote 를 소개하려고 합니다.
+TIL 을 작성하고 개인 지식베이스, 블로그, 책으로 관리하고 쉽게 공개할 수 있는 노트입니다.
+저는 오늘 한 일이나 배운 것을 마크다운으로 작성]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cascade - GPU가속되는 노드 기반 이미지 에디터]]></title>
+        <id>https://news.hada.io/topic?id=6332</id>
+        <link href="https://news.hada.io/topic?id=6332"/>
+        <updated>2022-04-09T01:11:24.000Z</updated>
+        <summary type="html"><![CDATA[비파괴 노드 기반 편집 워크플로우
+모든 이미지 처리는 GPU에서 수행
+32 비트 리니어 컬러 파이프라인
+대부분의 컬러 스페이스 및 파일 포맷 지원
+C++ 오픈소스
+윈도우/리눅스 바이너리 제공
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roam Research 모바일 앱 공개]]></title>
+        <id>https://news.hada.io/topic?id=6331</id>
+        <link href="https://news.hada.io/topic?id=6331"/>
+        <updated>2022-04-09T00:54:26.000Z</updated>
+        <summary type="html"><![CDATA[그래프 링킹 방식이라는 독특한 노트작성 붐을 일으킨 온라인 노트 작성도구 Roam
+드디어 iOS(아이폰&아이패드)/Android 용 모바일 앱 공개
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[네카라쿠배당토 핵심가치는 뭐가 다를까?]]></title>
         <id>https://news.hada.io/topic?id=6330</id>
@@ -67,76 +221,6 @@ PDF 생성/변환/합치기/분리/복제/삭제
 이미지 변환
 OCR, 워터마크
 JS/Python/Java/C#/PHP 샘플 코드 및 Postman 컬렉션 제...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GenieFramework - Julia용 웹 개발 프레임워크]]></title>
-        <id>https://news.hada.io/topic?id=6325</id>
-        <link href="https://news.hada.io/topic?id=6325"/>
-        <updated>2022-04-08T01:05:02.000Z</updated>
-        <summary type="html"><![CDATA[과학/공학 분야에서 주로 사용되는 Julia 언어로 웹 앱 개발을 지원
-백엔드/UI/데이터 어플리케이션 및 대시보드/웹서비스/API 등 풀스택 웹 앱 개발 가능
-Genie.jl
-웹서버 내장, 유연한 템플릿 엔진, 강력한 라우터 및 쿠키/세션관리, 캐슁등 지원
-MVC 아키텍...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YT-Spammer-Purge : 유튜브 스팸댓글 자동 삭제 도구]]></title>
-        <id>https://news.hada.io/topic?id=6324</id>
-        <link href="https://news.hada.io/topic?id=6324"/>
-        <updated>2022-04-08T00:50:01.000Z</updated>
-        <summary type="html"><![CDATA[자신 또는 남의 유튜브 채널에서 스팸 코멘트를 찾고 모두 한번에 삭제하거나 신고해주는 도구
-15가지의 필터링 방법 지원
-
-Auto-Smart, Sensitive-Smart
-채널ID/사용자명/텍스트/Non-ASCII 모드 스캔
-4가지 스캐닝 모드
-
-비디오 1개, 최근 비디오 5개...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[shhgit - Secret 유출 방지용 검색 오픈소스]]></title>
-        <id>https://news.hada.io/topic?id=6323</id>
-        <link href="https://news.hada.io/topic?id=6323"/>
-        <updated>2022-04-08T00:33:02.000Z</updated>
-        <summary type="html"><![CDATA[사용자 이름과 암호, API 토큰, 프라이빗 키등을 자동 스캔하여 유출되는 것을 방지
-GitHub/GitLab/BitBucket 저장소 및 로컬 디렉토리 지원
-150개 Signature 지원 : AWS, Azure, Google, Docker, Heroku, ..
-Live Web UI 제공
-JavaScript + Go 오픈소스
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DALL·E 2 공개]]></title>
-        <id>https://news.hada.io/topic?id=6322</id>
-        <link href="https://news.hada.io/topic?id=6322"/>
-        <updated>2022-04-08T00:16:01.000Z</updated>
-        <summary type="html"><![CDATA[자연어 설명을 가지고 실제 이미지를 생성해내는 AI 시스템
-1년 2개월만에 내놓는 버전 2는 4배 해상도로 더 사실적이고 정확한 이미지를 생성
-컨셉/속성/스타일을 결합 가능
-→ 우주인/테디베어/수프 그릇이, 말타고 있는/리조트에서 쉬는/농구하는, 사진같은/앤디워홀 스타일/연필 드...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["내 트리를 꾸며줘" 1600만 트래픽을 지탱했던 애저 서버리스 아키텍처 [video 1:12분]]]></title>
-        <id>https://news.hada.io/topic?id=6321</id>
-        <link href="https://news.hada.io/topic?id=6321"/>
-        <updated>2022-04-07T01:53:20.000Z</updated>
-        <summary type="html"><![CDATA[지난 2021년 연말 SNS를 강타했던 "내 트리를 꾸며줘" 서비스에 대해 알고 계신가요? 일종의 온라인 롤링페이퍼 서비스입니다. 토이 프로젝트로 시작한 서비스였는데요, 서비스 시작 5일만에 가입자 250만명에 이를 정도로 급작스럽게 성장했습니다. 그리고 크리스마스 당일에는 동접자 117만명, 초당 4만회...]]></summary>
         <author>
             <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>

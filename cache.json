@@ -78,7 +78,7 @@
           "description": "퇴사의 이유 새로운 직장에 대한 니즈는 한 직장에서 일정기간 업무를 해 왔다면 한 번쯤 생각할 때가 있습니다. 왜 퇴사가 하고 싶을까요? 여러가지 이유가 있지만 각자가 가지고 있는 다양한 가치관에 따라, 또는 지나친 업무량에 따라,...\nThe post 퇴사를 해야겠다고 생각이 들때 appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/resign/",
           "publishedOn": "2022-03-11T17:42:31.000Z",
-          "wordCount": 1871,
+          "wordCount": 1842,
           "title": "퇴사를 해야겠다고 생각이 들때",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2022/03/62ced3bfdda80.jpeg"
         }
@@ -89,6 +89,56 @@
       "feedUrl": "https://news.hada.io/rss/news",
       "siteUrl": "https://news.hada.io",
       "articles": [
+        {
+          "id": "https://news.hada.io/topic?id=6335",
+          "author": null,
+          "description": "iOS/Android 구글앱에서 카메라를 이용한 Lens검색에 멀티서치 도입\n사진을 찍어서 나온 검색 결과에서 \"Add to your search\" 버튼이 추가됨\n추가로 단어를 넣어서 검색 결과를 refine\n\n색상, 브랜드, 시각적 속성 등을 추가\n오랜지색 드레스를 찾은 후에 '녹색'...",
+          "link": "https://news.hada.io/topic?id=6335",
+          "publishedOn": "2022-04-10T00:55:01.000Z",
+          "wordCount": 125,
+          "title": "구글 렌즈 \"멀티서치\" 기능 베타 시작",
+          "imageUrl": "https://social.news.hada.io/topic/6335"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6334",
+          "author": null,
+          "description": "Postman 대체제 : 이미 Hoppscotch 같은 오픈소스가 있지만, 인증도 없고 Firebase 의존성이 있음\n기능\n\n셀프호스트\n암호를 통한 인증\nOpenAPI v3 임포트 지원\n쉬운 싱글파일 데이터 Import/Export\n\n\n\n...",
+          "link": "https://news.hada.io/topic?id=6334",
+          "publishedOn": "2022-04-10T00:25:01.000Z",
+          "wordCount": 87,
+          "title": "Yaade - 오픈소스, 셀프호스트, 협업 API 개발 환경",
+          "imageUrl": "https://social.news.hada.io/topic/6334"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6333",
+          "author": null,
+          "description": "안녕하세요.\n사이드 프로젝트로 만든 오늘 내가 배운 것 (TIL) 을 작성하고 관리할 수 있게 하는 클라우드 노트인 tilnote 를 소개하려고 합니다.\nTIL 을 작성하고 개인 지식베이스, 블로그, 책으로 관리하고 쉽게 공개할 수 있는 노트입니다.\n저는 오늘 한 일이나 배운 것을 마크다운으로 작성",
+          "link": "https://news.hada.io/topic?id=6333",
+          "publishedOn": "2022-04-09T08:34:25.000Z",
+          "wordCount": 223,
+          "title": "Show GN: 틸노트 : 데일리 기반으로 TIL (Today I Learned) 를 기록하고 관리할 수 있는 클라우드 노트",
+          "imageUrl": "https://social.news.hada.io/topic/6333"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6332",
+          "author": null,
+          "description": "비파괴 노드 기반 편집 워크플로우\n모든 이미지 처리는 GPU에서 수행\n32 비트 리니어 컬러 파이프라인\n대부분의 컬러 스페이스 및 파일 포맷 지원\nC++ 오픈소스\n윈도우/리눅스 바이너리 제공\n\n...",
+          "link": "https://news.hada.io/topic?id=6332",
+          "publishedOn": "2022-04-09T01:11:24.000Z",
+          "wordCount": 86,
+          "title": "Cascade - GPU가속되는 노드 기반 이미지 에디터",
+          "imageUrl": "https://social.news.hada.io/topic/6332"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6331",
+          "author": null,
+          "description": "그래프 링킹 방식이라는 독특한 노트작성 붐을 일으킨 온라인 노트 작성도구 Roam\n드디어 iOS(아이폰&아이패드)/Android 용 모바일 앱 공개\n\n...",
+          "link": "https://news.hada.io/topic?id=6331",
+          "publishedOn": "2022-04-09T00:54:26.000Z",
+          "wordCount": 195,
+          "title": "Roam Research 모바일 앱 공개",
+          "imageUrl": "https://social.news.hada.io/topic/6331"
+        },
         {
           "id": "https://news.hada.io/topic?id=6330",
           "author": null,
@@ -115,7 +165,7 @@
           "description": "랜덤으로 중세 도시의 지도를 만들어주는 페이지입니다. 멋진 이름도 생성해줘요.\n생성된 도시는 URL로 seed와 파라미터가 정해집니다. URL을 복사하면, 지금 보는 지도를 공유할 수 있습니다.\n컬러 설정을 자유롭게 변경할 수 있습니다.\n해당 페이지의 소스코드는",
           "link": "https://news.hada.io/topic?id=6328",
           "publishedOn": "2022-04-08T03:51:56.000Z",
-          "wordCount": 125,
+          "wordCount": 133,
           "title": "중세 도시 지도 생성기",
           "imageUrl": "https://social.news.hada.io/topic/6328"
         },
@@ -138,56 +188,6 @@
           "wordCount": 96,
           "title": "PSPDFKit API - PDF처리용 HTTP API",
           "imageUrl": "https://social.news.hada.io/topic/6326"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6325",
-          "author": null,
-          "description": "과학/공학 분야에서 주로 사용되는 Julia 언어로 웹 앱 개발을 지원\n백엔드/UI/데이터 어플리케이션 및 대시보드/웹서비스/API 등 풀스택 웹 앱 개발 가능\nGenie.jl\n웹서버 내장, 유연한 템플릿 엔진, 강력한 라우터 및 쿠키/세션관리, 캐슁등 지원\nMVC 아키텍...",
-          "link": "https://news.hada.io/topic?id=6325",
-          "publishedOn": "2022-04-08T01:05:02.000Z",
-          "wordCount": 134,
-          "title": "GenieFramework - Julia용 웹 개발 프레임워크",
-          "imageUrl": "https://social.news.hada.io/topic/6325"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6324",
-          "author": null,
-          "description": "자신 또는 남의 유튜브 채널에서 스팸 코멘트를 찾고 모두 한번에 삭제하거나 신고해주는 도구\n15가지의 필터링 방법 지원\n\nAuto-Smart, Sensitive-Smart\n채널ID/사용자명/텍스트/Non-ASCII 모드 스캔\n4가지 스캐닝 모드\n\n비디오 1개, 최근 비디오 5개...",
-          "link": "https://news.hada.io/topic?id=6324",
-          "publishedOn": "2022-04-08T00:50:01.000Z",
-          "wordCount": 116,
-          "title": "YT-Spammer-Purge : 유튜브 스팸댓글 자동 삭제 도구",
-          "imageUrl": "https://social.news.hada.io/topic/6324"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6323",
-          "author": null,
-          "description": "사용자 이름과 암호, API 토큰, 프라이빗 키등을 자동 스캔하여 유출되는 것을 방지\nGitHub/GitLab/BitBucket 저장소 및 로컬 디렉토리 지원\n150개 Signature 지원 : AWS, Azure, Google, Docker, Heroku, ..\nLive Web UI 제공\nJavaScript + Go 오픈소스\n\n...",
-          "link": "https://news.hada.io/topic?id=6323",
-          "publishedOn": "2022-04-08T00:33:02.000Z",
-          "wordCount": 104,
-          "title": "shhgit - Secret 유출 방지용 검색 오픈소스",
-          "imageUrl": "https://social.news.hada.io/topic/6323"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6322",
-          "author": null,
-          "description": "자연어 설명을 가지고 실제 이미지를 생성해내는 AI 시스템\n1년 2개월만에 내놓는 버전 2는 4배 해상도로 더 사실적이고 정확한 이미지를 생성\n컨셉/속성/스타일을 결합 가능\n→ 우주인/테디베어/수프 그릇이, 말타고 있는/리조트에서 쉬는/농구하는, 사진같은/앤디워홀 스타일/연필 드...",
-          "link": "https://news.hada.io/topic?id=6322",
-          "publishedOn": "2022-04-08T00:16:01.000Z",
-          "wordCount": 103,
-          "title": "DALL·E 2 공개",
-          "imageUrl": "https://social.news.hada.io/topic/6322"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6321",
-          "author": null,
-          "description": "지난 2021년 연말 SNS를 강타했던 \"내 트리를 꾸며줘\" 서비스에 대해 알고 계신가요? 일종의 온라인 롤링페이퍼 서비스입니다. 토이 프로젝트로 시작한 서비스였는데요, 서비스 시작 5일만에 가입자 250만명에 이를 정도로 급작스럽게 성장했습니다. 그리고 크리스마스 당일에는 동접자 117만명, 초당 4만회...",
-          "link": "https://news.hada.io/topic?id=6321",
-          "publishedOn": "2022-04-07T01:53:20.000Z",
-          "wordCount": 138,
-          "title": "\"내 트리를 꾸며줘\" 1600만 트래픽을 지탱했던 애저 서버리스 아키텍처 [video 1:12분]",
-          "imageUrl": "https://social.news.hada.io/topic/6321"
         }
       ]
     },
@@ -196,6 +196,16 @@
       "feedUrl": "https://jojoldu.tistory.com/rss",
       "siteUrl": "https://jojoldu.tistory.com/",
       "articles": [
+        {
+          "id": "https://jojoldu.tistory.com/663",
+          "author": "향로",
+          "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\n간혹 코드를 보면 expect 에서 비교를 하는 코드를 보곤 한다. \n이를테면 다음과 같은 경우이다.\nit('getCount의 결과는 5보다 크다', () => {\n    const result = getCount();\n\n    expect(result > 5).toBe(true);\n});\n당장 봐서는 문제가 없어보인다. \n오히려 비교값이 더 큰지 검증하는 jest 함수를 별도로 찾아보지 않아도 된다는 장점도 있어보인다.\n비슷한 예제로 다음과 같은 코드도 종종 보게 된다.\nit('getCount의 값은 10과 동일하다', () => {\n    const count = getCount();\n\n    expect(count === 10).toBe(true);\n});\n하지만 이 테스트 코드들은 크게 2개의 단점을 갖고 있다. \n(정확히는 잘못된 assertion 을 사용하고 있다.)\n첫번째는 실패할 경우 실패 원인을 찾기가 어렵다.\n이를테면 아래의 코드로 실패할 경우\nit('getCount의 값은 10과 동일하다', () => {\n    const count = getCount();\n\n    expect(count === 10).toBe(true);\n});\n결과는 다음과 같이 출력된다.\n검증 대상이 count === 10 의 결과인 true 혹은 false 이기 때문에, 실패시 출력되는 실제 받은 값(Received) 역시 true/false 만 나오게 된다.\n테스트가 실패했지만 getCount의 결과는 어디서도 확인할 수 없게 된다.\n반면에 다음과 같이 테스트 코드를 작성한다면\nit('getCount의 값은 10이다', () => {\n    const count = getCount();\n\n    expect(count).toBe(10);\n});\n검증 대상이 getCount() 이기 때문에 실패시 실제 받은 값(Received)을 쉽게 확인할 수 있다.\n테스트 코드는 언제든지 실패할 수 있기 때문에 실패시 얼마나 빨리 원인을 찾을 수 있냐는 굉장히 중요하다. \n이게 갖춰지지 않으면 테스트 코드 수정하는데 대부분의 시간을 보내게 된다.\n또 하나의 단점은 사람의 언어로 코드가 작성되지 않는다는 점이다.\n이건 사람마다 크게 체감하는 바가 다른것 같다.\n이를테면 첫번째 코드와 두번째 코드를 사람의 언어로 설명하면 다음과 같다.\nexpect(result === 10).toBe(true)\n\ngetCount의 결과가 10인 것은 참이다.\nexpect(getCount()).toBe(10)\n\ngetCount의 결과는 10이다.\n둘의 코드를 사람의 언어로 치환해보면 첫번째 코드가 얼마나 어색한지 체감된다.\n테스트 코드는 구현 코드 보다 훨씬 더 사람의 언어를 사용해야한다고 믿고 있다. \n테스트 코드는 당장 PO나 기획자분들이 사용하는 언어 그대로 구현되어야만 코드를 해석하는 노력이 거의 없다고 생각한다. \n그리고 그런 테스트 코드가 결국 오랫동안 유지보수 되고, 프로젝트를 지킬 수 있다.\n그래서 단언문(expect/assert) 안에서는 절대 검증하지 않는 것이 좋다.\n여담이지만 비슷한 예로 Java로 한다면 다음과 같다.\n//bad\nassertTrue(a == 1)\n\n//good\nassertThat(a).is(1)\n            \n반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({});",
+          "link": "https://jojoldu.tistory.com/663",
+          "publishedOn": "2022-04-09T16:17:05.000Z",
+          "wordCount": 476,
+          "title": "단언문 (expect/assert) 안에서 비교하지 않기",
+          "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FCKus4%2FbtryYoeT1KW%2FRKYzg8kkOHVdaKwXxjO5Ik%2Fimg.png"
+        },
         {
           "id": "https://jojoldu.tistory.com/662",
           "author": "향로",
@@ -212,7 +222,7 @@
           "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\n\n아래는 인프랩의 채용 담당자를 통해 전달받은 메일의 답변을 옮긴것입니다. \n비슷한 메일이 많이 와서 블로그에도 정리하게 되었습니다.\n\n안녕하세요 A님. \n인프랩 개발팀입니다. :)\n퇴근하고나서 이메일 주신 내용을 읽어보고나서 답변을 정리해서 전달드립니다.\n먼저 오해를 풀고자 하는데요. \n오랫동안 Node.js 백엔드 개발자 채용 공고가 계속 올라가 있는 이유는 원하는 사람의 채용이 안되어서 그런것은 아닙니다 ^^;\n저희 같은 IT 기반의 스타트업은 대기업처럼 개발자에 한해서는 TO를 정해놓고 채용을 진행하지 않습니다.\n저희가 생각한 인재분이라면 Unlimit으로 채용을 하기 때문에 계속해서 열려있습니다.\n구체적으로 말씀드리면,\n작년 채용공고를 올리고 현재 6개월정도가 지났습니다.\n그 사이에 당시 4명이였던 Node.js 백엔드 개발자팀은 현재 9명이 되었습니다.\n그리고 2주뒤에 또 한명의 Node.js 개발자분이 합류하실 예정이라 곧 10명의 팀이 됩니다.\n즉, 6~7개월만에 2.5배 인원이 된 것입니다.\n그렇지만, 아직도 더 많은 인원을 채용하고자 합니다.\n현재 개발팀 규모의 몇배의 인원으로 확장할 계획이고, 아마도 몇년간 채용공고가 내려갈 일은 없을것 같습니다 :)\n이건 비단 저희 인프랩만 그런것은 아닙니다.\n대부분의 빅테크 스타트업부터 작은 스타트업들까지, 개발자에 한해서는 TO를 정하고 채용하진 않…",
           "link": "https://jojoldu.tistory.com/661",
           "publishedOn": "2022-04-01T17:30:37.000Z",
-          "wordCount": 908,
+          "wordCount": 909,
           "title": "어떻게 준비하면 인프랩에 입사할 수 있나요.",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fb9CgFl%2FbtrycPMDZgY%2FBzy5q4K7gx5sjNywmHOUI1%2Fimg.png"
         },
@@ -222,7 +232,7 @@
           "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\n요즘 재밌게 보고 있는 웹툰 & 웹소설 중에 네이버 시리즈에 있는 화산귀환이 있다.\n웹 소설로 시작해서 그 인기에 힘입어 웹툰으로 나오게 된 작품이다.\n웹 소설의 경우 누적 조회수가 2.6억이다. \n네이버 시리즈 최고 히트작 중 하나이다.\n처음엔 이 작품을 웹툰으로 시작했다. \n웹툰으로 쭉 보다가 웹 소설로 전향했다. \n이유는 아무리 돈이 있어도 회차가 더 나오지 않아 그 이상 볼 수가 없었기 때문이다.\n웹툰에서는 56화밖에 없는 이야기가 웹소설에서는 1183화까지 나와있다. \n그러다보니 다음 이야기가 너무 궁금해서 웹소설로 넘어가서 보고 있다.\n그래서 요즘 웹툰은 그냥 작가님을 위한 응원의 마음으로 결제하고, 시간이 될 때마다 웹소설만 본다.\n요즘은 굳이 웹툰을 결제해야하나 생각중이다. \n어차피 웹 소설로 다 본 내용이기 때문이다.\n이건 참 신기한 일이다. \n웹툰은 컨텐츠를 소비하는 입장으로 장점이 많다.\n훨씬 보는 재미가 있다.\n훨씬 보기에 편하다.\n\n굳이 글을 다 읽을 필요가 없다\n컨텐츠 소비자로서 이만큼 장점이 있음에도 웹소설을 보는게 요즘의 내 모습이라는 것이다.\n왜 그럴까 생각해보면 결국 연재주기 때문이라고 생각했다.\n웹툰은 1주일에 1회도 어렵다.\n(작가님들을 위한 정기휴재는 이제 웹툰에서는 거의 필수로 적용된다)\n반면 웹소설은 1주일에 5~7회를 연재한다. \n웬만해서는 휴재도 잘 나지 않는다.…",
           "link": "https://jojoldu.tistory.com/660",
           "publishedOn": "2022-03-28T14:50:28.000Z",
-          "wordCount": 1186,
+          "wordCount": 1187,
           "title": "공급자 지향 플랫폼",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FMLlgY%2FbtrxIMhKFOZ%2FdltBR2TG1az9j0VI9ha4ak%2Fimg.jpg"
         },
@@ -232,7 +242,7 @@
           "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\n팀 단위의 프로젝트에서는 Github Action 빌드의 결과를 Slack으로 보내겠지만, \n개인적인 프로젝트에서는 Telegram을 사용할 때가 많다.\n메세지 제한이 없고\n\n슬랙은 무료 Plan에서는 채널당 메세지가 10,000개 제한이 있다.\n네이티브 앱이라 슬랙에 비해 속도 체감이 심하다\n특정 프로젝트의 build 결과를 텔레그램 메신저로 받을 수 있도록 진행한다.\n1. bot 생성\n먼저 텔레그램 봇을 생성한다.\n텔레그램 메신저로 이동하여 BotFather 를 찾는다.\n아래와 같이 BotFather 채팅방에서 /newbot을 입력한다\n그리고 나선 봇 이름을 등록한다.\n봇 이름은 다음과 같은 규칙이 필요하다\nXXXBot 혹은 XXX_bot 과 같이 마지막 뒤에 Bot 혹은 _bot 이 들어가야만한다\n생성이 완료되었다면, 여기서 끝이 아니고 2개의 값을 가져와야 한다\n텔레그램 봇 토큰\n텔래그램 봇 채팅방 ID\n정상적으로 생성되었다면 위 이미지의 회색 박스처럼 Token 이 나온다. \n이는 잠깐 두고, \n생성된 Bot 채팅방으로 이동해서 간단하게 메세지를 하나 보낸다.\n이 메세지를 보내고 나면 이제 텔레그램 API를 통해 채팅방 ID를 가져올 수 있다.\n아래 API로 생성된 토큰을 넣어 호출해본다. \n(HTTP Get 요청이라 브라우저에서 직접 입력해도 된다.)\nhttps://api.telegram.org/…",
           "link": "https://jojoldu.tistory.com/659",
           "publishedOn": "2022-03-26T12:33:19.000Z",
-          "wordCount": 594,
+          "wordCount": 595,
           "title": "Github Action 빌드 결과 Telegram Bot으로 보내기",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FErm29%2Fbtrxr4vCllu%2FzKaRCIjg074dbndiaRk42K%2Fimg.png"
         },
@@ -242,7 +252,7 @@
           "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\n\n팀에 공유한 내용인데 블로그에도 정리한다.\n오늘 주변의 추천으로 희종님의 글을 봤다.\nhttps://ahnheejong.name/articles/i-was-wrong-test/\n예전에 어느책에서 봤던 내용인데 (제목은 까먹었다 ㅠㅠ) \n나 스스로 \"내가 틀렸네요\" 라고 입밖으로 낼 수 있는 용기가 있다면 그사람은 성장하는중이다 라는 이야기를 본적이 있다.\n그래서 그 이후로 \n\"제가 잘못알고 있었네요\" \n라고 이야기를 해야하는 순간이 오면 진짜 민망하고, 인정하기 싫었지만, \n\"그래도 이걸 이야기하지 않으면 나는 성장하지 못하겠지? 그게 더 무서운거 아닌가?\" \n라는 생각으로 어떻게든 내뱉었다.\n어떤 일을 하는데 있어 개인이 성장하려면 내가 틀렸음을 인정하고, 이걸 입밖으로 낼 용기를 가지는 것이 필요하다.\n이걸 자주 하지 않으면 더이상 주변의 사람들이 부족한점/잘못한점/틀린점에 대해 이야기하지 않게 된다.\n어차피 얘기해줘도 인정하지 않을것이고, 변하지도 않을텐데 굳이 감정상하고 싶진 않아서 그렇다.\n그렇게 될수록 점점 본인만의 세상에 갇히거나(흔히 말하는 꼰대) 더이상 성장하지 못하는 사람이 된다.\n1년에 몇번이나 내가 틀렸음을 이야기했는지\n가장 최근에 “너 그거 틀렸어” 피드백을 언제 받았는지\n등을 정기적으로 검토해보면 좋다.\n특히 일기 쓰면 정말 좋다.\n마침 왓챠의 채용공고에 적힌 같이 일하고 싶은 동료 이야기가 보인다.\n가장 최근에 \"내가 틀렸네요\" 라는 말은 언제했는지 찾아봤더니, \n최근에 내가 가이드한 방향이 너무 예전 지식이라 새 방향을 지적받을때 이야기 했었다. \n그 동료에게 정말 감사하다.\n희종님의 글 덕분에 다시 한번 \"내가 틀렸네요\"의 힘을 상기시킬 수 있어서 너무 감사드리고 싶다.\n            \n반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({});",
           "link": "https://jojoldu.tistory.com/658",
           "publishedOn": "2022-03-25T14:22:57.000Z",
-          "wordCount": 339,
+          "wordCount": 340,
           "title": "내가 틀렸네요",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FDO8kj%2Fbtrxh9ej1vi%2FIAB0ctbCycN6aUlpYzo1q0%2Fimg.jpg"
         },
@@ -252,7 +262,7 @@
           "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\nCloudFlare의 정적사이트 플랫폼인 CloudFlare Pages가 출시되었다.\nhttps://pages.cloudflare.com/\n이미 Netlify 와 같이 정적 사이트 플랫폼이 많은데 굳이 CloudFlare를 써야하나? 싶었다. \n(저도 그동안은 Netlify을 썼기 때문에)\n그럼에도 써봐야하는 이유는 Free Plan의 구성이 말도 안되게 좋기 때문이다.\n무제한 사이트 발행\n무제한 요청\n무제한 대역폭\nFree Plan 라고는 믿을수 없을만큼의 좋은 혜택을 제공한다. \n대부분의 정적 사이트가 저정도 혜택은 유료 Plan인걸 고려하면 선택하지 않을 이유가 전혀 없다고 생각했다.\n1. Next.js App 생성\n먼저 간단한 Next.js App을 생성한다.\n여기서 사용된 코드는 모두 Github 에 있다.\nnpx create-next-app react-in-action --use-npm --example \"https://github.com/vercel/next-learn/tree/master/basics/learn-starter\"\nreact-in-action 으로 프로젝트를 생성한다.\n이렇게 생성된 샘플 프로젝트에 아래 2가지 설정을 추가한다.\n1-1. export 추가\n생성된 프로젝트의 package.json 을 열어서 아래와 같이 build 에 next export 를 추가한다\n{\n  \"pri…",
           "link": "https://jojoldu.tistory.com/657",
           "publishedOn": "2022-03-25T01:15:44.000Z",
-          "wordCount": 565,
+          "wordCount": 566,
           "title": "CloudFlare Pages로 Next.js 서비스 배포하기",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fb2WCr5%2FbtrxeyEg2wj%2Fn5yC3SYMpcEoSgHQCEUcM0%2Fimg.png"
         },
@@ -262,7 +272,7 @@
           "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\nJest를 통한 테스트를 작성하다보면 Exception에 대한 검증을 작성해야할 때가 있다. \n이럴때 보통 2가지 방법 중 하나를 선택한다.\ntry ~ catch\nexpect.rejects.toThrowError\n실제 코드로는 다음과 같다.\n// try ~ catch\nit(\"[try/catch] 주문금액이 -이면 BadParameter Exception 을 던진다.\", async () => {\n    try {\n        await acceptOrder({amount: -1000});\n    } catch (e) {\n        expect(e).toBeInstanceOf(BadParameterException);\n        expect(e.message).toBe('승인 요청 주문의 금액은 -가 될 수 없습니다');\n    }\n});\n\n// expect\nit(\"[expect] 주문금액이 -이면 BadParameter Exception 을 던진다.\", async () => {\n    await expect(async () => {\n        await acceptOrder({amount: -1000});\n    }).rejects.toThrowError(new BadParameterException('승인 요청 주문의 금액은 -가 될 수 없습니다'));\n});\n이 중에서 개인적으로는 expect…",
           "link": "https://jojoldu.tistory.com/656",
           "publishedOn": "2022-03-18T01:52:12.000Z",
-          "wordCount": 634,
+          "wordCount": 633,
           "title": "Jest로 Error 검증시 catch 보다는 expect",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fbxy32e%2Fbtrwezr0HQ4%2FWkd4JA72UcmDWGXvPoKggK%2Fimg.png"
         },
