@@ -71,24 +71,53 @@
       "title": "RastaLion's IT Blog",
       "feedUrl": "https://rastalion.me/feed/",
       "siteUrl": "https://rastalion.me",
-      "articles": [
-        {
-          "id": "https://rastalion.me/?p=2477",
-          "author": "Rasta Lion",
-          "description": "퇴사의 이유 새로운 직장에 대한 니즈는 한 직장에서 일정기간 업무를 해 왔다면 한 번쯤 생각할 때가 있습니다. 왜 퇴사가 하고 싶을까요? 여러가지 이유가 있지만 각자가 가지고 있는 다양한 가치관에 따라, 또는 지나친 업무량에 따라,...\nThe post 퇴사를 해야겠다고 생각이 들때 appeared first on RastaLion's IT Blog.",
-          "link": "https://rastalion.me/resign/",
-          "publishedOn": "2022-03-11T17:42:31.000Z",
-          "wordCount": 1842,
-          "title": "퇴사를 해야겠다고 생각이 들때",
-          "imageUrl": "https://rastalion.me/wp-content/uploads/2022/03/62ced3bfdda80.jpeg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
       "feedUrl": "https://news.hada.io/rss/news",
       "siteUrl": "https://news.hada.io",
       "articles": [
+        {
+          "id": "https://news.hada.io/topic?id=6339",
+          "author": null,
+          "description": "Rust로 재작성된 JavaScript & TypeScript 포매터\n고성능, 편리한 사용, 퍼스트클래스 IDE 통합을 목표\nError Recovery 기능으로 코드 중간에 오류가 있어도 최대한 동작\nPrettier 와 성능 비교했을때 M1 맥북에어 기준 9~12배 빠름\nVSCode 확장 및 CLI 알파버전 제공...",
+          "link": "https://news.hada.io/topic?id=6339",
+          "publishedOn": "2022-04-11T01:02:02.000Z",
+          "wordCount": 134,
+          "title": "Rome Formatter 릴리즈",
+          "imageUrl": "https://social.news.hada.io/topic/6339"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6338",
+          "author": null,
+          "description": "React 프로젝트 생성 : 클라이언트에는 Vite/CRA, 서버에는 Next.js/Remix/Gatsby\nReact State 관리 : useState/useReducer, useContext, Redux\nReact Data Fetching : React Query (REST APIs, GraphQL APIs) + axios, Apollo Client\nRouting with React Router\nCSS Styl...",
+          "link": "https://news.hada.io/topic?id=6338",
+          "publishedOn": "2022-04-11T00:46:01.000Z",
+          "wordCount": 327,
+          "title": "2022년 현재 React로 앱 개발할 때 추천 라이브러리들",
+          "imageUrl": "https://social.news.hada.io/topic/6338"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6337",
+          "author": null,
+          "description": "주요 내용\nData + Architecture :\n\n소프트웨어 아키텍처가 데이터를 고려하도록 변화\n데이터 품질, 데이터 파이프라인 및 데이터가 의사 결정 및 AI모델에 어떻게 영향을 주는지 이해하기 위한 Traceability등이 포함\n혁신적인 소프트웨어 아키텍처는 코드 품질...",
+          "link": "https://news.hada.io/topic?id=6337",
+          "publishedOn": "2022-04-11T00:26:01.000Z",
+          "wordCount": 379,
+          "title": "InfoQ의 소프트웨어 아키텍처 & 설계 트렌드 리포트 2022",
+          "imageUrl": "https://social.news.hada.io/topic/6337"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6336",
+          "author": null,
+          "description": "크롬 확장으로 구글 캘린더/Meet 를 통해서 팀 협업을 도와주는 도구\n캘린더에서 미팅 어젠다 및 노트를 협업해서 작성하고 공유\n구글 Meet 도중에 실시간으로 노트 작성하고 액션 아이템을 어사인\n슬랙/노션/트렐로 등으로 공유\n\n...",
+          "link": "https://news.hada.io/topic?id=6336",
+          "publishedOn": "2022-04-10T01:31:02.000Z",
+          "wordCount": 85,
+          "title": "Shepherd - 미팅 노트/아젠다/태스크 관리도구",
+          "imageUrl": "https://social.news.hada.io/topic/6336"
+        },
         {
           "id": "https://news.hada.io/topic?id=6335",
           "author": null,
@@ -135,7 +164,7 @@
           "description": "그래프 링킹 방식이라는 독특한 노트작성 붐을 일으킨 온라인 노트 작성도구 Roam\n드디어 iOS(아이폰&아이패드)/Android 용 모바일 앱 공개\n\n...",
           "link": "https://news.hada.io/topic?id=6331",
           "publishedOn": "2022-04-09T00:54:26.000Z",
-          "wordCount": 195,
+          "wordCount": 211,
           "title": "Roam Research 모바일 앱 공개",
           "imageUrl": "https://social.news.hada.io/topic/6331"
         },
@@ -148,46 +177,6 @@
           "wordCount": 165,
           "title": "네카라쿠배당토 핵심가치는 뭐가 다를까?",
           "imageUrl": "https://social.news.hada.io/topic/6330"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6329",
-          "author": null,
-          "description": "\"Built-in HTTPS Endpoints for Single-Function Microservices\"\n람다 함수에 URL엔드포인트를 설정해서 호출(CORS 헤더 설정 지원)\n버전별로 호출 및 Alias 지정 가능\n\n...",
-          "link": "https://news.hada.io/topic?id=6329",
-          "publishedOn": "2022-04-09T00:16:44.000Z",
-          "wordCount": 75,
-          "title": "AWS Lambda Function URLs 공개",
-          "imageUrl": "https://social.news.hada.io/topic/6329"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6328",
-          "author": null,
-          "description": "랜덤으로 중세 도시의 지도를 만들어주는 페이지입니다. 멋진 이름도 생성해줘요.\n생성된 도시는 URL로 seed와 파라미터가 정해집니다. URL을 복사하면, 지금 보는 지도를 공유할 수 있습니다.\n컬러 설정을 자유롭게 변경할 수 있습니다.\n해당 페이지의 소스코드는",
-          "link": "https://news.hada.io/topic?id=6328",
-          "publishedOn": "2022-04-08T03:51:56.000Z",
-          "wordCount": 133,
-          "title": "중세 도시 지도 생성기",
-          "imageUrl": "https://social.news.hada.io/topic/6328"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6327",
-          "author": null,
-          "description": "이번 주말에 뭘 하려고 계획 중인지 편하게 얘기해 보아요.\n읽을 책, 가볼 곳, 해볼 것.. 어떤 것이든 좋습니다.\n지난 주말에 계획하셨던 일의 회고도 한번 남겨봐 주세요.",
-          "link": "https://news.hada.io/topic?id=6327",
-          "publishedOn": "2022-04-08T02:41:01.000Z",
-          "wordCount": 271,
-          "title": "Ask GN: 이번 주말에 뭐 하시나요?",
-          "imageUrl": "https://social.news.hada.io/topic/6327"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6326",
-          "author": null,
-          "description": "여러개의 액션을 묶어서 한개의 API로 처리가능\n지원 액션\n\nPDF 생성/변환/합치기/분리/복제/삭제\n이미지 변환\nOCR, 워터마크\nJS/Python/Java/C#/PHP 샘플 코드 및 Postman 컬렉션 제...",
-          "link": "https://news.hada.io/topic?id=6326",
-          "publishedOn": "2022-04-08T01:24:01.000Z",
-          "wordCount": 96,
-          "title": "PSPDFKit API - PDF처리용 HTTP API",
-          "imageUrl": "https://social.news.hada.io/topic/6326"
         }
       ]
     },
@@ -252,7 +241,7 @@
           "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\n\n팀에 공유한 내용인데 블로그에도 정리한다.\n오늘 주변의 추천으로 희종님의 글을 봤다.\nhttps://ahnheejong.name/articles/i-was-wrong-test/\n예전에 어느책에서 봤던 내용인데 (제목은 까먹었다 ㅠㅠ) \n나 스스로 \"내가 틀렸네요\" 라고 입밖으로 낼 수 있는 용기가 있다면 그사람은 성장하는중이다 라는 이야기를 본적이 있다.\n그래서 그 이후로 \n\"제가 잘못알고 있었네요\" \n라고 이야기를 해야하는 순간이 오면 진짜 민망하고, 인정하기 싫었지만, \n\"그래도 이걸 이야기하지 않으면 나는 성장하지 못하겠지? 그게 더 무서운거 아닌가?\" \n라는 생각으로 어떻게든 내뱉었다.\n어떤 일을 하는데 있어 개인이 성장하려면 내가 틀렸음을 인정하고, 이걸 입밖으로 낼 용기를 가지는 것이 필요하다.\n이걸 자주 하지 않으면 더이상 주변의 사람들이 부족한점/잘못한점/틀린점에 대해 이야기하지 않게 된다.\n어차피 얘기해줘도 인정하지 않을것이고, 변하지도 않을텐데 굳이 감정상하고 싶진 않아서 그렇다.\n그렇게 될수록 점점 본인만의 세상에 갇히거나(흔히 말하는 꼰대) 더이상 성장하지 못하는 사람이 된다.\n1년에 몇번이나 내가 틀렸음을 이야기했는지\n가장 최근에 “너 그거 틀렸어” 피드백을 언제 받았는지\n등을 정기적으로 검토해보면 좋다.\n특히 일기 쓰면 정말 좋다.\n마침 왓챠의 채용공고에 적힌 같이 일하고 싶은 동료 이야기가 보인다.\n가장 최근에 \"내가 틀렸네요\" 라는 말은 언제했는지 찾아봤더니, \n최근에 내가 가이드한 방향이 너무 예전 지식이라 새 방향을 지적받을때 이야기 했었다. \n그 동료에게 정말 감사하다.\n희종님의 글 덕분에 다시 한번 \"내가 틀렸네요\"의 힘을 상기시킬 수 있어서 너무 감사드리고 싶다.\n            \n반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({});",
           "link": "https://jojoldu.tistory.com/658",
           "publishedOn": "2022-03-25T14:22:57.000Z",
-          "wordCount": 340,
+          "wordCount": 351,
           "title": "내가 틀렸네요",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FDO8kj%2Fbtrxh9ej1vi%2FIAB0ctbCycN6aUlpYzo1q0%2Fimg.jpg"
         },

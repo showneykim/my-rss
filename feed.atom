@@ -1,10 +1,68 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-10T01:35:09.355Z</id>
+    <id>urn:2022-04-11T01:25:45.890Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-10T01:35:09.355Z</updated>
+    <updated>2022-04-11T01:25:45.890Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Rome Formatter 릴리즈]]></title>
+        <id>https://news.hada.io/topic?id=6339</id>
+        <link href="https://news.hada.io/topic?id=6339"/>
+        <updated>2022-04-11T01:02:02.000Z</updated>
+        <summary type="html"><![CDATA[Rust로 재작성된 JavaScript & TypeScript 포매터
+고성능, 편리한 사용, 퍼스트클래스 IDE 통합을 목표
+Error Recovery 기능으로 코드 중간에 오류가 있어도 최대한 동작
+Prettier 와 성능 비교했을때 M1 맥북에어 기준 9~12배 빠름
+VSCode 확장 및 CLI 알파버전 제공...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 현재 React로 앱 개발할 때 추천 라이브러리들]]></title>
+        <id>https://news.hada.io/topic?id=6338</id>
+        <link href="https://news.hada.io/topic?id=6338"/>
+        <updated>2022-04-11T00:46:01.000Z</updated>
+        <summary type="html"><![CDATA[React 프로젝트 생성 : 클라이언트에는 Vite/CRA, 서버에는 Next.js/Remix/Gatsby
+React State 관리 : useState/useReducer, useContext, Redux
+React Data Fetching : React Query (REST APIs, GraphQL APIs) + axios, Apollo Client
+Routing with React Router
+CSS Styl...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[InfoQ의 소프트웨어 아키텍처 & 설계 트렌드 리포트 2022]]></title>
+        <id>https://news.hada.io/topic?id=6337</id>
+        <link href="https://news.hada.io/topic?id=6337"/>
+        <updated>2022-04-11T00:26:01.000Z</updated>
+        <summary type="html"><![CDATA[주요 내용
+Data + Architecture :
+
+소프트웨어 아키텍처가 데이터를 고려하도록 변화
+데이터 품질, 데이터 파이프라인 및 데이터가 의사 결정 및 AI모델에 어떻게 영향을 주는지 이해하기 위한 Traceability등이 포함
+혁신적인 소프트웨어 아키텍처는 코드 품질...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shepherd - 미팅 노트/아젠다/태스크 관리도구]]></title>
+        <id>https://news.hada.io/topic?id=6336</id>
+        <link href="https://news.hada.io/topic?id=6336"/>
+        <updated>2022-04-10T01:31:02.000Z</updated>
+        <summary type="html"><![CDATA[크롬 확장으로 구글 캘린더/Meet 를 통해서 팀 협업을 도와주는 도구
+캘린더에서 미팅 어젠다 및 노트를 협업해서 작성하고 공유
+구글 Meet 도중에 실시간으로 노트 작성하고 액션 아이템을 어사인
+슬랙/노션/트렐로 등으로 공유
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[구글 렌즈 "멀티서치" 기능 베타 시작]]></title>
         <id>https://news.hada.io/topic?id=6335</id>
@@ -166,61 +224,6 @@ C++ 오픈소스
         <updated>2022-04-09T00:31:00.000Z</updated>
         <summary type="html"><![CDATA[개발자들이 가장 선호하는 기업에서는 각각 고유의 핵심가치(Core Value)를 내세워 일하는 문화를 혁신하고 있는데, 이들이 강조하는 핵심가치 키워드 BEST 5는 바로 신속 신뢰 소통 몰입 도전 이다.
 신속(Fast) : 완벽한 계획보다 빠]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Lambda Function URLs 공개]]></title>
-        <id>https://news.hada.io/topic?id=6329</id>
-        <link href="https://news.hada.io/topic?id=6329"/>
-        <updated>2022-04-09T00:16:44.000Z</updated>
-        <summary type="html"><![CDATA["Built-in HTTPS Endpoints for Single-Function Microservices"
-람다 함수에 URL엔드포인트를 설정해서 호출(CORS 헤더 설정 지원)
-버전별로 호출 및 Alias 지정 가능
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중세 도시 지도 생성기]]></title>
-        <id>https://news.hada.io/topic?id=6328</id>
-        <link href="https://news.hada.io/topic?id=6328"/>
-        <updated>2022-04-08T03:51:56.000Z</updated>
-        <summary type="html"><![CDATA[랜덤으로 중세 도시의 지도를 만들어주는 페이지입니다. 멋진 이름도 생성해줘요.
-생성된 도시는 URL로 seed와 파라미터가 정해집니다. URL을 복사하면, 지금 보는 지도를 공유할 수 있습니다.
-컬러 설정을 자유롭게 변경할 수 있습니다.
-해당 페이지의 소스코드는]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
-        <id>https://news.hada.io/topic?id=6327</id>
-        <link href="https://news.hada.io/topic?id=6327"/>
-        <updated>2022-04-08T02:41:01.000Z</updated>
-        <summary type="html"><![CDATA[이번 주말에 뭘 하려고 계획 중인지 편하게 얘기해 보아요.
-읽을 책, 가볼 곳, 해볼 것.. 어떤 것이든 좋습니다.
-지난 주말에 계획하셨던 일의 회고도 한번 남겨봐 주세요.]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PSPDFKit API - PDF처리용 HTTP API]]></title>
-        <id>https://news.hada.io/topic?id=6326</id>
-        <link href="https://news.hada.io/topic?id=6326"/>
-        <updated>2022-04-08T01:24:01.000Z</updated>
-        <summary type="html"><![CDATA[여러개의 액션을 묶어서 한개의 API로 처리가능
-지원 액션
-
-PDF 생성/변환/합치기/분리/복제/삭제
-이미지 변환
-OCR, 워터마크
-JS/Python/Java/C#/PHP 샘플 코드 및 Postman 컬렉션 제...]]></summary>
         <author>
             <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
@@ -597,17 +600,6 @@ ESLint 8.0 support
                     (adsbygoogle = window.adsbygoogle || []).push({});]]></summary>
         <author>
             <name>향로</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[퇴사를 해야겠다고 생각이 들때]]></title>
-        <id>https://rastalion.me/?p=2477</id>
-        <link href="https://rastalion.me/resign/"/>
-        <updated>2022-03-11T17:42:31.000Z</updated>
-        <summary type="html"><![CDATA[퇴사의 이유 새로운 직장에 대한 니즈는 한 직장에서 일정기간 업무를 해 왔다면 한 번쯤 생각할 때가 있습니다. 왜 퇴사가 하고 싶을까요? 여러가지 이유가 있지만 각자가 가지고 있는 다양한 가치관에 따라, 또는 지나친 업무량에 따라,...
-The post 퇴사를 해야겠다고 생각이 들때 appeared first on RastaLion's IT Blog.]]></summary>
-        <author>
-            <name>Rasta Lion</name>
         </author>
     </entry>
 </feed>
