@@ -1,10 +1,181 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-12T01:34:47.413Z</id>
+    <id>urn:2022-04-13T01:38:32.805Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-12T01:34:47.413Z</updated>
+    <updated>2022-04-13T01:38:32.805Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 특정 분야를 깊게 다룬 뉴스레터 중 재미난 것을 추천해주세요]]></title>
+        <id>https://news.hada.io/topic?id=6351</id>
+        <link href="https://news.hada.io/topic?id=6351"/>
+        <updated>2022-04-13T00:58:59.000Z</updated>
+        <summary type="html"><![CDATA[저는 아침에 이메일 뉴스레터를 읽는 것으로 하루를 시작하는데요.
+요즘 보는 뉴스레터 중에서 저의 추]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Explordle - 1인칭 시점으로 전세계 여행하며 장소 맞추기]]></title>
+        <id>https://news.hada.io/topic?id=6350</id>
+        <link href="https://news.hada.io/topic?id=6350"/>
+        <updated>2022-04-13T00:49:35.000Z</updated>
+        <summary type="html"><![CDATA[POV 형식으로 찍은 여행 비디오를 보고 어디인지 맞추는 Wordle 형식의 게임
+테마(유럽/아시아/기념물) 또는 국가별로 풀기(미국/일본/프랑스/인도/브라질..)
+Source 버튼으로 원본 유튜브 영상 링크 보기 가능
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rectangle - macOS에서 키보드로 창 이동/크기 조정]]></title>
+        <id>https://news.hada.io/topic?id=6349</id>
+        <link href="https://news.hada.io/topic?id=6349"/>
+        <updated>2022-04-13T00:32:13.000Z</updated>
+        <summary type="html"><![CDATA[상하좌우 의 절반, 1/3, 1/4, 1/6 채우기 등의 단축키
+스크린간 이동 단축키
+윈도우의 스냅 기능 적용
+Swift로 작성된 오픈소스 / 애플 실리콘 지원
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코드 리뷰 피라미드]]></title>
+        <id>https://news.hada.io/topic?id=6348</id>
+        <link href="https://news.hada.io/topic?id=6348"/>
+        <updated>2022-04-13T00:09:02.000Z</updated>
+        <summary type="html"><![CDATA[코드 리뷰에서 중점적으로 봐야할 부분과 자동화해야 할 부분을 한장의 그림으로 정리
+5단계 : Code Style, Tests, Documentation, Implementation Semantics, API Semantics
+각 단계별로 물어봐야 할 필수 질문들
+나중에 변경하기 쉬운 코드스타일/테스트 쪽은 자동화 하고, 문서화...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[expect에서 false와 falsy 구분하기]]></title>
+        <id>https://jojoldu.tistory.com/664</id>
+        <link href="https://jojoldu.tistory.com/664"/>
+        <updated>2022-04-12T23:39:12.000Z</updated>
+        <summary type="html"><![CDATA[반응형
+
+                    
+                    (adsbygoogle = window.adsbygoogle || []).push({}); 
+               
+
+Jest로 테스트 코드를 작성하다보면 습관적으로 IDE의 자동완성으로 toBeFalsy 와 toBeTruthy 를 사용하곤 했다.
+저 둘이 아닌 toBe(false) 와 toBe(true) 는 한 번의 자동완성으로 안되기 때문에 굳이 사용하진 않았다.
+그러다 팀 분의 의견을 받고 더이상 toBeFalsy() 는 사용하진 않고 있다.
+물론 이에 맞는 쓰임새가 있겠지만, 모든 결과를 강타입으로 처리하는걸 선호하는 입장에서는 toBeFalsy() 는 선호하기가 어렵다.
+다음과 같은 이유 때문이다.
+toBeFalsy() 는 JS에서 false로 판단되는 모든 값들을 기준으로 한다
+내가 의도한것은 boolean 타입의 false 를 원했지만, 수행 결과가 0, undefined, null, '' 이면 toBeFalsy() 는 통과한다
+it('falsy로 검증하면 0도 통과된다', () => {
+  const result = calculate(); // result가 0임에도
+
+  expect(result).toBeFalsy();
+});
+
+실제로 다음과 같이 테스트 코드를 작성해서 테스트를 해보면 모든 값들이 통과한다
+it.each([
+  [0],
+  [''],
+  [false],
+  [undefined],
+  [null],
+])("calculate 결과가 %s이면 toBeFalsy 를 통과한다", (calculateResult) => {
+  const result = calculate(calculateResult);
+
+  expect(result).toBeFalsy();
+});
+
+그래서 정확하게 boolean:false를 기대한다면 toBe(false) 로 검증해야만 한다.
+it('toBe(false)로 검증하면 0은 통과되지 못한다', () => {
+  const result = calculate(0);
+
+  expect(result).toBe(false);
+});
+
+테스트 코드는 두루뭉실하게 이것도 되고, 저것도 통과되도록 하는 것이 목표는 아니다. 
+원하는 결과가 명확하다면 그에 맞게 검증문 작성이 필요하다.
+            
+반응형
+
+                    
+                    (adsbygoogle = window.adsbygoogle || []).push({});]]></summary>
+        <author>
+            <name>향로</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Add a CSS Lens Flare to Photos for a Bright Touch]]></title>
+        <id>https://css-tricks.com/?p=364385</id>
+        <link href="https://css-tricks.com/add-a-css-lens-flare-to-photos-for-a-bright-touch/"/>
+        <updated>2022-04-12T17:10:13.000Z</updated>
+        <summary type="html"><![CDATA[I’m a big fan of movies by J.J. Abrams. I enjoy their tight plots, quippy dialog, and of course: anamorphic lens flares. Filmmakers like Abrams use lens flare to add a dash of ‘homemade’ realism to their movies, …
+Add a CSS Lens Flare to Photos for a Bright Touch originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Shimin Zhang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내 유스케이스에 Airflow가 진짜 최선인지 확인해보자]]></title>
+        <id>https://news.hada.io/topic?id=6347</id>
+        <link href="https://news.hada.io/topic?id=6347"/>
+        <updated>2022-04-12T04:36:59.000Z</updated>
+        <summary type="html"><![CDATA[Airflow의 대안이 너무 많아서, 내 유스케이스에 airflow가 가장 좋은 솔루션이 맞는지(혹은 유효한 솔루션이긴 한지) 확실하게 확인해 볼 필요가 있다
+해당 글에서 언급된 대안
+
+Prefect
+Dagster
+Cadence
+Temporal
+
+
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MarkdownSite - 정적 웹사이트 호스팅 플랫폼 오픈소스]]></title>
+        <id>https://news.hada.io/topic?id=6346</id>
+        <link href="https://news.hada.io/topic?id=6346"/>
+        <updated>2022-04-12T02:12:52.000Z</updated>
+        <summary type="html"><![CDATA[Git Repo를 원클릭으로 호스팅해주는 플랫폼을 자신이 구성 가능
+public/ 이하의 모든 내용을 랜덤 서브도메인으로 정적 호스팅 (Hugo/Jekyll)
+site/ 밑의 모든 MD파일은 HTML로 렌더링
+사용자 측은 Lighttpd, 관리자 측은 Nginx + PostgreSQL
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zas Editor - Go/Rust를 위한 빠른 맥용 코드 에디터]]></title>
+        <id>https://news.hada.io/topic?id=6345</id>
+        <link href="https://news.hada.io/topic?id=6345"/>
+        <updated>2022-04-12T01:59:13.000Z</updated>
+        <summary type="html"><![CDATA[IDE처럼 스마트하지만, 에디터 수준으로 빠른 경량 개발환경을 목표
+Go/Rust 코드 작성과 코드를 읽는 것에도 중점을 둠
+Abstract Syntax Tree를 항상 유지
+
+자동 변수 renaming(코드 전체에서 실시간)
+빠른 리팩토링
+스마트 자동 완성
+Docu...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TruffleHog - Credential 검색 도구]]></title>
         <id>https://news.hada.io/topic?id=6344</id>
@@ -49,107 +220,6 @@ JS 브릿지 : JS와 Rust 간에 커뮤니케이션
 오픈소스 프로젝트
 Why Talos Linux?
 Security : 공격표면을 최...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사용중인 클라우드를 바꿔보신 분 ?]]></title>
-        <id>https://news.hada.io/topic?id=6341</id>
-        <link href="https://news.hada.io/topic?id=6341"/>
-        <updated>2022-04-11T01:46:01.000Z</updated>
-        <summary type="html"><![CDATA[AWS,Azure,Google 등의 클라우드 간에 옮겨본 이유와 경험을 묻는 HN의 질문과 답변들
-내 클라이언트의 환경을 AWS → Google, 그리고 Google → Hetzner로 제로 다운타임 이관 했음
-
-주요 이유는 가격. AWS/Google의 무료 크레딧을 다 쓴후에 Hetzner로
-크레딧을 사용하여 절약한 비용]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RedwoodJS 1.0 공개 및 $1M 펀드 조성]]></title>
-        <id>https://news.hada.io/topic?id=6340</id>
-        <link href="https://news.hada.io/topic?id=6340"/>
-        <updated>2022-04-11T01:20:01.000Z</updated>
-        <summary type="html"><![CDATA[풀스택 개발 가능한 JAMStack으로, 3년 만에 메이저 버전 1 공개
-개발자인 Tom Preston-Werner가 $1M을 펀딩하여 Redwood Startup Fund를 조성
-
-RedwoodJS를 사용하는 스타트업을 위해 $25~50k씩 투자할 예정
-Tom은 GitHub의 창업자이자 CEO였던 사람으로 이미 억만장자 (Gravatar, ...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rome Formatter 릴리즈]]></title>
-        <id>https://news.hada.io/topic?id=6339</id>
-        <link href="https://news.hada.io/topic?id=6339"/>
-        <updated>2022-04-11T01:02:02.000Z</updated>
-        <summary type="html"><![CDATA[Rust로 재작성된 JavaScript & TypeScript 포매터
-고성능, 편리한 사용, 퍼스트클래스 IDE 통합을 목표
-Error Recovery 기능으로 코드 중간에 오류가 있어도 최대한 동작
-Prettier 와 성능 비교했을때 M1 맥북에어 기준 9~12배 빠름
-VSCode 확장 및 CLI 알파버전 제공...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022년 현재 React로 앱 개발할 때 추천 라이브러리들]]></title>
-        <id>https://news.hada.io/topic?id=6338</id>
-        <link href="https://news.hada.io/topic?id=6338"/>
-        <updated>2022-04-11T00:46:01.000Z</updated>
-        <summary type="html"><![CDATA[React 프로젝트 생성 : 클라이언트에는 Vite/CRA, 서버에는 Next.js/Remix/Gatsby
-React State 관리 : useState/useReducer, useContext, Redux
-React Data Fetching : React Query (REST APIs, GraphQL APIs) + axios, Apollo Client
-Routing with React Router
-CSS Styl...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[InfoQ의 소프트웨어 아키텍처 & 설계 트렌드 리포트 2022]]></title>
-        <id>https://news.hada.io/topic?id=6337</id>
-        <link href="https://news.hada.io/topic?id=6337"/>
-        <updated>2022-04-11T00:26:01.000Z</updated>
-        <summary type="html"><![CDATA[주요 내용
-Data + Architecture :
-
-소프트웨어 아키텍처가 데이터를 고려하도록 변화
-데이터 품질, 데이터 파이프라인 및 데이터가 의사 결정 및 AI모델에 어떻게 영향을 주는지 이해하기 위한 Traceability등이 포함
-혁신적인 소프트웨어 아키텍처는 코드 품질...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shepherd - 미팅 노트/아젠다/태스크 관리도구]]></title>
-        <id>https://news.hada.io/topic?id=6336</id>
-        <link href="https://news.hada.io/topic?id=6336"/>
-        <updated>2022-04-10T01:31:02.000Z</updated>
-        <summary type="html"><![CDATA[크롬 확장으로 구글 캘린더/Meet 를 통해서 팀 협업을 도와주는 도구
-캘린더에서 미팅 어젠다 및 노트를 협업해서 작성하고 공유
-구글 Meet 도중에 실시간으로 노트 작성하고 액션 아이템을 어사인
-슬랙/노션/트렐로 등으로 공유
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구글 렌즈 "멀티서치" 기능 베타 시작]]></title>
-        <id>https://news.hada.io/topic?id=6335</id>
-        <link href="https://news.hada.io/topic?id=6335"/>
-        <updated>2022-04-10T00:55:01.000Z</updated>
-        <summary type="html"><![CDATA[iOS/Android 구글앱에서 카메라를 이용한 Lens검색에 멀티서치 도입
-사진을 찍어서 나온 검색 결과에서 "Add to your search" 버튼이 추가됨
-추가로 단어를 넣어서 검색 결과를 refine
-
-색상, 브랜드, 시각적 속성 등을 추가
-오랜지색 드레스를 찾은 후에 '녹색'...]]></summary>
         <author>
             <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
