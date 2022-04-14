@@ -1,10 +1,123 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-13T01:38:32.805Z</id>
+    <id>urn:2022-04-14T01:40:52.263Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-13T01:38:32.805Z</updated>
+    <updated>2022-04-14T01:40:52.263Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Creator Economy 유니콘 회사들]]></title>
+        <id>https://news.hada.io/topic?id=6360</id>
+        <link href="https://news.hada.io/topic?id=6360"/>
+        <updated>2022-04-14T01:11:03.000Z</updated>
+        <summary type="html"><![CDATA[The Information이 정리한 창작자 이코노미 유니콘들]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Go로 밑바닥부터 SMTP 프로토콜 배우기 : Gmail에서 이메일 받아보기]]></title>
+        <id>https://news.hada.io/topic?id=6359</id>
+        <link href="https://news.hada.io/topic?id=6359"/>
+        <updated>2022-04-14T00:56:54.000Z</updated>
+        <summary type="html"><![CDATA[간단한 SMTP서버를 만들면서 배워보는 글
+25번 포트 열고 Greeting/EHLO 보내는 것부터 코드 적어가며 설명
+이메일 헤더와 바디를 간단히 처리하고 Gmail에서 메일 보내서 수신 테스트
+코드는 깃헙에 공개
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미국 10대들의 기업 선호도 조사 - 2022년 봄]]></title>
+        <id>https://news.hada.io/topic?id=6358</id>
+        <link href="https://news.hada.io/topic?id=6358"/>
+        <updated>2022-04-14T00:34:39.000Z</updated>
+        <summary type="html"><![CDATA[Piper Sandler 투자은행이 21년째 매년 두번씩 시행하는 꽤 재미난 통계인 "Talking Stock With Teens®"
+결제 앱은 애플페이가 1등. 87%의 청소년이 아이폰을 가지고 있는 것도 그 이유중 하나
+페이팔 Venmo가 2등(페이팔은 4등), Square의 Cash가 3등
+지불 방식은 현금이]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[메타버스 산업 지도]]></title>
+        <id>https://news.hada.io/topic?id=6357</id>
+        <link href="https://news.hada.io/topic?id=6357"/>
+        <updated>2022-04-14T00:13:04.000Z</updated>
+        <summary type="html"><![CDATA[메타버스 각 분야(레이어) 회사들을 이미지 한장으로 정리
+인프라 (네트웍 & 컴퓨팅)
+
+칩&프로세서 : Nvidia, 퀄컴, 삼성, 인텔
+5G: AT&T, Verizon,..
+클라우드: AWS, Azure, GCP,..
+Edge: Akamai, Stackpath, Zenlayer,..
+접근/인]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(미국계가 아닌) 글로벌 기술 회사들 이름 읽는 법]]></title>
+        <id>https://news.hada.io/topic?id=6355</id>
+        <link href="https://news.hada.io/topic?id=6355"/>
+        <updated>2022-04-13T03:16:36.000Z</updated>
+        <summary type="html"><![CDATA[Auth0, Jumia, Pinduoduo, Shein, Xpeng, Xiaomi, Huawei, dLocal, BYJU..
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RisingWave - 클라우드 네이티브 차세대 스트리밍 DB]]></title>
+        <id>https://news.hada.io/topic?id=6354</id>
+        <link href="https://news.hada.io/topic?id=6354"/>
+        <updated>2022-04-13T02:57:26.000Z</updated>
+        <summary type="html"><![CDATA[실시간 어플리케이션 작성시 복잡도와 비용을 낮추는 것을 목표로 설계
+스트림 데이터를 가져와 SQL로 Continuous 쿼리를 실행하고 결과를 동적으로 업데이트
+
+쿼리 & 트랜스폼
+Materialized View 생성
+Kafka/Pulsar/Kinesis/Redpanda 및 CDC 소스에서 데이...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Heaps - 크로스 플랫폼 게임엔진 오픈소스]]></title>
+        <id>https://news.hada.io/topic?id=6353</id>
+        <link href="https://news.hada.io/topic?id=6353"/>
+        <updated>2022-04-13T01:54:47.000Z</updated>
+        <summary type="html"><![CDATA[데스크탑/모바일에서 2D/3D 고성능 게임을 위해 설계된 무료 엔진
+GPU 가속 지원
+1개의 소스코드로 크로스 플랫폼 컴파일 지원
+
+오픈소스 크로스 플랫폼 툴킷인 Haxe 기반
+마우스/키보드/게임패드 지원
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[맥을 처음 사용한 유저가 느낀점]]></title>
+        <id>https://news.hada.io/topic?id=6352</id>
+        <link href="https://news.hada.io/topic?id=6352"/>
+        <updated>2022-04-13T01:29:00.000Z</updated>
+        <summary type="html"><![CDATA[장점: 하드웨어 마감, 아크 원자로가 달린 듯한 배터리 수명, BSD-BASED(그래서 리눅스 명령어를 쓸 수 있음)
+어정쩡함: 연결성(이젠 좀 나아졌는데 USB-A는 언제 넣어줄거니? 정말 독을 사야할까?), 확장(내부를 못 건드려서 아쉽지만. 썬더볼트로 어찌 해볼만함.)
+나쁜 것 :
+
+MacO...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 특정 분야를 깊게 다룬 뉴스레터 중 재미난 것을 추천해주세요]]></title>
         <id>https://news.hada.io/topic?id=6351</id>
@@ -26,34 +139,6 @@
 Source 버튼으로 원본 유튜브 영상 링크 보기 가능
 
 ...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rectangle - macOS에서 키보드로 창 이동/크기 조정]]></title>
-        <id>https://news.hada.io/topic?id=6349</id>
-        <link href="https://news.hada.io/topic?id=6349"/>
-        <updated>2022-04-13T00:32:13.000Z</updated>
-        <summary type="html"><![CDATA[상하좌우 의 절반, 1/3, 1/4, 1/6 채우기 등의 단축키
-스크린간 이동 단축키
-윈도우의 스냅 기능 적용
-Swift로 작성된 오픈소스 / 애플 실리콘 지원
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코드 리뷰 피라미드]]></title>
-        <id>https://news.hada.io/topic?id=6348</id>
-        <link href="https://news.hada.io/topic?id=6348"/>
-        <updated>2022-04-13T00:09:02.000Z</updated>
-        <summary type="html"><![CDATA[코드 리뷰에서 중점적으로 봐야할 부분과 자동화해야 할 부분을 한장의 그림으로 정리
-5단계 : Code Style, Tests, Documentation, Implementation Semantics, API Semantics
-각 단계별로 물어봐야 할 필수 질문들
-나중에 변경하기 쉬운 코드스타일/테스트 쪽은 자동화 하고, 문서화...]]></summary>
         <author>
             <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
@@ -108,7 +193,13 @@ it('toBe(false)로 검증하면 0은 통과되지 못한다', () => {
 반응형
 
                     
-                    (adsbygoogle = window.adsbygoogle || []).push({});]]></summary>
+                    (adsbygoogle = window.adsbygoogle || []).push({}); 
+               
+
+	
+카카오스토리
+트위터
+페이스북]]></summary>
         <author>
             <name>향로</name>
         </author>
@@ -122,106 +213,6 @@ it('toBe(false)로 검증하면 0은 통과되지 못한다', () => {
 Add a CSS Lens Flare to Photos for a Bright Touch originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Shimin Zhang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내 유스케이스에 Airflow가 진짜 최선인지 확인해보자]]></title>
-        <id>https://news.hada.io/topic?id=6347</id>
-        <link href="https://news.hada.io/topic?id=6347"/>
-        <updated>2022-04-12T04:36:59.000Z</updated>
-        <summary type="html"><![CDATA[Airflow의 대안이 너무 많아서, 내 유스케이스에 airflow가 가장 좋은 솔루션이 맞는지(혹은 유효한 솔루션이긴 한지) 확실하게 확인해 볼 필요가 있다
-해당 글에서 언급된 대안
-
-Prefect
-Dagster
-Cadence
-Temporal
-
-
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MarkdownSite - 정적 웹사이트 호스팅 플랫폼 오픈소스]]></title>
-        <id>https://news.hada.io/topic?id=6346</id>
-        <link href="https://news.hada.io/topic?id=6346"/>
-        <updated>2022-04-12T02:12:52.000Z</updated>
-        <summary type="html"><![CDATA[Git Repo를 원클릭으로 호스팅해주는 플랫폼을 자신이 구성 가능
-public/ 이하의 모든 내용을 랜덤 서브도메인으로 정적 호스팅 (Hugo/Jekyll)
-site/ 밑의 모든 MD파일은 HTML로 렌더링
-사용자 측은 Lighttpd, 관리자 측은 Nginx + PostgreSQL
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zas Editor - Go/Rust를 위한 빠른 맥용 코드 에디터]]></title>
-        <id>https://news.hada.io/topic?id=6345</id>
-        <link href="https://news.hada.io/topic?id=6345"/>
-        <updated>2022-04-12T01:59:13.000Z</updated>
-        <summary type="html"><![CDATA[IDE처럼 스마트하지만, 에디터 수준으로 빠른 경량 개발환경을 목표
-Go/Rust 코드 작성과 코드를 읽는 것에도 중점을 둠
-Abstract Syntax Tree를 항상 유지
-
-자동 변수 renaming(코드 전체에서 실시간)
-빠른 리팩토링
-스마트 자동 완성
-Docu...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TruffleHog - Credential 검색 도구]]></title>
-        <id>https://news.hada.io/topic?id=6344</id>
-        <link href="https://news.hada.io/topic?id=6344"/>
-        <updated>2022-04-12T01:06:01.000Z</updated>
-        <summary type="html"><![CDATA[개인 키 및 자격증명 같은 것들이 유출되지 않도록 지속적으로 스캔하는 오픈소스
-600개 이상의 Secret Detector 제공
-코드 저장소 부터 SaaS 및 셀프 호스팅하는 소프트웨어들 까지 지원
-
-GitHub, GitLab, S3/GCS/Azure, 파일시스템
-Slack, Confluence, JIRA, Trello
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zaplib - Rust와 WASM으로 웹 앱을 가속하는 오픈소스]]></title>
-        <id>https://news.hada.io/topic?id=6343</id>
-        <link href="https://news.hada.io/topic?id=6343"/>
-        <updated>2022-04-12T00:36:38.000Z</updated>
-        <summary type="html"><![CDATA[Rust로 작성한 고성능 코드를 JavaScript 코드와 함께 사용
-기존 느린 JS코드들을 Rust로 하나씩 변환해가며 연동하는 방식을 지원하도록 설계
-Zaplib의 컴포넌트
-
-표준 라이브러리 : 로깅, 쓰레딩, HTTP, 파일 리딩 등
-JS 브릿지 : JS와 Rust 간에 커뮤니케이션
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Talos Linux - Kubernetes OS]]></title>
-        <id>https://news.hada.io/topic?id=6342</id>
-        <link href="https://news.hada.io/topic?id=6342"/>
-        <updated>2022-04-12T00:06:32.000Z</updated>
-        <summary type="html"><![CDATA[K8s를 위해 디자인된 리눅스 - secure, immutable, minimal
-클라우드, 베어메탈, 가상화 플랫폼 지원
-모든 시스템 관리는 API를 통해서 처리. SSH,쉘,콘솔 없음
-프로덕션 레디
-오픈소스 프로젝트
-Why Talos Linux?
-Security : 공격표면을 최...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
     </entry>
     <entry>
@@ -295,7 +286,13 @@ assertThat(a).is(1)
 반응형
 
                     
-                    (adsbygoogle = window.adsbygoogle || []).push({});]]></summary>
+                    (adsbygoogle = window.adsbygoogle || []).push({}); 
+               
+
+	
+카카오스토리
+트위터
+페이스북]]></summary>
         <author>
             <name>향로</name>
         </author>
@@ -517,7 +514,13 @@ https://ahnheejong.name/articles/i-was-wrong-test/
 반응형
 
                     
-                    (adsbygoogle = window.adsbygoogle || []).push({});]]></summary>
+                    (adsbygoogle = window.adsbygoogle || []).push({}); 
+               
+
+	
+카카오스토리
+트위터
+페이스북]]></summary>
         <author>
             <name>향로</name>
         </author>
@@ -615,20 +618,6 @@ it("[expect] 주문금액이 -이면 BadParameter Exception 을 던진다.", asy
 이 중에서 개인적으로는 expect…]]></summary>
         <author>
             <name>향로</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS-Tricks is joining DigitalOcean!]]></title>
-        <id>https://css-tricks.com/?p=365042</id>
-        <link href="https://css-tricks.com/css-tricks-is-joining-digitalocean/"/>
-        <updated>2022-03-15T12:18:44.000Z</updated>
-        <summary type="html"><![CDATA[Hey hey!
-I’ve got a big announcement to make here. (Where’s my gong? I feel like this really needs a good gong hit.)
-CSS-Tricks, this very website you’re looking at, has been acquired by DigitalOcean!
-You can hear …
-CSS-Tricks is joining DigitalOcean! originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
 </feed>
