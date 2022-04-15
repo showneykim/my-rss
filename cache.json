@@ -79,104 +79,104 @@
       "siteUrl": "https://news.hada.io",
       "articles": [
         {
-          "id": "https://news.hada.io/topic?id=6360",
+          "id": "https://news.hada.io/topic?id=6372",
           "author": null,
-          "description": "The Information이 정리한 창작자 이코노미 유니콘들",
-          "link": "https://news.hada.io/topic?id=6360",
-          "publishedOn": "2022-04-14T01:11:03.000Z",
-          "wordCount": 234,
-          "title": "Creator Economy 유니콘 회사들",
-          "imageUrl": "https://social.news.hada.io/topic/6360"
+          "description": "유튜브가 내부적으로 사용하는 Innertube API를 그대로 이용\n별도의 키를 필요로 하지 않음\n지원기능(계정 관련 기능은 유튜브 로그인 되어있어야 호출 가능)\n\n검색 : 비디오, 플레이리스트, 음악, 앨범 등\n상세 정보 얻기 : 비디오/플레이리스트\n실시간 채팅 및 ...",
+          "link": "https://news.hada.io/topic?id=6372",
+          "publishedOn": "2022-04-15T00:51:01.000Z",
+          "wordCount": 122,
+          "title": "Youtube.js - 유튜브 Private API를 전체 커버하는 라이브러리",
+          "imageUrl": "https://social.news.hada.io/topic/6372"
         },
         {
-          "id": "https://news.hada.io/topic?id=6359",
+          "id": "https://news.hada.io/topic?id=6371",
           "author": null,
-          "description": "간단한 SMTP서버를 만들면서 배워보는 글\n25번 포트 열고 Greeting/EHLO 보내는 것부터 코드 적어가며 설명\n이메일 헤더와 바디를 간단히 처리하고 Gmail에서 메일 보내서 수신 테스트\n코드는 깃헙에 공개\n\n...",
-          "link": "https://news.hada.io/topic?id=6359",
-          "publishedOn": "2022-04-14T00:56:54.000Z",
-          "wordCount": 90,
-          "title": "Go로 밑바닥부터 SMTP 프로토콜 배우기 : Gmail에서 이메일 받아보기",
-          "imageUrl": "https://social.news.hada.io/topic/6359"
+          "description": "기존 Range Type을 멀티로 설정 가능\n\nint4multirange(int4range(10, 20), int4range(40, 50))\n데이터 타입처럼 사용가능하며, 다른 값처럼 테이블에 저장 가능\nRange는 \"무한(infinity)\" 개념 지원\nRange 간에 기본 연산식으로 계산 가능\n...",
+          "link": "https://news.hada.io/topic?id=6371",
+          "publishedOn": "2022-04-15T00:34:01.000Z",
+          "wordCount": 94,
+          "title": "PostgreSQL 14에 추가된 Multiranges 컨셉 및 주요 기능",
+          "imageUrl": "https://social.news.hada.io/topic/6371"
         },
         {
-          "id": "https://news.hada.io/topic?id=6358",
+          "id": "https://news.hada.io/topic?id=6370",
           "author": null,
-          "description": "Piper Sandler 투자은행이 21년째 매년 두번씩 시행하는 꽤 재미난 통계인 \"Talking Stock With Teens®\"\n결제 앱은 애플페이가 1등. 87%의 청소년이 아이폰을 가지고 있는 것도 그 이유중 하나\n페이팔 Venmo가 2등(페이팔은 4등), Square의 Cash가 3등\n지불 방식은 현금이",
-          "link": "https://news.hada.io/topic?id=6358",
-          "publishedOn": "2022-04-14T00:34:39.000Z",
-          "wordCount": 331,
-          "title": "미국 10대들의 기업 선호도 조사 - 2022년 봄",
-          "imageUrl": "https://social.news.hada.io/topic/6358"
+          "description": "누구나 틱톡앱내에서 사용할 수 있는 AR 필터들을 개발하고 수익창출 가능\n작년 가을부터 클로즈드 베타 시작, 이제 모든 창작자들에게 오픈 베타로 공개\n맥 OS용 저작 도구와 학습자료 등을 같이 제공\n모든 이펙트들은 커뮤니티 가이드라인/이펙트 가이드라인을 지키는지 리뷰받게...",
+          "link": "https://news.hada.io/topic?id=6370",
+          "publishedOn": "2022-04-15T00:20:02.000Z",
+          "wordCount": 128,
+          "title": "틱톡, AR 필터 개발 플랫폼 Effect House 글로벌 베타 런칭",
+          "imageUrl": "https://social.news.hada.io/topic/6370"
         },
         {
-          "id": "https://news.hada.io/topic?id=6357",
+          "id": "https://news.hada.io/topic?id=6369",
           "author": null,
-          "description": "메타버스 각 분야(레이어) 회사들을 이미지 한장으로 정리\n인프라 (네트웍 & 컴퓨팅)\n\n칩&프로세서 : Nvidia, 퀄컴, 삼성, 인텔\n5G: AT&T, Verizon,..\n클라우드: AWS, Azure, GCP,..\nEdge: Akamai, Stackpath, Zenlayer,..\n접근/인",
-          "link": "https://news.hada.io/topic?id=6357",
-          "publishedOn": "2022-04-14T00:13:04.000Z",
-          "wordCount": 254,
-          "title": "메타버스 산업 지도",
-          "imageUrl": "https://social.news.hada.io/topic/6357"
+          "description": "개인정보보호 기능을 기본 내장\nDuckDuckGo 검색엔진, 트래커 블로킹, 쿠키팝업차단, Fire 버튼(원클릭 데이터 삭제), 이메일 보호\nOS 내장 웹 렌더링 엔진 사용\n\n다른 브라우저들과 달리 로딩 전에 미리 트래커를 차단해서 빠름\n몇몇 그래픽 성능은 크롬보다 빠르고, 트래...",
+          "link": "https://news.hada.io/topic?id=6369",
+          "publishedOn": "2022-04-15T00:07:01.000Z",
+          "wordCount": 138,
+          "title": "DuckDuckGo for Mac 공개 - 안전하고 빠른 브라우저",
+          "imageUrl": "https://social.news.hada.io/topic/6369"
         },
         {
-          "id": "https://news.hada.io/topic?id=6355",
+          "id": "https://news.hada.io/topic?id=6367",
           "author": null,
-          "description": "Auth0, Jumia, Pinduoduo, Shein, Xpeng, Xiaomi, Huawei, dLocal, BYJU..\n\n...",
-          "link": "https://news.hada.io/topic?id=6355",
-          "publishedOn": "2022-04-13T03:16:36.000Z",
-          "wordCount": 70,
-          "title": "(미국계가 아닌) 글로벌 기술 회사들 이름 읽는 법",
-          "imageUrl": "https://social.news.hada.io/topic/6355"
+          "description": "OAuth, OIDC, SAML, mTLS 등을 제공하는 Cloud Edge\n\nCloud Edge 와 Secure Tunneling 을 제어하는 API, terraform provider 제공\nresource 삭제, 생성, 트래픽 이벤트를 생성에서 전달\nngrok agent v2 → v3\n사용량에...",
+          "link": "https://news.hada.io/topic?id=6367",
+          "publishedOn": "2022-04-14T03:45:00.000Z",
+          "wordCount": 102,
+          "title": "ngrok next generation",
+          "imageUrl": "https://social.news.hada.io/topic/6367"
         },
         {
-          "id": "https://news.hada.io/topic?id=6354",
+          "id": "https://news.hada.io/topic?id=6366",
           "author": null,
-          "description": "실시간 어플리케이션 작성시 복잡도와 비용을 낮추는 것을 목표로 설계\n스트림 데이터를 가져와 SQL로 Continuous 쿼리를 실행하고 결과를 동적으로 업데이트\n\n쿼리 & 트랜스폼\nMaterialized View 생성\nKafka/Pulsar/Kinesis/Redpanda 및 CDC 소스에서 데이...",
-          "link": "https://news.hada.io/topic?id=6354",
-          "publishedOn": "2022-04-13T02:57:26.000Z",
-          "wordCount": 168,
-          "title": "RisingWave - 클라우드 네이티브 차세대 스트리밍 DB",
-          "imageUrl": "https://social.news.hada.io/topic/6354"
+          "description": "앨범 커버 와 영화 포스터는 정말 잘 만들어줌\n1+1 : \"side by side\", \"two frame\"를 넣으면 두개의 이미지를 하나에 그려줌\nISO와 노출 지정하기\n카메라 앵글 바꿔보기\nAnimations -> Variation Chaining\n\n...",
+          "link": "https://news.hada.io/topic?id=6366",
+          "publishedOn": "2022-04-14T03:38:27.000Z",
+          "wordCount": 95,
+          "title": "DALL·E 로 해볼만한 것들",
+          "imageUrl": "https://social.news.hada.io/topic/6366"
         },
         {
-          "id": "https://news.hada.io/topic?id=6353",
+          "id": "https://news.hada.io/topic?id=6365",
           "author": null,
-          "description": "데스크탑/모바일에서 2D/3D 고성능 게임을 위해 설계된 무료 엔진\nGPU 가속 지원\n1개의 소스코드로 크로스 플랫폼 컴파일 지원\n\n오픈소스 크로스 플랫폼 툴킷인 Haxe 기반\n마우스/키보드/게임패드 지원\n\n...",
-          "link": "https://news.hada.io/topic?id=6353",
-          "publishedOn": "2022-04-13T01:54:47.000Z",
-          "wordCount": 161,
-          "title": "Heaps - 크로스 플랫폼 게임엔진 오픈소스",
-          "imageUrl": "https://social.news.hada.io/topic/6353"
+          "description": "아이폰 13 Pro/Pro Max로 촬영한 10명의 수상자 발표",
+          "link": "https://news.hada.io/topic?id=6365",
+          "publishedOn": "2022-04-14T02:33:20.000Z",
+          "wordCount": 78,
+          "title": "Apple, Shot on iPhone 접사 챌린지 수상작 발표",
+          "imageUrl": "https://social.news.hada.io/topic/6365"
         },
         {
-          "id": "https://news.hada.io/topic?id=6352",
+          "id": "https://news.hada.io/topic?id=6364",
           "author": null,
-          "description": "장점: 하드웨어 마감, 아크 원자로가 달린 듯한 배터리 수명, BSD-BASED(그래서 리눅스 명령어를 쓸 수 있음)\n어정쩡함: 연결성(이젠 좀 나아졌는데 USB-A는 언제 넣어줄거니? 정말 독을 사야할까?), 확장(내부를 못 건드려서 아쉽지만. 썬더볼트로 어찌 해볼만함.)\n나쁜 것 :\n\nMacO...",
-          "link": "https://news.hada.io/topic?id=6352",
-          "publishedOn": "2022-04-13T01:29:00.000Z",
-          "wordCount": 626,
-          "title": "맥을 처음 사용한 유저가 느낀점",
-          "imageUrl": "https://social.news.hada.io/topic/6352"
+          "description": "텅빈 타임라인 대신 20가지 스토리보드를 제공 : 자기소개, 요리, Q&A, 제품리뷰, 뉴스보도, DIY..\n매직무비 : 탭 몇 번만으로 타이틀, 화면 전환 효과, 음악까지 가미된 영상을 제작. 앨범/이미지 그룹을 선택하면 자동으로 장면을 선별\n\n...",
+          "link": "https://news.hada.io/topic?id=6364",
+          "publishedOn": "2022-04-14T02:17:10.000Z",
+          "wordCount": 111,
+          "title": "Apple, 스토리보드와 매직무비 기능을 포함한 새로운 iMovie 3.0 공개",
+          "imageUrl": "https://social.news.hada.io/topic/6364"
         },
         {
-          "id": "https://news.hada.io/topic?id=6351",
+          "id": "https://news.hada.io/topic?id=6363",
           "author": null,
-          "description": "저는 아침에 이메일 뉴스레터를 읽는 것으로 하루를 시작하는데요.\n요즘 보는 뉴스레터 중에서 저의 추",
-          "link": "https://news.hada.io/topic?id=6351",
-          "publishedOn": "2022-04-13T00:58:59.000Z",
-          "wordCount": 158,
-          "title": "Ask GN: 특정 분야를 깊게 다룬 뉴스레터 중 재미난 것을 추천해주세요",
-          "imageUrl": "https://social.news.hada.io/topic/6351"
+          "description": "수정버전인 Git v2.35.2 릴리즈\nGitHub은 이 취약점에 영향 없음\nCVE-2022-24765 :\n\n윈도우 및 멀티 사용자 기기에서 공격자가 작업폴더의 상위 공유폴더에 .git 폴더를 생성해서 설정 정보를 취득 및 특정 커맨드 실행 가능\n업그레이드 불가능 하다면 GIT_CEILING_DIRECTO...",
+          "link": "https://news.hada.io/topic?id=6363",
+          "publishedOn": "2022-04-14T01:47:30.000Z",
+          "wordCount": 127,
+          "title": "Git 보안 취약점 발표 : CVE-2022-24765, CVE-2022-24767",
+          "imageUrl": "https://social.news.hada.io/topic/6363"
         },
         {
-          "id": "https://news.hada.io/topic?id=6350",
+          "id": "https://news.hada.io/topic?id=6362",
           "author": null,
-          "description": "POV 형식으로 찍은 여행 비디오를 보고 어디인지 맞추는 Wordle 형식의 게임\n테마(유럽/아시아/기념물) 또는 국가별로 풀기(미국/일본/프랑스/인도/브라질..)\nSource 버튼으로 원본 유튜브 영상 링크 보기 가능\n\n...",
-          "link": "https://news.hada.io/topic?id=6350",
-          "publishedOn": "2022-04-13T00:49:35.000Z",
-          "wordCount": 91,
-          "title": "Explordle - 1인칭 시점으로 전세계 여행하며 장소 맞추기",
-          "imageUrl": "https://social.news.hada.io/topic/6350"
+          "description": "인터넷으로 이런저런 자료나 정보를 많이 모으는 편인데요,\n이것저것 저장하긴 하지만, 정리하기는 귀찮고 지우기는 찝찝한 분들을 위한 메모장입니다.\n메모를 추가하면, 내용을 분석해서 예",
+          "link": "https://news.hada.io/topic?id=6362",
+          "publishedOn": "2022-04-14T01:43:55.000Z",
+          "wordCount": 445,
+          "title": "Show GN: 저장은 쉽고, 정리는 어려워. 비슷한 메모를 같이 보여주는 아이디어 수집가의 메모장.",
+          "imageUrl": "https://social.news.hada.io/topic/6362"
         }
       ]
     },
@@ -186,22 +186,32 @@
       "siteUrl": "https://jojoldu.tistory.com/",
       "articles": [
         {
+          "id": "https://jojoldu.tistory.com/665",
+          "author": "향로",
+          "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\n지난 시간에 프로젝트와 SonarCloud 연동을 했습니다. \n이번 시간에는 프로젝트와 연결된 SonarCloud를 개발환경인 WebStorm의 SonarLint 플러그인과 연동해서 IDE로 개발 중에도 SonarCloud 검증이 되도록 설정해보겠습니다.\n1. 설정\n먼저 SonarLint 플러그인을 설치합니다.\n설치된 SonarLint 플러그인의 설정을 열어봅니다. \n아래와 같이 Action 검색 (CMD + Shift + A) 을 통해 검색합니다.\n다음과 같이 커넥션 연결 화면이 나온다면 Configure the connection 을 선택합니다.\nSonarQube / SonarCloud connections의 + 버튼을 클리해서 새로운 커넥션을 추가합니다.\n여기서는 SonarCloud를 쓰고 있으니 SonarCloud를 선택합니다.\nNext로 넘어가면 Token 입력창이 등장합니다. \n해당 Token 발급을 위해 다시 SonarCloud 로 넘어갑니다. \nSonarCloud의 (우측상단) Profile -> My Account로 차례로 이동합니다.\nSecurity 탭을 보면 Token을 생성할 수 있습니다. \n해당 페이지에서 Token을 생성한 뒤,\nIDE Connection 입력창에서 Token을 등록합니다.\n그럼 다음과 같이 SonarCloud의 Organization 항목이 나오는데 이를 선택합니다.\n그럼 Connection은 완료되었고, 남은 것은 Project key 입니다. \nProject key는 Information -> Project Key, Organization Key 에서 확인할 수 있습니다.\n그럼 다음과 같이 설정이 마무리됩니다.\n2. 마무리\n이렇게 설정이 끝나면 이제 SonarCloud(혹은 SoncarQube) 가 잡아주는 여러 규칙들을 IDE에서도 만날 수 있습니다.\n위 Sonar 규칙은 SonarCloud(혹은 SoncarQube)와 동일한 것을 확인할 수 있습니다.\n            \n반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({});",
+          "link": "https://jojoldu.tistory.com/665",
+          "publishedOn": "2022-04-14T01:35:12.000Z",
+          "wordCount": 328,
+          "title": "SonarLint와 SonarCloud 연동하기 (WebStorm Plugin)",
+          "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcW9GuD%2FbtrzjY2nAWV%2Fx6KxxJyIlM6QpGLb20qnp0%2Fimg.png"
+        },
+        {
           "id": "https://jojoldu.tistory.com/664",
           "author": "향로",
-          "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\nJest로 테스트 코드를 작성하다보면 습관적으로 IDE의 자동완성으로 toBeFalsy 와 toBeTruthy 를 사용하곤 했다.\n저 둘이 아닌 toBe(false) 와 toBe(true) 는 한 번의 자동완성으로 안되기 때문에 굳이 사용하진 않았다.\n그러다 팀 분의 의견을 받고 더이상 toBeFalsy() 는 사용하진 않고 있다.\n물론 이에 맞는 쓰임새가 있겠지만, 모든 결과를 강타입으로 처리하는걸 선호하는 입장에서는 toBeFalsy() 는 선호하기가 어렵다.\n다음과 같은 이유 때문이다.\ntoBeFalsy() 는 JS에서 false로 판단되는 모든 값들을 기준으로 한다\n내가 의도한것은 boolean 타입의 false 를 원했지만, 수행 결과가 0, undefined, null, '' 이면 toBeFalsy() 는 통과한다\nit('falsy로 검증하면 0도 통과된다', () => {\n  const result = calculate(); // result가 0임에도\n\n  expect(result).toBeFalsy();\n});\n\n실제로 다음과 같이 테스트 코드를 작성해서 테스트를 해보면 모든 값들이 통과한다\nit.each([\n  [0],\n  [''],\n  [false],\n  [undefined],\n  [null],\n])(\"calculate 결과가 %s이면 toBeFalsy 를 통과한다\", (calculateResult) => {\n  const result = calculate(calculateResult);\n\n  expect(result).toBeFalsy();\n});\n\n그래서 정확하게 boolean:false를 기대한다면 toBe(false) 로 검증해야만 한다.\nit('toBe(false)로 검증하면 0은 통과되지 못한다', () => {\n  const result = calculate(0);\n\n  expect(result).toBe(false);\n});\n\n테스트 코드는 두루뭉실하게 이것도 되고, 저것도 통과되도록 하는 것이 목표는 아니다. \n원하는 결과가 명확하다면 그에 맞게 검증문 작성이 필요하다.\n            \n반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\n\t\n카카오스토리\n트위터\n페이스북",
+          "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\nJest로 테스트 코드를 작성하다보면 습관적으로 IDE의 자동완성으로 toBeFalsy 와 toBeTruthy 를 사용하곤 했다.\n저 둘이 아닌 toBe(false) 와 toBe(true) 는 한 번의 자동완성으로 안되기 때문에 굳이 사용하진 않았다.\n그러다 팀 분의 의견을 받고 더이상 toBeFalsy() 는 사용하진 않고 있다.\n물론 이에 맞는 쓰임새가 있겠지만, 모든 결과를 강타입으로 처리하는걸 선호하는 입장에서는 toBeFalsy() 는 선호하기가 어렵다.\n다음과 같은 이유 때문이다.\ntoBeFalsy() 는 JS에서 false로 판단되는 모든 값들을 기준으로 한다\n내가 의도한것은 boolean 타입의 false 를 원했지만, 수행 결과가 0, undefined, null, '' 이면 toBeFalsy() 는 통과한다\nit('falsy로 검증하면 0도 통과된다', () => {\n  const result = calculate(); // result가 0임에도\n\n  expect(result).toBeFalsy();\n});\n\n실제로 다음과 같이 테스트 코드를 작성해서 테스트를 해보면 모든 값들이 통과한다\nit.each([\n  [0],\n  [''],\n  [false],\n  [undefined],\n  [null],\n])(\"calculate 결과가 %s이면 toBeFalsy 를 통과한다\", (calculateResult) => {\n  const result = calculate(calculateResult);\n\n  expect(result).toBeFalsy();\n});\n\n그래서 정확하게 boolean:false를 기대한다면 toBe(false) 로 검증해야만 한다.\nit('toBe(false)로 검증하면 0은 통과되지 못한다', () => {\n  const result = calculate(0);\n\n  expect(result).toBe(false);\n});\n\n테스트 코드는 두루뭉실하게 이것도 되고, 저것도 통과되도록 하는 것이 목표는 아니다. \n원하는 결과가 명확하다면 그에 맞게 검증문 작성이 필요하다.\n            \n반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({});",
           "link": "https://jojoldu.tistory.com/664",
           "publishedOn": "2022-04-12T23:39:12.000Z",
-          "wordCount": 330,
+          "wordCount": 331,
           "title": "expect에서 false와 falsy 구분하기",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FdvHRaH%2Fbtrzgh76INX%2FkcMBLlTtKDRUB2eo6BYzTK%2Fimg.png"
         },
         {
           "id": "https://jojoldu.tistory.com/663",
           "author": "향로",
-          "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\n간혹 코드를 보면 expect 에서 비교를 하는 코드를 보곤 한다. \n이를테면 다음과 같은 경우이다.\nit('getCount의 결과는 5보다 크다', () => {\n    const result = getCount();\n\n    expect(result > 5).toBe(true);\n});\n당장 봐서는 문제가 없어보인다. \n오히려 비교값이 더 큰지 검증하는 jest 함수를 별도로 찾아보지 않아도 된다는 장점도 있어보인다.\n비슷한 예제로 다음과 같은 코드도 종종 보게 된다.\nit('getCount의 값은 10과 동일하다', () => {\n    const count = getCount();\n\n    expect(count === 10).toBe(true);\n});\n하지만 이 테스트 코드들은 크게 2개의 단점을 갖고 있다. \n(정확히는 잘못된 assertion 을 사용하고 있다.)\n첫번째는 실패할 경우 실패 원인을 찾기가 어렵다.\n이를테면 아래의 코드로 실패할 경우\nit('getCount의 값은 10과 동일하다', () => {\n    const count = getCount();\n\n    expect(count === 10).toBe(true);\n});\n결과는 다음과 같이 출력된다.\n검증 대상이 count === 10 의 결과인 true 혹은 false 이기 때문에, 실패시 출력되는 실제 받은 값(Received) 역시 true/false 만 나오게 된다.\n테스트가 실패했지만 getCount의 결과는 어디서도 확인할 수 없게 된다.\n반면에 다음과 같이 테스트 코드를 작성한다면\nit('getCount의 값은 10이다', () => {\n    const count = getCount();\n\n    expect(count).toBe(10);\n});\n검증 대상이 getCount() 이기 때문에 실패시 실제 받은 값(Received)을 쉽게 확인할 수 있다.\n테스트 코드는 언제든지 실패할 수 있기 때문에 실패시 얼마나 빨리 원인을 찾을 수 있냐는 굉장히 중요하다. \n이게 갖춰지지 않으면 테스트 코드 수정하는데 대부분의 시간을 보내게 된다.\n또 하나의 단점은 사람의 언어로 코드가 작성되지 않는다는 점이다.\n이건 사람마다 크게 체감하는 바가 다른것 같다.\n이를테면 첫번째 코드와 두번째 코드를 사람의 언어로 설명하면 다음과 같다.\nexpect(result === 10).toBe(true)\n\ngetCount의 결과가 10인 것은 참이다.\nexpect(getCount()).toBe(10)\n\ngetCount의 결과는 10이다.\n둘의 코드를 사람의 언어로 치환해보면 첫번째 코드가 얼마나 어색한지 체감된다.\n테스트 코드는 구현 코드 보다 훨씬 더 사람의 언어를 사용해야한다고 믿고 있다. \n테스트 코드는 당장 PO나 기획자분들이 사용하는 언어 그대로 구현되어야만 코드를 해석하는 노력이 거의 없다고 생각한다. \n그리고 그런 테스트 코드가 결국 오랫동안 유지보수 되고, 프로젝트를 지킬 수 있다.\n그래서 단언문(expect/assert) 안에서는 절대 검증하지 않는 것이 좋다.\n여담이지만 비슷한 예로 Java로 한다면 다음과 같다.\n//bad\nassertTrue(a == 1)\n\n//good\nassertThat(a).is(1)\n            \n반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\n\t\n카카오스토리\n트위터\n페이스북",
+          "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\n간혹 코드를 보면 expect 에서 비교를 하는 코드를 보곤 한다. \n이를테면 다음과 같은 경우이다.\nit('getCount의 결과는 5보다 크다', () => {\n    const result = getCount();\n\n    expect(result > 5).toBe(true);\n});\n당장 봐서는 문제가 없어보인다. \n오히려 비교값이 더 큰지 검증하는 jest 함수를 별도로 찾아보지 않아도 된다는 장점도 있어보인다.\n비슷한 예제로 다음과 같은 코드도 종종 보게 된다.\nit('getCount의 값은 10과 동일하다', () => {\n    const count = getCount();\n\n    expect(count === 10).toBe(true);\n});\n하지만 이 테스트 코드들은 크게 2개의 단점을 갖고 있다. \n(정확히는 잘못된 assertion 을 사용하고 있다.)\n첫번째는 실패할 경우 실패 원인을 찾기가 어렵다.\n이를테면 아래의 코드로 실패할 경우\nit('getCount의 값은 10과 동일하다', () => {\n    const count = getCount();\n\n    expect(count === 10).toBe(true);\n});\n결과는 다음과 같이 출력된다.\n검증 대상이 count === 10 의 결과인 true 혹은 false 이기 때문에, 실패시 출력되는 실제 받은 값(Received) 역시 true/false 만 나오게 된다.\n테스트가 실패했지만 getCount의 결과는 어디서도 확인할 수 없게 된다.\n반면에 다음과 같이 테스트 코드를 작성한다면\nit('getCount의 값은 10이다', () => {\n    const count = getCount();\n\n    expect(count).toBe(10);\n});\n검증 대상이 getCount() 이기 때문에 실패시 실제 받은 값(Received)을 쉽게 확인할 수 있다.\n테스트 코드는 언제든지 실패할 수 있기 때문에 실패시 얼마나 빨리 원인을 찾을 수 있냐는 굉장히 중요하다. \n이게 갖춰지지 않으면 테스트 코드 수정하는데 대부분의 시간을 보내게 된다.\n또 하나의 단점은 사람의 언어로 코드가 작성되지 않는다는 점이다.\n이건 사람마다 크게 체감하는 바가 다른것 같다.\n이를테면 첫번째 코드와 두번째 코드를 사람의 언어로 설명하면 다음과 같다.\nexpect(result === 10).toBe(true)\n\ngetCount의 결과가 10인 것은 참이다.\nexpect(getCount()).toBe(10)\n\ngetCount의 결과는 10이다.\n둘의 코드를 사람의 언어로 치환해보면 첫번째 코드가 얼마나 어색한지 체감된다.\n테스트 코드는 구현 코드 보다 훨씬 더 사람의 언어를 사용해야한다고 믿고 있다. \n테스트 코드는 당장 PO나 기획자분들이 사용하는 언어 그대로 구현되어야만 코드를 해석하는 노력이 거의 없다고 생각한다. \n그리고 그런 테스트 코드가 결국 오랫동안 유지보수 되고, 프로젝트를 지킬 수 있다.\n그래서 단언문(expect/assert) 안에서는 절대 검증하지 않는 것이 좋다.\n여담이지만 비슷한 예로 Java로 한다면 다음과 같다.\n//bad\nassertTrue(a == 1)\n\n//good\nassertThat(a).is(1)\n            \n반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({});",
           "link": "https://jojoldu.tistory.com/663",
           "publishedOn": "2022-04-09T16:17:05.000Z",
-          "wordCount": 474,
+          "wordCount": 475,
           "title": "단언문 (expect/assert) 안에서 비교하지 않기",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FCKus4%2FbtryYoeT1KW%2FRKYzg8kkOHVdaKwXxjO5Ik%2Fimg.png"
         },
@@ -248,10 +258,10 @@
         {
           "id": "https://jojoldu.tistory.com/658",
           "author": "향로",
-          "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\n\n팀에 공유한 내용인데 블로그에도 정리한다.\n오늘 주변의 추천으로 희종님의 글을 봤다.\nhttps://ahnheejong.name/articles/i-was-wrong-test/\n예전에 어느책에서 봤던 내용인데 (제목은 까먹었다 ㅠㅠ) \n나 스스로 \"내가 틀렸네요\" 라고 입밖으로 낼 수 있는 용기가 있다면 그사람은 성장하는중이다 라는 이야기를 본적이 있다.\n그래서 그 이후로 \n\"제가 잘못알고 있었네요\" \n라고 이야기를 해야하는 순간이 오면 진짜 민망하고, 인정하기 싫었지만, \n\"그래도 이걸 이야기하지 않으면 나는 성장하지 못하겠지? 그게 더 무서운거 아닌가?\" \n라는 생각으로 어떻게든 내뱉었다.\n어떤 일을 하는데 있어 개인이 성장하려면 내가 틀렸음을 인정하고, 이걸 입밖으로 낼 용기를 가지는 것이 필요하다.\n이걸 자주 하지 않으면 더이상 주변의 사람들이 부족한점/잘못한점/틀린점에 대해 이야기하지 않게 된다.\n어차피 얘기해줘도 인정하지 않을것이고, 변하지도 않을텐데 굳이 감정상하고 싶진 않아서 그렇다.\n그렇게 될수록 점점 본인만의 세상에 갇히거나(흔히 말하는 꼰대) 더이상 성장하지 못하는 사람이 된다.\n1년에 몇번이나 내가 틀렸음을 이야기했는지\n가장 최근에 “너 그거 틀렸어” 피드백을 언제 받았는지\n등을 정기적으로 검토해보면 좋다.\n특히 일기 쓰면 정말 좋다.\n마침 왓챠의 채용공고에 적힌 같이 일하고 싶은 동료 이야기가 보인다.\n가장 최근에 \"내가 틀렸네요\" 라는 말은 언제했는지 찾아봤더니, \n최근에 내가 가이드한 방향이 너무 예전 지식이라 새 방향을 지적받을때 이야기 했었다. \n그 동료에게 정말 감사하다.\n희종님의 글 덕분에 다시 한번 \"내가 틀렸네요\"의 힘을 상기시킬 수 있어서 너무 감사드리고 싶다.\n            \n반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\n\t\n카카오스토리\n트위터\n페이스북",
+          "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\n\n팀에 공유한 내용인데 블로그에도 정리한다.\n오늘 주변의 추천으로 희종님의 글을 봤다.\nhttps://ahnheejong.name/articles/i-was-wrong-test/\n예전에 어느책에서 봤던 내용인데 (제목은 까먹었다 ㅠㅠ) \n나 스스로 \"내가 틀렸네요\" 라고 입밖으로 낼 수 있는 용기가 있다면 그사람은 성장하는중이다 라는 이야기를 본적이 있다.\n그래서 그 이후로 \n\"제가 잘못알고 있었네요\" \n라고 이야기를 해야하는 순간이 오면 진짜 민망하고, 인정하기 싫었지만, \n\"그래도 이걸 이야기하지 않으면 나는 성장하지 못하겠지? 그게 더 무서운거 아닌가?\" \n라는 생각으로 어떻게든 내뱉었다.\n어떤 일을 하는데 있어 개인이 성장하려면 내가 틀렸음을 인정하고, 이걸 입밖으로 낼 용기를 가지는 것이 필요하다.\n이걸 자주 하지 않으면 더이상 주변의 사람들이 부족한점/잘못한점/틀린점에 대해 이야기하지 않게 된다.\n어차피 얘기해줘도 인정하지 않을것이고, 변하지도 않을텐데 굳이 감정상하고 싶진 않아서 그렇다.\n그렇게 될수록 점점 본인만의 세상에 갇히거나(흔히 말하는 꼰대) 더이상 성장하지 못하는 사람이 된다.\n1년에 몇번이나 내가 틀렸음을 이야기했는지\n가장 최근에 “너 그거 틀렸어” 피드백을 언제 받았는지\n등을 정기적으로 검토해보면 좋다.\n특히 일기 쓰면 정말 좋다.\n마침 왓챠의 채용공고에 적힌 같이 일하고 싶은 동료 이야기가 보인다.\n가장 최근에 \"내가 틀렸네요\" 라는 말은 언제했는지 찾아봤더니, \n최근에 내가 가이드한 방향이 너무 예전 지식이라 새 방향을 지적받을때 이야기 했었다. \n그 동료에게 정말 감사하다.\n희종님의 글 덕분에 다시 한번 \"내가 틀렸네요\"의 힘을 상기시킬 수 있어서 너무 감사드리고 싶다.\n            \n반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({});",
           "link": "https://jojoldu.tistory.com/658",
           "publishedOn": "2022-03-25T14:22:57.000Z",
-          "wordCount": 351,
+          "wordCount": 350,
           "title": "내가 틀렸네요",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FDO8kj%2Fbtrxh9ej1vi%2FIAB0ctbCycN6aUlpYzo1q0%2Fimg.jpg"
         },
@@ -261,7 +271,7 @@
           "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\nCloudFlare의 정적사이트 플랫폼인 CloudFlare Pages가 출시되었다.\nhttps://pages.cloudflare.com/\n이미 Netlify 와 같이 정적 사이트 플랫폼이 많은데 굳이 CloudFlare를 써야하나? 싶었다. \n(저도 그동안은 Netlify을 썼기 때문에)\n그럼에도 써봐야하는 이유는 Free Plan의 구성이 말도 안되게 좋기 때문이다.\n무제한 사이트 발행\n무제한 요청\n무제한 대역폭\nFree Plan 라고는 믿을수 없을만큼의 좋은 혜택을 제공한다. \n대부분의 정적 사이트가 저정도 혜택은 유료 Plan인걸 고려하면 선택하지 않을 이유가 전혀 없다고 생각했다.\n1. Next.js App 생성\n먼저 간단한 Next.js App을 생성한다.\n여기서 사용된 코드는 모두 Github 에 있다.\nnpx create-next-app react-in-action --use-npm --example \"https://github.com/vercel/next-learn/tree/master/basics/learn-starter\"\nreact-in-action 으로 프로젝트를 생성한다.\n이렇게 생성된 샘플 프로젝트에 아래 2가지 설정을 추가한다.\n1-1. export 추가\n생성된 프로젝트의 package.json 을 열어서 아래와 같이 build 에 next export 를 추가한다\n{\n  \"pri…",
           "link": "https://jojoldu.tistory.com/657",
           "publishedOn": "2022-03-25T01:15:44.000Z",
-          "wordCount": 565,
+          "wordCount": 564,
           "title": "CloudFlare Pages로 Next.js 서비스 배포하기",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fb2WCr5%2FbtrxeyEg2wj%2Fn5yC3SYMpcEoSgHQCEUcM0%2Fimg.png"
         },
@@ -271,7 +281,7 @@
           "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\nJest를 통한 테스트를 작성하다보면 Exception에 대한 검증을 작성해야할 때가 있다. \n이럴때 보통 2가지 방법 중 하나를 선택한다.\ntry ~ catch\nexpect.rejects.toThrowError\n실제 코드로는 다음과 같다.\n// try ~ catch\nit(\"[try/catch] 주문금액이 -이면 BadParameter Exception 을 던진다.\", async () => {\n    try {\n        await acceptOrder({amount: -1000});\n    } catch (e) {\n        expect(e).toBeInstanceOf(BadParameterException);\n        expect(e.message).toBe('승인 요청 주문의 금액은 -가 될 수 없습니다');\n    }\n});\n\n// expect\nit(\"[expect] 주문금액이 -이면 BadParameter Exception 을 던진다.\", async () => {\n    await expect(async () => {\n        await acceptOrder({amount: -1000});\n    }).rejects.toThrowError(new BadParameterException('승인 요청 주문의 금액은 -가 될 수 없습니다'));\n});\n이 중에서 개인적으로는 expect…",
           "link": "https://jojoldu.tistory.com/656",
           "publishedOn": "2022-03-18T01:52:12.000Z",
-          "wordCount": 632,
+          "wordCount": 631,
           "title": "Jest로 Error 검증시 catch 보다는 expect",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fbxy32e%2Fbtrwezr0HQ4%2FWkd4JA72UcmDWGXvPoKggK%2Fimg.png"
         }

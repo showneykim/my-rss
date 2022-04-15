@@ -1,29 +1,95 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-14T01:40:52.263Z</id>
+    <id>urn:2022-04-15T01:35:55.295Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-14T01:40:52.263Z</updated>
+    <updated>2022-04-15T01:35:55.295Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Creator Economy 유니콘 회사들]]></title>
-        <id>https://news.hada.io/topic?id=6360</id>
-        <link href="https://news.hada.io/topic?id=6360"/>
-        <updated>2022-04-14T01:11:03.000Z</updated>
-        <summary type="html"><![CDATA[The Information이 정리한 창작자 이코노미 유니콘들]]></summary>
+        <title type="html"><![CDATA[Youtube.js - 유튜브 Private API를 전체 커버하는 라이브러리]]></title>
+        <id>https://news.hada.io/topic?id=6372</id>
+        <link href="https://news.hada.io/topic?id=6372"/>
+        <updated>2022-04-15T00:51:01.000Z</updated>
+        <summary type="html"><![CDATA[유튜브가 내부적으로 사용하는 Innertube API를 그대로 이용
+별도의 키를 필요로 하지 않음
+지원기능(계정 관련 기능은 유튜브 로그인 되어있어야 호출 가능)
+
+검색 : 비디오, 플레이리스트, 음악, 앨범 등
+상세 정보 얻기 : 비디오/플레이리스트
+실시간 채팅 및 ...]]></summary>
         <author>
             <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Go로 밑바닥부터 SMTP 프로토콜 배우기 : Gmail에서 이메일 받아보기]]></title>
-        <id>https://news.hada.io/topic?id=6359</id>
-        <link href="https://news.hada.io/topic?id=6359"/>
-        <updated>2022-04-14T00:56:54.000Z</updated>
-        <summary type="html"><![CDATA[간단한 SMTP서버를 만들면서 배워보는 글
-25번 포트 열고 Greeting/EHLO 보내는 것부터 코드 적어가며 설명
-이메일 헤더와 바디를 간단히 처리하고 Gmail에서 메일 보내서 수신 테스트
-코드는 깃헙에 공개
+        <title type="html"><![CDATA[PostgreSQL 14에 추가된 Multiranges 컨셉 및 주요 기능]]></title>
+        <id>https://news.hada.io/topic?id=6371</id>
+        <link href="https://news.hada.io/topic?id=6371"/>
+        <updated>2022-04-15T00:34:01.000Z</updated>
+        <summary type="html"><![CDATA[기존 Range Type을 멀티로 설정 가능
+
+int4multirange(int4range(10, 20), int4range(40, 50))
+데이터 타입처럼 사용가능하며, 다른 값처럼 테이블에 저장 가능
+Range는 "무한(infinity)" 개념 지원
+Range 간에 기본 연산식으로 계산 가능
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[틱톡, AR 필터 개발 플랫폼 Effect House 글로벌 베타 런칭]]></title>
+        <id>https://news.hada.io/topic?id=6370</id>
+        <link href="https://news.hada.io/topic?id=6370"/>
+        <updated>2022-04-15T00:20:02.000Z</updated>
+        <summary type="html"><![CDATA[누구나 틱톡앱내에서 사용할 수 있는 AR 필터들을 개발하고 수익창출 가능
+작년 가을부터 클로즈드 베타 시작, 이제 모든 창작자들에게 오픈 베타로 공개
+맥 OS용 저작 도구와 학습자료 등을 같이 제공
+모든 이펙트들은 커뮤니티 가이드라인/이펙트 가이드라인을 지키는지 리뷰받게...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DuckDuckGo for Mac 공개 - 안전하고 빠른 브라우저]]></title>
+        <id>https://news.hada.io/topic?id=6369</id>
+        <link href="https://news.hada.io/topic?id=6369"/>
+        <updated>2022-04-15T00:07:01.000Z</updated>
+        <summary type="html"><![CDATA[개인정보보호 기능을 기본 내장
+DuckDuckGo 검색엔진, 트래커 블로킹, 쿠키팝업차단, Fire 버튼(원클릭 데이터 삭제), 이메일 보호
+OS 내장 웹 렌더링 엔진 사용
+
+다른 브라우저들과 달리 로딩 전에 미리 트래커를 차단해서 빠름
+몇몇 그래픽 성능은 크롬보다 빠르고, 트래...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ngrok next generation]]></title>
+        <id>https://news.hada.io/topic?id=6367</id>
+        <link href="https://news.hada.io/topic?id=6367"/>
+        <updated>2022-04-14T03:45:00.000Z</updated>
+        <summary type="html"><![CDATA[OAuth, OIDC, SAML, mTLS 등을 제공하는 Cloud Edge
+
+Cloud Edge 와 Secure Tunneling 을 제어하는 API, terraform provider 제공
+resource 삭제, 생성, 트래픽 이벤트를 생성에서 전달
+ngrok agent v2 → v3
+사용량에...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DALL·E 로 해볼만한 것들]]></title>
+        <id>https://news.hada.io/topic?id=6366</id>
+        <link href="https://news.hada.io/topic?id=6366"/>
+        <updated>2022-04-14T03:38:27.000Z</updated>
+        <summary type="html"><![CDATA[앨범 커버 와 영화 포스터는 정말 잘 만들어줌
+1+1 : "side by side", "two frame"를 넣으면 두개의 이미지를 하나에 그려줌
+ISO와 노출 지정하기
+카메라 앵글 바꿔보기
+Animations -> Variation Chaining
 
 ...]]></summary>
         <author>
@@ -31,41 +97,22 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[미국 10대들의 기업 선호도 조사 - 2022년 봄]]></title>
-        <id>https://news.hada.io/topic?id=6358</id>
-        <link href="https://news.hada.io/topic?id=6358"/>
-        <updated>2022-04-14T00:34:39.000Z</updated>
-        <summary type="html"><![CDATA[Piper Sandler 투자은행이 21년째 매년 두번씩 시행하는 꽤 재미난 통계인 "Talking Stock With Teens®"
-결제 앱은 애플페이가 1등. 87%의 청소년이 아이폰을 가지고 있는 것도 그 이유중 하나
-페이팔 Venmo가 2등(페이팔은 4등), Square의 Cash가 3등
-지불 방식은 현금이]]></summary>
+        <title type="html"><![CDATA[Apple, Shot on iPhone 접사 챌린지 수상작 발표]]></title>
+        <id>https://news.hada.io/topic?id=6365</id>
+        <link href="https://news.hada.io/topic?id=6365"/>
+        <updated>2022-04-14T02:33:20.000Z</updated>
+        <summary type="html"><![CDATA[아이폰 13 Pro/Pro Max로 촬영한 10명의 수상자 발표]]></summary>
         <author>
             <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[메타버스 산업 지도]]></title>
-        <id>https://news.hada.io/topic?id=6357</id>
-        <link href="https://news.hada.io/topic?id=6357"/>
-        <updated>2022-04-14T00:13:04.000Z</updated>
-        <summary type="html"><![CDATA[메타버스 각 분야(레이어) 회사들을 이미지 한장으로 정리
-인프라 (네트웍 & 컴퓨팅)
-
-칩&프로세서 : Nvidia, 퀄컴, 삼성, 인텔
-5G: AT&T, Verizon,..
-클라우드: AWS, Azure, GCP,..
-Edge: Akamai, Stackpath, Zenlayer,..
-접근/인]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(미국계가 아닌) 글로벌 기술 회사들 이름 읽는 법]]></title>
-        <id>https://news.hada.io/topic?id=6355</id>
-        <link href="https://news.hada.io/topic?id=6355"/>
-        <updated>2022-04-13T03:16:36.000Z</updated>
-        <summary type="html"><![CDATA[Auth0, Jumia, Pinduoduo, Shein, Xpeng, Xiaomi, Huawei, dLocal, BYJU..
+        <title type="html"><![CDATA[Apple, 스토리보드와 매직무비 기능을 포함한 새로운 iMovie 3.0 공개]]></title>
+        <id>https://news.hada.io/topic?id=6364</id>
+        <link href="https://news.hada.io/topic?id=6364"/>
+        <updated>2022-04-14T02:17:10.000Z</updated>
+        <summary type="html"><![CDATA[텅빈 타임라인 대신 20가지 스토리보드를 제공 : 자기소개, 요리, Q&A, 제품리뷰, 뉴스보도, DIY..
+매직무비 : 탭 몇 번만으로 타이틀, 화면 전환 효과, 음악까지 가미된 영상을 제작. 앨범/이미지 그룹을 선택하면 자동으로 장면을 선별
 
 ...]]></summary>
         <author>
@@ -73,74 +120,72 @@ Edge: Akamai, Stackpath, Zenlayer,..
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RisingWave - 클라우드 네이티브 차세대 스트리밍 DB]]></title>
-        <id>https://news.hada.io/topic?id=6354</id>
-        <link href="https://news.hada.io/topic?id=6354"/>
-        <updated>2022-04-13T02:57:26.000Z</updated>
-        <summary type="html"><![CDATA[실시간 어플리케이션 작성시 복잡도와 비용을 낮추는 것을 목표로 설계
-스트림 데이터를 가져와 SQL로 Continuous 쿼리를 실행하고 결과를 동적으로 업데이트
+        <title type="html"><![CDATA[Git 보안 취약점 발표 : CVE-2022-24765, CVE-2022-24767]]></title>
+        <id>https://news.hada.io/topic?id=6363</id>
+        <link href="https://news.hada.io/topic?id=6363"/>
+        <updated>2022-04-14T01:47:30.000Z</updated>
+        <summary type="html"><![CDATA[수정버전인 Git v2.35.2 릴리즈
+GitHub은 이 취약점에 영향 없음
+CVE-2022-24765 :
 
-쿼리 & 트랜스폼
-Materialized View 생성
-Kafka/Pulsar/Kinesis/Redpanda 및 CDC 소스에서 데이...]]></summary>
+윈도우 및 멀티 사용자 기기에서 공격자가 작업폴더의 상위 공유폴더에 .git 폴더를 생성해서 설정 정보를 취득 및 특정 커맨드 실행 가능
+업그레이드 불가능 하다면 GIT_CEILING_DIRECTO...]]></summary>
         <author>
             <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Heaps - 크로스 플랫폼 게임엔진 오픈소스]]></title>
-        <id>https://news.hada.io/topic?id=6353</id>
-        <link href="https://news.hada.io/topic?id=6353"/>
-        <updated>2022-04-13T01:54:47.000Z</updated>
-        <summary type="html"><![CDATA[데스크탑/모바일에서 2D/3D 고성능 게임을 위해 설계된 무료 엔진
-GPU 가속 지원
-1개의 소스코드로 크로스 플랫폼 컴파일 지원
-
-오픈소스 크로스 플랫폼 툴킷인 Haxe 기반
-마우스/키보드/게임패드 지원
-
-...]]></summary>
+        <title type="html"><![CDATA[Show GN: 저장은 쉽고, 정리는 어려워. 비슷한 메모를 같이 보여주는 아이디어 수집가의 메모장.]]></title>
+        <id>https://news.hada.io/topic?id=6362</id>
+        <link href="https://news.hada.io/topic?id=6362"/>
+        <updated>2022-04-14T01:43:55.000Z</updated>
+        <summary type="html"><![CDATA[인터넷으로 이런저런 자료나 정보를 많이 모으는 편인데요,
+이것저것 저장하긴 하지만, 정리하기는 귀찮고 지우기는 찝찝한 분들을 위한 메모장입니다.
+메모를 추가하면, 내용을 분석해서 예]]></summary>
         <author>
             <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[맥을 처음 사용한 유저가 느낀점]]></title>
-        <id>https://news.hada.io/topic?id=6352</id>
-        <link href="https://news.hada.io/topic?id=6352"/>
-        <updated>2022-04-13T01:29:00.000Z</updated>
-        <summary type="html"><![CDATA[장점: 하드웨어 마감, 아크 원자로가 달린 듯한 배터리 수명, BSD-BASED(그래서 리눅스 명령어를 쓸 수 있음)
-어정쩡함: 연결성(이젠 좀 나아졌는데 USB-A는 언제 넣어줄거니? 정말 독을 사야할까?), 확장(내부를 못 건드려서 아쉽지만. 썬더볼트로 어찌 해볼만함.)
-나쁜 것 :
+        <title type="html"><![CDATA[SonarLint와 SonarCloud 연동하기 (WebStorm Plugin)]]></title>
+        <id>https://jojoldu.tistory.com/665</id>
+        <link href="https://jojoldu.tistory.com/665"/>
+        <updated>2022-04-14T01:35:12.000Z</updated>
+        <summary type="html"><![CDATA[반응형
 
-MacO...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 특정 분야를 깊게 다룬 뉴스레터 중 재미난 것을 추천해주세요]]></title>
-        <id>https://news.hada.io/topic?id=6351</id>
-        <link href="https://news.hada.io/topic?id=6351"/>
-        <updated>2022-04-13T00:58:59.000Z</updated>
-        <summary type="html"><![CDATA[저는 아침에 이메일 뉴스레터를 읽는 것으로 하루를 시작하는데요.
-요즘 보는 뉴스레터 중에서 저의 추]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Explordle - 1인칭 시점으로 전세계 여행하며 장소 맞추기]]></title>
-        <id>https://news.hada.io/topic?id=6350</id>
-        <link href="https://news.hada.io/topic?id=6350"/>
-        <updated>2022-04-13T00:49:35.000Z</updated>
-        <summary type="html"><![CDATA[POV 형식으로 찍은 여행 비디오를 보고 어디인지 맞추는 Wordle 형식의 게임
-테마(유럽/아시아/기념물) 또는 국가별로 풀기(미국/일본/프랑스/인도/브라질..)
-Source 버튼으로 원본 유튜브 영상 링크 보기 가능
+                    
+                    (adsbygoogle = window.adsbygoogle || []).push({}); 
+               
 
-...]]></summary>
+지난 시간에 프로젝트와 SonarCloud 연동을 했습니다. 
+이번 시간에는 프로젝트와 연결된 SonarCloud를 개발환경인 WebStorm의 SonarLint 플러그인과 연동해서 IDE로 개발 중에도 SonarCloud 검증이 되도록 설정해보겠습니다.
+1. 설정
+먼저 SonarLint 플러그인을 설치합니다.
+설치된 SonarLint 플러그인의 설정을 열어봅니다. 
+아래와 같이 Action 검색 (CMD + Shift + A) 을 통해 검색합니다.
+다음과 같이 커넥션 연결 화면이 나온다면 Configure the connection 을 선택합니다.
+SonarQube / SonarCloud connections의 + 버튼을 클리해서 새로운 커넥션을 추가합니다.
+여기서는 SonarCloud를 쓰고 있으니 SonarCloud를 선택합니다.
+Next로 넘어가면 Token 입력창이 등장합니다. 
+해당 Token 발급을 위해 다시 SonarCloud 로 넘어갑니다. 
+SonarCloud의 (우측상단) Profile -> My Account로 차례로 이동합니다.
+Security 탭을 보면 Token을 생성할 수 있습니다. 
+해당 페이지에서 Token을 생성한 뒤,
+IDE Connection 입력창에서 Token을 등록합니다.
+그럼 다음과 같이 SonarCloud의 Organization 항목이 나오는데 이를 선택합니다.
+그럼 Connection은 완료되었고, 남은 것은 Project key 입니다. 
+Project key는 Information -> Project Key, Organization Key 에서 확인할 수 있습니다.
+그럼 다음과 같이 설정이 마무리됩니다.
+2. 마무리
+이렇게 설정이 끝나면 이제 SonarCloud(혹은 SoncarQube) 가 잡아주는 여러 규칙들을 IDE에서도 만날 수 있습니다.
+위 Sonar 규칙은 SonarCloud(혹은 SoncarQube)와 동일한 것을 확인할 수 있습니다.
+            
+반응형
+
+                    
+                    (adsbygoogle = window.adsbygoogle || []).push({});]]></summary>
         <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+            <name>향로</name>
         </author>
     </entry>
     <entry>
@@ -193,13 +238,7 @@ it('toBe(false)로 검증하면 0은 통과되지 못한다', () => {
 반응형
 
                     
-                    (adsbygoogle = window.adsbygoogle || []).push({}); 
-               
-
-	
-카카오스토리
-트위터
-페이스북]]></summary>
+                    (adsbygoogle = window.adsbygoogle || []).push({});]]></summary>
         <author>
             <name>향로</name>
         </author>
@@ -286,13 +325,7 @@ assertThat(a).is(1)
 반응형
 
                     
-                    (adsbygoogle = window.adsbygoogle || []).push({}); 
-               
-
-	
-카카오스토리
-트위터
-페이스북]]></summary>
+                    (adsbygoogle = window.adsbygoogle || []).push({});]]></summary>
         <author>
             <name>향로</name>
         </author>
@@ -514,13 +547,7 @@ https://ahnheejong.name/articles/i-was-wrong-test/
 반응형
 
                     
-                    (adsbygoogle = window.adsbygoogle || []).push({}); 
-               
-
-	
-카카오스토리
-트위터
-페이스북]]></summary>
+                    (adsbygoogle = window.adsbygoogle || []).push({});]]></summary>
         <author>
             <name>향로</name>
         </author>
