@@ -79,6 +79,76 @@
       "siteUrl": "https://news.hada.io",
       "articles": [
         {
+          "id": "https://news.hada.io/topic?id=6379",
+          "author": null,
+          "description": "Data-Selector : \".property[index]\" 형식의 셀렉터 문법으로 모든 데이터 포맷을 처리 가능\nSelect, Convert, Put, Delete 가능\n의존성 없는 Go 오픈소스\n리눅스/맥/윈 지원\njq/yq 보다 빠름\nJSON, YAML, TOML, XML, CSV 지원\n셀렉터 문법...",
+          "link": "https://news.hada.io/topic?id=6379",
+          "publishedOn": "2022-04-16T00:21:01.000Z",
+          "wordCount": 121,
+          "title": "dasel - JSON,YAML,TOML,XML,CSV 데이터를 질의 및 수정가능한 도구",
+          "imageUrl": "https://social.news.hada.io/topic/6379"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6378",
+          "author": null,
+          "description": "새로운 팀 / 새 프로젝트 구성할때 관련 개발도구들을 한번에 구성하기\n현재 지원 도구들\n→ Trello/Github, Jenkins/GitHub Actions CI, GitLab CI, ArgoCD, Prometheus/Grafana, DevLake, OpenLDAP",
+          "link": "https://news.hada.io/topic?id=6378",
+          "publishedOn": "2022-04-16T00:03:01.000Z",
+          "wordCount": 94,
+          "title": "DevStream - 오픈소스 DevOps 툴체인 매니저(DTM)",
+          "imageUrl": "https://social.news.hada.io/topic/6378"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6377",
+          "author": null,
+          "description": "이번 커밋 또는 PR 또는 MR 에서 일어난 \"변경\"에 대해서 그 변경이 괜찮은지 아닌지 코멘트를 남기기는 쉽지만, 변경했어야 했는데 하지 않은 부분을 알아차리고 코멘트 남기기는 코드리뷰를 꽤 오랫동안 해왔음에도 불구하고 여전히 어렵게 느껴집니다. 저에게 굉장히 익숙한 코드베이스가 아니라면 더욱...",
+          "link": "https://news.hada.io/topic?id=6377",
+          "publishedOn": "2022-04-15T13:21:49.000Z",
+          "wordCount": 204,
+          "title": "Ask GN: 코드리뷰를 할 때, '변경했어야 했는데 하지 않은' 것들을 더 잘 인지할 수 있는 자신만의 팁이 있으신...",
+          "imageUrl": "https://social.news.hada.io/topic/6377"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6376",
+          "author": null,
+          "description": "META, javascript 웹텍스트에디터 프레임워크 Lexical 오픈소스로 릴리즈.\nThe core of Lexical is a dependency-free text editor framework that allows developers to build powerful, simple and complex, editor surfaces. Lexical's has a few concepts that are worth exploring:",
+          "link": "https://news.hada.io/topic?id=6376",
+          "publishedOn": "2022-04-15T10:50:54.000Z",
+          "wordCount": 102,
+          "title": "META, javascript 웹텍스트에디터 프레임워크 Lexical 오픈소스로 릴리즈.",
+          "imageUrl": "https://social.news.hada.io/topic/6376"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6375",
+          "author": null,
+          "description": "이번 주말에 뭘 하려고 계획 중인지 편하게 얘기해 보아요.\n읽을 책, 가볼 곳, 해볼 것.. 어떤 것이든 좋습니다.\n지난 주말에 계획하셨던 일의 회고도 한번 남겨봐 주세요.",
+          "link": "https://news.hada.io/topic?id=6375",
+          "publishedOn": "2022-04-15T02:51:01.000Z",
+          "wordCount": 160,
+          "title": "Ask GN: 이번 주말에 뭐 하시나요?",
+          "imageUrl": "https://social.news.hada.io/topic/6375"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6374",
+          "author": null,
+          "description": "ChromeOS나 커스텀 펌웨어 도움없이 2017년 이후의 모든 크롬북 지원\n\n동일한 포크 Linux 커널 사용해서 같은 드라이버 사용 가능 (터치스크린, 사운드 )\nUbuntu 와 Arch 지원\n게이밍 지원 : Intel GVT-G를 이용해서 KVM Windows 가상머신 그래픽 가속 가능\n\n...",
+          "link": "https://news.hada.io/topic?id=6374",
+          "publishedOn": "2022-04-15T02:02:01.000Z",
+          "wordCount": 108,
+          "title": "Breath - 크롬북용 Linux",
+          "imageUrl": "https://social.news.hada.io/topic/6374"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6373",
+          "author": null,
+          "description": "미국내에 버려진 철도들만 모아서 보는 사이트\n각 주별, 주요 철도 회사별로 조회 가능\n지도 및 철도의 역사와 사진\n\n...",
+          "link": "https://news.hada.io/topic?id=6373",
+          "publishedOn": "2022-04-15T01:39:01.000Z",
+          "wordCount": 124,
+          "title": "Abandoned Rails - 미국의 버려진 철도들",
+          "imageUrl": "https://social.news.hada.io/topic/6373"
+        },
+        {
           "id": "https://news.hada.io/topic?id=6372",
           "author": null,
           "description": "유튜브가 내부적으로 사용하는 Innertube API를 그대로 이용\n별도의 키를 필요로 하지 않음\n지원기능(계정 관련 기능은 유튜브 로그인 되어있어야 호출 가능)\n\n검색 : 비디오, 플레이리스트, 음악, 앨범 등\n상세 정보 얻기 : 비디오/플레이리스트\n실시간 채팅 및 ...",
@@ -94,7 +164,7 @@
           "description": "기존 Range Type을 멀티로 설정 가능\n\nint4multirange(int4range(10, 20), int4range(40, 50))\n데이터 타입처럼 사용가능하며, 다른 값처럼 테이블에 저장 가능\nRange는 \"무한(infinity)\" 개념 지원\nRange 간에 기본 연산식으로 계산 가능\n...",
           "link": "https://news.hada.io/topic?id=6371",
           "publishedOn": "2022-04-15T00:34:01.000Z",
-          "wordCount": 94,
+          "wordCount": 118,
           "title": "PostgreSQL 14에 추가된 Multiranges 컨셉 및 주요 기능",
           "imageUrl": "https://social.news.hada.io/topic/6371"
         },
@@ -107,76 +177,6 @@
           "wordCount": 128,
           "title": "틱톡, AR 필터 개발 플랫폼 Effect House 글로벌 베타 런칭",
           "imageUrl": "https://social.news.hada.io/topic/6370"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6369",
-          "author": null,
-          "description": "개인정보보호 기능을 기본 내장\nDuckDuckGo 검색엔진, 트래커 블로킹, 쿠키팝업차단, Fire 버튼(원클릭 데이터 삭제), 이메일 보호\nOS 내장 웹 렌더링 엔진 사용\n\n다른 브라우저들과 달리 로딩 전에 미리 트래커를 차단해서 빠름\n몇몇 그래픽 성능은 크롬보다 빠르고, 트래...",
-          "link": "https://news.hada.io/topic?id=6369",
-          "publishedOn": "2022-04-15T00:07:01.000Z",
-          "wordCount": 138,
-          "title": "DuckDuckGo for Mac 공개 - 안전하고 빠른 브라우저",
-          "imageUrl": "https://social.news.hada.io/topic/6369"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6367",
-          "author": null,
-          "description": "OAuth, OIDC, SAML, mTLS 등을 제공하는 Cloud Edge\n\nCloud Edge 와 Secure Tunneling 을 제어하는 API, terraform provider 제공\nresource 삭제, 생성, 트래픽 이벤트를 생성에서 전달\nngrok agent v2 → v3\n사용량에...",
-          "link": "https://news.hada.io/topic?id=6367",
-          "publishedOn": "2022-04-14T03:45:00.000Z",
-          "wordCount": 102,
-          "title": "ngrok next generation",
-          "imageUrl": "https://social.news.hada.io/topic/6367"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6366",
-          "author": null,
-          "description": "앨범 커버 와 영화 포스터는 정말 잘 만들어줌\n1+1 : \"side by side\", \"two frame\"를 넣으면 두개의 이미지를 하나에 그려줌\nISO와 노출 지정하기\n카메라 앵글 바꿔보기\nAnimations -> Variation Chaining\n\n...",
-          "link": "https://news.hada.io/topic?id=6366",
-          "publishedOn": "2022-04-14T03:38:27.000Z",
-          "wordCount": 95,
-          "title": "DALL·E 로 해볼만한 것들",
-          "imageUrl": "https://social.news.hada.io/topic/6366"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6365",
-          "author": null,
-          "description": "아이폰 13 Pro/Pro Max로 촬영한 10명의 수상자 발표",
-          "link": "https://news.hada.io/topic?id=6365",
-          "publishedOn": "2022-04-14T02:33:20.000Z",
-          "wordCount": 78,
-          "title": "Apple, Shot on iPhone 접사 챌린지 수상작 발표",
-          "imageUrl": "https://social.news.hada.io/topic/6365"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6364",
-          "author": null,
-          "description": "텅빈 타임라인 대신 20가지 스토리보드를 제공 : 자기소개, 요리, Q&A, 제품리뷰, 뉴스보도, DIY..\n매직무비 : 탭 몇 번만으로 타이틀, 화면 전환 효과, 음악까지 가미된 영상을 제작. 앨범/이미지 그룹을 선택하면 자동으로 장면을 선별\n\n...",
-          "link": "https://news.hada.io/topic?id=6364",
-          "publishedOn": "2022-04-14T02:17:10.000Z",
-          "wordCount": 111,
-          "title": "Apple, 스토리보드와 매직무비 기능을 포함한 새로운 iMovie 3.0 공개",
-          "imageUrl": "https://social.news.hada.io/topic/6364"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6363",
-          "author": null,
-          "description": "수정버전인 Git v2.35.2 릴리즈\nGitHub은 이 취약점에 영향 없음\nCVE-2022-24765 :\n\n윈도우 및 멀티 사용자 기기에서 공격자가 작업폴더의 상위 공유폴더에 .git 폴더를 생성해서 설정 정보를 취득 및 특정 커맨드 실행 가능\n업그레이드 불가능 하다면 GIT_CEILING_DIRECTO...",
-          "link": "https://news.hada.io/topic?id=6363",
-          "publishedOn": "2022-04-14T01:47:30.000Z",
-          "wordCount": 127,
-          "title": "Git 보안 취약점 발표 : CVE-2022-24765, CVE-2022-24767",
-          "imageUrl": "https://social.news.hada.io/topic/6363"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6362",
-          "author": null,
-          "description": "인터넷으로 이런저런 자료나 정보를 많이 모으는 편인데요,\n이것저것 저장하긴 하지만, 정리하기는 귀찮고 지우기는 찝찝한 분들을 위한 메모장입니다.\n메모를 추가하면, 내용을 분석해서 예",
-          "link": "https://news.hada.io/topic?id=6362",
-          "publishedOn": "2022-04-14T01:43:55.000Z",
-          "wordCount": 445,
-          "title": "Show GN: 저장은 쉽고, 정리는 어려워. 비슷한 메모를 같이 보여주는 아이디어 수집가의 메모장.",
-          "imageUrl": "https://social.news.hada.io/topic/6362"
         }
       ]
     },
