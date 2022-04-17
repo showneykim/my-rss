@@ -79,6 +79,66 @@
       "siteUrl": "https://news.hada.io",
       "articles": [
         {
+          "id": "https://news.hada.io/topic?id=6385",
+          "author": null,
+          "description": "부러짐 방지, 자동 지우개 인출, 심 회전, 0.2mm, 자동 심 인출..\n\n...",
+          "link": "https://news.hada.io/topic?id=6385",
+          "publishedOn": "2022-04-17T01:30:02.000Z",
+          "wordCount": 83,
+          "title": "오버엔지니어링 된 일본의 기계식 샤프들 [영상]",
+          "imageUrl": "https://social.news.hada.io/topic/6385"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6384",
+          "author": null,
+          "description": "새 UI 적용 및 다양한 방식으로 검색 결과 향상",
+          "link": "https://news.hada.io/topic?id=6384",
+          "publishedOn": "2022-04-17T01:09:01.000Z",
+          "wordCount": 101,
+          "title": "Reddit, 댓글 검색 및 검색 기능 향상",
+          "imageUrl": "https://social.news.hada.io/topic/6384"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6383",
+          "author": null,
+          "description": "The Pirate Bay, 1337x 같은 사이트들을 검색결과에서 삭제\nURL 자체를 인덱스에서 삭제해서 어떤 지역/설정으로도 나오지 않음\n놀라운건, 불법자료가 없는 youtube-dl 공식 사이트도 인덱스에서 제거됨\n구글도 몇달전부터 해적 사이트들을 제거하기 시작했음(MPA와 협업)",
+          "link": "https://news.hada.io/topic?id=6383",
+          "publishedOn": "2022-04-17T00:46:02.000Z",
+          "wordCount": 88,
+          "title": "DuckDuckGo, 검색결과에서 해적사이트 및 Youtube-DL 제거",
+          "imageUrl": "https://social.news.hada.io/topic/6383"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6382",
+          "author": null,
+          "description": "chronic: 실패하지 않는한 커맨드를 조용히 실행하기\ncombine: 불린연산을 이용해서 두 파일의 줄 합치기\nerrno: errno 의 이름과 설명 보기\nifdata: 네트워크 인터페이스 정보 보기 (ifconfig의 출력을 파싱하지 않고)\nifne: stdin(Standard Input)이 비어있지 않을때 프...",
+          "link": "https://news.hada.io/topic?id=6382",
+          "publishedOn": "2022-04-17T00:19:01.000Z",
+          "wordCount": 172,
+          "title": "Moreutils - 아무도 만들지 않을 것 같은 Unix 도구 모음",
+          "imageUrl": "https://social.news.hada.io/topic/6382"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6381",
+          "author": null,
+          "description": "직원은 오너가 아니다.\n회사가 어려울 때 본심이 나온다.\n지원은 없다.\n스톡옵션이든 지분이든간에...\n우리는 그저 비즈니스 관계다.\n모든 것에 대한 책임\n아무리 작은 회사도 조율자는 필요하다.\n실패는 그다지 도움이 되지 않는다.",
+          "link": "https://news.hada.io/topic?id=6381",
+          "publishedOn": "2022-04-16T07:13:46.000Z",
+          "wordCount": 169,
+          "title": "스타트업을 떠나며...",
+          "imageUrl": "https://social.news.hada.io/topic/6381"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6380",
+          "author": null,
+          "description": "자유롭게 확장 가능한 JavaScript 웹 텍스트 에디터 프레임워크 오픈소스\n1개의 ContentEditable 개체에 붙어서 이용가능\n최소화된 형태로 빠름. UI 및 기타 기능들은 플러그인을 통해 제공 가능\n프레임워크 상관없이 동작. React용 바인딩은 제공해서 좀 편하게 개발 가능",
+          "link": "https://news.hada.io/topic?id=6380",
+          "publishedOn": "2022-04-16T01:06:01.000Z",
+          "wordCount": 150,
+          "title": "Lexical - 페이스북이 공개한 텍스트 에디터 라이브러리",
+          "imageUrl": "https://social.news.hada.io/topic/6380"
+        },
+        {
           "id": "https://news.hada.io/topic?id=6379",
           "author": null,
           "description": "Data-Selector : \".property[index]\" 형식의 셀렉터 문법으로 모든 데이터 포맷을 처리 가능\nSelect, Convert, Put, Delete 가능\n의존성 없는 Go 오픈소스\n리눅스/맥/윈 지원\njq/yq 보다 빠름\nJSON, YAML, TOML, XML, CSV 지원\n셀렉터 문법...",
@@ -117,66 +177,6 @@
           "wordCount": 102,
           "title": "META, javascript 웹텍스트에디터 프레임워크 Lexical 오픈소스로 릴리즈.",
           "imageUrl": "https://social.news.hada.io/topic/6376"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6375",
-          "author": null,
-          "description": "이번 주말에 뭘 하려고 계획 중인지 편하게 얘기해 보아요.\n읽을 책, 가볼 곳, 해볼 것.. 어떤 것이든 좋습니다.\n지난 주말에 계획하셨던 일의 회고도 한번 남겨봐 주세요.",
-          "link": "https://news.hada.io/topic?id=6375",
-          "publishedOn": "2022-04-15T02:51:01.000Z",
-          "wordCount": 160,
-          "title": "Ask GN: 이번 주말에 뭐 하시나요?",
-          "imageUrl": "https://social.news.hada.io/topic/6375"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6374",
-          "author": null,
-          "description": "ChromeOS나 커스텀 펌웨어 도움없이 2017년 이후의 모든 크롬북 지원\n\n동일한 포크 Linux 커널 사용해서 같은 드라이버 사용 가능 (터치스크린, 사운드 )\nUbuntu 와 Arch 지원\n게이밍 지원 : Intel GVT-G를 이용해서 KVM Windows 가상머신 그래픽 가속 가능\n\n...",
-          "link": "https://news.hada.io/topic?id=6374",
-          "publishedOn": "2022-04-15T02:02:01.000Z",
-          "wordCount": 108,
-          "title": "Breath - 크롬북용 Linux",
-          "imageUrl": "https://social.news.hada.io/topic/6374"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6373",
-          "author": null,
-          "description": "미국내에 버려진 철도들만 모아서 보는 사이트\n각 주별, 주요 철도 회사별로 조회 가능\n지도 및 철도의 역사와 사진\n\n...",
-          "link": "https://news.hada.io/topic?id=6373",
-          "publishedOn": "2022-04-15T01:39:01.000Z",
-          "wordCount": 124,
-          "title": "Abandoned Rails - 미국의 버려진 철도들",
-          "imageUrl": "https://social.news.hada.io/topic/6373"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6372",
-          "author": null,
-          "description": "유튜브가 내부적으로 사용하는 Innertube API를 그대로 이용\n별도의 키를 필요로 하지 않음\n지원기능(계정 관련 기능은 유튜브 로그인 되어있어야 호출 가능)\n\n검색 : 비디오, 플레이리스트, 음악, 앨범 등\n상세 정보 얻기 : 비디오/플레이리스트\n실시간 채팅 및 ...",
-          "link": "https://news.hada.io/topic?id=6372",
-          "publishedOn": "2022-04-15T00:51:01.000Z",
-          "wordCount": 122,
-          "title": "Youtube.js - 유튜브 Private API를 전체 커버하는 라이브러리",
-          "imageUrl": "https://social.news.hada.io/topic/6372"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6371",
-          "author": null,
-          "description": "기존 Range Type을 멀티로 설정 가능\n\nint4multirange(int4range(10, 20), int4range(40, 50))\n데이터 타입처럼 사용가능하며, 다른 값처럼 테이블에 저장 가능\nRange는 \"무한(infinity)\" 개념 지원\nRange 간에 기본 연산식으로 계산 가능\n...",
-          "link": "https://news.hada.io/topic?id=6371",
-          "publishedOn": "2022-04-15T00:34:01.000Z",
-          "wordCount": 118,
-          "title": "PostgreSQL 14에 추가된 Multiranges 컨셉 및 주요 기능",
-          "imageUrl": "https://social.news.hada.io/topic/6371"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6370",
-          "author": null,
-          "description": "누구나 틱톡앱내에서 사용할 수 있는 AR 필터들을 개발하고 수익창출 가능\n작년 가을부터 클로즈드 베타 시작, 이제 모든 창작자들에게 오픈 베타로 공개\n맥 OS용 저작 도구와 학습자료 등을 같이 제공\n모든 이펙트들은 커뮤니티 가이드라인/이펙트 가이드라인을 지키는지 리뷰받게...",
-          "link": "https://news.hada.io/topic?id=6370",
-          "publishedOn": "2022-04-15T00:20:02.000Z",
-          "wordCount": 128,
-          "title": "틱톡, AR 필터 개발 플랫폼 Effect House 글로벌 베타 런칭",
-          "imageUrl": "https://social.news.hada.io/topic/6370"
         }
       ]
     },
@@ -274,16 +274,6 @@
           "wordCount": 564,
           "title": "CloudFlare Pages로 Next.js 서비스 배포하기",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fb2WCr5%2FbtrxeyEg2wj%2Fn5yC3SYMpcEoSgHQCEUcM0%2Fimg.png"
-        },
-        {
-          "id": "https://jojoldu.tistory.com/656",
-          "author": "향로",
-          "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\nJest를 통한 테스트를 작성하다보면 Exception에 대한 검증을 작성해야할 때가 있다. \n이럴때 보통 2가지 방법 중 하나를 선택한다.\ntry ~ catch\nexpect.rejects.toThrowError\n실제 코드로는 다음과 같다.\n// try ~ catch\nit(\"[try/catch] 주문금액이 -이면 BadParameter Exception 을 던진다.\", async () => {\n    try {\n        await acceptOrder({amount: -1000});\n    } catch (e) {\n        expect(e).toBeInstanceOf(BadParameterException);\n        expect(e.message).toBe('승인 요청 주문의 금액은 -가 될 수 없습니다');\n    }\n});\n\n// expect\nit(\"[expect] 주문금액이 -이면 BadParameter Exception 을 던진다.\", async () => {\n    await expect(async () => {\n        await acceptOrder({amount: -1000});\n    }).rejects.toThrowError(new BadParameterException('승인 요청 주문의 금액은 -가 될 수 없습니다'));\n});\n이 중에서 개인적으로는 expect…",
-          "link": "https://jojoldu.tistory.com/656",
-          "publishedOn": "2022-03-18T01:52:12.000Z",
-          "wordCount": 631,
-          "title": "Jest로 Error 검증시 catch 보다는 expect",
-          "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fbxy32e%2Fbtrwezr0HQ4%2FWkd4JA72UcmDWGXvPoKggK%2Fimg.png"
         }
       ]
     }
