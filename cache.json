@@ -54,16 +54,6 @@
           "wordCount": 3275,
           "title": "Write HTML, the HTML Way (Not the XHTML Way)",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363745"
-        },
-        {
-          "id": "https://css-tricks.com/?p=364090",
-          "author": "Bence Szabó",
-          "description": "I recently created a brick wall pattern as part of my #PetitePatterns series, a challenge where I create organic-looking patterns or textures in SVG within 560 bytes (or approximately the size of two tweets). To fit this constraint, I have …\nOptimizing SVG Patterns to Their Smallest Size originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/optimizing-svg-patterns/",
-          "publishedOn": "2022-03-18T22:31:22.000Z",
-          "wordCount": 3001,
-          "title": "Optimizing SVG Patterns to Their Smallest Size",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364090"
         }
       ]
     },
@@ -79,12 +69,62 @@
       "siteUrl": "https://news.hada.io",
       "articles": [
         {
+          "id": "https://news.hada.io/topic?id=6390",
+          "author": null,
+          "description": "원클릭 체크아웃 스타트업 Fast가 4월 5일에 450명 전원을 정리해고. 그 중 150명이 소프트웨어 엔지니어였음\n상황 설명과 교훈들\n무슨 일이 일어났나?\n2021년 1월에 Fast는 Stripe로부터 1200억원 시리즈B 펀딩 받음\n2022년 3월까지만 해도 직원들은 회사가 돈...",
+          "link": "https://news.hada.io/topic?id=6390",
+          "publishedOn": "2022-04-18T01:25:01.000Z",
+          "wordCount": 1435,
+          "title": "Fast의 빠른 몰락에서 배울 수 있는 것",
+          "imageUrl": "https://social.news.hada.io/topic/6390"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6389",
+          "author": null,
+          "description": "Hired가 약 36만건의 구인/구직 활동과 2천명의 대상자 설문조사를 통해서 조사한 보고서\n주요 시사점\nGo 엔지니어들이 평균보다 1.8x 정도 더 많은 인터뷰 요청을 받음\n회사들이 점점 더 많이 풀스택 엔지니",
+          "link": "https://news.hada.io/topic?id=6389",
+          "publishedOn": "2022-04-18T00:56:01.000Z",
+          "wordCount": 233,
+          "title": "2022년 소프트웨어 엔지니어 현황 [41p PDF]",
+          "imageUrl": "https://social.news.hada.io/topic/6389"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6388",
+          "author": null,
+          "description": "10년째 개발중인 CLI HTTP Client 오픈소스\n실수로 private repo로 전환하면서 모든 별이 삭제됨\nGitHub은 전환시에 경고창이 있지만, 개인과 조직 Repo의 형태가 달라서 착각\n\n프로필의 경우 개인은 name/name , 조직은 name/.github\nGitHub쪽에서 이걸 되돌려...",
+          "link": "https://news.hada.io/topic?id=6388",
+          "publishedOn": "2022-04-18T00:41:02.000Z",
+          "wordCount": 116,
+          "title": "HTTPie가 5.4만개의 GitHub Star를 잃어버린 이유",
+          "imageUrl": "https://social.news.hada.io/topic/6388"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6387",
+          "author": null,
+          "description": "a16z가 3년째 선정하는 소비자 대상 마켓플레이스 스타트업&비상장 회사의 순위표\n하이라이트\n전례없는 회전율: 5개 IPO, 3개의 SPAC, 11개의 인수. 신규 진입 회사가 37개로 지난해보다 48% 증가\n1등인 Insta",
+          "link": "https://news.hada.io/topic?id=6387",
+          "publishedOn": "2022-04-18T00:26:01.000Z",
+          "wordCount": 324,
+          "title": "The Marketplace 100: 2022",
+          "imageUrl": "https://social.news.hada.io/topic/6387"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6386",
+          "author": null,
+          "description": "2022년 04월 14일 진행\nSpeaker\n정주홍: Lag 없는 실시간 데이터 파이프라인을 위한 아키텍처 개선기\n최중호: MirrorMaker2 소개\n이동진: Introducing KRaft: Kafka without Zookeeper\n발표영상\n\n\n<a href=\"https://www.youtube.com/channel/UCbEFe",
+          "link": "https://news.hada.io/topic?id=6386",
+          "publishedOn": "2022-04-17T12:11:20.000Z",
+          "wordCount": 102,
+          "title": "KAFKA 한국 사용자모임 4월 14일 밋업 발표자료",
+          "imageUrl": "https://social.news.hada.io/topic/6386"
+        },
+        {
           "id": "https://news.hada.io/topic?id=6385",
           "author": null,
           "description": "부러짐 방지, 자동 지우개 인출, 심 회전, 0.2mm, 자동 심 인출..\n\n...",
           "link": "https://news.hada.io/topic?id=6385",
           "publishedOn": "2022-04-17T01:30:02.000Z",
-          "wordCount": 83,
+          "wordCount": 95,
           "title": "오버엔지니어링 된 일본의 기계식 샤프들 [영상]",
           "imageUrl": "https://social.news.hada.io/topic/6385"
         },
@@ -124,59 +164,9 @@
           "description": "직원은 오너가 아니다.\n회사가 어려울 때 본심이 나온다.\n지원은 없다.\n스톡옵션이든 지분이든간에...\n우리는 그저 비즈니스 관계다.\n모든 것에 대한 책임\n아무리 작은 회사도 조율자는 필요하다.\n실패는 그다지 도움이 되지 않는다.",
           "link": "https://news.hada.io/topic?id=6381",
           "publishedOn": "2022-04-16T07:13:46.000Z",
-          "wordCount": 169,
+          "wordCount": 704,
           "title": "스타트업을 떠나며...",
           "imageUrl": "https://social.news.hada.io/topic/6381"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6380",
-          "author": null,
-          "description": "자유롭게 확장 가능한 JavaScript 웹 텍스트 에디터 프레임워크 오픈소스\n1개의 ContentEditable 개체에 붙어서 이용가능\n최소화된 형태로 빠름. UI 및 기타 기능들은 플러그인을 통해 제공 가능\n프레임워크 상관없이 동작. React용 바인딩은 제공해서 좀 편하게 개발 가능",
-          "link": "https://news.hada.io/topic?id=6380",
-          "publishedOn": "2022-04-16T01:06:01.000Z",
-          "wordCount": 150,
-          "title": "Lexical - 페이스북이 공개한 텍스트 에디터 라이브러리",
-          "imageUrl": "https://social.news.hada.io/topic/6380"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6379",
-          "author": null,
-          "description": "Data-Selector : \".property[index]\" 형식의 셀렉터 문법으로 모든 데이터 포맷을 처리 가능\nSelect, Convert, Put, Delete 가능\n의존성 없는 Go 오픈소스\n리눅스/맥/윈 지원\njq/yq 보다 빠름\nJSON, YAML, TOML, XML, CSV 지원\n셀렉터 문법...",
-          "link": "https://news.hada.io/topic?id=6379",
-          "publishedOn": "2022-04-16T00:21:01.000Z",
-          "wordCount": 121,
-          "title": "dasel - JSON,YAML,TOML,XML,CSV 데이터를 질의 및 수정가능한 도구",
-          "imageUrl": "https://social.news.hada.io/topic/6379"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6378",
-          "author": null,
-          "description": "새로운 팀 / 새 프로젝트 구성할때 관련 개발도구들을 한번에 구성하기\n현재 지원 도구들\n→ Trello/Github, Jenkins/GitHub Actions CI, GitLab CI, ArgoCD, Prometheus/Grafana, DevLake, OpenLDAP",
-          "link": "https://news.hada.io/topic?id=6378",
-          "publishedOn": "2022-04-16T00:03:01.000Z",
-          "wordCount": 94,
-          "title": "DevStream - 오픈소스 DevOps 툴체인 매니저(DTM)",
-          "imageUrl": "https://social.news.hada.io/topic/6378"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6377",
-          "author": null,
-          "description": "이번 커밋 또는 PR 또는 MR 에서 일어난 \"변경\"에 대해서 그 변경이 괜찮은지 아닌지 코멘트를 남기기는 쉽지만, 변경했어야 했는데 하지 않은 부분을 알아차리고 코멘트 남기기는 코드리뷰를 꽤 오랫동안 해왔음에도 불구하고 여전히 어렵게 느껴집니다. 저에게 굉장히 익숙한 코드베이스가 아니라면 더욱...",
-          "link": "https://news.hada.io/topic?id=6377",
-          "publishedOn": "2022-04-15T13:21:49.000Z",
-          "wordCount": 204,
-          "title": "Ask GN: 코드리뷰를 할 때, '변경했어야 했는데 하지 않은' 것들을 더 잘 인지할 수 있는 자신만의 팁이 있으신...",
-          "imageUrl": "https://social.news.hada.io/topic/6377"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6376",
-          "author": null,
-          "description": "META, javascript 웹텍스트에디터 프레임워크 Lexical 오픈소스로 릴리즈.\nThe core of Lexical is a dependency-free text editor framework that allows developers to build powerful, simple and complex, editor surfaces. Lexical's has a few concepts that are worth exploring:",
-          "link": "https://news.hada.io/topic?id=6376",
-          "publishedOn": "2022-04-15T10:50:54.000Z",
-          "wordCount": 102,
-          "title": "META, javascript 웹텍스트에디터 프레임워크 Lexical 오픈소스로 릴리즈.",
-          "imageUrl": "https://social.news.hada.io/topic/6376"
         }
       ]
     },
@@ -186,12 +176,22 @@
       "siteUrl": "https://jojoldu.tistory.com/",
       "articles": [
         {
+          "id": "https://jojoldu.tistory.com/666",
+          "author": "향로",
+          "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\n최근에 AWS의 서울/도쿄 리전에서 CloudFront 장애가 발생했다.\n(착한 트위터의 세계에서는 실시간으로 공유가 된다)\nEC2, RDS, ElasticCache에 비해 CloudFront는 모니터링을 잘 안하게 되는데, 장애가 발생하면 서비스 전체에 직격타가 된다.\n대부분의 정적 파일 (이미지 등)이 CloudFront를 통한 CDN으로 전달이 되기 때문이다.\n그래서 CloudFront가 평소보다 응답이 늦거나 에러 발생율이 높을때를 알 수 있게 모니터링할 필요가 있다.\n여기서는 바로 적용할 수 있는 CloudWatch로 모니터링 하는 방법을 소개하지만, 만약 Datadog 같이 전문적인 APM 도구를 사용하고 있다면 APM을 통해 CloudFront를 모니터링하고 알람을 거는 것이 장기적인 관점에서 훨씬 좋다.\nDatadog & CloudFront integrations\n1. CloudFront 설정\nCloudFront의 메트릭 지표를 CloudWatch로 바로 설정하면 좋겠지만, 일부 주요 지표들은 별도의 설정이 되어야만 수집이 가능하다.\n추가 설정으로 수집 가능한 지표는 다음과 같다.\n캐시 적중율 (Cache Hit Rate)\n지연시간 (Origin Latency)\nStatus별 오류 비율 (Error Rate by status code)\n(AWS 공식 문서)\n위 지표들 역시 TotalErrorRate 와 더불어 CF 모니터링에 주요하기 때문에 지표 활성화를 꼭 하면 좋다.\n설정 방법은 다음과 같다.\n원격 측정 -> 모니터링 -> 배포 -> 배포 지표 보기\nCloudFront의 원격측정 -> 모니터링으로 이동후, 원하는 ID를 선택후 배포 지표 보기버튼을 클릭한다.\n모니터링 개요를 보면 우측 상단에 추가 지표 활성화 버튼을 클릭한다.\n기본값이 사용중지이기 때문에 활성화를 선택후 지표 활성화 버튼을 클릭한다.\n이렇게 하면 이제 캐시 히트율, 레이턴시등 여러 지표들을 CloudWatch로 수집할 수 있게 된다.\n2. CloudWatch 설정\n위와 같이 설정이 끝나면 이제 CloudWatch 대시보드에서 추가 지표들을 모니터링할 수 있게 된다.\nTotalErrorRate의 경우엔 추가 지표 항목은 아니지만 모든 에러들의 비율을 확인할 수 있기 때문에 대시 보드상에서 추가해놓으면 좋다.\n수집 가능한 지표들은 CloudWatch의 경보를 통해 이상지표, 특정 수치 이상으로 튈 경우 Slack 알람 발송이 가능하다.\n예를 들어 TotalErrorRate에 대해 Slack 알람발송을 하고 싶다면,\nCloudWatch -> 경보 -> 모든 경보 -> 경보생성\n으로 들어가 본인이 원하는 이상 수치로 설정해서 알림을 발송할 수 있다.\nErrorRate의 경우 이상 탐지로 해도 괜찮으나, 서비스에 따라 너무 들쑥날쑥한 지표가 된다면 차라리 특정 수치 이상일 경우 알람이 가도록 하는것도 좋다.\n여기서는 10%이상일 경우로 지정했다.\n그리고 정상 -> 경보, 경보 -> 정상일 경우 Slack 알람이 가도록 구성한다.\n(테스트용도로 0%일 경우 발송이 되는지 진행했을때의 슬랙 알람이다.)\nCloudWatch 경보 & SNS & Lambda를 통한 Slack 알람 발송의 자세한 구성 방법은 이전에 작성된 포스팅을 참고한다.\n            \n반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({});",
+          "link": "https://jojoldu.tistory.com/666",
+          "publishedOn": "2022-04-17T04:59:13.000Z",
+          "wordCount": 487,
+          "title": "CloudFront 모니터링 하기",
+          "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FdefD5k%2Fbtrzx9QV9P0%2FjdIPImt7egfwWdl4VQxsTK%2Fimg.jpg"
+        },
+        {
           "id": "https://jojoldu.tistory.com/665",
           "author": "향로",
           "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\n지난 시간에 프로젝트와 SonarCloud 연동을 했습니다. \n이번 시간에는 프로젝트와 연결된 SonarCloud를 개발환경인 WebStorm의 SonarLint 플러그인과 연동해서 IDE로 개발 중에도 SonarCloud 검증이 되도록 설정해보겠습니다.\n1. 설정\n먼저 SonarLint 플러그인을 설치합니다.\n설치된 SonarLint 플러그인의 설정을 열어봅니다. \n아래와 같이 Action 검색 (CMD + Shift + A) 을 통해 검색합니다.\n다음과 같이 커넥션 연결 화면이 나온다면 Configure the connection 을 선택합니다.\nSonarQube / SonarCloud connections의 + 버튼을 클리해서 새로운 커넥션을 추가합니다.\n여기서는 SonarCloud를 쓰고 있으니 SonarCloud를 선택합니다.\nNext로 넘어가면 Token 입력창이 등장합니다. \n해당 Token 발급을 위해 다시 SonarCloud 로 넘어갑니다. \nSonarCloud의 (우측상단) Profile -> My Account로 차례로 이동합니다.\nSecurity 탭을 보면 Token을 생성할 수 있습니다. \n해당 페이지에서 Token을 생성한 뒤,\nIDE Connection 입력창에서 Token을 등록합니다.\n그럼 다음과 같이 SonarCloud의 Organization 항목이 나오는데 이를 선택합니다.\n그럼 Connection은 완료되었고, 남은 것은 Project key 입니다. \nProject key는 Information -> Project Key, Organization Key 에서 확인할 수 있습니다.\n그럼 다음과 같이 설정이 마무리됩니다.\n2. 마무리\n이렇게 설정이 끝나면 이제 SonarCloud(혹은 SoncarQube) 가 잡아주는 여러 규칙들을 IDE에서도 만날 수 있습니다.\n위 Sonar 규칙은 SonarCloud(혹은 SoncarQube)와 동일한 것을 확인할 수 있습니다.\n            \n반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({});",
           "link": "https://jojoldu.tistory.com/665",
           "publishedOn": "2022-04-14T01:35:12.000Z",
-          "wordCount": 328,
+          "wordCount": 329,
           "title": "SonarLint와 SonarCloud 연동하기 (WebStorm Plugin)",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcW9GuD%2FbtrzjY2nAWV%2Fx6KxxJyIlM6QpGLb20qnp0%2Fimg.png"
         },
@@ -201,7 +201,7 @@
           "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\nJest로 테스트 코드를 작성하다보면 습관적으로 IDE의 자동완성으로 toBeFalsy 와 toBeTruthy 를 사용하곤 했다.\n저 둘이 아닌 toBe(false) 와 toBe(true) 는 한 번의 자동완성으로 안되기 때문에 굳이 사용하진 않았다.\n그러다 팀 분의 의견을 받고 더이상 toBeFalsy() 는 사용하진 않고 있다.\n물론 이에 맞는 쓰임새가 있겠지만, 모든 결과를 강타입으로 처리하는걸 선호하는 입장에서는 toBeFalsy() 는 선호하기가 어렵다.\n다음과 같은 이유 때문이다.\ntoBeFalsy() 는 JS에서 false로 판단되는 모든 값들을 기준으로 한다\n내가 의도한것은 boolean 타입의 false 를 원했지만, 수행 결과가 0, undefined, null, '' 이면 toBeFalsy() 는 통과한다\nit('falsy로 검증하면 0도 통과된다', () => {\n  const result = calculate(); // result가 0임에도\n\n  expect(result).toBeFalsy();\n});\n\n실제로 다음과 같이 테스트 코드를 작성해서 테스트를 해보면 모든 값들이 통과한다\nit.each([\n  [0],\n  [''],\n  [false],\n  [undefined],\n  [null],\n])(\"calculate 결과가 %s이면 toBeFalsy 를 통과한다\", (calculateResult) => {\n  const result = calculate(calculateResult);\n\n  expect(result).toBeFalsy();\n});\n\n그래서 정확하게 boolean:false를 기대한다면 toBe(false) 로 검증해야만 한다.\nit('toBe(false)로 검증하면 0은 통과되지 못한다', () => {\n  const result = calculate(0);\n\n  expect(result).toBe(false);\n});\n\n테스트 코드는 두루뭉실하게 이것도 되고, 저것도 통과되도록 하는 것이 목표는 아니다. \n원하는 결과가 명확하다면 그에 맞게 검증문 작성이 필요하다.\n            \n반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({});",
           "link": "https://jojoldu.tistory.com/664",
           "publishedOn": "2022-04-12T23:39:12.000Z",
-          "wordCount": 331,
+          "wordCount": 332,
           "title": "expect에서 false와 falsy 구분하기",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FdvHRaH%2Fbtrzgh76INX%2FkcMBLlTtKDRUB2eo6BYzTK%2Fimg.png"
         },
@@ -211,7 +211,7 @@
           "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\n간혹 코드를 보면 expect 에서 비교를 하는 코드를 보곤 한다. \n이를테면 다음과 같은 경우이다.\nit('getCount의 결과는 5보다 크다', () => {\n    const result = getCount();\n\n    expect(result > 5).toBe(true);\n});\n당장 봐서는 문제가 없어보인다. \n오히려 비교값이 더 큰지 검증하는 jest 함수를 별도로 찾아보지 않아도 된다는 장점도 있어보인다.\n비슷한 예제로 다음과 같은 코드도 종종 보게 된다.\nit('getCount의 값은 10과 동일하다', () => {\n    const count = getCount();\n\n    expect(count === 10).toBe(true);\n});\n하지만 이 테스트 코드들은 크게 2개의 단점을 갖고 있다. \n(정확히는 잘못된 assertion 을 사용하고 있다.)\n첫번째는 실패할 경우 실패 원인을 찾기가 어렵다.\n이를테면 아래의 코드로 실패할 경우\nit('getCount의 값은 10과 동일하다', () => {\n    const count = getCount();\n\n    expect(count === 10).toBe(true);\n});\n결과는 다음과 같이 출력된다.\n검증 대상이 count === 10 의 결과인 true 혹은 false 이기 때문에, 실패시 출력되는 실제 받은 값(Received) 역시 true/false 만 나오게 된다.\n테스트가 실패했지만 getCount의 결과는 어디서도 확인할 수 없게 된다.\n반면에 다음과 같이 테스트 코드를 작성한다면\nit('getCount의 값은 10이다', () => {\n    const count = getCount();\n\n    expect(count).toBe(10);\n});\n검증 대상이 getCount() 이기 때문에 실패시 실제 받은 값(Received)을 쉽게 확인할 수 있다.\n테스트 코드는 언제든지 실패할 수 있기 때문에 실패시 얼마나 빨리 원인을 찾을 수 있냐는 굉장히 중요하다. \n이게 갖춰지지 않으면 테스트 코드 수정하는데 대부분의 시간을 보내게 된다.\n또 하나의 단점은 사람의 언어로 코드가 작성되지 않는다는 점이다.\n이건 사람마다 크게 체감하는 바가 다른것 같다.\n이를테면 첫번째 코드와 두번째 코드를 사람의 언어로 설명하면 다음과 같다.\nexpect(result === 10).toBe(true)\n\ngetCount의 결과가 10인 것은 참이다.\nexpect(getCount()).toBe(10)\n\ngetCount의 결과는 10이다.\n둘의 코드를 사람의 언어로 치환해보면 첫번째 코드가 얼마나 어색한지 체감된다.\n테스트 코드는 구현 코드 보다 훨씬 더 사람의 언어를 사용해야한다고 믿고 있다. \n테스트 코드는 당장 PO나 기획자분들이 사용하는 언어 그대로 구현되어야만 코드를 해석하는 노력이 거의 없다고 생각한다. \n그리고 그런 테스트 코드가 결국 오랫동안 유지보수 되고, 프로젝트를 지킬 수 있다.\n그래서 단언문(expect/assert) 안에서는 절대 검증하지 않는 것이 좋다.\n여담이지만 비슷한 예로 Java로 한다면 다음과 같다.\n//bad\nassertTrue(a == 1)\n\n//good\nassertThat(a).is(1)\n            \n반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({});",
           "link": "https://jojoldu.tistory.com/663",
           "publishedOn": "2022-04-09T16:17:05.000Z",
-          "wordCount": 475,
+          "wordCount": 476,
           "title": "단언문 (expect/assert) 안에서 비교하지 않기",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FCKus4%2FbtryYoeT1KW%2FRKYzg8kkOHVdaKwXxjO5Ik%2Fimg.png"
         },
@@ -221,7 +221,7 @@
           "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\n일반적으로 프로젝트의 코드 퀄리티를 올리기 위해서는 단위 테스트를 비롯해 여러가지 장치를 도입한다. \n이때 가장 가성비가 좋은 작업이 정적 코드 분석을 도입하는 것이다.\n정적 코드 분석은 코드내에서 발견할 수 있는 코드 스멜, 잠재적인 결함, 컨벤션 체크, 보안 취약점 등을 코드 레벨에서 분석해서 레포팅 해준다.\n이런 정적 코드 분석 도구에는 여러가지가 있지만, 가장 많은 사용자들이 사용하는 도구는 SonarQube(소나큐브) 이다.\n기존에는 설치형외에는 지원하지 않았지만, \n최근에는 SaaS 형태로 SonarCloud 가 출시되었다.\nGithub에 공개된 저장소에 한해서는 소나 클라우드의 전체 기능을 무료로 사용할 수 있다. \n그래서 개인 프로젝트는 SonarCloud로 편하게 연동하고, 무료로 정적 코드 분석을 받아 볼 수 있다.\n회사에서 사용한다면 SonarQube를 추천한다. \n아직까지 SonarQube 만큼의 기능이 SonarCloud에서 지원하지 못하고 있다.\nSonarCloud or SonarQube? - Guidance on Choosing One for Your Team\n그래서 이번 시간에는 이 SonarCloud와 Node.js (with. TypeScript) 프로젝트를 연동해서 정적 분석을 진행해보겠다.\n모든 코드는 Github 에 있다.\n1. SonarCloud 연동\n먼저 SonarC…",
           "link": "https://jojoldu.tistory.com/662",
           "publishedOn": "2022-04-05T12:21:24.000Z",
-          "wordCount": 1137,
+          "wordCount": 1138,
           "title": "SonarCloud를 통한 Node.js & Jest 프로젝트 정적 분석하기",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FvPwAV%2FbtryxqyRKlb%2FVZofSSmvQY0OrwXIG41S8K%2Fimg.png"
         },
@@ -231,7 +231,7 @@
           "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\n\n아래는 인프랩의 채용 담당자를 통해 전달받은 메일의 답변을 옮긴것입니다. \n비슷한 메일이 많이 와서 블로그에도 정리하게 되었습니다.\n\n안녕하세요 A님. \n인프랩 개발팀입니다. :)\n퇴근하고나서 이메일 주신 내용을 읽어보고나서 답변을 정리해서 전달드립니다.\n먼저 오해를 풀고자 하는데요. \n오랫동안 Node.js 백엔드 개발자 채용 공고가 계속 올라가 있는 이유는 원하는 사람의 채용이 안되어서 그런것은 아닙니다 ^^;\n저희 같은 IT 기반의 스타트업은 대기업처럼 개발자에 한해서는 TO를 정해놓고 채용을 진행하지 않습니다.\n저희가 생각한 인재분이라면 Unlimit으로 채용을 하기 때문에 계속해서 열려있습니다.\n구체적으로 말씀드리면,\n작년 채용공고를 올리고 현재 6개월정도가 지났습니다.\n그 사이에 당시 4명이였던 Node.js 백엔드 개발자팀은 현재 9명이 되었습니다.\n그리고 2주뒤에 또 한명의 Node.js 개발자분이 합류하실 예정이라 곧 10명의 팀이 됩니다.\n즉, 6~7개월만에 2.5배 인원이 된 것입니다.\n그렇지만, 아직도 더 많은 인원을 채용하고자 합니다.\n현재 개발팀 규모의 몇배의 인원으로 확장할 계획이고, 아마도 몇년간 채용공고가 내려갈 일은 없을것 같습니다 :)\n이건 비단 저희 인프랩만 그런것은 아닙니다.\n대부분의 빅테크 스타트업부터 작은 스타트업들까지, 개발자에 한해서는 TO를 정하고 채용하진 않…",
           "link": "https://jojoldu.tistory.com/661",
           "publishedOn": "2022-04-01T17:30:37.000Z",
-          "wordCount": 909,
+          "wordCount": 910,
           "title": "어떻게 준비하면 인프랩에 입사할 수 있나요.",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fb9CgFl%2FbtrycPMDZgY%2FBzy5q4K7gx5sjNywmHOUI1%2Fimg.png"
         },
@@ -241,7 +241,7 @@
           "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\n요즘 재밌게 보고 있는 웹툰 & 웹소설 중에 네이버 시리즈에 있는 화산귀환이 있다.\n웹 소설로 시작해서 그 인기에 힘입어 웹툰으로 나오게 된 작품이다.\n웹 소설의 경우 누적 조회수가 2.6억이다. \n네이버 시리즈 최고 히트작 중 하나이다.\n처음엔 이 작품을 웹툰으로 시작했다. \n웹툰으로 쭉 보다가 웹 소설로 전향했다. \n이유는 아무리 돈이 있어도 회차가 더 나오지 않아 그 이상 볼 수가 없었기 때문이다.\n웹툰에서는 56화밖에 없는 이야기가 웹소설에서는 1183화까지 나와있다. \n그러다보니 다음 이야기가 너무 궁금해서 웹소설로 넘어가서 보고 있다.\n그래서 요즘 웹툰은 그냥 작가님을 위한 응원의 마음으로 결제하고, 시간이 될 때마다 웹소설만 본다.\n요즘은 굳이 웹툰을 결제해야하나 생각중이다. \n어차피 웹 소설로 다 본 내용이기 때문이다.\n이건 참 신기한 일이다. \n웹툰은 컨텐츠를 소비하는 입장으로 장점이 많다.\n훨씬 보는 재미가 있다.\n훨씬 보기에 편하다.\n\n굳이 글을 다 읽을 필요가 없다\n컨텐츠 소비자로서 이만큼 장점이 있음에도 웹소설을 보는게 요즘의 내 모습이라는 것이다.\n왜 그럴까 생각해보면 결국 연재주기 때문이라고 생각했다.\n웹툰은 1주일에 1회도 어렵다.\n(작가님들을 위한 정기휴재는 이제 웹툰에서는 거의 필수로 적용된다)\n반면 웹소설은 1주일에 5~7회를 연재한다. \n웬만해서는 휴재도 잘 나지 않는다.…",
           "link": "https://jojoldu.tistory.com/660",
           "publishedOn": "2022-03-28T14:50:28.000Z",
-          "wordCount": 1187,
+          "wordCount": 1188,
           "title": "공급자 지향 플랫폼",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FMLlgY%2FbtrxIMhKFOZ%2FdltBR2TG1az9j0VI9ha4ak%2Fimg.jpg"
         },
@@ -251,7 +251,7 @@
           "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\n팀 단위의 프로젝트에서는 Github Action 빌드의 결과를 Slack으로 보내겠지만, \n개인적인 프로젝트에서는 Telegram을 사용할 때가 많다.\n메세지 제한이 없고\n\n슬랙은 무료 Plan에서는 채널당 메세지가 10,000개 제한이 있다.\n네이티브 앱이라 슬랙에 비해 속도 체감이 심하다\n특정 프로젝트의 build 결과를 텔레그램 메신저로 받을 수 있도록 진행한다.\n1. bot 생성\n먼저 텔레그램 봇을 생성한다.\n텔레그램 메신저로 이동하여 BotFather 를 찾는다.\n아래와 같이 BotFather 채팅방에서 /newbot을 입력한다\n그리고 나선 봇 이름을 등록한다.\n봇 이름은 다음과 같은 규칙이 필요하다\nXXXBot 혹은 XXX_bot 과 같이 마지막 뒤에 Bot 혹은 _bot 이 들어가야만한다\n생성이 완료되었다면, 여기서 끝이 아니고 2개의 값을 가져와야 한다\n텔레그램 봇 토큰\n텔래그램 봇 채팅방 ID\n정상적으로 생성되었다면 위 이미지의 회색 박스처럼 Token 이 나온다. \n이는 잠깐 두고, \n생성된 Bot 채팅방으로 이동해서 간단하게 메세지를 하나 보낸다.\n이 메세지를 보내고 나면 이제 텔레그램 API를 통해 채팅방 ID를 가져올 수 있다.\n아래 API로 생성된 토큰을 넣어 호출해본다. \n(HTTP Get 요청이라 브라우저에서 직접 입력해도 된다.)\nhttps://api.telegram.org/…",
           "link": "https://jojoldu.tistory.com/659",
           "publishedOn": "2022-03-26T12:33:19.000Z",
-          "wordCount": 595,
+          "wordCount": 589,
           "title": "Github Action 빌드 결과 Telegram Bot으로 보내기",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FErm29%2Fbtrxr4vCllu%2FzKaRCIjg074dbndiaRk42K%2Fimg.png"
         },
@@ -271,7 +271,7 @@
           "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\nCloudFlare의 정적사이트 플랫폼인 CloudFlare Pages가 출시되었다.\nhttps://pages.cloudflare.com/\n이미 Netlify 와 같이 정적 사이트 플랫폼이 많은데 굳이 CloudFlare를 써야하나? 싶었다. \n(저도 그동안은 Netlify을 썼기 때문에)\n그럼에도 써봐야하는 이유는 Free Plan의 구성이 말도 안되게 좋기 때문이다.\n무제한 사이트 발행\n무제한 요청\n무제한 대역폭\nFree Plan 라고는 믿을수 없을만큼의 좋은 혜택을 제공한다. \n대부분의 정적 사이트가 저정도 혜택은 유료 Plan인걸 고려하면 선택하지 않을 이유가 전혀 없다고 생각했다.\n1. Next.js App 생성\n먼저 간단한 Next.js App을 생성한다.\n여기서 사용된 코드는 모두 Github 에 있다.\nnpx create-next-app react-in-action --use-npm --example \"https://github.com/vercel/next-learn/tree/master/basics/learn-starter\"\nreact-in-action 으로 프로젝트를 생성한다.\n이렇게 생성된 샘플 프로젝트에 아래 2가지 설정을 추가한다.\n1-1. export 추가\n생성된 프로젝트의 package.json 을 열어서 아래와 같이 build 에 next export 를 추가한다\n{\n  \"pri…",
           "link": "https://jojoldu.tistory.com/657",
           "publishedOn": "2022-03-25T01:15:44.000Z",
-          "wordCount": 564,
+          "wordCount": 558,
           "title": "CloudFlare Pages로 Next.js 서비스 배포하기",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fb2WCr5%2FbtrxeyEg2wj%2Fn5yC3SYMpcEoSgHQCEUcM0%2Fimg.png"
         }
