@@ -6,6 +6,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=364908",
+          "author": "Paul Esch-Laurent",
+          "description": "Mermaid diagrams and flowcharts have been gaining traction, especially with GitHub’s announcement that they are natively supported in Markdown. Let’s take a look at what they are, how to use them, and just as importantly: why.\nJust like you …\nMaking Mermaid Diagrams in Markdown originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/making-mermaid-diagrams-in-markdown/",
+          "publishedOn": "2022-04-18T16:01:08.000Z",
+          "wordCount": 1277,
+          "title": "Making Mermaid Diagrams in Markdown",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364908"
+        },
+        {
           "id": "https://css-tricks.com/?p=364385",
           "author": "Shimin Zhang",
           "description": "I’m a big fan of movies by J.J. Abrams. I enjoy their tight plots, quippy dialog, and of course: anamorphic lens flares. Filmmakers like Abrams use lens flare to add a dash of ‘homemade’ realism to their movies, …\nAdd a CSS Lens Flare to Photos for a Bright Touch originally published on CSS-Tricks. You should get the newsletter.",
@@ -69,104 +79,104 @@
       "siteUrl": "https://news.hada.io",
       "articles": [
         {
-          "id": "https://news.hada.io/topic?id=6390",
+          "id": "https://news.hada.io/topic?id=6400",
           "author": null,
-          "description": "원클릭 체크아웃 스타트업 Fast가 4월 5일에 450명 전원을 정리해고. 그 중 150명이 소프트웨어 엔지니어였음\n상황 설명과 교훈들\n무슨 일이 일어났나?\n2021년 1월에 Fast는 Stripe로부터 1200억원 시리즈B 펀딩 받음\n2022년 3월까지만 해도 직원들은 회사가 돈...",
-          "link": "https://news.hada.io/topic?id=6390",
-          "publishedOn": "2022-04-18T01:25:01.000Z",
-          "wordCount": 1435,
-          "title": "Fast의 빠른 몰락에서 배울 수 있는 것",
-          "imageUrl": "https://social.news.hada.io/topic/6390"
+          "description": "소프트웨어 팀의 품질을 평가했던 조엘 테스트를 Remote Job에 적용한다면?\n같은 업무에 대해 같은 임금을 제시하나요?\n직접 부딪히는 동료들도 모두 원격으로 일하고 있나요?\n보상과 휴가가 당신의 위치와 무관한가요?\n채용 프로세스도 모두 원격인가요?\n회사의 소",
+          "link": "https://news.hada.io/topic?id=6400",
+          "publishedOn": "2022-04-19T01:22:35.000Z",
+          "wordCount": 124,
+          "title": "원격 근무를 위한 조엘 테스트",
+          "imageUrl": "https://social.news.hada.io/topic/6400"
         },
         {
-          "id": "https://news.hada.io/topic?id=6389",
+          "id": "https://news.hada.io/topic?id=6399",
           "author": null,
-          "description": "Hired가 약 36만건의 구인/구직 활동과 2천명의 대상자 설문조사를 통해서 조사한 보고서\n주요 시사점\nGo 엔지니어들이 평균보다 1.8x 정도 더 많은 인터뷰 요청을 받음\n회사들이 점점 더 많이 풀스택 엔지니",
-          "link": "https://news.hada.io/topic?id=6389",
-          "publishedOn": "2022-04-18T00:56:01.000Z",
-          "wordCount": 233,
-          "title": "2022년 소프트웨어 엔지니어 현황 [41p PDF]",
-          "imageUrl": "https://social.news.hada.io/topic/6389"
+          "description": "MemSQL(지금은 SingleStore)에서 2013년에 받은 DB관련 프로그래밍 과제\n이 질문은 후보자를 3가지 유형으로 깔끔하게 나누기 때문에 훌륭한 기술 면접 문제임",
+          "link": "https://news.hada.io/topic?id=6399",
+          "publishedOn": "2022-04-19T00:55:00.000Z",
+          "wordCount": 312,
+          "title": "내가 받았던 최고의 기술 인터뷰 질문",
+          "imageUrl": "https://social.news.hada.io/topic/6399"
         },
         {
-          "id": "https://news.hada.io/topic?id=6388",
+          "id": "https://news.hada.io/topic?id=6398",
           "author": null,
-          "description": "10년째 개발중인 CLI HTTP Client 오픈소스\n실수로 private repo로 전환하면서 모든 별이 삭제됨\nGitHub은 전환시에 경고창이 있지만, 개인과 조직 Repo의 형태가 달라서 착각\n\n프로필의 경우 개인은 name/name , 조직은 name/.github\nGitHub쪽에서 이걸 되돌려...",
-          "link": "https://news.hada.io/topic?id=6388",
-          "publishedOn": "2022-04-18T00:41:02.000Z",
-          "wordCount": 116,
-          "title": "HTTPie가 5.4만개의 GitHub Star를 잃어버린 이유",
-          "imageUrl": "https://social.news.hada.io/topic/6388"
+          "description": "Clojure 언어를 Dart로 이식하는 프로젝트\nDart 와 Flutter를 활용하여 Clojure의 활용범위를 모바일 및 데스크탑 앱으로 확장\nRoam Research의 모바일 앱에서 사용 중\n아직 REPL도 없고, multi-method/sorted-collection 등이 지원 안됨\n올해 부활절 전에 공식 릴리즈 예...",
+          "link": "https://news.hada.io/topic?id=6398",
+          "publishedOn": "2022-04-19T00:38:20.000Z",
+          "wordCount": 161,
+          "title": "ClojureDart - Dart로 컴파일되는 Clojure",
+          "imageUrl": "https://social.news.hada.io/topic/6398"
         },
         {
-          "id": "https://news.hada.io/topic?id=6387",
+          "id": "https://news.hada.io/topic?id=6397",
           "author": null,
-          "description": "a16z가 3년째 선정하는 소비자 대상 마켓플레이스 스타트업&비상장 회사의 순위표\n하이라이트\n전례없는 회전율: 5개 IPO, 3개의 SPAC, 11개의 인수. 신규 진입 회사가 37개로 지난해보다 48% 증가\n1등인 Insta",
-          "link": "https://news.hada.io/topic?id=6387",
-          "publishedOn": "2022-04-18T00:26:01.000Z",
-          "wordCount": 324,
-          "title": "The Marketplace 100: 2022",
-          "imageUrl": "https://social.news.hada.io/topic/6387"
+          "description": "보이스피싱범이 빼낸 개인정보로 공동인증서를 발급받고 비대면 전자금융거래방식으로 대출을 받음\n기존 '공인인증서'의 경우는 공인기관에서 발급된 것이라, 추가 본인확인 절차가 없어도 거래가 유효하게 성립하고 명의자에게 효력이 미침(대출금을 갚아야 함)\n공동인증서는 비대면 실명확...",
+          "link": "https://news.hada.io/topic?id=6397",
+          "publishedOn": "2022-04-19T00:19:23.000Z",
+          "wordCount": 216,
+          "title": "[판결] 보이스피싱 피해자의 '공동인증서'로 비대면 대출된 경우, 본인여부 판단 의무는 금융사에 있다",
+          "imageUrl": "https://social.news.hada.io/topic/6397"
         },
         {
-          "id": "https://news.hada.io/topic?id=6386",
+          "id": "https://news.hada.io/topic?id=6396",
           "author": null,
-          "description": "2022년 04월 14일 진행\nSpeaker\n정주홍: Lag 없는 실시간 데이터 파이프라인을 위한 아키텍처 개선기\n최중호: MirrorMaker2 소개\n이동진: Introducing KRaft: Kafka without Zookeeper\n발표영상\n\n\n<a href=\"https://www.youtube.com/channel/UCbEFe",
-          "link": "https://news.hada.io/topic?id=6386",
-          "publishedOn": "2022-04-17T12:11:20.000Z",
-          "wordCount": 102,
-          "title": "KAFKA 한국 사용자모임 4월 14일 밋업 발표자료",
-          "imageUrl": "https://social.news.hada.io/topic/6386"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6385",
-          "author": null,
-          "description": "부러짐 방지, 자동 지우개 인출, 심 회전, 0.2mm, 자동 심 인출..\n\n...",
-          "link": "https://news.hada.io/topic?id=6385",
-          "publishedOn": "2022-04-17T01:30:02.000Z",
+          "description": "코딩 테스트에 대한 7가지 사실과 오해\n테스트를 통과하는 정답만 있다고 믿는다\n빨리 결과를 만드는 데만 집중한다\n코드 품질이 나빠진다\n피드백 연결 고리가 끊어져서 개선하지 않는다\n어려운 문제 점수가 실력을 의미하지 못한다\n선별의 수단이 목적이",
+          "link": "https://news.hada.io/topic?id=6396",
+          "publishedOn": "2022-04-19T00:02:23.000Z",
           "wordCount": 95,
-          "title": "오버엔지니어링 된 일본의 기계식 샤프들 [영상]",
-          "imageUrl": "https://social.news.hada.io/topic/6385"
+          "title": "이제는 달라져야 하는 코딩 테스트",
+          "imageUrl": "https://social.news.hada.io/topic/6396"
         },
         {
-          "id": "https://news.hada.io/topic?id=6384",
+          "id": "https://news.hada.io/topic?id=6395",
           "author": null,
-          "description": "새 UI 적용 및 다양한 방식으로 검색 결과 향상",
-          "link": "https://news.hada.io/topic?id=6384",
-          "publishedOn": "2022-04-17T01:09:01.000Z",
-          "wordCount": 101,
-          "title": "Reddit, 댓글 검색 및 검색 기능 향상",
-          "imageUrl": "https://social.news.hada.io/topic/6384"
+          "description": "그리고 오직 한명의 승자가 있다.\n참가자들: 프레임워크 간 전쟁은 JS 커뮤니티의 뜨거운 주제. Backbone, Sencha 등은 사라짐. jQuery는 놀랍게도 여전히 큰 커뮤니티가 있음. Angular 같이 잘 안풀렸던 것도 있음.\njQuery: 가장 오래된 참가자. 브라우저 호환성을 고쳐주어 인기. 하지만 애플리케이션",
+          "link": "https://news.hada.io/topic?id=6395",
+          "publishedOn": "2022-04-18T14:37:24.000Z",
+          "wordCount": 822,
+          "title": "자바스크립트 프레임워크 전쟁은 끝났다",
+          "imageUrl": "https://social.news.hada.io/topic/6395"
         },
         {
-          "id": "https://news.hada.io/topic?id=6383",
+          "id": "https://news.hada.io/topic?id=6394",
           "author": null,
-          "description": "The Pirate Bay, 1337x 같은 사이트들을 검색결과에서 삭제\nURL 자체를 인덱스에서 삭제해서 어떤 지역/설정으로도 나오지 않음\n놀라운건, 불법자료가 없는 youtube-dl 공식 사이트도 인덱스에서 제거됨\n구글도 몇달전부터 해적 사이트들을 제거하기 시작했음(MPA와 협업)",
-          "link": "https://news.hada.io/topic?id=6383",
-          "publishedOn": "2022-04-17T00:46:02.000Z",
-          "wordCount": 88,
-          "title": "DuckDuckGo, 검색결과에서 해적사이트 및 Youtube-DL 제거",
-          "imageUrl": "https://social.news.hada.io/topic/6383"
+          "description": "개발자분들 장비 셋팅 어떻게 하고 쓰시는지 모아봤습니다.\n모니터 뭐 살까? 스탠딩 데스크 뭐 살까? 고민이셨던 분들은 한번 다른 분들 뭐 쓰나 보면서 고민해보세요.\n개발 공부하는 커뮤니티에서 오픈하고 모았더니 Paypal 본사 소프트웨어 엔지니어부터 초등학생 개발자분까지 다양합니다.\n허",
+          "link": "https://news.hada.io/topic?id=6394",
+          "publishedOn": "2022-04-18T08:30:01.000Z",
+          "wordCount": 168,
+          "title": "Show GN: 개발자 데스크 셋업 모음",
+          "imageUrl": "https://social.news.hada.io/topic/6394"
         },
         {
-          "id": "https://news.hada.io/topic?id=6382",
+          "id": "https://news.hada.io/topic?id=6393",
           "author": null,
-          "description": "chronic: 실패하지 않는한 커맨드를 조용히 실행하기\ncombine: 불린연산을 이용해서 두 파일의 줄 합치기\nerrno: errno 의 이름과 설명 보기\nifdata: 네트워크 인터페이스 정보 보기 (ifconfig의 출력을 파싱하지 않고)\nifne: stdin(Standard Input)이 비어있지 않을때 프...",
-          "link": "https://news.hada.io/topic?id=6382",
-          "publishedOn": "2022-04-17T00:19:01.000Z",
-          "wordCount": 172,
-          "title": "Moreutils - 아무도 만들지 않을 것 같은 Unix 도구 모음",
-          "imageUrl": "https://social.news.hada.io/topic/6382"
+          "description": "테스트코드 도입이 처음이라면, 통합테스트부터\n접근성 경험 개선 작업이 선행되어야\nUI테스트를 생산성 도구로 먼저 사용해보기\n4시간마다 테스트 실행하고, 실패할 경우 4~8시간 안에 수정\n테스트는 가장 작은 기기에서 가장 큰 글씨로\n하는 김에 이벤트 로깅 ...",
+          "link": "https://news.hada.io/topic?id=6393",
+          "publishedOn": "2022-04-18T05:18:25.000Z",
+          "wordCount": 85,
+          "title": "뱅크샐러드에서의 통합UI테스트 운용법",
+          "imageUrl": "https://social.news.hada.io/topic/6393"
         },
         {
-          "id": "https://news.hada.io/topic?id=6381",
+          "id": "https://news.hada.io/topic?id=6392",
           "author": null,
-          "description": "직원은 오너가 아니다.\n회사가 어려울 때 본심이 나온다.\n지원은 없다.\n스톡옵션이든 지분이든간에...\n우리는 그저 비즈니스 관계다.\n모든 것에 대한 책임\n아무리 작은 회사도 조율자는 필요하다.\n실패는 그다지 도움이 되지 않는다.",
-          "link": "https://news.hada.io/topic?id=6381",
-          "publishedOn": "2022-04-16T07:13:46.000Z",
-          "wordCount": 704,
-          "title": "스타트업을 떠나며...",
-          "imageUrl": "https://social.news.hada.io/topic/6381"
+          "description": "관련 통계 및 이렇게 된 이유, 그리고 건강에 미치는 영향",
+          "link": "https://news.hada.io/topic?id=6392",
+          "publishedOn": "2022-04-18T04:55:28.000Z",
+          "wordCount": 73,
+          "title": "당신이 지금 먹는 닭은 지난 50년간 크기가 364% 커졌다",
+          "imageUrl": "https://social.news.hada.io/topic/6392"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6391",
+          "author": null,
+          "description": "Neeva나 You 검색엔진에서 \"Python Delete File\" 검색하면 원하는 코드가 바로 보임.\n프로그래밍 비교...",
+          "link": "https://news.hada.io/topic?id=6391",
+          "publishedOn": "2022-04-18T01:51:02.000Z",
+          "wordCount": 493,
+          "title": "구글 검색이 뒤지고 있는 분야 : 코드, 요리, 여행",
+          "imageUrl": "https://social.news.hada.io/topic/6391"
         }
       ]
     },
