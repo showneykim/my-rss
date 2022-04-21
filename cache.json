@@ -6,12 +6,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=364880",
+          "author": "Greg Sullivan",
+          "description": "In the 15 or so years since I started making WordPress websites, nothing has had more of an impact on my productivity — and my ability to enjoy front-end development — than adding Tailwind CSS to my workflow (and it …\nAdding Tailwind CSS to New and Existing WordPress Themes originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/adding-tailwind-css-to-wordpress-themes/",
+          "publishedOn": "2022-04-20T15:30:29.000Z",
+          "wordCount": 2462,
+          "title": "Adding Tailwind CSS to New and Existing WordPress Themes",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364880"
+        },
+        {
           "id": "https://css-tricks.com/?p=364908",
           "author": "Paul Esch-Laurent",
           "description": "Mermaid diagrams and flowcharts have been gaining traction, especially with GitHub’s announcement that they are natively supported in Markdown. Let’s take a look at what they are, how to use them, and just as importantly: why.\nJust like you …\nMaking Mermaid Diagrams in Markdown originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/making-mermaid-diagrams-in-markdown/",
           "publishedOn": "2022-04-18T16:01:08.000Z",
-          "wordCount": 1277,
+          "wordCount": 1419,
           "title": "Making Mermaid Diagrams in Markdown",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364908"
         },
@@ -54,16 +64,6 @@
           "wordCount": 2508,
           "title": "6 Useful Bookmarklets to Boost Web Development",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364118"
-        },
-        {
-          "id": "https://css-tricks.com/?p=363745",
-          "author": "Jens Oliver Meiert",
-          "description": "You may not use XHTML (anymore), but when you write HTML, you may be more influenced by XHTML than you think. You are very likely writing HTML, the XHTML way.\nWhat is the XHTML way of writing HTML, and what …\nWrite HTML, the HTML Way (Not the XHTML Way) originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/write-html-the-html-way-not-the-xhtml-way/",
-          "publishedOn": "2022-03-21T20:08:38.000Z",
-          "wordCount": 3275,
-          "title": "Write HTML, the HTML Way (Not the XHTML Way)",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363745"
         }
       ]
     },
@@ -78,6 +78,76 @@
       "feedUrl": "https://news.hada.io/rss/news",
       "siteUrl": "https://news.hada.io",
       "articles": [
+        {
+          "id": "https://news.hada.io/topic?id=6414",
+          "author": null,
+          "description": "Baremetrics를 50억에 팔았던 Josh Pigford의 19년간 개발 기록\n링크디렉토리 부터 아마존 어필리에이트, 블로그, 파일 저장소, 커뮤니티, 쇼핑몰, NFT, 다양한 웹앱 들 까지\n각 사이트를 만들면서 배운 점들 및 실제로 판매한 금액이 적혀있어서 흥미로움\n\n...",
+          "link": "https://news.hada.io/topic?id=6414",
+          "publishedOn": "2022-04-21T01:03:01.000Z",
+          "wordCount": 130,
+          "title": "19년간 만든 62개 프로젝트",
+          "imageUrl": "https://social.news.hada.io/topic/6414"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6413",
+          "author": null,
+          "description": "Emacs가 접근하기 어려운 가장 큰 이유는 \"닭과 달걀\" 문제.\n그래서 일반적인 제안은 잘 설정된 것을 가져다 쓰는 것인데, 이 사이트는 사용자가 원하는 기능을...",
+          "link": "https://news.hada.io/topic?id=6413",
+          "publishedOn": "2022-04-21T00:46:01.000Z",
+          "wordCount": 200,
+          "title": "Emacs Configuration Generator",
+          "imageUrl": "https://social.news.hada.io/topic/6413"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6412",
+          "author": null,
+          "description": "최고 연봉 직군 : 보안 > 검색 > NLP > 모바일 > 머신러닝 > AR/VR > 백엔드 > DB > 블록체인 > 데이터\n최고 수요 기술 : Go > Ruby On Rails > Scala > Ruby > React Native > Kotlin > Typscript > Kafka > React > Node.js\n개발자...",
+          "link": "https://news.hada.io/topic?id=6412",
+          "publishedOn": "2022-04-21T00:31:01.000Z",
+          "wordCount": 225,
+          "title": "5장의 차트로 2022년 소프트웨어 엔지니어 연봉 이해하기",
+          "imageUrl": "https://social.news.hada.io/topic/6412"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6411",
+          "author": null,
+          "description": "링크드인이 ML 피쳐 관리를 단순화하고 개발자 생산성을 향상시키기 위해 개발한 Scala + Java 오픈소스\nFeathr로 할수 있는 것\n\nRaw 데이터 소스(시계열 포함)에서 간단한 API로 피쳐를 정의\n모델 학습 및 모델 추론시에 이름으로 피쳐 가져오기\n팀과 회사에 피쳐 공유하기...",
+          "link": "https://news.hada.io/topic?id=6411",
+          "publishedOn": "2022-04-21T00:19:02.000Z",
+          "wordCount": 118,
+          "title": "Feathr - 머신러닝을 위한 엔터프라이즈급 고성능 피쳐 스토어",
+          "imageUrl": "https://social.news.hada.io/topic/6411"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6410",
+          "author": null,
+          "description": "텍스트와 시각적 의미(Semantics) 연결\n시각적 의미로 부터 이미지 생성\n→ GLIDE 모델 이용 : 이미지 인코딩 프로세스를 반전 시키는 방법을 학습. 확산(Diffusion) 모...",
+          "link": "https://news.hada.io/topic?id=6410",
+          "publishedOn": "2022-04-21T00:04:02.000Z",
+          "wordCount": 203,
+          "title": "DALL-E 2는 어떻게 동작하는가?",
+          "imageUrl": "https://social.news.hada.io/topic/6410"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6409",
+          "author": null,
+          "description": "지금이 기술 혁신의 시대일지도 모르지만. 그게 잘못된 제품 아이디어와 실패한 크라우드 펀딩이 가득하지 못하다는 이유도 아닙니다. 이 기사는 지난 20년 간 실패한 기술들을 회고합니다.\n2019년 MoviePass - 넷플릭스와 같이 극장 구독 모델. 월정액을 넣으면 극장에 무제한으로 갈 수 있었음. 지속불",
+          "link": "https://news.hada.io/topic?id=6409",
+          "publishedOn": "2022-04-20T12:15:16.000Z",
+          "wordCount": 505,
+          "title": "기술의 끔찍한 실패들 : 20년 간 주요한 실패들 회고",
+          "imageUrl": "https://social.news.hada.io/topic/6409"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6408",
+          "author": null,
+          "description": "JavaScript/TypeScript 함수를 Netlify Edge 에서 서버리스로 실행\nReact Server Components, Content Rewrites, User Redirection, A/B Testing, OAuth 인증, Geolocation, Localization 등이 가능\n또한 별도 함수 작성없이 SSR 및 Astro, 11ty, Next.js, Nuxt, Remix, SvelteKit 같은 기능...",
+          "link": "https://news.hada.io/topic?id=6408",
+          "publishedOn": "2022-04-20T01:52:03.000Z",
+          "wordCount": 104,
+          "title": "Netlify Edge Functions 공개 : Deno 기반 서버리스 런타임",
+          "imageUrl": "https://social.news.hada.io/topic/6408"
+        },
         {
           "id": "https://news.hada.io/topic?id=6407",
           "author": null,
@@ -94,7 +164,7 @@
           "description": "유소년 축구 선수인 아들의 모든 경기 영상을 분석\n볼터치 순간을 찾아서 경기팀/시간/영상링크/포지션/볼터치 상황(드리블,볼컨트롤,킥,패스,슛..)별로 잘한 점과 못한 점 기록\n포지션 분석\n성장하고 있는가 ?\n축구일기로 볼터치 드리블 코멘트 분류하기\n양발잡...",
           "link": "https://news.hada.io/topic?id=6406",
           "publishedOn": "2022-04-20T01:05:52.000Z",
-          "wordCount": 118,
+          "wordCount": 162,
           "title": "데이터 분석가 대디가 유소년 축구 플렉스 하기",
           "imageUrl": "https://social.news.hada.io/topic/6406"
         },
@@ -104,79 +174,9 @@
           "description": "\"공개적으로 접근 가능한 데이터를 스크랩하는 것은 합법(CFAA 위반이 아님)\"\nLinkedIn이 분석회사 Hiq의 스크래핑을 금지하기 위해 낸 소송에서 기존 판결을 재확인(2019년에 이미 패소)\n웹아카이브, 학계, 연구자, 저널리스트 들에게는 좋은 소식\n미국 법원은 이번에 수...",
           "link": "https://news.hada.io/topic?id=6405",
           "publishedOn": "2022-04-20T00:50:04.000Z",
-          "wordCount": 206,
+          "wordCount": 329,
           "title": "미국 항소 법원, 웹 스크래핑이 합법이라고 재판결",
           "imageUrl": "https://social.news.hada.io/topic/6405"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6404",
-          "author": null,
-          "description": "Elastic Scalability : 노드를 쉽게 추가/제거가능\nFault-tolerant : 3 AZ 지원을 기본으로 설계\nStrong Consistency + ACID 트랜잭션 + 고성능 쿼리 + SQL 문법(YQL) 및 JSON API 지원\nAutomatic disaster recovery\n셀프 호스팅, 쿠버네티스 및 다양한 클라우드 환경지원...",
-          "link": "https://news.hada.io/topic?id=6404",
-          "publishedOn": "2022-04-20T00:29:38.000Z",
-          "wordCount": 138,
-          "title": "YDB - 오픈소스 분산 SQL 데이터베이스",
-          "imageUrl": "https://social.news.hada.io/topic/6404"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6403",
-          "author": null,
-          "description": "애플은 M1칩이 USB 3.1 Gen 2 (최대 10Gb/s)를 지원한다고 얘기하지만,\n테스트 결과\n\nUSB 3.1 Gen 2 + M1 썬더볼트 : 5GB/s, 읽기 386~406MB/s 쓰기 430~435MB/s\nUSB 3.1 Gen 2 + M1 맥 스튜디오의 전면 US...",
-          "link": "https://news.hada.io/topic?id=6403",
-          "publishedOn": "2022-04-20T00:09:53.000Z",
-          "wordCount": 234,
-          "title": "애플 M1 기기의 썬더볼트 포트는 USB 3.1 Gen 2를 완전히 지원하지 않음",
-          "imageUrl": "https://social.news.hada.io/topic/6403"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6402",
-          "author": null,
-          "description": "1등이었던 삼성이 쌓아둔 수많은 이점들이 모두 무너지는 중\n삼성의 CPU는 잘못된 리더십으로 인한 설계의 실패\n실수에 대해 굉장히 안좋게(toxic) 보는 문화와 자회사들이 서로를 비난(삼성 LSI는 삼성 파운드리를, 삼성 모바일은 LSI를)\n삼성 LSI 경영진은 한국 노동법 개정(주 5...",
-          "link": "https://news.hada.io/topic?id=6402",
-          "publishedOn": "2022-04-19T02:38:18.000Z",
-          "wordCount": 440,
-          "title": "삼성전자의 문화적인 문제가 파운드리,LSI,DRAM까지 재앙을 일으키고 있다",
-          "imageUrl": "https://social.news.hada.io/topic/6402"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6401",
-          "author": null,
-          "description": "반복적 혁신을 위한 비결\n'빌더' (builder)를 채용해야 합니다.\n'빌더'의 팀을 가능한 독립적이며 자율적으로 만듭니다.\n빌더의 팀에게는 빠르게 움직이는데 필요한 도구와 권한을 부여합니다.\n낭만적인 믿음은 필요합니다. 하지만 헛된 희망은 아닙니다.\n최소 애착",
-          "link": "https://news.hada.io/topic?id=6401",
-          "publishedOn": "2022-04-19T01:47:25.000Z",
-          "wordCount": 106,
-          "title": "아마존 앤디 재시의 2021년 첫 연례 주주 서한 (번역)",
-          "imageUrl": "https://social.news.hada.io/topic/6401"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6400",
-          "author": null,
-          "description": "소프트웨어 팀의 품질을 평가했던 조엘 테스트를 Remote Job에 적용한다면?\n같은 업무에 대해 같은 임금을 제시하나요?\n직접 부딪히는 동료들도 모두 원격으로 일하고 있나요?\n보상과 휴가가 당신의 위치와 무관한가요?\n채용 프로세스도 모두 원격인가요?\n회사의 소",
-          "link": "https://news.hada.io/topic?id=6400",
-          "publishedOn": "2022-04-19T01:22:35.000Z",
-          "wordCount": 136,
-          "title": "원격 근무를 위한 조엘 테스트",
-          "imageUrl": "https://social.news.hada.io/topic/6400"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6399",
-          "author": null,
-          "description": "MemSQL(지금은 SingleStore)에서 2013년에 받은 DB관련 프로그래밍 과제\n이 질문은 후보자를 3가지 유형으로 깔끔하게 나누기 때문에 훌륭한 기술 면접 문제임",
-          "link": "https://news.hada.io/topic?id=6399",
-          "publishedOn": "2022-04-19T00:55:00.000Z",
-          "wordCount": 323,
-          "title": "내가 받았던 최고의 기술 인터뷰 질문",
-          "imageUrl": "https://social.news.hada.io/topic/6399"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6398",
-          "author": null,
-          "description": "Clojure 언어를 Dart로 이식하는 프로젝트\nDart 와 Flutter를 활용하여 Clojure의 활용범위를 모바일 및 데스크탑 앱으로 확장\nRoam Research의 모바일 앱에서 사용 중\n아직 REPL도 없고, multi-method/sorted-collection 등이 지원 안됨\n올해 부활절 전에 공식 릴리즈 예...",
-          "link": "https://news.hada.io/topic?id=6398",
-          "publishedOn": "2022-04-19T00:38:20.000Z",
-          "wordCount": 170,
-          "title": "ClojureDart - Dart로 컴파일되는 Clojure",
-          "imageUrl": "https://social.news.hada.io/topic/6398"
         }
       ]
     },
