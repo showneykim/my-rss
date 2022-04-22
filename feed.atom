@@ -1,10 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-21T01:43:16.212Z</id>
+    <id>urn:2022-04-22T01:48:36.936Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-21T01:43:16.212Z</updated>
+    <updated>2022-04-22T01:48:36.936Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Column - 개발자를 위한 은행]]></title>
+        <id>https://news.hada.io/topic?id=6419</id>
+        <link href="https://news.hada.io/topic?id=6419"/>
+        <updated>2022-04-22T01:20:39.000Z</updated>
+        <summary type="html"><![CDATA["Financial services as Code"
+개발자들이 새로운 금융상품을 만들수 있도록 설립된 미국의 국가 공인 은행(Chartered)
+복잡한 미들웨어 없이 API를 통해서 연준(Federal Reserve)과 연계
+
+계좌간 이체, 새로운 신용카드 만들기, 대출 및 상환등을 API로 호출
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Go는 다음 릴리즈 부터 pdqsort를 사용할 예정]]></title>
+        <id>https://news.hada.io/topic?id=6418</id>
+        <link href="https://news.hada.io/topic?id=6418"/>
+        <updated>2022-04-22T00:58:30.000Z</updated>
+        <summary type="html"><![CDATA["Pattern-defeating QuickSort"
+랜덤 퀵소트의 빠른 평균 케이스와 힙 소트의 빠른 최악의 케이스를 합치고, 특정 패턴의 입력에 대해서 리니어 시간을 달성하는 최신 정렬 알고리즘
+현]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Memray - 블룸버그가 공개한 Python 메모리 프로파일러 오픈소스]]></title>
+        <id>https://news.hada.io/topic?id=6417</id>
+        <link href="https://news.hada.io/topic?id=6417"/>
+        <updated>2022-04-22T00:33:41.000Z</updated>
+        <summary type="html"><![CDATA[파이썬 코드의 네이티브 확장이나 인터프리터 내부까지 메모리 할당을 추적하고, 메모리 사용에 관한 다양한 리포트를 작성
+CLI 도구 또는 라이브러리로 사용 가능
+주요 기능
+
+샘플링이 아닌 모든 함수 호출을 추적
+C/C++ 라이브러리의 네이티브 호출까지 처리
+매...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[QEMU 7.0.0 공개]]></title>
+        <id>https://news.hada.io/topic?id=6416</id>
+        <link href="https://news.hada.io/topic?id=6416"/>
+        <updated>2022-04-22T00:06:31.000Z</updated>
+        <summary type="html"><![CDATA[x86 : Intel AMX 지원
+RISC-V : KVM 지원, ratified Vector Extension 1.0지원
+ACPI ERST를 이용한 게스트 이벤트 로깅
+그외 ARM, PowerPC 관련 업데이트등 2500+개의 커밋
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[쿠팡은 왜 적자를 탈출할 수 없는걸까?]]></title>
+        <id>https://news.hada.io/topic?id=6415</id>
+        <link href="https://news.hada.io/topic?id=6415"/>
+        <updated>2022-04-21T01:17:12.000Z</updated>
+        <summary type="html"><![CDATA[① 쿠팡의 지출 중 가장 많은 비중을 차지하는 것이 상품구입비와 물류비이다.
+② 상품구입비는 단가를 낮추는 데 한계가 있다.
+③ 물류비는 자동화가 되면 규모의 경제로 비용을 낮추는 것이 가능하다.
+④ 쿠팡은 물류센터 자동화 비율이 경쟁사에 비해 낮다. 인력이 의존해 물류센터를 운영....]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[19년간 만든 62개 프로젝트]]></title>
         <id>https://news.hada.io/topic?id=6414</id>
@@ -78,76 +150,6 @@ Raw 데이터 소스(시계열 포함)에서 간단한 API로 피쳐를 정의
 Adding Tailwind CSS to New and Existing WordPress Themes originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Greg Sullivan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기술의 끔찍한 실패들 : 20년 간 주요한 실패들 회고]]></title>
-        <id>https://news.hada.io/topic?id=6409</id>
-        <link href="https://news.hada.io/topic?id=6409"/>
-        <updated>2022-04-20T12:15:16.000Z</updated>
-        <summary type="html"><![CDATA[지금이 기술 혁신의 시대일지도 모르지만. 그게 잘못된 제품 아이디어와 실패한 크라우드 펀딩이 가득하지 못하다는 이유도 아닙니다. 이 기사는 지난 20년 간 실패한 기술들을 회고합니다.
-2019년 MoviePass - 넷플릭스와 같이 극장 구독 모델. 월정액을 넣으면 극장에 무제한으로 갈 수 있었음. 지속불]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Netlify Edge Functions 공개 : Deno 기반 서버리스 런타임]]></title>
-        <id>https://news.hada.io/topic?id=6408</id>
-        <link href="https://news.hada.io/topic?id=6408"/>
-        <updated>2022-04-20T01:52:03.000Z</updated>
-        <summary type="html"><![CDATA[JavaScript/TypeScript 함수를 Netlify Edge 에서 서버리스로 실행
-React Server Components, Content Rewrites, User Redirection, A/B Testing, OAuth 인증, Geolocation, Localization 등이 가능
-또한 별도 함수 작성없이 SSR 및 Astro, 11ty, Next.js, Nuxt, Remix, SvelteKit 같은 기능...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022년 테크 업계 번아웃 실태 보고 (번역글)]]></title>
-        <id>https://news.hada.io/topic?id=6407</id>
-        <link href="https://news.hada.io/topic?id=6407"/>
-        <updated>2022-04-20T01:23:37.000Z</updated>
-        <summary type="html"><![CDATA[번아웃의 의의
-번아웃의 4가지 증상
-
-감정 소모, 활력 고갈
-무능감
-냉소
-비인격화 (분리, 소외감, 자아 상실) / 심리적 무감각
-매니저와 회사를 위한 조언
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[데이터 분석가 대디가 유소년 축구 플렉스 하기]]></title>
-        <id>https://news.hada.io/topic?id=6406</id>
-        <link href="https://news.hada.io/topic?id=6406"/>
-        <updated>2022-04-20T01:05:52.000Z</updated>
-        <summary type="html"><![CDATA[유소년 축구 선수인 아들의 모든 경기 영상을 분석
-볼터치 순간을 찾아서 경기팀/시간/영상링크/포지션/볼터치 상황(드리블,볼컨트롤,킥,패스,슛..)별로 잘한 점과 못한 점 기록
-포지션 분석
-성장하고 있는가 ?
-축구일기로 볼터치 드리블 코멘트 분류하기
-양발잡...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국 항소 법원, 웹 스크래핑이 합법이라고 재판결]]></title>
-        <id>https://news.hada.io/topic?id=6405</id>
-        <link href="https://news.hada.io/topic?id=6405"/>
-        <updated>2022-04-20T00:50:04.000Z</updated>
-        <summary type="html"><![CDATA["공개적으로 접근 가능한 데이터를 스크랩하는 것은 합법(CFAA 위반이 아님)"
-LinkedIn이 분석회사 Hiq의 스크래핑을 금지하기 위해 낸 소송에서 기존 판결을 재확인(2019년에 이미 패소)
-웹아카이브, 학계, 연구자, 저널리스트 들에게는 좋은 소식
-미국 법원은 이번에 수...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
     </entry>
     <entry>
