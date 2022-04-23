@@ -6,6 +6,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=364218",
+          "author": "Mark Noonan",
+          "description": "Automated front-end tests are awesome. We can write a test with code to visit a page — or load up just a single component — and have that test code click on things or type text like a user would, …\nWriting Strong Front-end Test Element Locators originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/front-end-test-element-locators/",
+          "publishedOn": "2022-04-22T18:45:38.000Z",
+          "wordCount": 4459,
+          "title": "Writing Strong Front-end Test Element Locators",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364218"
+        },
+        {
           "id": "https://css-tricks.com/?p=364880",
           "author": "Greg Sullivan",
           "description": "In the 15 or so years since I started making WordPress websites, nothing has had more of an impact on my productivity — and my ability to enjoy front-end development — than adding Tailwind CSS to my workflow (and it …\nAdding Tailwind CSS to New and Existing WordPress Themes originally published on CSS-Tricks. You should get the newsletter.",
@@ -31,7 +41,7 @@
           "description": "I’m a big fan of movies by J.J. Abrams. I enjoy their tight plots, quippy dialog, and of course: anamorphic lens flares. Filmmakers like Abrams use lens flare to add a dash of ‘homemade’ realism to their movies, …\nAdd a CSS Lens Flare to Photos for a Bright Touch originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/add-a-css-lens-flare-to-photos-for-a-bright-touch/",
           "publishedOn": "2022-04-12T17:10:13.000Z",
-          "wordCount": 1540,
+          "wordCount": 1570,
           "title": "Add a CSS Lens Flare to Photos for a Bright Touch",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364385"
         },
@@ -68,10 +78,97 @@
       ]
     },
     {
+      "title": "RastaLion's IT Blog",
+      "feedUrl": "https://rastalion.me/feed/",
+      "siteUrl": "https://rastalion.me",
+      "articles": [
+        {
+          "id": "https://rastalion.me/?p=2505",
+          "author": "Rasta Lion",
+          "description": "MongoDB Developer Workshop 후기 (with Google Cloud) 오랜만에 포스팅입니다. 정말 오랜만이네요. 이직하고나서 딱히 쓸 글이 없었습니다. 다들 저보다 잘하시고, 연차는 쌓여가는데 초급 포스팅만 계속 하기도 좀 그랬습니다. 이번에 MongoDB Korea에서 오프라인 핸즈온 세미나를 열었습니다....\nThe post MongoDB Developer Workshop 후기 (with Google Cloud) appeared first on RastaLion's IT Blog.",
+          "link": "https://rastalion.me/mongodb-developer-workshop-%ed%9b%84%ea%b8%b0-with-google-cloud/",
+          "publishedOn": "2022-04-22T14:29:18.000Z",
+          "wordCount": 1032,
+          "title": "MongoDB Developer Workshop 후기 (with Google Cloud)",
+          "imageUrl": "https://rastalion.me/wp-content/uploads/2020/04/37_2019081518484308.jpg"
+        }
+      ]
+    },
+    {
       "title": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
       "feedUrl": "https://news.hada.io/rss/news",
       "siteUrl": "https://news.hada.io",
       "articles": [
+        {
+          "id": "https://news.hada.io/topic?id=6426",
+          "author": null,
+          "description": "데스크탑용 GUI 오픈소스 컨테이너 관리자\n윈/맥/리눅스 크로스플랫폼\n컨테이너/이미지/가상머신/Secret/볼륨 관리(CMS)\npodman 사용법을 익히는 도구로도 유용\n\n...",
+          "link": "https://news.hada.io/topic?id=6426",
+          "publishedOn": "2022-04-23T01:01:15.000Z",
+          "wordCount": 83,
+          "title": "Podman Desktop Companion",
+          "imageUrl": "https://social.news.hada.io/topic/6426"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6425",
+          "author": null,
+          "description": "머신러닝 모델을 프로덕션 사용가능한 수준으로 패키징 하게 해주는 오픈소스 도구\nNVidia 기본 이미지 + 캐싱 + 파이썬 + 환경변수 기본값 등 Best Practice가 다 포함된 도커이미지를 쉽게 생성\nPydantic을 통해서 Op...",
+          "link": "https://news.hada.io/topic?id=6425",
+          "publishedOn": "2022-04-23T00:39:10.000Z",
+          "wordCount": 130,
+          "title": "Cog : 머신러닝을 위한 컨테이너 도구",
+          "imageUrl": "https://social.news.hada.io/topic/6425"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6424",
+          "author": null,
+          "description": "영화/게임 등에서 미래의 장면들을 구성할 때 사용하는 HUD 및 GUI 들만 모은 사이트\n사이버펑크 2077, 배틀필드 2042, 블랙위도우, 만달로리안 S2, 소셜 딜레마, 스파이더맨..\n이메일 뉴스레터\n이북 \"FUI : How to design user interfaces for film and games.\" (AUD $5...",
+          "link": "https://news.hada.io/topic?id=6424",
+          "publishedOn": "2022-04-23T00:27:26.000Z",
+          "wordCount": 112,
+          "title": "영화/게임/컨셉 디자인등에서 본 HUDs + GUIs 모음",
+          "imageUrl": "https://social.news.hada.io/topic/6424"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6423",
+          "author": null,
+          "description": "모회사인 워너미디어와 Discovery가 합병하면서 내려진 결정",
+          "link": "https://news.hada.io/topic?id=6423",
+          "publishedOn": "2022-04-22T05:18:03.000Z",
+          "wordCount": 67,
+          "title": "뉴스전문 스트리밍 서비스 CNN+ 런칭 한달만에 서비스 종료",
+          "imageUrl": "https://social.news.hada.io/topic/6423"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6422",
+          "author": null,
+          "description": "이번 주말에 뭘 하려고 계획 중인지 편하게 얘기해 보아요.\n읽을 책, 가볼 곳, 해볼 것.. 어떤 것이든 좋습니다.\n지난 주말에 계획하셨던 일의 회고도 한번 남겨봐 주세요.",
+          "link": "https://news.hada.io/topic?id=6422",
+          "publishedOn": "2022-04-22T05:13:03.000Z",
+          "wordCount": 126,
+          "title": "Ask GN: 이번 주말에 뭐 하시나요?",
+          "imageUrl": "https://social.news.hada.io/topic/6422"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6421",
+          "author": null,
+          "description": "Web3 도메인에서 파이썬이 쓰일 일 있을까요? 라는 질문에 대한 답변",
+          "link": "https://news.hada.io/topic?id=6421",
+          "publishedOn": "2022-04-22T05:10:12.000Z",
+          "wordCount": 71,
+          "title": "귀도 반 로섬 : Web3는 불타서 죽어버리게 두세요",
+          "imageUrl": "https://social.news.hada.io/topic/6421"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6420",
+          "author": null,
+          "description": "Small List - 이상적 회의 인원은 3~5명 정도!\nShort Agenda - 회의 아이템은 3개 이내로!\nShort Length - 회의 시간은 30분 이내로!\n\n...",
+          "link": "https://news.hada.io/topic?id=6420",
+          "publishedOn": "2022-04-22T01:32:10.000Z",
+          "wordCount": 83,
+          "title": "스티브 잡스가 지켰던 '회의 - 3S 미팅 원칙'",
+          "imageUrl": "https://social.news.hada.io/topic/6420"
+        },
         {
           "id": "https://news.hada.io/topic?id=6419",
           "author": null,
@@ -101,76 +198,6 @@
           "wordCount": 157,
           "title": "Memray - 블룸버그가 공개한 Python 메모리 프로파일러 오픈소스",
           "imageUrl": "https://social.news.hada.io/topic/6417"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6416",
-          "author": null,
-          "description": "x86 : Intel AMX 지원\nRISC-V : KVM 지원, ratified Vector Extension 1.0지원\nACPI ERST를 이용한 게스트 이벤트 로깅\n그외 ARM, PowerPC 관련 업데이트등 2500+개의 커밋\n\n...",
-          "link": "https://news.hada.io/topic?id=6416",
-          "publishedOn": "2022-04-22T00:06:31.000Z",
-          "wordCount": 101,
-          "title": "QEMU 7.0.0 공개",
-          "imageUrl": "https://social.news.hada.io/topic/6416"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6415",
-          "author": null,
-          "description": "① 쿠팡의 지출 중 가장 많은 비중을 차지하는 것이 상품구입비와 물류비이다.\n② 상품구입비는 단가를 낮추는 데 한계가 있다.\n③ 물류비는 자동화가 되면 규모의 경제로 비용을 낮추는 것이 가능하다.\n④ 쿠팡은 물류센터 자동화 비율이 경쟁사에 비해 낮다. 인력이 의존해 물류센터를 운영....",
-          "link": "https://news.hada.io/topic?id=6415",
-          "publishedOn": "2022-04-21T01:17:12.000Z",
-          "wordCount": 169,
-          "title": "쿠팡은 왜 적자를 탈출할 수 없는걸까?",
-          "imageUrl": "https://social.news.hada.io/topic/6415"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6414",
-          "author": null,
-          "description": "Baremetrics를 50억에 팔았던 Josh Pigford의 19년간 개발 기록\n링크디렉토리 부터 아마존 어필리에이트, 블로그, 파일 저장소, 커뮤니티, 쇼핑몰, NFT, 다양한 웹앱 들 까지\n각 사이트를 만들면서 배운 점들 및 실제로 판매한 금액이 적혀있어서 흥미로움\n\n...",
-          "link": "https://news.hada.io/topic?id=6414",
-          "publishedOn": "2022-04-21T01:03:01.000Z",
-          "wordCount": 231,
-          "title": "19년간 만든 62개 프로젝트",
-          "imageUrl": "https://social.news.hada.io/topic/6414"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6413",
-          "author": null,
-          "description": "Emacs가 접근하기 어려운 가장 큰 이유는 \"닭과 달걀\" 문제.\n그래서 일반적인 제안은 잘 설정된 것을 가져다 쓰는 것인데, 이 사이트는 사용자가 원하는 기능을...",
-          "link": "https://news.hada.io/topic?id=6413",
-          "publishedOn": "2022-04-21T00:46:01.000Z",
-          "wordCount": 370,
-          "title": "Emacs Configuration Generator",
-          "imageUrl": "https://social.news.hada.io/topic/6413"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6412",
-          "author": null,
-          "description": "최고 연봉 직군 : 보안 > 검색 > NLP > 모바일 > 머신러닝 > AR/VR > 백엔드 > DB > 블록체인 > 데이터\n최고 수요 기술 : Go > Ruby On Rails > Scala > Ruby > React Native > Kotlin > Typscript > Kafka > React > Node.js\n개발자...",
-          "link": "https://news.hada.io/topic?id=6412",
-          "publishedOn": "2022-04-21T00:31:01.000Z",
-          "wordCount": 251,
-          "title": "5장의 차트로 2022년 소프트웨어 엔지니어 연봉 이해하기",
-          "imageUrl": "https://social.news.hada.io/topic/6412"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6411",
-          "author": null,
-          "description": "링크드인이 ML 피쳐 관리를 단순화하고 개발자 생산성을 향상시키기 위해 개발한 Scala + Java 오픈소스\nFeathr로 할수 있는 것\n\nRaw 데이터 소스(시계열 포함)에서 간단한 API로 피쳐를 정의\n모델 학습 및 모델 추론시에 이름으로 피쳐 가져오기\n팀과 회사에 피쳐 공유하기...",
-          "link": "https://news.hada.io/topic?id=6411",
-          "publishedOn": "2022-04-21T00:19:02.000Z",
-          "wordCount": 118,
-          "title": "Feathr - 머신러닝을 위한 엔터프라이즈급 고성능 피쳐 스토어",
-          "imageUrl": "https://social.news.hada.io/topic/6411"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6410",
-          "author": null,
-          "description": "텍스트와 시각적 의미(Semantics) 연결\n시각적 의미로 부터 이미지 생성\n→ GLIDE 모델 이용 : 이미지 인코딩 프로세스를 반전 시키는 방법을 학습. 확산(Diffusion) 모...",
-          "link": "https://news.hada.io/topic?id=6410",
-          "publishedOn": "2022-04-21T00:04:02.000Z",
-          "wordCount": 203,
-          "title": "DALL-E 2는 어떻게 동작하는가?",
-          "imageUrl": "https://social.news.hada.io/topic/6410"
         }
       ]
     },

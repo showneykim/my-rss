@@ -1,10 +1,118 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-22T01:48:36.936Z</id>
+    <id>urn:2022-04-23T01:34:54.367Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-22T01:48:36.936Z</updated>
+    <updated>2022-04-23T01:34:54.367Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Podman Desktop Companion]]></title>
+        <id>https://news.hada.io/topic?id=6426</id>
+        <link href="https://news.hada.io/topic?id=6426"/>
+        <updated>2022-04-23T01:01:15.000Z</updated>
+        <summary type="html"><![CDATA[데스크탑용 GUI 오픈소스 컨테이너 관리자
+윈/맥/리눅스 크로스플랫폼
+컨테이너/이미지/가상머신/Secret/볼륨 관리(CMS)
+podman 사용법을 익히는 도구로도 유용
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cog : 머신러닝을 위한 컨테이너 도구]]></title>
+        <id>https://news.hada.io/topic?id=6425</id>
+        <link href="https://news.hada.io/topic?id=6425"/>
+        <updated>2022-04-23T00:39:10.000Z</updated>
+        <summary type="html"><![CDATA[머신러닝 모델을 프로덕션 사용가능한 수준으로 패키징 하게 해주는 오픈소스 도구
+NVidia 기본 이미지 + 캐싱 + 파이썬 + 환경변수 기본값 등 Best Practice가 다 포함된 도커이미지를 쉽게 생성
+Pydantic을 통해서 Op...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영화/게임/컨셉 디자인등에서 본 HUDs + GUIs 모음]]></title>
+        <id>https://news.hada.io/topic?id=6424</id>
+        <link href="https://news.hada.io/topic?id=6424"/>
+        <updated>2022-04-23T00:27:26.000Z</updated>
+        <summary type="html"><![CDATA[영화/게임 등에서 미래의 장면들을 구성할 때 사용하는 HUD 및 GUI 들만 모은 사이트
+사이버펑크 2077, 배틀필드 2042, 블랙위도우, 만달로리안 S2, 소셜 딜레마, 스파이더맨..
+이메일 뉴스레터
+이북 "FUI : How to design user interfaces for film and games." (AUD $5...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Writing Strong Front-end Test Element Locators]]></title>
+        <id>https://css-tricks.com/?p=364218</id>
+        <link href="https://css-tricks.com/front-end-test-element-locators/"/>
+        <updated>2022-04-22T18:45:38.000Z</updated>
+        <summary type="html"><![CDATA[Automated front-end tests are awesome. We can write a test with code to visit a page — or load up just a single component — and have that test code click on things or type text like a user would, …
+Writing Strong Front-end Test Element Locators originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Mark Noonan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MongoDB Developer Workshop 후기 (with Google Cloud)]]></title>
+        <id>https://rastalion.me/?p=2505</id>
+        <link href="https://rastalion.me/mongodb-developer-workshop-%ed%9b%84%ea%b8%b0-with-google-cloud/"/>
+        <updated>2022-04-22T14:29:18.000Z</updated>
+        <summary type="html"><![CDATA[MongoDB Developer Workshop 후기 (with Google Cloud) 오랜만에 포스팅입니다. 정말 오랜만이네요. 이직하고나서 딱히 쓸 글이 없었습니다. 다들 저보다 잘하시고, 연차는 쌓여가는데 초급 포스팅만 계속 하기도 좀 그랬습니다. 이번에 MongoDB Korea에서 오프라인 핸즈온 세미나를 열었습니다....
+The post MongoDB Developer Workshop 후기 (with Google Cloud) appeared first on RastaLion's IT Blog.]]></summary>
+        <author>
+            <name>Rasta Lion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뉴스전문 스트리밍 서비스 CNN+ 런칭 한달만에 서비스 종료]]></title>
+        <id>https://news.hada.io/topic?id=6423</id>
+        <link href="https://news.hada.io/topic?id=6423"/>
+        <updated>2022-04-22T05:18:03.000Z</updated>
+        <summary type="html"><![CDATA[모회사인 워너미디어와 Discovery가 합병하면서 내려진 결정]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=6422</id>
+        <link href="https://news.hada.io/topic?id=6422"/>
+        <updated>2022-04-22T05:13:03.000Z</updated>
+        <summary type="html"><![CDATA[이번 주말에 뭘 하려고 계획 중인지 편하게 얘기해 보아요.
+읽을 책, 가볼 곳, 해볼 것.. 어떤 것이든 좋습니다.
+지난 주말에 계획하셨던 일의 회고도 한번 남겨봐 주세요.]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[귀도 반 로섬 : Web3는 불타서 죽어버리게 두세요]]></title>
+        <id>https://news.hada.io/topic?id=6421</id>
+        <link href="https://news.hada.io/topic?id=6421"/>
+        <updated>2022-04-22T05:10:12.000Z</updated>
+        <summary type="html"><![CDATA[Web3 도메인에서 파이썬이 쓰일 일 있을까요? 라는 질문에 대한 답변]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스티브 잡스가 지켰던 '회의 - 3S 미팅 원칙']]></title>
+        <id>https://news.hada.io/topic?id=6420</id>
+        <link href="https://news.hada.io/topic?id=6420"/>
+        <updated>2022-04-22T01:32:10.000Z</updated>
+        <summary type="html"><![CDATA[Small List - 이상적 회의 인원은 3~5명 정도!
+Short Agenda - 회의 아이템은 3개 이내로!
+Short Length - 회의 시간은 30분 이내로!
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Column - 개발자를 위한 은행]]></title>
         <id>https://news.hada.io/topic?id=6419</id>
@@ -45,98 +153,6 @@ CLI 도구 또는 라이브러리로 사용 가능
 샘플링이 아닌 모든 함수 호출을 추적
 C/C++ 라이브러리의 네이티브 호출까지 처리
 매...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[QEMU 7.0.0 공개]]></title>
-        <id>https://news.hada.io/topic?id=6416</id>
-        <link href="https://news.hada.io/topic?id=6416"/>
-        <updated>2022-04-22T00:06:31.000Z</updated>
-        <summary type="html"><![CDATA[x86 : Intel AMX 지원
-RISC-V : KVM 지원, ratified Vector Extension 1.0지원
-ACPI ERST를 이용한 게스트 이벤트 로깅
-그외 ARM, PowerPC 관련 업데이트등 2500+개의 커밋
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쿠팡은 왜 적자를 탈출할 수 없는걸까?]]></title>
-        <id>https://news.hada.io/topic?id=6415</id>
-        <link href="https://news.hada.io/topic?id=6415"/>
-        <updated>2022-04-21T01:17:12.000Z</updated>
-        <summary type="html"><![CDATA[① 쿠팡의 지출 중 가장 많은 비중을 차지하는 것이 상품구입비와 물류비이다.
-② 상품구입비는 단가를 낮추는 데 한계가 있다.
-③ 물류비는 자동화가 되면 규모의 경제로 비용을 낮추는 것이 가능하다.
-④ 쿠팡은 물류센터 자동화 비율이 경쟁사에 비해 낮다. 인력이 의존해 물류센터를 운영....]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[19년간 만든 62개 프로젝트]]></title>
-        <id>https://news.hada.io/topic?id=6414</id>
-        <link href="https://news.hada.io/topic?id=6414"/>
-        <updated>2022-04-21T01:03:01.000Z</updated>
-        <summary type="html"><![CDATA[Baremetrics를 50억에 팔았던 Josh Pigford의 19년간 개발 기록
-링크디렉토리 부터 아마존 어필리에이트, 블로그, 파일 저장소, 커뮤니티, 쇼핑몰, NFT, 다양한 웹앱 들 까지
-각 사이트를 만들면서 배운 점들 및 실제로 판매한 금액이 적혀있어서 흥미로움
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Emacs Configuration Generator]]></title>
-        <id>https://news.hada.io/topic?id=6413</id>
-        <link href="https://news.hada.io/topic?id=6413"/>
-        <updated>2022-04-21T00:46:01.000Z</updated>
-        <summary type="html"><![CDATA[Emacs가 접근하기 어려운 가장 큰 이유는 "닭과 달걀" 문제.
-그래서 일반적인 제안은 잘 설정된 것을 가져다 쓰는 것인데, 이 사이트는 사용자가 원하는 기능을...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5장의 차트로 2022년 소프트웨어 엔지니어 연봉 이해하기]]></title>
-        <id>https://news.hada.io/topic?id=6412</id>
-        <link href="https://news.hada.io/topic?id=6412"/>
-        <updated>2022-04-21T00:31:01.000Z</updated>
-        <summary type="html"><![CDATA[최고 연봉 직군 : 보안 > 검색 > NLP > 모바일 > 머신러닝 > AR/VR > 백엔드 > DB > 블록체인 > 데이터
-최고 수요 기술 : Go > Ruby On Rails > Scala > Ruby > React Native > Kotlin > Typscript > Kafka > React > Node.js
-개발자...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Feathr - 머신러닝을 위한 엔터프라이즈급 고성능 피쳐 스토어]]></title>
-        <id>https://news.hada.io/topic?id=6411</id>
-        <link href="https://news.hada.io/topic?id=6411"/>
-        <updated>2022-04-21T00:19:02.000Z</updated>
-        <summary type="html"><![CDATA[링크드인이 ML 피쳐 관리를 단순화하고 개발자 생산성을 향상시키기 위해 개발한 Scala + Java 오픈소스
-Feathr로 할수 있는 것
-
-Raw 데이터 소스(시계열 포함)에서 간단한 API로 피쳐를 정의
-모델 학습 및 모델 추론시에 이름으로 피쳐 가져오기
-팀과 회사에 피쳐 공유하기...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DALL-E 2는 어떻게 동작하는가?]]></title>
-        <id>https://news.hada.io/topic?id=6410</id>
-        <link href="https://news.hada.io/topic?id=6410"/>
-        <updated>2022-04-21T00:04:02.000Z</updated>
-        <summary type="html"><![CDATA[텍스트와 시각적 의미(Semantics) 연결
-시각적 의미로 부터 이미지 생성
-→ GLIDE 모델 이용 : 이미지 인코딩 프로세스를 반전 시키는 방법을 학습. 확산(Diffusion) 모...]]></summary>
         <author>
             <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
