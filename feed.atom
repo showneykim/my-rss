@@ -1,10 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-24T01:26:09.735Z</id>
+    <id>urn:2022-04-25T01:36:28.016Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-24T01:26:09.736Z</updated>
+    <updated>2022-04-25T01:36:28.016Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[성공적인 위험감수(Risk-Taking) 문화 구축을 위한 팁]]></title>
+        <id>https://news.hada.io/topic?id=6434</id>
+        <link href="https://news.hada.io/topic?id=6434"/>
+        <updated>2022-04-25T01:16:43.000Z</updated>
+        <summary type="html"><![CDATA[Okta 공동창업자의 책 "Zero to IPO" 에 담긴 내용
+기업가 정신을 가진 사람을 고용할 것(적어도 첫 100명의 직원까지는)
+처음 10명의 직원이 회사의 문화를 정의하고, 다음 90명의 직원이 그걸 굳건히 함
+물론 규모가 커질수록 심리적으로 더 보수적인 사람들을 데려오기]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[호텔에서 남겨진 비누는 어디로 가는가]]></title>
+        <id>https://news.hada.io/topic?id=6433</id>
+        <link href="https://news.hada.io/topic?id=6433"/>
+        <updated>2022-04-25T01:00:44.000Z</updated>
+        <summary type="html"><![CDATA[출장 많이 다니던 사람이 호텔에 물어보니 이걸 다 버린다는 것에 착안
+버려진 비누를 수집해서 분쇄하여 재활용 비누를 만드는 "Clean the World" 라는 회사를 차림
+객실당 $0.5~$1을 받고 처리해 줌(수집통, 배송, 스탭 교육 포함)
+현재 전세계 8천개의 호텔(140만개 객...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가장 작은 크기의 단색 256x256 PNG파일, 어디서 봤을까? (2015)]]></title>
+        <id>https://news.hada.io/topic?id=6432</id>
+        <link href="https://news.hada.io/topic?id=6432"/>
+        <updated>2022-04-25T00:48:11.000Z</updated>
+        <summary type="html"><![CDATA[같은 단색(푸른계열)이라도 파일 크기가 103~1189byte로 차이가 있음
+PLTE(팔렛트) 및 IDAT(이미지 데이터) 섹션을 어떻게 구성하느냐에 따라 다름
+왜 이런 최적화가 필요할까?
+→ 온라인 지도의 바다 부분 파일에서 사용
+→ OpenStreetMap은 103byte, Bing Map은 156, 구글지도...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coursera가 추천하는 초보자를 위한 데이터 분석 책들 : 2022]]></title>
+        <id>https://news.hada.io/topic?id=6431</id>
+        <link href="https://news.hada.io/topic?id=6431"/>
+        <updated>2022-04-25T00:32:53.000Z</updated>
+        <summary type="html"><![CDATA[Numsense! 수학 없이 배우는 데이터 과학과 알고리즘
+데이터를 다루며 배우는 파이썬
+빅 데이터가 만드는 세상 : 데이터는 알고 있다
+비즈니스를 위한 데이터 과학 빅데이터를 바라보는 데이터 마이닝과 분석적 사고
+데이터 스토리텔링 연습 : 연습 문제와 다양한 사례로 ...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rust9x: Rust를 윈95/NT용으로 컴파일 하기]]></title>
         <id>https://news.hada.io/topic?id=6430</id>
@@ -187,52 +241,6 @@ Writing Strong Front-end Test Element Locators originally published on CSS-Trick
 The post MongoDB Developer Workshop 후기 (with Google Cloud) appeared first on RastaLion's IT Blog.]]></summary>
         <author>
             <name>Rasta Lion</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴스전문 스트리밍 서비스 CNN+ 런칭 한달만에 서비스 종료]]></title>
-        <id>https://news.hada.io/topic?id=6423</id>
-        <link href="https://news.hada.io/topic?id=6423"/>
-        <updated>2022-04-22T05:18:03.000Z</updated>
-        <summary type="html"><![CDATA[모회사인 워너미디어와 Discovery가 합병하면서 내려진 결정]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
-        <id>https://news.hada.io/topic?id=6422</id>
-        <link href="https://news.hada.io/topic?id=6422"/>
-        <updated>2022-04-22T05:13:03.000Z</updated>
-        <summary type="html"><![CDATA[이번 주말에 뭘 하려고 계획 중인지 편하게 얘기해 보아요.
-읽을 책, 가볼 곳, 해볼 것.. 어떤 것이든 좋습니다.
-지난 주말에 계획하셨던 일의 회고도 한번 남겨봐 주세요.]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[귀도 반 로섬 : Web3는 불타서 죽어버리게 두세요]]></title>
-        <id>https://news.hada.io/topic?id=6421</id>
-        <link href="https://news.hada.io/topic?id=6421"/>
-        <updated>2022-04-22T05:10:12.000Z</updated>
-        <summary type="html"><![CDATA[Web3 도메인에서 파이썬이 쓰일 일 있을까요? 라는 질문에 대한 답변]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스티브 잡스가 지켰던 '회의 - 3S 미팅 원칙']]></title>
-        <id>https://news.hada.io/topic?id=6420</id>
-        <link href="https://news.hada.io/topic?id=6420"/>
-        <updated>2022-04-22T01:32:10.000Z</updated>
-        <summary type="html"><![CDATA[Small List - 이상적 회의 인원은 3~5명 정도!
-Short Agenda - 회의 아이템은 3개 이내로!
-Short Length - 회의 시간은 30분 이내로!
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
     </entry>
     <entry>
@@ -630,89 +638,6 @@ Activating design mode
 (작가님들을 위한 정기휴재는 이제 웹툰에서는 거의 필수로 적용된다)
 반면 웹소설은 1주일에 5~7회를 연재한다. 
 웬만해서는 휴재도 잘 나지 않는다.…]]></summary>
-        <author>
-            <name>향로</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Github Action 빌드 결과 Telegram Bot으로 보내기]]></title>
-        <id>https://jojoldu.tistory.com/659</id>
-        <link href="https://jojoldu.tistory.com/659"/>
-        <updated>2022-03-26T12:33:19.000Z</updated>
-        <summary type="html"><![CDATA[반응형
-
-                    
-                    (adsbygoogle = window.adsbygoogle || []).push({}); 
-               
-
-팀 단위의 프로젝트에서는 Github Action 빌드의 결과를 Slack으로 보내겠지만, 
-개인적인 프로젝트에서는 Telegram을 사용할 때가 많다.
-메세지 제한이 없고
-
-슬랙은 무료 Plan에서는 채널당 메세지가 10,000개 제한이 있다.
-네이티브 앱이라 슬랙에 비해 속도 체감이 심하다
-특정 프로젝트의 build 결과를 텔레그램 메신저로 받을 수 있도록 진행한다.
-1. bot 생성
-먼저 텔레그램 봇을 생성한다.
-텔레그램 메신저로 이동하여 BotFather 를 찾는다.
-아래와 같이 BotFather 채팅방에서 /newbot을 입력한다
-그리고 나선 봇 이름을 등록한다.
-봇 이름은 다음과 같은 규칙이 필요하다
-XXXBot 혹은 XXX_bot 과 같이 마지막 뒤에 Bot 혹은 _bot 이 들어가야만한다
-생성이 완료되었다면, 여기서 끝이 아니고 2개의 값을 가져와야 한다
-텔레그램 봇 토큰
-텔래그램 봇 채팅방 ID
-정상적으로 생성되었다면 위 이미지의 회색 박스처럼 Token 이 나온다. 
-이는 잠깐 두고, 
-생성된 Bot 채팅방으로 이동해서 간단하게 메세지를 하나 보낸다.
-이 메세지를 보내고 나면 이제 텔레그램 API를 통해 채팅방 ID를 가져올 수 있다.
-아래 API로 생성된 토큰을 넣어 호출해본다. 
-(HTTP Get 요청이라 브라우저에서 직접 입력해도 된다.)
-https://api.telegram.org/…]]></summary>
-        <author>
-            <name>향로</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내가 틀렸네요]]></title>
-        <id>https://jojoldu.tistory.com/658</id>
-        <link href="https://jojoldu.tistory.com/658"/>
-        <updated>2022-03-25T14:22:57.000Z</updated>
-        <summary type="html"><![CDATA[반응형
-
-                    
-                    (adsbygoogle = window.adsbygoogle || []).push({}); 
-               
-
-
-팀에 공유한 내용인데 블로그에도 정리한다.
-오늘 주변의 추천으로 희종님의 글을 봤다.
-https://ahnheejong.name/articles/i-was-wrong-test/
-예전에 어느책에서 봤던 내용인데 (제목은 까먹었다 ㅠㅠ) 
-나 스스로 "내가 틀렸네요" 라고 입밖으로 낼 수 있는 용기가 있다면 그사람은 성장하는중이다 라는 이야기를 본적이 있다.
-그래서 그 이후로 
-"제가 잘못알고 있었네요" 
-라고 이야기를 해야하는 순간이 오면 진짜 민망하고, 인정하기 싫었지만, 
-"그래도 이걸 이야기하지 않으면 나는 성장하지 못하겠지? 그게 더 무서운거 아닌가?" 
-라는 생각으로 어떻게든 내뱉었다.
-어떤 일을 하는데 있어 개인이 성장하려면 내가 틀렸음을 인정하고, 이걸 입밖으로 낼 용기를 가지는 것이 필요하다.
-이걸 자주 하지 않으면 더이상 주변의 사람들이 부족한점/잘못한점/틀린점에 대해 이야기하지 않게 된다.
-어차피 얘기해줘도 인정하지 않을것이고, 변하지도 않을텐데 굳이 감정상하고 싶진 않아서 그렇다.
-그렇게 될수록 점점 본인만의 세상에 갇히거나(흔히 말하는 꼰대) 더이상 성장하지 못하는 사람이 된다.
-1년에 몇번이나 내가 틀렸음을 이야기했는지
-가장 최근에 “너 그거 틀렸어” 피드백을 언제 받았는지
-등을 정기적으로 검토해보면 좋다.
-특히 일기 쓰면 정말 좋다.
-마침 왓챠의 채용공고에 적힌 같이 일하고 싶은 동료 이야기가 보인다.
-가장 최근에 "내가 틀렸네요" 라는 말은 언제했는지 찾아봤더니, 
-최근에 내가 가이드한 방향이 너무 예전 지식이라 새 방향을 지적받을때 이야기 했었다. 
-그 동료에게 정말 감사하다.
-희종님의 글 덕분에 다시 한번 "내가 틀렸네요"의 힘을 상기시킬 수 있어서 너무 감사드리고 싶다.
-            
-반응형
-
-                    
-                    (adsbygoogle = window.adsbygoogle || []).push({});]]></summary>
         <author>
             <name>향로</name>
         </author>
