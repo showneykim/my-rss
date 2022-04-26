@@ -21,7 +21,7 @@
           "description": "In the 15 or so years since I started making WordPress websites, nothing has had more of an impact on my productivity — and my ability to enjoy front-end development — than adding Tailwind CSS to my workflow (and it …\nAdding Tailwind CSS to New and Existing WordPress Themes originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/adding-tailwind-css-to-wordpress-themes/",
           "publishedOn": "2022-04-20T15:30:29.000Z",
-          "wordCount": 2776,
+          "wordCount": 3302,
           "title": "Adding Tailwind CSS to New and Existing WordPress Themes",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364880"
         },
@@ -31,7 +31,7 @@
           "description": "Mermaid diagrams and flowcharts have been gaining traction, especially with GitHub’s announcement that they are natively supported in Markdown. Let’s take a look at what they are, how to use them, and just as importantly: why.\nJust like you …\nMaking Mermaid Diagrams in Markdown originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/making-mermaid-diagrams-in-markdown/",
           "publishedOn": "2022-04-18T16:01:08.000Z",
-          "wordCount": 1498,
+          "wordCount": 1556,
           "title": "Making Mermaid Diagrams in Markdown",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364908"
         },
@@ -71,7 +71,7 @@
           "description": "A bookmarklet is a JavaScript-based bookmark that adds to a web browser. I’d like to show you some awesome web browser hacks to aid your web development workflow and how to convert those hacks into time-saving bookmarklets.\nActivating design mode\n…\n6 Useful Bookmarklets to Boost Web Development originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/web-development-bookmarklets/",
           "publishedOn": "2022-03-28T18:15:41.000Z",
-          "wordCount": 2815,
+          "wordCount": 2932,
           "title": "6 Useful Bookmarklets to Boost Web Development",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364118"
         }
@@ -88,7 +88,7 @@
           "description": "MongoDB Developer Workshop 후기 (with Google Cloud) 오랜만에 포스팅입니다. 정말 오랜만이네요. 이직하고나서 딱히 쓸 글이 없었습니다. 다들 저보다 잘하시고, 연차는 쌓여가는데 초급 포스팅만 계속 하기도 좀 그랬습니다. 이번에 MongoDB Korea에서 오프라인 핸즈온 세미나를 열었습니다....\nThe post MongoDB Developer Workshop 후기 (with Google Cloud) appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/mongodb-developer-workshop-%ed%9b%84%ea%b8%b0-with-google-cloud/",
           "publishedOn": "2022-04-22T14:29:18.000Z",
-          "wordCount": 1054,
+          "wordCount": 1058,
           "title": "MongoDB Developer Workshop 후기 (with Google Cloud)",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2020/04/37_2019081518484308.jpg"
         }
@@ -99,6 +99,76 @@
       "feedUrl": "https://news.hada.io/rss/news",
       "siteUrl": "https://news.hada.io",
       "articles": [
+        {
+          "id": "https://news.hada.io/topic?id=6441",
+          "author": null,
+          "description": "로컬호스트의 특정 포트를, 원격호스트의 특정 포트에 연결\nlocaltunnel 이나 ngrok과 유사하지만, 간단한 설치 & 셀프호스팅 가능하고 딱 TCP트래픽 전달 기능만 제공\nRust 오픈소스. 맥/윈/리눅스 바이너리 제공\n\n...",
+          "link": "https://news.hada.io/topic?id=6441",
+          "publishedOn": "2022-04-26T01:34:57.000Z",
+          "wordCount": 91,
+          "title": "bore - 로컬호스트와 서버간에 TCP터널을 연결해주는 CLI 도구",
+          "imageUrl": "https://social.news.hada.io/topic/6441"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6440",
+          "author": null,
+          "description": "현재 비공식 초안이 나왔고, 크로미엄이 프로토타이핑 시작 예정\n체크박스/라디오 버튼 같은 DOM 객체의 상태와 CSS를 연결하는 메커니즘\nhtml {  \n  toggle-root: lightswitch; /* 토글 생성. 0 (비활성화, 기본값) 과 1 (활성화)  */  \n}  \n  \nbutton {  \n  toggle-trigger: ...",
+          "link": "https://news.hada.io/topic?id=6440",
+          "publishedOn": "2022-04-26T00:38:40.000Z",
+          "wordCount": 168,
+          "title": "CSS의 미래 : CSS Toggles",
+          "imageUrl": "https://social.news.hada.io/topic/6440"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6439",
+          "author": null,
+          "description": "SaaS가 건강하게 성장하려면 \"연 성장률 + 수익율 = 40%\" 가 되어야 한다는 것\n즉, 1년에 40%씩 성장한다면 BEP만 맞아도 되고,\n20%만 성장한다면 20% 영업 마진이 나야 하며\n성장하지 않는다면 영업 마진이 40%여야 함.\n그러나 100%씩 성장한다면 60%씩 적자가 날 수 있...",
+          "link": "https://news.hada.io/topic?id=6439",
+          "publishedOn": "2022-04-26T00:17:42.000Z",
+          "wordCount": 149,
+          "title": "건강한 SaaS를 위한 40%룰 (2015)",
+          "imageUrl": "https://social.news.hada.io/topic/6439"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6438",
+          "author": null,
+          "description": "백그라운드에서 SQLite DB데이터를 S3, GCS, SFTP, NFS 등 다른 스토리지로 안전하게(API만 이용) 복제\nGo 오픈소스. 맥/리눅스 바이너리 제공\n도커/쿠버네티스 및 Systemd/윈도우 서비스로 동작 가능",
+          "link": "https://news.hada.io/topic?id=6438",
+          "publishedOn": "2022-04-26T00:00:10.000Z",
+          "wordCount": 89,
+          "title": "Litestream - SQLite 스트리밍 복제 도구",
+          "imageUrl": "https://social.news.hada.io/topic/6438"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6437",
+          "author": null,
+          "description": "이달 초에 일론이 제시한 $44b(주당 $54.2)인수 제안을 트위터 이사회에서 승인\n트위터 주가는 5.7% 상승한 $51.7로 마감\n일론 머스크의 트위터 지분 9% 매입 발표 전날 대비 40% 프리미엄이 붙은 것\n\n...",
+          "link": "https://news.hada.io/topic?id=6437",
+          "publishedOn": "2022-04-25T23:31:40.000Z",
+          "wordCount": 133,
+          "title": "트위터, 일론 머스크의 55조원 인수 제안을 수락",
+          "imageUrl": "https://social.news.hada.io/topic/6437"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6436",
+          "author": null,
+          "description": "Cirrus(개인용 제트기 제조사)가 후원한 이벤트 행사장에서 일어난 일",
+          "link": "https://news.hada.io/topic?id=6436",
+          "publishedOn": "2022-04-25T04:13:34.000Z",
+          "wordCount": 71,
+          "title": "테슬라 스마트 호출 기능 사용중에 43억원짜리 개인용 제트기에 충돌",
+          "imageUrl": "https://social.news.hada.io/topic/6436"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6435",
+          "author": null,
+          "description": "2020년 나왔던 글의 2.0 업데이트\nChangelog\n새로 급성장한 2개의 분야\n\n데이터 디스커버리, 관찰, ML 모델 감사등의 핵심 데이터 프로세스와 워크플로우를 지원하기 위한 도구들\n데이터 워크스페이스, 리버스 ETL, ML 어플리케이션 프레임워크 처럼 데이터 팀과 비즈니스 사",
+          "link": "https://news.hada.io/topic?id=6435",
+          "publishedOn": "2022-04-25T01:34:56.000Z",
+          "wordCount": 722,
+          "title": "최신 데이터 인프라를 위한 새로운 아키텍처 2.0",
+          "imageUrl": "https://social.news.hada.io/topic/6435"
+        },
         {
           "id": "https://news.hada.io/topic?id=6434",
           "author": null,
@@ -128,76 +198,6 @@
           "wordCount": 109,
           "title": "가장 작은 크기의 단색 256x256 PNG파일, 어디서 봤을까? (2015)",
           "imageUrl": "https://social.news.hada.io/topic/6432"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6431",
-          "author": null,
-          "description": "Numsense! 수학 없이 배우는 데이터 과학과 알고리즘\n데이터를 다루며 배우는 파이썬\n빅 데이터가 만드는 세상 : 데이터는 알고 있다\n비즈니스를 위한 데이터 과학 빅데이터를 바라보는 데이터 마이닝과 분석적 사고\n데이터 스토리텔링 연습 : 연습 문제와 다양한 사례로 ...",
-          "link": "https://news.hada.io/topic?id=6431",
-          "publishedOn": "2022-04-25T00:32:53.000Z",
-          "wordCount": 200,
-          "title": "Coursera가 추천하는 초보자를 위한 데이터 분석 책들 : 2022",
-          "imageUrl": "https://social.news.hada.io/topic/6431"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6430",
-          "author": null,
-          "description": "Rust를 포크해서 i586/i686 용 msvc로 컴파일\n32비트 윈도우를 모두 지원 : 95/98/Me/NT 3.51/NT 4.0/2000/xp/Vista\n\n...",
-          "link": "https://news.hada.io/topic?id=6430",
-          "publishedOn": "2022-04-24T00:41:01.000Z",
-          "wordCount": 69,
-          "title": "Rust9x: Rust를 윈95/NT용으로 컴파일 하기",
-          "imageUrl": "https://social.news.hada.io/topic/6430"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6429",
-          "author": null,
-          "description": "기존 macOS 서버 사용자들은 Monterey로 계속 사용 가능\n캐슁/파일공유/타임머신 서버 등은 이미 High Sierra 부터 기본 포함\nProfile Manager는 MDM 솔루션으로 가고, 나머지 서버들은 오픈소스/상용 대체제를 리스팅\n\n...",
-          "link": "https://news.hada.io/topic?id=6429",
-          "publishedOn": "2022-04-24T00:25:01.000Z",
-          "wordCount": 80,
-          "title": "애플 macOS 서버 단종",
-          "imageUrl": "https://social.news.hada.io/topic/6429"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6428",
-          "author": null,
-          "description": "사용자가 자신의 GitHub Profile을 \"비공개\"로 설정가능\nGitHub 플랫폼내에서 프로젝트간에 자신의 사용자 데이터를 공유해서 사용 가능하도록 지원\nContribution/Activity를 숨기고 팔로워/스타/피드/리더보드등에서 노출 안 되도록 함\n\n...",
-          "link": "https://news.hada.io/topic?id=6428",
-          "publishedOn": "2022-04-24T00:06:01.000Z",
-          "wordCount": 80,
-          "title": "Github Private Profiles 기능 베타 시작",
-          "imageUrl": "https://social.news.hada.io/topic/6428"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6426",
-          "author": null,
-          "description": "데스크탑용 GUI 오픈소스 컨테이너 관리자\n윈/맥/리눅스 크로스플랫폼\n컨테이너/이미지/가상머신/Secret/볼륨 관리(CMS)\npodman 사용법을 익히는 도구로도 유용\n\n...",
-          "link": "https://news.hada.io/topic?id=6426",
-          "publishedOn": "2022-04-23T01:01:15.000Z",
-          "wordCount": 83,
-          "title": "Podman Desktop Companion",
-          "imageUrl": "https://social.news.hada.io/topic/6426"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6425",
-          "author": null,
-          "description": "머신러닝 모델을 프로덕션 사용가능한 수준으로 패키징 하게 해주는 오픈소스 도구\nNVidia 기본 이미지 + 캐싱 + 파이썬 + 환경변수 기본값 등 Best Practice가 다 포함된 도커이미지를 쉽게 생성\nPydantic을 통해서 Op...",
-          "link": "https://news.hada.io/topic?id=6425",
-          "publishedOn": "2022-04-23T00:39:10.000Z",
-          "wordCount": 130,
-          "title": "Cog : 머신러닝을 위한 컨테이너 도구",
-          "imageUrl": "https://social.news.hada.io/topic/6425"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6424",
-          "author": null,
-          "description": "영화/게임 등에서 미래의 장면들을 구성할 때 사용하는 HUD 및 GUI 들만 모은 사이트\n사이버펑크 2077, 배틀필드 2042, 블랙위도우, 만달로리안 S2, 소셜 딜레마, 스파이더맨..\n이메일 뉴스레터\n이북 \"FUI : How to design user interfaces for film and games.\" (AUD $5...",
-          "link": "https://news.hada.io/topic?id=6424",
-          "publishedOn": "2022-04-23T00:27:26.000Z",
-          "wordCount": 112,
-          "title": "영화/게임/컨셉 디자인등에서 본 HUDs + GUIs 모음",
-          "imageUrl": "https://social.news.hada.io/topic/6424"
         }
       ]
     },
@@ -206,6 +206,16 @@
       "feedUrl": "https://jojoldu.tistory.com/rss",
       "siteUrl": "https://jojoldu.tistory.com/",
       "articles": [
+        {
+          "id": "https://jojoldu.tistory.com/669",
+          "author": "향로",
+          "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\nWebStorm에서 기본적으로는 TypeScript 파일만 단독으로 실행할 수는 없다.\n단독으로 실행이 필요할 경우 JS 파일로 컴파일 후, 실행해야만 한다.\nRun server-side TypeScript with Node.js\n이 과정이 개발의 흐름을 많이 끊기 때문에 일반적인 JavaScript 파일을 실행하듯이 TypeScript 실행 환경이 필요하다.\n개선\nTypeScript 파일만 단독으로 수행하기 개별 플러그인만 설치하면 가능하다.\nRun Configuration for TypeScript\n해당 플러그인 설치후, 프로젝트에 ts-node 를 설치한다.\nyarn add --dev ts-node\n그리고 TS 파일을 다시 한번 우클릭 해보면? \n다음과 같이 Run/Debug 실행 버튼이 생성된 것을 확인할 수 있다.\n해당 버튼을 클릭해 실제로 수행해본다. \n그럼 다음과 같이 정상적으로 TS 파일이 컴파일 되어 실행되는 것을 확인할 수 있다.\n            \n반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({});",
+          "link": "https://jojoldu.tistory.com/669",
+          "publishedOn": "2022-04-26T00:13:18.000Z",
+          "wordCount": 262,
+          "title": "WebStorm에서 TypeScript 파일 단독으로 실행하기",
+          "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbFWsNN%2FbtrAvGrDcFL%2FD0X92CK9xgOtMM6NhsZiB0%2Fimg.png"
+        },
         {
           "id": "https://jojoldu.tistory.com/668",
           "author": "향로",
@@ -272,7 +282,7 @@
           "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\n일반적으로 프로젝트의 코드 퀄리티를 올리기 위해서는 단위 테스트를 비롯해 여러가지 장치를 도입한다. \n이때 가장 가성비가 좋은 작업이 정적 코드 분석을 도입하는 것이다.\n정적 코드 분석은 코드내에서 발견할 수 있는 코드 스멜, 잠재적인 결함, 컨벤션 체크, 보안 취약점 등을 코드 레벨에서 분석해서 레포팅 해준다.\n이런 정적 코드 분석 도구에는 여러가지가 있지만, 가장 많은 사용자들이 사용하는 도구는 SonarQube(소나큐브) 이다.\n기존에는 설치형외에는 지원하지 않았지만, \n최근에는 SaaS 형태로 SonarCloud 가 출시되었다.\nGithub에 공개된 저장소에 한해서는 소나 클라우드의 전체 기능을 무료로 사용할 수 있다. \n그래서 개인 프로젝트는 SonarCloud로 편하게 연동하고, 무료로 정적 코드 분석을 받아 볼 수 있다.\n회사에서 사용한다면 SonarQube를 추천한다. \n아직까지 SonarQube 만큼의 기능이 SonarCloud에서 지원하지 못하고 있다.\nSonarCloud or SonarQube? - Guidance on Choosing One for Your Team\n그래서 이번 시간에는 이 SonarCloud와 Node.js (with. TypeScript) 프로젝트를 연동해서 정적 분석을 진행해보겠다.\n모든 코드는 Github 에 있다.\n1. SonarCloud 연동\n먼저 SonarC…",
           "link": "https://jojoldu.tistory.com/662",
           "publishedOn": "2022-04-05T12:21:24.000Z",
-          "wordCount": 1141,
+          "wordCount": 1140,
           "title": "SonarCloud를 통한 Node.js & Jest 프로젝트 정적 분석하기",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FvPwAV%2FbtryxqyRKlb%2FVZofSSmvQY0OrwXIG41S8K%2Fimg.png"
         },
@@ -282,7 +292,7 @@
           "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\n\n아래는 인프랩의 채용 담당자를 통해 전달받은 메일의 답변을 옮긴것입니다. \n비슷한 메일이 많이 와서 블로그에도 정리하게 되었습니다.\n\n안녕하세요 A님. \n인프랩 개발팀입니다. :)\n퇴근하고나서 이메일 주신 내용을 읽어보고나서 답변을 정리해서 전달드립니다.\n먼저 오해를 풀고자 하는데요. \n오랫동안 Node.js 백엔드 개발자 채용 공고가 계속 올라가 있는 이유는 원하는 사람의 채용이 안되어서 그런것은 아닙니다 ^^;\n저희 같은 IT 기반의 스타트업은 대기업처럼 개발자에 한해서는 TO를 정해놓고 채용을 진행하지 않습니다.\n저희가 생각한 인재분이라면 Unlimit으로 채용을 하기 때문에 계속해서 열려있습니다.\n구체적으로 말씀드리면,\n작년 채용공고를 올리고 현재 6개월정도가 지났습니다.\n그 사이에 당시 4명이였던 Node.js 백엔드 개발자팀은 현재 9명이 되었습니다.\n그리고 2주뒤에 또 한명의 Node.js 개발자분이 합류하실 예정이라 곧 10명의 팀이 됩니다.\n즉, 6~7개월만에 2.5배 인원이 된 것입니다.\n그렇지만, 아직도 더 많은 인원을 채용하고자 합니다.\n현재 개발팀 규모의 몇배의 인원으로 확장할 계획이고, 아마도 몇년간 채용공고가 내려갈 일은 없을것 같습니다 :)\n이건 비단 저희 인프랩만 그런것은 아닙니다.\n대부분의 빅테크 스타트업부터 작은 스타트업들까지, 개발자에 한해서는 TO를 정하고 채용하진 않…",
           "link": "https://jojoldu.tistory.com/661",
           "publishedOn": "2022-04-01T17:30:37.000Z",
-          "wordCount": 910,
+          "wordCount": 909,
           "title": "어떻게 준비하면 인프랩에 입사할 수 있나요.",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fb9CgFl%2FbtrycPMDZgY%2FBzy5q4K7gx5sjNywmHOUI1%2Fimg.png"
         },
@@ -292,7 +302,7 @@
           "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\n요즘 재밌게 보고 있는 웹툰 & 웹소설 중에 네이버 시리즈에 있는 화산귀환이 있다.\n웹 소설로 시작해서 그 인기에 힘입어 웹툰으로 나오게 된 작품이다.\n웹 소설의 경우 누적 조회수가 2.6억이다. \n네이버 시리즈 최고 히트작 중 하나이다.\n처음엔 이 작품을 웹툰으로 시작했다. \n웹툰으로 쭉 보다가 웹 소설로 전향했다. \n이유는 아무리 돈이 있어도 회차가 더 나오지 않아 그 이상 볼 수가 없었기 때문이다.\n웹툰에서는 56화밖에 없는 이야기가 웹소설에서는 1183화까지 나와있다. \n그러다보니 다음 이야기가 너무 궁금해서 웹소설로 넘어가서 보고 있다.\n그래서 요즘 웹툰은 그냥 작가님을 위한 응원의 마음으로 결제하고, 시간이 될 때마다 웹소설만 본다.\n요즘은 굳이 웹툰을 결제해야하나 생각중이다. \n어차피 웹 소설로 다 본 내용이기 때문이다.\n이건 참 신기한 일이다. \n웹툰은 컨텐츠를 소비하는 입장으로 장점이 많다.\n훨씬 보는 재미가 있다.\n훨씬 보기에 편하다.\n\n굳이 글을 다 읽을 필요가 없다\n컨텐츠 소비자로서 이만큼 장점이 있음에도 웹소설을 보는게 요즘의 내 모습이라는 것이다.\n왜 그럴까 생각해보면 결국 연재주기 때문이라고 생각했다.\n웹툰은 1주일에 1회도 어렵다.\n(작가님들을 위한 정기휴재는 이제 웹툰에서는 거의 필수로 적용된다)\n반면 웹소설은 1주일에 5~7회를 연재한다. \n웬만해서는 휴재도 잘 나지 않는다.…",
           "link": "https://jojoldu.tistory.com/660",
           "publishedOn": "2022-03-28T14:50:28.000Z",
-          "wordCount": 1187,
+          "wordCount": 1186,
           "title": "공급자 지향 플랫폼",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FMLlgY%2FbtrxIMhKFOZ%2FdltBR2TG1az9j0VI9ha4ak%2Fimg.jpg"
         }

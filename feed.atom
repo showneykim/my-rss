@@ -1,10 +1,139 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-25T01:36:28.016Z</id>
+    <id>urn:2022-04-26T01:48:15.176Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-25T01:36:28.016Z</updated>
+    <updated>2022-04-26T01:48:15.176Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[bore - 로컬호스트와 서버간에 TCP터널을 연결해주는 CLI 도구]]></title>
+        <id>https://news.hada.io/topic?id=6441</id>
+        <link href="https://news.hada.io/topic?id=6441"/>
+        <updated>2022-04-26T01:34:57.000Z</updated>
+        <summary type="html"><![CDATA[로컬호스트의 특정 포트를, 원격호스트의 특정 포트에 연결
+localtunnel 이나 ngrok과 유사하지만, 간단한 설치 & 셀프호스팅 가능하고 딱 TCP트래픽 전달 기능만 제공
+Rust 오픈소스. 맥/윈/리눅스 바이너리 제공
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS의 미래 : CSS Toggles]]></title>
+        <id>https://news.hada.io/topic?id=6440</id>
+        <link href="https://news.hada.io/topic?id=6440"/>
+        <updated>2022-04-26T00:38:40.000Z</updated>
+        <summary type="html"><![CDATA[현재 비공식 초안이 나왔고, 크로미엄이 프로토타이핑 시작 예정
+체크박스/라디오 버튼 같은 DOM 객체의 상태와 CSS를 연결하는 메커니즘
+html {  
+  toggle-root: lightswitch; /* 토글 생성. 0 (비활성화, 기본값) 과 1 (활성화)  */  
+}  
+  
+button {  
+  toggle-trigger: ...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[건강한 SaaS를 위한 40%룰 (2015)]]></title>
+        <id>https://news.hada.io/topic?id=6439</id>
+        <link href="https://news.hada.io/topic?id=6439"/>
+        <updated>2022-04-26T00:17:42.000Z</updated>
+        <summary type="html"><![CDATA[SaaS가 건강하게 성장하려면 "연 성장률 + 수익율 = 40%" 가 되어야 한다는 것
+즉, 1년에 40%씩 성장한다면 BEP만 맞아도 되고,
+20%만 성장한다면 20% 영업 마진이 나야 하며
+성장하지 않는다면 영업 마진이 40%여야 함.
+그러나 100%씩 성장한다면 60%씩 적자가 날 수 있...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WebStorm에서 TypeScript 파일 단독으로 실행하기]]></title>
+        <id>https://jojoldu.tistory.com/669</id>
+        <link href="https://jojoldu.tistory.com/669"/>
+        <updated>2022-04-26T00:13:18.000Z</updated>
+        <summary type="html"><![CDATA[반응형
+
+                    
+                    (adsbygoogle = window.adsbygoogle || []).push({}); 
+               
+
+WebStorm에서 기본적으로는 TypeScript 파일만 단독으로 실행할 수는 없다.
+단독으로 실행이 필요할 경우 JS 파일로 컴파일 후, 실행해야만 한다.
+Run server-side TypeScript with Node.js
+이 과정이 개발의 흐름을 많이 끊기 때문에 일반적인 JavaScript 파일을 실행하듯이 TypeScript 실행 환경이 필요하다.
+개선
+TypeScript 파일만 단독으로 수행하기 개별 플러그인만 설치하면 가능하다.
+Run Configuration for TypeScript
+해당 플러그인 설치후, 프로젝트에 ts-node 를 설치한다.
+yarn add --dev ts-node
+그리고 TS 파일을 다시 한번 우클릭 해보면? 
+다음과 같이 Run/Debug 실행 버튼이 생성된 것을 확인할 수 있다.
+해당 버튼을 클릭해 실제로 수행해본다. 
+그럼 다음과 같이 정상적으로 TS 파일이 컴파일 되어 실행되는 것을 확인할 수 있다.
+            
+반응형
+
+                    
+                    (adsbygoogle = window.adsbygoogle || []).push({});]]></summary>
+        <author>
+            <name>향로</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Litestream - SQLite 스트리밍 복제 도구]]></title>
+        <id>https://news.hada.io/topic?id=6438</id>
+        <link href="https://news.hada.io/topic?id=6438"/>
+        <updated>2022-04-26T00:00:10.000Z</updated>
+        <summary type="html"><![CDATA[백그라운드에서 SQLite DB데이터를 S3, GCS, SFTP, NFS 등 다른 스토리지로 안전하게(API만 이용) 복제
+Go 오픈소스. 맥/리눅스 바이너리 제공
+도커/쿠버네티스 및 Systemd/윈도우 서비스로 동작 가능]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[트위터, 일론 머스크의 55조원 인수 제안을 수락]]></title>
+        <id>https://news.hada.io/topic?id=6437</id>
+        <link href="https://news.hada.io/topic?id=6437"/>
+        <updated>2022-04-25T23:31:40.000Z</updated>
+        <summary type="html"><![CDATA[이달 초에 일론이 제시한 $44b(주당 $54.2)인수 제안을 트위터 이사회에서 승인
+트위터 주가는 5.7% 상승한 $51.7로 마감
+일론 머스크의 트위터 지분 9% 매입 발표 전날 대비 40% 프리미엄이 붙은 것
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[테슬라 스마트 호출 기능 사용중에 43억원짜리 개인용 제트기에 충돌]]></title>
+        <id>https://news.hada.io/topic?id=6436</id>
+        <link href="https://news.hada.io/topic?id=6436"/>
+        <updated>2022-04-25T04:13:34.000Z</updated>
+        <summary type="html"><![CDATA[Cirrus(개인용 제트기 제조사)가 후원한 이벤트 행사장에서 일어난 일]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최신 데이터 인프라를 위한 새로운 아키텍처 2.0]]></title>
+        <id>https://news.hada.io/topic?id=6435</id>
+        <link href="https://news.hada.io/topic?id=6435"/>
+        <updated>2022-04-25T01:34:56.000Z</updated>
+        <summary type="html"><![CDATA[2020년 나왔던 글의 2.0 업데이트
+Changelog
+새로 급성장한 2개의 분야
+
+데이터 디스커버리, 관찰, ML 모델 감사등의 핵심 데이터 프로세스와 워크플로우를 지원하기 위한 도구들
+데이터 워크스페이스, 리버스 ETL, ML 어플리케이션 프레임워크 처럼 데이터 팀과 비즈니스 사]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[성공적인 위험감수(Risk-Taking) 문화 구축을 위한 팁]]></title>
         <id>https://news.hada.io/topic?id=6434</id>
@@ -41,61 +170,6 @@ PLTE(팔렛트) 및 IDAT(이미지 데이터) 섹션을 어떻게 구성하느�
 왜 이런 최적화가 필요할까?
 → 온라인 지도의 바다 부분 파일에서 사용
 → OpenStreetMap은 103byte, Bing Map은 156, 구글지도...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coursera가 추천하는 초보자를 위한 데이터 분석 책들 : 2022]]></title>
-        <id>https://news.hada.io/topic?id=6431</id>
-        <link href="https://news.hada.io/topic?id=6431"/>
-        <updated>2022-04-25T00:32:53.000Z</updated>
-        <summary type="html"><![CDATA[Numsense! 수학 없이 배우는 데이터 과학과 알고리즘
-데이터를 다루며 배우는 파이썬
-빅 데이터가 만드는 세상 : 데이터는 알고 있다
-비즈니스를 위한 데이터 과학 빅데이터를 바라보는 데이터 마이닝과 분석적 사고
-데이터 스토리텔링 연습 : 연습 문제와 다양한 사례로 ...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rust9x: Rust를 윈95/NT용으로 컴파일 하기]]></title>
-        <id>https://news.hada.io/topic?id=6430</id>
-        <link href="https://news.hada.io/topic?id=6430"/>
-        <updated>2022-04-24T00:41:01.000Z</updated>
-        <summary type="html"><![CDATA[Rust를 포크해서 i586/i686 용 msvc로 컴파일
-32비트 윈도우를 모두 지원 : 95/98/Me/NT 3.51/NT 4.0/2000/xp/Vista
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애플 macOS 서버 단종]]></title>
-        <id>https://news.hada.io/topic?id=6429</id>
-        <link href="https://news.hada.io/topic?id=6429"/>
-        <updated>2022-04-24T00:25:01.000Z</updated>
-        <summary type="html"><![CDATA[기존 macOS 서버 사용자들은 Monterey로 계속 사용 가능
-캐슁/파일공유/타임머신 서버 등은 이미 High Sierra 부터 기본 포함
-Profile Manager는 MDM 솔루션으로 가고, 나머지 서버들은 오픈소스/상용 대체제를 리스팅
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Github Private Profiles 기능 베타 시작]]></title>
-        <id>https://news.hada.io/topic?id=6428</id>
-        <link href="https://news.hada.io/topic?id=6428"/>
-        <updated>2022-04-24T00:06:01.000Z</updated>
-        <summary type="html"><![CDATA[사용자가 자신의 GitHub Profile을 "비공개"로 설정가능
-GitHub 플랫폼내에서 프로젝트간에 자신의 사용자 데이터를 공유해서 사용 가능하도록 지원
-Contribution/Activity를 숨기고 팔로워/스타/피드/리더보드등에서 노출 안 되도록 함
-
-...]]></summary>
         <author>
             <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
@@ -179,46 +253,6 @@ release -> master로 반영할때 Merge Commit을 생성하지 않는다.
                     (adsbygoogle = window.adsbygoogle || []).push({});]]></summary>
         <author>
             <name>향로</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Podman Desktop Companion]]></title>
-        <id>https://news.hada.io/topic?id=6426</id>
-        <link href="https://news.hada.io/topic?id=6426"/>
-        <updated>2022-04-23T01:01:15.000Z</updated>
-        <summary type="html"><![CDATA[데스크탑용 GUI 오픈소스 컨테이너 관리자
-윈/맥/리눅스 크로스플랫폼
-컨테이너/이미지/가상머신/Secret/볼륨 관리(CMS)
-podman 사용법을 익히는 도구로도 유용
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cog : 머신러닝을 위한 컨테이너 도구]]></title>
-        <id>https://news.hada.io/topic?id=6425</id>
-        <link href="https://news.hada.io/topic?id=6425"/>
-        <updated>2022-04-23T00:39:10.000Z</updated>
-        <summary type="html"><![CDATA[머신러닝 모델을 프로덕션 사용가능한 수준으로 패키징 하게 해주는 오픈소스 도구
-NVidia 기본 이미지 + 캐싱 + 파이썬 + 환경변수 기본값 등 Best Practice가 다 포함된 도커이미지를 쉽게 생성
-Pydantic을 통해서 Op...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화/게임/컨셉 디자인등에서 본 HUDs + GUIs 모음]]></title>
-        <id>https://news.hada.io/topic?id=6424</id>
-        <link href="https://news.hada.io/topic?id=6424"/>
-        <updated>2022-04-23T00:27:26.000Z</updated>
-        <summary type="html"><![CDATA[영화/게임 등에서 미래의 장면들을 구성할 때 사용하는 HUD 및 GUI 들만 모은 사이트
-사이버펑크 2077, 배틀필드 2042, 블랙위도우, 만달로리안 S2, 소셜 딜레마, 스파이더맨..
-이메일 뉴스레터
-이북 "FUI : How to design user interfaces for film and games." (AUD $5...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
     </entry>
     <entry>
