@@ -6,6 +6,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=365359",
+          "author": "Dan Christofi",
+          "description": "When creating a component-based, front-end infrastructure, one of the biggest pain points I’ve personally encountered is making components that are both reusable and responsive when there are nested components within components.\nTake the following “call to action” (<CTA />…\nAvoiding the Pitfalls of Nested Components in a Design System originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/nested-components-in-a-design-system/",
+          "publishedOn": "2022-04-26T14:30:20.000Z",
+          "wordCount": 2057,
+          "title": "Avoiding the Pitfalls of Nested Components in a Design System",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365359"
+        },
+        {
           "id": "https://css-tricks.com/?p=364218",
           "author": "Mark Noonan",
           "description": "Automated front-end tests are awesome. We can write a test with code to visit a page — or load up just a single component — and have that test code click on things or type text like a user would, …\nWriting Strong Front-end Test Element Locators originally published on CSS-Tricks. You should get the newsletter.",
@@ -88,7 +98,7 @@
           "description": "MongoDB Developer Workshop 후기 (with Google Cloud) 오랜만에 포스팅입니다. 정말 오랜만이네요. 이직하고나서 딱히 쓸 글이 없었습니다. 다들 저보다 잘하시고, 연차는 쌓여가는데 초급 포스팅만 계속 하기도 좀 그랬습니다. 이번에 MongoDB Korea에서 오프라인 핸즈온 세미나를 열었습니다....\nThe post MongoDB Developer Workshop 후기 (with Google Cloud) appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/mongodb-developer-workshop-%ed%9b%84%ea%b8%b0-with-google-cloud/",
           "publishedOn": "2022-04-22T14:29:18.000Z",
-          "wordCount": 1058,
+          "wordCount": 1054,
           "title": "MongoDB Developer Workshop 후기 (with Google Cloud)",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2020/04/37_2019081518484308.jpg"
         }
@@ -99,6 +109,56 @@
       "feedUrl": "https://news.hada.io/rss/news",
       "siteUrl": "https://news.hada.io",
       "articles": [
+        {
+          "id": "https://news.hada.io/topic?id=6446",
+          "author": null,
+          "description": "2011년에 GitHub 주소를 짧게 만들기 위해 만들었던 서비스\n올해 1월에 ReadOnly로 변경했고, 4/29부터 모든 주소들 연결 제거 예정\n\n...",
+          "link": "https://news.hada.io/topic?id=6446",
+          "publishedOn": "2022-04-27T01:11:55.000Z",
+          "wordCount": 77,
+          "title": "GitHub, 짧은 URL용 Git.io 서비스 운영 중단",
+          "imageUrl": "https://social.news.hada.io/topic/6446"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6445",
+          "author": null,
+          "description": "SHA-1 계산 속도\n\nNVIDIA 3090($1499) : 22.6×10⁹\nAMD RX6800($649, 가성비 훌륭) : 20.6x10⁹\n2017년 논문에 의하면 9x10¹⁸ 번 계산이 필요(110GPU/년)\n2020년 논문에 의하면 3.5x10¹⁸ 번으로 줄어듦\n이걸 AMD 기준으로 계산시\n\n1xGPU 5....",
+          "link": "https://news.hada.io/topic?id=6445",
+          "publishedOn": "2022-04-27T01:02:16.000Z",
+          "wordCount": 134,
+          "title": "2022년 현재 SHA1 충돌은 얼마나 찾기 쉬운가요?",
+          "imageUrl": "https://social.news.hada.io/topic/6445"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6444",
+          "author": null,
+          "description": "다양한 기기에서 Pixel 사용경험을 가능하게 해주는 안드로이드 롬\nPixel goodies(런쳐, 바탕화면, 아이콘, 폰트, 부팅 애니메이션) 및 모든 구글 앱들 포함\n12 Plus 버전이 최신\n\n...",
+          "link": "https://news.hada.io/topic?id=6444",
+          "publishedOn": "2022-04-27T00:40:01.000Z",
+          "wordCount": 104,
+          "title": "PixelExperience - AOSP 기반 안드로이드 ROM",
+          "imageUrl": "https://social.news.hada.io/topic/6444"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6443",
+          "author": null,
+          "description": "(Hosted) Large Language Models\nLLM은 어떻게 동작하는가\n왜 필요한가 : 어려운 문제 해결, 빠르고 쉬운 사용, 자원이 없는 회사들\n반대하는 이유는 : 비용, 모든 것을 해결하진 못함, 민감한 데이터, 과도할 수 있음, 나쁜 결과로 이어질수도\n툴과 플레이어들 : GPT-3 P...",
+          "link": "https://news.hada.io/topic?id=6443",
+          "publishedOn": "2022-04-27T00:23:32.000Z",
+          "wordCount": 180,
+          "title": "GPT-3 같은 대규모 언어 모델의 API사용에 관한 정리",
+          "imageUrl": "https://social.news.hada.io/topic/6443"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6442",
+          "author": null,
+          "description": "Review 문화가 자리 잡게 된 배경\n\nCode Review를 통해 실수 줄이기\nApprove를 통해 follow up 확인하기\nTech Spec도 Review 하자!\nReview를 더 많이 하다보니 생긴 문제들\n\n업무량 증가: 특히 오래된 팀원들의 review 업무량이 과도해짐\n느려...",
+          "link": "https://news.hada.io/topic?id=6442",
+          "publishedOn": "2022-04-26T07:24:20.000Z",
+          "wordCount": 276,
+          "title": "생산성 있는 Review 문화가 되기까지",
+          "imageUrl": "https://social.news.hada.io/topic/6442"
+        },
         {
           "id": "https://news.hada.io/topic?id=6441",
           "author": null,
@@ -145,59 +205,9 @@
           "description": "이달 초에 일론이 제시한 $44b(주당 $54.2)인수 제안을 트위터 이사회에서 승인\n트위터 주가는 5.7% 상승한 $51.7로 마감\n일론 머스크의 트위터 지분 9% 매입 발표 전날 대비 40% 프리미엄이 붙은 것\n\n...",
           "link": "https://news.hada.io/topic?id=6437",
           "publishedOn": "2022-04-25T23:31:40.000Z",
-          "wordCount": 133,
+          "wordCount": 145,
           "title": "트위터, 일론 머스크의 55조원 인수 제안을 수락",
           "imageUrl": "https://social.news.hada.io/topic/6437"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6436",
-          "author": null,
-          "description": "Cirrus(개인용 제트기 제조사)가 후원한 이벤트 행사장에서 일어난 일",
-          "link": "https://news.hada.io/topic?id=6436",
-          "publishedOn": "2022-04-25T04:13:34.000Z",
-          "wordCount": 71,
-          "title": "테슬라 스마트 호출 기능 사용중에 43억원짜리 개인용 제트기에 충돌",
-          "imageUrl": "https://social.news.hada.io/topic/6436"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6435",
-          "author": null,
-          "description": "2020년 나왔던 글의 2.0 업데이트\nChangelog\n새로 급성장한 2개의 분야\n\n데이터 디스커버리, 관찰, ML 모델 감사등의 핵심 데이터 프로세스와 워크플로우를 지원하기 위한 도구들\n데이터 워크스페이스, 리버스 ETL, ML 어플리케이션 프레임워크 처럼 데이터 팀과 비즈니스 사",
-          "link": "https://news.hada.io/topic?id=6435",
-          "publishedOn": "2022-04-25T01:34:56.000Z",
-          "wordCount": 722,
-          "title": "최신 데이터 인프라를 위한 새로운 아키텍처 2.0",
-          "imageUrl": "https://social.news.hada.io/topic/6435"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6434",
-          "author": null,
-          "description": "Okta 공동창업자의 책 \"Zero to IPO\" 에 담긴 내용\n기업가 정신을 가진 사람을 고용할 것(적어도 첫 100명의 직원까지는)\n처음 10명의 직원이 회사의 문화를 정의하고, 다음 90명의 직원이 그걸 굳건히 함\n물론 규모가 커질수록 심리적으로 더 보수적인 사람들을 데려오기",
-          "link": "https://news.hada.io/topic?id=6434",
-          "publishedOn": "2022-04-25T01:16:43.000Z",
-          "wordCount": 345,
-          "title": "성공적인 위험감수(Risk-Taking) 문화 구축을 위한 팁",
-          "imageUrl": "https://social.news.hada.io/topic/6434"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6433",
-          "author": null,
-          "description": "출장 많이 다니던 사람이 호텔에 물어보니 이걸 다 버린다는 것에 착안\n버려진 비누를 수집해서 분쇄하여 재활용 비누를 만드는 \"Clean the World\" 라는 회사를 차림\n객실당 $0.5~$1을 받고 처리해 줌(수집통, 배송, 스탭 교육 포함)\n현재 전세계 8천개의 호텔(140만개 객...",
-          "link": "https://news.hada.io/topic?id=6433",
-          "publishedOn": "2022-04-25T01:00:44.000Z",
-          "wordCount": 184,
-          "title": "호텔에서 남겨진 비누는 어디로 가는가",
-          "imageUrl": "https://social.news.hada.io/topic/6433"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6432",
-          "author": null,
-          "description": "같은 단색(푸른계열)이라도 파일 크기가 103~1189byte로 차이가 있음\nPLTE(팔렛트) 및 IDAT(이미지 데이터) 섹션을 어떻게 구성하느냐에 따라 다름\n왜 이런 최적화가 필요할까?\n→ 온라인 지도의 바다 부분 파일에서 사용\n→ OpenStreetMap은 103byte, Bing Map은 156, 구글지도...",
-          "link": "https://news.hada.io/topic?id=6432",
-          "publishedOn": "2022-04-25T00:48:11.000Z",
-          "wordCount": 109,
-          "title": "가장 작은 크기의 단색 256x256 PNG파일, 어디서 봤을까? (2015)",
-          "imageUrl": "https://social.news.hada.io/topic/6432"
         }
       ]
     },
