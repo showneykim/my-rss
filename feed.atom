@@ -1,10 +1,152 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-27T01:49:28.254Z</id>
+    <id>urn:2022-04-28T02:18:43.565Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-27T01:49:28.254Z</updated>
+    <updated>2022-04-28T02:18:43.565Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Datasette - 개인용 데이터 웨어하우스 오픈소스]]></title>
+        <id>https://news.hada.io/topic?id=6455</id>
+        <link href="https://news.hada.io/topic?id=6455"/>
+        <updated>2022-04-28T01:39:01.000Z</updated>
+        <summary type="html"><![CDATA[다양한 종류의 데이터를 수집 & 분석하고 웹사이트로 퍼블리싱 하도록 도와주는 도구
+데이터 저널리스트, 과학자, 연구자등을 대상
+SQLite 기반이며, macOS용 데스크탑앱 제공
+수집한 데이터를 JSON/GraphQL API등으로 제공 가능. 인터랙티브 프로토타입의 백엔드로 사용하거나...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TextSynth - 무료 GPT-NeoX-20B 플레이그라운드]]></title>
+        <id>https://news.hada.io/topic?id=6454</id>
+        <link href="https://news.hada.io/topic?id=6454"/>
+        <updated>2022-04-28T01:15:04.000Z</updated>
+        <summary type="html"><![CDATA[FFMpeg, QEMU를 만든 Fabrice Bellard의 gpt2tc(GPT-2)를 이용해서 만든 SaaS
+GPT-J 6B / Boris(프랑스어), GPT-NeoX 20B, Fairseq GPT 13B 등의 모델 사용 가능
+무료 플랜은 30분당 30Req, 1req당 최대 200개 토큰
+유료 플랜은 모델별로 입력/생성 토큰당 가격
+
+GPT-NeoX ...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MIT 연구진, 종이처럼 얇은 스피커 개발]]></title>
+        <id>https://news.hada.io/topic?id=6453</id>
+        <link href="https://news.hada.io/topic?id=6453"/>
+        <updated>2022-04-28T00:50:53.000Z</updated>
+        <summary type="html"><![CDATA[모든 표면을 오디오 소스로 바꿀수 있는 종이처럼 얇은 스피커
+반대 위상의 소리를 생성하여 액티브 노이즈 캔슬링도 가능
+저전력 / 초경량
+영화관/놀이동산에서 3차원 오디오 제공하는데도 사용 가능
+기존과 전혀 다른 방식으로 설계
+
+개별로 진동하는 초소형 돔...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[칸 아카데미, 온라인 고등학교 Khan World School 시작]]></title>
+        <id>https://news.hada.io/topic?id=6452</id>
+        <link href="https://news.hada.io/topic?id=6452"/>
+        <updated>2022-04-28T00:21:14.000Z</updated>
+        <summary type="html"><![CDATA[ASU(아리조나 주립대)와 연계하여 2022년 8월부터 프로그램 시작
+전 세계 학생 대상 풀타임 온라인 학교(미국 기준 Grade 9 대상)
+자기 주도형 온라인 학습과정
+일일 세미나 진행
+소그룹 튜토리얼을 통한 개인화된 지도(Inspired by Oxford Tutorial System)
+온라...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GraalVM 22.1 릴리즈 - 개발자 경험 향상, 애플 실리콘 지원]]></title>
+        <id>https://news.hada.io/topic?id=6451</id>
+        <link href="https://news.hada.io/topic?id=6451"/>
+        <updated>2022-04-28T00:02:14.000Z</updated>
+        <summary type="html"><![CDATA[JDK11, JDK17 기반 빌드 포함
+Native Image 향상
+
+퀵 빌드 모드 제공(컴파일 81%, 전체 43% 속도 향상)
+기본 빌드도 26% 더 빨리지고, 바이너리 사이즈도 작아짐
+애플 실리콘 빌드 제공(프리뷰)
+
+포함 : JVM with Graal Compiler, Native Image, JavaS...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shape Up: B2B SaaS 스타트업 Relate 팀의 제품 개발 프로세스]]></title>
+        <id>https://news.hada.io/topic?id=6450</id>
+        <link href="https://news.hada.io/topic?id=6450"/>
+        <updated>2022-04-27T22:48:09.000Z</updated>
+        <summary type="html"><![CDATA[Shape Up은 프로젝트 매니지먼트 소프트웨어와 이메일 HEY를 만드는 Basecamp 팀이 처음 고안한 제품 개발 프로세스다.
+영업 CRM SaaS를 만드는 스타트업 Relate 팀은 이 Shape Up 프로세스를 조금 변형해서 사용하는데, 본문에 나와 있는 대로 여러가지 특징(uniqueness)이 있다. 그중에는 아래 특징들도 포함]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cool Hover Effects That Use Background Properties]]></title>
+        <id>https://css-tricks.com/?p=365383</id>
+        <link href="https://css-tricks.com/cool-hover-effects-using-background-properties/"/>
+        <updated>2022-04-27T14:20:07.000Z</updated>
+        <summary type="html"><![CDATA[A while ago, Geoff wrote an article about a cool hover effect. The effect relies on a combination of CSS pseudo-elements, transforms, and transitions. A lot of comments have shown that the same effect can be done using background …
+Cool Hover Effects That Use Background Properties originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFT 커뮤니티, 재미를 디자인하라.]]></title>
+        <id>https://news.hada.io/topic?id=6449</id>
+        <link href="https://news.hada.io/topic?id=6449"/>
+        <updated>2022-04-27T09:46:53.000Z</updated>
+        <summary type="html"><![CDATA[들어가며
+NFT 구매의 다양한 특징 중 하나는 재미
+그리고 재미에 가장 큰 영향을 주는 것은 커뮤니티.
+NFT와 NFT 커뮤니티의 다양한 재미 요소 리서치 포스팅
+요약
+프로젝트 오픈
+
+로드맵을 통한 스토리텔링
+터부시되는 컨셉의 활용...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FE News - 네이버 프론트엔드 기술 소식]]></title>
+        <id>https://news.hada.io/topic?id=6448</id>
+        <link href="https://news.hada.io/topic?id=6448"/>
+        <updated>2022-04-27T06:58:09.000Z</updated>
+        <summary type="html"><![CDATA[네이버 FE 엔지니어들이 발행하는 프론트 엔드 관련 기술 소식입니다.
+2020.02부터 발행되었습니다.]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thin - React앱을 위한 실시간, TypeSafe 백엔드]]></title>
+        <id>https://news.hada.io/topic?id=6447</id>
+        <link href="https://news.hada.io/topic?id=6447"/>
+        <updated>2022-04-27T01:49:06.000Z</updated>
+        <summary type="html"><![CDATA[지연시간을 최소화한 엄청 빠른 백엔드 서비스
+State 관리를 간소화, 실시간 API를 통해서 앱 상태를 DB(Postgres)와 항상 동기화
+Haskel로 만들어진 IHP 프레임워크 기반
+GUI 스키마 디자이너 제공
+
+Git과 비슷한 Migration : 테이블 변경/추가 시 인메모리 스키마에만 저...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GitHub, 짧은 URL용 Git.io 서비스 운영 중단]]></title>
         <id>https://news.hada.io/topic?id=6446</id>
@@ -19,52 +161,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2022년 현재 SHA1 충돌은 얼마나 찾기 쉬운가요?]]></title>
-        <id>https://news.hada.io/topic?id=6445</id>
-        <link href="https://news.hada.io/topic?id=6445"/>
-        <updated>2022-04-27T01:02:16.000Z</updated>
-        <summary type="html"><![CDATA[SHA-1 계산 속도
-
-NVIDIA 3090($1499) : 22.6×10⁹
-AMD RX6800($649, 가성비 훌륭) : 20.6x10⁹
-2017년 논문에 의하면 9x10¹⁸ 번 계산이 필요(110GPU/년)
-2020년 논문에 의하면 3.5x10¹⁸ 번으로 줄어듦
-이걸 AMD 기준으로 계산시
-
-1xGPU 5....]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PixelExperience - AOSP 기반 안드로이드 ROM]]></title>
-        <id>https://news.hada.io/topic?id=6444</id>
-        <link href="https://news.hada.io/topic?id=6444"/>
-        <updated>2022-04-27T00:40:01.000Z</updated>
-        <summary type="html"><![CDATA[다양한 기기에서 Pixel 사용경험을 가능하게 해주는 안드로이드 롬
-Pixel goodies(런쳐, 바탕화면, 아이콘, 폰트, 부팅 애니메이션) 및 모든 구글 앱들 포함
-12 Plus 버전이 최신
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPT-3 같은 대규모 언어 모델의 API사용에 관한 정리]]></title>
-        <id>https://news.hada.io/topic?id=6443</id>
-        <link href="https://news.hada.io/topic?id=6443"/>
-        <updated>2022-04-27T00:23:32.000Z</updated>
-        <summary type="html"><![CDATA[(Hosted) Large Language Models
-LLM은 어떻게 동작하는가
-왜 필요한가 : 어려운 문제 해결, 빠르고 쉬운 사용, 자원이 없는 회사들
-반대하는 이유는 : 비용, 모든 것을 해결하진 못함, 민감한 데이터, 과도할 수 있음, 나쁜 결과로 이어질수도
-툴과 플레이어들 : GPT-3 P...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Avoiding the Pitfalls of Nested Components in a Design System]]></title>
         <id>https://css-tricks.com/?p=365359</id>
         <link href="https://css-tricks.com/nested-components-in-a-design-system/"/>
@@ -74,69 +170,6 @@ Take the following “call to action” (<CTA />…
 Avoiding the Pitfalls of Nested Components in a Design System originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Dan Christofi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[생산성 있는 Review 문화가 되기까지]]></title>
-        <id>https://news.hada.io/topic?id=6442</id>
-        <link href="https://news.hada.io/topic?id=6442"/>
-        <updated>2022-04-26T07:24:20.000Z</updated>
-        <summary type="html"><![CDATA[Review 문화가 자리 잡게 된 배경
-
-Code Review를 통해 실수 줄이기
-Approve를 통해 follow up 확인하기
-Tech Spec도 Review 하자!
-Review를 더 많이 하다보니 생긴 문제들
-
-업무량 증가: 특히 오래된 팀원들의 review 업무량이 과도해짐
-느려...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[bore - 로컬호스트와 서버간에 TCP터널을 연결해주는 CLI 도구]]></title>
-        <id>https://news.hada.io/topic?id=6441</id>
-        <link href="https://news.hada.io/topic?id=6441"/>
-        <updated>2022-04-26T01:34:57.000Z</updated>
-        <summary type="html"><![CDATA[로컬호스트의 특정 포트를, 원격호스트의 특정 포트에 연결
-localtunnel 이나 ngrok과 유사하지만, 간단한 설치 & 셀프호스팅 가능하고 딱 TCP트래픽 전달 기능만 제공
-Rust 오픈소스. 맥/윈/리눅스 바이너리 제공
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS의 미래 : CSS Toggles]]></title>
-        <id>https://news.hada.io/topic?id=6440</id>
-        <link href="https://news.hada.io/topic?id=6440"/>
-        <updated>2022-04-26T00:38:40.000Z</updated>
-        <summary type="html"><![CDATA[현재 비공식 초안이 나왔고, 크로미엄이 프로토타이핑 시작 예정
-체크박스/라디오 버튼 같은 DOM 객체의 상태와 CSS를 연결하는 메커니즘
-html {  
-  toggle-root: lightswitch; /* 토글 생성. 0 (비활성화, 기본값) 과 1 (활성화)  */  
-}  
-  
-button {  
-  toggle-trigger: ...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[건강한 SaaS를 위한 40%룰 (2015)]]></title>
-        <id>https://news.hada.io/topic?id=6439</id>
-        <link href="https://news.hada.io/topic?id=6439"/>
-        <updated>2022-04-26T00:17:42.000Z</updated>
-        <summary type="html"><![CDATA[SaaS가 건강하게 성장하려면 "연 성장률 + 수익율 = 40%" 가 되어야 한다는 것
-즉, 1년에 40%씩 성장한다면 BEP만 맞아도 되고,
-20%만 성장한다면 20% 영업 마진이 나야 하며
-성장하지 않는다면 영업 마진이 40%여야 함.
-그러나 100%씩 성장한다면 60%씩 적자가 날 수 있...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
     </entry>
     <entry>
@@ -170,32 +203,6 @@ yarn add --dev ts-node
                     (adsbygoogle = window.adsbygoogle || []).push({});]]></summary>
         <author>
             <name>향로</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Litestream - SQLite 스트리밍 복제 도구]]></title>
-        <id>https://news.hada.io/topic?id=6438</id>
-        <link href="https://news.hada.io/topic?id=6438"/>
-        <updated>2022-04-26T00:00:10.000Z</updated>
-        <summary type="html"><![CDATA[백그라운드에서 SQLite DB데이터를 S3, GCS, SFTP, NFS 등 다른 스토리지로 안전하게(API만 이용) 복제
-Go 오픈소스. 맥/리눅스 바이너리 제공
-도커/쿠버네티스 및 Systemd/윈도우 서비스로 동작 가능]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트위터, 일론 머스크의 55조원 인수 제안을 수락]]></title>
-        <id>https://news.hada.io/topic?id=6437</id>
-        <link href="https://news.hada.io/topic?id=6437"/>
-        <updated>2022-04-25T23:31:40.000Z</updated>
-        <summary type="html"><![CDATA[이달 초에 일론이 제시한 $44b(주당 $54.2)인수 제안을 트위터 이사회에서 승인
-트위터 주가는 5.7% 상승한 $51.7로 마감
-일론 머스크의 트위터 지분 9% 매입 발표 전날 대비 40% 프리미엄이 붙은 것
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
     </entry>
     <entry>
@@ -646,58 +653,6 @@ Adding CDN Caching to a Vite Build originally published on CSS-Tricks. You shoul
 Tricks to Cut Corners Using CSS Mask and Clip-Path Properties originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6 Useful Bookmarklets to Boost Web Development]]></title>
-        <id>https://css-tricks.com/?p=364118</id>
-        <link href="https://css-tricks.com/web-development-bookmarklets/"/>
-        <updated>2022-03-28T18:15:41.000Z</updated>
-        <summary type="html"><![CDATA[A bookmarklet is a JavaScript-based bookmark that adds to a web browser. I’d like to show you some awesome web browser hacks to aid your web development workflow and how to convert those hacks into time-saving bookmarklets.
-Activating design mode
-…
-6 Useful Bookmarklets to Boost Web Development originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공급자 지향 플랫폼]]></title>
-        <id>https://jojoldu.tistory.com/660</id>
-        <link href="https://jojoldu.tistory.com/660"/>
-        <updated>2022-03-28T14:50:28.000Z</updated>
-        <summary type="html"><![CDATA[반응형
-
-                    
-                    (adsbygoogle = window.adsbygoogle || []).push({}); 
-               
-
-요즘 재밌게 보고 있는 웹툰 & 웹소설 중에 네이버 시리즈에 있는 화산귀환이 있다.
-웹 소설로 시작해서 그 인기에 힘입어 웹툰으로 나오게 된 작품이다.
-웹 소설의 경우 누적 조회수가 2.6억이다. 
-네이버 시리즈 최고 히트작 중 하나이다.
-처음엔 이 작품을 웹툰으로 시작했다. 
-웹툰으로 쭉 보다가 웹 소설로 전향했다. 
-이유는 아무리 돈이 있어도 회차가 더 나오지 않아 그 이상 볼 수가 없었기 때문이다.
-웹툰에서는 56화밖에 없는 이야기가 웹소설에서는 1183화까지 나와있다. 
-그러다보니 다음 이야기가 너무 궁금해서 웹소설로 넘어가서 보고 있다.
-그래서 요즘 웹툰은 그냥 작가님을 위한 응원의 마음으로 결제하고, 시간이 될 때마다 웹소설만 본다.
-요즘은 굳이 웹툰을 결제해야하나 생각중이다. 
-어차피 웹 소설로 다 본 내용이기 때문이다.
-이건 참 신기한 일이다. 
-웹툰은 컨텐츠를 소비하는 입장으로 장점이 많다.
-훨씬 보는 재미가 있다.
-훨씬 보기에 편하다.
-
-굳이 글을 다 읽을 필요가 없다
-컨텐츠 소비자로서 이만큼 장점이 있음에도 웹소설을 보는게 요즘의 내 모습이라는 것이다.
-왜 그럴까 생각해보면 결국 연재주기 때문이라고 생각했다.
-웹툰은 1주일에 1회도 어렵다.
-(작가님들을 위한 정기휴재는 이제 웹툰에서는 거의 필수로 적용된다)
-반면 웹소설은 1주일에 5~7회를 연재한다. 
-웬만해서는 휴재도 잘 나지 않는다.…]]></summary>
-        <author>
-            <name>향로</name>
         </author>
     </entry>
 </feed>
