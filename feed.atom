@@ -1,10 +1,92 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-29T01:50:25.602Z</id>
+    <id>urn:2022-04-30T01:51:07.341Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-29T01:50:25.602Z</updated>
+    <updated>2022-04-30T01:51:07.341Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Azurite - Azure Storage API 호환 서버 오픈소스]]></title>
+        <id>https://news.hada.io/topic?id=6465</id>
+        <link href="https://news.hada.io/topic?id=6465"/>
+        <updated>2022-04-30T00:50:02.000Z</updated>
+        <summary type="html"><![CDATA[Node.js 기반으로 Azure Storage를 로컬에서 사용 가능한 에뮬레이터
+MS가 직접 개발하여 대부분의 커맨드를 그대로 지원
+V2는 JS로 수작업 개발했고, V3는 TypeScript Server Code Generator를 이용(Azure SDK가 사용하는 Swagger를 약간 수정)
+윈/리눅스/맥
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Skia Canvas - Node.js용 HTML Canvas API]]></title>
+        <id>https://news.hada.io/topic?id=6464</id>
+        <link href="https://news.hada.io/topic?id=6464"/>
+        <updated>2022-04-30T00:26:01.000Z</updated>
+        <summary type="html"><![CDATA[Skia엔진을 이용해서 Canvas 엘리먼트를 에뮬레이트해서 서버에서 브라우저 없이 이용
+Rust 와 C++로 개발되어 빠름
+JPEG & PNG, PDF & SVG 포맷 지원
+파일/버퍼/dataURL 로 저장
+비동기 렌더링 및 File I/O를 위해 쓰레드와 채널(Rust) 사용
+캔버스내에...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글 내부에선 GNU AGPL 라이센스 오픈소스는 사용 불가]]></title>
+        <id>https://news.hada.io/topic?id=6463</id>
+        <link href="https://news.hada.io/topic?id=6463"/>
+        <updated>2022-04-30T00:08:02.000Z</updated>
+        <summary type="html"><![CDATA[AGPL 오픈소스를 사용하면 네트워크를 통해 연결되는 모든 것이 AGPL에 따라야함
+구글은 코드가 많이 통합되어 있어서 "AGPL 사용에 따른 위험이 얻게되는 이익보다 훨씬 큼"
+구글의 핵심제품(검색,Gmail,지도,유튜브)은 사용자가 원격 네트워크를 통해 상호작용 하므로
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating the DigitalOcean Logo in 3D With CSS]]></title>
+        <id>https://css-tricks.com/?p=365447</id>
+        <link href="https://css-tricks.com/creating-the-digitalocean-logo-in-3d-with-css/"/>
+        <updated>2022-04-29T14:37:10.000Z</updated>
+        <summary type="html"><![CDATA[Howdy y’all! Unless you’ve been living under a rock (and maybe even then), you’ve undoubtedly heard the news that CSS-Tricks, was acquired by DigitalOcean. Congratulations to everyone! 🥳
+As a little hurrah to commemorate the occasion, I wanted to …
+Creating the DigitalOcean Logo in 3D With CSS originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Jhey Tompkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI로 마케팅 콘텐츠를 만들고 관리하는 방식]]></title>
+        <id>https://news.hada.io/topic?id=6462</id>
+        <link href="https://news.hada.io/topic?id=6462"/>
+        <updated>2022-04-29T08:22:59.000Z</updated>
+        <summary type="html"><![CDATA[1.미국 기업 리프
+→ 영화나 드라마에 AI를 접목한 간접광고 제작 기술을 선보임
+→ 이 회사의 간접광고 제작 기술을 ‘플레이서’라고 함
+→ 이는 컴퓨터 비전, 머신러닝 기술로 영화나 드라마에서 간접광고가 등장하기에 좋은 위치를 탐지함
+→ 예를 들어, 드라마에서 간접광고가 나올 만]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=6461</id>
+        <link href="https://news.hada.io/topic?id=6461"/>
+        <updated>2022-04-29T02:55:11.000Z</updated>
+        <summary type="html"><![CDATA[이번 주말에 뭘 하려고 계획 중인지 편하게 얘기해 보아요.
+읽을 책, 가볼 곳, 해볼 것.. 어떤 것이든 좋습니다.
+지난 주말에 계획하셨던 일의 회고도 한번 남겨봐 주세요.]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[왜 회사들이 Heroku를 떠나는가(비용 제외)]]></title>
         <id>https://news.hada.io/topic?id=6460</id>
@@ -85,82 +167,6 @@ eB...]]></summary>
 Setting Up CloudFront to Host Your Web App originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Adam Rackis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Datasette - 개인용 데이터 웨어하우스 오픈소스]]></title>
-        <id>https://news.hada.io/topic?id=6455</id>
-        <link href="https://news.hada.io/topic?id=6455"/>
-        <updated>2022-04-28T01:39:01.000Z</updated>
-        <summary type="html"><![CDATA[다양한 종류의 데이터를 수집 & 분석하고 웹사이트로 퍼블리싱 하도록 도와주는 도구
-데이터 저널리스트, 과학자, 연구자등을 대상
-SQLite 기반이며, macOS용 데스크탑앱 제공
-수집한 데이터를 JSON/GraphQL API등으로 제공 가능. 인터랙티브 프로토타입의 백엔드로 사용하거나...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TextSynth - 무료 GPT-NeoX-20B 플레이그라운드]]></title>
-        <id>https://news.hada.io/topic?id=6454</id>
-        <link href="https://news.hada.io/topic?id=6454"/>
-        <updated>2022-04-28T01:15:04.000Z</updated>
-        <summary type="html"><![CDATA[FFMpeg, QEMU를 만든 Fabrice Bellard의 gpt2tc(GPT-2)를 이용해서 만든 SaaS
-GPT-J 6B / Boris(프랑스어), GPT-NeoX 20B, Fairseq GPT 13B 등의 모델 사용 가능
-무료 플랜은 30분당 30Req, 1req당 최대 200개 토큰
-유료 플랜은 모델별로 입력/생성 토큰당 가격
-
-GPT-NeoX ...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MIT 연구진, 종이처럼 얇은 스피커 개발]]></title>
-        <id>https://news.hada.io/topic?id=6453</id>
-        <link href="https://news.hada.io/topic?id=6453"/>
-        <updated>2022-04-28T00:50:53.000Z</updated>
-        <summary type="html"><![CDATA[모든 표면을 오디오 소스로 바꿀수 있는 종이처럼 얇은 스피커
-반대 위상의 소리를 생성하여 액티브 노이즈 캔슬링도 가능
-저전력 / 초경량
-영화관/놀이동산에서 3차원 오디오 제공하는데도 사용 가능
-기존과 전혀 다른 방식으로 설계
-
-개별로 진동하는 초소형 돔...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[칸 아카데미, 온라인 고등학교 Khan World School 시작]]></title>
-        <id>https://news.hada.io/topic?id=6452</id>
-        <link href="https://news.hada.io/topic?id=6452"/>
-        <updated>2022-04-28T00:21:14.000Z</updated>
-        <summary type="html"><![CDATA[ASU(아리조나 주립대)와 연계하여 2022년 8월부터 프로그램 시작
-전 세계 학생 대상 풀타임 온라인 학교(미국 기준 Grade 9 대상)
-자기 주도형 온라인 학습과정
-일일 세미나 진행
-소그룹 튜토리얼을 통한 개인화된 지도(Inspired by Oxford Tutorial System)
-온라...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GraalVM 22.1 릴리즈 - 개발자 경험 향상, 애플 실리콘 지원]]></title>
-        <id>https://news.hada.io/topic?id=6451</id>
-        <link href="https://news.hada.io/topic?id=6451"/>
-        <updated>2022-04-28T00:02:14.000Z</updated>
-        <summary type="html"><![CDATA[JDK11, JDK17 기반 빌드 포함
-Native Image 향상
-
-퀵 빌드 모드 제공(컴파일 81%, 전체 43% 속도 향상)
-기본 빌드도 26% 더 빨리지고, 바이너리 사이즈도 작아짐
-애플 실리콘 빌드 제공(프리뷰)
-
-포함 : JVM with Graal Compiler, Native Image, JavaS...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
     </entry>
     <entry>
@@ -656,17 +662,6 @@ Adding CDN Caching to a Vite Build originally published on CSS-Tricks. You shoul
 대부분의 빅테크 스타트업부터 작은 스타트업들까지, 개발자에 한해서는 TO를 정하고 채용하진 않…]]></summary>
         <author>
             <name>향로</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tricks to Cut Corners Using CSS Mask and Clip-Path Properties]]></title>
-        <id>https://css-tricks.com/?p=364279</id>
-        <link href="https://css-tricks.com/cut-corners-using-css-mask-and-clip-path-properties/"/>
-        <updated>2022-03-30T16:35:08.000Z</updated>
-        <summary type="html"><![CDATA[We recently covered creating fancy borders with CSS mask properties, and now we are going to cut the corners with CSS mask and clip-path! A lot of techniques exist to cut different shapes from the corners of any element. …
-Tricks to Cut Corners Using CSS Mask and Clip-Path Properties originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Temani Afif</name>
         </author>
     </entry>
 </feed>

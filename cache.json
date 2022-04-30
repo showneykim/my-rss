@@ -6,6 +6,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=365447",
+          "author": "Jhey Tompkins",
+          "description": "Howdy y’all! Unless you’ve been living under a rock (and maybe even then), you’ve undoubtedly heard the news that CSS-Tricks, was acquired by DigitalOcean. Congratulations to everyone! 🥳\nAs a little hurrah to commemorate the occasion, I wanted to …\nCreating the DigitalOcean Logo in 3D With CSS originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/creating-the-digitalocean-logo-in-3d-with-css/",
+          "publishedOn": "2022-04-29T14:37:10.000Z",
+          "wordCount": 2985,
+          "title": "Creating the DigitalOcean Logo in 3D With CSS",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365447"
+        },
+        {
           "id": "https://css-tricks.com/?p=365413",
           "author": "Adam Rackis",
           "description": "In my last article, we went over how to set up a web app that serves chunks and bundles of CSS and JavaScript from CloudFront. We integrated it into Vite so that when the app runs in a browser, …\nSetting Up CloudFront to Host Your Web App originally published on CSS-Tricks. You should get the newsletter.",
@@ -31,7 +41,7 @@
           "description": "When creating a component-based, front-end infrastructure, one of the biggest pain points I’ve personally encountered is making components that are both reusable and responsive when there are nested components within components.\nTake the following “call to action” (<CTA />…\nAvoiding the Pitfalls of Nested Components in a Design System originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/nested-components-in-a-design-system/",
           "publishedOn": "2022-04-26T14:30:20.000Z",
-          "wordCount": 2617,
+          "wordCount": 2813,
           "title": "Avoiding the Pitfalls of Nested Components in a Design System",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365359"
         },
@@ -84,16 +94,6 @@
           "wordCount": 1321,
           "title": "Adding CDN Caching to a Vite Build",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364166"
-        },
-        {
-          "id": "https://css-tricks.com/?p=364279",
-          "author": "Temani Afif",
-          "description": "We recently covered creating fancy borders with CSS mask properties, and now we are going to cut the corners with CSS mask and clip-path! A lot of techniques exist to cut different shapes from the corners of any element. …\nTricks to Cut Corners Using CSS Mask and Clip-Path Properties originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/cut-corners-using-css-mask-and-clip-path-properties/",
-          "publishedOn": "2022-03-30T16:35:08.000Z",
-          "wordCount": 3542,
-          "title": "Tricks to Cut Corners Using CSS Mask and Clip-Path Properties",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364279"
         }
       ]
     },
@@ -108,7 +108,7 @@
           "description": "MongoDB Developer Workshop 후기 (with Google Cloud) 오랜만에 포스팅입니다. 정말 오랜만이네요. 이직하고나서 딱히 쓸 글이 없었습니다. 다들 저보다 잘하시고, 연차는 쌓여가는데 초급 포스팅만 계속 하기도 좀 그랬습니다. 이번에 MongoDB Korea에서 오프라인 핸즈온 세미나를 열었습니다....\nThe post MongoDB Developer Workshop 후기 (with Google Cloud) appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/mongodb-developer-workshop-%ed%9b%84%ea%b8%b0-with-google-cloud/",
           "publishedOn": "2022-04-22T14:29:18.000Z",
-          "wordCount": 1024,
+          "wordCount": 1049,
           "title": "MongoDB Developer Workshop 후기 (with Google Cloud)",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2020/04/37_2019081518484308.jpg"
         }
@@ -119,6 +119,56 @@
       "feedUrl": "https://news.hada.io/rss/news",
       "siteUrl": "https://news.hada.io",
       "articles": [
+        {
+          "id": "https://news.hada.io/topic?id=6465",
+          "author": null,
+          "description": "Node.js 기반으로 Azure Storage를 로컬에서 사용 가능한 에뮬레이터\nMS가 직접 개발하여 대부분의 커맨드를 그대로 지원\nV2는 JS로 수작업 개발했고, V3는 TypeScript Server Code Generator를 이용(Azure SDK가 사용하는 Swagger를 약간 수정)\n윈/리눅스/맥\n\n...",
+          "link": "https://news.hada.io/topic?id=6465",
+          "publishedOn": "2022-04-30T00:50:02.000Z",
+          "wordCount": 92,
+          "title": "Azurite - Azure Storage API 호환 서버 오픈소스",
+          "imageUrl": "https://social.news.hada.io/topic/6465"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6464",
+          "author": null,
+          "description": "Skia엔진을 이용해서 Canvas 엘리먼트를 에뮬레이트해서 서버에서 브라우저 없이 이용\nRust 와 C++로 개발되어 빠름\nJPEG & PNG, PDF & SVG 포맷 지원\n파일/버퍼/dataURL 로 저장\n비동기 렌더링 및 File I/O를 위해 쓰레드와 채널(Rust) 사용\n캔버스내에...",
+          "link": "https://news.hada.io/topic?id=6464",
+          "publishedOn": "2022-04-30T00:26:01.000Z",
+          "wordCount": 123,
+          "title": "Skia Canvas - Node.js용 HTML Canvas API",
+          "imageUrl": "https://social.news.hada.io/topic/6464"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6463",
+          "author": null,
+          "description": "AGPL 오픈소스를 사용하면 네트워크를 통해 연결되는 모든 것이 AGPL에 따라야함\n구글은 코드가 많이 통합되어 있어서 \"AGPL 사용에 따른 위험이 얻게되는 이익보다 훨씬 큼\"\n구글의 핵심제품(검색,Gmail,지도,유튜브)은 사용자가 원격 네트워크를 통해 상호작용 하므로\n\n...",
+          "link": "https://news.hada.io/topic?id=6463",
+          "publishedOn": "2022-04-30T00:08:02.000Z",
+          "wordCount": 119,
+          "title": "구글 내부에선 GNU AGPL 라이센스 오픈소스는 사용 불가",
+          "imageUrl": "https://social.news.hada.io/topic/6463"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6462",
+          "author": null,
+          "description": "1.미국 기업 리프\n→ 영화나 드라마에 AI를 접목한 간접광고 제작 기술을 선보임\n→ 이 회사의 간접광고 제작 기술을 ‘플레이서’라고 함\n→ 이는 컴퓨터 비전, 머신러닝 기술로 영화나 드라마에서 간접광고가 등장하기에 좋은 위치를 탐지함\n→ 예를 들어, 드라마에서 간접광고가 나올 만",
+          "link": "https://news.hada.io/topic?id=6462",
+          "publishedOn": "2022-04-29T08:22:59.000Z",
+          "wordCount": 525,
+          "title": "AI로 마케팅 콘텐츠를 만들고 관리하는 방식",
+          "imageUrl": "https://social.news.hada.io/topic/6462"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6461",
+          "author": null,
+          "description": "이번 주말에 뭘 하려고 계획 중인지 편하게 얘기해 보아요.\n읽을 책, 가볼 곳, 해볼 것.. 어떤 것이든 좋습니다.\n지난 주말에 계획하셨던 일의 회고도 한번 남겨봐 주세요.",
+          "link": "https://news.hada.io/topic?id=6461",
+          "publishedOn": "2022-04-29T02:55:11.000Z",
+          "wordCount": 137,
+          "title": "Ask GN: 이번 주말에 뭐 하시나요?",
+          "imageUrl": "https://social.news.hada.io/topic/6461"
+        },
         {
           "id": "https://news.hada.io/topic?id=6460",
           "author": null,
@@ -135,7 +185,7 @@
           "description": "자신의 모든 메트릭들을 수집해서 하나의 DB에 저장하는 서비스를 만들고 오픈소스로 공개\n100여개의 데이터 포인트를 수집 : 수면/운동/식단/소셜라이프/컴퓨터 사용량 및 날씨 등등\n수동...",
           "link": "https://news.hada.io/topic?id=6459",
           "publishedOn": "2022-04-29T01:02:21.000Z",
-          "wordCount": 190,
+          "wordCount": 198,
           "title": "내 인생 전체를 하나의 DB에 담는 방법",
           "imageUrl": "https://social.news.hada.io/topic/6459"
         },
@@ -168,56 +218,6 @@
           "wordCount": 129,
           "title": "애플, 미국내에서 수리 셀프 서비스 시작",
           "imageUrl": "https://social.news.hada.io/topic/6456"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6455",
-          "author": null,
-          "description": "다양한 종류의 데이터를 수집 & 분석하고 웹사이트로 퍼블리싱 하도록 도와주는 도구\n데이터 저널리스트, 과학자, 연구자등을 대상\nSQLite 기반이며, macOS용 데스크탑앱 제공\n수집한 데이터를 JSON/GraphQL API등으로 제공 가능. 인터랙티브 프로토타입의 백엔드로 사용하거나...",
-          "link": "https://news.hada.io/topic?id=6455",
-          "publishedOn": "2022-04-28T01:39:01.000Z",
-          "wordCount": 203,
-          "title": "Datasette - 개인용 데이터 웨어하우스 오픈소스",
-          "imageUrl": "https://social.news.hada.io/topic/6455"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6454",
-          "author": null,
-          "description": "FFMpeg, QEMU를 만든 Fabrice Bellard의 gpt2tc(GPT-2)를 이용해서 만든 SaaS\nGPT-J 6B / Boris(프랑스어), GPT-NeoX 20B, Fairseq GPT 13B 등의 모델 사용 가능\n무료 플랜은 30분당 30Req, 1req당 최대 200개 토큰\n유료 플랜은 모델별로 입력/생성 토큰당 가격\n\nGPT-NeoX ...",
-          "link": "https://news.hada.io/topic?id=6454",
-          "publishedOn": "2022-04-28T01:15:04.000Z",
-          "wordCount": 355,
-          "title": "TextSynth - 무료 GPT-NeoX-20B 플레이그라운드",
-          "imageUrl": "https://social.news.hada.io/topic/6454"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6453",
-          "author": null,
-          "description": "모든 표면을 오디오 소스로 바꿀수 있는 종이처럼 얇은 스피커\n반대 위상의 소리를 생성하여 액티브 노이즈 캔슬링도 가능\n저전력 / 초경량\n영화관/놀이동산에서 3차원 오디오 제공하는데도 사용 가능\n기존과 전혀 다른 방식으로 설계\n\n개별로 진동하는 초소형 돔...",
-          "link": "https://news.hada.io/topic?id=6453",
-          "publishedOn": "2022-04-28T00:50:53.000Z",
-          "wordCount": 170,
-          "title": "MIT 연구진, 종이처럼 얇은 스피커 개발",
-          "imageUrl": "https://social.news.hada.io/topic/6453"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6452",
-          "author": null,
-          "description": "ASU(아리조나 주립대)와 연계하여 2022년 8월부터 프로그램 시작\n전 세계 학생 대상 풀타임 온라인 학교(미국 기준 Grade 9 대상)\n자기 주도형 온라인 학습과정\n일일 세미나 진행\n소그룹 튜토리얼을 통한 개인화된 지도(Inspired by Oxford Tutorial System)\n온라...",
-          "link": "https://news.hada.io/topic?id=6452",
-          "publishedOn": "2022-04-28T00:21:14.000Z",
-          "wordCount": 101,
-          "title": "칸 아카데미, 온라인 고등학교 Khan World School 시작",
-          "imageUrl": "https://social.news.hada.io/topic/6452"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6451",
-          "author": null,
-          "description": "JDK11, JDK17 기반 빌드 포함\nNative Image 향상\n\n퀵 빌드 모드 제공(컴파일 81%, 전체 43% 속도 향상)\n기본 빌드도 26% 더 빨리지고, 바이너리 사이즈도 작아짐\n애플 실리콘 빌드 제공(프리뷰)\n\n포함 : JVM with Graal Compiler, Native Image, JavaS...",
-          "link": "https://news.hada.io/topic?id=6451",
-          "publishedOn": "2022-04-28T00:02:14.000Z",
-          "wordCount": 171,
-          "title": "GraalVM 22.1 릴리즈 - 개발자 경험 향상, 애플 실리콘 지원",
-          "imageUrl": "https://social.news.hada.io/topic/6451"
         }
       ]
     },
