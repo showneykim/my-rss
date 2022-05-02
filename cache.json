@@ -120,6 +120,46 @@
       "siteUrl": "https://news.hada.io",
       "articles": [
         {
+          "id": "https://news.hada.io/topic?id=6474",
+          "author": null,
+          "description": "Pyodide(WASM) 기반으로 서버 도움없이 브라우저내에서 파이썬 코드를 실행\n<py-script> 로 코드 실행, <py-repl> 로 REPL을 컴포넌트 생성\n다양한 파이썬 패키지 이용가능 : numpy, pandas, scikit-learn..\nPython 과 Javascript 객체간 양방향 통신 지원\n버...",
+          "link": "https://news.hada.io/topic?id=6474",
+          "publishedOn": "2022-05-02T01:13:01.000Z",
+          "wordCount": 100,
+          "title": "PyScript - HTML에서 Python 코드 실행하기",
+          "imageUrl": "https://social.news.hada.io/topic/6474"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6473",
+          "author": null,
+          "description": "색을 제거한 모노크롬 형태라 마음대로 색을 입혀서 사용\n가변글꼴(Variable)이어서 light/bold 등 지정 가능\n3663개의 이모지를 흑백에 맞춰서 다양하게 변형\n\n국기는 2자리 약자로 표시 : KR,US\n사람을 나타내는 이모지는 예전 blob(블롭, 얼룩 모양)로\n...",
+          "link": "https://news.hada.io/topic?id=6473",
+          "publishedOn": "2022-05-02T00:39:51.000Z",
+          "wordCount": 98,
+          "title": "구글, 흑백 이모지 폰트 Noto Emoji 공개",
+          "imageUrl": "https://social.news.hada.io/topic/6473"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6472",
+          "author": null,
+          "description": "런칭 후 걸린 시간 : Good : Great\n$1m ARR : 1년 : 9개월\n$1m ARR 이후 : Good : Great\nY+1 : 3x YoY(10% MoM) : 5x YoY (16% MoM)\nY+2 : 3x YoY(10%) : 4x YoY(12%)\nY+3 : 2x YoY(5%) : 3x YoY(10%)\nY+4 : 2x YoY(5%) : 3x YoY(8%)\n...",
+          "link": "https://news.hada.io/topic?id=6472",
+          "publishedOn": "2022-05-02T00:28:05.000Z",
+          "wordCount": 158,
+          "title": "투자자들이 기대하는 훌륭한 성장률은 얼마일까",
+          "imageUrl": "https://social.news.hada.io/topic/6472"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6471",
+          "author": null,
+          "description": "NFT 거래의 절반 가까이를 차지하고 있는 PFP(Profile Picture) NFT\nPFP NFT는 개성 표현 측면에서 카카오톡 이모티콘이 성장해온 길을 따라가고 있다.\n그렇다면 PFP NFT의 미래는 무엇일까?\n기존 이모티콘 시장과 PFP\n\n유명 작가로 시작\n명확한 취향과 선택지 제...",
+          "link": "https://news.hada.io/topic?id=6471",
+          "publishedOn": "2022-05-01T02:33:10.000Z",
+          "wordCount": 172,
+          "title": "카톡 이모티콘을 통해 바라본 PFP NFT의 미래",
+          "imageUrl": "https://social.news.hada.io/topic/6471"
+        },
+        {
           "id": "https://news.hada.io/topic?id=6470",
           "author": null,
           "description": "구글, IBM, Lyft가 2017년 5월에 Istio 0.1 출시하고 5년\n같이 가는 프로젝트인 Kubernetes와 Envoy가 속한 CNCF에 들어가는 것이 맞다고 판단\nIstio는 Google Cloud의 미래 핵심이며, 계속 지원할 것\n\n...",
@@ -178,46 +218,6 @@
           "wordCount": 92,
           "title": "Azurite - Azure Storage API 호환 서버 오픈소스",
           "imageUrl": "https://social.news.hada.io/topic/6465"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6464",
-          "author": null,
-          "description": "Skia엔진을 이용해서 Canvas 엘리먼트를 에뮬레이트해서 서버에서 브라우저 없이 이용\nRust 와 C++로 개발되어 빠름\nJPEG & PNG, PDF & SVG 포맷 지원\n파일/버퍼/dataURL 로 저장\n비동기 렌더링 및 File I/O를 위해 쓰레드와 채널(Rust) 사용\n캔버스내에...",
-          "link": "https://news.hada.io/topic?id=6464",
-          "publishedOn": "2022-04-30T00:26:01.000Z",
-          "wordCount": 123,
-          "title": "Skia Canvas - Node.js용 HTML Canvas API",
-          "imageUrl": "https://social.news.hada.io/topic/6464"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6463",
-          "author": null,
-          "description": "AGPL 오픈소스를 사용하면 네트워크를 통해 연결되는 모든 것이 AGPL에 따라야함\n구글은 코드가 많이 통합되어 있어서 \"AGPL 사용에 따른 위험이 얻게되는 이익보다 훨씬 큼\"\n구글의 핵심제품(검색,Gmail,지도,유튜브)은 사용자가 원격 네트워크를 통해 상호작용 하므로\n\n...",
-          "link": "https://news.hada.io/topic?id=6463",
-          "publishedOn": "2022-04-30T00:08:02.000Z",
-          "wordCount": 119,
-          "title": "구글 내부에선 GNU AGPL 라이센스 오픈소스는 사용 불가",
-          "imageUrl": "https://social.news.hada.io/topic/6463"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6462",
-          "author": null,
-          "description": "1.미국 기업 리프\n→ 영화나 드라마에 AI를 접목한 간접광고 제작 기술을 선보임\n→ 이 회사의 간접광고 제작 기술을 ‘플레이서’라고 함\n→ 이는 컴퓨터 비전, 머신러닝 기술로 영화나 드라마에서 간접광고가 등장하기에 좋은 위치를 탐지함\n→ 예를 들어, 드라마에서 간접광고가 나올 만",
-          "link": "https://news.hada.io/topic?id=6462",
-          "publishedOn": "2022-04-29T08:22:59.000Z",
-          "wordCount": 525,
-          "title": "AI로 마케팅 콘텐츠를 만들고 관리하는 방식",
-          "imageUrl": "https://social.news.hada.io/topic/6462"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6461",
-          "author": null,
-          "description": "이번 주말에 뭘 하려고 계획 중인지 편하게 얘기해 보아요.\n읽을 책, 가볼 곳, 해볼 것.. 어떤 것이든 좋습니다.\n지난 주말에 계획하셨던 일의 회고도 한번 남겨봐 주세요.",
-          "link": "https://news.hada.io/topic?id=6461",
-          "publishedOn": "2022-04-29T02:55:11.000Z",
-          "wordCount": 137,
-          "title": "Ask GN: 이번 주말에 뭐 하시나요?",
-          "imageUrl": "https://social.news.hada.io/topic/6461"
         }
       ]
     },
@@ -305,16 +305,6 @@
           "wordCount": 1140,
           "title": "SonarCloud를 통한 Node.js & Jest 프로젝트 정적 분석하기",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FvPwAV%2FbtryxqyRKlb%2FVZofSSmvQY0OrwXIG41S8K%2Fimg.png"
-        },
-        {
-          "id": "https://jojoldu.tistory.com/661",
-          "author": "향로",
-          "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\n\n아래는 인프랩의 채용 담당자를 통해 전달받은 메일의 답변을 옮긴것입니다. \n비슷한 메일이 많이 와서 블로그에도 정리하게 되었습니다.\n\n안녕하세요 A님. \n인프랩 개발팀입니다. :)\n퇴근하고나서 이메일 주신 내용을 읽어보고나서 답변을 정리해서 전달드립니다.\n먼저 오해를 풀고자 하는데요. \n오랫동안 Node.js 백엔드 개발자 채용 공고가 계속 올라가 있는 이유는 원하는 사람의 채용이 안되어서 그런것은 아닙니다 ^^;\n저희 같은 IT 기반의 스타트업은 대기업처럼 개발자에 한해서는 TO를 정해놓고 채용을 진행하지 않습니다.\n저희가 생각한 인재분이라면 Unlimit으로 채용을 하기 때문에 계속해서 열려있습니다.\n구체적으로 말씀드리면,\n작년 채용공고를 올리고 현재 6개월정도가 지났습니다.\n그 사이에 당시 4명이였던 Node.js 백엔드 개발자팀은 현재 9명이 되었습니다.\n그리고 2주뒤에 또 한명의 Node.js 개발자분이 합류하실 예정이라 곧 10명의 팀이 됩니다.\n즉, 6~7개월만에 2.5배 인원이 된 것입니다.\n그렇지만, 아직도 더 많은 인원을 채용하고자 합니다.\n현재 개발팀 규모의 몇배의 인원으로 확장할 계획이고, 아마도 몇년간 채용공고가 내려갈 일은 없을것 같습니다 :)\n이건 비단 저희 인프랩만 그런것은 아닙니다.\n대부분의 빅테크 스타트업부터 작은 스타트업들까지, 개발자에 한해서는 TO를 정하고 채용하진 않…",
-          "link": "https://jojoldu.tistory.com/661",
-          "publishedOn": "2022-04-01T17:30:37.000Z",
-          "wordCount": 909,
-          "title": "어떻게 준비하면 인프랩에 입사할 수 있나요.",
-          "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fb9CgFl%2FbtrycPMDZgY%2FBzy5q4K7gx5sjNywmHOUI1%2Fimg.png"
         }
       ]
     }
