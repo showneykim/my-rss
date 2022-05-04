@@ -1,10 +1,111 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-03T01:51:08.428Z</id>
+    <id>urn:2022-05-04T01:48:37.090Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-03T01:51:08.428Z</updated>
+    <updated>2022-05-04T01:48:37.090Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Replibyte - 개발DB를 실제 데이터로 채우는 도구]]></title>
+        <id>https://news.hada.io/topic?id=6488</id>
+        <link href="https://news.hada.io/topic?id=6488"/>
+        <updated>2022-05-04T01:31:46.000Z</updated>
+        <summary type="html"><![CDATA[프로덕션 DB에서 데이터 일부를 추출하여 개발 DB에 채워주는 도구
+민감한 데이터(이름/생일/이메일/전화번호/사용자명 등)는 가짜 데이터로 치환하는 트랜스포머 제공
+PostgreSQL, MySQL, MongoDB 지원
+온더플라이 압축 및 암호화
+특정 필드용 커스텀 WASM 트랜스포머 사...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[광고 효율을 높이기 위한 도착 페이지 최적화 전략]]></title>
+        <id>https://news.hada.io/topic?id=6487</id>
+        <link href="https://news.hada.io/topic?id=6487"/>
+        <updated>2022-05-04T00:49:51.000Z</updated>
+        <summary type="html"><![CDATA[도착(Destination)페이지는 3초내에 로딩
+광고와 도착 페이지 간에 연속성이 있을 것(마치 다음 단계인것 처럼)
+고객의 공통적인 질문들을 찾고, 그 대답들을 도착 페이지에 보여줄 것
+고객의 위치에서 경험해 보고 평가해 볼 것
+모바일 친화적인 인터페이스 디자인
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[암호화폐 스타트업 월드코인이 벌인 기만극…피해는 누가 봤나]]></title>
+        <id>https://news.hada.io/topic?id=6486</id>
+        <link href="https://news.hada.io/topic?id=6486"/>
+        <updated>2022-05-04T00:28:41.000Z</updated>
+        <summary type="html"><![CDATA[YC의 샘 알트먼의 참여, A16z 와 Khosla의 투자, 크롬오브를 통한 홍채 스캔 등으로 유명해졌던 Worldcoin의 현재 상태 정리
+"스타트업인 월드코인은 공정하게 분배된 암호화폐 기반의 '보편적 기본 소득'을 주겠다고 약속했다. 하지만 지금까지 한 일이라고는 이런 약속을 미끼로 얻은 가난]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WatermelonDB - React와 RN을 위한 Reactive DB 프레임워크]]></title>
+        <id>https://news.hada.io/topic?id=6485</id>
+        <link href="https://news.hada.io/topic?id=6485"/>
+        <updated>2022-05-04T00:05:09.000Z</updated>
+        <summary type="html"><![CDATA[Lazy Load 지원으로 데이터 크기에 상관없이 빠른 앱 런치
+SQLite 기반이지만 Fully Observable
+멀티플랫폼 : iOS, Android, Web, Node.js
+Offline-first : 백엔드와 동기화
+JS API로 다른 프레임워크에도 사용 가능
+RxJS API 지원
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adding Custom GitHub Badges to Your Repo]]></title>
+        <id>https://css-tricks.com/?p=364932</id>
+        <link href="https://css-tricks.com/adding-custom-github-badges-to-your-repo/"/>
+        <updated>2022-05-03T14:28:00.000Z</updated>
+        <summary type="html"><![CDATA[If you’ve spent time looking at open-source repos on GitHub, you’ve probably noticed that most of them use badges in their README files. Take the official React repository, for instance. There are GitHub badges all over the README file that communicate important dynamic info, like the latest released …
+Adding Custom GitHub Badges to Your Repo originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Nick Sypteras</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zaplib post-mortem: WASM은 생각보다 빠르지 않습니다.]]></title>
+        <id>https://news.hada.io/topic?id=6484</id>
+        <link href="https://news.hada.io/topic?id=6484"/>
+        <updated>2022-05-03T07:45:20.000Z</updated>
+        <summary type="html"><![CDATA[원래 Zaplib라는 프로젝트는 다음 가설에서 시작했음.
+JS와 브라우저는 느림
+점진적으로 JS를 Rust/Wasm으로 이식하면 앱 속도가 빨라짐
+작은 포팅에서 시작 및 확장하여 전체 앱을 전환
+장기적으로 이것은 차세대 스택("앱을 위한 Unity")으로 진화
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[프로그래머 이력서와 코딩 과제, 검토자는 무얼볼까?]]></title>
+        <id>https://news.hada.io/topic?id=6483</id>
+        <link href="https://news.hada.io/topic?id=6483"/>
+        <updated>2022-05-03T01:58:14.000Z</updated>
+        <summary type="html"><![CDATA[프로그래머 이력서와 코딩 과제를 '검토자' 관점에서 분석한 글
+기술 활용 능력
+서비스 운영 경험(트러블슈팅 등)과 거기에서 배운 것
+기술 점수
+기술 점수 적지 마세요
+깃헙
+커밋 메시지 작성 능력
+협업에 어울]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[InfoQ의 2022년 중점 기술들]]></title>
         <id>https://news.hada.io/topic?id=6482</id>
@@ -55,42 +156,13 @@ HN의 Teach me someth]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: Ask GN: 이달의 구인공고 - 멤버를 찾고 계신가요 ? (2022년 5월)]]></title>
+        <title type="html"><![CDATA[Ask GN: 이달의 구인공고 - 멤버를 찾고 계신가요 ? (2022년 5월)]]></title>
         <id>https://news.hada.io/topic?id=6479</id>
         <link href="https://news.hada.io/topic?id=6479"/>
         <updated>2022-05-03T00:34:48.000Z</updated>
         <summary type="html"><![CDATA[현재 근무중인 스타트업에서 같이 일할 멤버를 찾고 계시다면
 멤버가 직접 1개의 댓글로 홍보를 작성"하시면 됩니다. (서치펌 등은 불가)
 이 글은 매월 첫번째 월요일에 등록]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fleet - Rust용 빠른 빌드 도구]]></title>
-        <id>https://news.hada.io/topic?id=6478</id>
-        <link href="https://news.hada.io/topic?id=6478"/>
-        <updated>2022-05-03T00:24:02.000Z</updated>
-        <summary type="html"><![CDATA[Cargo 보다 최대 5배까지 빠른 빌드 지원
-현재는 rustc nightly 만 지원
-맥/윈도우/리눅스
-GitHub CI/CD 연동 지원
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reloadium - Advanced Hot Reloading for Python]]></title>
-        <id>https://news.hada.io/topic?id=6477</id>
-        <link href="https://news.hada.io/topic?id=6477"/>
-        <updated>2022-05-03T00:07:01.000Z</updated>
-        <summary type="html"><![CDATA[파이썬 앱에 "Edit and Continue" 기능을 제공
-함수가 변경될 때마다 재실행
-PyCharm용 플러그인 제공(다른 에디터도 지원예정)
-Django / Flask 도 저장할 때마다 뷰/앱을 리로드 & 리프레시
-SqlAlchemy 에서 함수를 재실행한 후 필요 없는 객체 생기지 않도...]]></summary>
         <author>
             <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
@@ -167,63 +239,6 @@ Jira version Update API
                     (adsbygoogle = window.adsbygoogle || []).push({});]]></summary>
         <author>
             <name>향로</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차세대 CFO의 부상 : 재무의 역할 및 기술 스택의 진화]]></title>
-        <id>https://news.hada.io/topic?id=6476</id>
-        <link href="https://news.hada.io/topic?id=6476"/>
-        <updated>2022-05-02T02:02:01.000Z</updated>
-        <summary type="html"><![CDATA[재무 전문가들이 주요 의사결정 활동을 지원하기 위해, 비즈니스 전반에 직접 참여 하도록 요청받고 있음
-CJ/NDR/FinOps 등 CFO의 책임 영역이 확장
-실시간 데이터 접근, 데이터 사이언스 활용, 자동화 등 다양한 기술적인 과제들이 생기고 있음 → 재무 리더를 위한 기술 스택이 필요
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS/Azure/GCP 외에 알아둬야 할 클라우드 업체는?]]></title>
-        <id>https://news.hada.io/topic?id=6475</id>
-        <link href="https://news.hada.io/topic?id=6475"/>
-        <updated>2022-05-02T01:31:01.000Z</updated>
-        <summary type="html"><![CDATA[누군가 SaaS를 첨부터 만든다면 알아둘 업체는 뭐가 있을까요?라는 HN의 질문에 대한 답들
-Cloudflare : 가격 경쟁력과 빠른 기술적 대응
-Hetzner/OVH : 클라우드는 아니지만, 빠르고 저렴한 Dedicated 서버
-Oracle Cloud : 전송량 많을 때 좋음(Zoom이 사용)
-Vultr/Digital]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PyScript - HTML에서 Python 코드 실행하기]]></title>
-        <id>https://news.hada.io/topic?id=6474</id>
-        <link href="https://news.hada.io/topic?id=6474"/>
-        <updated>2022-05-02T01:13:01.000Z</updated>
-        <summary type="html"><![CDATA[Pyodide(WASM) 기반으로 서버 도움없이 브라우저내에서 파이썬 코드를 실행
-<py-script> 로 코드 실행, <py-repl> 로 REPL을 컴포넌트 생성
-다양한 파이썬 패키지 이용가능 : numpy, pandas, scikit-learn..
-Python 과 Javascript 객체간 양방향 통신 지원
-버...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구글, 흑백 이모지 폰트 Noto Emoji 공개]]></title>
-        <id>https://news.hada.io/topic?id=6473</id>
-        <link href="https://news.hada.io/topic?id=6473"/>
-        <updated>2022-05-02T00:39:51.000Z</updated>
-        <summary type="html"><![CDATA[색을 제거한 모노크롬 형태라 마음대로 색을 입혀서 사용
-가변글꼴(Variable)이어서 light/bold 등 지정 가능
-3663개의 이모지를 흑백에 맞춰서 다양하게 변형
-
-국기는 2자리 약자로 표시 : KR,US
-사람을 나타내는 이모지는 예전 blob(블롭, 얼룩 모양)로
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
     </entry>
     <entry>

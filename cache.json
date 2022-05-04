@@ -6,12 +6,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=364932",
+          "author": "Nick Sypteras",
+          "description": "If you’ve spent time looking at open-source repos on GitHub, you’ve probably noticed that most of them use badges in their README files. Take the official React repository, for instance. There are GitHub badges all over the README file that communicate important dynamic info, like the latest released …\nAdding Custom GitHub Badges to Your Repo originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/adding-custom-github-badges-to-your-repo/",
+          "publishedOn": "2022-05-03T14:28:00.000Z",
+          "wordCount": 1811,
+          "title": "Adding Custom GitHub Badges to Your Repo",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364932"
+        },
+        {
           "id": "https://css-tricks.com/?p=365491",
           "author": "Preethi",
           "description": "In design, reflections are stylized mirror images of objects. Even though they are not as popular as shadows, they have their moments — just think about the first time you explored the different font formats in MS Word or PowerPoint: …\nCreating Realistic Reflections With CSS originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/creating-realistic-reflections-with-css/",
           "publishedOn": "2022-05-02T14:14:07.000Z",
-          "wordCount": 1006,
+          "wordCount": 1042,
           "title": "Creating Realistic Reflections With CSS",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365491"
         },
@@ -21,7 +31,7 @@
           "description": "Howdy y’all! Unless you’ve been living under a rock (and maybe even then), you’ve undoubtedly heard the news that CSS-Tricks, was acquired by DigitalOcean. Congratulations to everyone! 🥳\nAs a little hurrah to commemorate the occasion, I wanted to …\nCreating the DigitalOcean Logo in 3D With CSS originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/creating-the-digitalocean-logo-in-3d-with-css/",
           "publishedOn": "2022-04-29T14:37:10.000Z",
-          "wordCount": 3009,
+          "wordCount": 3010,
           "title": "Creating the DigitalOcean Logo in 3D With CSS",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365447"
         },
@@ -31,7 +41,7 @@
           "description": "In my last article, we went over how to set up a web app that serves chunks and bundles of CSS and JavaScript from CloudFront. We integrated it into Vite so that when the app runs in a browser, …\nSetting Up CloudFront to Host Your Web App originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/setting-up-cloudfront-to-host-your-web-app/",
           "publishedOn": "2022-04-28T14:42:48.000Z",
-          "wordCount": 2861,
+          "wordCount": 2862,
           "title": "Setting Up CloudFront to Host Your Web App",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365413"
         },
@@ -41,7 +51,7 @@
           "description": "A while ago, Geoff wrote an article about a cool hover effect. The effect relies on a combination of CSS pseudo-elements, transforms, and transitions. A lot of comments have shown that the same effect can be done using background …\nCool Hover Effects That Use Background Properties originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/cool-hover-effects-using-background-properties/",
           "publishedOn": "2022-04-27T14:20:07.000Z",
-          "wordCount": 3530,
+          "wordCount": 3531,
           "title": "Cool Hover Effects That Use Background Properties",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365383"
         },
@@ -51,7 +61,7 @@
           "description": "When creating a component-based, front-end infrastructure, one of the biggest pain points I’ve personally encountered is making components that are both reusable and responsive when there are nested components within components.\nTake the following “call to action” (<CTA />…\nAvoiding the Pitfalls of Nested Components in a Design System originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/nested-components-in-a-design-system/",
           "publishedOn": "2022-04-26T14:30:20.000Z",
-          "wordCount": 2813,
+          "wordCount": 2814,
           "title": "Avoiding the Pitfalls of Nested Components in a Design System",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365359"
         },
@@ -61,7 +71,7 @@
           "description": "Automated front-end tests are awesome. We can write a test with code to visit a page — or load up just a single component — and have that test code click on things or type text like a user would, …\nWriting Strong Front-end Test Element Locators originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/front-end-test-element-locators/",
           "publishedOn": "2022-04-22T18:45:38.000Z",
-          "wordCount": 4459,
+          "wordCount": 4460,
           "title": "Writing Strong Front-end Test Element Locators",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364218"
         },
@@ -71,7 +81,7 @@
           "description": "In the 15 or so years since I started making WordPress websites, nothing has had more of an impact on my productivity — and my ability to enjoy front-end development — than adding Tailwind CSS to my workflow (and it …\nAdding Tailwind CSS to New and Existing WordPress Themes originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/adding-tailwind-css-to-wordpress-themes/",
           "publishedOn": "2022-04-20T15:30:29.000Z",
-          "wordCount": 3707,
+          "wordCount": 3708,
           "title": "Adding Tailwind CSS to New and Existing WordPress Themes",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364880"
         },
@@ -81,7 +91,7 @@
           "description": "Mermaid diagrams and flowcharts have been gaining traction, especially with GitHub’s announcement that they are natively supported in Markdown. Let’s take a look at what they are, how to use them, and just as importantly: why.\nJust like you …\nMaking Mermaid Diagrams in Markdown originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/making-mermaid-diagrams-in-markdown/",
           "publishedOn": "2022-04-18T16:01:08.000Z",
-          "wordCount": 1556,
+          "wordCount": 1557,
           "title": "Making Mermaid Diagrams in Markdown",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364908"
         },
@@ -91,7 +101,7 @@
           "description": "I’m a big fan of movies by J.J. Abrams. I enjoy their tight plots, quippy dialog, and of course: anamorphic lens flares. Filmmakers like Abrams use lens flare to add a dash of ‘homemade’ realism to their movies, …\nAdd a CSS Lens Flare to Photos for a Bright Touch originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/add-a-css-lens-flare-to-photos-for-a-bright-touch/",
           "publishedOn": "2022-04-12T17:10:13.000Z",
-          "wordCount": 1570,
+          "wordCount": 1571,
           "title": "Add a CSS Lens Flare to Photos for a Bright Touch",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364385"
         },
@@ -101,7 +111,7 @@
           "description": "Content delivery networks, or CDNs, allow you to improve the delivery of your website’s static resources, most notably, with CDN caching. They do this by serving your content from edge locations, which are located all over the world. When a …\nAdding CDN Caching to a Vite Build originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/adding-cdn-caching-to-a-vite-build/",
           "publishedOn": "2022-04-04T18:25:23.000Z",
-          "wordCount": 1321,
+          "wordCount": 1322,
           "title": "Adding CDN Caching to a Vite Build",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364166"
         }
@@ -118,7 +128,7 @@
           "description": "MongoDB Developer Workshop 후기 (with Google Cloud) 오랜만에 포스팅입니다. 정말 오랜만이네요. 이직하고나서 딱히 쓸 글이 없었습니다. 다들 저보다 잘하시고, 연차는 쌓여가는데 초급 포스팅만 계속 하기도 좀 그랬습니다. 이번에 MongoDB Korea에서 오프라인 핸즈온 세미나를 열었습니다....\nThe post MongoDB Developer Workshop 후기 (with Google Cloud) appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/mongodb-developer-workshop-%ed%9b%84%ea%b8%b0-with-google-cloud/",
           "publishedOn": "2022-04-22T14:29:18.000Z",
-          "wordCount": 1057,
+          "wordCount": 1063,
           "title": "MongoDB Developer Workshop 후기 (with Google Cloud)",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2020/04/37_2019081518484308.jpg"
         }
@@ -129,6 +139,66 @@
       "feedUrl": "https://news.hada.io/rss/news",
       "siteUrl": "https://news.hada.io",
       "articles": [
+        {
+          "id": "https://news.hada.io/topic?id=6488",
+          "author": null,
+          "description": "프로덕션 DB에서 데이터 일부를 추출하여 개발 DB에 채워주는 도구\n민감한 데이터(이름/생일/이메일/전화번호/사용자명 등)는 가짜 데이터로 치환하는 트랜스포머 제공\nPostgreSQL, MySQL, MongoDB 지원\n온더플라이 압축 및 암호화\n특정 필드용 커스텀 WASM 트랜스포머 사...",
+          "link": "https://news.hada.io/topic?id=6488",
+          "publishedOn": "2022-05-04T01:31:46.000Z",
+          "wordCount": 121,
+          "title": "Replibyte - 개발DB를 실제 데이터로 채우는 도구",
+          "imageUrl": "https://social.news.hada.io/topic/6488"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6487",
+          "author": null,
+          "description": "도착(Destination)페이지는 3초내에 로딩\n광고와 도착 페이지 간에 연속성이 있을 것(마치 다음 단계인것 처럼)\n고객의 공통적인 질문들을 찾고, 그 대답들을 도착 페이지에 보여줄 것\n고객의 위치에서 경험해 보고 평가해 볼 것\n모바일 친화적인 인터페이스 디자인\n...",
+          "link": "https://news.hada.io/topic?id=6487",
+          "publishedOn": "2022-05-04T00:49:51.000Z",
+          "wordCount": 167,
+          "title": "광고 효율을 높이기 위한 도착 페이지 최적화 전략",
+          "imageUrl": "https://social.news.hada.io/topic/6487"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6486",
+          "author": null,
+          "description": "YC의 샘 알트먼의 참여, A16z 와 Khosla의 투자, 크롬오브를 통한 홍채 스캔 등으로 유명해졌던 Worldcoin의 현재 상태 정리\n\"스타트업인 월드코인은 공정하게 분배된 암호화폐 기반의 '보편적 기본 소득'을 주겠다고 약속했다. 하지만 지금까지 한 일이라고는 이런 약속을 미끼로 얻은 가난",
+          "link": "https://news.hada.io/topic?id=6486",
+          "publishedOn": "2022-05-04T00:28:41.000Z",
+          "wordCount": 105,
+          "title": "암호화폐 스타트업 월드코인이 벌인 기만극…피해는 누가 봤나",
+          "imageUrl": "https://social.news.hada.io/topic/6486"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6485",
+          "author": null,
+          "description": "Lazy Load 지원으로 데이터 크기에 상관없이 빠른 앱 런치\nSQLite 기반이지만 Fully Observable\n멀티플랫폼 : iOS, Android, Web, Node.js\nOffline-first : 백엔드와 동기화\nJS API로 다른 프레임워크에도 사용 가능\nRxJS API 지원\n\n...",
+          "link": "https://news.hada.io/topic?id=6485",
+          "publishedOn": "2022-05-04T00:05:09.000Z",
+          "wordCount": 93,
+          "title": "WatermelonDB - React와 RN을 위한 Reactive DB 프레임워크",
+          "imageUrl": "https://social.news.hada.io/topic/6485"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6484",
+          "author": null,
+          "description": "원래 Zaplib라는 프로젝트는 다음 가설에서 시작했음.\nJS와 브라우저는 느림\n점진적으로 JS를 Rust/Wasm으로 이식하면 앱 속도가 빨라짐\n작은 포팅에서 시작 및 확장하여 전체 앱을 전환\n장기적으로 이것은 차세대 스택(\"앱을 위한 Unity\")으로 진화\n\n...",
+          "link": "https://news.hada.io/topic?id=6484",
+          "publishedOn": "2022-05-03T07:45:20.000Z",
+          "wordCount": 180,
+          "title": "Zaplib post-mortem: WASM은 생각보다 빠르지 않습니다.",
+          "imageUrl": "https://social.news.hada.io/topic/6484"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6483",
+          "author": null,
+          "description": "프로그래머 이력서와 코딩 과제를 '검토자' 관점에서 분석한 글\n기술 활용 능력\n서비스 운영 경험(트러블슈팅 등)과 거기에서 배운 것\n기술 점수\n기술 점수 적지 마세요\n깃헙\n커밋 메시지 작성 능력\n협업에 어울",
+          "link": "https://news.hada.io/topic?id=6483",
+          "publishedOn": "2022-05-03T01:58:14.000Z",
+          "wordCount": 168,
+          "title": "프로그래머 이력서와 코딩 과제, 검토자는 무얼볼까?",
+          "imageUrl": "https://social.news.hada.io/topic/6483"
+        },
         {
           "id": "https://news.hada.io/topic?id=6482",
           "author": null,
@@ -155,7 +225,7 @@
           "description": "남들이 모를만한 것인데 재미나게 얘기해주실 수 있는 것들 있지 않으신가요?\nHN의 Teach me someth",
           "link": "https://news.hada.io/topic?id=6480",
           "publishedOn": "2022-05-03T00:43:24.000Z",
-          "wordCount": 93,
+          "wordCount": 433,
           "title": "Ask GN: 새로운 것 하나만 알려주세요",
           "imageUrl": "https://social.news.hada.io/topic/6480"
         },
@@ -165,69 +235,9 @@
           "description": "현재 근무중인 스타트업에서 같이 일할 멤버를 찾고 계시다면\n멤버가 직접 1개의 댓글로 홍보를 작성\"하시면 됩니다. (서치펌 등은 불가)\n이 글은 매월 첫번째 월요일에 등록",
           "link": "https://news.hada.io/topic?id=6479",
           "publishedOn": "2022-05-03T00:34:48.000Z",
-          "wordCount": 196,
-          "title": "Ask GN: Ask GN: 이달의 구인공고 - 멤버를 찾고 계신가요 ? (2022년 5월)",
+          "wordCount": 389,
+          "title": "Ask GN: 이달의 구인공고 - 멤버를 찾고 계신가요 ? (2022년 5월)",
           "imageUrl": "https://social.news.hada.io/topic/6479"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6478",
-          "author": null,
-          "description": "Cargo 보다 최대 5배까지 빠른 빌드 지원\n현재는 rustc nightly 만 지원\n맥/윈도우/리눅스\nGitHub CI/CD 연동 지원\n\n...",
-          "link": "https://news.hada.io/topic?id=6478",
-          "publishedOn": "2022-05-03T00:24:02.000Z",
-          "wordCount": 85,
-          "title": "Fleet - Rust용 빠른 빌드 도구",
-          "imageUrl": "https://social.news.hada.io/topic/6478"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6477",
-          "author": null,
-          "description": "파이썬 앱에 \"Edit and Continue\" 기능을 제공\n함수가 변경될 때마다 재실행\nPyCharm용 플러그인 제공(다른 에디터도 지원예정)\nDjango / Flask 도 저장할 때마다 뷰/앱을 리로드 & 리프레시\nSqlAlchemy 에서 함수를 재실행한 후 필요 없는 객체 생기지 않도...",
-          "link": "https://news.hada.io/topic?id=6477",
-          "publishedOn": "2022-05-03T00:07:01.000Z",
-          "wordCount": 100,
-          "title": "Reloadium - Advanced Hot Reloading for Python",
-          "imageUrl": "https://social.news.hada.io/topic/6477"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6476",
-          "author": null,
-          "description": "재무 전문가들이 주요 의사결정 활동을 지원하기 위해, 비즈니스 전반에 직접 참여 하도록 요청받고 있음\nCJ/NDR/FinOps 등 CFO의 책임 영역이 확장\n실시간 데이터 접근, 데이터 사이언스 활용, 자동화 등 다양한 기술적인 과제들이 생기고 있음 → 재무 리더를 위한 기술 스택이 필요\n...",
-          "link": "https://news.hada.io/topic?id=6476",
-          "publishedOn": "2022-05-02T02:02:01.000Z",
-          "wordCount": 427,
-          "title": "차세대 CFO의 부상 : 재무의 역할 및 기술 스택의 진화",
-          "imageUrl": "https://social.news.hada.io/topic/6476"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6475",
-          "author": null,
-          "description": "누군가 SaaS를 첨부터 만든다면 알아둘 업체는 뭐가 있을까요?라는 HN의 질문에 대한 답들\nCloudflare : 가격 경쟁력과 빠른 기술적 대응\nHetzner/OVH : 클라우드는 아니지만, 빠르고 저렴한 Dedicated 서버\nOracle Cloud : 전송량 많을 때 좋음(Zoom이 사용)\nVultr/Digital",
-          "link": "https://news.hada.io/topic?id=6475",
-          "publishedOn": "2022-05-02T01:31:01.000Z",
-          "wordCount": 140,
-          "title": "AWS/Azure/GCP 외에 알아둬야 할 클라우드 업체는?",
-          "imageUrl": "https://social.news.hada.io/topic/6475"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6474",
-          "author": null,
-          "description": "Pyodide(WASM) 기반으로 서버 도움없이 브라우저내에서 파이썬 코드를 실행\n<py-script> 로 코드 실행, <py-repl> 로 REPL을 컴포넌트 생성\n다양한 파이썬 패키지 이용가능 : numpy, pandas, scikit-learn..\nPython 과 Javascript 객체간 양방향 통신 지원\n버...",
-          "link": "https://news.hada.io/topic?id=6474",
-          "publishedOn": "2022-05-02T01:13:01.000Z",
-          "wordCount": 100,
-          "title": "PyScript - HTML에서 Python 코드 실행하기",
-          "imageUrl": "https://social.news.hada.io/topic/6474"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6473",
-          "author": null,
-          "description": "색을 제거한 모노크롬 형태라 마음대로 색을 입혀서 사용\n가변글꼴(Variable)이어서 light/bold 등 지정 가능\n3663개의 이모지를 흑백에 맞춰서 다양하게 변형\n\n국기는 2자리 약자로 표시 : KR,US\n사람을 나타내는 이모지는 예전 blob(블롭, 얼룩 모양)로\n...",
-          "link": "https://news.hada.io/topic?id=6473",
-          "publishedOn": "2022-05-02T00:39:51.000Z",
-          "wordCount": 98,
-          "title": "구글, 흑백 이모지 폰트 Noto Emoji 공개",
-          "imageUrl": "https://social.news.hada.io/topic/6473"
         }
       ]
     },
