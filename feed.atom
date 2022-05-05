@@ -1,10 +1,118 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-04T01:48:37.090Z</id>
+    <id>urn:2022-05-05T01:43:49.066Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-04T01:48:37.090Z</updated>
+    <updated>2022-05-05T01:43:49.066Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[초보자를 위한 Axios vs Fetch]]></title>
+        <id>https://news.hada.io/topic?id=6495</id>
+        <link href="https://news.hada.io/topic?id=6495"/>
+        <updated>2022-05-05T00:52:02.000Z</updated>
+        <summary type="html"><![CDATA[Promise 기반의 HTTP Client 인 두 API를 비교
+문법 비교 부터 JSONPlaceholder API를 호출했을 때의 차이점을 보여주며 설명
+
+에러처리/타임아웃/취소
+둘다 비동기처리지만, 속도는 fetch가 다소 빠름
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[magic-trace - 프로세스 동작을 고해상도로 추적하는 도구]]></title>
+        <id>https://news.hada.io/topic?id=6494</id>
+        <link href="https://news.hada.io/topic?id=6494"/>
+        <updated>2022-05-05T00:36:01.000Z</updated>
+        <summary type="html"><![CDATA[Intel Processor Trace를 사용. 샘플링이 아닌 High-Resolution Trace
+2%~10% 정도의 오버헤드
+모든 함수 호출을 약 40ns 안에 추적
+콜스택 타임라인을 10ms 안에 렌더링
+지원 환경
+
+Perf에 의존 하므로 Linux만 지원
+인텔 Skylake 이후의 CPU들]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wireit - npm 스크립트를 더 똑똑하고 효율적으로 업그레이드]]></title>
+        <id>https://news.hada.io/topic?id=6493</id>
+        <link href="https://news.hada.io/topic?id=6493"/>
+        <updated>2022-05-05T00:15:01.000Z</updated>
+        <summary type="html"><![CDATA[구글 오픈소스(아직 알파단계)
+npm run 에서 그대로 동작
+npm script들 간에 종속성을 병렬로 자동 실행
+스크립트를 Watch하고 변경되면 지속적으로 재실행
+아웃풋을 로컬 및 GitHub Actions 에서 캐슁
+싱글 패키지, npm workspace, monorepo 에서...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Syntax Highlighting (and More!) With Prism on a Static Site]]></title>
+        <id>https://css-tricks.com/?p=365510</id>
+        <link href="https://css-tricks.com/syntax-highlighting-prism-on-a-next-js-site/"/>
+        <updated>2022-05-04T14:16:43.000Z</updated>
+        <summary type="html"><![CDATA[So, you’ve decided to build a blog with Next.js. Like any dev blogger, you’d like to have code snippets in your posts that are formatted nicely with syntax highlighting. Perhaps you also want to display line numbers in the …
+Syntax Highlighting (and More!) With Prism on a Static Site originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Adam Rackis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 저번 달에 어떤 걸 해내셨나요?]]></title>
+        <id>https://news.hada.io/topic?id=6492</id>
+        <link href="https://news.hada.io/topic?id=6492"/>
+        <updated>2022-05-04T06:10:08.000Z</updated>
+        <summary type="html"><![CDATA[최근에 일일 회고에 점점 부담이 느껴서, TIL(Today I Learned!)에 인상을 받아 대충 정한 TIMI( Today i Made it! )를 적는걸로 대체하려고 생각했는데요. 오늘 한 일 중 자그마한 성공이나 성과를 자축하고, 기록하는 걸로 바꾸려고 다짐했어요.
+그런데 다른 분들의 성과와 성공도 궁금하더라고요! 그래서 A]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OPT - Meta가 공개한 GPT-3 규모(175B)의 언어 모델]]></title>
+        <id>https://news.hada.io/topic?id=6491</id>
+        <link href="https://news.hada.io/topic?id=6491"/>
+        <updated>2022-05-04T03:41:14.000Z</updated>
+        <summary type="html"><![CDATA["Open Pre-trained Transformer Language Model"
+이런 대규모 언어 모델은 상당한 자본이 들어야 구축이 가능하며, API 접근만 공개해서는 연구하기가 어려움
+관심있는 연구자들을 위해 전체 모델과 실험용 코드, 로그북을 모두 다운로드 가능하게 공개
+GPT-3 보다 Carbon]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[번아웃 예방하기 : 관리자를 위한 툴킷]]></title>
+        <id>https://news.hada.io/topic?id=6490</id>
+        <link href="https://news.hada.io/topic?id=6490"/>
+        <updated>2022-05-04T02:20:26.000Z</updated>
+        <summary type="html"><![CDATA[GitLab 경영진들이 직접 정리한, 매니저를 위한 팀원 번아웃 방지 전략 12가지
+휴식 장려 : 반차 정도도 도움이 됨. 휴가를 계획하라고 장려하기
+압박 낮추기 : 번아웃이 우려되는 사람에게 목표 및 OKR 압박을 줄이고, 목표에 대해 묻는것 조차도 줄이기
+더 긍정적으로 : 솔직히 매니]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인도, RISC-V CPU 로드맵 발표 및 2023년 제품 출시 예정]]></title>
+        <id>https://news.hada.io/topic?id=6489</id>
+        <link href="https://news.hada.io/topic?id=6489"/>
+        <updated>2022-05-04T01:53:56.000Z</updated>
+        <summary type="html"><![CDATA[정부 주도의 Digital India RISC-V(DIR-V) 프로그램 시작
+DIR-V는 인도의 반도체 스타트업을 촉진할 것이며, 인도를 반도체 국가로 만들겠다는 나렌드라 모디 총리의 미션 중 일부
+스타트업, 학계, 글로벌 메이저 연계로 세계 RI...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Replibyte - 개발DB를 실제 데이터로 채우는 도구]]></title>
         <id>https://news.hada.io/topic?id=6488</id>
@@ -46,23 +154,6 @@ PostgreSQL, MySQL, MongoDB 지원
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[WatermelonDB - React와 RN을 위한 Reactive DB 프레임워크]]></title>
-        <id>https://news.hada.io/topic?id=6485</id>
-        <link href="https://news.hada.io/topic?id=6485"/>
-        <updated>2022-05-04T00:05:09.000Z</updated>
-        <summary type="html"><![CDATA[Lazy Load 지원으로 데이터 크기에 상관없이 빠른 앱 런치
-SQLite 기반이지만 Fully Observable
-멀티플랫폼 : iOS, Android, Web, Node.js
-Offline-first : 백엔드와 동기화
-JS API로 다른 프레임워크에도 사용 가능
-RxJS API 지원
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Adding Custom GitHub Badges to Your Repo]]></title>
         <id>https://css-tricks.com/?p=364932</id>
         <link href="https://css-tricks.com/adding-custom-github-badges-to-your-repo/"/>
@@ -71,100 +162,6 @@ RxJS API 지원
 Adding Custom GitHub Badges to Your Repo originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Nick Sypteras</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zaplib post-mortem: WASM은 생각보다 빠르지 않습니다.]]></title>
-        <id>https://news.hada.io/topic?id=6484</id>
-        <link href="https://news.hada.io/topic?id=6484"/>
-        <updated>2022-05-03T07:45:20.000Z</updated>
-        <summary type="html"><![CDATA[원래 Zaplib라는 프로젝트는 다음 가설에서 시작했음.
-JS와 브라우저는 느림
-점진적으로 JS를 Rust/Wasm으로 이식하면 앱 속도가 빨라짐
-작은 포팅에서 시작 및 확장하여 전체 앱을 전환
-장기적으로 이것은 차세대 스택("앱을 위한 Unity")으로 진화
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프로그래머 이력서와 코딩 과제, 검토자는 무얼볼까?]]></title>
-        <id>https://news.hada.io/topic?id=6483</id>
-        <link href="https://news.hada.io/topic?id=6483"/>
-        <updated>2022-05-03T01:58:14.000Z</updated>
-        <summary type="html"><![CDATA[프로그래머 이력서와 코딩 과제를 '검토자' 관점에서 분석한 글
-기술 활용 능력
-서비스 운영 경험(트러블슈팅 등)과 거기에서 배운 것
-기술 점수
-기술 점수 적지 마세요
-깃헙
-커밋 메시지 작성 능력
-협업에 어울]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[InfoQ의 2022년 중점 기술들]]></title>
-        <id>https://news.hada.io/topic?id=6482</id>
-        <link href="https://news.hada.io/topic?id=6482"/>
-        <updated>2022-05-03T01:17:04.000Z</updated>
-        <summary type="html"><![CDATA[InfoQ는 자신들의 About에 올해 기사 편집시에 집중할 기술들을 정리해두고 매년 업데이트
-Innovators
-Rust
-WASM
-eBPF
-ML@Edge
-Project Loom
-Java 16
-DeFi
-Federated Machine Learning
-Differentiated Privacy]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Luckysheet - JS 스프레드시트 라이브러리 오픈소스]]></title>
-        <id>https://news.hada.io/topic?id=6481</id>
-        <link href="https://news.hada.io/topic?id=6481"/>
-        <updated>2022-05-03T01:01:52.000Z</updated>
-        <summary type="html"><![CDATA[엑셀과 비슷한 기능 제공
-
-포맷팅, 셀/행/열 단위 조작, undo/redo/copy/paste 및 드래그앤드롭
-Formula 및 펑션 지원
-필터 및 소팅
-피봇 테이블, 차트, 댓글, 협업 편집, 사진 넣기..
-V3는 TypeScript로 재작성 중
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 새로운 것 하나만 알려주세요]]></title>
-        <id>https://news.hada.io/topic?id=6480</id>
-        <link href="https://news.hada.io/topic?id=6480"/>
-        <updated>2022-05-03T00:43:24.000Z</updated>
-        <summary type="html"><![CDATA[남들이 모를만한 것인데 재미나게 얘기해주실 수 있는 것들 있지 않으신가요?
-HN의 Teach me someth]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 이달의 구인공고 - 멤버를 찾고 계신가요 ? (2022년 5월)]]></title>
-        <id>https://news.hada.io/topic?id=6479</id>
-        <link href="https://news.hada.io/topic?id=6479"/>
-        <updated>2022-05-03T00:34:48.000Z</updated>
-        <summary type="html"><![CDATA[현재 근무중인 스타트업에서 같이 일할 멤버를 찾고 계시다면
-멤버가 직접 1개의 댓글로 홍보를 작성"하시면 됩니다. (서치펌 등은 불가)
-이 글은 매월 첫번째 월요일에 등록]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
     </entry>
     <entry>
@@ -681,47 +678,6 @@ assertThat(a).is(1)
                     (adsbygoogle = window.adsbygoogle || []).push({});]]></summary>
         <author>
             <name>향로</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SonarCloud를 통한 Node.js & Jest 프로젝트 정적 분석하기]]></title>
-        <id>https://jojoldu.tistory.com/662</id>
-        <link href="https://jojoldu.tistory.com/662"/>
-        <updated>2022-04-05T12:21:24.000Z</updated>
-        <summary type="html"><![CDATA[반응형
-
-                    
-                    (adsbygoogle = window.adsbygoogle || []).push({}); 
-               
-
-일반적으로 프로젝트의 코드 퀄리티를 올리기 위해서는 단위 테스트를 비롯해 여러가지 장치를 도입한다. 
-이때 가장 가성비가 좋은 작업이 정적 코드 분석을 도입하는 것이다.
-정적 코드 분석은 코드내에서 발견할 수 있는 코드 스멜, 잠재적인 결함, 컨벤션 체크, 보안 취약점 등을 코드 레벨에서 분석해서 레포팅 해준다.
-이런 정적 코드 분석 도구에는 여러가지가 있지만, 가장 많은 사용자들이 사용하는 도구는 SonarQube(소나큐브) 이다.
-기존에는 설치형외에는 지원하지 않았지만, 
-최근에는 SaaS 형태로 SonarCloud 가 출시되었다.
-Github에 공개된 저장소에 한해서는 소나 클라우드의 전체 기능을 무료로 사용할 수 있다. 
-그래서 개인 프로젝트는 SonarCloud로 편하게 연동하고, 무료로 정적 코드 분석을 받아 볼 수 있다.
-회사에서 사용한다면 SonarQube를 추천한다. 
-아직까지 SonarQube 만큼의 기능이 SonarCloud에서 지원하지 못하고 있다.
-SonarCloud or SonarQube? - Guidance on Choosing One for Your Team
-그래서 이번 시간에는 이 SonarCloud와 Node.js (with. TypeScript) 프로젝트를 연동해서 정적 분석을 진행해보겠다.
-모든 코드는 Github 에 있다.
-1. SonarCloud 연동
-먼저 SonarC…]]></summary>
-        <author>
-            <name>향로</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adding CDN Caching to a Vite Build]]></title>
-        <id>https://css-tricks.com/?p=364166</id>
-        <link href="https://css-tricks.com/adding-cdn-caching-to-a-vite-build/"/>
-        <updated>2022-04-04T18:25:23.000Z</updated>
-        <summary type="html"><![CDATA[Content delivery networks, or CDNs, allow you to improve the delivery of your website’s static resources, most notably, with CDN caching. They do this by serving your content from edge locations, which are located all over the world. When a …
-Adding CDN Caching to a Vite Build originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Adam Rackis</name>
         </author>
     </entry>
 </feed>
