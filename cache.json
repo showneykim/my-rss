@@ -21,7 +21,7 @@
           "description": "If you’ve spent time looking at open-source repos on GitHub, you’ve probably noticed that most of them use badges in their README files. Take the official React repository, for instance. There are GitHub badges all over the README file that communicate important dynamic info, like the latest released …\nAdding Custom GitHub Badges to Your Repo originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/adding-custom-github-badges-to-your-repo/",
           "publishedOn": "2022-05-03T14:28:00.000Z",
-          "wordCount": 1917,
+          "wordCount": 1939,
           "title": "Adding Custom GitHub Badges to Your Repo",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364932"
         },
@@ -31,7 +31,7 @@
           "description": "In design, reflections are stylized mirror images of objects. Even though they are not as popular as shadows, they have their moments — just think about the first time you explored the different font formats in MS Word or PowerPoint: …\nCreating Realistic Reflections With CSS originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/creating-realistic-reflections-with-css/",
           "publishedOn": "2022-05-02T14:14:07.000Z",
-          "wordCount": 1109,
+          "wordCount": 1121,
           "title": "Creating Realistic Reflections With CSS",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365491"
         },
@@ -128,7 +128,7 @@
           "description": "MongoDB Developer Workshop 후기 (with Google Cloud) 오랜만에 포스팅입니다. 정말 오랜만이네요. 이직하고나서 딱히 쓸 글이 없었습니다. 다들 저보다 잘하시고, 연차는 쌓여가는데 초급 포스팅만 계속 하기도 좀 그랬습니다. 이번에 MongoDB Korea에서 오프라인 핸즈온 세미나를 열었습니다....\nThe post MongoDB Developer Workshop 후기 (with Google Cloud) appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/mongodb-developer-workshop-%ed%9b%84%ea%b8%b0-with-google-cloud/",
           "publishedOn": "2022-04-22T14:29:18.000Z",
-          "wordCount": 1063,
+          "wordCount": 1065,
           "title": "MongoDB Developer Workshop 후기 (with Google Cloud)",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2020/04/37_2019081518484308.jpg"
         }
@@ -139,6 +139,36 @@
       "feedUrl": "https://news.hada.io/rss/news",
       "siteUrl": "https://news.hada.io",
       "articles": [
+        {
+          "id": "https://news.hada.io/topic?id=6498",
+          "author": null,
+          "description": "실제 프로덕션에서 SQLite만으로 DB를 구성해 봤는지에 대한 질문 (dqlite,rqlite 포함)\nSaaS에서 월 수백만 히트까지는 문제 없이 사용 중. Litestream으로 지속 백업해서 프로덕션에서도 문제 없음\nSQLite보다는 그냥 Postgres를 선택하는게 더 낫다는 댓글이 많음\nSQLite를 쓰면 안",
+          "link": "https://news.hada.io/topic?id=6498",
+          "publishedOn": "2022-05-06T00:54:02.000Z",
+          "wordCount": 160,
+          "title": "SQLite를 Primary DB로 사용해보신 분?",
+          "imageUrl": "https://social.news.hada.io/topic/6498"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6497",
+          "author": null,
+          "description": "Hasura : Haskell을 가장 많이 사용. 첫번째 Haskell 유니콘\nGitHub : Semantic 구현에 사용\nMeta : Haskell 재단의 큰 후원자. Sigma, Glean, Haxl 등 프로젝트\nMicrosoft : Bond 에서 사용\nIOHK : Cardano 블록체인과 스마트 컨트랙트 언어인 Plutus에서 사용\n...",
+          "link": "https://news.hada.io/topic?id=6497",
+          "publishedOn": "2022-05-06T00:35:01.000Z",
+          "wordCount": 185,
+          "title": "Haskell을 Production에서 사용중인 회사들",
+          "imageUrl": "https://social.news.hada.io/topic/6497"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6496",
+          "author": null,
+          "description": "웹페이지를 ePub으로 만들어주는 크롬 & FF 확장\n가독성을 위해서 광고 및 기타 방해요소들을 제거\n변환할 웹페이지를 브라우저 탭들로 다 열어둔 다음, 버튼 누르면 탭 순서대로 페이지를 가지는 이북을 생성\nepub / mobi 지원\n\nKindle ,iBooks,Google Play Books, Ca...",
+          "link": "https://news.hada.io/topic?id=6496",
+          "publishedOn": "2022-05-06T00:11:01.000Z",
+          "wordCount": 103,
+          "title": "EpubPress - 웹컨텐츠를 e북으로 만들기",
+          "imageUrl": "https://social.news.hada.io/topic/6496"
+        },
         {
           "id": "https://news.hada.io/topic?id=6495",
           "author": null,
@@ -208,36 +238,6 @@
           "wordCount": 153,
           "title": "인도, RISC-V CPU 로드맵 발표 및 2023년 제품 출시 예정",
           "imageUrl": "https://social.news.hada.io/topic/6489"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6488",
-          "author": null,
-          "description": "프로덕션 DB에서 데이터 일부를 추출하여 개발 DB에 채워주는 도구\n민감한 데이터(이름/생일/이메일/전화번호/사용자명 등)는 가짜 데이터로 치환하는 트랜스포머 제공\nPostgreSQL, MySQL, MongoDB 지원\n온더플라이 압축 및 암호화\n특정 필드용 커스텀 WASM 트랜스포머 사...",
-          "link": "https://news.hada.io/topic?id=6488",
-          "publishedOn": "2022-05-04T01:31:46.000Z",
-          "wordCount": 121,
-          "title": "Replibyte - 개발DB를 실제 데이터로 채우는 도구",
-          "imageUrl": "https://social.news.hada.io/topic/6488"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6487",
-          "author": null,
-          "description": "도착(Destination)페이지는 3초내에 로딩\n광고와 도착 페이지 간에 연속성이 있을 것(마치 다음 단계인것 처럼)\n고객의 공통적인 질문들을 찾고, 그 대답들을 도착 페이지에 보여줄 것\n고객의 위치에서 경험해 보고 평가해 볼 것\n모바일 친화적인 인터페이스 디자인\n...",
-          "link": "https://news.hada.io/topic?id=6487",
-          "publishedOn": "2022-05-04T00:49:51.000Z",
-          "wordCount": 167,
-          "title": "광고 효율을 높이기 위한 도착 페이지 최적화 전략",
-          "imageUrl": "https://social.news.hada.io/topic/6487"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6486",
-          "author": null,
-          "description": "YC의 샘 알트먼의 참여, A16z 와 Khosla의 투자, 크롬오브를 통한 홍채 스캔 등으로 유명해졌던 Worldcoin의 현재 상태 정리\n\"스타트업인 월드코인은 공정하게 분배된 암호화폐 기반의 '보편적 기본 소득'을 주겠다고 약속했다. 하지만 지금까지 한 일이라고는 이런 약속을 미끼로 얻은 가난",
-          "link": "https://news.hada.io/topic?id=6486",
-          "publishedOn": "2022-05-04T00:28:41.000Z",
-          "wordCount": 105,
-          "title": "암호화폐 스타트업 월드코인이 벌인 기만극…피해는 누가 봤나",
-          "imageUrl": "https://social.news.hada.io/topic/6486"
         }
       ]
     },

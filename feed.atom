@@ -1,10 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-05T01:43:49.066Z</id>
+    <id>urn:2022-05-06T01:24:32.945Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-05T01:43:49.066Z</updated>
+    <updated>2022-05-06T01:24:32.945Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[SQLite를 Primary DB로 사용해보신 분?]]></title>
+        <id>https://news.hada.io/topic?id=6498</id>
+        <link href="https://news.hada.io/topic?id=6498"/>
+        <updated>2022-05-06T00:54:02.000Z</updated>
+        <summary type="html"><![CDATA[실제 프로덕션에서 SQLite만으로 DB를 구성해 봤는지에 대한 질문 (dqlite,rqlite 포함)
+SaaS에서 월 수백만 히트까지는 문제 없이 사용 중. Litestream으로 지속 백업해서 프로덕션에서도 문제 없음
+SQLite보다는 그냥 Postgres를 선택하는게 더 낫다는 댓글이 많음
+SQLite를 쓰면 안]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Haskell을 Production에서 사용중인 회사들]]></title>
+        <id>https://news.hada.io/topic?id=6497</id>
+        <link href="https://news.hada.io/topic?id=6497"/>
+        <updated>2022-05-06T00:35:01.000Z</updated>
+        <summary type="html"><![CDATA[Hasura : Haskell을 가장 많이 사용. 첫번째 Haskell 유니콘
+GitHub : Semantic 구현에 사용
+Meta : Haskell 재단의 큰 후원자. Sigma, Glean, Haxl 등 프로젝트
+Microsoft : Bond 에서 사용
+IOHK : Cardano 블록체인과 스마트 컨트랙트 언어인 Plutus에서 사용
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EpubPress - 웹컨텐츠를 e북으로 만들기]]></title>
+        <id>https://news.hada.io/topic?id=6496</id>
+        <link href="https://news.hada.io/topic?id=6496"/>
+        <updated>2022-05-06T00:11:01.000Z</updated>
+        <summary type="html"><![CDATA[웹페이지를 ePub으로 만들어주는 크롬 & FF 확장
+가독성을 위해서 광고 및 기타 방해요소들을 제거
+변환할 웹페이지를 브라우저 탭들로 다 열어둔 다음, 버튼 누르면 탭 순서대로 페이지를 가지는 이북을 생성
+epub / mobi 지원
+
+Kindle ,iBooks,Google Play Books, Ca...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[초보자를 위한 Axios vs Fetch]]></title>
         <id>https://news.hada.io/topic?id=6495</id>
@@ -109,46 +152,6 @@ GPT-3 보다 Carbon]]></summary>
         <summary type="html"><![CDATA[정부 주도의 Digital India RISC-V(DIR-V) 프로그램 시작
 DIR-V는 인도의 반도체 스타트업을 촉진할 것이며, 인도를 반도체 국가로 만들겠다는 나렌드라 모디 총리의 미션 중 일부
 스타트업, 학계, 글로벌 메이저 연계로 세계 RI...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Replibyte - 개발DB를 실제 데이터로 채우는 도구]]></title>
-        <id>https://news.hada.io/topic?id=6488</id>
-        <link href="https://news.hada.io/topic?id=6488"/>
-        <updated>2022-05-04T01:31:46.000Z</updated>
-        <summary type="html"><![CDATA[프로덕션 DB에서 데이터 일부를 추출하여 개발 DB에 채워주는 도구
-민감한 데이터(이름/생일/이메일/전화번호/사용자명 등)는 가짜 데이터로 치환하는 트랜스포머 제공
-PostgreSQL, MySQL, MongoDB 지원
-온더플라이 압축 및 암호화
-특정 필드용 커스텀 WASM 트랜스포머 사...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[광고 효율을 높이기 위한 도착 페이지 최적화 전략]]></title>
-        <id>https://news.hada.io/topic?id=6487</id>
-        <link href="https://news.hada.io/topic?id=6487"/>
-        <updated>2022-05-04T00:49:51.000Z</updated>
-        <summary type="html"><![CDATA[도착(Destination)페이지는 3초내에 로딩
-광고와 도착 페이지 간에 연속성이 있을 것(마치 다음 단계인것 처럼)
-고객의 공통적인 질문들을 찾고, 그 대답들을 도착 페이지에 보여줄 것
-고객의 위치에서 경험해 보고 평가해 볼 것
-모바일 친화적인 인터페이스 디자인
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[암호화폐 스타트업 월드코인이 벌인 기만극…피해는 누가 봤나]]></title>
-        <id>https://news.hada.io/topic?id=6486</id>
-        <link href="https://news.hada.io/topic?id=6486"/>
-        <updated>2022-05-04T00:28:41.000Z</updated>
-        <summary type="html"><![CDATA[YC의 샘 알트먼의 참여, A16z 와 Khosla의 투자, 크롬오브를 통한 홍채 스캔 등으로 유명해졌던 Worldcoin의 현재 상태 정리
-"스타트업인 월드코인은 공정하게 분배된 암호화폐 기반의 '보편적 기본 소득'을 주겠다고 약속했다. 하지만 지금까지 한 일이라고는 이런 약속을 미끼로 얻은 가난]]></summary>
         <author>
             <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
