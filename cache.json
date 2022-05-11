@@ -6,12 +6,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=365650",
+          "author": "Md Shuvo",
+          "description": "By now, you are probably familiar with one or more programming languages. But have you ever wondered how you could create your own programming language? And by that, I mean:\nA programming language is any set of rules that convert \n…\nLet’s Create a Tiny Programming Language originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/lets-create-a-tiny-programming-language/",
+          "publishedOn": "2022-05-10T13:56:11.000Z",
+          "wordCount": 1677,
+          "title": "Let’s Create a Tiny Programming Language",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365650"
+        },
+        {
           "id": "https://css-tricks.com/?p=365579",
           "author": "Sunkanmi Fafowora",
           "description": "AVIF (AV1 Image File Format) is a modern image file format specification for storing images that offer a much more significant file reduction when compared to other formats like JPG, JPEG, PNG, and WebP. Version 1.0.0 of the AVIF specification …\nUseful Tools for Creating AVIF Images originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/useful-tools-for-creating-avif-images/",
           "publishedOn": "2022-05-09T15:00:10.000Z",
-          "wordCount": 947,
+          "wordCount": 1125,
           "title": "Useful Tools for Creating AVIF Images",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365579"
         },
@@ -81,7 +91,7 @@
           "description": "A while ago, Geoff wrote an article about a cool hover effect. The effect relies on a combination of CSS pseudo-elements, transforms, and transitions. A lot of comments have shown that the same effect can be done using background …\nCool Hover Effects That Use Background Properties originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/cool-hover-effects-using-background-properties/",
           "publishedOn": "2022-04-27T14:20:07.000Z",
-          "wordCount": 3531,
+          "wordCount": 3567,
           "title": "Cool Hover Effects That Use Background Properties",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365383"
         },
@@ -148,7 +158,7 @@
           "description": "MongoDB Developer Workshop 후기 (with Google Cloud) 오랜만에 포스팅입니다. 정말 오랜만이네요. 이직하고나서 딱히 쓸 글이 없었습니다. 다들 저보다 잘하시고, 연차는 쌓여가는데 초급 포스팅만 계속 하기도 좀 그랬습니다. 이번에 MongoDB Korea에서 오프라인 핸즈온 세미나를 열었습니다....\nThe post MongoDB Developer Workshop 후기 (with Google Cloud) appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/mongodb-developer-workshop-%ed%9b%84%ea%b8%b0-with-google-cloud/",
           "publishedOn": "2022-04-22T14:29:18.000Z",
-          "wordCount": 1055,
+          "wordCount": 1060,
           "title": "MongoDB Developer Workshop 후기 (with Google Cloud)",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2020/04/37_2019081518484308.jpg"
         }
@@ -160,104 +170,104 @@
       "siteUrl": "https://news.hada.io",
       "articles": [
         {
-          "id": "https://news.hada.io/topic?id=6517",
+          "id": "https://news.hada.io/topic?id=6527",
           "author": null,
-          "description": "가끔 엄청 좋았던 뉴스가 너무 오래되어 묻혔는데. 글은 존재하니까 다시 올리기는 좀 그런 경우가 많았다고 생각해요. 이 뉴스를 못본 분들이 꽤 많은 거라고 생각하면서도요.\n그래서 GN 유저분들에게 1년 이상 지난 뉴스 중 가장 좋아하는 것들을 소개 받고 싶습니다! 여러분의 최애 뉴스는 어떤 게 있으셨나",
-          "link": "https://news.hada.io/topic?id=6517",
-          "publishedOn": "2022-05-09T07:01:47.000Z",
-          "wordCount": 319,
-          "title": "Ask GN: 1년 이상 지난 GN News 중 가장 인상깊었던 뉴스는 무엇인가요?",
-          "imageUrl": "https://social.news.hada.io/topic/6517"
+          "description": "재미있고 기능적이며 Stateful하게 터미널 앱을 개발 지원\nThe Elm Architecture(모델/뷰/업데이트)에 기반한 Go 프레임워크\n인라인 같은 간단한 것부터 전체화면 처럼 복잡한 것까지 모두 가능 (복합 포함)\n\n...",
+          "link": "https://news.hada.io/topic?id=6527",
+          "publishedOn": "2022-05-11T01:08:13.000Z",
+          "wordCount": 82,
+          "title": "Bubble Tea - 강력한 TUI 프레임워크",
+          "imageUrl": "https://social.news.hada.io/topic/6527"
         },
         {
-          "id": "https://news.hada.io/topic?id=6516",
+          "id": "https://news.hada.io/topic?id=6526",
           "author": null,
-          "description": "안녕하세요.  Korean FE Article을 운영하는 한정입니다.\nKorean FE Article은 프론트엔드 관련 글을 큐레이팅하고 번역해서 공유하는 활동입니다.\n매주 3-4개의 글이 번역되고 있고 총 8명의 팀원이 함께 번역을 진행하고 있습니다.\n현재 메일링 서비스를 진행한 지는 100일 정도 되었고 30개 이",
-          "link": "https://news.hada.io/topic?id=6516",
-          "publishedOn": "2022-05-09T05:57:38.000Z",
-          "wordCount": 200,
-          "title": "Show GN: Korean FE Article: 한글로 된 프론트엔드 글을 전송해주는 메일링 서비스",
-          "imageUrl": "https://social.news.hada.io/topic/6516"
+          "description": "올해 초에 공개한 TPU 하드웨어 접근가능 VM을 이제 누구나 사용 가능\n대규모 랭킹 및 추천 작업에 최적화\n새로운 TPU Embedding API 공개 : ML 기반 랭킹/추천 작업을 가속\n→ TF2 랭킹/추천 API...",
+          "link": "https://news.hada.io/topic?id=6526",
+          "publishedOn": "2022-05-11T00:54:43.000Z",
+          "wordCount": 115,
+          "title": "구글 클라우드, Cloud TPU VM을 일반 공급(GA)",
+          "imageUrl": "https://social.news.hada.io/topic/6526"
         },
         {
-          "id": "https://news.hada.io/topic?id=6514",
+          "id": "https://news.hada.io/topic?id=6525",
           "author": null,
-          "description": "사용자가 유연하게 설정해서 사용가능\n무려 12개의 axe를 가진 Variable Font(가변폰트)\n→ User Axes : Weight, Width, Slant(Italic), Grade, Optical Size\n→ Parametric Axes : Counter Width, Thin Stroke, Lowercase Height, Uppercase Height, Ascender Height, Descender Depth, ...",
-          "link": "https://news.hada.io/topic?id=6514",
-          "publishedOn": "2022-05-09T01:18:55.000Z",
-          "wordCount": 150,
-          "title": "구글, 커스터마이징 가능한 Roboto Flex 폰트 공개",
-          "imageUrl": "https://social.news.hada.io/topic/6514"
+          "description": "보다 빠르고, 쉽고, 안전한 로그인 환경을 모든 주요 기기 및 플랫폼에 걸쳐 고객에게 제공\n암호만을 통한 인증 방식은 인터넷 환경에서 가장 큰 보안 문제 중 하나로 손꼽혀왔으며, 소비자는 다수의 암호를 관리하는 번거로움으로 인해 사용 중인 온라인 서비스에 걸쳐 동일한 패스워",
+          "link": "https://news.hada.io/topic?id=6525",
+          "publishedOn": "2022-05-11T00:42:28.000Z",
+          "wordCount": 283,
+          "title": "Apple, Google 및 Microsoft와 함께 FIDO 표준 지원 확대 가속화",
+          "imageUrl": "https://social.news.hada.io/topic/6525"
         },
         {
-          "id": "https://news.hada.io/topic?id=6513",
+          "id": "https://news.hada.io/topic?id=6524",
           "author": null,
-          "description": "Nginx Proxy Manager\nPortainer : Docker 관리자\nGhost : 웹 콘텐츠 플랫폼\nFileBrowser : 웹 기반 파일 관리자\nBookStack : 개인 위키\nHumHub : (개인용으로 사용 가능한) 오픈소스 페이스북. 메모/사진/비디오 등을 마이크로 블로그 스타일로 포스팅\n...",
-          "link": "https://news.hada.io/topic?id=6513",
-          "publishedOn": "2022-05-09T01:07:18.000Z",
-          "wordCount": 749,
-          "title": "가장 많이 사용하는 셀프호스트 어플리케이션은?",
-          "imageUrl": "https://social.news.hada.io/topic/6513"
+          "description": "이미지를 특정 크기로 리사이즈\n아이콘 반전\n이미지 배경 제거\nPDF 페이지 순서 정렬\n기존 PDF에서 새로운 PDF 분할 생성하기\nPDF 합치기\nPDF에 싸인하기\n사진에서 위치정보 제거하기\n클립보드에서 이미지 생성하기\nApp ico...",
+          "link": "https://news.hada.io/topic?id=6524",
+          "publishedOn": "2022-05-11T00:06:39.000Z",
+          "wordCount": 126,
+          "title": "맥 Preview 앱의 잘 안 알려진 기능들",
+          "imageUrl": "https://social.news.hada.io/topic/6524"
         },
         {
-          "id": "https://news.hada.io/topic?id=6512",
+          "id": "https://news.hada.io/topic?id=6523",
           "author": null,
-          "description": "간단한 파이썬 스크립트 만으로 회사 내부용 도구들 이나 자동화 워크플로우를 작성 가능\n스크립트에서 UI는 자동 생성\n스크립트 및 플로우는 스케줄러로 실행\n셀프호스팅 가능\n버저닝 지원\nGitHub CI/CD로 자동 배포\n워크스페이스는 Tarball로 Export ...",
-          "link": "https://news.hada.io/topic?id=6512",
-          "publishedOn": "2022-05-09T00:54:05.000Z",
-          "wordCount": 131,
-          "title": "Windmill - 파이썬 기반 회사 내부용 앱 작성 및 자동화 플랫폼 오픈소스",
-          "imageUrl": "https://social.news.hada.io/topic/6512"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6511",
-          "author": null,
-          "description": "2014년 GAN(생성적 적대 신경망) 논문을 썼던 Ian Goodfellow\nOpen AI 와 Google에서 일하다가 2019년 애플에 합류\n애플의 사무실 출근 정책(5/2부터는 주2일, 5/23부터는 주3일 이상 근무)에 반발하여 퇴사 메일을 보냄\n\n\"나는 내 팀을 위한 최고의 정책은 더 유연성을...",
-          "link": "https://news.hada.io/topic?id=6511",
-          "publishedOn": "2022-05-09T00:40:06.000Z",
-          "wordCount": 139,
-          "title": "GAN을 만들었던 애플 머신러닝 디렉터, 사무실 출근 정책에 반발하여 퇴사",
-          "imageUrl": "https://social.news.hada.io/topic/6511"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6510",
-          "author": null,
-          "description": "애플, 구글, 마이크로소프트가 \"Passkey\" 표준으로 암호를 없애려는 \"공동 노력\"을 시작\nFIDO 및 W3C에서 만든 \"암호 없는 로그인 표준\"의 지원을 확대\n사용하는 OS 플랫폼 이나 브라우저 상관없이 지원\n→ 새 장치를 포함, 많은 장치에서 모든 계정을 ...",
-          "link": "https://news.hada.io/topic?id=6510",
-          "publishedOn": "2022-05-09T00:24:56.000Z",
-          "wordCount": 142,
-          "title": "패스워드 없는 미래가 오고 있다",
-          "imageUrl": "https://social.news.hada.io/topic/6510"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6509",
-          "author": null,
-          "description": "브라우저 API 호출없이 DOM 탐색\nDOM 트리를 재정렬 하는 대신 엘리먼트를 변환\n드래그앤 드롭에 따른 레이아웃 쉬프트 방지\n헤드리스 (조작하는 함수만 있으므로)\n이벤트 드리븐 API\n각각의 DOM 노드를 개별적으로 타게팅\nJSON트리를 사용하여 확장 가...",
-          "link": "https://news.hada.io/topic?id=6509",
-          "publishedOn": "2022-05-08T00:56:01.000Z",
-          "wordCount": 93,
-          "title": "DFlex - 모든 JS프레임워크를 위한 Drag-n-Drop 라이브러리",
-          "imageUrl": "https://social.news.hada.io/topic/6509"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6508",
-          "author": null,
-          "description": "Walter Orthmann은 1938년 1월 17일, 15살의 나이로 섬유회사에서 근무를 시작\n올해 1월 6일 기준으로 84년 9일간의 근무기록을 세워 기네스 기록을 경신\n올해 4월 19일 회사에서 동료, 친구, 가족들과 함께 100세 생일 파티\n현재도 건강이 좋고 기억력이 뛰어나서 매일 사무실로 운...",
-          "link": "https://news.hada.io/topic?id=6508",
-          "publishedOn": "2022-05-08T00:28:01.000Z",
-          "wordCount": 105,
-          "title": "같은 회사에 84년간 근무해서 세계 기록을 세운 100세의 브라질인",
-          "imageUrl": "https://social.news.hada.io/topic/6508"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6507",
-          "author": null,
-          "description": "Node에서 파이썬을 실행하고, 파이썬에서 Node.js 실행 가능\n비동기/동기 함수를 호출하고, 객체 속성을 네이티브처럼 가져오기\n내장 가비지 컬렉션\n임의인자 포함한 양방향 콜백\nIteration 및 예외 처리 지원\n(JS에서 파이썬 호출) Python class extension and ...",
-          "link": "https://news.hada.io/topic?id=6507",
-          "publishedOn": "2022-05-08T00:14:02.000Z",
+          "description": "20여년전 출시했던 iPod 시리즈를 iPod Touch 7세대 모델(A2178, A10칩)로 마무리\n남은 재고만 소진하고 단종\n아이팟의 음악 경험은 아이폰/애플워치/홈팟/맥/아이패드/애플TV에 이르는 모든 애플 제품에 적용되었음\n\n...",
+          "link": "https://news.hada.io/topic?id=6523",
+          "publishedOn": "2022-05-10T23:53:26.000Z",
           "wordCount": 110,
-          "title": "JSPyBridge - Node.js와 Python의 상호운용을 위한 브릿지",
-          "imageUrl": "https://social.news.hada.io/topic/6507"
+          "title": "애플 iPod 단종 - The music lives on",
+          "imageUrl": "https://social.news.hada.io/topic/6523"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6522",
+          "author": null,
+          "description": "Docker는 리눅스 컨테이너를 대중화 : OS 수준 가상화로 소프트웨어 배포를 쉽게 해줌\nCloudflare Workers 나 Deno Deploy 는 JS Container 개념을 구현한 것(서로 다른 환경에서)\nJS 컨테이너는 향후 몇 년간 어떻게 진행될까 ?\nUniversal Scripting Language",
+          "link": "https://news.hada.io/topic?id=6522",
+          "publishedOn": "2022-05-10T02:19:45.000Z",
+          "wordCount": 562,
+          "title": "Ryan Dahl의 JavaScript Containers에 대한 생각",
+          "imageUrl": "https://social.news.hada.io/topic/6522"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6521",
+          "author": null,
+          "description": "지속적으로 변화하는 시민/비즈니스의 요구사항에 대응하는 보안시스템을 구축하기 위해 개발 프랙티스를 현대화\n3가지 목표 : 민첩성 개선, 품질 및 규정 준수 향상, 비용 절감\nSGTS : Singapore Government Tech Stack\n개발 프로세스를 간소화 및 단순화 하고, 범정부...",
+          "link": "https://news.hada.io/topic?id=6521",
+          "publishedOn": "2022-05-10T02:02:52.000Z",
+          "wordCount": 248,
+          "title": "SGTS - 싱가폴 정부 테크 스택",
+          "imageUrl": "https://social.news.hada.io/topic/6521"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6520",
+          "author": null,
+          "description": "골프 토너먼트에서 홀인원에는 상금이 걸린 경우가 있음\n아마추어에겐 12500분의 1 확률이기 때문에 잘 일어나지 않지만, 혹시나 해서 주최자들은 홀인원 보험을 가입함\n홀인원 보험의 역사는 100년전으로 거슬러 올라가지만, 원래의 목적은 다른 것이었음\n예전엔 홀인원 하는 골퍼...",
+          "link": "https://news.hada.io/topic?id=6520",
+          "publishedOn": "2022-05-10T01:39:57.000Z",
+          "wordCount": 655,
+          "title": "기묘한 홀인원 보험 비즈니스의 세계",
+          "imageUrl": "https://social.news.hada.io/topic/6520"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6519",
+          "author": null,
+          "description": "Rust는 성능과 안전성면에서 UI를 구축하는데 매력적이지만, 좋은 아키텍처를 찾는 것이 어려움\n다른 언어에서 잘 동작하는 아키텍처들은 일반적으로 Rust에 잘 안 맞음\n그래서 고성능, Reactive, Dec...",
+          "link": "https://news.hada.io/topic?id=6519",
+          "publishedOn": "2022-05-10T01:17:04.000Z",
+          "wordCount": 180,
+          "title": "Xilem : Rust를 위한 새로운 UI 아키텍처 제안",
+          "imageUrl": "https://social.news.hada.io/topic/6519"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6518",
+          "author": null,
+          "description": "\"넷플릭스가 충격과 공포를 선사하면서, 업계의 제작자들과 넷플릭스 관계자들은 이제 이 OTT 공룡의 문화가 잘못되었다고 점점 목소리를 높이고 있습니다.\"\n넷플릭스의 위기?\n아티스트 신디 홀랜드\n사업가 테드 사란도스\n새로운 콘텐",
+          "link": "https://news.hada.io/topic?id=6518",
+          "publishedOn": "2022-05-10T01:04:19.000Z",
+          "wordCount": 136,
+          "title": "일장춘몽의 끝: 넷플릭스 추락 이면의 알력다툼",
+          "imageUrl": "https://social.news.hada.io/topic/6518"
         }
       ]
     },

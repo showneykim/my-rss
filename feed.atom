@@ -1,10 +1,159 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-10T01:19:48.159Z</id>
+    <id>urn:2022-05-11T01:51:12.769Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-10T01:19:48.159Z</updated>
+    <updated>2022-05-11T01:51:12.769Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bubble Tea - 강력한 TUI 프레임워크]]></title>
+        <id>https://news.hada.io/topic?id=6527</id>
+        <link href="https://news.hada.io/topic?id=6527"/>
+        <updated>2022-05-11T01:08:13.000Z</updated>
+        <summary type="html"><![CDATA[재미있고 기능적이며 Stateful하게 터미널 앱을 개발 지원
+The Elm Architecture(모델/뷰/업데이트)에 기반한 Go 프레임워크
+인라인 같은 간단한 것부터 전체화면 처럼 복잡한 것까지 모두 가능 (복합 포함)
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글 클라우드, Cloud TPU VM을 일반 공급(GA)]]></title>
+        <id>https://news.hada.io/topic?id=6526</id>
+        <link href="https://news.hada.io/topic?id=6526"/>
+        <updated>2022-05-11T00:54:43.000Z</updated>
+        <summary type="html"><![CDATA[올해 초에 공개한 TPU 하드웨어 접근가능 VM을 이제 누구나 사용 가능
+대규모 랭킹 및 추천 작업에 최적화
+새로운 TPU Embedding API 공개 : ML 기반 랭킹/추천 작업을 가속
+→ TF2 랭킹/추천 API...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple, Google 및 Microsoft와 함께 FIDO 표준 지원 확대 가속화]]></title>
+        <id>https://news.hada.io/topic?id=6525</id>
+        <link href="https://news.hada.io/topic?id=6525"/>
+        <updated>2022-05-11T00:42:28.000Z</updated>
+        <summary type="html"><![CDATA[보다 빠르고, 쉽고, 안전한 로그인 환경을 모든 주요 기기 및 플랫폼에 걸쳐 고객에게 제공
+암호만을 통한 인증 방식은 인터넷 환경에서 가장 큰 보안 문제 중 하나로 손꼽혀왔으며, 소비자는 다수의 암호를 관리하는 번거로움으로 인해 사용 중인 온라인 서비스에 걸쳐 동일한 패스워]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[맥 Preview 앱의 잘 안 알려진 기능들]]></title>
+        <id>https://news.hada.io/topic?id=6524</id>
+        <link href="https://news.hada.io/topic?id=6524"/>
+        <updated>2022-05-11T00:06:39.000Z</updated>
+        <summary type="html"><![CDATA[이미지를 특정 크기로 리사이즈
+아이콘 반전
+이미지 배경 제거
+PDF 페이지 순서 정렬
+기존 PDF에서 새로운 PDF 분할 생성하기
+PDF 합치기
+PDF에 싸인하기
+사진에서 위치정보 제거하기
+클립보드에서 이미지 생성하기
+App ico...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애플 iPod 단종 - The music lives on]]></title>
+        <id>https://news.hada.io/topic?id=6523</id>
+        <link href="https://news.hada.io/topic?id=6523"/>
+        <updated>2022-05-10T23:53:26.000Z</updated>
+        <summary type="html"><![CDATA[20여년전 출시했던 iPod 시리즈를 iPod Touch 7세대 모델(A2178, A10칩)로 마무리
+남은 재고만 소진하고 단종
+아이팟의 음악 경험은 아이폰/애플워치/홈팟/맥/아이패드/애플TV에 이르는 모든 애플 제품에 적용되었음
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Let’s Create a Tiny Programming Language]]></title>
+        <id>https://css-tricks.com/?p=365650</id>
+        <link href="https://css-tricks.com/lets-create-a-tiny-programming-language/"/>
+        <updated>2022-05-10T13:56:11.000Z</updated>
+        <summary type="html"><![CDATA[By now, you are probably familiar with one or more programming languages. But have you ever wondered how you could create your own programming language? And by that, I mean:
+A programming language is any set of rules that convert 
+…
+Let’s Create a Tiny Programming Language originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Md Shuvo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ryan Dahl의 JavaScript Containers에 대한 생각]]></title>
+        <id>https://news.hada.io/topic?id=6522</id>
+        <link href="https://news.hada.io/topic?id=6522"/>
+        <updated>2022-05-10T02:19:45.000Z</updated>
+        <summary type="html"><![CDATA[Docker는 리눅스 컨테이너를 대중화 : OS 수준 가상화로 소프트웨어 배포를 쉽게 해줌
+Cloudflare Workers 나 Deno Deploy 는 JS Container 개념을 구현한 것(서로 다른 환경에서)
+JS 컨테이너는 향후 몇 년간 어떻게 진행될까 ?
+Universal Scripting Language]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SGTS - 싱가폴 정부 테크 스택]]></title>
+        <id>https://news.hada.io/topic?id=6521</id>
+        <link href="https://news.hada.io/topic?id=6521"/>
+        <updated>2022-05-10T02:02:52.000Z</updated>
+        <summary type="html"><![CDATA[지속적으로 변화하는 시민/비즈니스의 요구사항에 대응하는 보안시스템을 구축하기 위해 개발 프랙티스를 현대화
+3가지 목표 : 민첩성 개선, 품질 및 규정 준수 향상, 비용 절감
+SGTS : Singapore Government Tech Stack
+개발 프로세스를 간소화 및 단순화 하고, 범정부...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기묘한 홀인원 보험 비즈니스의 세계]]></title>
+        <id>https://news.hada.io/topic?id=6520</id>
+        <link href="https://news.hada.io/topic?id=6520"/>
+        <updated>2022-05-10T01:39:57.000Z</updated>
+        <summary type="html"><![CDATA[골프 토너먼트에서 홀인원에는 상금이 걸린 경우가 있음
+아마추어에겐 12500분의 1 확률이기 때문에 잘 일어나지 않지만, 혹시나 해서 주최자들은 홀인원 보험을 가입함
+홀인원 보험의 역사는 100년전으로 거슬러 올라가지만, 원래의 목적은 다른 것이었음
+예전엔 홀인원 하는 골퍼...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xilem : Rust를 위한 새로운 UI 아키텍처 제안]]></title>
+        <id>https://news.hada.io/topic?id=6519</id>
+        <link href="https://news.hada.io/topic?id=6519"/>
+        <updated>2022-05-10T01:17:04.000Z</updated>
+        <summary type="html"><![CDATA[Rust는 성능과 안전성면에서 UI를 구축하는데 매력적이지만, 좋은 아키텍처를 찾는 것이 어려움
+다른 언어에서 잘 동작하는 아키텍처들은 일반적으로 Rust에 잘 안 맞음
+그래서 고성능, Reactive, Dec...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[일장춘몽의 끝: 넷플릭스 추락 이면의 알력다툼]]></title>
+        <id>https://news.hada.io/topic?id=6518</id>
+        <link href="https://news.hada.io/topic?id=6518"/>
+        <updated>2022-05-10T01:04:19.000Z</updated>
+        <summary type="html"><![CDATA["넷플릭스가 충격과 공포를 선사하면서, 업계의 제작자들과 넷플릭스 관계자들은 이제 이 OTT 공룡의 문화가 잘못되었다고 점점 목소리를 높이고 있습니다."
+넷플릭스의 위기?
+아티스트 신디 홀랜드
+사업가 테드 사란도스
+새로운 콘텐]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Useful Tools for Creating AVIF Images]]></title>
         <id>https://css-tricks.com/?p=365579</id>
@@ -14,146 +163,6 @@
 Useful Tools for Creating AVIF Images originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Sunkanmi Fafowora</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 1년 이상 지난 GN News 중 가장 인상깊었던 뉴스는 무엇인가요?]]></title>
-        <id>https://news.hada.io/topic?id=6517</id>
-        <link href="https://news.hada.io/topic?id=6517"/>
-        <updated>2022-05-09T07:01:47.000Z</updated>
-        <summary type="html"><![CDATA[가끔 엄청 좋았던 뉴스가 너무 오래되어 묻혔는데. 글은 존재하니까 다시 올리기는 좀 그런 경우가 많았다고 생각해요. 이 뉴스를 못본 분들이 꽤 많은 거라고 생각하면서도요.
-그래서 GN 유저분들에게 1년 이상 지난 뉴스 중 가장 좋아하는 것들을 소개 받고 싶습니다! 여러분의 최애 뉴스는 어떤 게 있으셨나]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: Korean FE Article: 한글로 된 프론트엔드 글을 전송해주는 메일링 서비스]]></title>
-        <id>https://news.hada.io/topic?id=6516</id>
-        <link href="https://news.hada.io/topic?id=6516"/>
-        <updated>2022-05-09T05:57:38.000Z</updated>
-        <summary type="html"><![CDATA[안녕하세요.  Korean FE Article을 운영하는 한정입니다.
-Korean FE Article은 프론트엔드 관련 글을 큐레이팅하고 번역해서 공유하는 활동입니다.
-매주 3-4개의 글이 번역되고 있고 총 8명의 팀원이 함께 번역을 진행하고 있습니다.
-현재 메일링 서비스를 진행한 지는 100일 정도 되었고 30개 이]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구글, 커스터마이징 가능한 Roboto Flex 폰트 공개]]></title>
-        <id>https://news.hada.io/topic?id=6514</id>
-        <link href="https://news.hada.io/topic?id=6514"/>
-        <updated>2022-05-09T01:18:55.000Z</updated>
-        <summary type="html"><![CDATA[사용자가 유연하게 설정해서 사용가능
-무려 12개의 axe를 가진 Variable Font(가변폰트)
-→ User Axes : Weight, Width, Slant(Italic), Grade, Optical Size
-→ Parametric Axes : Counter Width, Thin Stroke, Lowercase Height, Uppercase Height, Ascender Height, Descender Depth, ...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가장 많이 사용하는 셀프호스트 어플리케이션은?]]></title>
-        <id>https://news.hada.io/topic?id=6513</id>
-        <link href="https://news.hada.io/topic?id=6513"/>
-        <updated>2022-05-09T01:07:18.000Z</updated>
-        <summary type="html"><![CDATA[Nginx Proxy Manager
-Portainer : Docker 관리자
-Ghost : 웹 콘텐츠 플랫폼
-FileBrowser : 웹 기반 파일 관리자
-BookStack : 개인 위키
-HumHub : (개인용으로 사용 가능한) 오픈소스 페이스북. 메모/사진/비디오 등을 마이크로 블로그 스타일로 포스팅
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windmill - 파이썬 기반 회사 내부용 앱 작성 및 자동화 플랫폼 오픈소스]]></title>
-        <id>https://news.hada.io/topic?id=6512</id>
-        <link href="https://news.hada.io/topic?id=6512"/>
-        <updated>2022-05-09T00:54:05.000Z</updated>
-        <summary type="html"><![CDATA[간단한 파이썬 스크립트 만으로 회사 내부용 도구들 이나 자동화 워크플로우를 작성 가능
-스크립트에서 UI는 자동 생성
-스크립트 및 플로우는 스케줄러로 실행
-셀프호스팅 가능
-버저닝 지원
-GitHub CI/CD로 자동 배포
-워크스페이스는 Tarball로 Export ...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GAN을 만들었던 애플 머신러닝 디렉터, 사무실 출근 정책에 반발하여 퇴사]]></title>
-        <id>https://news.hada.io/topic?id=6511</id>
-        <link href="https://news.hada.io/topic?id=6511"/>
-        <updated>2022-05-09T00:40:06.000Z</updated>
-        <summary type="html"><![CDATA[2014년 GAN(생성적 적대 신경망) 논문을 썼던 Ian Goodfellow
-Open AI 와 Google에서 일하다가 2019년 애플에 합류
-애플의 사무실 출근 정책(5/2부터는 주2일, 5/23부터는 주3일 이상 근무)에 반발하여 퇴사 메일을 보냄
-
-"나는 내 팀을 위한 최고의 정책은 더 유연성을...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[패스워드 없는 미래가 오고 있다]]></title>
-        <id>https://news.hada.io/topic?id=6510</id>
-        <link href="https://news.hada.io/topic?id=6510"/>
-        <updated>2022-05-09T00:24:56.000Z</updated>
-        <summary type="html"><![CDATA[애플, 구글, 마이크로소프트가 "Passkey" 표준으로 암호를 없애려는 "공동 노력"을 시작
-FIDO 및 W3C에서 만든 "암호 없는 로그인 표준"의 지원을 확대
-사용하는 OS 플랫폼 이나 브라우저 상관없이 지원
-→ 새 장치를 포함, 많은 장치에서 모든 계정을 ...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DFlex - 모든 JS프레임워크를 위한 Drag-n-Drop 라이브러리]]></title>
-        <id>https://news.hada.io/topic?id=6509</id>
-        <link href="https://news.hada.io/topic?id=6509"/>
-        <updated>2022-05-08T00:56:01.000Z</updated>
-        <summary type="html"><![CDATA[브라우저 API 호출없이 DOM 탐색
-DOM 트리를 재정렬 하는 대신 엘리먼트를 변환
-드래그앤 드롭에 따른 레이아웃 쉬프트 방지
-헤드리스 (조작하는 함수만 있으므로)
-이벤트 드리븐 API
-각각의 DOM 노드를 개별적으로 타게팅
-JSON트리를 사용하여 확장 가...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[같은 회사에 84년간 근무해서 세계 기록을 세운 100세의 브라질인]]></title>
-        <id>https://news.hada.io/topic?id=6508</id>
-        <link href="https://news.hada.io/topic?id=6508"/>
-        <updated>2022-05-08T00:28:01.000Z</updated>
-        <summary type="html"><![CDATA[Walter Orthmann은 1938년 1월 17일, 15살의 나이로 섬유회사에서 근무를 시작
-올해 1월 6일 기준으로 84년 9일간의 근무기록을 세워 기네스 기록을 경신
-올해 4월 19일 회사에서 동료, 친구, 가족들과 함께 100세 생일 파티
-현재도 건강이 좋고 기억력이 뛰어나서 매일 사무실로 운...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JSPyBridge - Node.js와 Python의 상호운용을 위한 브릿지]]></title>
-        <id>https://news.hada.io/topic?id=6507</id>
-        <link href="https://news.hada.io/topic?id=6507"/>
-        <updated>2022-05-08T00:14:02.000Z</updated>
-        <summary type="html"><![CDATA[Node에서 파이썬을 실행하고, 파이썬에서 Node.js 실행 가능
-비동기/동기 함수를 호출하고, 객체 속성을 네이티브처럼 가져오기
-내장 가비지 컬렉션
-임의인자 포함한 양방향 콜백
-Iteration 및 예외 처리 지원
-(JS에서 파이썬 호출) Python class extension and ...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
     </entry>
     <entry>
