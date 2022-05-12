@@ -1,10 +1,117 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-11T01:51:12.769Z</id>
+    <id>urn:2022-05-12T01:49:30.509Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-11T01:51:12.769Z</updated>
+    <updated>2022-05-12T01:49:30.509Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[PostgresML - ML 모델 훈련 및 예측을 SQL만으로 가능하게 해주는 오픈소스]]></title>
+        <id>https://news.hada.io/topic?id=6534</id>
+        <link href="https://news.hada.io/topic?id=6534"/>
+        <updated>2022-05-12T01:33:01.000Z</updated>
+        <summary type="html"><![CDATA["end-to-end 머신러닝 시스템"
+머신러닝 모델을 기존 어플리케이션에 도입하기 위해 필요한 복잡함(특정 언어, 라이브러리, 하드웨어, 서비스 등)을 제거
+사용중인 Postgres 연결과 SQL을 이용해서 모델을 훈련하고, 예측값을 얻기
+SQL을 아는 누구나 머신러닝 모델을 만...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[trdsql - CSV/JSON 등에 SQL로 쿼리하는 CLI도구]]></title>
+        <id>https://news.hada.io/topic?id=6533</id>
+        <link href="https://news.hada.io/topic?id=6533"/>
+        <updated>2022-05-12T01:07:01.000Z</updated>
+        <summary type="html"><![CDATA[q/texql과 비슷하지만 PostgreSQL/MySQL의 SQL 구문을 지원
+CSV/JSON/LTSV/MarkDown/RAW/TBLN 등의 출력 포맷 지원
+리눅스/윈/맥 지원
+Go 오픈소스
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오픈소스를 수익화 하는 법 - Awesome OSS Monetization]]></title>
+        <id>https://news.hada.io/topic?id=6532</id>
+        <link href="https://news.hada.io/topic?id=6532"/>
+        <updated>2022-05-12T00:36:01.000Z</updated>
+        <summary type="html"><![CDATA[수익화 방법들의 장단점등을 평가하고, 그 방식으로 운영중인 오픈소스들을 정리
+비조건적 펀딩
+개인 기부
+회사 스폰서
+그랜트 및 Stipend
+Paid Access
+유료 얼리 액세스
+유료 커뮤니티 액세스
+웹사이트 광고
+유료]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USB Cheat Sheet]]></title>
+        <id>https://news.hada.io/topic?id=6531</id>
+        <link href="https://news.hada.io/topic?id=6531"/>
+        <updated>2022-05-12T00:21:01.000Z</updated>
+        <summary type="html"><![CDATA[USB 1.1 부터 USB4 까지의 스펙들 정리
+USB-A/B/C 커넥터 핀을 그림으로 정리
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아직도 DBA는 좋은 직업인가요?]]></title>
+        <id>https://news.hada.io/topic?id=6530</id>
+        <link href="https://news.hada.io/topic?id=6530"/>
+        <updated>2022-05-12T00:06:01.000Z</updated>
+        <summary type="html"><![CDATA["IT업계에서 DBA는 사라지고 있는거야?" 라는 내용으로 HN에 올라온 질문에 대한 답들
+난 개발자였다가 DBA가 되었는데, 개발자 시절에 난 DBA한테 필요한 도움을 받지 못했어. 그래서 난 지금 내가 도움을 받으려고 했던 사람이 되려고 하는데..
+→ 이제서야 문제를 알았어. 우리]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nvidia open source 커널 모듈 드라이버 공개]]></title>
+        <id>https://news.hada.io/topic?id=6529</id>
+        <link href="https://news.hada.io/topic?id=6529"/>
+        <updated>2022-05-11T21:59:10.000Z</updated>
+        <summary type="html"><![CDATA[Nvidia open source 커널 모듈 드라이버 공개]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[COLRv1 and CSS font-palette: Web Typography Gets Colorful]]></title>
+        <id>https://css-tricks.com/?p=365677</id>
+        <link href="https://css-tricks.com/colrv1-and-css-font-palette-web-typography/"/>
+        <updated>2022-05-11T14:12:51.000Z</updated>
+        <summary type="html"><![CDATA[According to Toshi Omagari, the author of Arcade Game Typography, the world’s first multi-colored digital font was created in 1982 for a never-released video game called Insector. Multi-colored fonts, sometimes called chromatic type, are still relatively rare on the …
+COLRv1 and CSS font-palette: Web Typography Gets Colorful originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Ollie Williams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DJI, Mini 3 Pro 출시]]></title>
+        <id>https://news.hada.io/topic?id=6528</id>
+        <link href="https://news.hada.io/topic?id=6528"/>
+        <updated>2022-05-11T01:42:15.000Z</updated>
+        <summary type="html"><![CDATA[249g, 4K HDR 영상, 48MP RAW 사진, 짐벌이 90° 회전하여 세로촬영 모드 지원, 최대 47분 비행
+더 커진 프로펠러, 바디 틸트, 3방향 장애물 감지 시스템, 새로운 짐벌
+1/1.3” CMOS 센서 : 듀얼 네이티브 ISO 및 HDR, 2.4μm 픽셀, f/1.7 조리개
+1080p/120fps 슬로모션
+D-C...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bubble Tea - 강력한 TUI 프레임워크]]></title>
         <id>https://news.hada.io/topic?id=6527</id>
@@ -44,39 +151,6 @@ The Elm Architecture(모델/뷰/업데이트)에 기반한 Go 프레임워크
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[맥 Preview 앱의 잘 안 알려진 기능들]]></title>
-        <id>https://news.hada.io/topic?id=6524</id>
-        <link href="https://news.hada.io/topic?id=6524"/>
-        <updated>2022-05-11T00:06:39.000Z</updated>
-        <summary type="html"><![CDATA[이미지를 특정 크기로 리사이즈
-아이콘 반전
-이미지 배경 제거
-PDF 페이지 순서 정렬
-기존 PDF에서 새로운 PDF 분할 생성하기
-PDF 합치기
-PDF에 싸인하기
-사진에서 위치정보 제거하기
-클립보드에서 이미지 생성하기
-App ico...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애플 iPod 단종 - The music lives on]]></title>
-        <id>https://news.hada.io/topic?id=6523</id>
-        <link href="https://news.hada.io/topic?id=6523"/>
-        <updated>2022-05-10T23:53:26.000Z</updated>
-        <summary type="html"><![CDATA[20여년전 출시했던 iPod 시리즈를 iPod Touch 7세대 모델(A2178, A10칩)로 마무리
-남은 재고만 소진하고 단종
-아이팟의 음악 경험은 아이폰/애플워치/홈팟/맥/아이패드/애플TV에 이르는 모든 애플 제품에 적용되었음
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Let’s Create a Tiny Programming Language]]></title>
         <id>https://css-tricks.com/?p=365650</id>
         <link href="https://css-tricks.com/lets-create-a-tiny-programming-language/"/>
@@ -87,71 +161,6 @@ A programming language is any set of rules that convert
 Let’s Create a Tiny Programming Language originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Md Shuvo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ryan Dahl의 JavaScript Containers에 대한 생각]]></title>
-        <id>https://news.hada.io/topic?id=6522</id>
-        <link href="https://news.hada.io/topic?id=6522"/>
-        <updated>2022-05-10T02:19:45.000Z</updated>
-        <summary type="html"><![CDATA[Docker는 리눅스 컨테이너를 대중화 : OS 수준 가상화로 소프트웨어 배포를 쉽게 해줌
-Cloudflare Workers 나 Deno Deploy 는 JS Container 개념을 구현한 것(서로 다른 환경에서)
-JS 컨테이너는 향후 몇 년간 어떻게 진행될까 ?
-Universal Scripting Language]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SGTS - 싱가폴 정부 테크 스택]]></title>
-        <id>https://news.hada.io/topic?id=6521</id>
-        <link href="https://news.hada.io/topic?id=6521"/>
-        <updated>2022-05-10T02:02:52.000Z</updated>
-        <summary type="html"><![CDATA[지속적으로 변화하는 시민/비즈니스의 요구사항에 대응하는 보안시스템을 구축하기 위해 개발 프랙티스를 현대화
-3가지 목표 : 민첩성 개선, 품질 및 규정 준수 향상, 비용 절감
-SGTS : Singapore Government Tech Stack
-개발 프로세스를 간소화 및 단순화 하고, 범정부...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기묘한 홀인원 보험 비즈니스의 세계]]></title>
-        <id>https://news.hada.io/topic?id=6520</id>
-        <link href="https://news.hada.io/topic?id=6520"/>
-        <updated>2022-05-10T01:39:57.000Z</updated>
-        <summary type="html"><![CDATA[골프 토너먼트에서 홀인원에는 상금이 걸린 경우가 있음
-아마추어에겐 12500분의 1 확률이기 때문에 잘 일어나지 않지만, 혹시나 해서 주최자들은 홀인원 보험을 가입함
-홀인원 보험의 역사는 100년전으로 거슬러 올라가지만, 원래의 목적은 다른 것이었음
-예전엔 홀인원 하는 골퍼...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xilem : Rust를 위한 새로운 UI 아키텍처 제안]]></title>
-        <id>https://news.hada.io/topic?id=6519</id>
-        <link href="https://news.hada.io/topic?id=6519"/>
-        <updated>2022-05-10T01:17:04.000Z</updated>
-        <summary type="html"><![CDATA[Rust는 성능과 안전성면에서 UI를 구축하는데 매력적이지만, 좋은 아키텍처를 찾는 것이 어려움
-다른 언어에서 잘 동작하는 아키텍처들은 일반적으로 Rust에 잘 안 맞음
-그래서 고성능, Reactive, Dec...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일장춘몽의 끝: 넷플릭스 추락 이면의 알력다툼]]></title>
-        <id>https://news.hada.io/topic?id=6518</id>
-        <link href="https://news.hada.io/topic?id=6518"/>
-        <updated>2022-05-10T01:04:19.000Z</updated>
-        <summary type="html"><![CDATA["넷플릭스가 충격과 공포를 선사하면서, 업계의 제작자들과 넷플릭스 관계자들은 이제 이 OTT 공룡의 문화가 잘못되었다고 점점 목소리를 높이고 있습니다."
-넷플릭스의 위기?
-아티스트 신디 홀랜드
-사업가 테드 사란도스
-새로운 콘텐]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
     </entry>
     <entry>

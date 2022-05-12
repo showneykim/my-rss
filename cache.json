@@ -6,12 +6,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=365677",
+          "author": "Ollie Williams",
+          "description": "According to Toshi Omagari, the author of Arcade Game Typography, the world’s first multi-colored digital font was created in 1982 for a never-released video game called Insector. Multi-colored fonts, sometimes called chromatic type, are still relatively rare on the …\nCOLRv1 and CSS font-palette: Web Typography Gets Colorful originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/colrv1-and-css-font-palette-web-typography/",
+          "publishedOn": "2022-05-11T14:12:51.000Z",
+          "wordCount": 2382,
+          "title": "COLRv1 and CSS font-palette: Web Typography Gets Colorful",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365677"
+        },
+        {
           "id": "https://css-tricks.com/?p=365650",
           "author": "Md Shuvo",
           "description": "By now, you are probably familiar with one or more programming languages. But have you ever wondered how you could create your own programming language? And by that, I mean:\nA programming language is any set of rules that convert \n…\nLet’s Create a Tiny Programming Language originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/lets-create-a-tiny-programming-language/",
           "publishedOn": "2022-05-10T13:56:11.000Z",
-          "wordCount": 1677,
+          "wordCount": 1753,
           "title": "Let’s Create a Tiny Programming Language",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365650"
         },
@@ -21,7 +31,7 @@
           "description": "AVIF (AV1 Image File Format) is a modern image file format specification for storing images that offer a much more significant file reduction when compared to other formats like JPG, JPEG, PNG, and WebP. Version 1.0.0 of the AVIF specification …\nUseful Tools for Creating AVIF Images originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/useful-tools-for-creating-avif-images/",
           "publishedOn": "2022-05-09T15:00:10.000Z",
-          "wordCount": 1125,
+          "wordCount": 1141,
           "title": "Useful Tools for Creating AVIF Images",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365579"
         },
@@ -158,7 +168,7 @@
           "description": "MongoDB Developer Workshop 후기 (with Google Cloud) 오랜만에 포스팅입니다. 정말 오랜만이네요. 이직하고나서 딱히 쓸 글이 없었습니다. 다들 저보다 잘하시고, 연차는 쌓여가는데 초급 포스팅만 계속 하기도 좀 그랬습니다. 이번에 MongoDB Korea에서 오프라인 핸즈온 세미나를 열었습니다....\nThe post MongoDB Developer Workshop 후기 (with Google Cloud) appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/mongodb-developer-workshop-%ed%9b%84%ea%b8%b0-with-google-cloud/",
           "publishedOn": "2022-04-22T14:29:18.000Z",
-          "wordCount": 1060,
+          "wordCount": 1057,
           "title": "MongoDB Developer Workshop 후기 (with Google Cloud)",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2020/04/37_2019081518484308.jpg"
         }
@@ -169,6 +179,76 @@
       "feedUrl": "https://news.hada.io/rss/news",
       "siteUrl": "https://news.hada.io",
       "articles": [
+        {
+          "id": "https://news.hada.io/topic?id=6534",
+          "author": null,
+          "description": "\"end-to-end 머신러닝 시스템\"\n머신러닝 모델을 기존 어플리케이션에 도입하기 위해 필요한 복잡함(특정 언어, 라이브러리, 하드웨어, 서비스 등)을 제거\n사용중인 Postgres 연결과 SQL을 이용해서 모델을 훈련하고, 예측값을 얻기\nSQL을 아는 누구나 머신러닝 모델을 만...",
+          "link": "https://news.hada.io/topic?id=6534",
+          "publishedOn": "2022-05-12T01:33:01.000Z",
+          "wordCount": 103,
+          "title": "PostgresML - ML 모델 훈련 및 예측을 SQL만으로 가능하게 해주는 오픈소스",
+          "imageUrl": "https://social.news.hada.io/topic/6534"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6533",
+          "author": null,
+          "description": "q/texql과 비슷하지만 PostgreSQL/MySQL의 SQL 구문을 지원\nCSV/JSON/LTSV/MarkDown/RAW/TBLN 등의 출력 포맷 지원\n리눅스/윈/맥 지원\nGo 오픈소스\n\n...",
+          "link": "https://news.hada.io/topic?id=6533",
+          "publishedOn": "2022-05-12T01:07:01.000Z",
+          "wordCount": 83,
+          "title": "trdsql - CSV/JSON 등에 SQL로 쿼리하는 CLI도구",
+          "imageUrl": "https://social.news.hada.io/topic/6533"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6532",
+          "author": null,
+          "description": "수익화 방법들의 장단점등을 평가하고, 그 방식으로 운영중인 오픈소스들을 정리\n비조건적 펀딩\n개인 기부\n회사 스폰서\n그랜트 및 Stipend\nPaid Access\n유료 얼리 액세스\n유료 커뮤니티 액세스\n웹사이트 광고\n유료",
+          "link": "https://news.hada.io/topic?id=6532",
+          "publishedOn": "2022-05-12T00:36:01.000Z",
+          "wordCount": 226,
+          "title": "오픈소스를 수익화 하는 법 - Awesome OSS Monetization",
+          "imageUrl": "https://social.news.hada.io/topic/6532"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6531",
+          "author": null,
+          "description": "USB 1.1 부터 USB4 까지의 스펙들 정리\nUSB-A/B/C 커넥터 핀을 그림으로 정리\n\n...",
+          "link": "https://news.hada.io/topic?id=6531",
+          "publishedOn": "2022-05-12T00:21:01.000Z",
+          "wordCount": 82,
+          "title": "USB Cheat Sheet",
+          "imageUrl": "https://social.news.hada.io/topic/6531"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6530",
+          "author": null,
+          "description": "\"IT업계에서 DBA는 사라지고 있는거야?\" 라는 내용으로 HN에 올라온 질문에 대한 답들\n난 개발자였다가 DBA가 되었는데, 개발자 시절에 난 DBA한테 필요한 도움을 받지 못했어. 그래서 난 지금 내가 도움을 받으려고 했던 사람이 되려고 하는데..\n→ 이제서야 문제를 알았어. 우리",
+          "link": "https://news.hada.io/topic?id=6530",
+          "publishedOn": "2022-05-12T00:06:01.000Z",
+          "wordCount": 387,
+          "title": "아직도 DBA는 좋은 직업인가요?",
+          "imageUrl": "https://social.news.hada.io/topic/6530"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6529",
+          "author": null,
+          "description": "Nvidia open source 커널 모듈 드라이버 공개",
+          "link": "https://news.hada.io/topic?id=6529",
+          "publishedOn": "2022-05-11T21:59:10.000Z",
+          "wordCount": 75,
+          "title": "Nvidia open source 커널 모듈 드라이버 공개",
+          "imageUrl": "https://social.news.hada.io/topic/6529"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6528",
+          "author": null,
+          "description": "249g, 4K HDR 영상, 48MP RAW 사진, 짐벌이 90° 회전하여 세로촬영 모드 지원, 최대 47분 비행\n더 커진 프로펠러, 바디 틸트, 3방향 장애물 감지 시스템, 새로운 짐벌\n1/1.3” CMOS 센서 : 듀얼 네이티브 ISO 및 HDR, 2.4μm 픽셀, f/1.7 조리개\n1080p/120fps 슬로모션\nD-C...",
+          "link": "https://news.hada.io/topic?id=6528",
+          "publishedOn": "2022-05-11T01:42:15.000Z",
+          "wordCount": 138,
+          "title": "DJI, Mini 3 Pro 출시",
+          "imageUrl": "https://social.news.hada.io/topic/6528"
+        },
         {
           "id": "https://news.hada.io/topic?id=6527",
           "author": null,
@@ -195,79 +275,9 @@
           "description": "보다 빠르고, 쉽고, 안전한 로그인 환경을 모든 주요 기기 및 플랫폼에 걸쳐 고객에게 제공\n암호만을 통한 인증 방식은 인터넷 환경에서 가장 큰 보안 문제 중 하나로 손꼽혀왔으며, 소비자는 다수의 암호를 관리하는 번거로움으로 인해 사용 중인 온라인 서비스에 걸쳐 동일한 패스워",
           "link": "https://news.hada.io/topic?id=6525",
           "publishedOn": "2022-05-11T00:42:28.000Z",
-          "wordCount": 283,
+          "wordCount": 294,
           "title": "Apple, Google 및 Microsoft와 함께 FIDO 표준 지원 확대 가속화",
           "imageUrl": "https://social.news.hada.io/topic/6525"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6524",
-          "author": null,
-          "description": "이미지를 특정 크기로 리사이즈\n아이콘 반전\n이미지 배경 제거\nPDF 페이지 순서 정렬\n기존 PDF에서 새로운 PDF 분할 생성하기\nPDF 합치기\nPDF에 싸인하기\n사진에서 위치정보 제거하기\n클립보드에서 이미지 생성하기\nApp ico...",
-          "link": "https://news.hada.io/topic?id=6524",
-          "publishedOn": "2022-05-11T00:06:39.000Z",
-          "wordCount": 126,
-          "title": "맥 Preview 앱의 잘 안 알려진 기능들",
-          "imageUrl": "https://social.news.hada.io/topic/6524"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6523",
-          "author": null,
-          "description": "20여년전 출시했던 iPod 시리즈를 iPod Touch 7세대 모델(A2178, A10칩)로 마무리\n남은 재고만 소진하고 단종\n아이팟의 음악 경험은 아이폰/애플워치/홈팟/맥/아이패드/애플TV에 이르는 모든 애플 제품에 적용되었음\n\n...",
-          "link": "https://news.hada.io/topic?id=6523",
-          "publishedOn": "2022-05-10T23:53:26.000Z",
-          "wordCount": 110,
-          "title": "애플 iPod 단종 - The music lives on",
-          "imageUrl": "https://social.news.hada.io/topic/6523"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6522",
-          "author": null,
-          "description": "Docker는 리눅스 컨테이너를 대중화 : OS 수준 가상화로 소프트웨어 배포를 쉽게 해줌\nCloudflare Workers 나 Deno Deploy 는 JS Container 개념을 구현한 것(서로 다른 환경에서)\nJS 컨테이너는 향후 몇 년간 어떻게 진행될까 ?\nUniversal Scripting Language",
-          "link": "https://news.hada.io/topic?id=6522",
-          "publishedOn": "2022-05-10T02:19:45.000Z",
-          "wordCount": 562,
-          "title": "Ryan Dahl의 JavaScript Containers에 대한 생각",
-          "imageUrl": "https://social.news.hada.io/topic/6522"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6521",
-          "author": null,
-          "description": "지속적으로 변화하는 시민/비즈니스의 요구사항에 대응하는 보안시스템을 구축하기 위해 개발 프랙티스를 현대화\n3가지 목표 : 민첩성 개선, 품질 및 규정 준수 향상, 비용 절감\nSGTS : Singapore Government Tech Stack\n개발 프로세스를 간소화 및 단순화 하고, 범정부...",
-          "link": "https://news.hada.io/topic?id=6521",
-          "publishedOn": "2022-05-10T02:02:52.000Z",
-          "wordCount": 248,
-          "title": "SGTS - 싱가폴 정부 테크 스택",
-          "imageUrl": "https://social.news.hada.io/topic/6521"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6520",
-          "author": null,
-          "description": "골프 토너먼트에서 홀인원에는 상금이 걸린 경우가 있음\n아마추어에겐 12500분의 1 확률이기 때문에 잘 일어나지 않지만, 혹시나 해서 주최자들은 홀인원 보험을 가입함\n홀인원 보험의 역사는 100년전으로 거슬러 올라가지만, 원래의 목적은 다른 것이었음\n예전엔 홀인원 하는 골퍼...",
-          "link": "https://news.hada.io/topic?id=6520",
-          "publishedOn": "2022-05-10T01:39:57.000Z",
-          "wordCount": 655,
-          "title": "기묘한 홀인원 보험 비즈니스의 세계",
-          "imageUrl": "https://social.news.hada.io/topic/6520"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6519",
-          "author": null,
-          "description": "Rust는 성능과 안전성면에서 UI를 구축하는데 매력적이지만, 좋은 아키텍처를 찾는 것이 어려움\n다른 언어에서 잘 동작하는 아키텍처들은 일반적으로 Rust에 잘 안 맞음\n그래서 고성능, Reactive, Dec...",
-          "link": "https://news.hada.io/topic?id=6519",
-          "publishedOn": "2022-05-10T01:17:04.000Z",
-          "wordCount": 180,
-          "title": "Xilem : Rust를 위한 새로운 UI 아키텍처 제안",
-          "imageUrl": "https://social.news.hada.io/topic/6519"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6518",
-          "author": null,
-          "description": "\"넷플릭스가 충격과 공포를 선사하면서, 업계의 제작자들과 넷플릭스 관계자들은 이제 이 OTT 공룡의 문화가 잘못되었다고 점점 목소리를 높이고 있습니다.\"\n넷플릭스의 위기?\n아티스트 신디 홀랜드\n사업가 테드 사란도스\n새로운 콘텐",
-          "link": "https://news.hada.io/topic?id=6518",
-          "publishedOn": "2022-05-10T01:04:19.000Z",
-          "wordCount": 136,
-          "title": "일장춘몽의 끝: 넷플릭스 추락 이면의 알력다툼",
-          "imageUrl": "https://social.news.hada.io/topic/6518"
         }
       ]
     },
