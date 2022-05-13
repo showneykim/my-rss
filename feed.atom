@@ -1,10 +1,120 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-12T01:49:30.509Z</id>
+    <id>urn:2022-05-13T01:52:34.415Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-12T01:49:30.509Z</updated>
+    <updated>2022-05-13T01:52:34.415Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Cloudflare Workers 오픈소스로 공개]]></title>
+        <id>https://news.hada.io/topic?id=6542</id>
+        <link href="https://news.hada.io/topic?id=6542"/>
+        <updated>2022-05-13T01:15:22.000Z</updated>
+        <summary type="html"><![CDATA[서비스 공개 후 5년만에 Workers Runtime을 Apache 2.0 라이센스로 오픈소스 릴리즈]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 파이썬 언어 써밋 : Python without the GIL]]></title>
+        <id>https://news.hada.io/topic?id=6541</id>
+        <link href="https://news.hada.io/topic?id=6541"/>
+        <updated>2022-05-13T01:01:27.000Z</updated>
+        <summary type="html"><![CDATA[GIL(Global Interpreter Lock)이 없는 파이썬을 만들어 보려는 nogil 현재 상황 정리
+Sam Gross가 10월 2021년 PoC 코드(GIL 없는 멀티쓰레디드 파이썬)를 공개
+2022 서밋에서 파이썬 3.12에 새로운 컴파일러 플래그를 제안(기존 제안은 런타임 플래그)
+
+코어 개발자들로 부터 흥분 ...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flutter 3 공개]]></title>
+        <id>https://news.hada.io/topic?id=6540</id>
+        <link href="https://news.hada.io/topic?id=6540"/>
+        <updated>2022-05-13T00:48:51.000Z</updated>
+        <summary type="html"><![CDATA[모바일에서 멀티플랫폼 프레임워크로 가는 완성
+애플 실리콘 지원(유니버설 바이너리)
+Material Design 3
+Flutter/Firebase 연동이 Firebase 코어에 통합(소스 및 문서)되어 더 많은 지원을 받게 될 것
+Flutter Casual Games To...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google I/O 2022 키노트 18분 요약 by Verge]]></title>
+        <id>https://news.hada.io/topic?id=6539</id>
+        <link href="https://news.hada.io/topic?id=6539"/>
+        <updated>2022-05-13T00:28:47.000Z</updated>
+        <summary type="html"><![CDATA[픽셀 워치
+픽셀 7 / 7 Pro / 6A
+픽셀 버즈 프로
+픽셀 타블렛
+구글 검색 (Scene exploration)
+구글 어시스턴트 (Look and talk, Quick phrases)
+안드로이드 13
+구글 월렛
+폰허브 & Fast Pair
+AR 글래스
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[검색의 미래는 부티크다 (a16z 글 번역 및 요약)]]></title>
+        <id>https://news.hada.io/topic?id=6538</id>
+        <link href="https://news.hada.io/topic?id=6538"/>
+        <updated>2022-05-13T00:10:21.000Z</updated>
+        <summary type="html"><![CDATA[요즘 Google 검색은 매우 실망스럽다
+대안적 검색 : DuckDuckGo, Neeva
+부티크 검색 : 검색의 기회는 거대한 수평적 애그리게이터로 구글을 정면 공격하는 것이 아니라 새로운 방식으로 사물을 색인화하고, 선별하고, 정리하...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[테라?, 루나?, 스테이블 코인? 대체 무슨일?]]></title>
+        <id>https://news.hada.io/topic?id=6537</id>
+        <link href="https://news.hada.io/topic?id=6537"/>
+        <updated>2022-05-12T23:59:22.000Z</updated>
+        <summary type="html"><![CDATA[스테이블코인은 코인계의 예금
+미 달러화와 페깅
+담보방식의 문제
+알고리즘으로 풀어보자
+지난 3일간 테라에 생긴 일
+흔들리는 신뢰
+이것이 바로 뱅크런
+Not Stable]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[State of CSS 2022]]></title>
+        <id>https://news.hada.io/topic?id=6536</id>
+        <link href="https://news.hada.io/topic?id=6536"/>
+        <updated>2022-05-12T22:54:25.000Z</updated>
+        <summary type="html"><![CDATA[Google I/O 에서 발표한
+이렇게 모아두니 2022년에도 개선된 게 정말 많군요!]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A CSS Slinky in 3D? Challenge Accepted!]]></title>
+        <id>https://css-tricks.com/?p=365706</id>
+        <link href="https://css-tricks.com/a-css-slinky-in-3d/"/>
+        <updated>2022-05-12T14:27:50.000Z</updated>
+        <summary type="html"><![CDATA[Braydon Coyer recently launched a monthly CSS art challenge. He actually had reached out to me about donating a copy of my book Move Things with CSS to use as a prize for the winner of the challenge — …
+A CSS Slinky in 3D? Challenge Accepted! originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Jhey Tompkins</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PostgresML - ML 모델 훈련 및 예측을 SQL만으로 가능하게 해주는 오픈소스]]></title>
         <id>https://news.hada.io/topic?id=6534</id>
@@ -53,41 +163,6 @@ Paid Access
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USB Cheat Sheet]]></title>
-        <id>https://news.hada.io/topic?id=6531</id>
-        <link href="https://news.hada.io/topic?id=6531"/>
-        <updated>2022-05-12T00:21:01.000Z</updated>
-        <summary type="html"><![CDATA[USB 1.1 부터 USB4 까지의 스펙들 정리
-USB-A/B/C 커넥터 핀을 그림으로 정리
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아직도 DBA는 좋은 직업인가요?]]></title>
-        <id>https://news.hada.io/topic?id=6530</id>
-        <link href="https://news.hada.io/topic?id=6530"/>
-        <updated>2022-05-12T00:06:01.000Z</updated>
-        <summary type="html"><![CDATA["IT업계에서 DBA는 사라지고 있는거야?" 라는 내용으로 HN에 올라온 질문에 대한 답들
-난 개발자였다가 DBA가 되었는데, 개발자 시절에 난 DBA한테 필요한 도움을 받지 못했어. 그래서 난 지금 내가 도움을 받으려고 했던 사람이 되려고 하는데..
-→ 이제서야 문제를 알았어. 우리]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nvidia open source 커널 모듈 드라이버 공개]]></title>
-        <id>https://news.hada.io/topic?id=6529</id>
-        <link href="https://news.hada.io/topic?id=6529"/>
-        <updated>2022-05-11T21:59:10.000Z</updated>
-        <summary type="html"><![CDATA[Nvidia open source 커널 모듈 드라이버 공개]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[COLRv1 and CSS font-palette: Web Typography Gets Colorful]]></title>
         <id>https://css-tricks.com/?p=365677</id>
         <link href="https://css-tricks.com/colrv1-and-css-font-palette-web-typography/"/>
@@ -96,58 +171,6 @@ USB-A/B/C 커넥터 핀을 그림으로 정리
 COLRv1 and CSS font-palette: Web Typography Gets Colorful originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Ollie Williams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DJI, Mini 3 Pro 출시]]></title>
-        <id>https://news.hada.io/topic?id=6528</id>
-        <link href="https://news.hada.io/topic?id=6528"/>
-        <updated>2022-05-11T01:42:15.000Z</updated>
-        <summary type="html"><![CDATA[249g, 4K HDR 영상, 48MP RAW 사진, 짐벌이 90° 회전하여 세로촬영 모드 지원, 최대 47분 비행
-더 커진 프로펠러, 바디 틸트, 3방향 장애물 감지 시스템, 새로운 짐벌
-1/1.3” CMOS 센서 : 듀얼 네이티브 ISO 및 HDR, 2.4μm 픽셀, f/1.7 조리개
-1080p/120fps 슬로모션
-D-C...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bubble Tea - 강력한 TUI 프레임워크]]></title>
-        <id>https://news.hada.io/topic?id=6527</id>
-        <link href="https://news.hada.io/topic?id=6527"/>
-        <updated>2022-05-11T01:08:13.000Z</updated>
-        <summary type="html"><![CDATA[재미있고 기능적이며 Stateful하게 터미널 앱을 개발 지원
-The Elm Architecture(모델/뷰/업데이트)에 기반한 Go 프레임워크
-인라인 같은 간단한 것부터 전체화면 처럼 복잡한 것까지 모두 가능 (복합 포함)
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구글 클라우드, Cloud TPU VM을 일반 공급(GA)]]></title>
-        <id>https://news.hada.io/topic?id=6526</id>
-        <link href="https://news.hada.io/topic?id=6526"/>
-        <updated>2022-05-11T00:54:43.000Z</updated>
-        <summary type="html"><![CDATA[올해 초에 공개한 TPU 하드웨어 접근가능 VM을 이제 누구나 사용 가능
-대규모 랭킹 및 추천 작업에 최적화
-새로운 TPU Embedding API 공개 : ML 기반 랭킹/추천 작업을 가속
-→ TF2 랭킹/추천 API...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple, Google 및 Microsoft와 함께 FIDO 표준 지원 확대 가속화]]></title>
-        <id>https://news.hada.io/topic?id=6525</id>
-        <link href="https://news.hada.io/topic?id=6525"/>
-        <updated>2022-05-11T00:42:28.000Z</updated>
-        <summary type="html"><![CDATA[보다 빠르고, 쉽고, 안전한 로그인 환경을 모든 주요 기기 및 플랫폼에 걸쳐 고객에게 제공
-암호만을 통한 인증 방식은 인터넷 환경에서 가장 큰 보안 문제 중 하나로 손꼽혀왔으며, 소비자는 다수의 암호를 관리하는 번거로움으로 인해 사용 중인 온라인 서비스에 걸쳐 동일한 패스워]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
     </entry>
     <entry>
@@ -579,72 +602,6 @@ Project key는 Information -> Project Key, Organization Key 에서 확인할 수
                     (adsbygoogle = window.adsbygoogle || []).push({});]]></summary>
         <author>
             <name>향로</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[expect에서 false와 falsy 구분하기]]></title>
-        <id>https://jojoldu.tistory.com/664</id>
-        <link href="https://jojoldu.tistory.com/664"/>
-        <updated>2022-04-12T23:39:12.000Z</updated>
-        <summary type="html"><![CDATA[반응형
-
-                    
-                    (adsbygoogle = window.adsbygoogle || []).push({}); 
-               
-
-Jest로 테스트 코드를 작성하다보면 습관적으로 IDE의 자동완성으로 toBeFalsy 와 toBeTruthy 를 사용하곤 했다.
-저 둘이 아닌 toBe(false) 와 toBe(true) 는 한 번의 자동완성으로 안되기 때문에 굳이 사용하진 않았다.
-그러다 팀 분의 의견을 받고 더이상 toBeFalsy() 는 사용하진 않고 있다.
-물론 이에 맞는 쓰임새가 있겠지만, 모든 결과를 강타입으로 처리하는걸 선호하는 입장에서는 toBeFalsy() 는 선호하기가 어렵다.
-다음과 같은 이유 때문이다.
-toBeFalsy() 는 JS에서 false로 판단되는 모든 값들을 기준으로 한다
-내가 의도한것은 boolean 타입의 false 를 원했지만, 수행 결과가 0, undefined, null, '' 이면 toBeFalsy() 는 통과한다
-it('falsy로 검증하면 0도 통과된다', () => {
-  const result = calculate(); // result가 0임에도
-
-  expect(result).toBeFalsy();
-});
-
-실제로 다음과 같이 테스트 코드를 작성해서 테스트를 해보면 모든 값들이 통과한다
-it.each([
-  [0],
-  [''],
-  [false],
-  [undefined],
-  [null],
-])("calculate 결과가 %s이면 toBeFalsy 를 통과한다", (calculateResult) => {
-  const result = calculate(calculateResult);
-
-  expect(result).toBeFalsy();
-});
-
-그래서 정확하게 boolean:false를 기대한다면 toBe(false) 로 검증해야만 한다.
-it('toBe(false)로 검증하면 0은 통과되지 못한다', () => {
-  const result = calculate(0);
-
-  expect(result).toBe(false);
-});
-
-테스트 코드는 두루뭉실하게 이것도 되고, 저것도 통과되도록 하는 것이 목표는 아니다. 
-원하는 결과가 명확하다면 그에 맞게 검증문 작성이 필요하다.
-            
-반응형
-
-                    
-                    (adsbygoogle = window.adsbygoogle || []).push({});]]></summary>
-        <author>
-            <name>향로</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Add a CSS Lens Flare to Photos for a Bright Touch]]></title>
-        <id>https://css-tricks.com/?p=364385</id>
-        <link href="https://css-tricks.com/add-a-css-lens-flare-to-photos-for-a-bright-touch/"/>
-        <updated>2022-04-12T17:10:13.000Z</updated>
-        <summary type="html"><![CDATA[I’m a big fan of movies by J.J. Abrams. I enjoy their tight plots, quippy dialog, and of course: anamorphic lens flares. Filmmakers like Abrams use lens flare to add a dash of ‘homemade’ realism to their movies, …
-Add a CSS Lens Flare to Photos for a Bright Touch originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Shimin Zhang</name>
         </author>
     </entry>
 </feed>
