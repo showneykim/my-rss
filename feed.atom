@@ -1,10 +1,108 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-13T01:52:34.415Z</id>
+    <id>urn:2022-05-14T01:57:21.979Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-13T01:52:34.415Z</updated>
+    <updated>2022-05-14T01:57:21.979Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[일런 머스크, 트위터 딜 잠시 중단]]></title>
+        <id>https://news.hada.io/topic?id=6548</id>
+        <link href="https://news.hada.io/topic?id=6548"/>
+        <updated>2022-05-14T01:01:27.000Z</updated>
+        <summary type="html"><![CDATA[트위터의 1사분기 발표에서 일 활동 계정의 5%가 스팸/가짜 계정이라는 추정 때문
+하지만, 자신은 아직 트위터 인수에 전념하고 있다고
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글 지도, Immersive View 도입 예정]]></title>
+        <id>https://news.hada.io/topic?id=6547</id>
+        <link href="https://news.hada.io/topic?id=6547"/>
+        <updated>2022-05-14T00:44:55.000Z</updated>
+        <summary type="html"><![CDATA[컴퓨터 비젼과 AI의 발달로 스트리트 뷰와 항공 이미지를 결합하여 세상의 디지털 모델을 생성
+이웃부터 랜드마크, 식당, 유명 장소 등을 바로 앞에 있는 것처럼 볼 수 있게
+스마트폰을 포함한 모든 장치에서 작동
+올해말 로스엔젤레스, 런던, 뉴욕, 샌프란시스코, 도쿄 부터 시작해...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[밍치 궈, 애플이 아이폰 15부터는 USB-C를 도입할 것이라고 주장]]></title>
+        <id>https://news.hada.io/topic?id=6546</id>
+        <link href="https://news.hada.io/topic?id=6546"/>
+        <updated>2022-05-14T00:22:33.000Z</updated>
+        <summary type="html"><![CDATA[2023년 하반기에 나올 예정인 아이폰 15 부터는 USB-C를 도입할 것
+기존에는 MiFi 및 방수 문제로 라이트닝을 고수할 것이라고 얘기했지만, EU가 애플에 압력을 가하는등의 이유로 애플이 어조를 바꿨다고
+iPad에서는 이미 USB-C로 사용하고 있음
+초기에는 애플이 MagSafe로 전환하...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Red Hat Enterprise Linux 9 공개]]></title>
+        <id>https://news.hada.io/topic?id=6545</id>
+        <link href="https://news.hada.io/topic?id=6545"/>
+        <updated>2022-05-14T00:04:30.000Z</updated>
+        <summary type="html"><![CDATA[CentOS Stream 에서 빌드되는 첫번째 릴리즈
+주요 개선 사항
+
+포괄적인 엣지 관리
+Podman 으로 자동 컨테이너 롤백
+새로운 이미지 빌더
+AWS Graviton 프로세서 연동
+Spectre / Meltdown 취약점 개선
+WireGuard VPN이 unsupported technology pr...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cool Hover Effects That Use CSS Text Shadow]]></title>
+        <id>https://css-tricks.com/?p=365738</id>
+        <link href="https://css-tricks.com/cool-hover-effects-that-use-css-text-shadow/"/>
+        <updated>2022-05-13T14:43:17.000Z</updated>
+        <summary type="html"><![CDATA[In my last article we saw how CSS background properties allow us to create cool hover effects. This time, we will focus on the CSS text-shadow property to explore even more interesting hovers. You are probably wondering how adding shadow …
+Cool Hover Effects That Use CSS Text Shadow originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Airbridge API 개발팀의 Monorepo 도입기]]></title>
+        <id>https://news.hada.io/topic?id=6544</id>
+        <link href="https://news.hada.io/topic?id=6544"/>
+        <updated>2022-05-13T09:40:50.000Z</updated>
+        <summary type="html"><![CDATA[Airbridge API 개발팀에서 Monorepo를 도입하게된 계기와 도입 과정에서 겪은 문제를 해결한 사례를 소개합니다.
+Monorepo 도입 배경
+
+Monorepo란?
+Airbridge API 팀의 도입 배경
+작업 목표
+
+동일한 개발 경험을 유지하면서 Monorepo 저장소 도입
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=6543</id>
+        <link href="https://news.hada.io/topic?id=6543"/>
+        <updated>2022-05-13T02:13:06.000Z</updated>
+        <summary type="html"><![CDATA[이번 주말에 뭘 하려고 계획 중인지 편하게 얘기해 보아요.
+읽을 책, 가볼 곳, 해볼 것.. 어떤 것이든 좋습니다.
+지난 주말에 계획하셨던 일의 회고도 한번 남겨봐 주세요.]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cloudflare Workers 오픈소스로 공개]]></title>
         <id>https://news.hada.io/topic?id=6542</id>
@@ -65,46 +163,6 @@ AR 글래스
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[검색의 미래는 부티크다 (a16z 글 번역 및 요약)]]></title>
-        <id>https://news.hada.io/topic?id=6538</id>
-        <link href="https://news.hada.io/topic?id=6538"/>
-        <updated>2022-05-13T00:10:21.000Z</updated>
-        <summary type="html"><![CDATA[요즘 Google 검색은 매우 실망스럽다
-대안적 검색 : DuckDuckGo, Neeva
-부티크 검색 : 검색의 기회는 거대한 수평적 애그리게이터로 구글을 정면 공격하는 것이 아니라 새로운 방식으로 사물을 색인화하고, 선별하고, 정리하...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[테라?, 루나?, 스테이블 코인? 대체 무슨일?]]></title>
-        <id>https://news.hada.io/topic?id=6537</id>
-        <link href="https://news.hada.io/topic?id=6537"/>
-        <updated>2022-05-12T23:59:22.000Z</updated>
-        <summary type="html"><![CDATA[스테이블코인은 코인계의 예금
-미 달러화와 페깅
-담보방식의 문제
-알고리즘으로 풀어보자
-지난 3일간 테라에 생긴 일
-흔들리는 신뢰
-이것이 바로 뱅크런
-Not Stable]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[State of CSS 2022]]></title>
-        <id>https://news.hada.io/topic?id=6536</id>
-        <link href="https://news.hada.io/topic?id=6536"/>
-        <updated>2022-05-12T22:54:25.000Z</updated>
-        <summary type="html"><![CDATA[Google I/O 에서 발표한
-이렇게 모아두니 2022년에도 개선된 게 정말 많군요!]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A CSS Slinky in 3D? Challenge Accepted!]]></title>
         <id>https://css-tricks.com/?p=365706</id>
         <link href="https://css-tricks.com/a-css-slinky-in-3d/"/>
@@ -113,53 +171,6 @@ Not Stable]]></summary>
 A CSS Slinky in 3D? Challenge Accepted! originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Jhey Tompkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PostgresML - ML 모델 훈련 및 예측을 SQL만으로 가능하게 해주는 오픈소스]]></title>
-        <id>https://news.hada.io/topic?id=6534</id>
-        <link href="https://news.hada.io/topic?id=6534"/>
-        <updated>2022-05-12T01:33:01.000Z</updated>
-        <summary type="html"><![CDATA["end-to-end 머신러닝 시스템"
-머신러닝 모델을 기존 어플리케이션에 도입하기 위해 필요한 복잡함(특정 언어, 라이브러리, 하드웨어, 서비스 등)을 제거
-사용중인 Postgres 연결과 SQL을 이용해서 모델을 훈련하고, 예측값을 얻기
-SQL을 아는 누구나 머신러닝 모델을 만...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[trdsql - CSV/JSON 등에 SQL로 쿼리하는 CLI도구]]></title>
-        <id>https://news.hada.io/topic?id=6533</id>
-        <link href="https://news.hada.io/topic?id=6533"/>
-        <updated>2022-05-12T01:07:01.000Z</updated>
-        <summary type="html"><![CDATA[q/texql과 비슷하지만 PostgreSQL/MySQL의 SQL 구문을 지원
-CSV/JSON/LTSV/MarkDown/RAW/TBLN 등의 출력 포맷 지원
-리눅스/윈/맥 지원
-Go 오픈소스
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오픈소스를 수익화 하는 법 - Awesome OSS Monetization]]></title>
-        <id>https://news.hada.io/topic?id=6532</id>
-        <link href="https://news.hada.io/topic?id=6532"/>
-        <updated>2022-05-12T00:36:01.000Z</updated>
-        <summary type="html"><![CDATA[수익화 방법들의 장단점등을 평가하고, 그 방식으로 운영중인 오픈소스들을 정리
-비조건적 펀딩
-개인 기부
-회사 스폰서
-그랜트 및 Stipend
-Paid Access
-유료 얼리 액세스
-유료 커뮤니티 액세스
-웹사이트 광고
-유료]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
     </entry>
     <entry>
@@ -498,18 +509,6 @@ Adding Tailwind CSS to New and Existing WordPress Themes originally published on
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Making Mermaid Diagrams in Markdown]]></title>
-        <id>https://css-tricks.com/?p=364908</id>
-        <link href="https://css-tricks.com/making-mermaid-diagrams-in-markdown/"/>
-        <updated>2022-04-18T16:01:08.000Z</updated>
-        <summary type="html"><![CDATA[Mermaid diagrams and flowcharts have been gaining traction, especially with GitHub’s announcement that they are natively supported in Markdown. Let’s take a look at what they are, how to use them, and just as importantly: why.
-Just like you …
-Making Mermaid Diagrams in Markdown originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Paul Esch-Laurent</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[CloudFront 모니터링 하기]]></title>
         <id>https://jojoldu.tistory.com/666</id>
         <link href="https://jojoldu.tistory.com/666"/>
@@ -553,48 +552,6 @@ ErrorRate의 경우 이상 탐지로 해도 괜찮으나, 서비스에 따라 �
 그리고 정상 -> 경보, 경보 -> 정상일 경우 Slack 알람이 가도록 구성한다.
 (테스트용도로 0%일 경우 발송이 되는지 진행했을때의 슬랙 알람이다.)
 CloudWatch 경보 & SNS & Lambda를 통한 Slack 알람 발송의 자세한 구성 방법은 이전에 작성된 포스팅을 참고한다.
-            
-반응형
-
-                    
-                    (adsbygoogle = window.adsbygoogle || []).push({});]]></summary>
-        <author>
-            <name>향로</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SonarLint와 SonarCloud 연동하기 (WebStorm Plugin)]]></title>
-        <id>https://jojoldu.tistory.com/665</id>
-        <link href="https://jojoldu.tistory.com/665"/>
-        <updated>2022-04-14T01:35:12.000Z</updated>
-        <summary type="html"><![CDATA[반응형
-
-                    
-                    (adsbygoogle = window.adsbygoogle || []).push({}); 
-               
-
-지난 시간에 프로젝트와 SonarCloud 연동을 했습니다. 
-이번 시간에는 프로젝트와 연결된 SonarCloud를 개발환경인 WebStorm의 SonarLint 플러그인과 연동해서 IDE로 개발 중에도 SonarCloud 검증이 되도록 설정해보겠습니다.
-1. 설정
-먼저 SonarLint 플러그인을 설치합니다.
-설치된 SonarLint 플러그인의 설정을 열어봅니다. 
-아래와 같이 Action 검색 (CMD + Shift + A) 을 통해 검색합니다.
-다음과 같이 커넥션 연결 화면이 나온다면 Configure the connection 을 선택합니다.
-SonarQube / SonarCloud connections의 + 버튼을 클리해서 새로운 커넥션을 추가합니다.
-여기서는 SonarCloud를 쓰고 있으니 SonarCloud를 선택합니다.
-Next로 넘어가면 Token 입력창이 등장합니다. 
-해당 Token 발급을 위해 다시 SonarCloud 로 넘어갑니다. 
-SonarCloud의 (우측상단) Profile -> My Account로 차례로 이동합니다.
-Security 탭을 보면 Token을 생성할 수 있습니다. 
-해당 페이지에서 Token을 생성한 뒤,
-IDE Connection 입력창에서 Token을 등록합니다.
-그럼 다음과 같이 SonarCloud의 Organization 항목이 나오는데 이를 선택합니다.
-그럼 Connection은 완료되었고, 남은 것은 Project key 입니다. 
-Project key는 Information -> Project Key, Organization Key 에서 확인할 수 있습니다.
-그럼 다음과 같이 설정이 마무리됩니다.
-2. 마무리
-이렇게 설정이 끝나면 이제 SonarCloud(혹은 SoncarQube) 가 잡아주는 여러 규칙들을 IDE에서도 만날 수 있습니다.
-위 Sonar 규칙은 SonarCloud(혹은 SoncarQube)와 동일한 것을 확인할 수 있습니다.
             
 반응형
 

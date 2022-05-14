@@ -6,12 +6,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=365738",
+          "author": "Temani Afif",
+          "description": "In my last article we saw how CSS background properties allow us to create cool hover effects. This time, we will focus on the CSS text-shadow property to explore even more interesting hovers. You are probably wondering how adding shadow …\nCool Hover Effects That Use CSS Text Shadow originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/cool-hover-effects-that-use-css-text-shadow/",
+          "publishedOn": "2022-05-13T14:43:17.000Z",
+          "wordCount": 2214,
+          "title": "Cool Hover Effects That Use CSS Text Shadow",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365738"
+        },
+        {
           "id": "https://css-tricks.com/?p=365706",
           "author": "Jhey Tompkins",
           "description": "Braydon Coyer recently launched a monthly CSS art challenge. He actually had reached out to me about donating a copy of my book Move Things with CSS to use as a prize for the winner of the challenge — …\nA CSS Slinky in 3D? Challenge Accepted! originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/a-css-slinky-in-3d/",
           "publishedOn": "2022-05-12T14:27:50.000Z",
-          "wordCount": 3288,
+          "wordCount": 3711,
           "title": "A CSS Slinky in 3D? Challenge Accepted!",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365706"
         },
@@ -21,7 +31,7 @@
           "description": "According to Toshi Omagari, the author of Arcade Game Typography, the world’s first multi-colored digital font was created in 1982 for a never-released video game called Insector. Multi-colored fonts, sometimes called chromatic type, are still relatively rare on the …\nCOLRv1 and CSS font-palette: Web Typography Gets Colorful originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/colrv1-and-css-font-palette-web-typography/",
           "publishedOn": "2022-05-11T14:12:51.000Z",
-          "wordCount": 2452,
+          "wordCount": 2569,
           "title": "COLRv1 and CSS font-palette: Web Typography Gets Colorful",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365677"
         },
@@ -51,7 +61,7 @@
           "description": "Let’s say you have a website built on a platform that excels at design and it’s available at example.com. But that platform falls short at blogging. So you think to yourself, “What if I could use a different blogging …\nHow to Serve a Subdomain as a Subdirectory originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/how-to-serve-a-subdomain-as-a-subdirectory/",
           "publishedOn": "2022-05-06T14:19:44.000Z",
-          "wordCount": 2167,
+          "wordCount": 2200,
           "title": "How to Serve a Subdomain as a Subdirectory",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365614"
         },
@@ -144,16 +154,6 @@
           "wordCount": 3708,
           "title": "Adding Tailwind CSS to New and Existing WordPress Themes",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364880"
-        },
-        {
-          "id": "https://css-tricks.com/?p=364908",
-          "author": "Paul Esch-Laurent",
-          "description": "Mermaid diagrams and flowcharts have been gaining traction, especially with GitHub’s announcement that they are natively supported in Markdown. Let’s take a look at what they are, how to use them, and just as importantly: why.\nJust like you …\nMaking Mermaid Diagrams in Markdown originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/making-mermaid-diagrams-in-markdown/",
-          "publishedOn": "2022-04-18T16:01:08.000Z",
-          "wordCount": 1557,
-          "title": "Making Mermaid Diagrams in Markdown",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364908"
         }
       ]
     },
@@ -168,7 +168,7 @@
           "description": "MongoDB Developer Workshop 후기 (with Google Cloud) 오랜만에 포스팅입니다. 정말 오랜만이네요. 이직하고나서 딱히 쓸 글이 없었습니다. 다들 저보다 잘하시고, 연차는 쌓여가는데 초급 포스팅만 계속 하기도 좀 그랬습니다. 이번에 MongoDB Korea에서 오프라인 핸즈온 세미나를 열었습니다....\nThe post MongoDB Developer Workshop 후기 (with Google Cloud) appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/mongodb-developer-workshop-%ed%9b%84%ea%b8%b0-with-google-cloud/",
           "publishedOn": "2022-04-22T14:29:18.000Z",
-          "wordCount": 1060,
+          "wordCount": 1059,
           "title": "MongoDB Developer Workshop 후기 (with Google Cloud)",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2020/04/37_2019081518484308.jpg"
         }
@@ -179,6 +179,66 @@
       "feedUrl": "https://news.hada.io/rss/news",
       "siteUrl": "https://news.hada.io",
       "articles": [
+        {
+          "id": "https://news.hada.io/topic?id=6548",
+          "author": null,
+          "description": "트위터의 1사분기 발표에서 일 활동 계정의 5%가 스팸/가짜 계정이라는 추정 때문\n하지만, 자신은 아직 트위터 인수에 전념하고 있다고\n\n...",
+          "link": "https://news.hada.io/topic?id=6548",
+          "publishedOn": "2022-05-14T01:01:27.000Z",
+          "wordCount": 90,
+          "title": "일런 머스크, 트위터 딜 잠시 중단",
+          "imageUrl": "https://social.news.hada.io/topic/6548"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6547",
+          "author": null,
+          "description": "컴퓨터 비젼과 AI의 발달로 스트리트 뷰와 항공 이미지를 결합하여 세상의 디지털 모델을 생성\n이웃부터 랜드마크, 식당, 유명 장소 등을 바로 앞에 있는 것처럼 볼 수 있게\n스마트폰을 포함한 모든 장치에서 작동\n올해말 로스엔젤레스, 런던, 뉴욕, 샌프란시스코, 도쿄 부터 시작해...",
+          "link": "https://news.hada.io/topic?id=6547",
+          "publishedOn": "2022-05-14T00:44:55.000Z",
+          "wordCount": 101,
+          "title": "구글 지도, Immersive View 도입 예정",
+          "imageUrl": "https://social.news.hada.io/topic/6547"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6546",
+          "author": null,
+          "description": "2023년 하반기에 나올 예정인 아이폰 15 부터는 USB-C를 도입할 것\n기존에는 MiFi 및 방수 문제로 라이트닝을 고수할 것이라고 얘기했지만, EU가 애플에 압력을 가하는등의 이유로 애플이 어조를 바꿨다고\niPad에서는 이미 USB-C로 사용하고 있음\n초기에는 애플이 MagSafe로 전환하...",
+          "link": "https://news.hada.io/topic?id=6546",
+          "publishedOn": "2022-05-14T00:22:33.000Z",
+          "wordCount": 116,
+          "title": "밍치 궈, 애플이 아이폰 15부터는 USB-C를 도입할 것이라고 주장",
+          "imageUrl": "https://social.news.hada.io/topic/6546"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6545",
+          "author": null,
+          "description": "CentOS Stream 에서 빌드되는 첫번째 릴리즈\n주요 개선 사항\n\n포괄적인 엣지 관리\nPodman 으로 자동 컨테이너 롤백\n새로운 이미지 빌더\nAWS Graviton 프로세서 연동\nSpectre / Meltdown 취약점 개선\nWireGuard VPN이 unsupported technology pr...",
+          "link": "https://news.hada.io/topic?id=6545",
+          "publishedOn": "2022-05-14T00:04:30.000Z",
+          "wordCount": 112,
+          "title": "Red Hat Enterprise Linux 9 공개",
+          "imageUrl": "https://social.news.hada.io/topic/6545"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6544",
+          "author": null,
+          "description": "Airbridge API 개발팀에서 Monorepo를 도입하게된 계기와 도입 과정에서 겪은 문제를 해결한 사례를 소개합니다.\nMonorepo 도입 배경\n\nMonorepo란?\nAirbridge API 팀의 도입 배경\n작업 목표\n\n동일한 개발 경험을 유지하면서 Monorepo 저장소 도입\n...",
+          "link": "https://news.hada.io/topic?id=6544",
+          "publishedOn": "2022-05-13T09:40:50.000Z",
+          "wordCount": 158,
+          "title": "Airbridge API 개발팀의 Monorepo 도입기",
+          "imageUrl": "https://social.news.hada.io/topic/6544"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6543",
+          "author": null,
+          "description": "이번 주말에 뭘 하려고 계획 중인지 편하게 얘기해 보아요.\n읽을 책, 가볼 곳, 해볼 것.. 어떤 것이든 좋습니다.\n지난 주말에 계획하셨던 일의 회고도 한번 남겨봐 주세요.",
+          "link": "https://news.hada.io/topic?id=6543",
+          "publishedOn": "2022-05-13T02:13:06.000Z",
+          "wordCount": 154,
+          "title": "Ask GN: 이번 주말에 뭐 하시나요?",
+          "imageUrl": "https://social.news.hada.io/topic/6543"
+        },
         {
           "id": "https://news.hada.io/topic?id=6542",
           "author": null,
@@ -215,69 +275,9 @@
           "description": "픽셀 워치\n픽셀 7 / 7 Pro / 6A\n픽셀 버즈 프로\n픽셀 타블렛\n구글 검색 (Scene exploration)\n구글 어시스턴트 (Look and talk, Quick phrases)\n안드로이드 13\n구글 월렛\n폰허브 & Fast Pair\nAR 글래스\n\n...",
           "link": "https://news.hada.io/topic?id=6539",
           "publishedOn": "2022-05-13T00:28:47.000Z",
-          "wordCount": 118,
+          "wordCount": 131,
           "title": "Google I/O 2022 키노트 18분 요약 by Verge",
           "imageUrl": "https://social.news.hada.io/topic/6539"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6538",
-          "author": null,
-          "description": "요즘 Google 검색은 매우 실망스럽다\n대안적 검색 : DuckDuckGo, Neeva\n부티크 검색 : 검색의 기회는 거대한 수평적 애그리게이터로 구글을 정면 공격하는 것이 아니라 새로운 방식으로 사물을 색인화하고, 선별하고, 정리하...",
-          "link": "https://news.hada.io/topic?id=6538",
-          "publishedOn": "2022-05-13T00:10:21.000Z",
-          "wordCount": 202,
-          "title": "검색의 미래는 부티크다 (a16z 글 번역 및 요약)",
-          "imageUrl": "https://social.news.hada.io/topic/6538"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6537",
-          "author": null,
-          "description": "스테이블코인은 코인계의 예금\n미 달러화와 페깅\n담보방식의 문제\n알고리즘으로 풀어보자\n지난 3일간 테라에 생긴 일\n흔들리는 신뢰\n이것이 바로 뱅크런\nNot Stable",
-          "link": "https://news.hada.io/topic?id=6537",
-          "publishedOn": "2022-05-12T23:59:22.000Z",
-          "wordCount": 135,
-          "title": "테라?, 루나?, 스테이블 코인? 대체 무슨일?",
-          "imageUrl": "https://social.news.hada.io/topic/6537"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6536",
-          "author": null,
-          "description": "Google I/O 에서 발표한\n이렇게 모아두니 2022년에도 개선된 게 정말 많군요!",
-          "link": "https://news.hada.io/topic?id=6536",
-          "publishedOn": "2022-05-12T22:54:25.000Z",
-          "wordCount": 69,
-          "title": "State of CSS 2022",
-          "imageUrl": "https://social.news.hada.io/topic/6536"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6534",
-          "author": null,
-          "description": "\"end-to-end 머신러닝 시스템\"\n머신러닝 모델을 기존 어플리케이션에 도입하기 위해 필요한 복잡함(특정 언어, 라이브러리, 하드웨어, 서비스 등)을 제거\n사용중인 Postgres 연결과 SQL을 이용해서 모델을 훈련하고, 예측값을 얻기\nSQL을 아는 누구나 머신러닝 모델을 만...",
-          "link": "https://news.hada.io/topic?id=6534",
-          "publishedOn": "2022-05-12T01:33:01.000Z",
-          "wordCount": 103,
-          "title": "PostgresML - ML 모델 훈련 및 예측을 SQL만으로 가능하게 해주는 오픈소스",
-          "imageUrl": "https://social.news.hada.io/topic/6534"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6533",
-          "author": null,
-          "description": "q/texql과 비슷하지만 PostgreSQL/MySQL의 SQL 구문을 지원\nCSV/JSON/LTSV/MarkDown/RAW/TBLN 등의 출력 포맷 지원\n리눅스/윈/맥 지원\nGo 오픈소스\n\n...",
-          "link": "https://news.hada.io/topic?id=6533",
-          "publishedOn": "2022-05-12T01:07:01.000Z",
-          "wordCount": 83,
-          "title": "trdsql - CSV/JSON 등에 SQL로 쿼리하는 CLI도구",
-          "imageUrl": "https://social.news.hada.io/topic/6533"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6532",
-          "author": null,
-          "description": "수익화 방법들의 장단점등을 평가하고, 그 방식으로 운영중인 오픈소스들을 정리\n비조건적 펀딩\n개인 기부\n회사 스폰서\n그랜트 및 Stipend\nPaid Access\n유료 얼리 액세스\n유료 커뮤니티 액세스\n웹사이트 광고\n유료",
-          "link": "https://news.hada.io/topic?id=6532",
-          "publishedOn": "2022-05-12T00:36:01.000Z",
-          "wordCount": 241,
-          "title": "오픈소스를 수익화 하는 법 - Awesome OSS Monetization",
-          "imageUrl": "https://social.news.hada.io/topic/6532"
         }
       ]
     },
@@ -335,16 +335,6 @@
           "wordCount": 500,
           "title": "CloudFront 모니터링 하기",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FdefD5k%2Fbtrzx9QV9P0%2FjdIPImt7egfwWdl4VQxsTK%2Fimg.jpg"
-        },
-        {
-          "id": "https://jojoldu.tistory.com/665",
-          "author": "향로",
-          "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\n지난 시간에 프로젝트와 SonarCloud 연동을 했습니다. \n이번 시간에는 프로젝트와 연결된 SonarCloud를 개발환경인 WebStorm의 SonarLint 플러그인과 연동해서 IDE로 개발 중에도 SonarCloud 검증이 되도록 설정해보겠습니다.\n1. 설정\n먼저 SonarLint 플러그인을 설치합니다.\n설치된 SonarLint 플러그인의 설정을 열어봅니다. \n아래와 같이 Action 검색 (CMD + Shift + A) 을 통해 검색합니다.\n다음과 같이 커넥션 연결 화면이 나온다면 Configure the connection 을 선택합니다.\nSonarQube / SonarCloud connections의 + 버튼을 클리해서 새로운 커넥션을 추가합니다.\n여기서는 SonarCloud를 쓰고 있으니 SonarCloud를 선택합니다.\nNext로 넘어가면 Token 입력창이 등장합니다. \n해당 Token 발급을 위해 다시 SonarCloud 로 넘어갑니다. \nSonarCloud의 (우측상단) Profile -> My Account로 차례로 이동합니다.\nSecurity 탭을 보면 Token을 생성할 수 있습니다. \n해당 페이지에서 Token을 생성한 뒤,\nIDE Connection 입력창에서 Token을 등록합니다.\n그럼 다음과 같이 SonarCloud의 Organization 항목이 나오는데 이를 선택합니다.\n그럼 Connection은 완료되었고, 남은 것은 Project key 입니다. \nProject key는 Information -> Project Key, Organization Key 에서 확인할 수 있습니다.\n그럼 다음과 같이 설정이 마무리됩니다.\n2. 마무리\n이렇게 설정이 끝나면 이제 SonarCloud(혹은 SoncarQube) 가 잡아주는 여러 규칙들을 IDE에서도 만날 수 있습니다.\n위 Sonar 규칙은 SonarCloud(혹은 SoncarQube)와 동일한 것을 확인할 수 있습니다.\n            \n반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({});",
-          "link": "https://jojoldu.tistory.com/665",
-          "publishedOn": "2022-04-14T01:35:12.000Z",
-          "wordCount": 336,
-          "title": "SonarLint와 SonarCloud 연동하기 (WebStorm Plugin)",
-          "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcW9GuD%2FbtrzjY2nAWV%2Fx6KxxJyIlM6QpGLb20qnp0%2Fimg.png"
         }
       ]
     }
