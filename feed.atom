@@ -1,10 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-14T01:57:21.979Z</id>
+    <id>urn:2022-05-15T01:54:26.535Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-14T01:57:21.979Z</updated>
+    <updated>2022-05-15T01:54:26.535Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Markdoc - 마크다운 기반 문서 저작 프레임워크]]></title>
+        <id>https://news.hada.io/topic?id=6551</id>
+        <link href="https://news.hada.io/topic?id=6551"/>
+        <updated>2022-05-15T01:14:01.000Z</updated>
+        <summary type="html"><![CDATA[개인용 블로그 부터 대규모 문서 사이트까지 작성 가능한 마크다운 문법 및 툴체인
+Stripe가 공개용 문서들을 작성하기 위해 만든 markdown-it 기반 오픈소스
+CommonMark를 확장해서 마크업을 추가
+
+Tag
+{% tag %} Content {% /tag %}
+{% if true %}...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Parca - eBPF 기반의 지속적인 CPU/메모리 프로파일러]]></title>
+        <id>https://news.hada.io/topic?id=6550</id>
+        <link href="https://news.hada.io/topic?id=6550"/>
+        <updated>2022-05-15T00:34:01.000Z</updated>
+        <summary type="html"><![CDATA[비용 절감 / 성능 향상 / 각종 사고 분석
+eBPF를 이용해서 매우 적은 오버헤드로 systemd/kubernetes 등 전체 적용 가능
+pprof 표준 포맷을 지원해서 다양한 도구와 연동 가능
+효율적으로 프로파일 데이터를 저장하고, 검색을 최적화
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta, Jest를 OpenJS 재단으로 이관]]></title>
+        <id>https://news.hada.io/topic?id=6549</id>
+        <link href="https://news.hada.io/topic?id=6549"/>
+        <updated>2022-05-15T00:13:01.000Z</updated>
+        <summary type="html"><![CDATA[가장 많이 사용되는 오픈소스 JavaScript 테스팅 프레임워크인 Jest를 OpenJS로 이관
+2011년에 페이스북의 채팅 기능을 JS로 재작성 중에 개발되었고, 2014년에 오픈소스로 공개
+초기엔 페이스북 엔지니어들에 의해 파트타임으로 관리되었고, 2018년에 Jest Open Collective를 발표해서 외부...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[일런 머스크, 트위터 딜 잠시 중단]]></title>
         <id>https://news.hada.io/topic?id=6548</id>
@@ -109,55 +152,6 @@ Airbridge API 팀의 도입 배경
         <link href="https://news.hada.io/topic?id=6542"/>
         <updated>2022-05-13T01:15:22.000Z</updated>
         <summary type="html"><![CDATA[서비스 공개 후 5년만에 Workers Runtime을 Apache 2.0 라이센스로 오픈소스 릴리즈]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 파이썬 언어 써밋 : Python without the GIL]]></title>
-        <id>https://news.hada.io/topic?id=6541</id>
-        <link href="https://news.hada.io/topic?id=6541"/>
-        <updated>2022-05-13T01:01:27.000Z</updated>
-        <summary type="html"><![CDATA[GIL(Global Interpreter Lock)이 없는 파이썬을 만들어 보려는 nogil 현재 상황 정리
-Sam Gross가 10월 2021년 PoC 코드(GIL 없는 멀티쓰레디드 파이썬)를 공개
-2022 서밋에서 파이썬 3.12에 새로운 컴파일러 플래그를 제안(기존 제안은 런타임 플래그)
-
-코어 개발자들로 부터 흥분 ...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flutter 3 공개]]></title>
-        <id>https://news.hada.io/topic?id=6540</id>
-        <link href="https://news.hada.io/topic?id=6540"/>
-        <updated>2022-05-13T00:48:51.000Z</updated>
-        <summary type="html"><![CDATA[모바일에서 멀티플랫폼 프레임워크로 가는 완성
-애플 실리콘 지원(유니버설 바이너리)
-Material Design 3
-Flutter/Firebase 연동이 Firebase 코어에 통합(소스 및 문서)되어 더 많은 지원을 받게 될 것
-Flutter Casual Games To...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google I/O 2022 키노트 18분 요약 by Verge]]></title>
-        <id>https://news.hada.io/topic?id=6539</id>
-        <link href="https://news.hada.io/topic?id=6539"/>
-        <updated>2022-05-13T00:28:47.000Z</updated>
-        <summary type="html"><![CDATA[픽셀 워치
-픽셀 7 / 7 Pro / 6A
-픽셀 버즈 프로
-픽셀 타블렛
-구글 검색 (Scene exploration)
-구글 어시스턴트 (Look and talk, Quick phrases)
-안드로이드 13
-구글 월렛
-폰허브 & Fast Pair
-AR 글래스
-
-...]]></summary>
         <author>
             <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
