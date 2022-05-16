@@ -168,7 +168,7 @@
           "description": "MongoDB Developer Workshop 후기 (with Google Cloud) 오랜만에 포스팅입니다. 정말 오랜만이네요. 이직하고나서 딱히 쓸 글이 없었습니다. 다들 저보다 잘하시고, 연차는 쌓여가는데 초급 포스팅만 계속 하기도 좀 그랬습니다. 이번에 MongoDB Korea에서 오프라인 핸즈온 세미나를 열었습니다....\nThe post MongoDB Developer Workshop 후기 (with Google Cloud) appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/mongodb-developer-workshop-%ed%9b%84%ea%b8%b0-with-google-cloud/",
           "publishedOn": "2022-04-22T14:29:18.000Z",
-          "wordCount": 1059,
+          "wordCount": 1057,
           "title": "MongoDB Developer Workshop 후기 (with Google Cloud)",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2020/04/37_2019081518484308.jpg"
         }
@@ -179,6 +179,56 @@
       "feedUrl": "https://news.hada.io/rss/news",
       "siteUrl": "https://news.hada.io",
       "articles": [
+        {
+          "id": "https://news.hada.io/topic?id=6556",
+          "author": null,
+          "description": "좋은 보스는 의견 불일치를 장려. 최고의 답을 찾는 목표를 가진 토론을 환영\n좋은 보스는 외부의 적을 만듦. 명분과 초점을 앞세워 조직을 집결시킴\n→ 나쁜 보스는 직원들끼리 싸우게 하고, 결과보다 정...",
+          "link": "https://news.hada.io/topic?id=6556",
+          "publishedOn": "2022-05-16T01:10:32.000Z",
+          "wordCount": 261,
+          "title": "좋은 보스가 사용하는 트릭들",
+          "imageUrl": "https://social.news.hada.io/topic/6556"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6555",
+          "author": null,
+          "description": "구글에서 Replit으로 이직한 스캇 케네디의 회고 번역글\n꿈의 직장이었던 구글을 떠난 이유는 \"균형\". 왜 불행했던걸까요 ?\n팬데믹으로 세번째가 부서지고, 운동하다 다",
+          "link": "https://news.hada.io/topic?id=6555",
+          "publishedOn": "2022-05-16T00:59:49.000Z",
+          "wordCount": 150,
+          "title": "내가 구글을 떠난 이유 : 워크-라이프-밸런스",
+          "imageUrl": "https://social.news.hada.io/topic/6555"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6554",
+          "author": null,
+          "description": "리눅스 데스크탑과 iOS 간의 연동을 위한 오픈소스 앱\n기기간 클립보드 공유\n모바일에서 파일/URL을 리눅스 데스크탑으로 보내기\n모바일 화면을 가상 터치패드로 사용하기\n프리젠테이션 리모트 컨트롤\n모바일에서 컴퓨터에 명령 실행\nGPLv3 라이센스 지...",
+          "link": "https://news.hada.io/topic?id=6554",
+          "publishedOn": "2022-05-16T00:47:50.000Z",
+          "wordCount": 116,
+          "title": "iOS용 KDE Connect Now 공개",
+          "imageUrl": "https://social.news.hada.io/topic/6554"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6553",
+          "author": null,
+          "description": "SQLite 기반으로 API 그대로 지원\n읽기용 클론을 만들어서 최신으로 자동 업데이트\n배치 API로 여러 개의 SQL문장을 한번에 실행(트랜잭션)\negress 비용 무료\nR2 저장소에 스냅샷을 주기적으로 자동 저장\n\n...",
+          "link": "https://news.hada.io/topic?id=6553",
+          "publishedOn": "2022-05-16T00:31:53.000Z",
+          "wordCount": 174,
+          "title": "Cloudflare, Workers 용 SQL 데이터베이스 D1 공개",
+          "imageUrl": "https://social.news.hada.io/topic/6553"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6552",
+          "author": null,
+          "description": "안녕하세요.\n공유한 글은 자유/오픈소스 소프트웨어 대한 만화 중 최근 이야기입니다. 지난 이야기에서는 모자익 브라우저가 어떻게 탄생했는지 이야기했었고, 이번 편",
+          "link": "https://news.hada.io/topic?id=6552",
+          "publishedOn": "2022-05-15T17:44:27.000Z",
+          "wordCount": 192,
+          "title": "만화로 보는 넷스케이프 창업 이야기",
+          "imageUrl": "https://social.news.hada.io/topic/6552"
+        },
         {
           "id": "https://news.hada.io/topic?id=6551",
           "author": null,
@@ -195,7 +245,7 @@
           "description": "비용 절감 / 성능 향상 / 각종 사고 분석\neBPF를 이용해서 매우 적은 오버헤드로 systemd/kubernetes 등 전체 적용 가능\npprof 표준 포맷을 지원해서 다양한 도구와 연동 가능\n효율적으로 프로파일 데이터를 저장하고, 검색을 최적화\n\n...",
           "link": "https://news.hada.io/topic?id=6550",
           "publishedOn": "2022-05-15T00:34:01.000Z",
-          "wordCount": 99,
+          "wordCount": 122,
           "title": "Parca - eBPF 기반의 지속적인 CPU/메모리 프로파일러",
           "imageUrl": "https://social.news.hada.io/topic/6550"
         },
@@ -228,56 +278,6 @@
           "wordCount": 101,
           "title": "구글 지도, Immersive View 도입 예정",
           "imageUrl": "https://social.news.hada.io/topic/6547"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6546",
-          "author": null,
-          "description": "2023년 하반기에 나올 예정인 아이폰 15 부터는 USB-C를 도입할 것\n기존에는 MiFi 및 방수 문제로 라이트닝을 고수할 것이라고 얘기했지만, EU가 애플에 압력을 가하는등의 이유로 애플이 어조를 바꿨다고\niPad에서는 이미 USB-C로 사용하고 있음\n초기에는 애플이 MagSafe로 전환하...",
-          "link": "https://news.hada.io/topic?id=6546",
-          "publishedOn": "2022-05-14T00:22:33.000Z",
-          "wordCount": 116,
-          "title": "밍치 궈, 애플이 아이폰 15부터는 USB-C를 도입할 것이라고 주장",
-          "imageUrl": "https://social.news.hada.io/topic/6546"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6545",
-          "author": null,
-          "description": "CentOS Stream 에서 빌드되는 첫번째 릴리즈\n주요 개선 사항\n\n포괄적인 엣지 관리\nPodman 으로 자동 컨테이너 롤백\n새로운 이미지 빌더\nAWS Graviton 프로세서 연동\nSpectre / Meltdown 취약점 개선\nWireGuard VPN이 unsupported technology pr...",
-          "link": "https://news.hada.io/topic?id=6545",
-          "publishedOn": "2022-05-14T00:04:30.000Z",
-          "wordCount": 112,
-          "title": "Red Hat Enterprise Linux 9 공개",
-          "imageUrl": "https://social.news.hada.io/topic/6545"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6544",
-          "author": null,
-          "description": "Airbridge API 개발팀에서 Monorepo를 도입하게된 계기와 도입 과정에서 겪은 문제를 해결한 사례를 소개합니다.\nMonorepo 도입 배경\n\nMonorepo란?\nAirbridge API 팀의 도입 배경\n작업 목표\n\n동일한 개발 경험을 유지하면서 Monorepo 저장소 도입\n...",
-          "link": "https://news.hada.io/topic?id=6544",
-          "publishedOn": "2022-05-13T09:40:50.000Z",
-          "wordCount": 158,
-          "title": "Airbridge API 개발팀의 Monorepo 도입기",
-          "imageUrl": "https://social.news.hada.io/topic/6544"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6543",
-          "author": null,
-          "description": "이번 주말에 뭘 하려고 계획 중인지 편하게 얘기해 보아요.\n읽을 책, 가볼 곳, 해볼 것.. 어떤 것이든 좋습니다.\n지난 주말에 계획하셨던 일의 회고도 한번 남겨봐 주세요.",
-          "link": "https://news.hada.io/topic?id=6543",
-          "publishedOn": "2022-05-13T02:13:06.000Z",
-          "wordCount": 154,
-          "title": "Ask GN: 이번 주말에 뭐 하시나요?",
-          "imageUrl": "https://social.news.hada.io/topic/6543"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6542",
-          "author": null,
-          "description": "서비스 공개 후 5년만에 Workers Runtime을 Apache 2.0 라이센스로 오픈소스 릴리즈",
-          "link": "https://news.hada.io/topic?id=6542",
-          "publishedOn": "2022-05-13T01:15:22.000Z",
-          "wordCount": 88,
-          "title": "Cloudflare Workers 오픈소스로 공개",
-          "imageUrl": "https://social.news.hada.io/topic/6542"
         }
       ]
     },

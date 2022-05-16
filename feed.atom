@@ -1,10 +1,77 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-15T01:54:26.535Z</id>
+    <id>urn:2022-05-16T01:37:49.500Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-15T01:54:26.535Z</updated>
+    <updated>2022-05-16T01:37:49.500Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[좋은 보스가 사용하는 트릭들]]></title>
+        <id>https://news.hada.io/topic?id=6556</id>
+        <link href="https://news.hada.io/topic?id=6556"/>
+        <updated>2022-05-16T01:10:32.000Z</updated>
+        <summary type="html"><![CDATA[좋은 보스는 의견 불일치를 장려. 최고의 답을 찾는 목표를 가진 토론을 환영
+좋은 보스는 외부의 적을 만듦. 명분과 초점을 앞세워 조직을 집결시킴
+→ 나쁜 보스는 직원들끼리 싸우게 하고, 결과보다 정...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내가 구글을 떠난 이유 : 워크-라이프-밸런스]]></title>
+        <id>https://news.hada.io/topic?id=6555</id>
+        <link href="https://news.hada.io/topic?id=6555"/>
+        <updated>2022-05-16T00:59:49.000Z</updated>
+        <summary type="html"><![CDATA[구글에서 Replit으로 이직한 스캇 케네디의 회고 번역글
+꿈의 직장이었던 구글을 떠난 이유는 "균형". 왜 불행했던걸까요 ?
+팬데믹으로 세번째가 부서지고, 운동하다 다]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS용 KDE Connect Now 공개]]></title>
+        <id>https://news.hada.io/topic?id=6554</id>
+        <link href="https://news.hada.io/topic?id=6554"/>
+        <updated>2022-05-16T00:47:50.000Z</updated>
+        <summary type="html"><![CDATA[리눅스 데스크탑과 iOS 간의 연동을 위한 오픈소스 앱
+기기간 클립보드 공유
+모바일에서 파일/URL을 리눅스 데스크탑으로 보내기
+모바일 화면을 가상 터치패드로 사용하기
+프리젠테이션 리모트 컨트롤
+모바일에서 컴퓨터에 명령 실행
+GPLv3 라이센스 지...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloudflare, Workers 용 SQL 데이터베이스 D1 공개]]></title>
+        <id>https://news.hada.io/topic?id=6553</id>
+        <link href="https://news.hada.io/topic?id=6553"/>
+        <updated>2022-05-16T00:31:53.000Z</updated>
+        <summary type="html"><![CDATA[SQLite 기반으로 API 그대로 지원
+읽기용 클론을 만들어서 최신으로 자동 업데이트
+배치 API로 여러 개의 SQL문장을 한번에 실행(트랜잭션)
+egress 비용 무료
+R2 저장소에 스냅샷을 주기적으로 자동 저장
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[만화로 보는 넷스케이프 창업 이야기]]></title>
+        <id>https://news.hada.io/topic?id=6552</id>
+        <link href="https://news.hada.io/topic?id=6552"/>
+        <updated>2022-05-15T17:44:27.000Z</updated>
+        <summary type="html"><![CDATA[안녕하세요.
+공유한 글은 자유/오픈소스 소프트웨어 대한 만화 중 최근 이야기입니다. 지난 이야기에서는 모자익 브라우저가 어떻게 탄생했는지 이야기했었고, 이번 편]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Markdoc - 마크다운 기반 문서 저작 프레임워크]]></title>
         <id>https://news.hada.io/topic?id=6551</id>
@@ -75,37 +142,6 @@ pprof 표준 포맷을 지원해서 다양한 도구와 연동 가능
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[밍치 궈, 애플이 아이폰 15부터는 USB-C를 도입할 것이라고 주장]]></title>
-        <id>https://news.hada.io/topic?id=6546</id>
-        <link href="https://news.hada.io/topic?id=6546"/>
-        <updated>2022-05-14T00:22:33.000Z</updated>
-        <summary type="html"><![CDATA[2023년 하반기에 나올 예정인 아이폰 15 부터는 USB-C를 도입할 것
-기존에는 MiFi 및 방수 문제로 라이트닝을 고수할 것이라고 얘기했지만, EU가 애플에 압력을 가하는등의 이유로 애플이 어조를 바꿨다고
-iPad에서는 이미 USB-C로 사용하고 있음
-초기에는 애플이 MagSafe로 전환하...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Red Hat Enterprise Linux 9 공개]]></title>
-        <id>https://news.hada.io/topic?id=6545</id>
-        <link href="https://news.hada.io/topic?id=6545"/>
-        <updated>2022-05-14T00:04:30.000Z</updated>
-        <summary type="html"><![CDATA[CentOS Stream 에서 빌드되는 첫번째 릴리즈
-주요 개선 사항
-
-포괄적인 엣지 관리
-Podman 으로 자동 컨테이너 롤백
-새로운 이미지 빌더
-AWS Graviton 프로세서 연동
-Spectre / Meltdown 취약점 개선
-WireGuard VPN이 unsupported technology pr...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Cool Hover Effects That Use CSS Text Shadow]]></title>
         <id>https://css-tricks.com/?p=365738</id>
         <link href="https://css-tricks.com/cool-hover-effects-that-use-css-text-shadow/"/>
@@ -114,46 +150,6 @@ WireGuard VPN이 unsupported technology pr...]]></summary>
 Cool Hover Effects That Use CSS Text Shadow originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Airbridge API 개발팀의 Monorepo 도입기]]></title>
-        <id>https://news.hada.io/topic?id=6544</id>
-        <link href="https://news.hada.io/topic?id=6544"/>
-        <updated>2022-05-13T09:40:50.000Z</updated>
-        <summary type="html"><![CDATA[Airbridge API 개발팀에서 Monorepo를 도입하게된 계기와 도입 과정에서 겪은 문제를 해결한 사례를 소개합니다.
-Monorepo 도입 배경
-
-Monorepo란?
-Airbridge API 팀의 도입 배경
-작업 목표
-
-동일한 개발 경험을 유지하면서 Monorepo 저장소 도입
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
-        <id>https://news.hada.io/topic?id=6543</id>
-        <link href="https://news.hada.io/topic?id=6543"/>
-        <updated>2022-05-13T02:13:06.000Z</updated>
-        <summary type="html"><![CDATA[이번 주말에 뭘 하려고 계획 중인지 편하게 얘기해 보아요.
-읽을 책, 가볼 곳, 해볼 것.. 어떤 것이든 좋습니다.
-지난 주말에 계획하셨던 일의 회고도 한번 남겨봐 주세요.]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cloudflare Workers 오픈소스로 공개]]></title>
-        <id>https://news.hada.io/topic?id=6542</id>
-        <link href="https://news.hada.io/topic?id=6542"/>
-        <updated>2022-05-13T01:15:22.000Z</updated>
-        <summary type="html"><![CDATA[서비스 공개 후 5년만에 Workers Runtime을 Apache 2.0 라이센스로 오픈소스 릴리즈]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
     </entry>
     <entry>
