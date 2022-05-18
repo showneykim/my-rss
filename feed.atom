@@ -1,10 +1,85 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-17T01:41:46.896Z</id>
+    <id>urn:2022-05-18T01:35:13.115Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-17T01:41:46.896Z</updated>
+    <updated>2022-05-18T01:35:13.115Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Obsidian Dataview - 옵시디언 마크다운 저장소를 쿼리하기]]></title>
+        <id>https://news.hada.io/topic?id=6568</id>
+        <link href="https://news.hada.io/topic?id=6568"/>
+        <updated>2022-05-18T01:02:55.000Z</updated>
+        <summary type="html"><![CDATA[노트 도구인 Obsidian의 저장소를 DB처럼 쿼리하게 만들어주는 오픈소스
+각 마크다운 페이지에 Annotation 가능
+JavaScript API 와 파이프라인 기반 쿼리 언어(DQL)로 마크다운 페이지를 필터/정렬/추출 가능
+
+
+TABLE file.name AS "File", rating AS "Rating&...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VoCore - 동전 크기의 컴퓨터]]></title>
+        <id>https://news.hada.io/topic?id=6567</id>
+        <link href="https://news.hada.io/topic?id=6567"/>
+        <updated>2022-05-18T00:35:05.000Z</updated>
+        <summary type="html"><![CDATA[Linux(OpenWrt) 오픈 하드웨어
+CPU : MT7628 MIPS 24K 580Mhz
+128MB DDR, WIFI, USB, UART, I2C, SPI, 20+ GPIO
+25.6mm x 25.6mm x 3.0mm 기판 버전 (USB Head 및 SD 슬롯 포함 버전도 있음) $17.99~24.99
+28mm x 30mm x 30mm 포트 내장 버전 (이더넷, USB2, 3.5mm 오디오...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글, 기존 개인 GSuite 사용자용 'No-Cost Legacy G Suite' 버전 추가]]></title>
+        <id>https://news.hada.io/topic?id=6566</id>
+        <link href="https://news.hada.io/topic?id=6566"/>
+        <updated>2022-05-18T00:12:50.000Z</updated>
+        <summary type="html"><![CDATA[올해 초 변경으로 무료로 사용하던 개인들도 모두 유료 플랜으로 업그레이드 해야 했음
+새로 'No-Cost Legacy G Suite' 옵션을 추가해서 기존에 무료로 사용하던 개인 사용자의 경우 그대로 이용 가능
+커스텀 Gmail 도메인도 계속 사용 가능
+이미 유료로 전환했다면 고객지원팀에 요...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improving Icons for UI Elements with Typographic Alignment and Scale]]></title>
+        <id>https://css-tricks.com/?p=365531</id>
+        <link href="https://css-tricks.com/improving-icons-for-ui-elements-with-typographic-alignment-and-scale/"/>
+        <updated>2022-05-17T14:30:18.000Z</updated>
+        <summary type="html"><![CDATA[Utilizing icons in user interface elements is helpful. In addition to element labeling, icons can help reinforce a user element’s intention to users. But I have to say, I notice a bit of icon misalignment while browsing the web. Even …
+Improving Icons for UI Elements with Typographic Alignment and Scale originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Marcel Moreau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[데이터 엔지니어란 무엇인가?]]></title>
+        <id>https://news.hada.io/topic?id=6565</id>
+        <link href="https://news.hada.io/topic?id=6565"/>
+        <updated>2022-05-17T01:39:44.000Z</updated>
+        <summary type="html"><![CDATA[데이터 엔지니어란 어떤 직군이며 회사에서는 무슨 일을 하고, 이를 위해서 가지면 좋을 기술이 무엇일지를 지난 몇 년간 주로 스타트업에서 데이터 엔지니어로 근무하며 느낀 점을 바탕으로 정리해보았습니다. 또한, 스타트업 이외의 빅테크, 미국에서는 데이터 엔지니어를 어떻게 정의하고 있는지도 약간 살펴봅니다...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Product-Market Fit 의 4가지 종류]]></title>
+        <id>https://news.hada.io/topic?id=6564</id>
+        <link href="https://news.hada.io/topic?id=6564"/>
+        <updated>2022-05-17T01:18:01.000Z</updated>
+        <summary type="html"><![CDATA[Product-Problem Fit : 다수의 개별 고객 세그먼트에 대한 중요한 문제를 응집력 있게 해결하는 기능 모음
+Solution-Market Fit : 전체 시장의 큰 부분 또는 작은 세그먼트에서 의미 있게 차별화된 광범위한 제품을 제공
+Feature-Problem Fit : 중요한 유스케이스에 대해서 매력적인 가치를 ...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(Kotlin) 단일 함수만 존재하는 경우 파일명은 어떻게 해야할까?]]></title>
         <id>https://jojoldu.tistory.com/671</id>
@@ -113,70 +188,6 @@ Creating Style Variations in WordPress Block Themes originally published on CSS-
         <link href="https://news.hada.io/topic?id=6559"/>
         <updated>2022-05-16T03:29:38.000Z</updated>
         <summary type="html"><![CDATA[오사카 지방법원에 파산 신청. 총 부채는 약 31억엔(300억원)]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사이버콩즈(CyberKongz)로 보는 NFT 토크노믹스]]></title>
-        <id>https://news.hada.io/topic?id=6558</id>
-        <link href="https://news.hada.io/topic?id=6558"/>
-        <updated>2022-05-16T03:18:28.000Z</updated>
-        <summary type="html"><![CDATA[유명 PFP NFT 프로젝트 중 하나인 사이버콩즈(CyberKongz)의 토크노믹스 구축 시도
-각 NFT 소유 시, 매일 10 $BANANA을 제공. 최대 하루 1200$ 수익 창출 가능. (현재 30$)
-2개 콩즈 NFT와 바나나 토큰을 사용하여 새로운 베이비콩즈 NFT를 발행하는 브리딩 시스템 사용하여 많은 사용자 참여...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[저는 서버사이드 SQLite에 올인합니다]]></title>
-        <id>https://news.hada.io/topic?id=6557</id>
-        <link href="https://news.hada.io/topic?id=6557"/>
-        <updated>2022-05-16T01:31:14.000Z</updated>
-        <summary type="html"><![CDATA[BoltDB(임베디드 키밸류 DB)를 만든 벤 존슨이 이제 FlyIO에서 Litestream 개발중
-풀스택 어플리케이션의 상식적인 구조는 n-Tier : 앱서버 + DB서버
-Litestream 은 Rep...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[좋은 보스가 사용하는 트릭들]]></title>
-        <id>https://news.hada.io/topic?id=6556</id>
-        <link href="https://news.hada.io/topic?id=6556"/>
-        <updated>2022-05-16T01:10:32.000Z</updated>
-        <summary type="html"><![CDATA[좋은 보스는 의견 불일치를 장려. 최고의 답을 찾는 목표를 가진 토론을 환영
-좋은 보스는 외부의 적을 만듦. 명분과 초점을 앞세워 조직을 집결시킴
-→ 나쁜 보스는 직원들끼리 싸우게 하고, 결과보다 정...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내가 구글을 떠난 이유 : 워크-라이프-밸런스]]></title>
-        <id>https://news.hada.io/topic?id=6555</id>
-        <link href="https://news.hada.io/topic?id=6555"/>
-        <updated>2022-05-16T00:59:49.000Z</updated>
-        <summary type="html"><![CDATA[구글에서 Replit으로 이직한 스캇 케네디의 회고 번역글
-꿈의 직장이었던 구글을 떠난 이유는 "균형". 왜 불행했던걸까요 ?
-팬데믹으로 세번째가 부서지고, 운동하다 다]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iOS용 KDE Connect Now 공개]]></title>
-        <id>https://news.hada.io/topic?id=6554</id>
-        <link href="https://news.hada.io/topic?id=6554"/>
-        <updated>2022-05-16T00:47:50.000Z</updated>
-        <summary type="html"><![CDATA[리눅스 데스크탑과 iOS 간의 연동을 위한 오픈소스 앱
-기기간 클립보드 공유
-모바일에서 파일/URL을 리눅스 데스크탑으로 보내기
-모바일 화면을 가상 터치패드로 사용하기
-프리젠테이션 리모트 컨트롤
-모바일에서 컴퓨터에 명령 실행
-GPLv3 라이센스 지...]]></summary>
         <author>
             <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
@@ -503,17 +514,6 @@ release -> master로 반영할때 Merge Commit을 생성하지 않는다.
                     (adsbygoogle = window.adsbygoogle || []).push({});]]></summary>
         <author>
             <name>향로</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Writing Strong Front-end Test Element Locators]]></title>
-        <id>https://css-tricks.com/?p=364218</id>
-        <link href="https://css-tricks.com/front-end-test-element-locators/"/>
-        <updated>2022-04-22T18:45:38.000Z</updated>
-        <summary type="html"><![CDATA[Automated front-end tests are awesome. We can write a test with code to visit a page — or load up just a single component — and have that test code click on things or type text like a user would, …
-Writing Strong Front-end Test Element Locators originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Mark Noonan</name>
         </author>
     </entry>
     <entry>
