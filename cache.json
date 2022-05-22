@@ -11,7 +11,7 @@
           "description": "Zeldman:\nYou may not know his name, but he played a huge part in creating the web you take for granted today. And he’s back—kind of.\nThat would be Glenn Davis and the Verevolf site Zeldman’s talking about. The …\nVerevolf originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/verevolf/",
           "publishedOn": "2022-05-20T20:24:43.000Z",
-          "wordCount": 337,
+          "wordCount": 390,
           "title": "Verevolf",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365971"
         },
@@ -21,7 +21,7 @@
           "description": "Don’t you hate it when you load a website or web app, some content displays and then some images load — causing content to shift around? That’s called content reflow and can lead to an incredibly annoying user experience for …\nInline Image Previews with Sharp, BlurHash, and Lambda Functions originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/inline-image-previews-with-sharp-blurhash-and-lambda-functions/",
           "publishedOn": "2022-05-19T14:30:08.000Z",
-          "wordCount": 2043,
+          "wordCount": 2067,
           "title": "Inline Image Previews with Sharp, BlurHash, and Lambda Functions",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365784"
         },
@@ -81,7 +81,7 @@
           "description": "According to Toshi Omagari, the author of Arcade Game Typography, the world’s first multi-colored digital font was created in 1982 for a never-released video game called Insector. Multi-colored fonts, sometimes called chromatic type, are still relatively rare on the …\nCOLRv1 and CSS font-palette: Web Typography Gets Colorful originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/colrv1-and-css-font-palette-web-typography/",
           "publishedOn": "2022-05-11T14:12:51.000Z",
-          "wordCount": 2618,
+          "wordCount": 2689,
           "title": "COLRv1 and CSS font-palette: Web Typography Gets Colorful",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365677"
         },
@@ -168,7 +168,7 @@
           "description": "MERN Stack 이란? 최근 MongoDB에 대한 자료들을 찾아보다 보면 해외 사이트들에서 쉽게 접할 수 있는 단어입니다. 꽤 인기있는 것으로 Udemy 같은 온라인 교육 사이트에는 MERN Stack에 대한 통합 교육과정도 업로드 되고 있습니다. MERN은 스택을 구성하는...\nThe post MERN Stack 이란? appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/mern-stack-%ec%9d%b4%eb%9e%80/",
           "publishedOn": "2022-05-20T16:20:29.000Z",
-          "wordCount": 882,
+          "wordCount": 917,
           "title": "MERN Stack 이란?",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2020/04/37_2019081518484308.jpg"
         },
@@ -178,7 +178,7 @@
           "description": "MongoDB Developer Workshop 후기 (with Google Cloud) 오랜만에 포스팅입니다. 정말 오랜만이네요. 이직하고나서 딱히 쓸 글이 없었습니다. 다들 저보다 잘하시고, 연차는 쌓여가는데 초급 포스팅만 계속 하기도 좀 그랬습니다. 이번에 MongoDB Korea에서 오프라인 핸즈온 세미나를 열었습니다....\nThe post MongoDB Developer Workshop 후기 (with Google Cloud) appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/mongodb-developer-workshop-%ed%9b%84%ea%b8%b0-with-google-cloud/",
           "publishedOn": "2022-04-22T14:29:18.000Z",
-          "wordCount": 1059,
+          "wordCount": 1060,
           "title": "MongoDB Developer Workshop 후기 (with Google Cloud)",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2020/04/37_2019081518484308.jpg"
         }
@@ -189,6 +189,46 @@
       "feedUrl": "https://news.hada.io/rss/news",
       "siteUrl": "https://news.hada.io",
       "articles": [
+        {
+          "id": "https://news.hada.io/topic?id=6595",
+          "author": null,
+          "description": "PDFKit 이 사용하는 폰트 엔진\nTrueType (.ttf), OpenType (.otf), WOFF, WOFF2, TrueType Collection (.ttc) 등 지원\n문자를 glyph에 매칭 지원(ligature 포함)\n\n...",
+          "link": "https://news.hada.io/topic?id=6595",
+          "publishedOn": "2022-05-22T00:56:01.000Z",
+          "wordCount": 82,
+          "title": "Fontkit - Node & 브라우저용 고급 폰트 엔진",
+          "imageUrl": "https://social.news.hada.io/topic/6595"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6594",
+          "author": null,
+          "description": "Playwright Test 로 웹 컴포넌트 테스트\n\n모든 기능(병렬화, 에뮬레이션, 디버깅 등) 사용 가능\nReact, Vue.js, Svelte 지원\n컴포넌트 테스트용 index.html을 자동 생성\n브라우저가 실제로 로딩하고, 테스트는 Node.js에서 실행\nVite 사용\n....",
+          "link": "https://news.hada.io/topic?id=6594",
+          "publishedOn": "2022-05-22T00:26:01.000Z",
+          "wordCount": 95,
+          "title": "Playwright 1.2.2, React/Vue/Svelte 컴포넌트 테스트 가능",
+          "imageUrl": "https://social.news.hada.io/topic/6594"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6593",
+          "author": null,
+          "description": "획기적인 가전제품이었던 iPod를 만들었던 Tony Fadell이 직접 설명\n2001년 발표 이후 매년 새로운 세대를 출시하면서 처리,저장소,디스플레이,UI의 빠른 발전으로 2007년 아이폰의 출시를 예상케 했음\n\niPod 클래식 (1세대) : TV리모콘 같았던 MP3플레이어 디자인을 고급진 휠 인터페이스 와...",
+          "link": "https://news.hada.io/topic?id=6593",
+          "publishedOn": "2022-05-22T00:08:01.000Z",
+          "wordCount": 159,
+          "title": "이 달의 CT 스캔 : iPod의 진화",
+          "imageUrl": "https://social.news.hada.io/topic/6593"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6592",
+          "author": null,
+          "description": "중국 e-Ink 사가 만든 컬러 EPD를 테스트 중\n2025년경 아이폰과 아이패드의 중간쯤 되는 9인치 폴더블 출시 계획 중이라는 예측\n\n...",
+          "link": "https://news.hada.io/topic?id=6592",
+          "publishedOn": "2022-05-21T02:20:35.000Z",
+          "wordCount": 90,
+          "title": "밍치 궈, 애플이 미래 폴더블 기기를 위한 컬러 '전자 종이 디스플레이(EPD)' 기술 테스트중",
+          "imageUrl": "https://social.news.hada.io/topic/6592"
+        },
         {
           "id": "https://news.hada.io/topic?id=6591",
           "author": null,
@@ -225,7 +265,7 @@
           "description": "matrix 방과 kakaotalk을 연결 해주는 bridge\n지원기능\n1:1 채팅\n그룹 채팅\n텍스트 메세지\n대부분의 미디어 공유 (사진, 비디오, 음성 메세지, 파일)\n답장 및 언급\n메세지 편집/삭제\n종단",
           "link": "https://news.hada.io/topic?id=6588",
           "publishedOn": "2022-05-20T15:13:57.000Z",
-          "wordCount": 84,
+          "wordCount": 93,
           "title": "Kakaotalk Matrix Bridge",
           "imageUrl": "https://social.news.hada.io/topic/6588"
         },
@@ -248,46 +288,6 @@
           "wordCount": 136,
           "title": "Ask GN: 이번 주말에 뭐 하시나요?",
           "imageUrl": "https://social.news.hada.io/topic/6585"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6584",
-          "author": null,
-          "description": "비트코인과 나머지 코인은 다르다.\n코인은 투자가 아니라 기부다.\n코인프로젝...",
-          "link": "https://news.hada.io/topic?id=6584",
-          "publishedOn": "2022-05-20T01:11:15.000Z",
-          "wordCount": 181,
-          "title": "코인에 대해 우리가 잘 몰랐던 여섯 가지",
-          "imageUrl": "https://social.news.hada.io/topic/6584"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6583",
-          "author": null,
-          "description": "아이슬란드로 여행올 때, 업무용 메일에 대한 회신은 \"아이슬란드의 말들이 회신\"하게 하세요\n실제 아이슬란드 말들이 대형 키보드 위에서 타이핑한 내용을 회신할 수 있음\n\n...",
-          "link": "https://news.hada.io/topic?id=6583",
-          "publishedOn": "2022-05-20T00:47:30.000Z",
-          "wordCount": 188,
-          "title": "OutHorse Your Email",
-          "imageUrl": "https://social.news.hada.io/topic/6583"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6582",
-          "author": null,
-          "description": "기존 Framework 노트북을 구매한 사용자도 인텔 11세대 CPU를 12세대로 업그레이드 가능\n2.5 기가빗 이더넷 확장카드도 공개 예정\n\n...",
-          "link": "https://news.hada.io/topic?id=6582",
-          "publishedOn": "2022-05-20T00:34:38.000Z",
-          "wordCount": 201,
-          "title": "새롭게 업그레이드 된 Framework Laptop 발표",
-          "imageUrl": "https://social.news.hada.io/topic/6582"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6581",
-          "author": null,
-          "description": "여러 개의 테이블을 하나로 묶어서 쿼리할 때 선택할 수 있는 옵션은 3가지 : CTE, View, 임시테이블\nCTE : 서브쿼리들을 묶어서 실시간으로 계속 계산되기 때문에 서브쿼리가 느리면 같이 느려짐\nView : CTE 처럼 동작하지만 레퍼런스 가능하고 서브쿼리를 계속 반복하지는 않음. 하지만 역시",
-          "link": "https://news.hada.io/topic?id=6581",
-          "publishedOn": "2022-05-20T00:19:14.000Z",
-          "wordCount": 158,
-          "title": "SQLite의 Temporary Table 활용하기",
-          "imageUrl": "https://social.news.hada.io/topic/6581"
         }
       ]
     },
