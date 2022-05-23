@@ -1,10 +1,94 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-22T01:37:30.180Z</id>
+    <id>urn:2022-05-23T01:42:46.151Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-22T01:37:30.180Z</updated>
+    <updated>2022-05-23T01:42:46.151Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[케빈 켈리의 알았더라면 좋았을 103가지 조언]]></title>
+        <id>https://news.hada.io/topic?id=6600</id>
+        <link href="https://news.hada.io/topic?id=6600"/>
+        <updated>2022-05-23T01:31:01.000Z</updated>
+        <summary type="html"><![CDATA[Wired 창립 편집장 케빈 켈리(KK)가 올해 70세 생일날 블로그에 올린 훌륭한 조언들 번역
+About 99% of the time, the right time is right now.
+No one is as impressed with your possessions as you are.
+당신만큼]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub, 마크다운으로 수학식 작성 가능]]></title>
+        <id>https://news.hada.io/topic?id=6599</id>
+        <link href="https://news.hada.io/topic?id=6599"/>
+        <updated>2022-05-23T01:07:01.000Z</updated>
+        <summary type="html"><![CDATA[LaTeX 스타일 문법으로 인라인($) 또는 블럭($$) 에서 수학식 작성 가능
+$\sqrt{3x-1}+(1+x)^2$
+
+오픈소스인 MathJax를 이용해서 다양한 LaTeX 매크로 및 접근성 지원
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Database Specialist or Generalist ?!]]></title>
+        <id>https://rastalion.me/?p=2527</id>
+        <link href="https://rastalion.me/database-specialist-or-generalist/"/>
+        <updated>2022-05-23T01:00:21.000Z</updated>
+        <summary type="html"><![CDATA[Database Specialist or Generalist ?! 서론 이런 글을 쓰게 된 이유는 최근 들어 많이 생각하게되고, 주변 DBA분들이나 비슷한 종사자 엔지니어들과 교류하면서 느낀점이 있기 때문입니다. DBA라는 포지션은 지금까지 대부분 스페셜리스트였습니다. Oracle이 DBA의 대세였던 시절부터, Engineer...
+The post Database Specialist or Generalist ?! appeared first on RastaLion's IT Blog.]]></summary>
+        <author>
+            <name>Rasta Lion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마케터를 위한 이메일 전달 가능성 체크리스트]]></title>
+        <id>https://news.hada.io/topic?id=6598</id>
+        <link href="https://news.hada.io/topic?id=6598"/>
+        <updated>2022-05-23T00:52:01.000Z</updated>
+        <summary type="html"><![CDATA[36가지 체크 항목 설명 및 검증 방법/관련 사이트 소개
+인증 : SPF, DKIM, DMARC, PTR, SSL
+→ 이 사이트에 도메인 주소를 넣으면 체크해줌
+인프라
+스케줄 배치 전송 가능한 메일 마케팅 플랫폼 선택
+IP 주소 종류 선택
+트랜잭션용/프로모션용 이메일에 대해]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최악을 대비하세요 (번역)]]></title>
+        <id>https://news.hada.io/topic?id=6597</id>
+        <link href="https://news.hada.io/topic?id=6597"/>
+        <updated>2022-05-23T00:33:02.000Z</updated>
+        <summary type="html"><![CDATA[얼마전 YC가 포트폴리오 대표들에게 보냈다는 메일의 번역
+상황이 좋지않다, 이것만은 분명
+최악을 대비하고, 생존을 목표로 하기
+직전 라운드와 밸류에이션이 같더라도 무조건 펀딩 받아놓는 것을 추천
+대표의 책임은 24개월 뒤에도 회사를 살아남게 만드는 것
+주]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[불경기에 스타트업을 한다는 것 (번역)]]></title>
+        <id>https://news.hada.io/topic?id=6596</id>
+        <link href="https://news.hada.io/topic?id=6596"/>
+        <updated>2022-05-23T00:21:01.000Z</updated>
+        <summary type="html"><![CDATA[YC의 폴 그레이엄이 서브프라임 시기인 2008년에 쓴 에세이, ‘Why to start a startup in a bad economy’를 번역
+불경기와 스타트업은 별개
+스타트업의 흥망성쇠는 결국 창업자의 역량에 달려있음
+중요한 문제는 1) 누가 2) 무엇을 하느냐로 정의해야 함
+가장 빠르게 성공]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fontkit - Node & 브라우저용 고급 폰트 엔진]]></title>
         <id>https://news.hada.io/topic?id=6595</id>
@@ -20,7 +104,7 @@ TrueType (.ttf), OpenType (.otf), WOFF, WOFF2, TrueType Collection (.ttc) 등 �
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Playwright 1.2.2, React/Vue/Svelte 컴포넌트 테스트 가능]]></title>
+        <title type="html"><![CDATA[Playwright 1.22.0, React/Vue/Svelte 컴포넌트 테스트 가능]]></title>
         <id>https://news.hada.io/topic?id=6594</id>
         <link href="https://news.hada.io/topic?id=6594"/>
         <updated>2022-05-22T00:26:01.000Z</updated>
@@ -78,34 +162,6 @@ Go 오...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[안드로이드 오픈소스 FairEmail 앱 개발자, 구글이 앱을 Spyware로 플래그 해서 개발 중단]]></title>
-        <id>https://news.hada.io/topic?id=6590</id>
-        <link href="https://news.hada.io/topic?id=6590"/>
-        <updated>2022-05-21T00:25:01.000Z</updated>
-        <summary type="html"><![CDATA[구글이 이메일 앱 내에서 콘택트 리스트를 업로드 한다는 이유로 Spyware로 지정
-Spyware로 인식한게 어떤 기능때문인지 얘기 하지 않지만,
-개발자가 기능을 뺀 새 버...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spring for GraphQL 1.0 릴리즈]]></title>
-        <id>https://news.hada.io/topic?id=6589</id>
-        <link href="https://news.hada.io/topic?id=6589"/>
-        <updated>2022-05-21T00:10:01.000Z</updated>
-        <summary type="html"><![CDATA[Data Fetcher를 위한 어노테이션 기반 프로그래밍 모델
-입력 인자의 검증 및 데이터 바인딩
-데이터 @Controller 메소드의 어노테이션을 통한 필드 수준 보안
-HTTP, WebSocket, RSocket 서버 핸들러와 인터셉션, 클라이언트
-배치 로딩 지원
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Verevolf]]></title>
         <id>https://css-tricks.com/?p=365971</id>
         <link href="https://css-tricks.com/verevolf/"/>
@@ -127,49 +183,6 @@ Verevolf originally published on CSS-Tricks. You should get the newsletter.]]></
 The post MERN Stack 이란? appeared first on RastaLion's IT Blog.]]></summary>
         <author>
             <name>Rasta Lion</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kakaotalk Matrix Bridge]]></title>
-        <id>https://news.hada.io/topic?id=6588</id>
-        <link href="https://news.hada.io/topic?id=6588"/>
-        <updated>2022-05-20T15:13:57.000Z</updated>
-        <summary type="html"><![CDATA[matrix 방과 kakaotalk을 연결 해주는 bridge
-지원기능
-1:1 채팅
-그룹 채팅
-텍스트 메세지
-대부분의 미디어 공유 (사진, 비디오, 음성 메세지, 파일)
-답장 및 언급
-메세지 편집/삭제
-종단]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스탠포드 온라인 철학 백과사전의 작동모델(번역)]]></title>
-        <id>https://news.hada.io/topic?id=6586</id>
-        <link href="https://news.hada.io/topic?id=6586"/>
-        <updated>2022-05-20T03:11:55.000Z</updated>
-        <summary type="html"><![CDATA[-스탠포드 철학 백과사전 Stanford Encyclopedia of Philosophy (SEP) 는 1995년 철학자 에드워드 잘타가 시작한 온라인 백과사전임.
--SEP는 어떻게 하면 신빙성있고, 종합적이고, 최신의 정보를 독자에게 제공할 수 있을까 하는 문제를 해결하는 프로젝트.
-다른 백과사전의 부족한 부분
--책은]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
-        <id>https://news.hada.io/topic?id=6585</id>
-        <link href="https://news.hada.io/topic?id=6585"/>
-        <updated>2022-05-20T01:48:11.000Z</updated>
-        <summary type="html"><![CDATA[이번 주말에 뭘 하려고 계획 중인지 편하게 얘기해 보아요.
-읽을 책, 가볼 곳, 해볼 것.. 어떤 것이든 좋습니다.
-지난 주말에 계획하셨던 일의 회고도 한번 남겨봐 주세요.]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
     </entry>
     <entry>
@@ -454,98 +467,6 @@ yarn add --dev ts-node
                     (adsbygoogle = window.adsbygoogle || []).push({});]]></summary>
         <author>
             <name>향로</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[release 브랜치 merge시 Tag 생성, 브랜치 삭제하기 (feat. Gihtub Action)]]></title>
-        <id>https://jojoldu.tistory.com/668</id>
-        <link href="https://jojoldu.tistory.com/668"/>
-        <updated>2022-04-23T07:56:36.000Z</updated>
-        <summary type="html"><![CDATA[반응형
-
-                    
-                    (adsbygoogle = window.adsbygoogle || []).push({}); 
-               
-
-최근에 상권님의 포스팅을 보고나서 기존 프로젝트의 배포에 대한 추가 자동화를 진행했다.
-앱 배포후 Jira에서 버전 Release처리 자동으로 하는 방법(feat. GitHub Action)
-상권님의 포스팅에서는 다음과 같이 Github Action 의 자동화를 구성하셨다.
-Master 브랜치에서 Push가 발생하면
-
-PR Merge 가 되어도 Master 에서는 Push가 발동된다
-Merge Commit으로 발생한 커밋 메세지에서 버저닝 번호만 추출해서 Tag로 생성
-반면에 우리 프로젝트는 release 브랜치의 반영이 다음과 같이 진행된다.
-그래서 그대로 적용할수는 없었고, 우리팀 스타일에 맞게 개조가 필요했다.
-maaster Push가 아니라 PR이 merge가 되었을때만 Github Action이 작동하기
-
-상권님의 Github Action에서는 master Push에서는 전부 Action이 실행 된다.
-현재 우리팀의 규칙에서는 모든 Push 를 실행 기준으로 삼지 않았다.
-release 브랜치명에서 버전 추출하기
-
-release -> master로 반영할때 Merge Commit을 생성하지 않는다.
-그래서 Merge Commit Message에서 버전을 추출할 수가 없다.
-(-ff 로 merge 를 진행하며, merge commit 을 남기진 않는다.)
-그래서 크게 2가지 다른 점이 있기 때문에 이…]]></summary>
-        <author>
-            <name>향로</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔지니어의 세심함]]></title>
-        <id>https://jojoldu.tistory.com/667</id>
-        <link href="https://jojoldu.tistory.com/667"/>
-        <updated>2022-04-23T05:04:10.000Z</updated>
-        <summary type="html"><![CDATA[반응형
-
-                    
-                    (adsbygoogle = window.adsbygoogle || []).push({}); 
-               
-
-제일 싫어하는 개발자의 유형 중 하나가, 
-개발자가 일을 잘하기 위해서 하나부터 열까지 기획자가 다 챙겨야 한다고 생각하는 분들이다.
-"A ~ Z까지 엣지케이스, 예외 상황 하나도 빠짐없이 다 기획서에 넣어주세요"
-"아 그건 기획서에 없었으니깐 당연히 안했죠"
-"그거 자주 잊어먹으니깐 A, B, C에 문서화 해주세요"
-등등 엄청 많다.
-이걸 병적으로 싫어한다. 
-엔지니어외 다른 직무는 엔지니어의 서포트 조직이 아니다.
-그래서 팀에 합류하고나서 공들였던 작업중 하나가 엔지니어들의 문서화/커뮤니케이션 문화 개선이였다.
-초기 스타트업의 엔지니어분들은 커뮤니케이션/문서화의 세심함이 정말 부족하다.
-엔지니어들의 리소스가 절대적으로 부족한 시기이다보니, 
-최대한 엔지니어분들의 리소스를 아끼기 위해 엔지니어가 아닌 분들이 정말 많은 서포트를 하게 된다.
-개발 용어가 남발한 이야기를 하면 그걸 어떻게든 이해하려고 개인적으로 공부를 하거나
-엔지니어가 아닌 분들께 혹시 이것 아는지 물어보거나
-엔지니어가 하지 않는 문서화를 대신 하거나
-엔지니어가 무지성(?) 개발 할 수 있도록 A-Z까지 예외상황, 엣지케이스 전부를 찾아서 기획문서로 만드는 등등.
-엔지니어가 개발/구현에만 집중할 수 있도록 하는 동안, 
-엔지니어들의 성의 없는 문서화, 커뮤니케이션의 정리는 주변 동료들의 몫이 된다. 
-그리고 엔지니어들의 협업을 위한 세심함도 점점 잃게 된다.
-엔지니어가 아닌 분들을 위한 문서화와 커뮤니케이션에 신경을 써야하는 이유는 "우리가 일을 잘하기 위해서" 다.
-기획/PO/PM 혹은 그 외 엔지니어가 아닌 직무분들이 개발 용어를 열심히 공부하는 것을 썩 좋아하진 않는다. 
-엔지니어가 조금만 더 배려하면 회사 전체의 생산성이 올라간다. 
-엔지니어의 생산성만이 가장 중요한 자원은 아니다.
-입사한지 1주년이 되었다. 
-어제 슬랙에 나온 대화를 보다가 벌써 이만큼 왔다는 생각을 했다.
-좋은 코드, 좋은 개발문화 등등 전문성에 대한 개선을 하는 만큼, 
-문서화/커뮤니케이션 문화도 점점 정착되는 것 같아서 너무 기분 좋은 주말이다.
-            
-반응형
-
-                    
-                    (adsbygoogle = window.adsbygoogle || []).push({});]]></summary>
-        <author>
-            <name>향로</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MongoDB Developer Workshop 후기 (with Google Cloud)]]></title>
-        <id>https://rastalion.me/?p=2505</id>
-        <link href="https://rastalion.me/mongodb-developer-workshop-%ed%9b%84%ea%b8%b0-with-google-cloud/"/>
-        <updated>2022-04-22T14:29:18.000Z</updated>
-        <summary type="html"><![CDATA[MongoDB Developer Workshop 후기 (with Google Cloud) 오랜만에 포스팅입니다. 정말 오랜만이네요. 이직하고나서 딱히 쓸 글이 없었습니다. 다들 저보다 잘하시고, 연차는 쌓여가는데 초급 포스팅만 계속 하기도 좀 그랬습니다. 이번에 MongoDB Korea에서 오프라인 핸즈온 세미나를 열었습니다....
-The post MongoDB Developer Workshop 후기 (with Google Cloud) appeared first on RastaLion's IT Blog.]]></summary>
-        <author>
-            <name>Rasta Lion</name>
         </author>
     </entry>
 </feed>
