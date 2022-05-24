@@ -6,6 +6,26 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=365992",
+          "author": "Geoff Graham",
+          "description": "Ahmad Shadeed — doing what he always does so well — provides an early look at the object-view-box property, something he describes as a native way to crop an image in the browser with CSS.\nThe use case? Well, …\nFirst Look At The CSS object-view-box Property originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/first-look-at-the-css-object-view-box-property/",
+          "publishedOn": "2022-05-23T19:15:53.000Z",
+          "wordCount": 363,
+          "title": "First Look At The CSS object-view-box Property",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365992"
+        },
+        {
+          "id": "https://css-tricks.com/?p=365804",
+          "author": "Rob Levin",
+          "description": "As the author of a library called AgnosticUI, I’m always on the lookout for new components. And recently, I decided to dig in and start work on a new dialog (aka modal) component. That’s something many devs like to …\nDialog Components: Go Native HTML or Roll Your Own? originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/dialog-components-roll-your-own/",
+          "publishedOn": "2022-05-23T14:31:18.000Z",
+          "wordCount": 3268,
+          "title": "Dialog Components: Go Native HTML or Roll Your Own?",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365804"
+        },
+        {
           "id": "https://css-tricks.com/?p=365971",
           "author": "Geoff Graham",
           "description": "Zeldman:\nYou may not know his name, but he played a huge part in creating the web you take for granted today. And he’s back—kind of.\nThat would be Glenn Davis and the Verevolf site Zeldman’s talking about. The …\nVerevolf originally published on CSS-Tricks. You should get the newsletter.",
@@ -21,7 +41,7 @@
           "description": "Don’t you hate it when you load a website or web app, some content displays and then some images load — causing content to shift around? That’s called content reflow and can lead to an incredibly annoying user experience for …\nInline Image Previews with Sharp, BlurHash, and Lambda Functions originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/inline-image-previews-with-sharp-blurhash-and-lambda-functions/",
           "publishedOn": "2022-05-19T14:30:08.000Z",
-          "wordCount": 2067,
+          "wordCount": 2102,
           "title": "Inline Image Previews with Sharp, BlurHash, and Lambda Functions",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365784"
         },
@@ -134,26 +154,6 @@
           "wordCount": 1939,
           "title": "Adding Custom GitHub Badges to Your Repo",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364932"
-        },
-        {
-          "id": "https://css-tricks.com/?p=365491",
-          "author": "Preethi",
-          "description": "In design, reflections are stylized mirror images of objects. Even though they are not as popular as shadows, they have their moments — just think about the first time you explored the different font formats in MS Word or PowerPoint: …\nCreating Realistic Reflections With CSS originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/creating-realistic-reflections-with-css/",
-          "publishedOn": "2022-05-02T14:14:07.000Z",
-          "wordCount": 1190,
-          "title": "Creating Realistic Reflections With CSS",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365491"
-        },
-        {
-          "id": "https://css-tricks.com/?p=365447",
-          "author": "Jhey Tompkins",
-          "description": "Howdy y’all! Unless you’ve been living under a rock (and maybe even then), you’ve undoubtedly heard the news that CSS-Tricks, was acquired by DigitalOcean. Congratulations to everyone! 🥳\nAs a little hurrah to commemorate the occasion, I wanted to …\nCreating the DigitalOcean Logo in 3D With CSS originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/creating-the-digitalocean-logo-in-3d-with-css/",
-          "publishedOn": "2022-04-29T14:37:10.000Z",
-          "wordCount": 3010,
-          "title": "Creating the DigitalOcean Logo in 3D With CSS",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365447"
         }
       ]
     },
@@ -168,7 +168,7 @@
           "description": "Database Specialist or Generalist ?! 서론 이런 글을 쓰게 된 이유는 최근 들어 많이 생각하게되고, 주변 DBA분들이나 비슷한 종사자 엔지니어들과 교류하면서 느낀점이 있기 때문입니다. DBA라는 포지션은 지금까지 대부분 스페셜리스트였습니다. Oracle이 DBA의 대세였던 시절부터, Engineer...\nThe post Database Specialist or Generalist ?! appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/database-specialist-or-generalist/",
           "publishedOn": "2022-05-23T01:00:21.000Z",
-          "wordCount": 1181,
+          "wordCount": 1210,
           "title": "Database Specialist or Generalist ?!",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2021/04/sm_5b46d890d85b8-300x300.jpg"
         },
@@ -178,7 +178,7 @@
           "description": "MERN Stack 이란? 최근 MongoDB에 대한 자료들을 찾아보다 보면 해외 사이트들에서 쉽게 접할 수 있는 단어입니다. 꽤 인기있는 것으로 Udemy 같은 온라인 교육 사이트에는 MERN Stack에 대한 통합 교육과정도 업로드 되고 있습니다. MERN은 스택을 구성하는...\nThe post MERN Stack 이란? appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/mern-stack-%ec%9d%b4%eb%9e%80/",
           "publishedOn": "2022-05-20T16:20:29.000Z",
-          "wordCount": 923,
+          "wordCount": 924,
           "title": "MERN Stack 이란?",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2020/04/37_2019081518484308.jpg"
         }
@@ -190,12 +190,72 @@
       "siteUrl": "https://news.hada.io",
       "articles": [
         {
+          "id": "https://news.hada.io/topic?id=6606",
+          "author": null,
+          "description": "똑같은 파일을 찾아서 제거해주는 커맨드라인 유틸리티\n다양한 옵션 지원\n\n중복 파일 찾기 : N개 이상의 중복 파일, 단일 파일, N개 이하인 파일\n검색할 파일들 선택 : 여러 폴더, 파일 리스트, 재귀, glob 필터링, 파일 크기\nUnix 유틸들과 연동되며, JSON으로...",
+          "link": "https://news.hada.io/topic?id=6606",
+          "publishedOn": "2022-05-24T01:25:45.000Z",
+          "wordCount": 141,
+          "title": "fclones - 효율적인 중복 파일 파인더",
+          "imageUrl": "https://social.news.hada.io/topic/6606"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6605",
+          "author": null,
+          "description": "\"31그램 짜리 배터리 교체를 위해 35kg짜리 리페어킷을 보냈어요\"\n작은 도구 상자가 올거라고 예상했지만, 거대한 박스 두개가 배달 왔음\n→ 내부 보호용 플라스틱으로 만들어진 펠리칸 케이스\n</ul",
+          "link": "https://news.hada.io/topic?id=6605",
+          "publishedOn": "2022-05-24T01:10:27.000Z",
+          "wordCount": 326,
+          "title": "애플 아이폰 셀프 서비스 수리 키트 리뷰",
+          "imageUrl": "https://social.news.hada.io/topic/6605"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6604",
+          "author": null,
+          "description": "Web3는\n탈중앙화 되지 않음. 앱이 실용적이 되려면 게이트웨이 중 하나를 거쳐야 함\n이 게이트웨이들은 할 수 있는 것과 할 수 없는 것을 적어도 기존 웹 호스팅 사이트 이상으로 제어함\n실제 블록체인에 뭔가 작업을 하는 것은 매우 비쌈\n대부분의 사용자들은 실제로 신경...",
+          "link": "https://news.hada.io/topic?id=6604",
+          "publishedOn": "2022-05-24T00:51:24.000Z",
+          "wordCount": 454,
+          "title": "Web3는 그냥 비싼 P2P입니다",
+          "imageUrl": "https://social.news.hada.io/topic/6604"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6603",
+          "author": null,
+          "description": "a16z의 2022 State of Crypto 보고서 번역\n지금은 가격-혁신 4번째 사이클의 한 가운데에 와 있습니다.\n크리에이터들에게, 웹 2.0보다 웹 3.0이 압도적으로 좋은 환경이 될겁니다.\n크립토 프로젝트가 점점 실생활과 가까워집니다.\n이더리움은 확실한 선구자이나, 여러 경쟁",
+          "link": "https://news.hada.io/topic?id=6603",
+          "publishedOn": "2022-05-24T00:31:35.000Z",
+          "wordCount": 166,
+          "title": "2022년의 크립토씬, 어디까지 왔는가?",
+          "imageUrl": "https://social.news.hada.io/topic/6603"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6602",
+          "author": null,
+          "description": "쿠팡의 길을 걷고 있는 컬리\n공헌이익의 함정\n컬리식 장점과 비지니스 모델과의 괴리\n새벽의 저주, 규모의 손해\n\n오아시스마켓, 마켓컬리, SSG, 쿠팡 의 비교\n클라우드를 하시겠다고요?\n아마존 메타의 종말\n\n...",
+          "link": "https://news.hada.io/topic?id=6602",
+          "publishedOn": "2022-05-24T00:06:28.000Z",
+          "wordCount": 82,
+          "title": "컬리의 흑자는 과연 결정의 문제일까?",
+          "imageUrl": "https://social.news.hada.io/topic/6602"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6601",
+          "author": null,
+          "description": "Chrome 확장을 설치하면 현재 보고 있는 페이지를 요약해 줍니다.\n아직 영어밖에 없지만, 1차로 요약하고 papago로 번역하면 빠르게 정보를 파악할 때 나름 도움이 될 것 같습니다.\n항상 요약하시느라 수고 하시는 정혁님께 조금이라도 도움이 되었으면 좋겠습니다.",
+          "link": "https://news.hada.io/topic?id=6601",
+          "publishedOn": "2022-05-23T10:44:01.000Z",
+          "wordCount": 104,
+          "title": "Summari - 웹문서 요약 서비스",
+          "imageUrl": "https://social.news.hada.io/topic/6601"
+        },
+        {
           "id": "https://news.hada.io/topic?id=6600",
           "author": null,
           "description": "Wired 창립 편집장 케빈 켈리(KK)가 올해 70세 생일날 블로그에 올린 훌륭한 조언들 번역\nAbout 99% of the time, the right time is right now.\nNo one is as impressed with your possessions as you are.\n당신만큼",
           "link": "https://news.hada.io/topic?id=6600",
           "publishedOn": "2022-05-23T01:31:01.000Z",
-          "wordCount": 4172,
+          "wordCount": 4309,
           "title": "케빈 켈리의 알았더라면 좋았을 103가지 조언",
           "imageUrl": "https://social.news.hada.io/topic/6600"
         },
@@ -205,7 +265,7 @@
           "description": "LaTeX 스타일 문법으로 인라인($) 또는 블럭($$) 에서 수학식 작성 가능\n$\\sqrt{3x-1}+(1+x)^2$\n\n오픈소스인 MathJax를 이용해서 다양한 LaTeX 매크로 및 접근성 지원\n\n...",
           "link": "https://news.hada.io/topic?id=6599",
           "publishedOn": "2022-05-23T01:07:01.000Z",
-          "wordCount": 80,
+          "wordCount": 91,
           "title": "GitHub, 마크다운으로 수학식 작성 가능",
           "imageUrl": "https://social.news.hada.io/topic/6599"
         },
@@ -225,69 +285,9 @@
           "description": "얼마전 YC가 포트폴리오 대표들에게 보냈다는 메일의 번역\n상황이 좋지않다, 이것만은 분명\n최악을 대비하고, 생존을 목표로 하기\n직전 라운드와 밸류에이션이 같더라도 무조건 펀딩 받아놓는 것을 추천\n대표의 책임은 24개월 뒤에도 회사를 살아남게 만드는 것\n주",
           "link": "https://news.hada.io/topic?id=6597",
           "publishedOn": "2022-05-23T00:33:02.000Z",
-          "wordCount": 128,
+          "wordCount": 151,
           "title": "최악을 대비하세요 (번역)",
           "imageUrl": "https://social.news.hada.io/topic/6597"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6596",
-          "author": null,
-          "description": "YC의 폴 그레이엄이 서브프라임 시기인 2008년에 쓴 에세이, ‘Why to start a startup in a bad economy’를 번역\n불경기와 스타트업은 별개\n스타트업의 흥망성쇠는 결국 창업자의 역량에 달려있음\n중요한 문제는 1) 누가 2) 무엇을 하느냐로 정의해야 함\n가장 빠르게 성공",
-          "link": "https://news.hada.io/topic?id=6596",
-          "publishedOn": "2022-05-23T00:21:01.000Z",
-          "wordCount": 109,
-          "title": "불경기에 스타트업을 한다는 것 (번역)",
-          "imageUrl": "https://social.news.hada.io/topic/6596"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6595",
-          "author": null,
-          "description": "PDFKit 이 사용하는 폰트 엔진\nTrueType (.ttf), OpenType (.otf), WOFF, WOFF2, TrueType Collection (.ttc) 등 지원\n문자를 glyph에 매칭 지원(ligature 포함)\n\n...",
-          "link": "https://news.hada.io/topic?id=6595",
-          "publishedOn": "2022-05-22T00:56:01.000Z",
-          "wordCount": 82,
-          "title": "Fontkit - Node & 브라우저용 고급 폰트 엔진",
-          "imageUrl": "https://social.news.hada.io/topic/6595"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6594",
-          "author": null,
-          "description": "Playwright Test 로 웹 컴포넌트 테스트\n\n모든 기능(병렬화, 에뮬레이션, 디버깅 등) 사용 가능\nReact, Vue.js, Svelte 지원\n컴포넌트 테스트용 index.html을 자동 생성\n브라우저가 실제로 로딩하고, 테스트는 Node.js에서 실행\nVite 사용\n....",
-          "link": "https://news.hada.io/topic?id=6594",
-          "publishedOn": "2022-05-22T00:26:01.000Z",
-          "wordCount": 108,
-          "title": "Playwright 1.22.0, React/Vue/Svelte 컴포넌트 테스트 가능",
-          "imageUrl": "https://social.news.hada.io/topic/6594"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6593",
-          "author": null,
-          "description": "획기적인 가전제품이었던 iPod를 만들었던 Tony Fadell이 직접 설명\n2001년 발표 이후 매년 새로운 세대를 출시하면서 처리,저장소,디스플레이,UI의 빠른 발전으로 2007년 아이폰의 출시를 예상케 했음\n\niPod 클래식 (1세대) : TV리모콘 같았던 MP3플레이어 디자인을 고급진 휠 인터페이스 와...",
-          "link": "https://news.hada.io/topic?id=6593",
-          "publishedOn": "2022-05-22T00:08:01.000Z",
-          "wordCount": 159,
-          "title": "이 달의 CT 스캔 : iPod의 진화",
-          "imageUrl": "https://social.news.hada.io/topic/6593"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6592",
-          "author": null,
-          "description": "중국 e-Ink 사가 만든 컬러 EPD를 테스트 중\n2025년경 아이폰과 아이패드의 중간쯤 되는 9인치 폴더블 출시 계획 중이라는 예측\n\n...",
-          "link": "https://news.hada.io/topic?id=6592",
-          "publishedOn": "2022-05-21T02:20:35.000Z",
-          "wordCount": 90,
-          "title": "밍치 궈, 애플이 미래 폴더블 기기를 위한 컬러 '전자 종이 디스플레이(EPD)' 기술 테스트중",
-          "imageUrl": "https://social.news.hada.io/topic/6592"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6591",
-          "author": null,
-          "description": "2021년에 StackRox를 인수해서 Red Hat Advanced Cluster Security for Kubernetes (RHACS) 제품이 됨\n이 제품을 StackRox 이름으로 GitHub에 아파치 2.0 라이센스로 공개\nDevSecOps 자동화 플랫폼\n\nSupply Chain / Infrastructure / Workload 보안 제공\nGo 오...",
-          "link": "https://news.hada.io/topic?id=6591",
-          "publishedOn": "2022-05-21T01:02:01.000Z",
-          "wordCount": 94,
-          "title": "RedHat, 쿠버네티스 보안 플랫폼 StackRox를 오픈소스로 공개",
-          "imageUrl": "https://social.news.hada.io/topic/6591"
         }
       ]
     },
