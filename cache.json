@@ -6,6 +6,26 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=366077",
+          "author": "Geoff Graham",
+          "description": "Myles C. Maxfield on the WebKit Blog published a nifty how-to for color fonts. It comes on the heels of what Ollie wrote up here on CSS-Tricks the other day, and while they cover a lot of common …\nCustomizing Color Fonts on the Web originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/customizing-color-fonts-on-the-web/",
+          "publishedOn": "2022-05-26T00:15:29.000Z",
+          "wordCount": 321,
+          "title": "Customizing Color Fonts on the Web",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366077"
+        },
+        {
+          "id": "https://css-tricks.com/?p=365888",
+          "author": "Nicholas C. Zakas",
+          "description": "Earlier this year, I self-published an ebook called Understanding JavaScript Promises (free for download). Even though I didn’t have any intention of turning it into a print book, enough people reached out inquiring about a print version that …\nA Perfect Table of Contents With HTML + CSS originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/a-perfect-table-of-contents-with-html-css/",
+          "publishedOn": "2022-05-25T14:08:33.000Z",
+          "wordCount": 2931,
+          "title": "A Perfect Table of Contents With HTML + CSS",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365888"
+        },
+        {
           "id": "https://css-tricks.com/?p=365828",
           "author": "Mariana Beldi",
           "description": "So, SVG has this stroke-miterlimit presentation attribute. You’ve probably seen it when exporting an SVG from a graphic editor program, or perhaps you find out you could remove it without noticing any change to the visual appearance.\nAfter a good …\nMastering SVG’s stroke-miterlimit Attribute originally published on CSS-Tricks. You should get the newsletter.",
@@ -31,7 +51,7 @@
           "description": "As the author of a library called AgnosticUI, I’m always on the lookout for new components. And recently, I decided to dig in and start work on a new dialog (aka modal) component. That’s something many devs like to …\nDialog Components: Go Native HTML or Roll Your Own? originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/dialog-components-roll-your-own/",
           "publishedOn": "2022-05-23T14:31:18.000Z",
-          "wordCount": 3336,
+          "wordCount": 3341,
           "title": "Dialog Components: Go Native HTML or Roll Your Own?",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365804"
         },
@@ -134,26 +154,6 @@
           "wordCount": 1141,
           "title": "Useful Tools for Creating AVIF Images",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365579"
-        },
-        {
-          "id": "https://css-tricks.com/?p=365614",
-          "author": "John Siciliano",
-          "description": "Let’s say you have a website built on a platform that excels at design and it’s available at example.com. But that platform falls short at blogging. So you think to yourself, “What if I could use a different blogging …\nHow to Serve a Subdomain as a Subdirectory originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/how-to-serve-a-subdomain-as-a-subdirectory/",
-          "publishedOn": "2022-05-06T14:19:44.000Z",
-          "wordCount": 2232,
-          "title": "How to Serve a Subdomain as a Subdirectory",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365614"
-        },
-        {
-          "id": "https://css-tricks.com/?p=365510",
-          "author": "Adam Rackis",
-          "description": "So, you’ve decided to build a blog with Next.js. Like any dev blogger, you’d like to have code snippets in your posts that are formatted nicely with syntax highlighting. Perhaps you also want to display line numbers in the …\nSyntax Highlighting (and More!) With Prism on a Static Site originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/syntax-highlighting-prism-on-a-next-js-site/",
-          "publishedOn": "2022-05-04T14:16:43.000Z",
-          "wordCount": 2893,
-          "title": "Syntax Highlighting (and More!) With Prism on a Static Site",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365510"
         }
       ]
     },
@@ -168,7 +168,7 @@
           "description": "MongoDB에서 Sequence 사용하기 on Node.js MongoDB는 Oracle이나 PostgreSQL의 Sequence나 MySQL의 Auto Increment 같은 기능이 없습니다.  반면 MongoDB에 익숙한 사람들은 12-byte로된 Object_ID에 더 익숙할겁니다.  MongoDB는 자동 증가 시퀀스를 기본 기능으로 지원하지 않지만 이 기능은 카운터...\nThe post MongoDB에서 Sequence 사용하기 on Node.js appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/mongodb-sequence-on-node-js/",
           "publishedOn": "2022-05-25T01:25:28.000Z",
-          "wordCount": 690,
+          "wordCount": 686,
           "title": "MongoDB에서 Sequence 사용하기 on Node.js",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2020/04/37_2019081518484308.jpg"
         },
@@ -178,7 +178,7 @@
           "description": "Database Specialist or Generalist ?! 서론 이런 글을 쓰게 된 이유는 최근 들어 많이 생각하게되고, 주변 DBA분들이나 비슷한 종사자 엔지니어들과 교류하면서 느낀점이 있기 때문입니다. DBA라는 포지션은 지금까지 대부분 스페셜리스트였습니다. Oracle이 DBA의 대세였던 시절부터, Engineer...\nThe post Database Specialist or Generalist ?! appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/database-specialist-or-generalist/",
           "publishedOn": "2022-05-23T01:00:21.000Z",
-          "wordCount": 1235,
+          "wordCount": 1240,
           "title": "Database Specialist or Generalist ?!",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2021/04/sm_5b46d890d85b8-300x300.jpg"
         },
@@ -188,7 +188,7 @@
           "description": "MERN Stack 이란? 최근 MongoDB에 대한 자료들을 찾아보다 보면 해외 사이트들에서 쉽게 접할 수 있는 단어입니다. 꽤 인기있는 것으로 Udemy 같은 온라인 교육 사이트에는 MERN Stack에 대한 통합 교육과정도 업로드 되고 있습니다. MERN은 스택을 구성하는...\nThe post MERN Stack 이란? appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/mern-stack-%ec%9d%b4%eb%9e%80/",
           "publishedOn": "2022-05-20T16:20:29.000Z",
-          "wordCount": 927,
+          "wordCount": 919,
           "title": "MERN Stack 이란?",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2020/04/37_2019081518484308.jpg"
         }
@@ -200,104 +200,104 @@
       "siteUrl": "https://news.hada.io",
       "articles": [
         {
-          "id": "https://news.hada.io/topic?id=6611",
+          "id": "https://news.hada.io/topic?id=6621",
           "author": null,
-          "description": "30년된 Lotus의 Unix 버전을 Linux에 이식한 과정을 정리\n배경\nLotus의 팬이라 기존 DOS버전을 리버스엔지니어링 하여 DosEmu용 디스플레이 드라이버를 만들어서 실행했음\n그러나 예전 로터스의 Add-in들은 불가능 했음, LPL 이라고 하는 특수언어로 개발되었고, 컴파일...",
-          "link": "https://news.hada.io/topic?id=6611",
-          "publishedOn": "2022-05-25T01:01:19.000Z",
-          "wordCount": 433,
-          "title": "Lotus 1-2-3 for Linux",
-          "imageUrl": "https://social.news.hada.io/topic/6611"
+          "description": "오픈소스 가상/리모트 데스크탑 소프트웨어\n맥/윈도우/리눅스/안드로이드/iOS/웹 클라이언트 지원\n랑데뷰/릴레이 서버 셀프 호스팅 가능\nRust 코드\n무료 퍼블릭 서버 제공 : 서울/싱가폴/달라스\n\n...",
+          "link": "https://news.hada.io/topic?id=6621",
+          "publishedOn": "2022-05-26T01:10:08.000Z",
+          "wordCount": 75,
+          "title": "RustDesk - 오픈소스 TeamViewer 대체제",
+          "imageUrl": "https://social.news.hada.io/topic/6621"
         },
         {
-          "id": "https://news.hada.io/topic?id=6610",
+          "id": "https://news.hada.io/topic?id=6620",
           "author": null,
-          "description": "차로 여행하는 사람들을 위한 위성 인터넷 서비스\n언제든지 서비스를 일시 중지 및 해제할 수 있고, 1개월 단위로 청구됨\n→ 여행 계획에 맞게 사용 가능\n\n...",
-          "link": "https://news.hada.io/topic?id=6610",
-          "publishedOn": "2022-05-25T00:47:31.000Z",
-          "wordCount": 230,
-          "title": "Starlink for RVs",
-          "imageUrl": "https://social.news.hada.io/topic/6610"
+          "description": "파일을 비디오 데이터로 만들어서 유튜브에 저장하는 실험\nWolfram 언어(Mathematica) 패키지로 코딩 되어있음\nFFMpeg , youtube-upload, youtube-dl 이용(별도 설치)\n\n...",
+          "link": "https://news.hada.io/topic?id=6620",
+          "publishedOn": "2022-05-26T00:52:58.000Z",
+          "wordCount": 127,
+          "title": "YouTubeDrive - 파일을 유튜브에 저장하기 (2018)",
+          "imageUrl": "https://social.news.hada.io/topic/6620"
         },
         {
-          "id": "https://news.hada.io/topic?id=6609",
+          "id": "https://news.hada.io/topic?id=6619",
           "author": null,
-          "description": "언어를 깊은 수준으로 이해해서 사실적인 이미지를 생성하는 AI 모델\n사람을 대상으로 한 평가에서 OpenAI의 DALL-E 2 보다 더 선호하는 이미지를 생성\n연구 논문과 예시 이미지만 공개\n→ 외부에서 사용가능한 데모 버전은 윤리적인 문제...",
-          "link": "https://news.hada.io/topic?id=6609",
-          "publishedOn": "2022-05-25T00:32:41.000Z",
-          "wordCount": 136,
-          "title": "Imagen - 구글의 text-to-image diffusion model",
-          "imageUrl": "https://social.news.hada.io/topic/6609"
+          "description": "커스텀 프리미엄 티어, 멀티 뉴스레터, 스페셜 오퍼 추가 및 오디언스 세그멘팅, 분석기능 확장\n편집기에 커스텀 카드들 추가 : 비디오, 팟캐스트, Gif, 제품, Callout, 헤더, NFT 등\n테마 개선 및 새로운 테마 추가 : 뉴스사이트용 Headline 등\n관리자 사이트 향상\n약 20...",
+          "link": "https://news.hada.io/topic?id=6619",
+          "publishedOn": "2022-05-26T00:38:11.000Z",
+          "wordCount": 121,
+          "title": "Ghost 5.0 출시",
+          "imageUrl": "https://social.news.hada.io/topic/6619"
         },
         {
-          "id": "https://news.hada.io/topic?id=6608",
+          "id": "https://news.hada.io/topic?id=6618",
           "author": null,
-          "description": "Shopify는 데이터 추출, 머신러닝모델 훈련, 아파치 Iceberg 테이블 메인터넌스, DBT기반 데이터 모델링 등에 활용중\n클라우드 저장소를 사용할 때 파일 접근이 느릴 수 있음\n메타데이터 볼륨이 커지면 Aiflow 오퍼레이션이 느려질 수 있음\n→ 리텐션 정",
-          "link": "https://news.hada.io/topic?id=6608",
-          "publishedOn": "2022-05-25T00:07:59.000Z",
-          "wordCount": 150,
-          "title": "Airflow를 대규모로 운영하며 배운 교훈",
-          "imageUrl": "https://social.news.hada.io/topic/6608"
+          "description": "베이시스(Basis)\n\n2017년 8월 시작한 첫 알고리즘 스테이블코인 실험 중 하나\n규제 당국 개입으로 KYC 및 검증된 투자자들에게만 발행해야 한다고 요구\n베이시스는 자금을 투자자들에게 돌려줬고 프로토콜을 출시하지 않았음\n엠프티 셋 달러(Empty Set Dollar)...",
+          "link": "https://news.hada.io/topic?id=6618",
+          "publishedOn": "2022-05-26T00:24:28.000Z",
+          "wordCount": 215,
+          "title": "스테이블하고 싶었지만 그러지못한 알고리즘 스테이블코인들",
+          "imageUrl": "https://social.news.hada.io/topic/6618"
         },
         {
-          "id": "https://news.hada.io/topic?id=6607",
+          "id": "https://news.hada.io/topic?id=6617",
           "author": null,
-          "description": "\"Swiftly approaching.\"",
-          "link": "https://news.hada.io/topic?id=6607",
-          "publishedOn": "2022-05-24T23:57:05.000Z",
-          "wordCount": 82,
-          "title": "애플 WWDC22, 6월 6일~10일 온라인 개최",
-          "imageUrl": "https://social.news.hada.io/topic/6607"
+          "description": "기계식 무브먼트 시계 안의 주요 부품을 하나하나 알기 쉽기 애니메이션과 함께 설명\n각 애니메이션은 마우스로 스크롤...",
+          "link": "https://news.hada.io/topic?id=6617",
+          "publishedOn": "2022-05-26T00:13:47.000Z",
+          "wordCount": 148,
+          "title": "기계식 시계는 어떻게 동작하는가",
+          "imageUrl": "https://social.news.hada.io/topic/6617"
         },
         {
-          "id": "https://news.hada.io/topic?id=6606",
+          "id": "https://news.hada.io/topic?id=6616",
           "author": null,
-          "description": "똑같은 파일을 찾아서 제거해주는 커맨드라인 유틸리티\n다양한 옵션 지원\n\n중복 파일 찾기 : N개 이상의 중복 파일, 단일 파일, N개 이하인 파일\n검색할 파일들 선택 : 여러 폴더, 파일 리스트, 재귀, glob 필터링, 파일 크기\nUnix 유틸들과 연동되며, JSON으로...",
-          "link": "https://news.hada.io/topic?id=6606",
-          "publishedOn": "2022-05-24T01:25:45.000Z",
-          "wordCount": 141,
-          "title": "fclones - 효율적인 중복 파일 파인더",
-          "imageUrl": "https://social.news.hada.io/topic/6606"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6605",
-          "author": null,
-          "description": "\"31그램 짜리 배터리 교체를 위해 35kg짜리 리페어킷을 보냈어요\"\n작은 도구 상자가 올거라고 예상했지만, 거대한 박스 두개가 배달 왔음\n→ 내부 보호용 플라스틱으로 만들어진 펠리칸 케이스\n</ul",
-          "link": "https://news.hada.io/topic?id=6605",
-          "publishedOn": "2022-05-24T01:10:27.000Z",
-          "wordCount": 335,
-          "title": "애플 아이폰 셀프 서비스 수리 키트 리뷰",
-          "imageUrl": "https://social.news.hada.io/topic/6605"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6604",
-          "author": null,
-          "description": "Web3는\n탈중앙화 되지 않음. 앱이 실용적이 되려면 게이트웨이 중 하나를 거쳐야 함\n이 게이트웨이들은 할 수 있는 것과 할 수 없는 것을 적어도 기존 웹 호스팅 사이트 이상으로 제어함\n실제 블록체인에 뭔가 작업을 하는 것은 매우 비쌈\n대부분의 사용자들은 실제로 신경...",
-          "link": "https://news.hada.io/topic?id=6604",
-          "publishedOn": "2022-05-24T00:51:24.000Z",
-          "wordCount": 492,
-          "title": "Web3는 그냥 비싼 P2P입니다",
-          "imageUrl": "https://social.news.hada.io/topic/6604"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6603",
-          "author": null,
-          "description": "a16z의 2022 State of Crypto 보고서 번역\n지금은 가격-혁신 4번째 사이클의 한 가운데에 와 있습니다.\n크리에이터들에게, 웹 2.0보다 웹 3.0이 압도적으로 좋은 환경이 될겁니다.\n크립토 프로젝트가 점점 실생활과 가까워집니다.\n이더리움은 확실한 선구자이나, 여러 경쟁",
-          "link": "https://news.hada.io/topic?id=6603",
-          "publishedOn": "2022-05-24T00:31:35.000Z",
+          "description": "Uber는 \"zig cc\" (bazel-zig-cc)를 사용하여 C/C++ 코드를 컴파일\n하지만, Zig 언어 자체를 사용할 계획은 없음. 즉 ...",
+          "link": "https://news.hada.io/topic?id=6616",
+          "publishedOn": "2022-05-26T00:02:37.000Z",
           "wordCount": 166,
-          "title": "2022년의 크립토씬, 어디까지 왔는가?",
-          "imageUrl": "https://social.news.hada.io/topic/6603"
+          "title": "Uber가 Zig를 사용하는 방법",
+          "imageUrl": "https://social.news.hada.io/topic/6616"
         },
         {
-          "id": "https://news.hada.io/topic?id=6602",
+          "id": "https://news.hada.io/topic?id=6615",
           "author": null,
-          "description": "쿠팡의 길을 걷고 있는 컬리\n공헌이익의 함정\n컬리식 장점과 비지니스 모델과의 괴리\n새벽의 저주, 규모의 손해\n\n오아시스마켓, 마켓컬리, SSG, 쿠팡 의 비교\n클라우드를 하시겠다고요?\n아마존 메타의 종말\n\n...",
-          "link": "https://news.hada.io/topic?id=6602",
-          "publishedOn": "2022-05-24T00:06:28.000Z",
-          "wordCount": 82,
-          "title": "컬리의 흑자는 과연 결정의 문제일까?",
-          "imageUrl": "https://social.news.hada.io/topic/6602"
+          "description": "Blaze: A Rust-based vectorized accelerator to speed up your Spark jobs",
+          "link": "https://news.hada.io/topic?id=6615",
+          "publishedOn": "2022-05-25T15:20:16.000Z",
+          "wordCount": 63,
+          "title": "Blaze: A Rust-based vectorized accelerator to speed up your Spark jobs",
+          "imageUrl": "https://social.news.hada.io/topic/6615"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6614",
+          "author": null,
+          "description": "\"No User, No Technology\"\n매일 오후 2시 유튜브 라이브로 공개\n\n...",
+          "link": "https://news.hada.io/topic?id=6614",
+          "publishedOn": "2022-05-25T03:03:32.000Z",
+          "wordCount": 71,
+          "title": "SLASH 22 - TOSS 개발자 컨퍼런스 6월8일~10일 개최",
+          "imageUrl": "https://social.news.hada.io/topic/6614"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6613",
+          "author": null,
+          "description": "글로벌 클라우드 보안 서비스 회사인 CloudFlare 에서\n< 주요 특징 요약 >\n러시아와 우크라이나\n\n러시아의 주요 타켓은 온라인 미디어 회사\n러시아를 공격하는 주요 출발지는 대부분 독일, 미",
+          "link": "https://news.hada.io/topic?id=6613",
+          "publishedOn": "2022-05-25T02:10:59.000Z",
+          "wordCount": 157,
+          "title": "CloudFlare 2022년 1분기 DDoS 공격 동향 보고서",
+          "imageUrl": "https://social.news.hada.io/topic/6613"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6612",
+          "author": null,
+          "description": "세 줄로 요약하는 엔비디아\n한 눈에 살펴보기\n사업 분야\n\n게이밍\n데이터 센터\n전문가용 비주얼 플랫폼\n핵심인물은?\n엔비디아의 미래는?\n\n...",
+          "link": "https://news.hada.io/topic?id=6612",
+          "publishedOn": "2022-05-25T01:26:05.000Z",
+          "wordCount": 73,
+          "title": "Nvidia - 컴퓨팅 파워의 미래",
+          "imageUrl": "https://social.news.hada.io/topic/6612"
         }
       ]
     },
@@ -325,16 +325,6 @@
           "wordCount": 484,
           "title": "Jira Release 발생시 Slack에 Release Notes 발행하기",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcAgGNa%2FbtrA3rHRvlc%2F7KkC5cvXbRpWF2YKvkQnU1%2Fimg.png"
-        },
-        {
-          "id": "https://jojoldu.tistory.com/669",
-          "author": "향로",
-          "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\nWebStorm에서 기본적으로는 TypeScript 파일만 단독으로 실행할 수는 없다.\n단독으로 실행이 필요할 경우 JS 파일로 컴파일 후, 실행해야만 한다.\nRun server-side TypeScript with Node.js\n이 과정이 개발의 흐름을 많이 끊기 때문에 일반적인 JavaScript 파일을 실행하듯이 TypeScript 실행 환경이 필요하다.\n개선\nTypeScript 파일만 단독으로 수행하기 개별 플러그인만 설치하면 가능하다.\nRun Configuration for TypeScript\n해당 플러그인 설치후, 프로젝트에 ts-node 를 설치한다.\nyarn add --dev ts-node\n그리고 TS 파일을 다시 한번 우클릭 해보면? \n다음과 같이 Run/Debug 실행 버튼이 생성된 것을 확인할 수 있다.\n해당 버튼을 클릭해 실제로 수행해본다. \n그럼 다음과 같이 정상적으로 TS 파일이 컴파일 되어 실행되는 것을 확인할 수 있다.\n            \n반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({});",
-          "link": "https://jojoldu.tistory.com/669",
-          "publishedOn": "2022-04-26T00:13:18.000Z",
-          "wordCount": 270,
-          "title": "WebStorm에서 TypeScript 파일 단독으로 실행하기",
-          "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbFWsNN%2FbtrAvGrDcFL%2FD0X92CK9xgOtMM6NhsZiB0%2Fimg.png"
         }
       ]
     }

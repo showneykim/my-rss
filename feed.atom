@@ -1,10 +1,171 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-25T01:47:52.288Z</id>
+    <id>urn:2022-05-26T01:49:40.996Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-25T01:47:52.288Z</updated>
+    <updated>2022-05-26T01:49:40.996Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RustDesk - 오픈소스 TeamViewer 대체제]]></title>
+        <id>https://news.hada.io/topic?id=6621</id>
+        <link href="https://news.hada.io/topic?id=6621"/>
+        <updated>2022-05-26T01:10:08.000Z</updated>
+        <summary type="html"><![CDATA[오픈소스 가상/리모트 데스크탑 소프트웨어
+맥/윈도우/리눅스/안드로이드/iOS/웹 클라이언트 지원
+랑데뷰/릴레이 서버 셀프 호스팅 가능
+Rust 코드
+무료 퍼블릭 서버 제공 : 서울/싱가폴/달라스
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YouTubeDrive - 파일을 유튜브에 저장하기 (2018)]]></title>
+        <id>https://news.hada.io/topic?id=6620</id>
+        <link href="https://news.hada.io/topic?id=6620"/>
+        <updated>2022-05-26T00:52:58.000Z</updated>
+        <summary type="html"><![CDATA[파일을 비디오 데이터로 만들어서 유튜브에 저장하는 실험
+Wolfram 언어(Mathematica) 패키지로 코딩 되어있음
+FFMpeg , youtube-upload, youtube-dl 이용(별도 설치)
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ghost 5.0 출시]]></title>
+        <id>https://news.hada.io/topic?id=6619</id>
+        <link href="https://news.hada.io/topic?id=6619"/>
+        <updated>2022-05-26T00:38:11.000Z</updated>
+        <summary type="html"><![CDATA[커스텀 프리미엄 티어, 멀티 뉴스레터, 스페셜 오퍼 추가 및 오디언스 세그멘팅, 분석기능 확장
+편집기에 커스텀 카드들 추가 : 비디오, 팟캐스트, Gif, 제품, Callout, 헤더, NFT 등
+테마 개선 및 새로운 테마 추가 : 뉴스사이트용 Headline 등
+관리자 사이트 향상
+약 20...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스테이블하고 싶었지만 그러지못한 알고리즘 스테이블코인들]]></title>
+        <id>https://news.hada.io/topic?id=6618</id>
+        <link href="https://news.hada.io/topic?id=6618"/>
+        <updated>2022-05-26T00:24:28.000Z</updated>
+        <summary type="html"><![CDATA[베이시스(Basis)
+
+2017년 8월 시작한 첫 알고리즘 스테이블코인 실험 중 하나
+규제 당국 개입으로 KYC 및 검증된 투자자들에게만 발행해야 한다고 요구
+베이시스는 자금을 투자자들에게 돌려줬고 프로토콜을 출시하지 않았음
+엠프티 셋 달러(Empty Set Dollar)...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Customizing Color Fonts on the Web]]></title>
+        <id>https://css-tricks.com/?p=366077</id>
+        <link href="https://css-tricks.com/customizing-color-fonts-on-the-web/"/>
+        <updated>2022-05-26T00:15:29.000Z</updated>
+        <summary type="html"><![CDATA[Myles C. Maxfield on the WebKit Blog published a nifty how-to for color fonts. It comes on the heels of what Ollie wrote up here on CSS-Tricks the other day, and while they cover a lot of common …
+Customizing Color Fonts on the Web originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기계식 시계는 어떻게 동작하는가]]></title>
+        <id>https://news.hada.io/topic?id=6617</id>
+        <link href="https://news.hada.io/topic?id=6617"/>
+        <updated>2022-05-26T00:13:47.000Z</updated>
+        <summary type="html"><![CDATA[기계식 무브먼트 시계 안의 주요 부품을 하나하나 알기 쉽기 애니메이션과 함께 설명
+각 애니메이션은 마우스로 스크롤...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uber가 Zig를 사용하는 방법]]></title>
+        <id>https://news.hada.io/topic?id=6616</id>
+        <link href="https://news.hada.io/topic?id=6616"/>
+        <updated>2022-05-26T00:02:37.000Z</updated>
+        <summary type="html"><![CDATA[Uber는 "zig cc" (bazel-zig-cc)를 사용하여 C/C++ 코드를 컴파일
+하지만, Zig 언어 자체를 사용할 계획은 없음. 즉 ...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blaze: A Rust-based vectorized accelerator to speed up your Spark jobs]]></title>
+        <id>https://news.hada.io/topic?id=6615</id>
+        <link href="https://news.hada.io/topic?id=6615"/>
+        <updated>2022-05-25T15:20:16.000Z</updated>
+        <summary type="html"><![CDATA[Blaze: A Rust-based vectorized accelerator to speed up your Spark jobs]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Perfect Table of Contents With HTML + CSS]]></title>
+        <id>https://css-tricks.com/?p=365888</id>
+        <link href="https://css-tricks.com/a-perfect-table-of-contents-with-html-css/"/>
+        <updated>2022-05-25T14:08:33.000Z</updated>
+        <summary type="html"><![CDATA[Earlier this year, I self-published an ebook called Understanding JavaScript Promises (free for download). Even though I didn’t have any intention of turning it into a print book, enough people reached out inquiring about a print version that …
+A Perfect Table of Contents With HTML + CSS originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Nicholas C. Zakas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SLASH 22 - TOSS 개발자 컨퍼런스 6월8일~10일 개최]]></title>
+        <id>https://news.hada.io/topic?id=6614</id>
+        <link href="https://news.hada.io/topic?id=6614"/>
+        <updated>2022-05-25T03:03:32.000Z</updated>
+        <summary type="html"><![CDATA["No User, No Technology"
+매일 오후 2시 유튜브 라이브로 공개
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CloudFlare 2022년 1분기 DDoS 공격 동향 보고서]]></title>
+        <id>https://news.hada.io/topic?id=6613</id>
+        <link href="https://news.hada.io/topic?id=6613"/>
+        <updated>2022-05-25T02:10:59.000Z</updated>
+        <summary type="html"><![CDATA[글로벌 클라우드 보안 서비스 회사인 CloudFlare 에서
+< 주요 특징 요약 >
+러시아와 우크라이나
+
+러시아의 주요 타켓은 온라인 미디어 회사
+러시아를 공격하는 주요 출발지는 대부분 독일, 미]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nvidia - 컴퓨팅 파워의 미래]]></title>
+        <id>https://news.hada.io/topic?id=6612</id>
+        <link href="https://news.hada.io/topic?id=6612"/>
+        <updated>2022-05-25T01:26:05.000Z</updated>
+        <summary type="html"><![CDATA[세 줄로 요약하는 엔비디아
+한 눈에 살펴보기
+사업 분야
+
+게이밍
+데이터 센터
+전문가용 비주얼 플랫폼
+핵심인물은?
+엔비디아의 미래는?
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MongoDB에서 Sequence 사용하기 on Node.js]]></title>
         <id>https://rastalion.me/?p=2532</id>
@@ -17,69 +178,6 @@ The post MongoDB에서 Sequence 사용하기 on Node.js appeared first on RastaL
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lotus 1-2-3 for Linux]]></title>
-        <id>https://news.hada.io/topic?id=6611</id>
-        <link href="https://news.hada.io/topic?id=6611"/>
-        <updated>2022-05-25T01:01:19.000Z</updated>
-        <summary type="html"><![CDATA[30년된 Lotus의 Unix 버전을 Linux에 이식한 과정을 정리
-배경
-Lotus의 팬이라 기존 DOS버전을 리버스엔지니어링 하여 DosEmu용 디스플레이 드라이버를 만들어서 실행했음
-그러나 예전 로터스의 Add-in들은 불가능 했음, LPL 이라고 하는 특수언어로 개발되었고, 컴파일...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Starlink for RVs]]></title>
-        <id>https://news.hada.io/topic?id=6610</id>
-        <link href="https://news.hada.io/topic?id=6610"/>
-        <updated>2022-05-25T00:47:31.000Z</updated>
-        <summary type="html"><![CDATA[차로 여행하는 사람들을 위한 위성 인터넷 서비스
-언제든지 서비스를 일시 중지 및 해제할 수 있고, 1개월 단위로 청구됨
-→ 여행 계획에 맞게 사용 가능
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Imagen - 구글의 text-to-image diffusion model]]></title>
-        <id>https://news.hada.io/topic?id=6609</id>
-        <link href="https://news.hada.io/topic?id=6609"/>
-        <updated>2022-05-25T00:32:41.000Z</updated>
-        <summary type="html"><![CDATA[언어를 깊은 수준으로 이해해서 사실적인 이미지를 생성하는 AI 모델
-사람을 대상으로 한 평가에서 OpenAI의 DALL-E 2 보다 더 선호하는 이미지를 생성
-연구 논문과 예시 이미지만 공개
-→ 외부에서 사용가능한 데모 버전은 윤리적인 문제...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Airflow를 대규모로 운영하며 배운 교훈]]></title>
-        <id>https://news.hada.io/topic?id=6608</id>
-        <link href="https://news.hada.io/topic?id=6608"/>
-        <updated>2022-05-25T00:07:59.000Z</updated>
-        <summary type="html"><![CDATA[Shopify는 데이터 추출, 머신러닝모델 훈련, 아파치 Iceberg 테이블 메인터넌스, DBT기반 데이터 모델링 등에 활용중
-클라우드 저장소를 사용할 때 파일 접근이 느릴 수 있음
-메타데이터 볼륨이 커지면 Aiflow 오퍼레이션이 느려질 수 있음
-→ 리텐션 정]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애플 WWDC22, 6월 6일~10일 온라인 개최]]></title>
-        <id>https://news.hada.io/topic?id=6607</id>
-        <link href="https://news.hada.io/topic?id=6607"/>
-        <updated>2022-05-24T23:57:05.000Z</updated>
-        <summary type="html"><![CDATA["Swiftly approaching."]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Mastering SVG’s stroke-miterlimit Attribute]]></title>
         <id>https://css-tricks.com/?p=365828</id>
         <link href="https://css-tricks.com/mastering-svgs-stroke-miterlimit-attribute/"/>
@@ -89,81 +187,6 @@ After a good …
 Mastering SVG’s stroke-miterlimit Attribute originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Mariana Beldi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[fclones - 효율적인 중복 파일 파인더]]></title>
-        <id>https://news.hada.io/topic?id=6606</id>
-        <link href="https://news.hada.io/topic?id=6606"/>
-        <updated>2022-05-24T01:25:45.000Z</updated>
-        <summary type="html"><![CDATA[똑같은 파일을 찾아서 제거해주는 커맨드라인 유틸리티
-다양한 옵션 지원
-
-중복 파일 찾기 : N개 이상의 중복 파일, 단일 파일, N개 이하인 파일
-검색할 파일들 선택 : 여러 폴더, 파일 리스트, 재귀, glob 필터링, 파일 크기
-Unix 유틸들과 연동되며, JSON으로...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애플 아이폰 셀프 서비스 수리 키트 리뷰]]></title>
-        <id>https://news.hada.io/topic?id=6605</id>
-        <link href="https://news.hada.io/topic?id=6605"/>
-        <updated>2022-05-24T01:10:27.000Z</updated>
-        <summary type="html"><![CDATA["31그램 짜리 배터리 교체를 위해 35kg짜리 리페어킷을 보냈어요"
-작은 도구 상자가 올거라고 예상했지만, 거대한 박스 두개가 배달 왔음
-→ 내부 보호용 플라스틱으로 만들어진 펠리칸 케이스
-</ul]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3는 그냥 비싼 P2P입니다]]></title>
-        <id>https://news.hada.io/topic?id=6604</id>
-        <link href="https://news.hada.io/topic?id=6604"/>
-        <updated>2022-05-24T00:51:24.000Z</updated>
-        <summary type="html"><![CDATA[Web3는
-탈중앙화 되지 않음. 앱이 실용적이 되려면 게이트웨이 중 하나를 거쳐야 함
-이 게이트웨이들은 할 수 있는 것과 할 수 없는 것을 적어도 기존 웹 호스팅 사이트 이상으로 제어함
-실제 블록체인에 뭔가 작업을 하는 것은 매우 비쌈
-대부분의 사용자들은 실제로 신경...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022년의 크립토씬, 어디까지 왔는가?]]></title>
-        <id>https://news.hada.io/topic?id=6603</id>
-        <link href="https://news.hada.io/topic?id=6603"/>
-        <updated>2022-05-24T00:31:35.000Z</updated>
-        <summary type="html"><![CDATA[a16z의 2022 State of Crypto 보고서 번역
-지금은 가격-혁신 4번째 사이클의 한 가운데에 와 있습니다.
-크리에이터들에게, 웹 2.0보다 웹 3.0이 압도적으로 좋은 환경이 될겁니다.
-크립토 프로젝트가 점점 실생활과 가까워집니다.
-이더리움은 확실한 선구자이나, 여러 경쟁]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[컬리의 흑자는 과연 결정의 문제일까?]]></title>
-        <id>https://news.hada.io/topic?id=6602</id>
-        <link href="https://news.hada.io/topic?id=6602"/>
-        <updated>2022-05-24T00:06:28.000Z</updated>
-        <summary type="html"><![CDATA[쿠팡의 길을 걷고 있는 컬리
-공헌이익의 함정
-컬리식 장점과 비지니스 모델과의 괴리
-새벽의 저주, 규모의 손해
-
-오아시스마켓, 마켓컬리, SSG, 쿠팡 의 비교
-클라우드를 하시겠다고요?
-아마존 메타의 종말
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
     </entry>
     <entry>
@@ -357,28 +380,6 @@ Useful Tools for Creating AVIF Images originally published on CSS-Tricks. You sh
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Serve a Subdomain as a Subdirectory]]></title>
-        <id>https://css-tricks.com/?p=365614</id>
-        <link href="https://css-tricks.com/how-to-serve-a-subdomain-as-a-subdirectory/"/>
-        <updated>2022-05-06T14:19:44.000Z</updated>
-        <summary type="html"><![CDATA[Let’s say you have a website built on a platform that excels at design and it’s available at example.com. But that platform falls short at blogging. So you think to yourself, “What if I could use a different blogging …
-How to Serve a Subdomain as a Subdirectory originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>John Siciliano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Syntax Highlighting (and More!) With Prism on a Static Site]]></title>
-        <id>https://css-tricks.com/?p=365510</id>
-        <link href="https://css-tricks.com/syntax-highlighting-prism-on-a-next-js-site/"/>
-        <updated>2022-05-04T14:16:43.000Z</updated>
-        <summary type="html"><![CDATA[So, you’ve decided to build a blog with Next.js. Like any dev blogger, you’d like to have code snippets in your posts that are formatted nicely with syntax highlighting. Perhaps you also want to display line numbers in the …
-Syntax Highlighting (and More!) With Prism on a Static Site originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Adam Rackis</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Jira Release 발생시 Slack에 Release Notes 발행하기]]></title>
         <id>https://jojoldu.tistory.com/670</id>
         <link href="https://jojoldu.tistory.com/670"/>
@@ -432,39 +433,6 @@ Jira의 Release 페이지로 이동한뒤,
 여기까지 되었다면, 이후에 본인의 CI환경에 따라 배포가 완료되면 자동으로 Jira Release가 되도록하는것도 이어서 할 수 있다.
 Jira version Update API
 이 부분은 각자가 사용하는 CI 환경에 따라 많은 차이가 있어서 (까나리배포를 한다던가, 사용하는 도구가 Jenkins / CircleCI / Github Action 등이라던가) 개별적으로 구현한다.
-            
-반응형
-
-                    
-                    (adsbygoogle = window.adsbygoogle || []).push({});]]></summary>
-        <author>
-            <name>향로</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WebStorm에서 TypeScript 파일 단독으로 실행하기]]></title>
-        <id>https://jojoldu.tistory.com/669</id>
-        <link href="https://jojoldu.tistory.com/669"/>
-        <updated>2022-04-26T00:13:18.000Z</updated>
-        <summary type="html"><![CDATA[반응형
-
-                    
-                    (adsbygoogle = window.adsbygoogle || []).push({}); 
-               
-
-WebStorm에서 기본적으로는 TypeScript 파일만 단독으로 실행할 수는 없다.
-단독으로 실행이 필요할 경우 JS 파일로 컴파일 후, 실행해야만 한다.
-Run server-side TypeScript with Node.js
-이 과정이 개발의 흐름을 많이 끊기 때문에 일반적인 JavaScript 파일을 실행하듯이 TypeScript 실행 환경이 필요하다.
-개선
-TypeScript 파일만 단독으로 수행하기 개별 플러그인만 설치하면 가능하다.
-Run Configuration for TypeScript
-해당 플러그인 설치후, 프로젝트에 ts-node 를 설치한다.
-yarn add --dev ts-node
-그리고 TS 파일을 다시 한번 우클릭 해보면? 
-다음과 같이 Run/Debug 실행 버튼이 생성된 것을 확인할 수 있다.
-해당 버튼을 클릭해 실제로 수행해본다. 
-그럼 다음과 같이 정상적으로 TS 파일이 컴파일 되어 실행되는 것을 확인할 수 있다.
             
 반응형
 
