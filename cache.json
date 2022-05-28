@@ -6,6 +6,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=366068",
+          "author": "Geoff Graham",
+          "description": "I teach a class over at the local college here in Long Beach and a majority of the content is hosted on the Canvas LMS so students can access it online. And, naturally, I want the content to be as …\nJust How Long Should Alt Text Be? originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/just-how-long-should-alt-text-be/",
+          "publishedOn": "2022-05-27T14:25:39.000Z",
+          "wordCount": 839,
+          "title": "Just How Long Should Alt Text Be?",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366068"
+        },
+        {
           "id": "https://css-tricks.com/?p=366107",
           "author": "Geoff Graham",
           "description": "It wasn’t long ago that Nick Sypteras showed us how to make custom badges for a GitHub repo. Well, Reza Shakeri put Beautify GitHub Profile together and it’s a huuuuuuge repo of different badges that pulls lots of examples …\nBeautify GitHub Profile originally published on CSS-Tricks. You should get the newsletter.",
@@ -41,7 +51,7 @@
           "description": "Earlier this year, I self-published an ebook called Understanding JavaScript Promises (free for download). Even though I didn’t have any intention of turning it into a print book, enough people reached out inquiring about a print version that …\nA Perfect Table of Contents With HTML + CSS originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/a-perfect-table-of-contents-with-html-css/",
           "publishedOn": "2022-05-25T14:08:33.000Z",
-          "wordCount": 3233,
+          "wordCount": 3362,
           "title": "A Perfect Table of Contents With HTML + CSS",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365888"
         },
@@ -144,16 +154,6 @@
           "wordCount": 3746,
           "title": "A CSS Slinky in 3D? Challenge Accepted!",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365706"
-        },
-        {
-          "id": "https://css-tricks.com/?p=365677",
-          "author": "Ollie Williams",
-          "description": "According to Toshi Omagari, the author of Arcade Game Typography, the world’s first multi-colored digital font was created in 1982 for a never-released video game called Insector. Multi-colored fonts, sometimes called chromatic type, are still relatively rare on the …\nCOLRv1 and CSS font-palette: Web Typography Gets Colorful originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/colrv1-and-css-font-palette-web-typography/",
-          "publishedOn": "2022-05-11T14:12:51.000Z",
-          "wordCount": 2689,
-          "title": "COLRv1 and CSS font-palette: Web Typography Gets Colorful",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365677"
         }
       ]
     },
@@ -168,7 +168,7 @@
           "description": "MongoDB에서 Sequence 사용하기 on Node.js MongoDB는 Oracle이나 PostgreSQL의 Sequence나 MySQL의 Auto Increment 같은 기능이 없습니다.  반면 MongoDB에 익숙한 사람들은 12-byte로된 Object_ID에 더 익숙할겁니다.  MongoDB는 자동 증가 시퀀스를 기본 기능으로 지원하지 않지만 이 기능은 카운터...\nThe post MongoDB에서 Sequence 사용하기 on Node.js appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/mongodb-sequence-on-node-js/",
           "publishedOn": "2022-05-25T01:25:28.000Z",
-          "wordCount": 690,
+          "wordCount": 722,
           "title": "MongoDB에서 Sequence 사용하기 on Node.js",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2020/04/37_2019081518484308.jpg"
         },
@@ -188,7 +188,7 @@
           "description": "MERN Stack 이란? 최근 MongoDB에 대한 자료들을 찾아보다 보면 해외 사이트들에서 쉽게 접할 수 있는 단어입니다. 꽤 인기있는 것으로 Udemy 같은 온라인 교육 사이트에는 MERN Stack에 대한 통합 교육과정도 업로드 되고 있습니다. MERN은 스택을 구성하는...\nThe post MERN Stack 이란? appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/mern-stack-%ec%9d%b4%eb%9e%80/",
           "publishedOn": "2022-05-20T16:20:29.000Z",
-          "wordCount": 930,
+          "wordCount": 919,
           "title": "MERN Stack 이란?",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2020/04/37_2019081518484308.jpg"
         }
@@ -199,6 +199,56 @@
       "feedUrl": "https://news.hada.io/rss/news",
       "siteUrl": "https://news.hada.io",
       "articles": [
+        {
+          "id": "https://news.hada.io/topic?id=6633",
+          "author": null,
+          "description": "프라이버시를 보장하는 암호화 이메일 서비스 ProtonMail이 Proton으로 이름을 변경\n캘린더, 드라이브, VPN도 묶어서 제공하며 구글과 경쟁하게 될 것\n대만 출신 Andy Yen CEO와의 인터뷰\n스위스 제네바에 있으며, 현재 400명의 직원과 7천만명의 사용자\n\n...",
+          "link": "https://news.hada.io/topic?id=6633",
+          "publishedOn": "2022-05-28T00:45:16.000Z",
+          "wordCount": 91,
+          "title": "Proton은 당신의 데이터를 이용하지 않는 Google이 되려한다",
+          "imageUrl": "https://social.news.hada.io/topic/6633"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6632",
+          "author": null,
+          "description": "감염된 PC의 파일을 암호화 한 뒤 해독키를 요구하면서 3가지 사회 활동을 시킴\n\n노숙자에게 새 옷을 기부하고, 영상으로 기록한 뒤 소셜미디어에 게시\n5명의 불우한 아이들을 도미노/피자헛/KFC에 데려가 음식을 사주고, 사진/비디오로 기록해서 소셜미디어에 게시\n긴급한 치료가 필...",
+          "link": "https://news.hada.io/topic?id=6632",
+          "publishedOn": "2022-05-28T00:23:27.000Z",
+          "wordCount": 168,
+          "title": "GoodWill 랜섬웨어, 감염된 피해자에게 기부 및 좋은 행동을 강요",
+          "imageUrl": "https://social.news.hada.io/topic/6632"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6631",
+          "author": null,
+          "description": "개발자를 위한 Azure 가상 데스크탑 서비스\n클라우드 상에 개발용 가상 머신을 생성하고 소스 코드 작성부터 테스트 배포까지 가능\n개발팀에서는 프로젝트 및 작업에 맞게 Dev Box를 이미지로 만들어 놓고 공유\n→ 각종 개발 도구와 어플리케이션 소스 코드로 빌드한 결과까지 다 넣어...",
+          "link": "https://news.hada.io/topic?id=6631",
+          "publishedOn": "2022-05-28T00:04:33.000Z",
+          "wordCount": 108,
+          "title": "Microsoft Dev Box 공개",
+          "imageUrl": "https://social.news.hada.io/topic/6631"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6630",
+          "author": null,
+          "description": "이번 주말에 뭘 하려고 계획 중인지 편하게 얘기해 보아요.\n읽을 책, 가볼 곳, 해볼 것.. 어떤 것이든 좋습니다.\n지난 주말에 계획하셨던 일의 회고도 한번 남겨봐 주세요.",
+          "link": "https://news.hada.io/topic?id=6630",
+          "publishedOn": "2022-05-27T03:21:55.000Z",
+          "wordCount": 186,
+          "title": "Ask GN: 이번 주말에 뭐 하시나요?",
+          "imageUrl": "https://social.news.hada.io/topic/6630"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6629",
+          "author": null,
+          "description": "작년 가을에 트위터 CEO를 그만두면서 미리 얘기 되었던 것 (2022년 주총에서 임기 만료때까지 남아있기로)\n잭은 일런 머스크와 친분이 있으며, 트위터 인수건에서 자신의 2.4% 지분을 넘기기로 논의했었음\n그는 창업자가 기술회사를 이끄는 것은 \"심각한 제한과 단일 실패지점(SPOF&qu...",
+          "link": "https://news.hada.io/topic?id=6629",
+          "publishedOn": "2022-05-27T02:46:46.000Z",
+          "wordCount": 112,
+          "title": "Jack Dorsey, 트위터 이사회에서 사임",
+          "imageUrl": "https://social.news.hada.io/topic/6629"
+        },
         {
           "id": "https://news.hada.io/topic?id=6628",
           "author": null,
@@ -235,7 +285,7 @@
           "description": "Firecracker로 Docker 이미지를 엣지 서버에서 VM으로 실행하는 Fly.io의 새 API\nREST API로 300ms 안에 VM의 인스턴스 부팅 가능\n요청시에 Proxy가 부팅해주고, idle일때 셧다운\n기존 VM과 실행시 가격은 동일. 실행하지 않을...",
           "link": "https://news.hada.io/topic?id=6625",
           "publishedOn": "2022-05-27T00:48:14.000Z",
-          "wordCount": 153,
+          "wordCount": 163,
           "title": "Fly Machines - 빠른 부팅 VM을 위한 API",
           "imageUrl": "https://social.news.hada.io/topic/6625"
         },
@@ -248,56 +298,6 @@
           "wordCount": 109,
           "title": "리눅스 커널 해커가 뒤져본 Fuchsia OS",
           "imageUrl": "https://social.news.hada.io/topic/6624"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6623",
-          "author": null,
-          "description": "전세계 42%의 웹사이트가 사용 중인 워드프레스가 메이저 버전 업\n향상된 쓰기 경험\n\n여러 블록의 텍스트 선택가능\n'[[' 입력만으로 최근 글/페이지 선택 가능\n블록의 타입을 변경할 때도 스타일 유지\n스타일 전환 : 블록 테마가 여러개의 스타일 포함...",
-          "link": "https://news.hada.io/topic?id=6623",
-          "publishedOn": "2022-05-27T00:11:22.000Z",
-          "wordCount": 127,
-          "title": "WordPress 6.0 \"Arturo\" 릴리즈",
-          "imageUrl": "https://social.news.hada.io/topic/6623"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6622",
-          "author": null,
-          "description": "그냥 막연하게 투자한 회사들이 다들 성공하고 유니콘 되고 그러면 좋은 VC라고 생각했는데, 좀 더 생각해보니 투자자로써 최고의 VC이긴 해도, 좋은 VC라고 말하긴 어렵다는 생각이 들었습니다.\n예를 들면, 전교 1~2등 하는 학생들만 받아서 매번 서울대 보내는 과외 선생님이 최고의 과외 선생님 일수는 있어",
-          "link": "https://news.hada.io/topic?id=6622",
-          "publishedOn": "2022-05-26T16:48:38.000Z",
-          "wordCount": 141,
-          "title": "Ask GN: 좋은 VC란 어떤 걸까요?",
-          "imageUrl": "https://social.news.hada.io/topic/6622"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6621",
-          "author": null,
-          "description": "오픈소스 가상/리모트 데스크탑 소프트웨어\n맥/윈도우/리눅스/안드로이드/iOS/웹 클라이언트 지원\n랑데뷰/릴레이 서버 셀프 호스팅 가능\nRust 코드\n무료 퍼블릭 서버 제공 : 서울/싱가폴/달라스\n\n...",
-          "link": "https://news.hada.io/topic?id=6621",
-          "publishedOn": "2022-05-26T01:10:08.000Z",
-          "wordCount": 151,
-          "title": "RustDesk - 오픈소스 TeamViewer 대체제",
-          "imageUrl": "https://social.news.hada.io/topic/6621"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6620",
-          "author": null,
-          "description": "파일을 비디오 데이터로 만들어서 유튜브에 저장하는 실험\nWolfram 언어(Mathematica) 패키지로 코딩 되어있음\nFFMpeg , youtube-upload, youtube-dl 이용(별도 설치)\n\n...",
-          "link": "https://news.hada.io/topic?id=6620",
-          "publishedOn": "2022-05-26T00:52:58.000Z",
-          "wordCount": 127,
-          "title": "YouTubeDrive - 파일을 유튜브에 저장하기 (2018)",
-          "imageUrl": "https://social.news.hada.io/topic/6620"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6619",
-          "author": null,
-          "description": "커스텀 프리미엄 티어, 멀티 뉴스레터, 스페셜 오퍼 추가 및 오디언스 세그멘팅, 분석기능 확장\n편집기에 커스텀 카드들 추가 : 비디오, 팟캐스트, Gif, 제품, Callout, 헤더, NFT 등\n테마 개선 및 새로운 테마 추가 : 뉴스사이트용 Headline 등\n관리자 사이트 향상\n약 20...",
-          "link": "https://news.hada.io/topic?id=6619",
-          "publishedOn": "2022-05-26T00:38:11.000Z",
-          "wordCount": 130,
-          "title": "Ghost 5.0 출시",
-          "imageUrl": "https://social.news.hada.io/topic/6619"
         }
       ]
     },
