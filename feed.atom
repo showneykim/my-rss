@@ -1,10 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-28T01:41:13.520Z</id>
+    <id>urn:2022-05-29T01:52:53.475Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-28T01:41:13.520Z</updated>
+    <updated>2022-05-29T01:52:53.475Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[왜 strapi 사용을 포기했는가?]]></title>
+        <id>https://news.hada.io/topic?id=6637</id>
+        <link href="https://news.hada.io/topic?id=6637"/>
+        <updated>2022-05-29T01:05:20.000Z</updated>
+        <summary type="html"><![CDATA[제가 headless CMS로 strapi 사용을 검토하고,
+문서의 부재
+원인을 알 수 없는 과금
+아주 매력적이지는 않은 CMS
+를 주된 원인으로 생각했고,
+대체재로는 fir]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Puppeteer 안티패턴들 피하기]]></title>
+        <id>https://news.hada.io/topic?id=6636</id>
+        <link href="https://news.hada.io/topic?id=6636"/>
+        <updated>2022-05-29T00:44:01.000Z</updated>
+        <summary type="html"><![CDATA[waitForTimeout 남용
+Puppeteer의 API가 네이티브 브라우저 처럼 작동한다고 가정하는 것
+"domcontentloaded" 를 사용하지 않는 것
+이미지/자료 로딩을 블로킹 하지 않는 것
+page.evalute 를 사용하지 않는 것
+개발도구가 생성한 셀렉터...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Remult - 풀스택 Typescript용 CRUD 프레임워크]]></title>
+        <id>https://news.hada.io/topic?id=6635</id>
+        <link href="https://news.hada.io/topic?id=6635"/>
+        <updated>2022-05-29T00:25:02.000Z</updated>
+        <summary type="html"><![CDATA[Typescript Model Type을 이용해서 3가지를 제공
+
+Secure REST API
+Type-safe 프론트엔드 API 클라이언트
+Type-safe 백엔드 쿼리 빌더
+React/Angular/Vue/Next.js 예제 제공
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Payload - Headless CMS 오픈소스]]></title>
+        <id>https://news.hada.io/topic?id=6634</id>
+        <link href="https://news.hada.io/topic?id=6634"/>
+        <updated>2022-05-29T00:05:02.000Z</updated>
+        <summary type="html"><![CDATA[100% TypeScript + Node.js + React + MongoDB
+웹사이트, 웹앱, 네이티브 앱등을 위한 Headless CMS
+기존에 유료였다가 MIT 라이센스를 적용하고 프로젝트 종류에 상관없이 완전히 무료로 변경
+GraphQL, REST, Local API 지원
+쉽게 커스터마이징 가능한 ReactJS Admin]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Proton은 당신의 데이터를 이용하지 않는 Google이 되려한다]]></title>
         <id>https://news.hada.io/topic?id=6633</id>
@@ -92,61 +153,6 @@ Just How Long Should Alt Text Be? originally published on CSS-Tricks. You should
 회로 레벨에서 각 부분의 동작을 시뮬레이션 가능한 웹사이트
 
 클럭 생성기, 네트 그리기, 패들 위치 시키기, 점수 그리기, 공 움직이기...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Imagen-pytorch - 구글 Imagen을 Pytorch로 구현]]></title>
-        <id>https://news.hada.io/topic?id=6627</id>
-        <link href="https://news.hada.io/topic?id=6627"/>
-        <updated>2022-05-27T01:17:46.000Z</updated>
-        <summary type="html"><![CDATA[구글이 공개한 Text-to-Image 모델인 Imagen은 논문과 예시 이미지만 공개했음
-해당 논문의 내용을 가지고 PyTorch로 그대로 구현해 본 오픈소스
-T5(Text-to-Text Transfer Transformer)는 Huggingface 이용
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Broadcom이 VMWare를 77조원($61b)에 인수]]></title>
-        <id>https://news.hada.io/topic?id=6626</id>
-        <link href="https://news.hada.io/topic?id=6626"/>
-        <updated>2022-05-27T01:06:12.000Z</updated>
-        <summary type="html"><![CDATA[칩 제조사인 브로드컴이 클라우드회사 VMware를 현금과 주식 교환방식 매수
-VMware 주식에 대해 현금 $142.5 또는 브로드컴 주식 0.2520주를 제안
-VMWare의 순 부채 80억달러도 인수
-마이크로소프트의 액티비전블리자드 인...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fly Machines - 빠른 부팅 VM을 위한 API]]></title>
-        <id>https://news.hada.io/topic?id=6625</id>
-        <link href="https://news.hada.io/topic?id=6625"/>
-        <updated>2022-05-27T00:48:14.000Z</updated>
-        <summary type="html"><![CDATA[Firecracker로 Docker 이미지를 엣지 서버에서 VM으로 실행하는 Fly.io의 새 API
-REST API로 300ms 안에 VM의 인스턴스 부팅 가능
-요청시에 Proxy가 부팅해주고, idle일때 셧다운
-기존 VM과 실행시 가격은 동일. 실행하지 않을...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리눅스 커널 해커가 뒤져본 Fuchsia OS]]></title>
-        <id>https://news.hada.io/topic?id=6624</id>
-        <link href="https://news.hada.io/topic?id=6624"/>
-        <updated>2022-05-27T00:30:11.000Z</updated>
-        <summary type="html"><![CDATA[구글의 새 범용 오픈소스 OS를 공격자 관점에서 평가
-Fuchsia의 오버뷰 및 보안 아키텍처 리뷰
-Zircon 마이크로 커널
-
-워크플로우 설명 및 GDB/QEMU로 디버깅하기
-Exploit 개발 실험 : Fuzzing, Memory Corruption, Kernel 제어흐름 하이재킹 , 루트킷 설치]]></summary>
         <author>
             <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
