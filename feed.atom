@@ -1,10 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-29T01:52:53.475Z</id>
+    <id>urn:2022-05-30T01:49:26.410Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-29T01:52:53.475Z</updated>
+    <updated>2022-05-30T01:49:26.410Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[1인 SaaS인 Healthchecks.io의 기술 스택]]></title>
+        <id>https://news.hada.io/topic?id=6641</id>
+        <link href="https://news.hada.io/topic?id=6641"/>
+        <updated>2022-05-30T01:22:02.000Z</updated>
+        <summary type="html"><![CDATA[하드웨어 : Hetzner의 Dedi 서버 9대 사용 : 월 €484
+HAProxy 4대, 웹 서버 3대 , Postgres 2대
+소프트웨어
+Ubuntu 20.04
+Systemd로 서비스 운용 : haproxy / nginx / postgres
+Wireguard로 서버간 사설 네트워킹. 티어링 하여 HAProxy는 Postgres에...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ultra - 스트리밍 SSR React 프레임워크]]></title>
+        <id>https://news.hada.io/topic?id=6640</id>
+        <link href="https://news.hada.io/topic?id=6640"/>
+        <updated>2022-05-30T00:59:01.000Z</updated>
+        <summary type="html"><![CDATA[브라우저의 네이티브 기능에 의존하는 Deno용 웹앱 프레임워크
+Hot-takes(모든 사람이 동의하긴 어렵지만, 개발자들은 이런 의견을 따른다는 것)
+
+ESM,SSR은 필수(non-negotiable)
+번들링은 안티패턴
+데이터는 어디서든 요청...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Architecture Note : Datasette]]></title>
+        <id>https://news.hada.io/topic?id=6639</id>
+        <link href="https://news.hada.io/topic?id=6639"/>
+        <updated>2022-05-30T00:42:01.000Z</updated>
+        <summary type="html"><![CDATA[개인용 데이터웨어하우스 툴인 Datasette 개발자 Simon Willison과 아키텍처에 대해 인터뷰한 글
+ASGI로 를 이용한 파이썬 앱 구축
+SQLite의 장점
+플러그인 시스템을 위한 Hook 설계
+안전하게 SQL Injection 허용하기
+AsyncIO로 SQLite 이용하기
+Baked Da]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQLite3 Fiddle]]></title>
+        <id>https://news.hada.io/topic?id=6638</id>
+        <link href="https://news.hada.io/topic?id=6638"/>
+        <updated>2022-05-30T00:26:02.000Z</updated>
+        <summary type="html"><![CDATA[웹에서 테스트 해보는 SQLite
+아웃풋/인풋 창으로 구성되어 SQL로 다양한 DB작업 수행
+외부 DB 파일 업로드 하여 로딩 가능
+작업한 DB 다운로드 지원
+WASM 으로 컴파일한 3.39.0 베타 버전 사용
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[왜 strapi 사용을 포기했는가?]]></title>
         <id>https://news.hada.io/topic?id=6637</id>
@@ -96,19 +158,6 @@ GraphQL, REST, Local API 지원
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft Dev Box 공개]]></title>
-        <id>https://news.hada.io/topic?id=6631</id>
-        <link href="https://news.hada.io/topic?id=6631"/>
-        <updated>2022-05-28T00:04:33.000Z</updated>
-        <summary type="html"><![CDATA[개발자를 위한 Azure 가상 데스크탑 서비스
-클라우드 상에 개발용 가상 머신을 생성하고 소스 코드 작성부터 테스트 배포까지 가능
-개발팀에서는 프로젝트 및 작업에 맞게 Dev Box를 이미지로 만들어 놓고 공유
-→ 각종 개발 도구와 어플리케이션 소스 코드로 빌드한 결과까지 다 넣어...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Just How Long Should Alt Text Be?]]></title>
         <id>https://css-tricks.com/?p=366068</id>
         <link href="https://css-tricks.com/just-how-long-should-alt-text-be/"/>
@@ -117,44 +166,6 @@ GraphQL, REST, Local API 지원
 Just How Long Should Alt Text Be? originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
-        <id>https://news.hada.io/topic?id=6630</id>
-        <link href="https://news.hada.io/topic?id=6630"/>
-        <updated>2022-05-27T03:21:55.000Z</updated>
-        <summary type="html"><![CDATA[이번 주말에 뭘 하려고 계획 중인지 편하게 얘기해 보아요.
-읽을 책, 가볼 곳, 해볼 것.. 어떤 것이든 좋습니다.
-지난 주말에 계획하셨던 일의 회고도 한번 남겨봐 주세요.]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jack Dorsey, 트위터 이사회에서 사임]]></title>
-        <id>https://news.hada.io/topic?id=6629</id>
-        <link href="https://news.hada.io/topic?id=6629"/>
-        <updated>2022-05-27T02:46:46.000Z</updated>
-        <summary type="html"><![CDATA[작년 가을에 트위터 CEO를 그만두면서 미리 얘기 되었던 것 (2022년 주총에서 임기 만료때까지 남아있기로)
-잭은 일런 머스크와 친분이 있으며, 트위터 인수건에서 자신의 2.4% 지분을 넘기기로 논의했었음
-그는 창업자가 기술회사를 이끄는 것은 "심각한 제한과 단일 실패지점(SPOF&qu...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1972년도 오리지널 Pong 게임은 소스코드 없이 하드웨어 회로로 만들어짐]]></title>
-        <id>https://news.hada.io/topic?id=6628</id>
-        <link href="https://news.hada.io/topic?id=6628"/>
-        <updated>2022-05-27T01:38:57.000Z</updated>
-        <summary type="html"><![CDATA[아무런 코드도, 심지어 마이크로 프로세서도 없었음
-디지털 논리칩과 몇개의 타이머, 그리고 기타 아날로그 부품으로 구현된 회로(Circuit)였음
-회로 레벨에서 각 부분의 동작을 시뮬레이션 가능한 웹사이트
-
-클럭 생성기, 네트 그리기, 패들 위치 시키기, 점수 그리기, 공 움직이기...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
     </entry>
     <entry>
