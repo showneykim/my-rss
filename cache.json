@@ -111,7 +111,7 @@
           "description": "I was fortunate last year to get approached by Shawn Wang (swyx) about doing some work for Temporal. The idea was to cast my creative eye over what was on the site and come up with some …\nAn Interactive Starry Backdrop for Content originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/an-interactive-starry-backdrop-for-content/",
           "publishedOn": "2022-05-18T14:16:43.000Z",
-          "wordCount": 2895,
+          "wordCount": 2898,
           "title": "An Interactive Starry Backdrop for Content",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365766"
         },
@@ -151,7 +151,7 @@
           "description": "Braydon Coyer recently launched a monthly CSS art challenge. He actually had reached out to me about donating a copy of my book Move Things with CSS to use as a prize for the winner of the challenge — …\nA CSS Slinky in 3D? Challenge Accepted! originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/a-css-slinky-in-3d/",
           "publishedOn": "2022-05-12T14:27:50.000Z",
-          "wordCount": 3746,
+          "wordCount": 3749,
           "title": "A CSS Slinky in 3D? Challenge Accepted!",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365706"
         }
@@ -168,7 +168,7 @@
           "description": "MongoDB에서 Sequence 사용하기 on Node.js MongoDB는 Oracle이나 PostgreSQL의 Sequence나 MySQL의 Auto Increment 같은 기능이 없습니다.  반면 MongoDB에 익숙한 사람들은 12-byte로된 Object_ID에 더 익숙할겁니다.  MongoDB는 자동 증가 시퀀스를 기본 기능으로 지원하지 않지만 이 기능은 카운터...\nThe post MongoDB에서 Sequence 사용하기 on Node.js appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/mongodb-sequence-on-node-js/",
           "publishedOn": "2022-05-25T01:25:28.000Z",
-          "wordCount": 715,
+          "wordCount": 719,
           "title": "MongoDB에서 Sequence 사용하기 on Node.js",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2020/04/37_2019081518484308.jpg"
         },
@@ -178,7 +178,7 @@
           "description": "Database Specialist or Generalist ?! 서론 이런 글을 쓰게 된 이유는 최근 들어 많이 생각하게되고, 주변 DBA분들이나 비슷한 종사자 엔지니어들과 교류하면서 느낀점이 있기 때문입니다. DBA라는 포지션은 지금까지 대부분 스페셜리스트였습니다. Oracle이 DBA의 대세였던 시절부터, Engineer...\nThe post Database Specialist or Generalist ?! appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/database-specialist-or-generalist/",
           "publishedOn": "2022-05-23T01:00:21.000Z",
-          "wordCount": 1240,
+          "wordCount": 1237,
           "title": "Database Specialist or Generalist ?!",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2021/04/sm_5b46d890d85b8-300x300.jpg"
         },
@@ -188,7 +188,7 @@
           "description": "MERN Stack 이란? 최근 MongoDB에 대한 자료들을 찾아보다 보면 해외 사이트들에서 쉽게 접할 수 있는 단어입니다. 꽤 인기있는 것으로 Udemy 같은 온라인 교육 사이트에는 MERN Stack에 대한 통합 교육과정도 업로드 되고 있습니다. MERN은 스택을 구성하는...\nThe post MERN Stack 이란? appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/mern-stack-%ec%9d%b4%eb%9e%80/",
           "publishedOn": "2022-05-20T16:20:29.000Z",
-          "wordCount": 924,
+          "wordCount": 921,
           "title": "MERN Stack 이란?",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2020/04/37_2019081518484308.jpg"
         }
@@ -199,6 +199,86 @@
       "feedUrl": "https://news.hada.io/rss/news",
       "siteUrl": "https://news.hada.io",
       "articles": [
+        {
+          "id": "https://news.hada.io/topic?id=6649",
+          "author": null,
+          "description": "단어의 앞부분을 볼드로 강조해서, 나머지는 뇌가 채우도록 하는 방식으로\nWelcome to the fast lane, m</str",
+          "link": "https://news.hada.io/topic?id=6649",
+          "publishedOn": "2022-05-31T01:40:59.000Z",
+          "wordCount": 184,
+          "title": "Jiffy - Bionic 읽기용 브라우저 확장",
+          "imageUrl": "https://social.news.hada.io/topic/6649"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6648",
+          "author": null,
+          "description": "\"Save your dotfiles once, deploy them everywhere\"\n여러 호스트에서 dotfile 관리를 쉽게해주는 도구\nGit에 dotfile 들을 저장하고 설정별로 다른 파일을 배포 가능\nJinja2 템플릿 적용\n미리 지정한 변수를 이용해서 동적으로 생성 가능\n쉬운 임포트 &",
+          "link": "https://news.hada.io/topic?id=6648",
+          "publishedOn": "2022-05-31T01:19:35.000Z",
+          "wordCount": 103,
+          "title": "Dotdrop - dotfile 들을 어디서나 사용 가능하게",
+          "imageUrl": "https://social.news.hada.io/topic/6648"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6647",
+          "author": null,
+          "description": "필압감지 스타일러스 및 드로잉 태블릿 지원 : Wacom, Huion, XP-Pen..\n맥/윈도우/리눅스 크로스플랫폼\n레이어 기능으로 복잡한 노트도 보기 쉽게\n오디오 녹음, LaTeX, 이미지 및 다양한 쉐이프 지원\nPDF 주석 달기 가능\nLua 언어 기반 플러그인 시스템",
+          "link": "https://news.hada.io/topic?id=6647",
+          "publishedOn": "2022-05-31T00:57:38.000Z",
+          "wordCount": 98,
+          "title": "Xournal++ - 오픈소스 손글씨 노트 작성 도구",
+          "imageUrl": "https://social.news.hada.io/topic/6647"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6646",
+          "author": null,
+          "description": "WebRTC가 실제로 어떻게 동작하는지 코드와 예제를 통해 전체적으로 배우기\n웹페이지 에서 웹캠을 초기화하고 백엔드와 통신하는 각 단계들을 로그 및 출력물과 함께 볼 수 있음\nFront 는 TypeScript, 백엔드는 Go 로 구현한 오픈소스\n\n...",
+          "link": "https://news.hada.io/topic?id=6646",
+          "publishedOn": "2022-05-31T00:41:09.000Z",
+          "wordCount": 85,
+          "title": "WebRTC Nuts & Bolts",
+          "imageUrl": "https://social.news.hada.io/topic/6646"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6645",
+          "author": null,
+          "description": "SET/GET 성능면에서 Redis 보다 25배 빠른 인메모리 저장소. 메모리 효율도 뛰어남\n약 ~130개의 Redis 명령과 거의 모든 Memcache 명령(cas 제외)을 다 지원함\nI/O를 위해서 Linux의 io-uring API를 사용. (Linux 5.10 이상을 요구함. Ubuntu 20.04.4~)\nx86/arm64 바이너리 제공",
+          "link": "https://news.hada.io/topic?id=6645",
+          "publishedOn": "2022-05-31T00:12:16.000Z",
+          "wordCount": 202,
+          "title": "Dragonfly - Redis와 Memcached의 최신 대체제",
+          "imageUrl": "https://social.news.hada.io/topic/6645"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6644",
+          "author": null,
+          "description": "POAP은 Proof Of Attendance Protocol의 약어로 출석 증명 프로토콜을 의미\n온오프라인 행사 참여에서 참가 뱃지를 NFT로 제공하여 콜렉션 구성하는 어플\n참가자는 본인의 행사 참여 기록을 통해 이력을 만들 수 있음\n뱃지를 만들기 위해서는 스마트컨트랙, 시간/공간정보, 아트워크...",
+          "link": "https://news.hada.io/topic?id=6644",
+          "publishedOn": "2022-05-30T06:48:24.000Z",
+          "wordCount": 176,
+          "title": "POAP, NFT를 활용한 출석 인증 프로토콜",
+          "imageUrl": "https://social.news.hada.io/topic/6644"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6643",
+          "author": null,
+          "description": "이곳에 진작 올라왔을 법한 질문인데, 의외로 여기에는 아직 한 번도 올라온 적이 없는 질문인 것 같아 올려 봅니다.\n일단 제 경우에는 D2Cod",
+          "link": "https://news.hada.io/topic?id=6643",
+          "publishedOn": "2022-05-30T05:01:16.000Z",
+          "wordCount": 665,
+          "title": "Ask GN: 코딩할 때 어떤 폰트를 사용하시나요?",
+          "imageUrl": "https://social.news.hada.io/topic/6643"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6642",
+          "author": null,
+          "description": "\"모든 영웅이 망토를 입는 것은 아닙니다.\"\n2018년, X-Ray 이미지를 올리면 AI로 유방암을 진단해주는 사이트를 공개한 coolwulf에 대한 이야기\n\n완전히 무료. 정확도가 90%에 달함\n유방암은 초기에 발견하면 완치율이 높지만, 초기 증상이 뚜렷하지 않아 치료시",
+          "link": "https://news.hada.io/topic?id=6642",
+          "publishedOn": "2022-05-30T02:02:02.000Z",
+          "wordCount": 1295,
+          "title": "50대의 Geforce 1080Ti로 유방암/뇌종양과 싸운 '아마추어' 프로그래머",
+          "imageUrl": "https://social.news.hada.io/topic/6642"
+        },
         {
           "id": "https://news.hada.io/topic?id=6641",
           "author": null,
@@ -215,89 +295,9 @@
           "description": "브라우저의 네이티브 기능에 의존하는 Deno용 웹앱 프레임워크\nHot-takes(모든 사람이 동의하긴 어렵지만, 개발자들은 이런 의견을 따른다는 것)\n\nESM,SSR은 필수(non-negotiable)\n번들링은 안티패턴\n데이터는 어디서든 요청...",
           "link": "https://news.hada.io/topic?id=6640",
           "publishedOn": "2022-05-30T00:59:01.000Z",
-          "wordCount": 112,
+          "wordCount": 158,
           "title": "Ultra - 스트리밍 SSR React 프레임워크",
           "imageUrl": "https://social.news.hada.io/topic/6640"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6639",
-          "author": null,
-          "description": "개인용 데이터웨어하우스 툴인 Datasette 개발자 Simon Willison과 아키텍처에 대해 인터뷰한 글\nASGI로 를 이용한 파이썬 앱 구축\nSQLite의 장점\n플러그인 시스템을 위한 Hook 설계\n안전하게 SQL Injection 허용하기\nAsyncIO로 SQLite 이용하기\nBaked Da",
-          "link": "https://news.hada.io/topic?id=6639",
-          "publishedOn": "2022-05-30T00:42:01.000Z",
-          "wordCount": 138,
-          "title": "Architecture Note : Datasette",
-          "imageUrl": "https://social.news.hada.io/topic/6639"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6638",
-          "author": null,
-          "description": "웹에서 테스트 해보는 SQLite\n아웃풋/인풋 창으로 구성되어 SQL로 다양한 DB작업 수행\n외부 DB 파일 업로드 하여 로딩 가능\n작업한 DB 다운로드 지원\nWASM 으로 컴파일한 3.39.0 베타 버전 사용\n\n...",
-          "link": "https://news.hada.io/topic?id=6638",
-          "publishedOn": "2022-05-30T00:26:02.000Z",
-          "wordCount": 78,
-          "title": "SQLite3 Fiddle",
-          "imageUrl": "https://social.news.hada.io/topic/6638"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6637",
-          "author": null,
-          "description": "제가 headless CMS로 strapi 사용을 검토하고,\n문서의 부재\n원인을 알 수 없는 과금\n아주 매력적이지는 않은 CMS\n를 주된 원인으로 생각했고,\n대체재로는 fir",
-          "link": "https://news.hada.io/topic?id=6637",
-          "publishedOn": "2022-05-29T01:05:20.000Z",
-          "wordCount": 141,
-          "title": "왜 strapi 사용을 포기했는가?",
-          "imageUrl": "https://social.news.hada.io/topic/6637"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6636",
-          "author": null,
-          "description": "waitForTimeout 남용\nPuppeteer의 API가 네이티브 브라우저 처럼 작동한다고 가정하는 것\n\"domcontentloaded\" 를 사용하지 않는 것\n이미지/자료 로딩을 블로킹 하지 않는 것\npage.evalute 를 사용하지 않는 것\n개발도구가 생성한 셀렉터...",
-          "link": "https://news.hada.io/topic?id=6636",
-          "publishedOn": "2022-05-29T00:44:01.000Z",
-          "wordCount": 104,
-          "title": "Puppeteer 안티패턴들 피하기",
-          "imageUrl": "https://social.news.hada.io/topic/6636"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6635",
-          "author": null,
-          "description": "Typescript Model Type을 이용해서 3가지를 제공\n\nSecure REST API\nType-safe 프론트엔드 API 클라이언트\nType-safe 백엔드 쿼리 빌더\nReact/Angular/Vue/Next.js 예제 제공\n\n...",
-          "link": "https://news.hada.io/topic?id=6635",
-          "publishedOn": "2022-05-29T00:25:02.000Z",
-          "wordCount": 77,
-          "title": "Remult - 풀스택 Typescript용 CRUD 프레임워크",
-          "imageUrl": "https://social.news.hada.io/topic/6635"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6634",
-          "author": null,
-          "description": "100% TypeScript + Node.js + React + MongoDB\n웹사이트, 웹앱, 네이티브 앱등을 위한 Headless CMS\n기존에 유료였다가 MIT 라이센스를 적용하고 프로젝트 종류에 상관없이 완전히 무료로 변경\nGraphQL, REST, Local API 지원\n쉽게 커스터마이징 가능한 ReactJS Admin",
-          "link": "https://news.hada.io/topic?id=6634",
-          "publishedOn": "2022-05-29T00:05:02.000Z",
-          "wordCount": 101,
-          "title": "Payload - Headless CMS 오픈소스",
-          "imageUrl": "https://social.news.hada.io/topic/6634"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6633",
-          "author": null,
-          "description": "프라이버시를 보장하는 암호화 이메일 서비스 ProtonMail이 Proton으로 이름을 변경\n캘린더, 드라이브, VPN도 묶어서 제공하며 구글과 경쟁하게 될 것\n대만 출신 Andy Yen CEO와의 인터뷰\n스위스 제네바에 있으며, 현재 400명의 직원과 7천만명의 사용자\n\n...",
-          "link": "https://news.hada.io/topic?id=6633",
-          "publishedOn": "2022-05-28T00:45:16.000Z",
-          "wordCount": 91,
-          "title": "Proton은 당신의 데이터를 이용하지 않는 Google이 되려한다",
-          "imageUrl": "https://social.news.hada.io/topic/6633"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6632",
-          "author": null,
-          "description": "감염된 PC의 파일을 암호화 한 뒤 해독키를 요구하면서 3가지 사회 활동을 시킴\n\n노숙자에게 새 옷을 기부하고, 영상으로 기록한 뒤 소셜미디어에 게시\n5명의 불우한 아이들을 도미노/피자헛/KFC에 데려가 음식을 사주고, 사진/비디오로 기록해서 소셜미디어에 게시\n긴급한 치료가 필...",
-          "link": "https://news.hada.io/topic?id=6632",
-          "publishedOn": "2022-05-28T00:23:27.000Z",
-          "wordCount": 175,
-          "title": "GoodWill 랜섬웨어, 감염된 피해자에게 기부 및 좋은 행동을 강요",
-          "imageUrl": "https://social.news.hada.io/topic/6632"
         }
       ]
     },
