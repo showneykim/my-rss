@@ -6,12 +6,32 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=365841",
+          "author": "Ganesh Dahal",
+          "description": "Block patterns, also frequently referred to as sections, were introduced in WordPress 5.5 to allow users to build and share predefined block layouts in the pattern directory. The directory is the home of a wide range of …\nHow to Create Block Theme Patterns in WordPress 6.0 originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/how-to-create-block-theme-patterns-in-wordpress-6-0/",
+          "publishedOn": "2022-06-01T15:30:15.000Z",
+          "wordCount": 3921,
+          "title": "How to Create Block Theme Patterns in WordPress 6.0",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365841"
+        },
+        {
+          "id": "https://css-tricks.com/?p=366175",
+          "author": "Geoff Graham",
+          "description": "Nolan Lawson sparked some discussion when he described a noticeable shift away from single-page applications (SPAs):\nHip new frameworks like Astro, Qwik, and Elder.js are touting their MPA [multi-page application] with “0kB JavaScript by default.” \n…\nSPAs, Shared Element Transitions, and Re-Evaluating Technology originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/spas-shared-element-transitions-and-re-evaluating-technology/",
+          "publishedOn": "2022-06-01T14:12:25.000Z",
+          "wordCount": 779,
+          "title": "SPAs, Shared Element Transitions, and Re-Evaluating Technology",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366175"
+        },
+        {
           "id": "https://css-tricks.com/?p=366068",
           "author": "Geoff Graham",
           "description": "I teach a class over at the local college here in Long Beach and a majority of the content is hosted on the Canvas LMS so students can access it online. And, naturally, I want the content to be as …\nJust How Long Should Alt Text Be? originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/just-how-long-should-alt-text-be/",
           "publishedOn": "2022-05-27T14:25:39.000Z",
-          "wordCount": 1205,
+          "wordCount": 1285,
           "title": "Just How Long Should Alt Text Be?",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366068"
         },
@@ -134,26 +154,6 @@
           "wordCount": 3212,
           "title": "How to Create Style Variations in WordPress 6.0 Block Themes",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365377"
-        },
-        {
-          "id": "https://css-tricks.com/?p=365738",
-          "author": "Temani Afif",
-          "description": "In my last article we saw how CSS background properties allow us to create cool hover effects. This time, we will focus on the CSS text-shadow property to explore even more interesting hovers. You are probably wondering how adding shadow …\nCool Hover Effects That Use CSS Text Shadow originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/cool-hover-effects-that-use-css-text-shadow/",
-          "publishedOn": "2022-05-13T14:43:17.000Z",
-          "wordCount": 2249,
-          "title": "Cool Hover Effects That Use CSS Text Shadow",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365738"
-        },
-        {
-          "id": "https://css-tricks.com/?p=365706",
-          "author": "Jhey Tompkins",
-          "description": "Braydon Coyer recently launched a monthly CSS art challenge. He actually had reached out to me about donating a copy of my book Move Things with CSS to use as a prize for the winner of the challenge — …\nA CSS Slinky in 3D? Challenge Accepted! originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/a-css-slinky-in-3d/",
-          "publishedOn": "2022-05-12T14:27:50.000Z",
-          "wordCount": 3749,
-          "title": "A CSS Slinky in 3D? Challenge Accepted!",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365706"
         }
       ]
     },
@@ -200,6 +200,56 @@
       "siteUrl": "https://news.hada.io",
       "articles": [
         {
+          "id": "https://news.hada.io/topic?id=6662",
+          "author": null,
+          "description": "웹 폰트 대신 시스템에 이미 있는 좋은 글꼴들을 사용 하자는 것\n빠르고, 스타일이 다양하고, 더 네이티브 하게 보임\n폰트별 설정\nSans-serif : font...",
+          "link": "https://news.hada.io/topic?id=6662",
+          "publishedOn": "2022-06-02T01:11:05.000Z",
+          "wordCount": 163,
+          "title": "System Font Stack",
+          "imageUrl": "https://social.news.hada.io/topic/6662"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6661",
+          "author": null,
+          "description": "Tesla Exec Staff 에게 보낸 메일\n\n\"사무실에서 최소 주40시간 근무하고 나서 추가로 원격 근무를 하던지, 테슬라를 떠나세요.\"\n다시 전체에 보낸 메일\n\nTesla 직원 모두는 '동",
+          "link": "https://news.hada.io/topic?id=6661",
+          "publishedOn": "2022-06-02T00:58:49.000Z",
+          "wordCount": 174,
+          "title": "일런 머스크가 테슬라 팀에 '이제 원격근무 불가' 메일을 발송",
+          "imageUrl": "https://social.news.hada.io/topic/6661"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6660",
+          "author": null,
+          "description": "매우 작고 상세한 것을 찍을 수 있으며, 다른 구조 내부에 '비침습적'으로 인쇄할 수 있음\nDirect Sound Printing(DSP) 기술을 이용\n초음파를 챔버에 보내서 초음파 필드를 생성하고...",
+          "link": "https://news.hada.io/topic?id=6660",
+          "publishedOn": "2022-06-02T00:40:32.000Z",
+          "wordCount": 140,
+          "title": "음파를 사용하는 새로운 형태의 3D 프린팅",
+          "imageUrl": "https://social.news.hada.io/topic/6660"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6659",
+          "author": null,
+          "description": "YC 스타트업 Astroforge는 최근에 $13M 투자를 마무리하고, 창업자들은 우주에서 재료를 정제하는 새로운 방법을 개발했다고 주장\n직경 20미터에서 1.5km 크기의 소행성을 타겟\nOrbAstro와 데모용 위성을 이미 개발했으며, 내년에 발사 예정인 SpaceX의 Rideshare 미션에 참여하기 위해 계약...",
+          "link": "https://news.hada.io/topic?id=6659",
+          "publishedOn": "2022-06-02T00:19:44.000Z",
+          "wordCount": 145,
+          "title": "소행성 광물 채굴 스타트업이 곧 SpaceX를 이용해서 미션을 수행할 예정",
+          "imageUrl": "https://social.news.hada.io/topic/6659"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6658",
+          "author": null,
+          "description": "AWS Aurora Postgres 의 오픈소스 대체제\nCompute 와 Storage를 분리하고, Postgres의 Storage Layer를 클러스터 노드에 분산하여 저장하는 Neon Storage 엔진으로 교체\n단일 명령으로 실행 가능 $psql -h pg.neon.tech\n\nNeon Storage Engine 은 2개의 컴포넌트로 구성...",
+          "link": "https://news.hada.io/topic?id=6658",
+          "publishedOn": "2022-06-02T00:09:02.000Z",
+          "wordCount": 107,
+          "title": "Neon - 서버리스 Postgres 오픈소스",
+          "imageUrl": "https://social.news.hada.io/topic/6658"
+        },
+        {
           "id": "https://news.hada.io/topic?id=6657",
           "author": null,
           "description": "프로젝트 \"Keystone\"이 Xbox 지원 OS에서 확인\n크롬캐스트 같이 HDMI에 꼽으면 클라우드 게임을 즐길 수 있게 해주는 저가형 장치\nGame Pass 가입자가 풀 콘솔 없이 Xbox 게임을 실행 가능\n루머는 몇 년 되었지만 공개될 때까진 아직 시간이 필요할 것\n\n...",
@@ -215,7 +265,7 @@
           "description": "DALLE-2는 텍스트 처리에 문제가 있는것으로 알려져 있었는데,\n프롬프트로 다시 넣어보면 뜻을 확인할 수 있음.\n이 \"아무말 언어\"로 자연어 입력을 대체할수 있고,\n어쩌면 보안과 해석가능성에 대한 도전이 될것.",
           "link": "https://news.hada.io/topic?id=6656",
           "publishedOn": "2022-06-01T01:40:32.000Z",
-          "wordCount": 95,
+          "wordCount": 113,
           "title": "DALLE-2 내부에서 쓰이는 언어",
           "imageUrl": "https://social.news.hada.io/topic/6656"
         },
@@ -248,56 +298,6 @@
           "wordCount": 76,
           "title": "LiveTerm - 터미널 스타일의 웹사이트 템플릿",
           "imageUrl": "https://social.news.hada.io/topic/6653"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6652",
-          "author": null,
-          "description": "'네이티브 앱으로 동작하는 JSON 브라우저'\nJSON 설정 파일 만으로 iOS/Android 앱 생성\nJSON은 싱글 파일이나 HTTP 원격 모두 가능\n레이아웃/액션/스타일 모두 JSON으로 설정\n완전 무료 / MIT 라이센스",
-          "link": "https://news.hada.io/topic?id=6652",
-          "publishedOn": "2022-06-01T00:10:01.000Z",
-          "wordCount": 87,
-          "title": "Jasontte - JSON으로 네이티브 앱 생성하는 오픈소스",
-          "imageUrl": "https://social.news.hada.io/topic/6652"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6651",
-          "author": null,
-          "description": "Q.Link는 무엇인가요?\nQ.Link란 퀴즈로 접근하는 링크라는 의미로\n링크 앞에 간단한 퀴즈를 추가하여 정답을 맞췄을 때만 링크에 접속 할 수 있도록 해주는 간단한 서비스입니다. 이벤트, 구인 페이지, 모바일 청접장등 여러 상황에서 사용해볼 수 있습니다.",
-          "link": "https://news.hada.io/topic?id=6651",
-          "publishedOn": "2022-05-31T04:56:48.000Z",
-          "wordCount": 344,
-          "title": "Show GN: Q.Link | Hide your link behind a simple quiz",
-          "imageUrl": "https://social.news.hada.io/topic/6651"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6650",
-          "author": null,
-          "description": "차세대 아이폰 프로 모델은 아마도 완전히 새로운 디자인(노치를 핀홀로 변경)을 가지게 될 것이며,\n알림 및 기타 작은 정보들을 계속 볼 수 있는 Always-On 기능이 iOS16부터 추가 될것이라는 루머",
-          "link": "https://news.hada.io/topic?id=6650",
-          "publishedOn": "2022-05-31T02:26:04.000Z",
-          "wordCount": 87,
-          "title": "iOS16은 Always-On 디스플레이 기능을 추가하게 될 것",
-          "imageUrl": "https://social.news.hada.io/topic/6650"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6649",
-          "author": null,
-          "description": "단어의 앞부분을 볼드로 강조해서, 나머지는 뇌가 채우도록 하는 방식으로\nWelcome to the fast lane, m</str",
-          "link": "https://news.hada.io/topic?id=6649",
-          "publishedOn": "2022-05-31T01:40:59.000Z",
-          "wordCount": 292,
-          "title": "Jiffy - Bionic 읽기용 브라우저 확장",
-          "imageUrl": "https://social.news.hada.io/topic/6649"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6648",
-          "author": null,
-          "description": "\"Save your dotfiles once, deploy them everywhere\"\n여러 호스트에서 dotfile 관리를 쉽게해주는 도구\nGit에 dotfile 들을 저장하고 설정별로 다른 파일을 배포 가능\nJinja2 템플릿 적용\n미리 지정한 변수를 이용해서 동적으로 생성 가능\n쉬운 임포트 &",
-          "link": "https://news.hada.io/topic?id=6648",
-          "publishedOn": "2022-05-31T01:19:35.000Z",
-          "wordCount": 103,
-          "title": "Dotdrop - dotfile 들을 어디서나 사용 가능하게",
-          "imageUrl": "https://social.news.hada.io/topic/6648"
         }
       ]
     },

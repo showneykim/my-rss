@@ -1,10 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-01T02:01:38.871Z</id>
+    <id>urn:2022-06-02T01:50:59.770Z</id>
     <title>osmos::feed</title>
-    <updated>2022-06-01T02:01:38.871Z</updated>
+    <updated>2022-06-02T01:50:59.770Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[System Font Stack]]></title>
+        <id>https://news.hada.io/topic?id=6662</id>
+        <link href="https://news.hada.io/topic?id=6662"/>
+        <updated>2022-06-02T01:11:05.000Z</updated>
+        <summary type="html"><![CDATA[웹 폰트 대신 시스템에 이미 있는 좋은 글꼴들을 사용 하자는 것
+빠르고, 스타일이 다양하고, 더 네이티브 하게 보임
+폰트별 설정
+Sans-serif : font...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[일런 머스크가 테슬라 팀에 '이제 원격근무 불가' 메일을 발송]]></title>
+        <id>https://news.hada.io/topic?id=6661</id>
+        <link href="https://news.hada.io/topic?id=6661"/>
+        <updated>2022-06-02T00:58:49.000Z</updated>
+        <summary type="html"><![CDATA[Tesla Exec Staff 에게 보낸 메일
+
+"사무실에서 최소 주40시간 근무하고 나서 추가로 원격 근무를 하던지, 테슬라를 떠나세요."
+다시 전체에 보낸 메일
+
+Tesla 직원 모두는 '동]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[음파를 사용하는 새로운 형태의 3D 프린팅]]></title>
+        <id>https://news.hada.io/topic?id=6660</id>
+        <link href="https://news.hada.io/topic?id=6660"/>
+        <updated>2022-06-02T00:40:32.000Z</updated>
+        <summary type="html"><![CDATA[매우 작고 상세한 것을 찍을 수 있으며, 다른 구조 내부에 '비침습적'으로 인쇄할 수 있음
+Direct Sound Printing(DSP) 기술을 이용
+초음파를 챔버에 보내서 초음파 필드를 생성하고...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[소행성 광물 채굴 스타트업이 곧 SpaceX를 이용해서 미션을 수행할 예정]]></title>
+        <id>https://news.hada.io/topic?id=6659</id>
+        <link href="https://news.hada.io/topic?id=6659"/>
+        <updated>2022-06-02T00:19:44.000Z</updated>
+        <summary type="html"><![CDATA[YC 스타트업 Astroforge는 최근에 $13M 투자를 마무리하고, 창업자들은 우주에서 재료를 정제하는 새로운 방법을 개발했다고 주장
+직경 20미터에서 1.5km 크기의 소행성을 타겟
+OrbAstro와 데모용 위성을 이미 개발했으며, 내년에 발사 예정인 SpaceX의 Rideshare 미션에 참여하기 위해 계약...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neon - 서버리스 Postgres 오픈소스]]></title>
+        <id>https://news.hada.io/topic?id=6658</id>
+        <link href="https://news.hada.io/topic?id=6658"/>
+        <updated>2022-06-02T00:09:02.000Z</updated>
+        <summary type="html"><![CDATA[AWS Aurora Postgres 의 오픈소스 대체제
+Compute 와 Storage를 분리하고, Postgres의 Storage Layer를 클러스터 노드에 분산하여 저장하는 Neon Storage 엔진으로 교체
+단일 명령으로 실행 가능 $psql -h pg.neon.tech
+
+Neon Storage Engine 은 2개의 컴포넌트로 구성...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create Block Theme Patterns in WordPress 6.0]]></title>
+        <id>https://css-tricks.com/?p=365841</id>
+        <link href="https://css-tricks.com/how-to-create-block-theme-patterns-in-wordpress-6-0/"/>
+        <updated>2022-06-01T15:30:15.000Z</updated>
+        <summary type="html"><![CDATA[Block patterns, also frequently referred to as sections, were introduced in WordPress 5.5 to allow users to build and share predefined block layouts in the pattern directory. The directory is the home of a wide range of …
+How to Create Block Theme Patterns in WordPress 6.0 originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Ganesh Dahal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SPAs, Shared Element Transitions, and Re-Evaluating Technology]]></title>
+        <id>https://css-tricks.com/?p=366175</id>
+        <link href="https://css-tricks.com/spas-shared-element-transitions-and-re-evaluating-technology/"/>
+        <updated>2022-06-01T14:12:25.000Z</updated>
+        <summary type="html"><![CDATA[Nolan Lawson sparked some discussion when he described a noticeable shift away from single-page applications (SPAs):
+Hip new frameworks like Astro, Qwik, and Elder.js are touting their MPA [multi-page application] with “0kB JavaScript by default.” 
+…
+SPAs, Shared Element Transitions, and Re-Evaluating Technology originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft, Xbox 클라우드 게임 스트리밍용 HDMI 동글 개발 중]]></title>
         <id>https://news.hada.io/topic?id=6657</id>
@@ -77,20 +167,6 @@ config.json 하나만 수정하면 바로 세팅 가능
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Jasontte - JSON으로 네이티브 앱 생성하는 오픈소스]]></title>
-        <id>https://news.hada.io/topic?id=6652</id>
-        <link href="https://news.hada.io/topic?id=6652"/>
-        <updated>2022-06-01T00:10:01.000Z</updated>
-        <summary type="html"><![CDATA['네이티브 앱으로 동작하는 JSON 브라우저'
-JSON 설정 파일 만으로 iOS/Android 앱 생성
-JSON은 싱글 파일이나 HTTP 원격 모두 가능
-레이아웃/액션/스타일 모두 JSON으로 설정
-완전 무료 / MIT 라이센스]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[현실 세계의 속성에 의존하지 않기]]></title>
         <id>https://jojoldu.tistory.com/672</id>
         <link href="https://jojoldu.tistory.com/672"/>
@@ -133,55 +209,6 @@ JSON은 싱글 파일이나 HTTP 원격 모두 가능
                     (adsbygoogle = window.adsbygoogle || []).push({});]]></summary>
         <author>
             <name>향로</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: Q.Link | Hide your link behind a simple quiz]]></title>
-        <id>https://news.hada.io/topic?id=6651</id>
-        <link href="https://news.hada.io/topic?id=6651"/>
-        <updated>2022-05-31T04:56:48.000Z</updated>
-        <summary type="html"><![CDATA[Q.Link는 무엇인가요?
-Q.Link란 퀴즈로 접근하는 링크라는 의미로
-링크 앞에 간단한 퀴즈를 추가하여 정답을 맞췄을 때만 링크에 접속 할 수 있도록 해주는 간단한 서비스입니다. 이벤트, 구인 페이지, 모바일 청접장등 여러 상황에서 사용해볼 수 있습니다.]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iOS16은 Always-On 디스플레이 기능을 추가하게 될 것]]></title>
-        <id>https://news.hada.io/topic?id=6650</id>
-        <link href="https://news.hada.io/topic?id=6650"/>
-        <updated>2022-05-31T02:26:04.000Z</updated>
-        <summary type="html"><![CDATA[차세대 아이폰 프로 모델은 아마도 완전히 새로운 디자인(노치를 핀홀로 변경)을 가지게 될 것이며,
-알림 및 기타 작은 정보들을 계속 볼 수 있는 Always-On 기능이 iOS16부터 추가 될것이라는 루머]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jiffy - Bionic 읽기용 브라우저 확장]]></title>
-        <id>https://news.hada.io/topic?id=6649</id>
-        <link href="https://news.hada.io/topic?id=6649"/>
-        <updated>2022-05-31T01:40:59.000Z</updated>
-        <summary type="html"><![CDATA[단어의 앞부분을 볼드로 강조해서, 나머지는 뇌가 채우도록 하는 방식으로
-Welcome to the fast lane, m</str]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dotdrop - dotfile 들을 어디서나 사용 가능하게]]></title>
-        <id>https://news.hada.io/topic?id=6648</id>
-        <link href="https://news.hada.io/topic?id=6648"/>
-        <updated>2022-05-31T01:19:35.000Z</updated>
-        <summary type="html"><![CDATA["Save your dotfiles once, deploy them everywhere"
-여러 호스트에서 dotfile 관리를 쉽게해주는 도구
-Git에 dotfile 들을 저장하고 설정별로 다른 파일을 배포 가능
-Jinja2 템플릿 적용
-미리 지정한 변수를 이용해서 동적으로 생성 가능
-쉬운 임포트 &]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
     </entry>
     <entry>
@@ -393,28 +420,6 @@ ex) Maps 등
 How to Create Style Variations in WordPress 6.0 Block Themes originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Ganesh Dahal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cool Hover Effects That Use CSS Text Shadow]]></title>
-        <id>https://css-tricks.com/?p=365738</id>
-        <link href="https://css-tricks.com/cool-hover-effects-that-use-css-text-shadow/"/>
-        <updated>2022-05-13T14:43:17.000Z</updated>
-        <summary type="html"><![CDATA[In my last article we saw how CSS background properties allow us to create cool hover effects. This time, we will focus on the CSS text-shadow property to explore even more interesting hovers. You are probably wondering how adding shadow …
-Cool Hover Effects That Use CSS Text Shadow originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A CSS Slinky in 3D? Challenge Accepted!]]></title>
-        <id>https://css-tricks.com/?p=365706</id>
-        <link href="https://css-tricks.com/a-css-slinky-in-3d/"/>
-        <updated>2022-05-12T14:27:50.000Z</updated>
-        <summary type="html"><![CDATA[Braydon Coyer recently launched a monthly CSS art challenge. He actually had reached out to me about donating a copy of my book Move Things with CSS to use as a prize for the winner of the challenge — …
-A CSS Slinky in 3D? Challenge Accepted! originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Jhey Tompkins</name>
         </author>
     </entry>
 </feed>
