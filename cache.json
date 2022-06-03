@@ -131,7 +131,7 @@
           "description": "I was fortunate last year to get approached by Shawn Wang (swyx) about doing some work for Temporal. The idea was to cast my creative eye over what was on the site and come up with some …\nAn Interactive Starry Backdrop for Content originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/an-interactive-starry-backdrop-for-content/",
           "publishedOn": "2022-05-18T14:16:43.000Z",
-          "wordCount": 2898,
+          "wordCount": 2913,
           "title": "An Interactive Starry Backdrop for Content",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365766"
         },
@@ -168,7 +168,7 @@
           "description": "MongoDB에서 Sequence 사용하기 on Node.js MongoDB는 Oracle이나 PostgreSQL의 Sequence나 MySQL의 Auto Increment 같은 기능이 없습니다.  반면 MongoDB에 익숙한 사람들은 12-byte로된 Object_ID에 더 익숙할겁니다.  MongoDB는 자동 증가 시퀀스를 기본 기능으로 지원하지 않지만 이 기능은 카운터...\nThe post MongoDB에서 Sequence 사용하기 on Node.js appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/mongodb-sequence-on-node-js/",
           "publishedOn": "2022-05-25T01:25:28.000Z",
-          "wordCount": 722,
+          "wordCount": 686,
           "title": "MongoDB에서 Sequence 사용하기 on Node.js",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2020/04/37_2019081518484308.jpg"
         },
@@ -178,7 +178,7 @@
           "description": "Database Specialist or Generalist ?! 서론 이런 글을 쓰게 된 이유는 최근 들어 많이 생각하게되고, 주변 DBA분들이나 비슷한 종사자 엔지니어들과 교류하면서 느낀점이 있기 때문입니다. DBA라는 포지션은 지금까지 대부분 스페셜리스트였습니다. Oracle이 DBA의 대세였던 시절부터, Engineer...\nThe post Database Specialist or Generalist ?! appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/database-specialist-or-generalist/",
           "publishedOn": "2022-05-23T01:00:21.000Z",
-          "wordCount": 1236,
+          "wordCount": 1239,
           "title": "Database Specialist or Generalist ?!",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2021/04/sm_5b46d890d85b8-300x300.jpg"
         },
@@ -188,7 +188,7 @@
           "description": "MERN Stack 이란? 최근 MongoDB에 대한 자료들을 찾아보다 보면 해외 사이트들에서 쉽게 접할 수 있는 단어입니다. 꽤 인기있는 것으로 Udemy 같은 온라인 교육 사이트에는 MERN Stack에 대한 통합 교육과정도 업로드 되고 있습니다. MERN은 스택을 구성하는...\nThe post MERN Stack 이란? appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/mern-stack-%ec%9d%b4%eb%9e%80/",
           "publishedOn": "2022-05-20T16:20:29.000Z",
-          "wordCount": 928,
+          "wordCount": 896,
           "title": "MERN Stack 이란?",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2020/04/37_2019081518484308.jpg"
         }
@@ -200,12 +200,72 @@
       "siteUrl": "https://news.hada.io",
       "articles": [
         {
+          "id": "https://news.hada.io/topic?id=6668",
+          "author": null,
+          "description": "현재 베타 버전\n맥/iOS만 지원\nWebKit 최신 빌드를 사용하고, 트래커/광고 제거하여 빠른 브라우저\n크롬/FF의 모든 확장들을 사용 가능케 하는 것을 목표\nPrivacy를 중시한 설계\n버티컬 탭 및 ...",
+          "link": "https://news.hada.io/topic?id=6668",
+          "publishedOn": "2022-06-03T01:11:47.000Z",
+          "wordCount": 196,
+          "title": "Orion - Kagi의 WebKit 기반 브라우저",
+          "imageUrl": "https://social.news.hada.io/topic/6668"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6667",
+          "author": null,
+          "description": "브라우저만 있다면 어디서든 수정 가능하고, 수정된 HTML 파일을 내려받아 교체하는 방식\n페이지 및 중첩 페이지 무제한 생성\n무제한 Tag 가능\n외부/내부 이미지 첨부 지원\n최근 본 페이지 트래킹\n새 버전의 위키로 쉬운 업그레이드 가능 (새 버전에서 Import &a...",
+          "link": "https://news.hada.io/topic?id=6667",
+          "publishedOn": "2022-06-03T00:41:30.000Z",
+          "wordCount": 153,
+          "title": "Feather Wiki - 1개의 HTML로 저장되는 개인용 위키",
+          "imageUrl": "https://social.news.hada.io/topic/6667"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6666",
+          "author": null,
+          "description": "워들의 반대방식으로 단어를 맞추지 않기\n규칙\n\n글자를 정확히 맞출 경우 계속 사용해야 함\n글자 위치가 틀릴 경우 다른 자리를 찾아야 함\n안쓰인 글자를 찾았다면 다시 사용하지 못함\n가능한 단어 숫자가 위에 보임\n너무 낮아지면 UNDO를 통...",
+          "link": "https://news.hada.io/topic?id=6666",
+          "publishedOn": "2022-06-03T00:17:54.000Z",
+          "wordCount": 89,
+          "title": "Don't Wordle",
+          "imageUrl": "https://social.news.hada.io/topic/6666"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6665",
+          "author": null,
+          "description": "크로미움 기반의 다양한 브라우저들을 지원하며 북마크 검색, 프로필 전환, 열려 있는 탭 검색 등의 기능을 가진 Alfred 워크플로우입니다.",
+          "link": "https://news.hada.io/topic?id=6665",
+          "publishedOn": "2022-06-02T08:43:58.000Z",
+          "wordCount": 65,
+          "title": "alfred-chromium-workflow",
+          "imageUrl": "https://social.news.hada.io/topic/6665"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6664",
+          "author": null,
+          "description": "1.미국 기업 쿠션\n이 회사는 사용자가 금융기관에서 당좌대월 수수료나 신용카드 이자 등을 자동으로 환불받는 서비스를 운영하고 여기에 머신러닝을 활용함\n쿠션에서는 알고리즘으로 사용자 은행 또는 신용카드 계좌를 살펴보고, 사용자가 낸 수수료 가운데 환불받을 가능성이 있",
+          "link": "https://news.hada.io/topic?id=6664",
+          "publishedOn": "2022-06-02T08:11:09.000Z",
+          "wordCount": 663,
+          "title": "AI로 금융기관 수수료 환불받고, 경제생활 조언받으며, 구독 서비스 해지하는 방식",
+          "imageUrl": "https://social.news.hada.io/topic/6664"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6663",
+          "author": null,
+          "description": "고려대학교 컴퓨터학과에서 진행한 특강 \"대학생 때 알았더라면 좋았을 것들\"의 발표 자료입니다. 저의 관점에서 '지금 대학생으로 돌아간다면 이런 걸 했었을텐데...'의 생각들을 모아 정리했습니다. 한참 고민이 많을 시기인 대학생 여러분들에게 도움이 되었으면 합니다.",
+          "link": "https://news.hada.io/topic?id=6663",
+          "publishedOn": "2022-06-02T05:05:37.000Z",
+          "wordCount": 208,
+          "title": "대학생 때 알았더라면 좋았을 것들",
+          "imageUrl": "https://social.news.hada.io/topic/6663"
+        },
+        {
           "id": "https://news.hada.io/topic?id=6662",
           "author": null,
           "description": "웹 폰트 대신 시스템에 이미 있는 좋은 글꼴들을 사용 하자는 것\n빠르고, 스타일이 다양하고, 더 네이티브 하게 보임\n폰트별 설정\nSans-serif : font...",
           "link": "https://news.hada.io/topic?id=6662",
           "publishedOn": "2022-06-02T01:11:05.000Z",
-          "wordCount": 163,
+          "wordCount": 217,
           "title": "System Font Stack",
           "imageUrl": "https://social.news.hada.io/topic/6662"
         },
@@ -238,66 +298,6 @@
           "wordCount": 145,
           "title": "소행성 광물 채굴 스타트업이 곧 SpaceX를 이용해서 미션을 수행할 예정",
           "imageUrl": "https://social.news.hada.io/topic/6659"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6658",
-          "author": null,
-          "description": "AWS Aurora Postgres 의 오픈소스 대체제\nCompute 와 Storage를 분리하고, Postgres의 Storage Layer를 클러스터 노드에 분산하여 저장하는 Neon Storage 엔진으로 교체\n단일 명령으로 실행 가능 $psql -h pg.neon.tech\n\nNeon Storage Engine 은 2개의 컴포넌트로 구성...",
-          "link": "https://news.hada.io/topic?id=6658",
-          "publishedOn": "2022-06-02T00:09:02.000Z",
-          "wordCount": 107,
-          "title": "Neon - 서버리스 Postgres 오픈소스",
-          "imageUrl": "https://social.news.hada.io/topic/6658"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6657",
-          "author": null,
-          "description": "프로젝트 \"Keystone\"이 Xbox 지원 OS에서 확인\n크롬캐스트 같이 HDMI에 꼽으면 클라우드 게임을 즐길 수 있게 해주는 저가형 장치\nGame Pass 가입자가 풀 콘솔 없이 Xbox 게임을 실행 가능\n루머는 몇 년 되었지만 공개될 때까진 아직 시간이 필요할 것\n\n...",
-          "link": "https://news.hada.io/topic?id=6657",
-          "publishedOn": "2022-06-01T01:41:01.000Z",
-          "wordCount": 101,
-          "title": "Microsoft, Xbox 클라우드 게임 스트리밍용 HDMI 동글 개발 중",
-          "imageUrl": "https://social.news.hada.io/topic/6657"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6656",
-          "author": null,
-          "description": "DALLE-2는 텍스트 처리에 문제가 있는것으로 알려져 있었는데,\n프롬프트로 다시 넣어보면 뜻을 확인할 수 있음.\n이 \"아무말 언어\"로 자연어 입력을 대체할수 있고,\n어쩌면 보안과 해석가능성에 대한 도전이 될것.",
-          "link": "https://news.hada.io/topic?id=6656",
-          "publishedOn": "2022-06-01T01:40:32.000Z",
-          "wordCount": 113,
-          "title": "DALLE-2 내부에서 쓰이는 언어",
-          "imageUrl": "https://social.news.hada.io/topic/6656"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6655",
-          "author": null,
-          "description": "이제 Web3의 황금기에 들어선다고 판단\n2013년부터 Crypto에 투자해 왔으며, 4번째 Crypto 펀드로 $4.5B를 결성(지금까지 Crypto/Web3 펀드 총합은 $7.6B)\n$1.5B는 시드 투자, $3B는 벤쳐 투자 예정\nWeb3 게임, DeFi, 탈중앙화된 소셜 미디어, Self-sovereign identity, Layer 1 &a...",
-          "link": "https://news.hada.io/topic?id=6655",
-          "publishedOn": "2022-06-01T01:22:01.000Z",
-          "wordCount": 159,
-          "title": "a16z, Web3를 위한 5.5조원 펀드 결성",
-          "imageUrl": "https://social.news.hada.io/topic/6655"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6654",
-          "author": null,
-          "description": "딥러닝을 이용해서 PR을 자동으로 체크하고 문제없으면 승인하는 로봇\n\n변경부분 diff, Repo 및 Coder의 최근 Activity, Coder의 Reputation 등 100여개의 indicator를 이용\n백만개의 PR로 훈련됨\nMulti-layer Perceptron classifier 모델을 이용\n베타 기간 중...",
-          "link": "https://news.hada.io/topic?id=6654",
-          "publishedOn": "2022-06-01T00:51:01.000Z",
-          "wordCount": 95,
-          "title": "Codeball - AI가 수행하는 코드 리뷰",
-          "imageUrl": "https://social.news.hada.io/topic/6654"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6653",
-          "author": null,
-          "description": "Next.js 기반\nconfig.json 하나만 수정하면 바로 세팅 가능\n개인 웹사이트, 브라우저의 시작페이지, 프로젝트 페이지등 용도로 사용\n다양한 테마 제공\n\n...",
-          "link": "https://news.hada.io/topic?id=6653",
-          "publishedOn": "2022-06-01T00:26:02.000Z",
-          "wordCount": 76,
-          "title": "LiveTerm - 터미널 스타일의 웹사이트 템플릿",
-          "imageUrl": "https://social.news.hada.io/topic/6653"
         }
       ]
     },

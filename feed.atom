@@ -1,10 +1,89 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-02T01:50:59.770Z</id>
+    <id>urn:2022-06-03T01:26:15.944Z</id>
     <title>osmos::feed</title>
-    <updated>2022-06-02T01:50:59.770Z</updated>
+    <updated>2022-06-03T01:26:15.945Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Orion - Kagi의 WebKit 기반 브라우저]]></title>
+        <id>https://news.hada.io/topic?id=6668</id>
+        <link href="https://news.hada.io/topic?id=6668"/>
+        <updated>2022-06-03T01:11:47.000Z</updated>
+        <summary type="html"><![CDATA[현재 베타 버전
+맥/iOS만 지원
+WebKit 최신 빌드를 사용하고, 트래커/광고 제거하여 빠른 브라우저
+크롬/FF의 모든 확장들을 사용 가능케 하는 것을 목표
+Privacy를 중시한 설계
+버티컬 탭 및 ...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Feather Wiki - 1개의 HTML로 저장되는 개인용 위키]]></title>
+        <id>https://news.hada.io/topic?id=6667</id>
+        <link href="https://news.hada.io/topic?id=6667"/>
+        <updated>2022-06-03T00:41:30.000Z</updated>
+        <summary type="html"><![CDATA[브라우저만 있다면 어디서든 수정 가능하고, 수정된 HTML 파일을 내려받아 교체하는 방식
+페이지 및 중첩 페이지 무제한 생성
+무제한 Tag 가능
+외부/내부 이미지 첨부 지원
+최근 본 페이지 트래킹
+새 버전의 위키로 쉬운 업그레이드 가능 (새 버전에서 Import &a...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Don't Wordle]]></title>
+        <id>https://news.hada.io/topic?id=6666</id>
+        <link href="https://news.hada.io/topic?id=6666"/>
+        <updated>2022-06-03T00:17:54.000Z</updated>
+        <summary type="html"><![CDATA[워들의 반대방식으로 단어를 맞추지 않기
+규칙
+
+글자를 정확히 맞출 경우 계속 사용해야 함
+글자 위치가 틀릴 경우 다른 자리를 찾아야 함
+안쓰인 글자를 찾았다면 다시 사용하지 못함
+가능한 단어 숫자가 위에 보임
+너무 낮아지면 UNDO를 통...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[alfred-chromium-workflow]]></title>
+        <id>https://news.hada.io/topic?id=6665</id>
+        <link href="https://news.hada.io/topic?id=6665"/>
+        <updated>2022-06-02T08:43:58.000Z</updated>
+        <summary type="html"><![CDATA[크로미움 기반의 다양한 브라우저들을 지원하며 북마크 검색, 프로필 전환, 열려 있는 탭 검색 등의 기능을 가진 Alfred 워크플로우입니다.]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI로 금융기관 수수료 환불받고, 경제생활 조언받으며, 구독 서비스 해지하는 방식]]></title>
+        <id>https://news.hada.io/topic?id=6664</id>
+        <link href="https://news.hada.io/topic?id=6664"/>
+        <updated>2022-06-02T08:11:09.000Z</updated>
+        <summary type="html"><![CDATA[1.미국 기업 쿠션
+이 회사는 사용자가 금융기관에서 당좌대월 수수료나 신용카드 이자 등을 자동으로 환불받는 서비스를 운영하고 여기에 머신러닝을 활용함
+쿠션에서는 알고리즘으로 사용자 은행 또는 신용카드 계좌를 살펴보고, 사용자가 낸 수수료 가운데 환불받을 가능성이 있]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대학생 때 알았더라면 좋았을 것들]]></title>
+        <id>https://news.hada.io/topic?id=6663</id>
+        <link href="https://news.hada.io/topic?id=6663"/>
+        <updated>2022-06-02T05:05:37.000Z</updated>
+        <summary type="html"><![CDATA[고려대학교 컴퓨터학과에서 진행한 특강 "대학생 때 알았더라면 좋았을 것들"의 발표 자료입니다. 저의 관점에서 '지금 대학생으로 돌아간다면 이런 걸 했었을텐데...'의 생각들을 모아 정리했습니다. 한참 고민이 많을 시기인 대학생 여러분들에게 도움이 되었으면 합니다.]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[System Font Stack]]></title>
         <id>https://news.hada.io/topic?id=6662</id>
@@ -58,20 +137,6 @@ OrbAstro와 데모용 위성을 이미 개발했으며, 내년에 발사 예정�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Neon - 서버리스 Postgres 오픈소스]]></title>
-        <id>https://news.hada.io/topic?id=6658</id>
-        <link href="https://news.hada.io/topic?id=6658"/>
-        <updated>2022-06-02T00:09:02.000Z</updated>
-        <summary type="html"><![CDATA[AWS Aurora Postgres 의 오픈소스 대체제
-Compute 와 Storage를 분리하고, Postgres의 Storage Layer를 클러스터 노드에 분산하여 저장하는 Neon Storage 엔진으로 교체
-단일 명령으로 실행 가능 $psql -h pg.neon.tech
-
-Neon Storage Engine 은 2개의 컴포넌트로 구성...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to Create Block Theme Patterns in WordPress 6.0]]></title>
         <id>https://css-tricks.com/?p=365841</id>
         <link href="https://css-tricks.com/how-to-create-block-theme-patterns-in-wordpress-6-0/"/>
@@ -93,77 +158,6 @@ Hip new frameworks like Astro, Qwik, and Elder.js are touting their MPA [multi-p
 SPAs, Shared Element Transitions, and Re-Evaluating Technology originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft, Xbox 클라우드 게임 스트리밍용 HDMI 동글 개발 중]]></title>
-        <id>https://news.hada.io/topic?id=6657</id>
-        <link href="https://news.hada.io/topic?id=6657"/>
-        <updated>2022-06-01T01:41:01.000Z</updated>
-        <summary type="html"><![CDATA[프로젝트 "Keystone"이 Xbox 지원 OS에서 확인
-크롬캐스트 같이 HDMI에 꼽으면 클라우드 게임을 즐길 수 있게 해주는 저가형 장치
-Game Pass 가입자가 풀 콘솔 없이 Xbox 게임을 실행 가능
-루머는 몇 년 되었지만 공개될 때까진 아직 시간이 필요할 것
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DALLE-2 내부에서 쓰이는 언어]]></title>
-        <id>https://news.hada.io/topic?id=6656</id>
-        <link href="https://news.hada.io/topic?id=6656"/>
-        <updated>2022-06-01T01:40:32.000Z</updated>
-        <summary type="html"><![CDATA[DALLE-2는 텍스트 처리에 문제가 있는것으로 알려져 있었는데,
-프롬프트로 다시 넣어보면 뜻을 확인할 수 있음.
-이 "아무말 언어"로 자연어 입력을 대체할수 있고,
-어쩌면 보안과 해석가능성에 대한 도전이 될것.]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[a16z, Web3를 위한 5.5조원 펀드 결성]]></title>
-        <id>https://news.hada.io/topic?id=6655</id>
-        <link href="https://news.hada.io/topic?id=6655"/>
-        <updated>2022-06-01T01:22:01.000Z</updated>
-        <summary type="html"><![CDATA[이제 Web3의 황금기에 들어선다고 판단
-2013년부터 Crypto에 투자해 왔으며, 4번째 Crypto 펀드로 $4.5B를 결성(지금까지 Crypto/Web3 펀드 총합은 $7.6B)
-$1.5B는 시드 투자, $3B는 벤쳐 투자 예정
-Web3 게임, DeFi, 탈중앙화된 소셜 미디어, Self-sovereign identity, Layer 1 &a...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Codeball - AI가 수행하는 코드 리뷰]]></title>
-        <id>https://news.hada.io/topic?id=6654</id>
-        <link href="https://news.hada.io/topic?id=6654"/>
-        <updated>2022-06-01T00:51:01.000Z</updated>
-        <summary type="html"><![CDATA[딥러닝을 이용해서 PR을 자동으로 체크하고 문제없으면 승인하는 로봇
-
-변경부분 diff, Repo 및 Coder의 최근 Activity, Coder의 Reputation 등 100여개의 indicator를 이용
-백만개의 PR로 훈련됨
-Multi-layer Perceptron classifier 모델을 이용
-베타 기간 중...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LiveTerm - 터미널 스타일의 웹사이트 템플릿]]></title>
-        <id>https://news.hada.io/topic?id=6653</id>
-        <link href="https://news.hada.io/topic?id=6653"/>
-        <updated>2022-06-01T00:26:02.000Z</updated>
-        <summary type="html"><![CDATA[Next.js 기반
-config.json 하나만 수정하면 바로 세팅 가능
-개인 웹사이트, 브라우저의 시작페이지, 프로젝트 페이지등 용도로 사용
-다양한 테마 제공
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
     </entry>
     <entry>
