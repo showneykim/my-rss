@@ -6,6 +6,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=366202",
+          "author": "Geoff Graham",
+          "description": "There’s all kinds of ways to do that. Some more advisable and better-suited for certain situations than others, of course.\nWe could do it directly in HTML:\n<pWe go from one line...<br<brdown a couple more.</p\nBut that’s …\nPlease Give Me Some Space originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/please-give-me-some-space/",
+          "publishedOn": "2022-06-03T14:39:11.000Z",
+          "wordCount": 653,
+          "title": "Please Give Me Some Space",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366202"
+        },
+        {
           "id": "https://css-tricks.com/?p=365841",
           "author": "Ganesh Dahal",
           "description": "Block patterns, also frequently referred to as sections, were introduced in WordPress 5.5 to allow users to build and share predefined block layouts in the pattern directory. The directory is the home of a wide range of …\nHow to Create Block Theme Patterns in WordPress 6.0 originally published on CSS-Tricks. You should get the newsletter.",
@@ -144,16 +154,6 @@
           "wordCount": 1143,
           "title": "Improving Icons for UI Elements with Typographic Alignment and Scale",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365531"
-        },
-        {
-          "id": "https://css-tricks.com/?p=365377",
-          "author": "Ganesh Dahal",
-          "description": "Global styles, a feature of the block themes, is one of my favorite parts of creating block themes. The concept of global style variations in WordPress were introduced in Gutenberg 12.5 which would allow theme authors to create alternate …\nHow to Create Style Variations in WordPress 6.0 Block Themes originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/creating-style-variations-in-wordpress-block-themes/",
-          "publishedOn": "2022-05-16T14:38:29.000Z",
-          "wordCount": 3212,
-          "title": "How to Create Style Variations in WordPress 6.0 Block Themes",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365377"
         }
       ]
     },
@@ -163,12 +163,22 @@
       "siteUrl": "https://rastalion.me",
       "articles": [
         {
+          "id": "https://rastalion.me/?p=2535",
+          "author": "Rasta Lion",
+          "description": "MongoDB 5.0 Time Series MongoDB가 5.x 버전으로 릴리즈 되면서 추가된 유용한 기능 중에 하나가 바로 Time Series 컬렉션을 활용할 수 있다는 것 입니다. 쉽게 표현하면 시계열 데이터를 저장하는 기능인데 더 쉽게 표현하면 일정 시간...\nThe post MongoDB 5.0 Time Series appeared first on RastaLion's IT Blog.",
+          "link": "https://rastalion.me/mongodb_timeseries/",
+          "publishedOn": "2022-06-03T05:48:26.000Z",
+          "wordCount": 1076,
+          "title": "MongoDB 5.0 Time Series",
+          "imageUrl": "https://rastalion.me/wp-content/uploads/2020/04/37_2019081518484308.jpg"
+        },
+        {
           "id": "https://rastalion.me/?p=2532",
           "author": "Rasta Lion",
           "description": "MongoDB에서 Sequence 사용하기 on Node.js MongoDB는 Oracle이나 PostgreSQL의 Sequence나 MySQL의 Auto Increment 같은 기능이 없습니다.  반면 MongoDB에 익숙한 사람들은 12-byte로된 Object_ID에 더 익숙할겁니다.  MongoDB는 자동 증가 시퀀스를 기본 기능으로 지원하지 않지만 이 기능은 카운터...\nThe post MongoDB에서 Sequence 사용하기 on Node.js appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/mongodb-sequence-on-node-js/",
           "publishedOn": "2022-05-25T01:25:28.000Z",
-          "wordCount": 686,
+          "wordCount": 719,
           "title": "MongoDB에서 Sequence 사용하기 on Node.js",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2020/04/37_2019081518484308.jpg"
         },
@@ -188,7 +198,7 @@
           "description": "MERN Stack 이란? 최근 MongoDB에 대한 자료들을 찾아보다 보면 해외 사이트들에서 쉽게 접할 수 있는 단어입니다. 꽤 인기있는 것으로 Udemy 같은 온라인 교육 사이트에는 MERN Stack에 대한 통합 교육과정도 업로드 되고 있습니다. MERN은 스택을 구성하는...\nThe post MERN Stack 이란? appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/mern-stack-%ec%9d%b4%eb%9e%80/",
           "publishedOn": "2022-05-20T16:20:29.000Z",
-          "wordCount": 896,
+          "wordCount": 924,
           "title": "MERN Stack 이란?",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2020/04/37_2019081518484308.jpg"
         }
@@ -199,6 +209,86 @@
       "feedUrl": "https://news.hada.io/rss/news",
       "siteUrl": "https://news.hada.io",
       "articles": [
+        {
+          "id": "https://news.hada.io/topic?id=6676",
+          "author": null,
+          "description": "NPM에 edgedb 클라이언트 라이브러리를 직접 만들어 제공 중\n최소한의 리팩토링을 통해 Node.js용 구현체에서 Deno 호환하는 모듈을 생성하여 관리를 편하게 하기로\n기존 코드가 TypeScript 로 되어있어서 ESM 문법을 사용하고 있어서 모듈쪽은 변...",
+          "link": "https://news.hada.io/topic?id=6676",
+          "publishedOn": "2022-06-04T00:57:01.000Z",
+          "wordCount": 106,
+          "title": "EdgeDB팀이 Node.js 라이브러리를 Deno용으로 컨버팅한 방법",
+          "imageUrl": "https://social.news.hada.io/topic/6676"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6675",
+          "author": null,
+          "description": "노트를 Git에 저장하는 형태의 웹앱\nReact + Redux + REST API(Go) 로 작성된 오픈소스\nGitHub 로그인 및 GitHub Repo에 모든 노트 저장\n마크다운 포맷으로 작성 및 프리뷰\n\n...",
+          "link": "https://news.hada.io/topic?id=6675",
+          "publishedOn": "2022-06-04T00:36:01.000Z",
+          "wordCount": 90,
+          "title": "GitNoter - 마크다운 기반 셀프호스트 노트 작성 웹앱 오픈소스",
+          "imageUrl": "https://social.news.hada.io/topic/6675"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6674",
+          "author": null,
+          "description": "HTTP(S) 트래픽을 MITM 하여 광고 및 트래커를 원천 차단하는 프록시\nuBlock Origin, Adblock Plus 의 필터를 그대로 지원\nWeb GUI로 통계 및 실시간 요청 탐색 지원\nMITM 파이프라인 상에서 특정 호스트 제외처리 가능\nRust 오픈소스 로 적은 자원 사용\n\n32만개 ...",
+          "link": "https://news.hada.io/topic?id=6674",
+          "publishedOn": "2022-06-04T00:18:01.000Z",
+          "wordCount": 112,
+          "title": "Privaxy - 차세대 트래커 & 광고 블록커",
+          "imageUrl": "https://social.news.hada.io/topic/6674"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6673",
+          "author": null,
+          "description": "구글이 직접 개발자에게 연락해서 PlayStore 에서 FairEmail 앱 복원",
+          "link": "https://news.hada.io/topic?id=6673",
+          "publishedOn": "2022-06-03T03:02:19.000Z",
+          "wordCount": 78,
+          "title": "구글이 직접 개발자에게 연락해서 PlayStore 에서 FairEmail 앱 복원",
+          "imageUrl": "https://social.news.hada.io/topic/6673"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6672",
+          "author": null,
+          "description": "이번 주말에 뭘 하려고 계획 중인지 편하게 얘기해 보아요.\n읽을 책, 가볼 곳, 해볼 것.. 어떤 것이든 좋습니다.\n지난 주말에 계획하셨던 일의 회고도 한번 남겨봐 주세요.",
+          "link": "https://news.hada.io/topic?id=6672",
+          "publishedOn": "2022-06-03T02:54:13.000Z",
+          "wordCount": 153,
+          "title": "Ask GN: 이번 주말에 뭐 하시나요?",
+          "imageUrl": "https://social.news.hada.io/topic/6672"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6671",
+          "author": null,
+          "description": "터키 국호 '튀르키예'로 변경…영어 터키는 '칠면조·겁쟁이' 뜻",
+          "link": "https://news.hada.io/topic?id=6671",
+          "publishedOn": "2022-06-03T02:26:09.000Z",
+          "wordCount": 92,
+          "title": "터키 국호 '튀르키예'로 변경…영어 터키는 '칠면조·겁쟁이' 뜻",
+          "imageUrl": "https://social.news.hada.io/topic/6671"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6670",
+          "author": null,
+          "description": "워드프레스에 조인한 CC Search를 리브랜딩\n무료로 사용가능한 이미지/사진, 오디오(음악,팟캐스트,샘플링 등) 등의 콘텐츠 검색 엔진\nCreative Commons 라이센스나 Public Domain 콘텐츠 대상\nMeta Search 기능으로 다른 CC 라이센스 검색이 가능한 엔진과도 연결\n→ Europe...",
+          "link": "https://news.hada.io/topic?id=6670",
+          "publishedOn": "2022-06-03T01:45:13.000Z",
+          "wordCount": 104,
+          "title": "OpenVerse - 오픈 라이센스 미디어 검색엔진",
+          "imageUrl": "https://social.news.hada.io/topic/6670"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6669",
+          "author": null,
+          "description": "HN에 올라온 질문의 답변들\nOpenTTD : Transport Tycoon Deluxe\nDungeon Crawl : 로그라이크\nOpenRA : 전략시뮬 Red Alert를 재구현\nBattle for Wesnoth : 턴제 전략 게임\nFreeCiv : 문명\nEndless Sky : 우주 무역/전쟁\nBrogue : 로그라이크</li",
+          "link": "https://news.hada.io/topic?id=6669",
+          "publishedOn": "2022-06-03T01:31:51.000Z",
+          "wordCount": 197,
+          "title": "가장 좋아하는 오픈소스 게임은?",
+          "imageUrl": "https://social.news.hada.io/topic/6669"
+        },
         {
           "id": "https://news.hada.io/topic?id=6668",
           "author": null,
@@ -215,89 +305,9 @@
           "description": "브라우저만 있다면 어디서든 수정 가능하고, 수정된 HTML 파일을 내려받아 교체하는 방식\n페이지 및 중첩 페이지 무제한 생성\n무제한 Tag 가능\n외부/내부 이미지 첨부 지원\n최근 본 페이지 트래킹\n새 버전의 위키로 쉬운 업그레이드 가능 (새 버전에서 Import &a...",
           "link": "https://news.hada.io/topic?id=6667",
           "publishedOn": "2022-06-03T00:41:30.000Z",
-          "wordCount": 153,
+          "wordCount": 169,
           "title": "Feather Wiki - 1개의 HTML로 저장되는 개인용 위키",
           "imageUrl": "https://social.news.hada.io/topic/6667"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6666",
-          "author": null,
-          "description": "워들의 반대방식으로 단어를 맞추지 않기\n규칙\n\n글자를 정확히 맞출 경우 계속 사용해야 함\n글자 위치가 틀릴 경우 다른 자리를 찾아야 함\n안쓰인 글자를 찾았다면 다시 사용하지 못함\n가능한 단어 숫자가 위에 보임\n너무 낮아지면 UNDO를 통...",
-          "link": "https://news.hada.io/topic?id=6666",
-          "publishedOn": "2022-06-03T00:17:54.000Z",
-          "wordCount": 89,
-          "title": "Don't Wordle",
-          "imageUrl": "https://social.news.hada.io/topic/6666"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6665",
-          "author": null,
-          "description": "크로미움 기반의 다양한 브라우저들을 지원하며 북마크 검색, 프로필 전환, 열려 있는 탭 검색 등의 기능을 가진 Alfred 워크플로우입니다.",
-          "link": "https://news.hada.io/topic?id=6665",
-          "publishedOn": "2022-06-02T08:43:58.000Z",
-          "wordCount": 65,
-          "title": "alfred-chromium-workflow",
-          "imageUrl": "https://social.news.hada.io/topic/6665"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6664",
-          "author": null,
-          "description": "1.미국 기업 쿠션\n이 회사는 사용자가 금융기관에서 당좌대월 수수료나 신용카드 이자 등을 자동으로 환불받는 서비스를 운영하고 여기에 머신러닝을 활용함\n쿠션에서는 알고리즘으로 사용자 은행 또는 신용카드 계좌를 살펴보고, 사용자가 낸 수수료 가운데 환불받을 가능성이 있",
-          "link": "https://news.hada.io/topic?id=6664",
-          "publishedOn": "2022-06-02T08:11:09.000Z",
-          "wordCount": 663,
-          "title": "AI로 금융기관 수수료 환불받고, 경제생활 조언받으며, 구독 서비스 해지하는 방식",
-          "imageUrl": "https://social.news.hada.io/topic/6664"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6663",
-          "author": null,
-          "description": "고려대학교 컴퓨터학과에서 진행한 특강 \"대학생 때 알았더라면 좋았을 것들\"의 발표 자료입니다. 저의 관점에서 '지금 대학생으로 돌아간다면 이런 걸 했었을텐데...'의 생각들을 모아 정리했습니다. 한참 고민이 많을 시기인 대학생 여러분들에게 도움이 되었으면 합니다.",
-          "link": "https://news.hada.io/topic?id=6663",
-          "publishedOn": "2022-06-02T05:05:37.000Z",
-          "wordCount": 208,
-          "title": "대학생 때 알았더라면 좋았을 것들",
-          "imageUrl": "https://social.news.hada.io/topic/6663"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6662",
-          "author": null,
-          "description": "웹 폰트 대신 시스템에 이미 있는 좋은 글꼴들을 사용 하자는 것\n빠르고, 스타일이 다양하고, 더 네이티브 하게 보임\n폰트별 설정\nSans-serif : font...",
-          "link": "https://news.hada.io/topic?id=6662",
-          "publishedOn": "2022-06-02T01:11:05.000Z",
-          "wordCount": 217,
-          "title": "System Font Stack",
-          "imageUrl": "https://social.news.hada.io/topic/6662"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6661",
-          "author": null,
-          "description": "Tesla Exec Staff 에게 보낸 메일\n\n\"사무실에서 최소 주40시간 근무하고 나서 추가로 원격 근무를 하던지, 테슬라를 떠나세요.\"\n다시 전체에 보낸 메일\n\nTesla 직원 모두는 '동",
-          "link": "https://news.hada.io/topic?id=6661",
-          "publishedOn": "2022-06-02T00:58:49.000Z",
-          "wordCount": 174,
-          "title": "일런 머스크가 테슬라 팀에 '이제 원격근무 불가' 메일을 발송",
-          "imageUrl": "https://social.news.hada.io/topic/6661"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6660",
-          "author": null,
-          "description": "매우 작고 상세한 것을 찍을 수 있으며, 다른 구조 내부에 '비침습적'으로 인쇄할 수 있음\nDirect Sound Printing(DSP) 기술을 이용\n초음파를 챔버에 보내서 초음파 필드를 생성하고...",
-          "link": "https://news.hada.io/topic?id=6660",
-          "publishedOn": "2022-06-02T00:40:32.000Z",
-          "wordCount": 140,
-          "title": "음파를 사용하는 새로운 형태의 3D 프린팅",
-          "imageUrl": "https://social.news.hada.io/topic/6660"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6659",
-          "author": null,
-          "description": "YC 스타트업 Astroforge는 최근에 $13M 투자를 마무리하고, 창업자들은 우주에서 재료를 정제하는 새로운 방법을 개발했다고 주장\n직경 20미터에서 1.5km 크기의 소행성을 타겟\nOrbAstro와 데모용 위성을 이미 개발했으며, 내년에 발사 예정인 SpaceX의 Rideshare 미션에 참여하기 위해 계약...",
-          "link": "https://news.hada.io/topic?id=6659",
-          "publishedOn": "2022-06-02T00:19:44.000Z",
-          "wordCount": 145,
-          "title": "소행성 광물 채굴 스타트업이 곧 SpaceX를 이용해서 미션을 수행할 예정",
-          "imageUrl": "https://social.news.hada.io/topic/6659"
         }
       ]
     },
