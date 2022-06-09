@@ -1,92 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-08T01:42:09.502Z</id>
+    <id>urn:2022-06-09T01:41:35.696Z</id>
     <title>osmos::feed</title>
-    <updated>2022-06-08T01:42:09.502Z</updated>
+    <updated>2022-06-09T01:41:35.696Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Meet Web Push]]></title>
-        <id>https://news.hada.io/topic?id=6706</id>
-        <link href="https://news.hada.io/topic?id=6706"/>
-        <updated>2022-06-08T01:28:11.000Z</updated>
-        <summary type="html"><![CDATA[Web Push는 W3C 표준인 Push API, Notifications API, Service Workers 를 같이 이용함으로써 구현됨
-macOS Ventura 의 Safari 16에서 Web Push 지원
-2023년엔 iOS/iPadOS 에서 Web Push 지원 예정
-애플 웹킷...]]></summary>
+        <title type="html"><![CDATA[Let’s Make a QR Code Generator With a Serverless Function!]]></title>
+        <id>https://css-tricks.com/?p=366147</id>
+        <link href="https://css-tricks.com/lets-make-a-qr-code-generator-with-a-serverless-function/"/>
+        <updated>2022-06-08T14:30:53.000Z</updated>
+        <summary type="html"><![CDATA[QR codes are funny, right? We love them, then hate them, then love them again. Anyways, they’ve lately been popping up again and it got me thinking about how they’re made. There are like a gazillion QR code generators out …
+Let’s Make a QR Code Generator With a Serverless Function! originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RFC 9114 - HTTP/3]]></title>
-        <id>https://news.hada.io/topic?id=6705</id>
-        <link href="https://news.hada.io/topic?id=6705"/>
-        <updated>2022-06-08T01:06:58.000Z</updated>
-        <summary type="html"><![CDATA[QUIC은 HTTP 전송에 필요한 스트림 다중화, 스트림별 흐름 제어, Low-Latency 연결 설정 같은 기능들을 가지고 있음
-이 문서는 HTTP over QUIC 매핑을 설명
-또한 QUIC에 포함된 HTTP/2 기능들을 식별하고, HTTP/2 확장을 HTTP/3로 이식하는 방법을 설명함
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[탈옥된 아이폰 12/iOS 14.1 에서 하드웨어 가속되는 VM 실행하기]]></title>
-        <id>https://news.hada.io/topic?id=6704</id>
-        <link href="https://news.hada.io/topic?id=6704"/>
-        <updated>2022-06-08T00:56:25.000Z</updated>
-        <summary type="html"><![CDATA[Hypervisor.framework를 언락후 UTM(QEMU)을 수정해서 네이티브 속도로 실행 성공
-A14 CPU는 Virtualization을 지원하지만 커널에서 비활성화 되어 있음
-VM이 램을 900MB 밖에 사용하지 못하므로 실사용은 불가하고 PoC 수준
-GeekBench 점수 : 네이티...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EU, USB-C를 표준 충전 포트로 만드는 법안 도입 합의]]></title>
-        <id>https://news.hada.io/topic?id=6703</id>
-        <link href="https://news.hada.io/topic?id=6703"/>
-        <updated>2022-06-08T00:35:46.000Z</updated>
-        <summary type="html"><![CDATA[제조사들은 2024년 가을까지 USB-C를 장착 해야함
-대부분의 중소형 전자기기 : 스마트폰, 태블릿, 이북리더, 이어폰, 디지털카메라, 헤드폰, 휴대용 게임기, 휴대용 스피커등을 대부분 포함
-노트북은 발효 후 40개월 정도의 시간을 두고 조정 예정
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beacon CRM, 주4일 근무제로 변경]]></title>
-        <id>https://news.hada.io/topic?id=6702</id>
-        <link href="https://news.hada.io/topic?id=6702"/>
-        <updated>2022-06-08T00:23:30.000Z</updated>
-        <summary type="html"><![CDATA[자선 단체들을 위한 CRM SaaS 회사
-100/80/100 모델을 적용
-
-급여와 혜택은 100% 예전 그대로
-근무 시간은 예전의 80% (월~목 주4일)
-생산성은 100% 예전 그대로 유지
-기본적인 업무 공간은 사무실이지만, 재택도 필요하면 가능
-생산성을 유...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Passkeys 개발자 가이드]]></title>
-        <id>https://news.hada.io/topic?id=6701</id>
-        <link href="https://news.hada.io/topic?id=6701"/>
-        <updated>2022-06-08T00:06:39.000Z</updated>
-        <summary type="html"><![CDATA[FIDO 표준을 통해서 웹/앱에서 암호 필요 없이 Touch ID/Face ID로 로그인
-기기내에서 개인키/공개키를 생성하고 공개키를 서버와 공유
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
@@ -98,57 +25,6 @@ GeekBench 점수 : 네이티...]]></summary>
 Building Interoperable Web Components That Even Work With React originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Adam Rackis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여피족과 보보스족으로 읽는 NFT]]></title>
-        <id>https://news.hada.io/topic?id=6700</id>
-        <link href="https://news.hada.io/topic?id=6700"/>
-        <updated>2022-06-07T11:27:54.000Z</updated>
-        <summary type="html"><![CDATA[PFP NFT를 투자 외에 구매하는 가장 큰 이유는 자아 표현
-초기 NFT 판매는 부 또는 크립토 OG를 증명하기 위한 수단
-다만 시간이 지날수록 NFT 내에서 유틸리티를 찾는 사용자가 많아짐
-이런 소비형태는 일종의 브랜드, 명품 등에서 찾아볼 수 있음
-1980년대 여피족의 표면...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[tweet-to-markdown: 트위터 글을 마크다운으로 저장하는 CLI툴]]></title>
-        <id>https://news.hada.io/topic?id=6699</id>
-        <link href="https://news.hada.io/topic?id=6699"/>
-        <updated>2022-06-07T08:58:17.000Z</updated>
-        <summary type="html"><![CDATA[첨부된 모든 이미지, 투표 및 링크도 파일에 연결되고 표시됩니다.
-연달아 작성된 트윗 스레드도 가져올 수 있습니다.
-좋아요 수, 리트윗 수, 트윗에 대한 답글 수를 기록할 수 있습니다.
-마크다운 내 트위터 이미지를 URL 링크 방식이 아닌, 로컬에 저장하여 불러올 수 있습니다....]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Github 사용자가 약 40만 명의 사용자에게 6천만 통이 넘는 알림 메일을 발송.]]></title>
-        <id>https://news.hada.io/topic?id=6698</id>
-        <link href="https://news.hada.io/topic?id=6698"/>
-        <updated>2022-06-07T07:56:56.000Z</updated>
-        <summary type="html"><![CDATA[한 사용자가 EpicGames/Signup 저장소에서 아주 단순한 변경 사항을 포함한 PR을 생성하고 @EpicGames/developers에게 맨션...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 이달의 구직 - 같이 일할 팀을 찾습니다 (2022년 6월)]]></title>
-        <id>https://news.hada.io/topic?id=6697</id>
-        <link href="https://news.hada.io/topic?id=6697"/>
-        <updated>2022-06-07T02:04:01.000Z</updated>
-        <summary type="html"><![CDATA[일할 곳을 찾고 계시다면, 간단히 정보를 남겨 주세요.
-지역 :
-위 정보는 구인을 위해서만 이용해 주세요
-~~
-구직자 들이 홍보할 수 있는 공간도 필요하다는 얘기를 주셔서]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
     </entry>
     <entry>
@@ -463,17 +339,6 @@ Inline Image Previews with Sharp, BlurHash, and Lambda Functions originally publ
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[An Interactive Starry Backdrop for Content]]></title>
-        <id>https://css-tricks.com/?p=365766</id>
-        <link href="https://css-tricks.com/an-interactive-starry-backdrop-for-content/"/>
-        <updated>2022-05-18T14:16:43.000Z</updated>
-        <summary type="html"><![CDATA[I was fortunate last year to get approached by Shawn Wang (swyx) about doing some work for Temporal. The idea was to cast my creative eye over what was on the site and come up with some …
-An Interactive Starry Backdrop for Content originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Jhey Tompkins</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[(Kotlin) 단일 함수만 존재하는 경우 파일명은 어떻게 해야할까?]]></title>
         <id>https://jojoldu.tistory.com/671</id>
         <link href="https://jojoldu.tistory.com/671"/>
@@ -502,6 +367,153 @@ ex) Maps 등
 해당 파일의 코드들이 무엇을 …]]></summary>
         <author>
             <name>향로</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Red Hat Enterprise Linux 9 공개]]></title>
+        <id>https://news.hada.io/topic?id=6545</id>
+        <link href="https://news.hada.io/topic?id=6545"/>
+        <updated>2022-05-14T00:04:30.000Z</updated>
+        <summary type="html"><![CDATA[CentOS Stream 에서 빌드되는 첫번째 릴리즈
+주요 개선 사항
+
+포괄적인 엣지 관리
+Podman 으로 자동 컨테이너 롤백
+새로운 이미지 빌더
+AWS Graviton 프로세서 연동
+Spectre / Meltdown 취약점 개선
+WireGuard VPN이 unsupported technology pr...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Airbridge API 개발팀의 Monorepo 도입기]]></title>
+        <id>https://news.hada.io/topic?id=6544</id>
+        <link href="https://news.hada.io/topic?id=6544"/>
+        <updated>2022-05-13T09:40:50.000Z</updated>
+        <summary type="html"><![CDATA[Airbridge API 개발팀에서 Monorepo를 도입하게된 계기와 도입 과정에서 겪은 문제를 해결한 사례를 소개합니다.
+Monorepo 도입 배경
+
+Monorepo란?
+Airbridge API 팀의 도입 배경
+작업 목표
+
+동일한 개발 경험을 유지하면서 Monorepo 저장소 도입
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=6543</id>
+        <link href="https://news.hada.io/topic?id=6543"/>
+        <updated>2022-05-13T02:13:06.000Z</updated>
+        <summary type="html"><![CDATA[이번 주말에 뭘 하려고 계획 중인지 편하게 얘기해 보아요.
+읽을 책, 가볼 곳, 해볼 것.. 어떤 것이든 좋습니다.
+지난 주말에 계획하셨던 일의 회고도 한번 남겨봐 주세요.]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloudflare Workers 오픈소스로 공개]]></title>
+        <id>https://news.hada.io/topic?id=6542</id>
+        <link href="https://news.hada.io/topic?id=6542"/>
+        <updated>2022-05-13T01:15:22.000Z</updated>
+        <summary type="html"><![CDATA[서비스 공개 후 5년만에 Workers Runtime을 Apache 2.0 라이센스로 오픈소스 릴리즈]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 파이썬 언어 써밋 : Python without the GIL]]></title>
+        <id>https://news.hada.io/topic?id=6541</id>
+        <link href="https://news.hada.io/topic?id=6541"/>
+        <updated>2022-05-13T01:01:27.000Z</updated>
+        <summary type="html"><![CDATA[GIL(Global Interpreter Lock)이 없는 파이썬을 만들어 보려는 nogil 현재 상황 정리
+Sam Gross가 10월 2021년 PoC 코드(GIL 없는 멀티쓰레디드 파이썬)를 공개
+2022 서밋에서 파이썬 3.12에 새로운 컴파일러 플래그를 제안(기존 제안은 런타임 플래그)
+
+코어 개발자들로 부터 흥분 ...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flutter 3 공개]]></title>
+        <id>https://news.hada.io/topic?id=6540</id>
+        <link href="https://news.hada.io/topic?id=6540"/>
+        <updated>2022-05-13T00:48:51.000Z</updated>
+        <summary type="html"><![CDATA[모바일에서 멀티플랫폼 프레임워크로 가는 완성
+애플 실리콘 지원(유니버설 바이너리)
+Material Design 3
+Flutter/Firebase 연동이 Firebase 코어에 통합(소스 및 문서)되어 더 많은 지원을 받게 될 것
+Flutter Casual Games To...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google I/O 2022 키노트 18분 요약 by Verge]]></title>
+        <id>https://news.hada.io/topic?id=6539</id>
+        <link href="https://news.hada.io/topic?id=6539"/>
+        <updated>2022-05-13T00:28:47.000Z</updated>
+        <summary type="html"><![CDATA[픽셀 워치
+픽셀 7 / 7 Pro / 6A
+픽셀 버즈 프로
+픽셀 타블렛
+구글 검색 (Scene exploration)
+구글 어시스턴트 (Look and talk, Quick phrases)
+안드로이드 13
+구글 월렛
+폰허브 & Fast Pair
+AR 글래스
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[검색의 미래는 부티크다 (a16z 글 번역 및 요약)]]></title>
+        <id>https://news.hada.io/topic?id=6538</id>
+        <link href="https://news.hada.io/topic?id=6538"/>
+        <updated>2022-05-13T00:10:21.000Z</updated>
+        <summary type="html"><![CDATA[요즘 Google 검색은 매우 실망스럽다
+대안적 검색 : DuckDuckGo, Neeva
+부티크 검색 : 검색의 기회는 거대한 수평적 애그리게이터로 구글을 정면 공격하는 것이 아니라 새로운 방식으로 사물을 색인화하고, 선별하고, 정리하...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[테라?, 루나?, 스테이블 코인? 대체 무슨일?]]></title>
+        <id>https://news.hada.io/topic?id=6537</id>
+        <link href="https://news.hada.io/topic?id=6537"/>
+        <updated>2022-05-12T23:59:22.000Z</updated>
+        <summary type="html"><![CDATA[스테이블코인은 코인계의 예금
+미 달러화와 페깅
+담보방식의 문제
+알고리즘으로 풀어보자
+지난 3일간 테라에 생긴 일
+흔들리는 신뢰
+이것이 바로 뱅크런
+Not Stable]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[State of CSS 2022]]></title>
+        <id>https://news.hada.io/topic?id=6536</id>
+        <link href="https://news.hada.io/topic?id=6536"/>
+        <updated>2022-05-12T22:54:25.000Z</updated>
+        <summary type="html"><![CDATA[Google I/O 에서 발표한
+이렇게 모아두니 2022년에도 개선된 게 정말 많군요!]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
     </entry>
 </feed>
