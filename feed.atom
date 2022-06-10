@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-09T01:41:35.696Z</id>
+    <id>urn:2022-06-10T01:49:03.684Z</id>
     <title>osmos::feed</title>
-    <updated>2022-06-09T01:41:35.696Z</updated>
+    <updated>2022-06-10T01:49:03.684Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Am I on the IndieWeb yet?]]></title>
+        <id>https://css-tricks.com/?p=366286</id>
+        <link href="https://css-tricks.com/am-i-on-the-indieweb-yet/"/>
+        <updated>2022-06-09T15:32:50.000Z</updated>
+        <summary type="html"><![CDATA[Can’t smash the Like button hard enough for what Miriam Suzanne has to say on the challenging technical hurdles of implementing Webmentions:
+The first round required several online services along with HTML & JS changes to my static site, just to verify my 
+…
+Am I on the IndieWeb yet? originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Let’s Make a QR Code Generator With a Serverless Function!]]></title>
         <id>https://css-tricks.com/?p=366147</id>
@@ -325,17 +338,6 @@ Verevolf originally published on CSS-Tricks. You should get the newsletter.]]></
 The post MERN Stack 이란? appeared first on RastaLion's IT Blog.]]></summary>
         <author>
             <name>Rasta Lion</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inline Image Previews with Sharp, BlurHash, and Lambda Functions]]></title>
-        <id>https://css-tricks.com/?p=365784</id>
-        <link href="https://css-tricks.com/inline-image-previews-with-sharp-blurhash-and-lambda-functions/"/>
-        <updated>2022-05-19T14:30:08.000Z</updated>
-        <summary type="html"><![CDATA[Don’t you hate it when you load a website or web app, some content displays and then some images load — causing content to shift around? That’s called content reflow and can lead to an incredibly annoying user experience for …
-Inline Image Previews with Sharp, BlurHash, and Lambda Functions originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Adam Rackis</name>
         </author>
     </entry>
     <entry>
