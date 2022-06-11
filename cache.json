@@ -6,12 +6,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=366266",
+          "author": "Temani Afif",
+          "description": "Making CSS-only loaders is one of my favorite tasks. It’s always satisfying to look at those infinite animations. And, of course, there are lots of techniques and approaches to make them — no need to look further than CodePen to …\nSingle Element Loaders: The Spinner originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/single-element-loaders-the-spinner/",
+          "publishedOn": "2022-06-10T14:26:06.000Z",
+          "wordCount": 2112,
+          "title": "Single Element Loaders: The Spinner",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366266"
+        },
+        {
           "id": "https://css-tricks.com/?p=366286",
           "author": "Geoff Graham",
           "description": "Can’t smash the Like button hard enough for what Miriam Suzanne has to say on the challenging technical hurdles of implementing Webmentions:\nThe first round required several online services along with HTML & JS changes to my static site, just to verify my \n…\nAm I on the IndieWeb yet? originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/am-i-on-the-indieweb-yet/",
           "publishedOn": "2022-06-09T15:32:50.000Z",
-          "wordCount": 703,
+          "wordCount": 813,
           "title": "Am I on the IndieWeb yet?",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366286"
         },
@@ -144,16 +154,6 @@
           "wordCount": 3341,
           "title": "Dialog Components: Go Native HTML or Roll Your Own?",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365804"
-        },
-        {
-          "id": "https://css-tricks.com/?p=365971",
-          "author": "Geoff Graham",
-          "description": "Zeldman:\nYou may not know his name, but he played a huge part in creating the web you take for granted today. And he’s back—kind of.\nThat would be Glenn Davis and the Verevolf site Zeldman’s talking about. The …\nVerevolf originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/verevolf/",
-          "publishedOn": "2022-05-20T20:24:43.000Z",
-          "wordCount": 390,
-          "title": "Verevolf",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365971"
         }
       ]
     },
@@ -168,7 +168,7 @@
           "description": "MongoDB 5.0 Time Series MongoDB가 5.x 버전으로 릴리즈 되면서 추가된 유용한 기능 중에 하나가 바로 Time Series 컬렉션을 활용할 수 있다는 것 입니다. 쉽게 표현하면 시계열 데이터를 저장하는 기능인데 더 쉽게 표현하면 일정 시간...\nThe post MongoDB 5.0 Time Series appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/mongodb_timeseries/",
           "publishedOn": "2022-06-03T05:48:26.000Z",
-          "wordCount": 1106,
+          "wordCount": 1110,
           "title": "MongoDB 5.0 Time Series",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2020/04/37_2019081518484308.jpg"
         },
@@ -210,104 +210,104 @@
       "siteUrl": "https://news.hada.io",
       "articles": [
         {
-          "id": "https://news.hada.io/topic?id=6545",
+          "id": "https://news.hada.io/topic?id=6728",
           "author": null,
-          "description": "CentOS Stream 에서 빌드되는 첫번째 릴리즈\n주요 개선 사항\n\n포괄적인 엣지 관리\nPodman 으로 자동 컨테이너 롤백\n새로운 이미지 빌더\nAWS Graviton 프로세서 연동\nSpectre / Meltdown 취약점 개선\nWireGuard VPN이 unsupported technology pr...",
-          "link": "https://news.hada.io/topic?id=6545",
-          "publishedOn": "2022-05-14T00:04:30.000Z",
-          "wordCount": 112,
-          "title": "Red Hat Enterprise Linux 9 공개",
-          "imageUrl": "https://social.news.hada.io/topic/6545"
+          "description": "포용성 : Procreate, Wylde Flowers\n기쁨과 재미 : (Not Boring) Habits, Overboard!\n인터랙션 : A Musical Story, Slopes\n사회적 영향력 : 'Gibbon: Beyond the Trees', Rebel Girls\n영상 및 그래픽 : Halide Mark II - 프로 카메라, LEGO® Star Wars™: Castaways\n...",
+          "link": "https://news.hada.io/topic?id=6728",
+          "publishedOn": "2022-06-11T01:06:01.000Z",
+          "wordCount": 102,
+          "title": "Apple 디자인 어워드 2022년 수상작",
+          "imageUrl": "https://social.news.hada.io/topic/6728"
         },
         {
-          "id": "https://news.hada.io/topic?id=6544",
+          "id": "https://news.hada.io/topic?id=6727",
           "author": null,
-          "description": "Airbridge API 개발팀에서 Monorepo를 도입하게된 계기와 도입 과정에서 겪은 문제를 해결한 사례를 소개합니다.\nMonorepo 도입 배경\n\nMonorepo란?\nAirbridge API 팀의 도입 배경\n작업 목표\n\n동일한 개발 경험을 유지하면서 Monorepo 저장소 도입\n...",
-          "link": "https://news.hada.io/topic?id=6544",
-          "publishedOn": "2022-05-13T09:40:50.000Z",
-          "wordCount": 158,
-          "title": "Airbridge API 개발팀의 Monorepo 도입기",
-          "imageUrl": "https://social.news.hada.io/topic/6544"
+          "description": "윈/맥/리눅스\nVim 키 지원\n최소한의 키로 이용 가능\nToDo 리스트 : 서브태스크 및 타이머 지원\nCalcurse, Taskwarrior, Abook 연동\n색상, 아이콘 등 커스터마이징 지원\n\n...",
+          "link": "https://news.hada.io/topic?id=6727",
+          "publishedOn": "2022-06-11T00:25:02.000Z",
+          "wordCount": 83,
+          "title": "Calcure - TUI 캘린더 & 태스크 관리자",
+          "imageUrl": "https://social.news.hada.io/topic/6727"
         },
         {
-          "id": "https://news.hada.io/topic?id=6543",
+          "id": "https://news.hada.io/topic?id=6726",
+          "author": null,
+          "description": "Runtime Types\nORM : MySQL, PostgreSQL, SQLite, MongoDB\nDependency Injection\nValidation, Serialization, Reflection, HTTP Router ..\nDebugger & Profiler\nTemplate Engine\n\n...",
+          "link": "https://news.hada.io/topic?id=6726",
+          "publishedOn": "2022-06-11T00:08:01.000Z",
+          "wordCount": 76,
+          "title": "Deepkit - 고성능 TypeScript 프레임워크",
+          "imageUrl": "https://social.news.hada.io/topic/6726"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6725",
+          "author": null,
+          "description": "Cache Inconsistency\ncache server가 db에서 x에 대한 요청을 보내고 db가 x=42를 응답이 cache에 도착하기 전에\n\n외부에서 x=43 으로 업데이트하고, invalidation을 통해 x=43을 cache에게 전달함\ncache는 x=43을 받아서 반영함\nx=42 응답이 뒤늦게 도착하여 반영됨\n...",
+          "link": "https://news.hada.io/topic?id=6725",
+          "publishedOn": "2022-06-10T12:13:51.000Z",
+          "wordCount": 237,
+          "title": "Meta가 캐시 무효화를 쓰면서 캐시 일관성을 유지하는 방법 (번역)",
+          "imageUrl": "https://social.news.hada.io/topic/6725"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6724",
           "author": null,
           "description": "이번 주말에 뭘 하려고 계획 중인지 편하게 얘기해 보아요.\n읽을 책, 가볼 곳, 해볼 것.. 어떤 것이든 좋습니다.\n지난 주말에 계획하셨던 일의 회고도 한번 남겨봐 주세요.",
-          "link": "https://news.hada.io/topic?id=6543",
-          "publishedOn": "2022-05-13T02:13:06.000Z",
-          "wordCount": 175,
+          "link": "https://news.hada.io/topic?id=6724",
+          "publishedOn": "2022-06-10T03:13:15.000Z",
+          "wordCount": 140,
           "title": "Ask GN: 이번 주말에 뭐 하시나요?",
-          "imageUrl": "https://social.news.hada.io/topic/6543"
+          "imageUrl": "https://social.news.hada.io/topic/6724"
         },
         {
-          "id": "https://news.hada.io/topic?id=6542",
+          "id": "https://news.hada.io/topic?id=6723",
           "author": null,
-          "description": "서비스 공개 후 5년만에 Workers Runtime을 Apache 2.0 라이센스로 오픈소스 릴리즈",
-          "link": "https://news.hada.io/topic?id=6542",
-          "publishedOn": "2022-05-13T01:15:22.000Z",
-          "wordCount": 88,
-          "title": "Cloudflare Workers 오픈소스로 공개",
-          "imageUrl": "https://social.news.hada.io/topic/6542"
+          "description": "함수형 언어 하스켈을 이용해서 Jekyll/Gatsby 같은 정적 사이트 생성기를 만드는 방법을 배우는 튜토리얼입니다.\n하스켈을 만들면서 프로젝트도 만들 수 있는 구성이기 때문에, 아래에 하나라도 해당이 된다면 도움이 될 것 같습니다.\n함수형 언어를 배우는데 관심이 있는 사람\n프로젝",
+          "link": "https://news.hada.io/topic?id=6723",
+          "publishedOn": "2022-06-10T02:01:10.000Z",
+          "wordCount": 125,
+          "title": "Haskell로 정적 사이트 생성기 만들기 튜토리얼",
+          "imageUrl": "https://social.news.hada.io/topic/6723"
         },
         {
-          "id": "https://news.hada.io/topic?id=6541",
+          "id": "https://news.hada.io/topic?id=6722",
           "author": null,
-          "description": "GIL(Global Interpreter Lock)이 없는 파이썬을 만들어 보려는 nogil 현재 상황 정리\nSam Gross가 10월 2021년 PoC 코드(GIL 없는 멀티쓰레디드 파이썬)를 공개\n2022 서밋에서 파이썬 3.12에 새로운 컴파일러 플래그를 제안(기존 제안은 런타임 플래그)\n\n코어 개발자들로 부터 흥분 ...",
-          "link": "https://news.hada.io/topic?id=6541",
-          "publishedOn": "2022-05-13T01:01:27.000Z",
-          "wordCount": 191,
-          "title": "2022 파이썬 언어 써밋 : Python without the GIL",
-          "imageUrl": "https://social.news.hada.io/topic/6541"
+          "description": "[ Android Studio Dolphin ]\nJetpack Compose\nCompose 애니메이션 조정\nCompose 다중 미리보기 Annotation\nLayout Inspector의 Compose 재구성 횟수\nWear OS\nWear OS 에뮬레이터 페어링 어시스턴트\nWear OS 에뮬레이터 사이드 툴바...",
+          "link": "https://news.hada.io/topic?id=6722",
+          "publishedOn": "2022-06-10T01:46:01.000Z",
+          "wordCount": 141,
+          "title": "Google I/O 2022에서 발표한 Android 개발 도구 업데이트 정리",
+          "imageUrl": "https://social.news.hada.io/topic/6722"
         },
         {
-          "id": "https://news.hada.io/topic?id=6540",
+          "id": "https://news.hada.io/topic?id=6721",
           "author": null,
-          "description": "모바일에서 멀티플랫폼 프레임워크로 가는 완성\n애플 실리콘 지원(유니버설 바이너리)\nMaterial Design 3\nFlutter/Firebase 연동이 Firebase 코어에 통합(소스 및 문서)되어 더 많은 지원을 받게 될 것\nFlutter Casual Games To...",
-          "link": "https://news.hada.io/topic?id=6540",
-          "publishedOn": "2022-05-13T00:48:51.000Z",
-          "wordCount": 105,
-          "title": "Flutter 3 공개",
-          "imageUrl": "https://social.news.hada.io/topic/6540"
+          "description": "쿠버네티스 클러스터로 들어오는 트래픽을 미러링해서 로컬에서 똑같이 테스팅 가능\n미러링할 Pod를 선택하면 클라우드 환경에 이를 생성하고, 트래픽을 복사해서 로컬 프로세스로 전달\nVSCode 확장 및 CLI 도구 제공\n\n...",
+          "link": "https://news.hada.io/topic?id=6721",
+          "publishedOn": "2022-06-10T01:19:01.000Z",
+          "wordCount": 121,
+          "title": "mirrord - 프로덕션 트래픽을 개발 환경으로 미러링 해주는 오픈소스",
+          "imageUrl": "https://social.news.hada.io/topic/6721"
         },
         {
-          "id": "https://news.hada.io/topic?id=6539",
+          "id": "https://news.hada.io/topic?id=6720",
           "author": null,
-          "description": "픽셀 워치\n픽셀 7 / 7 Pro / 6A\n픽셀 버즈 프로\n픽셀 타블렛\n구글 검색 (Scene exploration)\n구글 어시스턴트 (Look and talk, Quick phrases)\n안드로이드 13\n구글 월렛\n폰허브 & Fast Pair\nAR 글래스\n\n...",
-          "link": "https://news.hada.io/topic?id=6539",
-          "publishedOn": "2022-05-13T00:28:47.000Z",
-          "wordCount": 131,
-          "title": "Google I/O 2022 키노트 18분 요약 by Verge",
-          "imageUrl": "https://social.news.hada.io/topic/6539"
+          "description": "애플 M1 칩에서 윈도우를 실행하기 위한 프로젝트\nM1은 표준 ARM64 칩과는 많이 다름\nAsahi Linux 에서 많은 작업을 해뒀지만, 윈도우를 위해서는 다른 추가 작업들이 필요\nM1에서 윈도우 실행이 어려운 이유...",
+          "link": "https://news.hada.io/topic?id=6720",
+          "publishedOn": "2022-06-10T00:52:01.000Z",
+          "wordCount": 123,
+          "title": "M1 Windows Project",
+          "imageUrl": "https://social.news.hada.io/topic/6720"
         },
         {
-          "id": "https://news.hada.io/topic?id=6538",
+          "id": "https://news.hada.io/topic?id=6719",
           "author": null,
-          "description": "요즘 Google 검색은 매우 실망스럽다\n대안적 검색 : DuckDuckGo, Neeva\n부티크 검색 : 검색의 기회는 거대한 수평적 애그리게이터로 구글을 정면 공격하는 것이 아니라 새로운 방식으로 사물을 색인화하고, 선별하고, 정리하...",
-          "link": "https://news.hada.io/topic?id=6538",
-          "publishedOn": "2022-05-13T00:10:21.000Z",
-          "wordCount": 202,
-          "title": "검색의 미래는 부티크다 (a16z 글 번역 및 요약)",
-          "imageUrl": "https://social.news.hada.io/topic/6538"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6537",
-          "author": null,
-          "description": "스테이블코인은 코인계의 예금\n미 달러화와 페깅\n담보방식의 문제\n알고리즘으로 풀어보자\n지난 3일간 테라에 생긴 일\n흔들리는 신뢰\n이것이 바로 뱅크런\nNot Stable",
-          "link": "https://news.hada.io/topic?id=6537",
-          "publishedOn": "2022-05-12T23:59:22.000Z",
-          "wordCount": 143,
-          "title": "테라?, 루나?, 스테이블 코인? 대체 무슨일?",
-          "imageUrl": "https://social.news.hada.io/topic/6537"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6536",
-          "author": null,
-          "description": "Google I/O 에서 발표한\n이렇게 모아두니 2022년에도 개선된 게 정말 많군요!",
-          "link": "https://news.hada.io/topic?id=6536",
-          "publishedOn": "2022-05-12T22:54:25.000Z",
-          "wordCount": 69,
-          "title": "State of CSS 2022",
-          "imageUrl": "https://social.news.hada.io/topic/6536"
+          "description": "실시간 상태 모니터링\n위젯을 이용한 정보 및 동적 콘텐츠 정보 표시\n이름/도메인/태그로 검색\n많은 내장 색상 테마 및 커스텀 CSS 지원. 다양한 아이콘 지원\n멀티 유저 인증 및 SSO 지원\nDocker/베어메탈\n싱글 YAML 파일 설정 및 UI를 통해서 가능",
+          "link": "https://news.hada.io/topic?id=6719",
+          "publishedOn": "2022-06-10T00:35:01.000Z",
+          "wordCount": 120,
+          "title": "Dashy - 개인 서버용 스타트 페이지 오픈소스",
+          "imageUrl": "https://social.news.hada.io/topic/6719"
         }
       ]
     },
