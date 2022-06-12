@@ -163,12 +163,22 @@
       "siteUrl": "https://rastalion.me",
       "articles": [
         {
+          "id": "https://rastalion.me/?p=2546",
+          "author": "Rasta Lion",
+          "description": "Aurora v1 EOL을 대처 하는 우리의 자세 (feat. MySQL 5.6) End of Life! 그렇게 EOL 입니다. MySQL 5.6을 기반으로 하는 AWS의 Aurora v1 버전의 EOL 소식이  들려오고 있습니다. AWS Aurora v1 EOL 소식 2023년 2월을...\nThe post Aurora v1 EOL을 대처 하는 우리의 자세 (feat. MySQL 5.6) appeared first on RastaLion's IT Blog.",
+          "link": "https://rastalion.me/aurora-v1-eol%ec%9d%84-%eb%8c%80%ec%b2%98-%ed%95%98%eb%8a%94-%ec%9a%b0%eb%a6%ac%ec%9d%98-%ec%9e%90%ec%84%b8-feat-mysql-5-6/",
+          "publishedOn": "2022-06-11T13:19:35.000Z",
+          "wordCount": 1148,
+          "title": "Aurora v1 EOL을 대처 하는 우리의 자세 (feat. MySQL 5.6)",
+          "imageUrl": "https://rastalion.me/wp-content/uploads/2019/04/mysql_PNG19-300x300.png"
+        },
+        {
           "id": "https://rastalion.me/?p=2535",
           "author": "Rasta Lion",
           "description": "MongoDB 5.0 Time Series MongoDB가 5.x 버전으로 릴리즈 되면서 추가된 유용한 기능 중에 하나가 바로 Time Series 컬렉션을 활용할 수 있다는 것 입니다. 쉽게 표현하면 시계열 데이터를 저장하는 기능인데 더 쉽게 표현하면 일정 시간...\nThe post MongoDB 5.0 Time Series appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/mongodb_timeseries/",
           "publishedOn": "2022-06-03T05:48:26.000Z",
-          "wordCount": 1110,
+          "wordCount": 1121,
           "title": "MongoDB 5.0 Time Series",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2020/04/37_2019081518484308.jpg"
         },
@@ -178,7 +188,7 @@
           "description": "MongoDB에서 Sequence 사용하기 on Node.js MongoDB는 Oracle이나 PostgreSQL의 Sequence나 MySQL의 Auto Increment 같은 기능이 없습니다.  반면 MongoDB에 익숙한 사람들은 12-byte로된 Object_ID에 더 익숙할겁니다.  MongoDB는 자동 증가 시퀀스를 기본 기능으로 지원하지 않지만 이 기능은 카운터...\nThe post MongoDB에서 Sequence 사용하기 on Node.js appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/mongodb-sequence-on-node-js/",
           "publishedOn": "2022-05-25T01:25:28.000Z",
-          "wordCount": 724,
+          "wordCount": 691,
           "title": "MongoDB에서 Sequence 사용하기 on Node.js",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2020/04/37_2019081518484308.jpg"
         },
@@ -188,7 +198,7 @@
           "description": "Database Specialist or Generalist ?! 서론 이런 글을 쓰게 된 이유는 최근 들어 많이 생각하게되고, 주변 DBA분들이나 비슷한 종사자 엔지니어들과 교류하면서 느낀점이 있기 때문입니다. DBA라는 포지션은 지금까지 대부분 스페셜리스트였습니다. Oracle이 DBA의 대세였던 시절부터, Engineer...\nThe post Database Specialist or Generalist ?! appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/database-specialist-or-generalist/",
           "publishedOn": "2022-05-23T01:00:21.000Z",
-          "wordCount": 1236,
+          "wordCount": 1237,
           "title": "Database Specialist or Generalist ?!",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2021/04/sm_5b46d890d85b8-300x300.jpg"
         },
@@ -198,7 +208,7 @@
           "description": "MERN Stack 이란? 최근 MongoDB에 대한 자료들을 찾아보다 보면 해외 사이트들에서 쉽게 접할 수 있는 단어입니다. 꽤 인기있는 것으로 Udemy 같은 온라인 교육 사이트에는 MERN Stack에 대한 통합 교육과정도 업로드 되고 있습니다. MERN은 스택을 구성하는...\nThe post MERN Stack 이란? appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/mern-stack-%ec%9d%b4%eb%9e%80/",
           "publishedOn": "2022-05-20T16:20:29.000Z",
-          "wordCount": 918,
+          "wordCount": 923,
           "title": "MERN Stack 이란?",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2020/04/37_2019081518484308.jpg"
         }
@@ -209,6 +219,46 @@
       "feedUrl": "https://news.hada.io/rss/news",
       "siteUrl": "https://news.hada.io",
       "articles": [
+        {
+          "id": "https://news.hada.io/topic?id=6732",
+          "author": null,
+          "description": "라즈베리 파이 나 Ubuntu/Debian 시스템에 설치 가능\nNextCloud, PhotoPrism 등으로 구글 서비스 대체\n비트코인 / 라이트닝 노드 실행\n앱스토어 제공 : PiHole, Syncthing, Home Assistant, Node-RED 등 쉽게 설치 가능\n\n...",
+          "link": "https://news.hada.io/topic?id=6732",
+          "publishedOn": "2022-06-12T00:56:08.000Z",
+          "wordCount": 114,
+          "title": "Umbrel - 셀프호스팅을 위한 개인용 서버 OS",
+          "imageUrl": "https://social.news.hada.io/topic/6732"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6731",
+          "author": null,
+          "description": "만약 OpenSSL이 GUI 였다면",
+          "link": "https://news.hada.io/topic?id=6731",
+          "publishedOn": "2022-06-12T00:43:41.000Z",
+          "wordCount": 53,
+          "title": "만약 OpenSSL이 GUI 였다면",
+          "imageUrl": "https://social.news.hada.io/topic/6731"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6730",
+          "author": null,
+          "description": "1999년에 출간된 \"Code: The Hidden Language of Computer Hardware and Software\"\n2022년 8월 19일에 2판 출간 예정(영문)\n2021년 1월부터 수정 시작해서 약 70페이지 늘어남 (Intel 8080을 예로제로 사용해서 CPU작동에 대해서 훨씬 더 깊이 들어간다고)\n또한 책 내부에...",
+          "link": "https://news.hada.io/topic?id=6730",
+          "publishedOn": "2022-06-12T00:38:48.000Z",
+          "wordCount": 114,
+          "title": "찰스 페졸드의 CODE 2판 발표",
+          "imageUrl": "https://social.news.hada.io/topic/6730"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6729",
+          "author": null,
+          "description": "eslint, prettier 같은 린터와 포맷터들을 이 도구 하나로 모두 커버 가능\nCI/CD에도 통합가능하며, 현재 VSCode 를 지원함",
+          "link": "https://news.hada.io/topic?id=6729",
+          "publishedOn": "2022-06-11T07:49:52.000Z",
+          "wordCount": 94,
+          "title": "Trunk Check - 모든 린터와 포맷터를 실행하는 단일 CLI",
+          "imageUrl": "https://social.news.hada.io/topic/6729"
+        },
         {
           "id": "https://news.hada.io/topic?id=6728",
           "author": null,
@@ -255,7 +305,7 @@
           "description": "이번 주말에 뭘 하려고 계획 중인지 편하게 얘기해 보아요.\n읽을 책, 가볼 곳, 해볼 것.. 어떤 것이든 좋습니다.\n지난 주말에 계획하셨던 일의 회고도 한번 남겨봐 주세요.",
           "link": "https://news.hada.io/topic?id=6724",
           "publishedOn": "2022-06-10T03:13:15.000Z",
-          "wordCount": 140,
+          "wordCount": 207,
           "title": "Ask GN: 이번 주말에 뭐 하시나요?",
           "imageUrl": "https://social.news.hada.io/topic/6724"
         },
@@ -268,46 +318,6 @@
           "wordCount": 125,
           "title": "Haskell로 정적 사이트 생성기 만들기 튜토리얼",
           "imageUrl": "https://social.news.hada.io/topic/6723"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6722",
-          "author": null,
-          "description": "[ Android Studio Dolphin ]\nJetpack Compose\nCompose 애니메이션 조정\nCompose 다중 미리보기 Annotation\nLayout Inspector의 Compose 재구성 횟수\nWear OS\nWear OS 에뮬레이터 페어링 어시스턴트\nWear OS 에뮬레이터 사이드 툴바...",
-          "link": "https://news.hada.io/topic?id=6722",
-          "publishedOn": "2022-06-10T01:46:01.000Z",
-          "wordCount": 141,
-          "title": "Google I/O 2022에서 발표한 Android 개발 도구 업데이트 정리",
-          "imageUrl": "https://social.news.hada.io/topic/6722"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6721",
-          "author": null,
-          "description": "쿠버네티스 클러스터로 들어오는 트래픽을 미러링해서 로컬에서 똑같이 테스팅 가능\n미러링할 Pod를 선택하면 클라우드 환경에 이를 생성하고, 트래픽을 복사해서 로컬 프로세스로 전달\nVSCode 확장 및 CLI 도구 제공\n\n...",
-          "link": "https://news.hada.io/topic?id=6721",
-          "publishedOn": "2022-06-10T01:19:01.000Z",
-          "wordCount": 121,
-          "title": "mirrord - 프로덕션 트래픽을 개발 환경으로 미러링 해주는 오픈소스",
-          "imageUrl": "https://social.news.hada.io/topic/6721"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6720",
-          "author": null,
-          "description": "애플 M1 칩에서 윈도우를 실행하기 위한 프로젝트\nM1은 표준 ARM64 칩과는 많이 다름\nAsahi Linux 에서 많은 작업을 해뒀지만, 윈도우를 위해서는 다른 추가 작업들이 필요\nM1에서 윈도우 실행이 어려운 이유...",
-          "link": "https://news.hada.io/topic?id=6720",
-          "publishedOn": "2022-06-10T00:52:01.000Z",
-          "wordCount": 123,
-          "title": "M1 Windows Project",
-          "imageUrl": "https://social.news.hada.io/topic/6720"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6719",
-          "author": null,
-          "description": "실시간 상태 모니터링\n위젯을 이용한 정보 및 동적 콘텐츠 정보 표시\n이름/도메인/태그로 검색\n많은 내장 색상 테마 및 커스텀 CSS 지원. 다양한 아이콘 지원\n멀티 유저 인증 및 SSO 지원\nDocker/베어메탈\n싱글 YAML 파일 설정 및 UI를 통해서 가능",
-          "link": "https://news.hada.io/topic?id=6719",
-          "publishedOn": "2022-06-10T00:35:01.000Z",
-          "wordCount": 120,
-          "title": "Dashy - 개인 서버용 스타트 페이지 오픈소스",
-          "imageUrl": "https://social.news.hada.io/topic/6719"
         }
       ]
     },
@@ -317,12 +327,22 @@
       "siteUrl": "https://jojoldu.tistory.com/",
       "articles": [
         {
+          "id": "https://jojoldu.tistory.com/674",
+          "author": "향로",
+          "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\n팀 분들과 함께 NextStep - 이펙티브 코틀린 강좌를 수강하고 있다. \n최근에 과제 회고를 처음 진행했는데, 이때 나온 주제가 테스트 하기 좋은 코드였다. \n이 주제는 사실 이미 너무 많이 회자된 주제이긴하다. \n대표적으로 아래 2개가 가장 대표적이다.\n정진욱님 - Testing, Oh my!\n권용근님 - 무엇을 테스트할 것인가\n이들을 다 보았다면, 굳이 이 글을 볼 필요는 없다.\n이미 잘 정리된 글과 영상이지만, 현재 팀의 분들을 위해서 조금 정리하게 되었다.\n뒤에 이어 쓸 Active Record vs Data Mapper의 빌드업이기도 하다.\n이 글에서는 테스트하기 어려운 코드 대해 이야기해보려고 한다.\n1. 테스트 하기 좋은 코드?\n여기서 이야기하는 테스트는 단위 테스트를 의미한다. \nE2E 테스트는 여기서 이야기하는 테스트와 구현, 설계와는 다르다.\n테스트 코드 작성의 어려움을 팀원들을 보면 본인이 테스트 코드를 작성해본 경험이 부족해서 혹은 테스트 프레임워크 (JUnit, Jest, Mocha 등) 숙련도가 떨어지기 때문이라고 생각하는 경우를 종종 본다.\n하지만 테스트 코드 작성 경험, 테스트 프레임워크 숙련도로 인한 어려움은 생각보다 큰 이유가 아니다. \n경험상 대부분은 테스트를 작성하기 어려운 구현체 때문이다.\n테스트하기 어렵도룩 구현되었기 때문에 테스트 코드 작성이 어려운 것이지, 도구…",
+          "link": "https://jojoldu.tistory.com/674",
+          "publishedOn": "2022-06-11T09:03:38.000Z",
+          "wordCount": 1114,
+          "title": "1. 테스트하기 좋은 코드 - 테스트하기 어려운 코드",
+          "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fbqzb6L%2FbtrEvNnOOFZ%2FTRZgi9sz2cpAkbZxs5Iyd1%2Fimg.png"
+        },
+        {
           "id": "https://jojoldu.tistory.com/673",
           "author": "향로",
           "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\nGithub 의 코드리뷰를 보면 다음과 같이 No newline at end of file 메세지를 보여준다\n이는 파일 끝에 개행문자(newline)이 없습니다 라는 의미인데, POSIX 기반의 규칙에 기반한다. \nEOF 가 없으면 컴파일 에러가 나는 상황을 대비한 규칙이다. \n요즘 그럴일은 없지만 그래도 의도한대로 파일이 작동되는 것을 보장하기 위해 웬만해선 자동으로 규칙을 정해놓고 관리하는 것을 추천한다.\n이를 매번 파일 생성때마다 수동으로 계행문자를 넣는 것은 꽤나 불편한 일이다. \n그래서 자동으로 해결하는 방법은 크게 2가지이다.\n1. IDE 설정으로 해결하기\n가장 쉬운 방법은 IDE의 설정으로 항상 파일 끝에 newline을 추가하도록 하는 것이다.\nIDE 설정 (Settings/Preferences) 을 열어 Ensure every saved file ends 을 검색한다.\n아래와 같이 Ensure every saved file ends 항목을 체크한다.\n이렇게 하면 파일을 저장할때마다 항상 newline을 추가한다.\n다만, 이 방법을 추천하진 않는다. \n웬만하면 아래 2번째 방법을 사용하자.\n2. EditorConfig로 프로젝트 자체 설정으로 해결하기\nIDE 설정을 수정하기 보다는 editorconfig로 설정을 하는 것이 프로젝트 관리하는데 있어서 편하다.\n개발환경이 집/회사/개인노트북 등 여러 곳에 분산되어서 개발해야하는 경우\n나 외에 다른 사람들도 같이 개발해야하는 경우\n등등 IDE 설정을 매번 하기보다는 .editorconfig 로 하는 것을 강력 추천 한다.\nEditorConfig 는 코드 스타일을 관리하는 표준 도구이다. \n대부분의 IDE에서 이를 지원하기 때문에 파일 저장시 각종 규칙에 맞게 일관된 코드 스타일을 관리할 수 있다.\nKtlint 를 쓰더라도 EditorConfig 를 사용하는 이유는 다음과 같다.\n출처: benelog님의 블로그\n(이미 benelog님이 너무 잘 정리해주셔서) 위 이유 중에서\n코드 포맷의 문서 역할\nktlint 업데이트로 인해 변경되는 규칙 보장\n이 2가지에 굉장히 공감하기 때문에 .editorconfig 을 설정하는 것을 추천한다.\n젯브레인 계열 IDE에서는 다음과 같이 .editorconfig 를 생성할 수 있다. \n(그냥 파일을 생성해도 된다.)\n프로젝트 선택후 우클릭 -> New 를 선택하고 (Mac 단축키로는 Command + N)\n해당 목록에서 EditorConfig File 을 선택한다. \n그럼 다음과 같이 여러 옵션으로 생성이 가능하다. \n이미 사용할 포맷이 있기 때문에 아무 옵션도 선택하지 않고 OK 를 누른다.\n생성된 .editorconfig 에 아래와 같이 무난한 Kotlin 옵션을 추가한다.\nroot = true\n\n[*]\ncharset = utf-8\nend_of_line = lf\nindent_size = 4\nindent_style = space\ntrim_trailing_whitespace = true\ninsert_final_newline = true\nmax_line_length = 120\ntab_width = 4\n\n[*.{kt,kts}]\ndisabled_rules=import-ordering\n출처: benelog님의 블로그\n이와 같이 설정하면 파일 저장시마다 설정된 옵션에 따라 파일이 정리된다.\n젯브레인 계열 IDE에서 EditorConfig를 사용하는 자세한 방법은 공식 문서를 참고하면 좋다\n            \n반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({});",
           "link": "https://jojoldu.tistory.com/673",
           "publishedOn": "2022-06-04T13:46:03.000Z",
-          "wordCount": 524,
+          "wordCount": 526,
           "title": "IntelliJ (Kotlin) 매 파일마다 newline 자동으로 추가하기 (feat. EditorConfig)",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbtuD8A%2FbtrDWKkJzus%2Fomv7pAdT3C6BgkfY6YSh7k%2Fimg.png"
         },
@@ -332,7 +352,7 @@
           "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\n\n최근에 들었던 질문 중 현실 세계의 식별자를 데이터베이스 기본키로 써도 되냐는 것이 있었다. \n이를테면 현실 세계에서 유일함을 보장하는 값들이다.\n주민 등록 번호\n전화 번호\n여권 번호\n이들을 데이터베이스의 기본키 (PK) 로 지정해서 쓰는게 어떤가 하는 것이다.\n최근의 ORM 예제들을 보면 auto_increment 혹은 uuid 등 개발자가 직접 생성한 기본키을 지정하는데, 왜 그렇게 하는지 모르겠다는 이야기도 들었다.\n(나 뿐만 아니라 여러 개발자분들이 같은 생각을 하실것 같은데) 기본키는 절대 바뀌지 않아야 한다.\n기본키를 수정하는 것은 항상 많은 문제를 일으킨다. \n대부분의 기본키가 여러 테이블의 FK와 인덱스로 지정되어 사용되기 때문이다.\n더군다나 위와 같이 현실 세계의 값들은 사용자들이 직접 입력한 값일 경우가 많다.\n입력된 값에 오타가 있으면 어떻게 될까? \n이미 그 값은 PK와 여러 테이블의 FK로 사용되고 있다면, 그 오타를 수정하기 위해 얼마나 많은 비용이 들까? \n기본키를 수정 하기 위해서는 너무나 큰 비용이 든다.\n그래서 기본키는 절대 변경되지 않는 속성을 사용해야만 한다. \n하지만 현실 세계의 속성은 변경을 내가 제어할 수가 없다. \n주민 등록 번호, 전화 번호, 여권 번호 등 현실 세계의 값들은 상황에 따라 언제든 변경 될 수 있다.\n실제로 2014년에 주민등록번호 수집이 금지되었다.\n\n그전까지 주민등록번호를 기본키로 갖고 있던 곳들은 호되게 혼났던 것을 듣기도 했다.\n흔히 견고한 소프트웨어를 위해서는 코드가 외부에 의존해서는 안된다고 한다. \n현실 세계의 값을 기본키로 사용하는 것은 외부에 의존하는 것이다.\n현실 세계의 변화와 시스템간의 결합도를 줄여야 한다. \n내가 제어할 수 없는 값에 시스템이 의존해서는 안된다.\n            \n반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({});",
           "link": "https://jojoldu.tistory.com/672",
           "publishedOn": "2022-05-31T14:19:23.000Z",
-          "wordCount": 369,
+          "wordCount": 371,
           "title": "현실 세계의 속성에 의존하지 않기",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2F9KStj%2FbtrDHFQA6s7%2FWEcm0CDtK4oFyic6cnZTH1%2Fimg.png"
         },
@@ -342,7 +362,7 @@
           "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\nNextStep의 이펙티브 코틀린 with TDD, Refactoring, Clean Code 을 수강중이다.\n내가 작성한 코드에 대해 이렇게 많이 리뷰 받는게 오랫만이다\n이번에 받은 리뷰중에서는 납득이 잘 안되는게 있어서 리뷰어이신 재성님(Jason) 과 이런저런 토론을 진행했었다.\n논의\n논의 대상인 코드는 public 함수 하나(main)만 존재하기 때문에 파일명을 main.kt로 만들었다.\n이에 대해 재성님은 소스 파일은 전부 PascalCase를 쓰는게 좋다는 의견이셨다.\n이에 대한 이유는 Kotlin Convention 에서 UpperCamelCase (PascalCase) 을 추천하기 때문이였다.\n안드로이드 코틀린 공식 가이드에서도 소스 파일에 대해서는 PascalCase를 언급하기도 한다.\n반면 내 생각은 기본적으로는 PascalCase 를 가져가더라도 public 함수 1개만 존재하는 경우 (private 함수는 몇개가 있어도 관계 없이) 오히려 그 함수를 나타내는 파일명이 더 좋다 라는 것이다.\n실제로 지금 JS/TS 프로젝트에서 그렇게 하고 있고 좋다고 느꼈다.\n재성님과 이야기 나누면서 서로 먼저 전제한 부분은 다음과 같다\n꼭 클래스나 함수명에 맞춰서 파일명을 지을 필요는 없다.\n\n여러 클래스, 함수가 복합적으로 있는 파일도 있기 때문이다.\nex) Maps 등\n해당 파일의 코드들이 무엇을 …",
           "link": "https://jojoldu.tistory.com/671",
           "publishedOn": "2022-05-17T01:00:38.000Z",
-          "wordCount": 542,
+          "wordCount": 544,
           "title": "(Kotlin) 단일 함수만 존재하는 경우 파일명은 어떻게 해야할까?",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FAdDsl%2FbtrColsyJea%2F03dWoebymPAAuv2RZzfWkk%2Fimg.png"
         }

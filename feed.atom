@@ -1,10 +1,102 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-11T01:42:33.484Z</id>
+    <id>urn:2022-06-12T01:53:49.676Z</id>
     <title>osmos::feed</title>
-    <updated>2022-06-11T01:42:33.484Z</updated>
+    <updated>2022-06-12T01:53:49.676Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Umbrel - 셀프호스팅을 위한 개인용 서버 OS]]></title>
+        <id>https://news.hada.io/topic?id=6732</id>
+        <link href="https://news.hada.io/topic?id=6732"/>
+        <updated>2022-06-12T00:56:08.000Z</updated>
+        <summary type="html"><![CDATA[라즈베리 파이 나 Ubuntu/Debian 시스템에 설치 가능
+NextCloud, PhotoPrism 등으로 구글 서비스 대체
+비트코인 / 라이트닝 노드 실행
+앱스토어 제공 : PiHole, Syncthing, Home Assistant, Node-RED 등 쉽게 설치 가능
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[만약 OpenSSL이 GUI 였다면]]></title>
+        <id>https://news.hada.io/topic?id=6731</id>
+        <link href="https://news.hada.io/topic?id=6731"/>
+        <updated>2022-06-12T00:43:41.000Z</updated>
+        <summary type="html"><![CDATA[만약 OpenSSL이 GUI 였다면]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[찰스 페졸드의 CODE 2판 발표]]></title>
+        <id>https://news.hada.io/topic?id=6730</id>
+        <link href="https://news.hada.io/topic?id=6730"/>
+        <updated>2022-06-12T00:38:48.000Z</updated>
+        <summary type="html"><![CDATA[1999년에 출간된 "Code: The Hidden Language of Computer Hardware and Software"
+2022년 8월 19일에 2판 출간 예정(영문)
+2021년 1월부터 수정 시작해서 약 70페이지 늘어남 (Intel 8080을 예로제로 사용해서 CPU작동에 대해서 훨씬 더 깊이 들어간다고)
+또한 책 내부에...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aurora v1 EOL을 대처 하는 우리의 자세 (feat. MySQL 5.6)]]></title>
+        <id>https://rastalion.me/?p=2546</id>
+        <link href="https://rastalion.me/aurora-v1-eol%ec%9d%84-%eb%8c%80%ec%b2%98-%ed%95%98%eb%8a%94-%ec%9a%b0%eb%a6%ac%ec%9d%98-%ec%9e%90%ec%84%b8-feat-mysql-5-6/"/>
+        <updated>2022-06-11T13:19:35.000Z</updated>
+        <summary type="html"><![CDATA[Aurora v1 EOL을 대처 하는 우리의 자세 (feat. MySQL 5.6) End of Life! 그렇게 EOL 입니다. MySQL 5.6을 기반으로 하는 AWS의 Aurora v1 버전의 EOL 소식이  들려오고 있습니다. AWS Aurora v1 EOL 소식 2023년 2월을...
+The post Aurora v1 EOL을 대처 하는 우리의 자세 (feat. MySQL 5.6) appeared first on RastaLion's IT Blog.]]></summary>
+        <author>
+            <name>Rasta Lion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1. 테스트하기 좋은 코드 - 테스트하기 어려운 코드]]></title>
+        <id>https://jojoldu.tistory.com/674</id>
+        <link href="https://jojoldu.tistory.com/674"/>
+        <updated>2022-06-11T09:03:38.000Z</updated>
+        <summary type="html"><![CDATA[반응형
+
+                    
+                    (adsbygoogle = window.adsbygoogle || []).push({}); 
+               
+
+팀 분들과 함께 NextStep - 이펙티브 코틀린 강좌를 수강하고 있다. 
+최근에 과제 회고를 처음 진행했는데, 이때 나온 주제가 테스트 하기 좋은 코드였다. 
+이 주제는 사실 이미 너무 많이 회자된 주제이긴하다. 
+대표적으로 아래 2개가 가장 대표적이다.
+정진욱님 - Testing, Oh my!
+권용근님 - 무엇을 테스트할 것인가
+이들을 다 보았다면, 굳이 이 글을 볼 필요는 없다.
+이미 잘 정리된 글과 영상이지만, 현재 팀의 분들을 위해서 조금 정리하게 되었다.
+뒤에 이어 쓸 Active Record vs Data Mapper의 빌드업이기도 하다.
+이 글에서는 테스트하기 어려운 코드 대해 이야기해보려고 한다.
+1. 테스트 하기 좋은 코드?
+여기서 이야기하는 테스트는 단위 테스트를 의미한다. 
+E2E 테스트는 여기서 이야기하는 테스트와 구현, 설계와는 다르다.
+테스트 코드 작성의 어려움을 팀원들을 보면 본인이 테스트 코드를 작성해본 경험이 부족해서 혹은 테스트 프레임워크 (JUnit, Jest, Mocha 등) 숙련도가 떨어지기 때문이라고 생각하는 경우를 종종 본다.
+하지만 테스트 코드 작성 경험, 테스트 프레임워크 숙련도로 인한 어려움은 생각보다 큰 이유가 아니다. 
+경험상 대부분은 테스트를 작성하기 어려운 구현체 때문이다.
+테스트하기 어렵도룩 구현되었기 때문에 테스트 코드 작성이 어려운 것이지, 도구…]]></summary>
+        <author>
+            <name>향로</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trunk Check - 모든 린터와 포맷터를 실행하는 단일 CLI]]></title>
+        <id>https://news.hada.io/topic?id=6729</id>
+        <link href="https://news.hada.io/topic?id=6729"/>
+        <updated>2022-06-11T07:49:52.000Z</updated>
+        <summary type="html"><![CDATA[eslint, prettier 같은 린터와 포맷터들을 이 도구 하나로 모두 커버 가능
+CI/CD에도 통합가능하며, 현재 VSCode 를 지원함]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Apple 디자인 어워드 2022년 수상작]]></title>
         <id>https://news.hada.io/topic?id=6728</id>
@@ -102,66 +194,6 @@ x=42 응답이 뒤늦게 도착하여 반영됨
 하스켈을 만들면서 프로젝트도 만들 수 있는 구성이기 때문에, 아래에 하나라도 해당이 된다면 도움이 될 것 같습니다.
 함수형 언어를 배우는데 관심이 있는 사람
 프로젝]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google I/O 2022에서 발표한 Android 개발 도구 업데이트 정리]]></title>
-        <id>https://news.hada.io/topic?id=6722</id>
-        <link href="https://news.hada.io/topic?id=6722"/>
-        <updated>2022-06-10T01:46:01.000Z</updated>
-        <summary type="html"><![CDATA[[ Android Studio Dolphin ]
-Jetpack Compose
-Compose 애니메이션 조정
-Compose 다중 미리보기 Annotation
-Layout Inspector의 Compose 재구성 횟수
-Wear OS
-Wear OS 에뮬레이터 페어링 어시스턴트
-Wear OS 에뮬레이터 사이드 툴바...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[mirrord - 프로덕션 트래픽을 개발 환경으로 미러링 해주는 오픈소스]]></title>
-        <id>https://news.hada.io/topic?id=6721</id>
-        <link href="https://news.hada.io/topic?id=6721"/>
-        <updated>2022-06-10T01:19:01.000Z</updated>
-        <summary type="html"><![CDATA[쿠버네티스 클러스터로 들어오는 트래픽을 미러링해서 로컬에서 똑같이 테스팅 가능
-미러링할 Pod를 선택하면 클라우드 환경에 이를 생성하고, 트래픽을 복사해서 로컬 프로세스로 전달
-VSCode 확장 및 CLI 도구 제공
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[M1 Windows Project]]></title>
-        <id>https://news.hada.io/topic?id=6720</id>
-        <link href="https://news.hada.io/topic?id=6720"/>
-        <updated>2022-06-10T00:52:01.000Z</updated>
-        <summary type="html"><![CDATA[애플 M1 칩에서 윈도우를 실행하기 위한 프로젝트
-M1은 표준 ARM64 칩과는 많이 다름
-Asahi Linux 에서 많은 작업을 해뒀지만, 윈도우를 위해서는 다른 추가 작업들이 필요
-M1에서 윈도우 실행이 어려운 이유...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dashy - 개인 서버용 스타트 페이지 오픈소스]]></title>
-        <id>https://news.hada.io/topic?id=6719</id>
-        <link href="https://news.hada.io/topic?id=6719"/>
-        <updated>2022-06-10T00:35:01.000Z</updated>
-        <summary type="html"><![CDATA[실시간 상태 모니터링
-위젯을 이용한 정보 및 동적 콘텐츠 정보 표시
-이름/도메인/태그로 검색
-많은 내장 색상 테마 및 커스텀 CSS 지원. 다양한 아이콘 지원
-멀티 유저 인증 및 SSO 지원
-Docker/베어메탈
-싱글 YAML 파일 설정 및 UI를 통해서 가능]]></summary>
         <author>
             <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
