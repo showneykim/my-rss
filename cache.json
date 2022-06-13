@@ -168,7 +168,7 @@
           "description": "Aurora v1 EOL을 대처 하는 우리의 자세 (feat. MySQL 5.6) End of Life! 그렇게 EOL 입니다. MySQL 5.6을 기반으로 하는 AWS의 Aurora v1 버전의 EOL 소식이  들려오고 있습니다. AWS Aurora v1 EOL 소식 2023년 2월을...\nThe post Aurora v1 EOL을 대처 하는 우리의 자세 (feat. MySQL 5.6) appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/aurora-v1-eol%ec%9d%84-%eb%8c%80%ec%b2%98-%ed%95%98%eb%8a%94-%ec%9a%b0%eb%a6%ac%ec%9d%98-%ec%9e%90%ec%84%b8-feat-mysql-5-6/",
           "publishedOn": "2022-06-11T13:19:35.000Z",
-          "wordCount": 1148,
+          "wordCount": 1145,
           "title": "Aurora v1 EOL을 대처 하는 우리의 자세 (feat. MySQL 5.6)",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2019/04/mysql_PNG19-300x300.png"
         },
@@ -178,7 +178,7 @@
           "description": "MongoDB 5.0 Time Series MongoDB가 5.x 버전으로 릴리즈 되면서 추가된 유용한 기능 중에 하나가 바로 Time Series 컬렉션을 활용할 수 있다는 것 입니다. 쉽게 표현하면 시계열 데이터를 저장하는 기능인데 더 쉽게 표현하면 일정 시간...\nThe post MongoDB 5.0 Time Series appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/mongodb_timeseries/",
           "publishedOn": "2022-06-03T05:48:26.000Z",
-          "wordCount": 1121,
+          "wordCount": 1117,
           "title": "MongoDB 5.0 Time Series",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2020/04/37_2019081518484308.jpg"
         },
@@ -188,7 +188,7 @@
           "description": "MongoDB에서 Sequence 사용하기 on Node.js MongoDB는 Oracle이나 PostgreSQL의 Sequence나 MySQL의 Auto Increment 같은 기능이 없습니다.  반면 MongoDB에 익숙한 사람들은 12-byte로된 Object_ID에 더 익숙할겁니다.  MongoDB는 자동 증가 시퀀스를 기본 기능으로 지원하지 않지만 이 기능은 카운터...\nThe post MongoDB에서 Sequence 사용하기 on Node.js appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/mongodb-sequence-on-node-js/",
           "publishedOn": "2022-05-25T01:25:28.000Z",
-          "wordCount": 691,
+          "wordCount": 721,
           "title": "MongoDB에서 Sequence 사용하기 on Node.js",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2020/04/37_2019081518484308.jpg"
         },
@@ -208,7 +208,7 @@
           "description": "MERN Stack 이란? 최근 MongoDB에 대한 자료들을 찾아보다 보면 해외 사이트들에서 쉽게 접할 수 있는 단어입니다. 꽤 인기있는 것으로 Udemy 같은 온라인 교육 사이트에는 MERN Stack에 대한 통합 교육과정도 업로드 되고 있습니다. MERN은 스택을 구성하는...\nThe post MERN Stack 이란? appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/mern-stack-%ec%9d%b4%eb%9e%80/",
           "publishedOn": "2022-05-20T16:20:29.000Z",
-          "wordCount": 923,
+          "wordCount": 922,
           "title": "MERN Stack 이란?",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2020/04/37_2019081518484308.jpg"
         }
@@ -220,12 +220,72 @@
       "siteUrl": "https://news.hada.io",
       "articles": [
         {
+          "id": "https://news.hada.io/topic?id=6738",
+          "author": null,
+          "description": "마이크로콘트롤러, WebAssembly(WASM/WASI) 및 CLI 도구 등에서 사용 가능\n대부분의 표준 라이브러리 패키지를 지원하며 수정없이 Go 코드 컴파일 가능\nLLVM을 내부적으로 이용해서 작고 효율적인 코드를 만들어 냄\n훌륭한 CGo 지원\n\n...",
+          "link": "https://news.hada.io/topic?id=6738",
+          "publishedOn": "2022-06-13T01:26:01.000Z",
+          "wordCount": 128,
+          "title": "TinyGo - LLVM기반의 소형 Go 컴파일러",
+          "imageUrl": "https://social.news.hada.io/topic/6738"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6737",
+          "author": null,
+          "description": "사용자를 Nudge 하되, 자동 리디렉션은 피하기\n위치/언어/통화 설정을 디커플링 하기\n사용자 설정 가능하게 하기 (통화, 타임존, 측정단위)\n논모달 창 사용 고려하기\n국가/언어를 섹션/탭/아코디언 등으로 조직화\n자동완성 추천으로 입력창 제공\n국가에...",
+          "link": "https://news.hada.io/topic?id=6737",
+          "publishedOn": "2022-06-13T01:03:02.000Z",
+          "wordCount": 118,
+          "title": "더 나은 언어 선택창 만들기",
+          "imageUrl": "https://social.news.hada.io/topic/6737"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6736",
+          "author": null,
+          "description": "세계 시계/날씨/단위&통화 변환/IP Echo 등 명령으로 지정된 특정 도메인 주소를 DNS  조회하면, 관련 정보를 TXT 레코드 값으로 리턴하는 DNS서버\n터미널에서 간단히 정보조회 할때 사용 가능\nGo 오픈소스\n세계 시계 : dig seoul.time @dns.toys\n\n날씨 ...",
+          "link": "https://news.hada.io/topic?id=6736",
+          "publishedOn": "2022-06-13T00:46:01.000Z",
+          "wordCount": 194,
+          "title": "DNS Toys - DNS 프로토콜을 이용한 작은 유틸리티 오픈소스",
+          "imageUrl": "https://social.news.hada.io/topic/6736"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6735",
+          "author": null,
+          "description": "(WEB2)(WEB3) → (WEB5)\nTBD는 트위터 창업자 Jack Dorsey의 Block(스퀘어)의 비트코인 중심 자회사\nWeb5 : 자신의 데이터와 아이덴티티를 제어 가능하게 해주는 더 탈 중앙화된 웹 플랫폼\nDecentralized Web Platform (DWP) 은\n개발자들이 Decentr",
+          "link": "https://news.hada.io/topic?id=6735",
+          "publishedOn": "2022-06-13T00:31:01.000Z",
+          "wordCount": 155,
+          "title": "TBD, Web5 발표",
+          "imageUrl": "https://social.news.hada.io/topic/6735"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6734",
+          "author": null,
+          "description": "실제 삶에서 인연이 있으신 분들 중에서 멘토나 존경하시는 분이 계신가요?\n계시다면 그 사연과 이유를 여쭈어보고 싶습니다.",
+          "link": "https://news.hada.io/topic?id=6734",
+          "publishedOn": "2022-06-12T23:39:52.000Z",
+          "wordCount": 79,
+          "title": "Ask GN: 실제 인연이 있는 분들중에 멘토나 존경하시는 분이 계신가요?",
+          "imageUrl": "https://social.news.hada.io/topic/6734"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6733",
+          "author": null,
+          "description": "FFMpeg을 이용하여 수백개 오디오/비디오 포맷 지원\n\n임포트 없이 직접 편집 가능\n멀티포맷 타임라인 : 한 프로젝트 내에서 다양한 해상도/프레임레이트 지원\n네트웍 스트림 재생(HTTP, HLS, RTMP, RTSP, MMS, UDP)\nHDR to SDR 톤매핑\n비디오 필터 및...",
+          "link": "https://news.hada.io/topic?id=6733",
+          "publishedOn": "2022-06-12T01:58:25.000Z",
+          "wordCount": 120,
+          "title": "Shotcut - 무료, 오픈소스, 크로스플랫폼 비디오 편집기",
+          "imageUrl": "https://social.news.hada.io/topic/6733"
+        },
+        {
           "id": "https://news.hada.io/topic?id=6732",
           "author": null,
           "description": "라즈베리 파이 나 Ubuntu/Debian 시스템에 설치 가능\nNextCloud, PhotoPrism 등으로 구글 서비스 대체\n비트코인 / 라이트닝 노드 실행\n앱스토어 제공 : PiHole, Syncthing, Home Assistant, Node-RED 등 쉽게 설치 가능\n\n...",
           "link": "https://news.hada.io/topic?id=6732",
           "publishedOn": "2022-06-12T00:56:08.000Z",
-          "wordCount": 114,
+          "wordCount": 118,
           "title": "Umbrel - 셀프호스팅을 위한 개인용 서버 OS",
           "imageUrl": "https://social.news.hada.io/topic/6732"
         },
@@ -235,17 +295,17 @@
           "description": "만약 OpenSSL이 GUI 였다면",
           "link": "https://news.hada.io/topic?id=6731",
           "publishedOn": "2022-06-12T00:43:41.000Z",
-          "wordCount": 53,
+          "wordCount": 59,
           "title": "만약 OpenSSL이 GUI 였다면",
           "imageUrl": "https://social.news.hada.io/topic/6731"
         },
         {
           "id": "https://news.hada.io/topic?id=6730",
           "author": null,
-          "description": "1999년에 출간된 \"Code: The Hidden Language of Computer Hardware and Software\"\n2022년 8월 19일에 2판 출간 예정(영문)\n2021년 1월부터 수정 시작해서 약 70페이지 늘어남 (Intel 8080을 예로제로 사용해서 CPU작동에 대해서 훨씬 더 깊이 들어간다고)\n또한 책 내부에...",
+          "description": "1999년에 출간된 \"Code: The Hidden Language of Computer Hardware and Software\"\n2022년 8월 19일에 2판 출간 예정(영문)\n2021년 1월부터 수정 시작해서 약 70페이지 늘어남 (Intel 8080을 예제로 사용해서 CPU작동에 대해서 훨씬 더 깊이 들어간다고)\n또한 책 내부에 ...",
           "link": "https://news.hada.io/topic?id=6730",
           "publishedOn": "2022-06-12T00:38:48.000Z",
-          "wordCount": 114,
+          "wordCount": 136,
           "title": "찰스 페졸드의 CODE 2판 발표",
           "imageUrl": "https://social.news.hada.io/topic/6730"
         },
@@ -258,66 +318,6 @@
           "wordCount": 94,
           "title": "Trunk Check - 모든 린터와 포맷터를 실행하는 단일 CLI",
           "imageUrl": "https://social.news.hada.io/topic/6729"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6728",
-          "author": null,
-          "description": "포용성 : Procreate, Wylde Flowers\n기쁨과 재미 : (Not Boring) Habits, Overboard!\n인터랙션 : A Musical Story, Slopes\n사회적 영향력 : 'Gibbon: Beyond the Trees', Rebel Girls\n영상 및 그래픽 : Halide Mark II - 프로 카메라, LEGO® Star Wars™: Castaways\n...",
-          "link": "https://news.hada.io/topic?id=6728",
-          "publishedOn": "2022-06-11T01:06:01.000Z",
-          "wordCount": 102,
-          "title": "Apple 디자인 어워드 2022년 수상작",
-          "imageUrl": "https://social.news.hada.io/topic/6728"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6727",
-          "author": null,
-          "description": "윈/맥/리눅스\nVim 키 지원\n최소한의 키로 이용 가능\nToDo 리스트 : 서브태스크 및 타이머 지원\nCalcurse, Taskwarrior, Abook 연동\n색상, 아이콘 등 커스터마이징 지원\n\n...",
-          "link": "https://news.hada.io/topic?id=6727",
-          "publishedOn": "2022-06-11T00:25:02.000Z",
-          "wordCount": 83,
-          "title": "Calcure - TUI 캘린더 & 태스크 관리자",
-          "imageUrl": "https://social.news.hada.io/topic/6727"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6726",
-          "author": null,
-          "description": "Runtime Types\nORM : MySQL, PostgreSQL, SQLite, MongoDB\nDependency Injection\nValidation, Serialization, Reflection, HTTP Router ..\nDebugger & Profiler\nTemplate Engine\n\n...",
-          "link": "https://news.hada.io/topic?id=6726",
-          "publishedOn": "2022-06-11T00:08:01.000Z",
-          "wordCount": 76,
-          "title": "Deepkit - 고성능 TypeScript 프레임워크",
-          "imageUrl": "https://social.news.hada.io/topic/6726"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6725",
-          "author": null,
-          "description": "Cache Inconsistency\ncache server가 db에서 x에 대한 요청을 보내고 db가 x=42를 응답이 cache에 도착하기 전에\n\n외부에서 x=43 으로 업데이트하고, invalidation을 통해 x=43을 cache에게 전달함\ncache는 x=43을 받아서 반영함\nx=42 응답이 뒤늦게 도착하여 반영됨\n...",
-          "link": "https://news.hada.io/topic?id=6725",
-          "publishedOn": "2022-06-10T12:13:51.000Z",
-          "wordCount": 237,
-          "title": "Meta가 캐시 무효화를 쓰면서 캐시 일관성을 유지하는 방법 (번역)",
-          "imageUrl": "https://social.news.hada.io/topic/6725"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6724",
-          "author": null,
-          "description": "이번 주말에 뭘 하려고 계획 중인지 편하게 얘기해 보아요.\n읽을 책, 가볼 곳, 해볼 것.. 어떤 것이든 좋습니다.\n지난 주말에 계획하셨던 일의 회고도 한번 남겨봐 주세요.",
-          "link": "https://news.hada.io/topic?id=6724",
-          "publishedOn": "2022-06-10T03:13:15.000Z",
-          "wordCount": 207,
-          "title": "Ask GN: 이번 주말에 뭐 하시나요?",
-          "imageUrl": "https://social.news.hada.io/topic/6724"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6723",
-          "author": null,
-          "description": "함수형 언어 하스켈을 이용해서 Jekyll/Gatsby 같은 정적 사이트 생성기를 만드는 방법을 배우는 튜토리얼입니다.\n하스켈을 만들면서 프로젝트도 만들 수 있는 구성이기 때문에, 아래에 하나라도 해당이 된다면 도움이 될 것 같습니다.\n함수형 언어를 배우는데 관심이 있는 사람\n프로젝",
-          "link": "https://news.hada.io/topic?id=6723",
-          "publishedOn": "2022-06-10T02:01:10.000Z",
-          "wordCount": 125,
-          "title": "Haskell로 정적 사이트 생성기 만들기 튜토리얼",
-          "imageUrl": "https://social.news.hada.io/topic/6723"
         }
       ]
     },
@@ -329,10 +329,10 @@
         {
           "id": "https://jojoldu.tistory.com/674",
           "author": "향로",
-          "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\n팀 분들과 함께 NextStep - 이펙티브 코틀린 강좌를 수강하고 있다. \n최근에 과제 회고를 처음 진행했는데, 이때 나온 주제가 테스트 하기 좋은 코드였다. \n이 주제는 사실 이미 너무 많이 회자된 주제이긴하다. \n대표적으로 아래 2개가 가장 대표적이다.\n정진욱님 - Testing, Oh my!\n권용근님 - 무엇을 테스트할 것인가\n이들을 다 보았다면, 굳이 이 글을 볼 필요는 없다.\n이미 잘 정리된 글과 영상이지만, 현재 팀의 분들을 위해서 조금 정리하게 되었다.\n뒤에 이어 쓸 Active Record vs Data Mapper의 빌드업이기도 하다.\n이 글에서는 테스트하기 어려운 코드 대해 이야기해보려고 한다.\n1. 테스트 하기 좋은 코드?\n여기서 이야기하는 테스트는 단위 테스트를 의미한다. \nE2E 테스트는 여기서 이야기하는 테스트와 구현, 설계와는 다르다.\n테스트 코드 작성의 어려움을 팀원들을 보면 본인이 테스트 코드를 작성해본 경험이 부족해서 혹은 테스트 프레임워크 (JUnit, Jest, Mocha 등) 숙련도가 떨어지기 때문이라고 생각하는 경우를 종종 본다.\n하지만 테스트 코드 작성 경험, 테스트 프레임워크 숙련도로 인한 어려움은 생각보다 큰 이유가 아니다. \n경험상 대부분은 테스트를 작성하기 어려운 구현체 때문이다.\n테스트하기 어렵도룩 구현되었기 때문에 테스트 코드 작성이 어려운 것이지, 도구…",
+          "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n팀 분들과 함께 NextStep - 이펙티브 코틀린 강좌를 수강하고 있다.\n최근에 과제 회고를 처음 진행했는데, 이때 나온 주제가 테스트 하기 좋은 코드였다.\n이 주제는 사실 이미 너무 많이 회자된 주제이긴하다.\n대표적으로 아래 2개가 가장 대표적이다.\n정진욱님 - Testing, Oh my!\n권용근님 - 무엇을 테스트할 것인가\n이들을 다 보았다면, 굳이 이 글을 볼 필요는 없다.\n이미 잘 정리된 글과 영상이지만, 현재 팀의 분들을 위해서 조금 정리하게 되었다.\n뒤에 이어 쓸 Active Record vs Data Mapper의 빌드업이기도 하다.\n이 글에서는 테스트하기 어려운 코드 대해 이야기해보려고 한다.\n1. 테스트 하기 좋은 코드?\n여기서 이야기하는 테스트는 단위 테스트를 의미한다.\nE2E 테스트는 여기서 이야기하는 테스트와 구현, 설계와는 다르다.\n테스트 코드 작성의 어려움을 팀원들을 보면 본인이 테스트 코드를 작성해본 경험이 부족해서 혹은 테스트 프레임워크 (JUnit, Jest, Mocha 등) 숙련도가 떨어지기 때문이라고 생각하는 경우를 종종 본다.\n하지만 테스트 코드 작성 경험, 테스트 프레임워크 숙련도로 인한 어려움은 생각보다 큰 이유가 아니다.\n경험상 대부분은 테스트를 작성하기 어려운 구현체 때문이다.\n테스트하기 어렵도룩 구현되었기 때문에 테스트 코드 작성이 어려운 것이지, 도구의 숙련도의…",
           "link": "https://jojoldu.tistory.com/674",
           "publishedOn": "2022-06-11T09:03:38.000Z",
-          "wordCount": 1114,
+          "wordCount": 1095,
           "title": "1. 테스트하기 좋은 코드 - 테스트하기 어려운 코드",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fbqzb6L%2FbtrEvNnOOFZ%2FTRZgi9sz2cpAkbZxs5Iyd1%2Fimg.png"
         },
