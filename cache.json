@@ -6,12 +6,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=366260",
+          "author": "Aisha Bukar",
+          "description": "A diagram is a graphical representation of information that depicts the structure, relationship, or operation of anything. Diagrams enable your audience to visually grasp hidden information and engage with them in ways that words alone cannot. Depending on the type …\nUseful Tools for Visualizing Databases on a Budget originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/useful-tools-for-visualizing-databases-on-a-budget/",
+          "publishedOn": "2022-06-13T19:15:26.000Z",
+          "wordCount": 1285,
+          "title": "Useful Tools for Visualizing Databases on a Budget",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366260"
+        },
+        {
           "id": "https://css-tricks.com/?p=366266",
           "author": "Temani Afif",
           "description": "Making CSS-only loaders is one of my favorite tasks. It’s always satisfying to look at those infinite animations. And, of course, there are lots of techniques and approaches to make them — no need to look further than CodePen to …\nSingle Element Loaders: The Spinner originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/single-element-loaders-the-spinner/",
           "publishedOn": "2022-06-10T14:26:06.000Z",
-          "wordCount": 2112,
+          "wordCount": 2154,
           "title": "Single Element Loaders: The Spinner",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366266"
         },
@@ -21,7 +31,7 @@
           "description": "Can’t smash the Like button hard enough for what Miriam Suzanne has to say on the challenging technical hurdles of implementing Webmentions:\nThe first round required several online services along with HTML & JS changes to my static site, just to verify my \n…\nAm I on the IndieWeb yet? originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/am-i-on-the-indieweb-yet/",
           "publishedOn": "2022-06-09T15:32:50.000Z",
-          "wordCount": 813,
+          "wordCount": 950,
           "title": "Am I on the IndieWeb yet?",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366286"
         },
@@ -41,7 +51,7 @@
           "description": "Those of us who’ve been web developers more than a few years have probably written code using more than one JavaScript framework. With all the choices out there — React, Svelte, Vue, Angular, Solid — it’s all but inevitable. One …\nBuilding Interoperable Web Components That Even Work With React originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/building-interoperable-web-components-react/",
           "publishedOn": "2022-06-07T13:57:57.000Z",
-          "wordCount": 3891,
+          "wordCount": 4002,
           "title": "Building Interoperable Web Components That Even Work With React",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366222"
         },
@@ -144,16 +154,6 @@
           "wordCount": 363,
           "title": "First Look At The CSS object-view-box Property",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365992"
-        },
-        {
-          "id": "https://css-tricks.com/?p=365804",
-          "author": "Rob Levin",
-          "description": "As the author of a library called AgnosticUI, I’m always on the lookout for new components. And recently, I decided to dig in and start work on a new dialog (aka modal) component. That’s something many devs like to …\nDialog Components: Go Native HTML or Roll Your Own? originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/dialog-components-roll-your-own/",
-          "publishedOn": "2022-05-23T14:31:18.000Z",
-          "wordCount": 3341,
-          "title": "Dialog Components: Go Native HTML or Roll Your Own?",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365804"
         }
       ]
     },
@@ -168,7 +168,7 @@
           "description": "Aurora v1 EOL을 대처 하는 우리의 자세 (feat. MySQL 5.6) End of Life! 그렇게 EOL 입니다. MySQL 5.6을 기반으로 하는 AWS의 Aurora v1 버전의 EOL 소식이  들려오고 있습니다. AWS Aurora v1 EOL 소식 2023년 2월을...\nThe post Aurora v1 EOL을 대처 하는 우리의 자세 (feat. MySQL 5.6) appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/aurora-v1-eol%ec%9d%84-%eb%8c%80%ec%b2%98-%ed%95%98%eb%8a%94-%ec%9a%b0%eb%a6%ac%ec%9d%98-%ec%9e%90%ec%84%b8-feat-mysql-5-6/",
           "publishedOn": "2022-06-11T13:19:35.000Z",
-          "wordCount": 1145,
+          "wordCount": 1143,
           "title": "Aurora v1 EOL을 대처 하는 우리의 자세 (feat. MySQL 5.6)",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2019/04/mysql_PNG19-300x300.png"
         },
@@ -178,7 +178,7 @@
           "description": "MongoDB 5.0 Time Series MongoDB가 5.x 버전으로 릴리즈 되면서 추가된 유용한 기능 중에 하나가 바로 Time Series 컬렉션을 활용할 수 있다는 것 입니다. 쉽게 표현하면 시계열 데이터를 저장하는 기능인데 더 쉽게 표현하면 일정 시간...\nThe post MongoDB 5.0 Time Series appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/mongodb_timeseries/",
           "publishedOn": "2022-06-03T05:48:26.000Z",
-          "wordCount": 1117,
+          "wordCount": 1122,
           "title": "MongoDB 5.0 Time Series",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2020/04/37_2019081518484308.jpg"
         },
@@ -188,7 +188,7 @@
           "description": "MongoDB에서 Sequence 사용하기 on Node.js MongoDB는 Oracle이나 PostgreSQL의 Sequence나 MySQL의 Auto Increment 같은 기능이 없습니다.  반면 MongoDB에 익숙한 사람들은 12-byte로된 Object_ID에 더 익숙할겁니다.  MongoDB는 자동 증가 시퀀스를 기본 기능으로 지원하지 않지만 이 기능은 카운터...\nThe post MongoDB에서 Sequence 사용하기 on Node.js appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/mongodb-sequence-on-node-js/",
           "publishedOn": "2022-05-25T01:25:28.000Z",
-          "wordCount": 721,
+          "wordCount": 688,
           "title": "MongoDB에서 Sequence 사용하기 on Node.js",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2020/04/37_2019081518484308.jpg"
         },
@@ -198,7 +198,7 @@
           "description": "Database Specialist or Generalist ?! 서론 이런 글을 쓰게 된 이유는 최근 들어 많이 생각하게되고, 주변 DBA분들이나 비슷한 종사자 엔지니어들과 교류하면서 느낀점이 있기 때문입니다. DBA라는 포지션은 지금까지 대부분 스페셜리스트였습니다. Oracle이 DBA의 대세였던 시절부터, Engineer...\nThe post Database Specialist or Generalist ?! appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/database-specialist-or-generalist/",
           "publishedOn": "2022-05-23T01:00:21.000Z",
-          "wordCount": 1237,
+          "wordCount": 1242,
           "title": "Database Specialist or Generalist ?!",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2021/04/sm_5b46d890d85b8-300x300.jpg"
         },
@@ -208,7 +208,7 @@
           "description": "MERN Stack 이란? 최근 MongoDB에 대한 자료들을 찾아보다 보면 해외 사이트들에서 쉽게 접할 수 있는 단어입니다. 꽤 인기있는 것으로 Udemy 같은 온라인 교육 사이트에는 MERN Stack에 대한 통합 교육과정도 업로드 되고 있습니다. MERN은 스택을 구성하는...\nThe post MERN Stack 이란? appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/mern-stack-%ec%9d%b4%eb%9e%80/",
           "publishedOn": "2022-05-20T16:20:29.000Z",
-          "wordCount": 922,
+          "wordCount": 921,
           "title": "MERN Stack 이란?",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2020/04/37_2019081518484308.jpg"
         }
@@ -220,12 +220,92 @@
       "siteUrl": "https://news.hada.io",
       "articles": [
         {
+          "id": "https://news.hada.io/topic?id=6746",
+          "author": null,
+          "description": "자신이 제기한 AI Ethics(윤리)건과 관련하여 \"유급 관리 휴가\"를 받았고, 이는 구글이 해고하기 전에 하는 행동이라고\nLaMDA 와 진행한 인터뷰를 통해서 AI가 지각(Sentient)이 있다고 판단했다고 얘기하며 인터뷰 내용을 공개\n구글은 그가 비밀 유지 의무 위반 및 LaMDA를 의인화...",
+          "link": "https://news.hada.io/topic?id=6746",
+          "publishedOn": "2022-06-14T01:41:06.000Z",
+          "wordCount": 165,
+          "title": "구글, 대화형 AI(챗봇)가 지각이 있다고 주장한 직원을 유급 휴직 처분",
+          "imageUrl": "https://social.news.hada.io/topic/6746"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6745",
+          "author": null,
+          "description": "8.7 kWh 용량으로 5.5 kW 출력 가능\n1142mm x 341mm x 432mm, 142kg으로 집 외부에 설치\n-20도 ~ 45도 환경에서 사용가능\n하이브리드 파워 컨디셔너와 DC-to-DC 어댑터, 1.1Kwh 출력가능한 차량용 어댑터 제공\n\n...",
+          "link": "https://news.hada.io/topic?id=6745",
+          "publishedOn": "2022-06-14T01:19:23.000Z",
+          "wordCount": 134,
+          "title": "도요타, 가정용 8.7kWh 배터리 공개",
+          "imageUrl": "https://social.news.hada.io/topic/6745"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6744",
+          "author": null,
+          "description": "안드로이드용 오픈소스 이메일 클라이언트였던 K-9 Mail이 썬더버드 패밀리에 조인\nK-9의 메인 개발자가 풀타임 썬더버드 스태프로 참여하고, K-9를 안드로이드용 Thunderbird로 이름을 변경하고 전환 작업을 진행\n\n썬더버드의 자동 계정 설정 지원\n썬더버드 데스크탑과의 동기화",
+          "link": "https://news.hada.io/topic?id=6744",
+          "publishedOn": "2022-06-14T00:53:01.000Z",
+          "wordCount": 94,
+          "title": "Android용 Thunderbird 계획 발표",
+          "imageUrl": "https://social.news.hada.io/topic/6744"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6743",
+          "author": null,
+          "description": "WebContainers는 풀스택 Node.js 환경을 브라우저에서 WASM 으로 실행하는 것\n웹표준 API를 이용해서 개발되었지만 지금까진 크로미엄 기반에서만 실행가능 했음\n모질라 팀과 협업해서 이제 Firefox Mobile/Desktop에서 WebContainers를 지원\n\n풀웹앱을 브라우저 탭에서 개발 및 실행...",
+          "link": "https://news.hada.io/topic?id=6743",
+          "publishedOn": "2022-06-14T00:36:01.000Z",
+          "wordCount": 112,
+          "title": "Firefox 데스크탑 & 안드로이드에서 WebContainers 지원 시작",
+          "imageUrl": "https://social.news.hada.io/topic/6743"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6742",
+          "author": null,
+          "description": "2년만에 메이저 버전 업\n\"resolved with undefined\" 문제 해결 : reply.send 호출 의무화\n에러 핸들러 캡슐화하여 일관적인 에러 처리 방식 도입\n워커 쓰레드를 이용한 Pino 로거로 같은 프로세스에서 처리 가능\nType Provider 기본 제공",
+          "link": "https://news.hada.io/topic?id=6742",
+          "publishedOn": "2022-06-14T00:20:01.000Z",
+          "wordCount": 98,
+          "title": "Fastify 4.0 릴리즈",
+          "imageUrl": "https://social.news.hada.io/topic/6742"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6741",
+          "author": null,
+          "description": "기존 HIG 자료를 완전히 다시 디자인\n플랫폼별 지침을 통합문서로 합치고, 각 플랫폼에 대한 세부 정보를 유지하면서도 공통적인 디자인 접근을 쉽게\n네비게이션을 쉽게 만들고, 인덱스 생성. 내부 검색 가능\n올해안에 전체 및 각 페이지별 변경 로그도 추가될 예정\n\n...",
+          "link": "https://news.hada.io/topic?id=6741",
+          "publishedOn": "2022-06-14T00:06:01.000Z",
+          "wordCount": 107,
+          "title": "새로운 Apple Human Interface Guidelines",
+          "imageUrl": "https://social.news.hada.io/topic/6741"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6740",
+          "author": null,
+          "description": "조직구조: Engineering과 Ops팀이 50% 이상을 차지하고, 1명의 제품관리자가 대략 7-10명 정도의 엔지니어를 맡는다\n입사: 4-6주짜리 부트캠프를 거친 후에는, 실제 DB에 접속할 수 있는 권한을 받게 됨\n권한과 책임: 모든 엔지니어는 코드의 모든 부분을 수정할 수 있고, 스펙과 우선순위 변...",
+          "link": "https://news.hada.io/topic?id=6740",
+          "publishedOn": "2022-06-13T16:15:07.000Z",
+          "wordCount": 225,
+          "title": "페이스북은 어떻게 배포하는가",
+          "imageUrl": "https://social.news.hada.io/topic/6740"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6739",
+          "author": null,
+          "description": "충분히 큰 문제를 해결하기 : Airbnb, Dropbox, WhatsApp\n\n경쟁자들의 문제를 해결하기 : Zoom, Wordpress\n고객들에게 듣고 피봇하기 : Twitter, Groupon, Pinterest, Slack, DoorDash, Instagram, Twitch\n오래된 컨셉을 새로운 방법으로 제시하기 : Zappos, Uber, Netf...",
+          "link": "https://news.hada.io/topic?id=6739",
+          "publishedOn": "2022-06-13T02:04:02.000Z",
+          "wordCount": 154,
+          "title": "1조 회사들은 MVP를 어떻게 개발하고, 첫 1000명의 사용자를 모았을까",
+          "imageUrl": "https://social.news.hada.io/topic/6739"
+        },
+        {
           "id": "https://news.hada.io/topic?id=6738",
           "author": null,
           "description": "마이크로콘트롤러, WebAssembly(WASM/WASI) 및 CLI 도구 등에서 사용 가능\n대부분의 표준 라이브러리 패키지를 지원하며 수정없이 Go 코드 컴파일 가능\nLLVM을 내부적으로 이용해서 작고 효율적인 코드를 만들어 냄\n훌륭한 CGo 지원\n\n...",
           "link": "https://news.hada.io/topic?id=6738",
           "publishedOn": "2022-06-13T01:26:01.000Z",
-          "wordCount": 128,
+          "wordCount": 255,
           "title": "TinyGo - LLVM기반의 소형 Go 컴파일러",
           "imageUrl": "https://social.news.hada.io/topic/6738"
         },
@@ -238,86 +318,6 @@
           "wordCount": 118,
           "title": "더 나은 언어 선택창 만들기",
           "imageUrl": "https://social.news.hada.io/topic/6737"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6736",
-          "author": null,
-          "description": "세계 시계/날씨/단위&통화 변환/IP Echo 등 명령으로 지정된 특정 도메인 주소를 DNS  조회하면, 관련 정보를 TXT 레코드 값으로 리턴하는 DNS서버\n터미널에서 간단히 정보조회 할때 사용 가능\nGo 오픈소스\n세계 시계 : dig seoul.time @dns.toys\n\n날씨 ...",
-          "link": "https://news.hada.io/topic?id=6736",
-          "publishedOn": "2022-06-13T00:46:01.000Z",
-          "wordCount": 194,
-          "title": "DNS Toys - DNS 프로토콜을 이용한 작은 유틸리티 오픈소스",
-          "imageUrl": "https://social.news.hada.io/topic/6736"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6735",
-          "author": null,
-          "description": "(WEB2)(WEB3) → (WEB5)\nTBD는 트위터 창업자 Jack Dorsey의 Block(스퀘어)의 비트코인 중심 자회사\nWeb5 : 자신의 데이터와 아이덴티티를 제어 가능하게 해주는 더 탈 중앙화된 웹 플랫폼\nDecentralized Web Platform (DWP) 은\n개발자들이 Decentr",
-          "link": "https://news.hada.io/topic?id=6735",
-          "publishedOn": "2022-06-13T00:31:01.000Z",
-          "wordCount": 155,
-          "title": "TBD, Web5 발표",
-          "imageUrl": "https://social.news.hada.io/topic/6735"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6734",
-          "author": null,
-          "description": "실제 삶에서 인연이 있으신 분들 중에서 멘토나 존경하시는 분이 계신가요?\n계시다면 그 사연과 이유를 여쭈어보고 싶습니다.",
-          "link": "https://news.hada.io/topic?id=6734",
-          "publishedOn": "2022-06-12T23:39:52.000Z",
-          "wordCount": 79,
-          "title": "Ask GN: 실제 인연이 있는 분들중에 멘토나 존경하시는 분이 계신가요?",
-          "imageUrl": "https://social.news.hada.io/topic/6734"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6733",
-          "author": null,
-          "description": "FFMpeg을 이용하여 수백개 오디오/비디오 포맷 지원\n\n임포트 없이 직접 편집 가능\n멀티포맷 타임라인 : 한 프로젝트 내에서 다양한 해상도/프레임레이트 지원\n네트웍 스트림 재생(HTTP, HLS, RTMP, RTSP, MMS, UDP)\nHDR to SDR 톤매핑\n비디오 필터 및...",
-          "link": "https://news.hada.io/topic?id=6733",
-          "publishedOn": "2022-06-12T01:58:25.000Z",
-          "wordCount": 120,
-          "title": "Shotcut - 무료, 오픈소스, 크로스플랫폼 비디오 편집기",
-          "imageUrl": "https://social.news.hada.io/topic/6733"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6732",
-          "author": null,
-          "description": "라즈베리 파이 나 Ubuntu/Debian 시스템에 설치 가능\nNextCloud, PhotoPrism 등으로 구글 서비스 대체\n비트코인 / 라이트닝 노드 실행\n앱스토어 제공 : PiHole, Syncthing, Home Assistant, Node-RED 등 쉽게 설치 가능\n\n...",
-          "link": "https://news.hada.io/topic?id=6732",
-          "publishedOn": "2022-06-12T00:56:08.000Z",
-          "wordCount": 118,
-          "title": "Umbrel - 셀프호스팅을 위한 개인용 서버 OS",
-          "imageUrl": "https://social.news.hada.io/topic/6732"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6731",
-          "author": null,
-          "description": "만약 OpenSSL이 GUI 였다면",
-          "link": "https://news.hada.io/topic?id=6731",
-          "publishedOn": "2022-06-12T00:43:41.000Z",
-          "wordCount": 59,
-          "title": "만약 OpenSSL이 GUI 였다면",
-          "imageUrl": "https://social.news.hada.io/topic/6731"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6730",
-          "author": null,
-          "description": "1999년에 출간된 \"Code: The Hidden Language of Computer Hardware and Software\"\n2022년 8월 19일에 2판 출간 예정(영문)\n2021년 1월부터 수정 시작해서 약 70페이지 늘어남 (Intel 8080을 예제로 사용해서 CPU작동에 대해서 훨씬 더 깊이 들어간다고)\n또한 책 내부에 ...",
-          "link": "https://news.hada.io/topic?id=6730",
-          "publishedOn": "2022-06-12T00:38:48.000Z",
-          "wordCount": 136,
-          "title": "찰스 페졸드의 CODE 2판 발표",
-          "imageUrl": "https://social.news.hada.io/topic/6730"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6729",
-          "author": null,
-          "description": "eslint, prettier 같은 린터와 포맷터들을 이 도구 하나로 모두 커버 가능\nCI/CD에도 통합가능하며, 현재 VSCode 를 지원함",
-          "link": "https://news.hada.io/topic?id=6729",
-          "publishedOn": "2022-06-11T07:49:52.000Z",
-          "wordCount": 94,
-          "title": "Trunk Check - 모든 린터와 포맷터를 실행하는 단일 CLI",
-          "imageUrl": "https://social.news.hada.io/topic/6729"
         }
       ]
     },
