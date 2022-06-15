@@ -1,31 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-14T01:58:54.414Z</id>
+    <id>urn:2022-06-15T01:50:50.893Z</id>
     <title>osmos::feed</title>
-    <updated>2022-06-14T01:58:54.414Z</updated>
+    <updated>2022-06-15T01:50:50.893Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[구글, 대화형 AI(챗봇)가 지각이 있다고 주장한 직원을 유급 휴직 처분]]></title>
-        <id>https://news.hada.io/topic?id=6746</id>
-        <link href="https://news.hada.io/topic?id=6746"/>
-        <updated>2022-06-14T01:41:06.000Z</updated>
-        <summary type="html"><![CDATA[자신이 제기한 AI Ethics(윤리)건과 관련하여 "유급 관리 휴가"를 받았고, 이는 구글이 해고하기 전에 하는 행동이라고
-LaMDA 와 진행한 인터뷰를 통해서 AI가 지각(Sentient)이 있다고 판단했다고 얘기하며 인터뷰 내용을 공개
-구글은 그가 비밀 유지 의무 위반 및 LaMDA를 의인화...]]></summary>
+        <title type="html"><![CDATA[27년만에 역사 속으로 사라지는 인터넷 익스플로러… 서비스 종료 이후는?]]></title>
+        <id>https://news.hada.io/topic?id=6756</id>
+        <link href="https://news.hada.io/topic?id=6756"/>
+        <updated>2022-06-15T01:43:53.000Z</updated>
+        <summary type="html"><![CDATA[마이크로소프트가 2022년 6월 15일자로 인터넷 익스플로러(IE) 11 지원을 종료
+PC 시대, MS의 절대 권력이었던 IE… 한 때 ‘끼워팔기’ 논란
+브라우저 춘추전국시대 돌입, 스마트폰 등장과 함께 IE 시대 저물어가
+1개월 간은 윈도우를 통해 IE 접근 시 자동으로 엣지 ‘IE 모드’로...]]></summary>
         <author>
             <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[도요타, 가정용 8.7kWh 배터리 공개]]></title>
-        <id>https://news.hada.io/topic?id=6745</id>
-        <link href="https://news.hada.io/topic?id=6745"/>
-        <updated>2022-06-14T01:19:23.000Z</updated>
-        <summary type="html"><![CDATA[8.7 kWh 용량으로 5.5 kW 출력 가능
-1142mm x 341mm x 432mm, 142kg으로 집 외부에 설치
--20도 ~ 45도 환경에서 사용가능
-하이브리드 파워 컨디셔너와 DC-to-DC 어댑터, 1.1Kwh 출력가능한 차량용 어댑터 제공
+        <title type="html"><![CDATA[Floppotron 3.0 - FDD/HDD/스캐너로 만든 컴퓨터 오케스트라]]></title>
+        <id>https://news.hada.io/topic?id=6755</id>
+        <link href="https://news.hada.io/topic?id=6755"/>
+        <updated>2022-06-15T01:32:39.000Z</updated>
+        <summary type="html"><![CDATA[512개의 플로피 디스크 드라이브, 4대의 플랫베드 스캐너, 16개의 하드디스크 드라이브 로 구성
+USB-to-MIDI 컨트롤러로 음악 데이터를 전송하고, 전용 컨트롤러로 각 기기에서 특정음을 내어 음악을 연주하는 장치
+
+FDD는 헤드 이동 소리로 낮은 톤을 내고
+스캐너는 모터가 커서 고...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lorien - 무한 칠판/노트 작성 도구 오픈소스]]></title>
+        <id>https://news.hada.io/topic?id=6754</id>
+        <link href="https://news.hada.io/topic?id=6754"/>
+        <updated>2022-06-15T01:21:29.000Z</updated>
+        <summary type="html"><![CDATA[디지털 노트북 및 브레인스토밍 도구로 개발
+브러시 스트로크를 컬렉션으로 저장해서 런타임 렌더링
+Godot 게임 엔진으로 작성됨
+무한 캔버스, 무한 Undo/Redo 지원, 거의 무한대의 Zoom 가능
+엄청 작게 설계된 Savefile
+SVG Export
+Wacom 등의 압력 감...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[간 이식에 변화를 몰고 올 혁신적 보관 기술이 등장했다]]></title>
+        <id>https://news.hada.io/topic?id=6753</id>
+        <link href="https://news.hada.io/topic?id=6753"/>
+        <updated>2022-06-15T00:58:17.000Z</updated>
+        <summary type="html"><![CDATA[기존에는 12시간 보관만 가능해서, 이식용 간의 70%는 사용이 불가했음
+인체 내부와 비슷한 압력과 온도등으로 재현해서 최대 "12일"까지 보관 가능
+이식전에 생체 검사및 약물 치료할 가능성도 커져
 
 ...]]></summary>
         <author>
@@ -33,58 +63,93 @@ LaMDA 와 진행한 인터뷰를 통해서 AI가 지각(Sentient)이 있다고 �
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Android용 Thunderbird 계획 발표]]></title>
-        <id>https://news.hada.io/topic?id=6744</id>
-        <link href="https://news.hada.io/topic?id=6744"/>
-        <updated>2022-06-14T00:53:01.000Z</updated>
-        <summary type="html"><![CDATA[안드로이드용 오픈소스 이메일 클라이언트였던 K-9 Mail이 썬더버드 패밀리에 조인
-K-9의 메인 개발자가 풀타임 썬더버드 스태프로 참여하고, K-9를 안드로이드용 Thunderbird로 이름을 변경하고 전환 작업을 진행
-
-썬더버드의 자동 계정 설정 지원
-썬더버드 데스크탑과의 동기화]]></summary>
+        <title type="html"><![CDATA[왜 Rust가 스타트업에게 좋은 선택인가]]></title>
+        <id>https://news.hada.io/topic?id=6752</id>
+        <link href="https://news.hada.io/topic?id=6752"/>
+        <updated>2022-06-15T00:52:14.000Z</updated>
+        <summary type="html"><![CDATA[인재를 뽑기 쉽고, 빠르게 작업 가능하고, 성능이 좋음]]></summary>
         <author>
             <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Firefox 데스크탑 & 안드로이드에서 WebContainers 지원 시작]]></title>
-        <id>https://news.hada.io/topic?id=6743</id>
-        <link href="https://news.hada.io/topic?id=6743"/>
-        <updated>2022-06-14T00:36:01.000Z</updated>
-        <summary type="html"><![CDATA[WebContainers는 풀스택 Node.js 환경을 브라우저에서 WASM 으로 실행하는 것
-웹표준 API를 이용해서 개발되었지만 지금까진 크로미엄 기반에서만 실행가능 했음
-모질라 팀과 협업해서 이제 Firefox Mobile/Desktop에서 WebContainers를 지원
-
-풀웹앱을 브라우저 탭에서 개발 및 실행...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fastify 4.0 릴리즈]]></title>
-        <id>https://news.hada.io/topic?id=6742</id>
-        <link href="https://news.hada.io/topic?id=6742"/>
-        <updated>2022-06-14T00:20:01.000Z</updated>
-        <summary type="html"><![CDATA[2년만에 메이저 버전 업
-"resolved with undefined" 문제 해결 : reply.send 호출 의무화
-에러 핸들러 캡슐화하여 일관적인 에러 처리 방식 도입
-워커 쓰레드를 이용한 Pino 로거로 같은 프로세스에서 처리 가능
-Type Provider 기본 제공]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새로운 Apple Human Interface Guidelines]]></title>
-        <id>https://news.hada.io/topic?id=6741</id>
-        <link href="https://news.hada.io/topic?id=6741"/>
-        <updated>2022-06-14T00:06:01.000Z</updated>
-        <summary type="html"><![CDATA[기존 HIG 자료를 완전히 다시 디자인
-플랫폼별 지침을 통합문서로 합치고, 각 플랫폼에 대한 세부 정보를 유지하면서도 공통적인 디자인 접근을 쉽게
-네비게이션을 쉽게 만들고, 인덱스 생성. 내부 검색 가능
-올해안에 전체 및 각 페이지별 변경 로그도 추가될 예정
+        <title type="html"><![CDATA[Fresh - 차세대 웹 프레임워크]]></title>
+        <id>https://news.hada.io/topic?id=6751</id>
+        <link href="https://news.hada.io/topic?id=6751"/>
+        <updated>2022-06-15T00:38:10.000Z</updated>
+        <summary type="html"><![CDATA[빌드 단계가 없음 : 코드 작성후 Deno Deploy에 올리면 프레임워크가 알아서 처리
+Edge에서 JIT 렌더링
+Zero Config
+TypeScript 기본 지원
+Island based client hydration
+Preact + JSX
 
 ...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[토스에서 '계좌에 돈이 부족할 때 알려드릴까요?'에 동의하면 '마케팅 정보 수신 동의'를 하게 된다]]></title>
+        <id>https://news.hada.io/topic?id=6750</id>
+        <link href="https://news.hada.io/topic?id=6750"/>
+        <updated>2022-06-15T00:28:40.000Z</updated>
+        <summary type="html"><![CDATA[토스에서 '계좌에 돈이 부족할 때 알려드릴까요?'에 동의하면 '마케팅 정보 수신 동의'를 하게 된다]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Skills - 인터랙티브하게 GitHub 사용법 배우기]]></title>
+        <id>https://news.hada.io/topic?id=6749</id>
+        <link href="https://news.hada.io/topic?id=6749"/>
+        <updated>2022-06-15T00:12:33.000Z</updated>
+        <summary type="html"><![CDATA[GitHub이 직접 만든 가이드
+First day on GitHub
+Introduction to GitHub
+Communicate using Markdown
+GitHub Pages
+First week on GitHub
+Review pull requests
+Resolve merge conflicts
+Automate workflows with Gi]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De-Mystifying IndieWeb on a WordPress Site]]></title>
+        <id>https://css-tricks.com/?p=366388</id>
+        <link href="https://css-tricks.com/de-mystifying-indieweb-on-a-wordpress-site/"/>
+        <updated>2022-06-14T16:48:34.000Z</updated>
+        <summary type="html"><![CDATA[Well, sheesh. I opened a little can of worms when sharing Miriam’s “Am I on the IndieWeb yet?” with a short post bemoaning my own trouble getting on the IndieWeb train. But it’s a good can of worms.
+I think …
+De-Mystifying IndieWeb on a WordPress Site originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오크리지 국립 연구소의 Frontier가 세계 슈퍼컴퓨터 순위 1위를 차지]]></title>
+        <id>https://news.hada.io/topic?id=6748</id>
+        <link href="https://news.hada.io/topic?id=6748"/>
+        <updated>2022-06-14T06:48:26.000Z</updated>
+        <summary type="html"><![CDATA[미국 에너지부 산하 최대 연구소인 오크리지 국립 연구소 (Oak Ridge National Laboratory)의 슈퍼컴퓨터인 Frontier가 1.1 엑사플롭스로 전 1위였던 후가쿠(442 페타플롭스)를 두배 이상 격차로 제치고 세계 슈퍼컴퓨터 성능 순위표인 Top500 (https://www.top500.org/)에서 1위를 차지.
+Frontier는 ...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[큰 기술 회사들은 어떻게 프로젝트를 진행할까]]></title>
+        <id>https://news.hada.io/topic?id=6747</id>
+        <link href="https://news.hada.io/topic?id=6747"/>
+        <updated>2022-06-14T03:28:30.000Z</updated>
+        <summary type="html"><![CDATA[100개 이상의 빅 테크 회사들을 설문 조사한 결과
+빅 테크의 프로젝트 관리 방식을 정리하면 ⇨ "상황에 따라 다름(It Depends)"
+
+대부분 정해진 방법론이나 업무 방식은 없고, 팀이 자신에 맞는 것을 선택
+상장회사나 투자받은 회사들은 전담 PM이 있는 것에 대해서 만족...]]></summary>
         <author>
             <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
@@ -98,63 +163,6 @@ Type Provider 기본 제공]]></summary>
 Useful Tools for Visualizing Databases on a Budget originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Aisha Bukar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[페이스북은 어떻게 배포하는가]]></title>
-        <id>https://news.hada.io/topic?id=6740</id>
-        <link href="https://news.hada.io/topic?id=6740"/>
-        <updated>2022-06-13T16:15:07.000Z</updated>
-        <summary type="html"><![CDATA[조직구조: Engineering과 Ops팀이 50% 이상을 차지하고, 1명의 제품관리자가 대략 7-10명 정도의 엔지니어를 맡는다
-입사: 4-6주짜리 부트캠프를 거친 후에는, 실제 DB에 접속할 수 있는 권한을 받게 됨
-권한과 책임: 모든 엔지니어는 코드의 모든 부분을 수정할 수 있고, 스펙과 우선순위 변...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1조 회사들은 MVP를 어떻게 개발하고, 첫 1000명의 사용자를 모았을까]]></title>
-        <id>https://news.hada.io/topic?id=6739</id>
-        <link href="https://news.hada.io/topic?id=6739"/>
-        <updated>2022-06-13T02:04:02.000Z</updated>
-        <summary type="html"><![CDATA[충분히 큰 문제를 해결하기 : Airbnb, Dropbox, WhatsApp
-
-경쟁자들의 문제를 해결하기 : Zoom, Wordpress
-고객들에게 듣고 피봇하기 : Twitter, Groupon, Pinterest, Slack, DoorDash, Instagram, Twitch
-오래된 컨셉을 새로운 방법으로 제시하기 : Zappos, Uber, Netf...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TinyGo - LLVM기반의 소형 Go 컴파일러]]></title>
-        <id>https://news.hada.io/topic?id=6738</id>
-        <link href="https://news.hada.io/topic?id=6738"/>
-        <updated>2022-06-13T01:26:01.000Z</updated>
-        <summary type="html"><![CDATA[마이크로콘트롤러, WebAssembly(WASM/WASI) 및 CLI 도구 등에서 사용 가능
-대부분의 표준 라이브러리 패키지를 지원하며 수정없이 Go 코드 컴파일 가능
-LLVM을 내부적으로 이용해서 작고 효율적인 코드를 만들어 냄
-훌륭한 CGo 지원
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더 나은 언어 선택창 만들기]]></title>
-        <id>https://news.hada.io/topic?id=6737</id>
-        <link href="https://news.hada.io/topic?id=6737"/>
-        <updated>2022-06-13T01:03:02.000Z</updated>
-        <summary type="html"><![CDATA[사용자를 Nudge 하되, 자동 리디렉션은 피하기
-위치/언어/통화 설정을 디커플링 하기
-사용자 설정 가능하게 하기 (통화, 타임존, 측정단위)
-논모달 창 사용 고려하기
-국가/언어를 섹션/탭/아코디언 등으로 조직화
-자동완성 추천으로 입력창 제공
-국가에...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
     </entry>
     <entry>
@@ -485,18 +493,6 @@ After a good …
 Mastering SVG’s stroke-miterlimit Attribute originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Mariana Beldi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[First Look At The CSS object-view-box Property]]></title>
-        <id>https://css-tricks.com/?p=365992</id>
-        <link href="https://css-tricks.com/first-look-at-the-css-object-view-box-property/"/>
-        <updated>2022-05-23T19:15:53.000Z</updated>
-        <summary type="html"><![CDATA[Ahmad Shadeed — doing what he always does so well — provides an early look at the object-view-box property, something he describes as a native way to crop an image in the browser with CSS.
-The use case? Well, …
-First Look At The CSS object-view-box Property originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>

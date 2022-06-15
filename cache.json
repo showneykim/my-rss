@@ -6,12 +6,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=366388",
+          "author": "Geoff Graham",
+          "description": "Well, sheesh. I opened a little can of worms when sharing Miriam’s “Am I on the IndieWeb yet?” with a short post bemoaning my own trouble getting on the IndieWeb train. But it’s a good can of worms.\nI think …\nDe-Mystifying IndieWeb on a WordPress Site originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/de-mystifying-indieweb-on-a-wordpress-site/",
+          "publishedOn": "2022-06-14T16:48:34.000Z",
+          "wordCount": 2254,
+          "title": "De-Mystifying IndieWeb on a WordPress Site",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366388"
+        },
+        {
           "id": "https://css-tricks.com/?p=366260",
           "author": "Aisha Bukar",
           "description": "A diagram is a graphical representation of information that depicts the structure, relationship, or operation of anything. Diagrams enable your audience to visually grasp hidden information and engage with them in ways that words alone cannot. Depending on the type …\nUseful Tools for Visualizing Databases on a Budget originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/useful-tools-for-visualizing-databases-on-a-budget/",
           "publishedOn": "2022-06-13T19:15:26.000Z",
-          "wordCount": 1285,
+          "wordCount": 1454,
           "title": "Useful Tools for Visualizing Databases on a Budget",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366260"
         },
@@ -31,7 +41,7 @@
           "description": "Can’t smash the Like button hard enough for what Miriam Suzanne has to say on the challenging technical hurdles of implementing Webmentions:\nThe first round required several online services along with HTML & JS changes to my static site, just to verify my \n…\nAm I on the IndieWeb yet? originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/am-i-on-the-indieweb-yet/",
           "publishedOn": "2022-06-09T15:32:50.000Z",
-          "wordCount": 950,
+          "wordCount": 998,
           "title": "Am I on the IndieWeb yet?",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366286"
         },
@@ -41,7 +51,7 @@
           "description": "QR codes are funny, right? We love them, then hate them, then love them again. Anyways, they’ve lately been popping up again and it got me thinking about how they’re made. There are like a gazillion QR code generators out …\nLet’s Make a QR Code Generator With a Serverless Function! originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/lets-make-a-qr-code-generator-with-a-serverless-function/",
           "publishedOn": "2022-06-08T14:30:53.000Z",
-          "wordCount": 937,
+          "wordCount": 976,
           "title": "Let’s Make a QR Code Generator With a Serverless Function!",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366147"
         },
@@ -144,16 +154,6 @@
           "wordCount": 1666,
           "title": "Mastering SVG’s stroke-miterlimit Attribute",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365828"
-        },
-        {
-          "id": "https://css-tricks.com/?p=365992",
-          "author": "Geoff Graham",
-          "description": "Ahmad Shadeed — doing what he always does so well — provides an early look at the object-view-box property, something he describes as a native way to crop an image in the browser with CSS.\nThe use case? Well, …\nFirst Look At The CSS object-view-box Property originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/first-look-at-the-css-object-view-box-property/",
-          "publishedOn": "2022-05-23T19:15:53.000Z",
-          "wordCount": 363,
-          "title": "First Look At The CSS object-view-box Property",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365992"
         }
       ]
     },
@@ -188,7 +188,7 @@
           "description": "MongoDB에서 Sequence 사용하기 on Node.js MongoDB는 Oracle이나 PostgreSQL의 Sequence나 MySQL의 Auto Increment 같은 기능이 없습니다.  반면 MongoDB에 익숙한 사람들은 12-byte로된 Object_ID에 더 익숙할겁니다.  MongoDB는 자동 증가 시퀀스를 기본 기능으로 지원하지 않지만 이 기능은 카운터...\nThe post MongoDB에서 Sequence 사용하기 on Node.js appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/mongodb-sequence-on-node-js/",
           "publishedOn": "2022-05-25T01:25:28.000Z",
-          "wordCount": 688,
+          "wordCount": 727,
           "title": "MongoDB에서 Sequence 사용하기 on Node.js",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2020/04/37_2019081518484308.jpg"
         },
@@ -220,104 +220,104 @@
       "siteUrl": "https://news.hada.io",
       "articles": [
         {
-          "id": "https://news.hada.io/topic?id=6746",
+          "id": "https://news.hada.io/topic?id=6756",
           "author": null,
-          "description": "자신이 제기한 AI Ethics(윤리)건과 관련하여 \"유급 관리 휴가\"를 받았고, 이는 구글이 해고하기 전에 하는 행동이라고\nLaMDA 와 진행한 인터뷰를 통해서 AI가 지각(Sentient)이 있다고 판단했다고 얘기하며 인터뷰 내용을 공개\n구글은 그가 비밀 유지 의무 위반 및 LaMDA를 의인화...",
-          "link": "https://news.hada.io/topic?id=6746",
-          "publishedOn": "2022-06-14T01:41:06.000Z",
-          "wordCount": 165,
-          "title": "구글, 대화형 AI(챗봇)가 지각이 있다고 주장한 직원을 유급 휴직 처분",
-          "imageUrl": "https://social.news.hada.io/topic/6746"
+          "description": "마이크로소프트가 2022년 6월 15일자로 인터넷 익스플로러(IE) 11 지원을 종료\nPC 시대, MS의 절대 권력이었던 IE… 한 때 ‘끼워팔기’ 논란\n브라우저 춘추전국시대 돌입, 스마트폰 등장과 함께 IE 시대 저물어가\n1개월 간은 윈도우를 통해 IE 접근 시 자동으로 엣지 ‘IE 모드’로...",
+          "link": "https://news.hada.io/topic?id=6756",
+          "publishedOn": "2022-06-15T01:43:53.000Z",
+          "wordCount": 135,
+          "title": "27년만에 역사 속으로 사라지는 인터넷 익스플로러… 서비스 종료 이후는?",
+          "imageUrl": "https://social.news.hada.io/topic/6756"
         },
         {
-          "id": "https://news.hada.io/topic?id=6745",
+          "id": "https://news.hada.io/topic?id=6755",
           "author": null,
-          "description": "8.7 kWh 용량으로 5.5 kW 출력 가능\n1142mm x 341mm x 432mm, 142kg으로 집 외부에 설치\n-20도 ~ 45도 환경에서 사용가능\n하이브리드 파워 컨디셔너와 DC-to-DC 어댑터, 1.1Kwh 출력가능한 차량용 어댑터 제공\n\n...",
-          "link": "https://news.hada.io/topic?id=6745",
-          "publishedOn": "2022-06-14T01:19:23.000Z",
-          "wordCount": 134,
-          "title": "도요타, 가정용 8.7kWh 배터리 공개",
-          "imageUrl": "https://social.news.hada.io/topic/6745"
+          "description": "512개의 플로피 디스크 드라이브, 4대의 플랫베드 스캐너, 16개의 하드디스크 드라이브 로 구성\nUSB-to-MIDI 컨트롤러로 음악 데이터를 전송하고, 전용 컨트롤러로 각 기기에서 특정음을 내어 음악을 연주하는 장치\n\nFDD는 헤드 이동 소리로 낮은 톤을 내고\n스캐너는 모터가 커서 고...",
+          "link": "https://news.hada.io/topic?id=6755",
+          "publishedOn": "2022-06-15T01:32:39.000Z",
+          "wordCount": 141,
+          "title": "Floppotron 3.0 - FDD/HDD/스캐너로 만든 컴퓨터 오케스트라",
+          "imageUrl": "https://social.news.hada.io/topic/6755"
         },
         {
-          "id": "https://news.hada.io/topic?id=6744",
+          "id": "https://news.hada.io/topic?id=6754",
           "author": null,
-          "description": "안드로이드용 오픈소스 이메일 클라이언트였던 K-9 Mail이 썬더버드 패밀리에 조인\nK-9의 메인 개발자가 풀타임 썬더버드 스태프로 참여하고, K-9를 안드로이드용 Thunderbird로 이름을 변경하고 전환 작업을 진행\n\n썬더버드의 자동 계정 설정 지원\n썬더버드 데스크탑과의 동기화",
-          "link": "https://news.hada.io/topic?id=6744",
-          "publishedOn": "2022-06-14T00:53:01.000Z",
-          "wordCount": 94,
-          "title": "Android용 Thunderbird 계획 발표",
-          "imageUrl": "https://social.news.hada.io/topic/6744"
+          "description": "디지털 노트북 및 브레인스토밍 도구로 개발\n브러시 스트로크를 컬렉션으로 저장해서 런타임 렌더링\nGodot 게임 엔진으로 작성됨\n무한 캔버스, 무한 Undo/Redo 지원, 거의 무한대의 Zoom 가능\n엄청 작게 설계된 Savefile\nSVG Export\nWacom 등의 압력 감...",
+          "link": "https://news.hada.io/topic?id=6754",
+          "publishedOn": "2022-06-15T01:21:29.000Z",
+          "wordCount": 97,
+          "title": "Lorien - 무한 칠판/노트 작성 도구 오픈소스",
+          "imageUrl": "https://social.news.hada.io/topic/6754"
         },
         {
-          "id": "https://news.hada.io/topic?id=6743",
+          "id": "https://news.hada.io/topic?id=6753",
           "author": null,
-          "description": "WebContainers는 풀스택 Node.js 환경을 브라우저에서 WASM 으로 실행하는 것\n웹표준 API를 이용해서 개발되었지만 지금까진 크로미엄 기반에서만 실행가능 했음\n모질라 팀과 협업해서 이제 Firefox Mobile/Desktop에서 WebContainers를 지원\n\n풀웹앱을 브라우저 탭에서 개발 및 실행...",
-          "link": "https://news.hada.io/topic?id=6743",
-          "publishedOn": "2022-06-14T00:36:01.000Z",
-          "wordCount": 112,
-          "title": "Firefox 데스크탑 & 안드로이드에서 WebContainers 지원 시작",
-          "imageUrl": "https://social.news.hada.io/topic/6743"
+          "description": "기존에는 12시간 보관만 가능해서, 이식용 간의 70%는 사용이 불가했음\n인체 내부와 비슷한 압력과 온도등으로 재현해서 최대 \"12일\"까지 보관 가능\n이식전에 생체 검사및 약물 치료할 가능성도 커져\n\n...",
+          "link": "https://news.hada.io/topic?id=6753",
+          "publishedOn": "2022-06-15T00:58:17.000Z",
+          "wordCount": 159,
+          "title": "간 이식에 변화를 몰고 올 혁신적 보관 기술이 등장했다",
+          "imageUrl": "https://social.news.hada.io/topic/6753"
         },
         {
-          "id": "https://news.hada.io/topic?id=6742",
+          "id": "https://news.hada.io/topic?id=6752",
           "author": null,
-          "description": "2년만에 메이저 버전 업\n\"resolved with undefined\" 문제 해결 : reply.send 호출 의무화\n에러 핸들러 캡슐화하여 일관적인 에러 처리 방식 도입\n워커 쓰레드를 이용한 Pino 로거로 같은 프로세스에서 처리 가능\nType Provider 기본 제공",
-          "link": "https://news.hada.io/topic?id=6742",
-          "publishedOn": "2022-06-14T00:20:01.000Z",
+          "description": "인재를 뽑기 쉽고, 빠르게 작업 가능하고, 성능이 좋음",
+          "link": "https://news.hada.io/topic?id=6752",
+          "publishedOn": "2022-06-15T00:52:14.000Z",
+          "wordCount": 150,
+          "title": "왜 Rust가 스타트업에게 좋은 선택인가",
+          "imageUrl": "https://social.news.hada.io/topic/6752"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6751",
+          "author": null,
+          "description": "빌드 단계가 없음 : 코드 작성후 Deno Deploy에 올리면 프레임워크가 알아서 처리\nEdge에서 JIT 렌더링\nZero Config\nTypeScript 기본 지원\nIsland based client hydration\nPreact + JSX\n\n...",
+          "link": "https://news.hada.io/topic?id=6751",
+          "publishedOn": "2022-06-15T00:38:10.000Z",
           "wordCount": 98,
-          "title": "Fastify 4.0 릴리즈",
-          "imageUrl": "https://social.news.hada.io/topic/6742"
+          "title": "Fresh - 차세대 웹 프레임워크",
+          "imageUrl": "https://social.news.hada.io/topic/6751"
         },
         {
-          "id": "https://news.hada.io/topic?id=6741",
+          "id": "https://news.hada.io/topic?id=6750",
           "author": null,
-          "description": "기존 HIG 자료를 완전히 다시 디자인\n플랫폼별 지침을 통합문서로 합치고, 각 플랫폼에 대한 세부 정보를 유지하면서도 공통적인 디자인 접근을 쉽게\n네비게이션을 쉽게 만들고, 인덱스 생성. 내부 검색 가능\n올해안에 전체 및 각 페이지별 변경 로그도 추가될 예정\n\n...",
-          "link": "https://news.hada.io/topic?id=6741",
-          "publishedOn": "2022-06-14T00:06:01.000Z",
-          "wordCount": 107,
-          "title": "새로운 Apple Human Interface Guidelines",
-          "imageUrl": "https://social.news.hada.io/topic/6741"
+          "description": "토스에서 '계좌에 돈이 부족할 때 알려드릴까요?'에 동의하면 '마케팅 정보 수신 동의'를 하게 된다",
+          "link": "https://news.hada.io/topic?id=6750",
+          "publishedOn": "2022-06-15T00:28:40.000Z",
+          "wordCount": 151,
+          "title": "토스에서 '계좌에 돈이 부족할 때 알려드릴까요?'에 동의하면 '마케팅 정보 수신 동의'를 하게 된다",
+          "imageUrl": "https://social.news.hada.io/topic/6750"
         },
         {
-          "id": "https://news.hada.io/topic?id=6740",
+          "id": "https://news.hada.io/topic?id=6749",
           "author": null,
-          "description": "조직구조: Engineering과 Ops팀이 50% 이상을 차지하고, 1명의 제품관리자가 대략 7-10명 정도의 엔지니어를 맡는다\n입사: 4-6주짜리 부트캠프를 거친 후에는, 실제 DB에 접속할 수 있는 권한을 받게 됨\n권한과 책임: 모든 엔지니어는 코드의 모든 부분을 수정할 수 있고, 스펙과 우선순위 변...",
-          "link": "https://news.hada.io/topic?id=6740",
-          "publishedOn": "2022-06-13T16:15:07.000Z",
-          "wordCount": 225,
-          "title": "페이스북은 어떻게 배포하는가",
-          "imageUrl": "https://social.news.hada.io/topic/6740"
+          "description": "GitHub이 직접 만든 가이드\nFirst day on GitHub\nIntroduction to GitHub\nCommunicate using Markdown\nGitHub Pages\nFirst week on GitHub\nReview pull requests\nResolve merge conflicts\nAutomate workflows with Gi",
+          "link": "https://news.hada.io/topic?id=6749",
+          "publishedOn": "2022-06-15T00:12:33.000Z",
+          "wordCount": 132,
+          "title": "GitHub Skills - 인터랙티브하게 GitHub 사용법 배우기",
+          "imageUrl": "https://social.news.hada.io/topic/6749"
         },
         {
-          "id": "https://news.hada.io/topic?id=6739",
+          "id": "https://news.hada.io/topic?id=6748",
           "author": null,
-          "description": "충분히 큰 문제를 해결하기 : Airbnb, Dropbox, WhatsApp\n\n경쟁자들의 문제를 해결하기 : Zoom, Wordpress\n고객들에게 듣고 피봇하기 : Twitter, Groupon, Pinterest, Slack, DoorDash, Instagram, Twitch\n오래된 컨셉을 새로운 방법으로 제시하기 : Zappos, Uber, Netf...",
-          "link": "https://news.hada.io/topic?id=6739",
-          "publishedOn": "2022-06-13T02:04:02.000Z",
+          "description": "미국 에너지부 산하 최대 연구소인 오크리지 국립 연구소 (Oak Ridge National Laboratory)의 슈퍼컴퓨터인 Frontier가 1.1 엑사플롭스로 전 1위였던 후가쿠(442 페타플롭스)를 두배 이상 격차로 제치고 세계 슈퍼컴퓨터 성능 순위표인 Top500 (https://www.top500.org/)에서 1위를 차지.\nFrontier는 ...",
+          "link": "https://news.hada.io/topic?id=6748",
+          "publishedOn": "2022-06-14T06:48:26.000Z",
           "wordCount": 154,
-          "title": "1조 회사들은 MVP를 어떻게 개발하고, 첫 1000명의 사용자를 모았을까",
-          "imageUrl": "https://social.news.hada.io/topic/6739"
+          "title": "오크리지 국립 연구소의 Frontier가 세계 슈퍼컴퓨터 순위 1위를 차지",
+          "imageUrl": "https://social.news.hada.io/topic/6748"
         },
         {
-          "id": "https://news.hada.io/topic?id=6738",
+          "id": "https://news.hada.io/topic?id=6747",
           "author": null,
-          "description": "마이크로콘트롤러, WebAssembly(WASM/WASI) 및 CLI 도구 등에서 사용 가능\n대부분의 표준 라이브러리 패키지를 지원하며 수정없이 Go 코드 컴파일 가능\nLLVM을 내부적으로 이용해서 작고 효율적인 코드를 만들어 냄\n훌륭한 CGo 지원\n\n...",
-          "link": "https://news.hada.io/topic?id=6738",
-          "publishedOn": "2022-06-13T01:26:01.000Z",
-          "wordCount": 255,
-          "title": "TinyGo - LLVM기반의 소형 Go 컴파일러",
-          "imageUrl": "https://social.news.hada.io/topic/6738"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6737",
-          "author": null,
-          "description": "사용자를 Nudge 하되, 자동 리디렉션은 피하기\n위치/언어/통화 설정을 디커플링 하기\n사용자 설정 가능하게 하기 (통화, 타임존, 측정단위)\n논모달 창 사용 고려하기\n국가/언어를 섹션/탭/아코디언 등으로 조직화\n자동완성 추천으로 입력창 제공\n국가에...",
-          "link": "https://news.hada.io/topic?id=6737",
-          "publishedOn": "2022-06-13T01:03:02.000Z",
-          "wordCount": 118,
-          "title": "더 나은 언어 선택창 만들기",
-          "imageUrl": "https://social.news.hada.io/topic/6737"
+          "description": "100개 이상의 빅 테크 회사들을 설문 조사한 결과\n빅 테크의 프로젝트 관리 방식을 정리하면 ⇨ \"상황에 따라 다름(It Depends)\"\n\n대부분 정해진 방법론이나 업무 방식은 없고, 팀이 자신에 맞는 것을 선택\n상장회사나 투자받은 회사들은 전담 PM이 있는 것에 대해서 만족...",
+          "link": "https://news.hada.io/topic?id=6747",
+          "publishedOn": "2022-06-14T03:28:30.000Z",
+          "wordCount": 689,
+          "title": "큰 기술 회사들은 어떻게 프로젝트를 진행할까",
+          "imageUrl": "https://social.news.hada.io/topic/6747"
         }
       ]
     },
