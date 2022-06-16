@@ -6,6 +6,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=366252",
+          "author": "Preethi",
+          "description": "Calendars, shopping carts, galleries, file explorers, and online libraries are some situations where selectable items are shown in grids (i.e. square lattices). You know, even those security checks that ask you to select all images with crosswalks or whatever.\n🧐…\nConditionally Styling Selected Elements in a Grid Container originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/conditionally-styling-selected-elements-in-a-grid-container/",
+          "publishedOn": "2022-06-15T14:15:50.000Z",
+          "wordCount": 1821,
+          "title": "Conditionally Styling Selected Elements in a Grid Container",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366252"
+        },
+        {
           "id": "https://css-tricks.com/?p=366388",
           "author": "Geoff Graham",
           "description": "Well, sheesh. I opened a little can of worms when sharing Miriam’s “Am I on the IndieWeb yet?” with a short post bemoaning my own trouble getting on the IndieWeb train. But it’s a good can of worms.\nI think …\nDe-Mystifying IndieWeb on a WordPress Site originally published on CSS-Tricks. You should get the newsletter.",
@@ -21,7 +31,7 @@
           "description": "A diagram is a graphical representation of information that depicts the structure, relationship, or operation of anything. Diagrams enable your audience to visually grasp hidden information and engage with them in ways that words alone cannot. Depending on the type …\nUseful Tools for Visualizing Databases on a Budget originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/useful-tools-for-visualizing-databases-on-a-budget/",
           "publishedOn": "2022-06-13T19:15:26.000Z",
-          "wordCount": 1454,
+          "wordCount": 1538,
           "title": "Useful Tools for Visualizing Databases on a Budget",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366260"
         },
@@ -61,7 +71,7 @@
           "description": "Those of us who’ve been web developers more than a few years have probably written code using more than one JavaScript framework. With all the choices out there — React, Svelte, Vue, Angular, Solid — it’s all but inevitable. One …\nBuilding Interoperable Web Components That Even Work With React originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/building-interoperable-web-components-react/",
           "publishedOn": "2022-06-07T13:57:57.000Z",
-          "wordCount": 4002,
+          "wordCount": 4040,
           "title": "Building Interoperable Web Components That Even Work With React",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366222"
         },
@@ -71,7 +81,7 @@
           "description": "There’s all kinds of ways to do that. Some more advisable and better-suited for certain situations than others, of course.\nWe could do it directly in HTML:\n<pWe go from one line...<br<brdown a couple more.</p\nBut that’s …\nPlease Give Me Some Space originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/please-give-me-some-space/",
           "publishedOn": "2022-06-03T14:39:11.000Z",
-          "wordCount": 732,
+          "wordCount": 744,
           "title": "Please Give Me Some Space",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366202"
         },
@@ -144,16 +154,6 @@
           "wordCount": 3770,
           "title": "A Perfect Table of Contents With HTML + CSS",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365888"
-        },
-        {
-          "id": "https://css-tricks.com/?p=365828",
-          "author": "Mariana Beldi",
-          "description": "So, SVG has this stroke-miterlimit presentation attribute. You’ve probably seen it when exporting an SVG from a graphic editor program, or perhaps you find out you could remove it without noticing any change to the visual appearance.\nAfter a good …\nMastering SVG’s stroke-miterlimit Attribute originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/mastering-svgs-stroke-miterlimit-attribute/",
-          "publishedOn": "2022-05-24T14:04:17.000Z",
-          "wordCount": 1666,
-          "title": "Mastering SVG’s stroke-miterlimit Attribute",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365828"
         }
       ]
     },
@@ -168,7 +168,7 @@
           "description": "Aurora v1 EOL을 대처 하는 우리의 자세 (feat. MySQL 5.6) End of Life! 그렇게 EOL 입니다. MySQL 5.6을 기반으로 하는 AWS의 Aurora v1 버전의 EOL 소식이  들려오고 있습니다. AWS Aurora v1 EOL 소식 2023년 2월을...\nThe post Aurora v1 EOL을 대처 하는 우리의 자세 (feat. MySQL 5.6) appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/aurora-v1-eol%ec%9d%84-%eb%8c%80%ec%b2%98-%ed%95%98%eb%8a%94-%ec%9a%b0%eb%a6%ac%ec%9d%98-%ec%9e%90%ec%84%b8-feat-mysql-5-6/",
           "publishedOn": "2022-06-11T13:19:35.000Z",
-          "wordCount": 1143,
+          "wordCount": 1146,
           "title": "Aurora v1 EOL을 대처 하는 우리의 자세 (feat. MySQL 5.6)",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2019/04/mysql_PNG19-300x300.png"
         },
@@ -178,7 +178,7 @@
           "description": "MongoDB 5.0 Time Series MongoDB가 5.x 버전으로 릴리즈 되면서 추가된 유용한 기능 중에 하나가 바로 Time Series 컬렉션을 활용할 수 있다는 것 입니다. 쉽게 표현하면 시계열 데이터를 저장하는 기능인데 더 쉽게 표현하면 일정 시간...\nThe post MongoDB 5.0 Time Series appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/mongodb_timeseries/",
           "publishedOn": "2022-06-03T05:48:26.000Z",
-          "wordCount": 1122,
+          "wordCount": 1117,
           "title": "MongoDB 5.0 Time Series",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2020/04/37_2019081518484308.jpg"
         },
@@ -198,7 +198,7 @@
           "description": "Database Specialist or Generalist ?! 서론 이런 글을 쓰게 된 이유는 최근 들어 많이 생각하게되고, 주변 DBA분들이나 비슷한 종사자 엔지니어들과 교류하면서 느낀점이 있기 때문입니다. DBA라는 포지션은 지금까지 대부분 스페셜리스트였습니다. Oracle이 DBA의 대세였던 시절부터, Engineer...\nThe post Database Specialist or Generalist ?! appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/database-specialist-or-generalist/",
           "publishedOn": "2022-05-23T01:00:21.000Z",
-          "wordCount": 1242,
+          "wordCount": 1244,
           "title": "Database Specialist or Generalist ?!",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2021/04/sm_5b46d890d85b8-300x300.jpg"
         },
@@ -208,7 +208,7 @@
           "description": "MERN Stack 이란? 최근 MongoDB에 대한 자료들을 찾아보다 보면 해외 사이트들에서 쉽게 접할 수 있는 단어입니다. 꽤 인기있는 것으로 Udemy 같은 온라인 교육 사이트에는 MERN Stack에 대한 통합 교육과정도 업로드 되고 있습니다. MERN은 스택을 구성하는...\nThe post MERN Stack 이란? appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/mern-stack-%ec%9d%b4%eb%9e%80/",
           "publishedOn": "2022-05-20T16:20:29.000Z",
-          "wordCount": 921,
+          "wordCount": 923,
           "title": "MERN Stack 이란?",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2020/04/37_2019081518484308.jpg"
         }
@@ -220,104 +220,104 @@
       "siteUrl": "https://news.hada.io",
       "articles": [
         {
+          "id": "https://news.hada.io/topic?id=6766",
+          "author": null,
+          "description": "표준 정규식으로 트랜스파일\n공백 무시, 코멘트 지원\n유니코드 지원\n숫자 범위 및 변수 같은 확장 기능 지원\n알기 쉬운 에러 메시지\nRust 오픈소스\n\n...",
+          "link": "https://news.hada.io/topic?id=6766",
+          "publishedOn": "2022-06-16T01:09:22.000Z",
+          "wordCount": 80,
+          "title": "Rulex - 새로운 포터블 정규식 언어",
+          "imageUrl": "https://social.news.hada.io/topic/6766"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6765",
+          "author": null,
+          "description": "데이터팀을 채용하고, 조직을 구성하고, 문화를 만드는 것, 전략과 조직내에서 운용하는 방법에 관한 글들 모음\nHiring\nCulture\nImpact\nStrategy\nProject Management\nCode Review\nOrganization Structure and Job Titles\nML and AI Wit",
+          "link": "https://news.hada.io/topic?id=6765",
+          "publishedOn": "2022-06-16T00:50:23.000Z",
+          "wordCount": 92,
+          "title": "Awesome Data Leadership",
+          "imageUrl": "https://social.news.hada.io/topic/6765"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6764",
+          "author": null,
+          "description": "현재 2천만대의 승용EV, 130만대의 상용EV(버스,밴,트럭), 2.8억대의 전기 스쿠터/오토바이/3륜차가 운행 중\n단기 전망\n전기차 판매량은 급속하게 증가\n플러그인 하이브리드 보다 배터리 전기차의 증가율이 더 큼\n2025년에 중국와 유럽이 전기차 판매의 80%를 ...",
+          "link": "https://news.hada.io/topic?id=6764",
+          "publishedOn": "2022-06-16T00:34:42.000Z",
+          "wordCount": 585,
+          "title": "블룸버그의 전기차 전망 EV Outlook 2022",
+          "imageUrl": "https://social.news.hada.io/topic/6764"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6763",
+          "author": null,
+          "description": "Amazon-Native(아마존을 기반으로 구축한) 브랜드로 2021년 아마존에서 $1B 매출 달성하고 공격적으로 다각화 중\n2011년 구글 엔지니어였던 스티븐 양이 중국 선전에서 시작해서 배터리, 충전기, 케이블 등을 아마존에서 팔기 시작\n매출의 절반 이상을 아마존에서 내고 있지만 점점 축소중...",
+          "link": "https://news.hada.io/topic?id=6763",
+          "publishedOn": "2022-06-16T00:21:41.000Z",
+          "wordCount": 183,
+          "title": "Anker가 아마존에서만 1.2조원 매출을 달성",
+          "imageUrl": "https://social.news.hada.io/topic/6763"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6762",
+          "author": null,
+          "description": "작년 11월에 공개한 OnCall SaaS의 오픈소스\nDevOps 와 SRE 팀이 효율적으로 협업할 수 있도록, 온콜 로테이션을 셋업하고 관리해주는 도구\n여러 모니터링 시스템에서 알림을 수집하고 분석\n전화, SMS, 슬랙, 텔레그램 알림 가능\nPython 오픈소스, GNU AGPL 3.0\n\n...",
+          "link": "https://news.hada.io/topic?id=6762",
+          "publishedOn": "2022-06-15T23:58:08.000Z",
+          "wordCount": 116,
+          "title": "Grafana, OnCall 오픈소스 공개",
+          "imageUrl": "https://social.news.hada.io/topic/6762"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6761",
+          "author": null,
+          "description": "뤼이드에서는 모바일 앱을 주력으로 하는 다른 많은 스타트업들이 그렇듯이, 각 모바일 플랫폼에 공통적으로 제공되는 화면을 웹으로 개발해서 웹뷰 형태로 탑재하는 방식을 사용합니다.\n별개로 빠른 웹뷰 개발 이터레이션을 위해서, 웹뷰 대신 iframe을 사용해서 모바일 네이티브를 흉내내는 방식으로 가상 모",
+          "link": "https://news.hada.io/topic?id=6761",
+          "publishedOn": "2022-06-15T12:03:59.000Z",
+          "wordCount": 375,
+          "title": "Show GN: WRP - 웹뷰와 모바일 네이티브 통신을 위한 Protobuf 서비스 프로토콜",
+          "imageUrl": "https://social.news.hada.io/topic/6761"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6760",
+          "author": null,
+          "description": "최근 VS Code에 'Trusted workspace' 개념이 생겼습니다. 새로운 폴더를 열게 되면 '이 폴더를 신뢰하십니까' 하는 질문이 뜹니다.\n'예'를 선택하면 모든 기능을 사용할 수 있는 대신, 악의적으로 작성된 폴더에서 '예'를 누르면 악의적인 코드가 자동 실행되는 결과를 맺을 수 있게 되고요. 대신 '아니오'를",
+          "link": "https://news.hada.io/topic?id=6760",
+          "publishedOn": "2022-06-15T08:19:55.000Z",
+          "wordCount": 290,
+          "title": "Ask GN: VS Code에서 다른 편집기로 갈아타고 싶습니다. 뭐가 좋을까요?",
+          "imageUrl": "https://social.news.hada.io/topic/6760"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6759",
+          "author": null,
+          "description": "개발하고 있는 서비스에서 외부 API 요청이 timeout 이 나면 어떻게 될까를 시뮬레이션 해보려다가 귀찮아서 만들었습니다.\n해당 API 에 원하는 status code, response body, timeout 을 설정해서 request 하면, 원하는 response 를 받으실 수 있습니다.\n다른 분들에게도 쓸모가 있을지 잘 모르겠네요",
+          "link": "https://news.hada.io/topic?id=6759",
+          "publishedOn": "2022-06-15T04:28:38.000Z",
+          "wordCount": 169,
+          "title": "Show GN: Test API - Simple API that is (maybe) useful for testing",
+          "imageUrl": "https://social.news.hada.io/topic/6759"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6758",
+          "author": null,
+          "description": "이유는 간단합니다.\n한국에서 \"동지\"들이 전부 음지에서 활동하고 있어서 만나기가 너무 힘들다.\nELisp은 정말이지 친해지지 않는다.\n나에게 이맥스를 전파한 학부 교수님이 최근에 vscode 쓰신다더라..\ngccemacs가 한줄기 빛이었는데, 리눅스 말고는 딱히 빨라지",
+          "link": "https://news.hada.io/topic?id=6758",
+          "publishedOn": "2022-06-15T02:08:47.000Z",
+          "wordCount": 350,
+          "title": "Ask GN: 이맥스 20년 쓰다가 Vimmer로 전향했습니다.",
+          "imageUrl": "https://social.news.hada.io/topic/6758"
+        },
+        {
           "id": "https://news.hada.io/topic?id=6756",
           "author": null,
           "description": "마이크로소프트가 2022년 6월 15일자로 인터넷 익스플로러(IE) 11 지원을 종료\nPC 시대, MS의 절대 권력이었던 IE… 한 때 ‘끼워팔기’ 논란\n브라우저 춘추전국시대 돌입, 스마트폰 등장과 함께 IE 시대 저물어가\n1개월 간은 윈도우를 통해 IE 접근 시 자동으로 엣지 ‘IE 모드’로...",
           "link": "https://news.hada.io/topic?id=6756",
           "publishedOn": "2022-06-15T01:43:53.000Z",
-          "wordCount": 135,
+          "wordCount": 142,
           "title": "27년만에 역사 속으로 사라지는 인터넷 익스플로러… 서비스 종료 이후는?",
           "imageUrl": "https://social.news.hada.io/topic/6756"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6755",
-          "author": null,
-          "description": "512개의 플로피 디스크 드라이브, 4대의 플랫베드 스캐너, 16개의 하드디스크 드라이브 로 구성\nUSB-to-MIDI 컨트롤러로 음악 데이터를 전송하고, 전용 컨트롤러로 각 기기에서 특정음을 내어 음악을 연주하는 장치\n\nFDD는 헤드 이동 소리로 낮은 톤을 내고\n스캐너는 모터가 커서 고...",
-          "link": "https://news.hada.io/topic?id=6755",
-          "publishedOn": "2022-06-15T01:32:39.000Z",
-          "wordCount": 141,
-          "title": "Floppotron 3.0 - FDD/HDD/스캐너로 만든 컴퓨터 오케스트라",
-          "imageUrl": "https://social.news.hada.io/topic/6755"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6754",
-          "author": null,
-          "description": "디지털 노트북 및 브레인스토밍 도구로 개발\n브러시 스트로크를 컬렉션으로 저장해서 런타임 렌더링\nGodot 게임 엔진으로 작성됨\n무한 캔버스, 무한 Undo/Redo 지원, 거의 무한대의 Zoom 가능\n엄청 작게 설계된 Savefile\nSVG Export\nWacom 등의 압력 감...",
-          "link": "https://news.hada.io/topic?id=6754",
-          "publishedOn": "2022-06-15T01:21:29.000Z",
-          "wordCount": 97,
-          "title": "Lorien - 무한 칠판/노트 작성 도구 오픈소스",
-          "imageUrl": "https://social.news.hada.io/topic/6754"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6753",
-          "author": null,
-          "description": "기존에는 12시간 보관만 가능해서, 이식용 간의 70%는 사용이 불가했음\n인체 내부와 비슷한 압력과 온도등으로 재현해서 최대 \"12일\"까지 보관 가능\n이식전에 생체 검사및 약물 치료할 가능성도 커져\n\n...",
-          "link": "https://news.hada.io/topic?id=6753",
-          "publishedOn": "2022-06-15T00:58:17.000Z",
-          "wordCount": 159,
-          "title": "간 이식에 변화를 몰고 올 혁신적 보관 기술이 등장했다",
-          "imageUrl": "https://social.news.hada.io/topic/6753"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6752",
-          "author": null,
-          "description": "인재를 뽑기 쉽고, 빠르게 작업 가능하고, 성능이 좋음",
-          "link": "https://news.hada.io/topic?id=6752",
-          "publishedOn": "2022-06-15T00:52:14.000Z",
-          "wordCount": 150,
-          "title": "왜 Rust가 스타트업에게 좋은 선택인가",
-          "imageUrl": "https://social.news.hada.io/topic/6752"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6751",
-          "author": null,
-          "description": "빌드 단계가 없음 : 코드 작성후 Deno Deploy에 올리면 프레임워크가 알아서 처리\nEdge에서 JIT 렌더링\nZero Config\nTypeScript 기본 지원\nIsland based client hydration\nPreact + JSX\n\n...",
-          "link": "https://news.hada.io/topic?id=6751",
-          "publishedOn": "2022-06-15T00:38:10.000Z",
-          "wordCount": 98,
-          "title": "Fresh - 차세대 웹 프레임워크",
-          "imageUrl": "https://social.news.hada.io/topic/6751"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6750",
-          "author": null,
-          "description": "토스에서 '계좌에 돈이 부족할 때 알려드릴까요?'에 동의하면 '마케팅 정보 수신 동의'를 하게 된다",
-          "link": "https://news.hada.io/topic?id=6750",
-          "publishedOn": "2022-06-15T00:28:40.000Z",
-          "wordCount": 151,
-          "title": "토스에서 '계좌에 돈이 부족할 때 알려드릴까요?'에 동의하면 '마케팅 정보 수신 동의'를 하게 된다",
-          "imageUrl": "https://social.news.hada.io/topic/6750"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6749",
-          "author": null,
-          "description": "GitHub이 직접 만든 가이드\nFirst day on GitHub\nIntroduction to GitHub\nCommunicate using Markdown\nGitHub Pages\nFirst week on GitHub\nReview pull requests\nResolve merge conflicts\nAutomate workflows with Gi",
-          "link": "https://news.hada.io/topic?id=6749",
-          "publishedOn": "2022-06-15T00:12:33.000Z",
-          "wordCount": 132,
-          "title": "GitHub Skills - 인터랙티브하게 GitHub 사용법 배우기",
-          "imageUrl": "https://social.news.hada.io/topic/6749"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6748",
-          "author": null,
-          "description": "미국 에너지부 산하 최대 연구소인 오크리지 국립 연구소 (Oak Ridge National Laboratory)의 슈퍼컴퓨터인 Frontier가 1.1 엑사플롭스로 전 1위였던 후가쿠(442 페타플롭스)를 두배 이상 격차로 제치고 세계 슈퍼컴퓨터 성능 순위표인 Top500 (https://www.top500.org/)에서 1위를 차지.\nFrontier는 ...",
-          "link": "https://news.hada.io/topic?id=6748",
-          "publishedOn": "2022-06-14T06:48:26.000Z",
-          "wordCount": 154,
-          "title": "오크리지 국립 연구소의 Frontier가 세계 슈퍼컴퓨터 순위 1위를 차지",
-          "imageUrl": "https://social.news.hada.io/topic/6748"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6747",
-          "author": null,
-          "description": "100개 이상의 빅 테크 회사들을 설문 조사한 결과\n빅 테크의 프로젝트 관리 방식을 정리하면 ⇨ \"상황에 따라 다름(It Depends)\"\n\n대부분 정해진 방법론이나 업무 방식은 없고, 팀이 자신에 맞는 것을 선택\n상장회사나 투자받은 회사들은 전담 PM이 있는 것에 대해서 만족...",
-          "link": "https://news.hada.io/topic?id=6747",
-          "publishedOn": "2022-06-14T03:28:30.000Z",
-          "wordCount": 689,
-          "title": "큰 기술 회사들은 어떻게 프로젝트를 진행할까",
-          "imageUrl": "https://social.news.hada.io/topic/6747"
         }
       ]
     },
@@ -355,16 +355,6 @@
           "wordCount": 371,
           "title": "현실 세계의 속성에 의존하지 않기",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2F9KStj%2FbtrDHFQA6s7%2FWEcm0CDtK4oFyic6cnZTH1%2Fimg.png"
-        },
-        {
-          "id": "https://jojoldu.tistory.com/671",
-          "author": "향로",
-          "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\nNextStep의 이펙티브 코틀린 with TDD, Refactoring, Clean Code 을 수강중이다.\n내가 작성한 코드에 대해 이렇게 많이 리뷰 받는게 오랫만이다\n이번에 받은 리뷰중에서는 납득이 잘 안되는게 있어서 리뷰어이신 재성님(Jason) 과 이런저런 토론을 진행했었다.\n논의\n논의 대상인 코드는 public 함수 하나(main)만 존재하기 때문에 파일명을 main.kt로 만들었다.\n이에 대해 재성님은 소스 파일은 전부 PascalCase를 쓰는게 좋다는 의견이셨다.\n이에 대한 이유는 Kotlin Convention 에서 UpperCamelCase (PascalCase) 을 추천하기 때문이였다.\n안드로이드 코틀린 공식 가이드에서도 소스 파일에 대해서는 PascalCase를 언급하기도 한다.\n반면 내 생각은 기본적으로는 PascalCase 를 가져가더라도 public 함수 1개만 존재하는 경우 (private 함수는 몇개가 있어도 관계 없이) 오히려 그 함수를 나타내는 파일명이 더 좋다 라는 것이다.\n실제로 지금 JS/TS 프로젝트에서 그렇게 하고 있고 좋다고 느꼈다.\n재성님과 이야기 나누면서 서로 먼저 전제한 부분은 다음과 같다\n꼭 클래스나 함수명에 맞춰서 파일명을 지을 필요는 없다.\n\n여러 클래스, 함수가 복합적으로 있는 파일도 있기 때문이다.\nex) Maps 등\n해당 파일의 코드들이 무엇을 …",
-          "link": "https://jojoldu.tistory.com/671",
-          "publishedOn": "2022-05-17T01:00:38.000Z",
-          "wordCount": 544,
-          "title": "(Kotlin) 단일 함수만 존재하는 경우 파일명은 어떻게 해야할까?",
-          "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FAdDsl%2FbtrColsyJea%2F03dWoebymPAAuv2RZzfWkk%2Fimg.png"
         }
       ]
     }
