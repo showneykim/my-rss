@@ -11,7 +11,7 @@
           "description": "Calendars, shopping carts, galleries, file explorers, and online libraries are some situations where selectable items are shown in grids (i.e. square lattices). You know, even those security checks that ask you to select all images with crosswalks or whatever.\n🧐…\nConditionally Styling Selected Elements in a Grid Container originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/conditionally-styling-selected-elements-in-a-grid-container/",
           "publishedOn": "2022-06-15T14:15:50.000Z",
-          "wordCount": 1821,
+          "wordCount": 1834,
           "title": "Conditionally Styling Selected Elements in a Grid Container",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366252"
         },
@@ -168,7 +168,7 @@
           "description": "Aurora v1 EOL을 대처 하는 우리의 자세 (feat. MySQL 5.6) End of Life! 그렇게 EOL 입니다. MySQL 5.6을 기반으로 하는 AWS의 Aurora v1 버전의 EOL 소식이  들려오고 있습니다. AWS Aurora v1 EOL 소식 2023년 2월을...\nThe post Aurora v1 EOL을 대처 하는 우리의 자세 (feat. MySQL 5.6) appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/aurora-v1-eol%ec%9d%84-%eb%8c%80%ec%b2%98-%ed%95%98%eb%8a%94-%ec%9a%b0%eb%a6%ac%ec%9d%98-%ec%9e%90%ec%84%b8-feat-mysql-5-6/",
           "publishedOn": "2022-06-11T13:19:35.000Z",
-          "wordCount": 1146,
+          "wordCount": 1140,
           "title": "Aurora v1 EOL을 대처 하는 우리의 자세 (feat. MySQL 5.6)",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2019/04/mysql_PNG19-300x300.png"
         },
@@ -178,7 +178,7 @@
           "description": "MongoDB 5.0 Time Series MongoDB가 5.x 버전으로 릴리즈 되면서 추가된 유용한 기능 중에 하나가 바로 Time Series 컬렉션을 활용할 수 있다는 것 입니다. 쉽게 표현하면 시계열 데이터를 저장하는 기능인데 더 쉽게 표현하면 일정 시간...\nThe post MongoDB 5.0 Time Series appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/mongodb_timeseries/",
           "publishedOn": "2022-06-03T05:48:26.000Z",
-          "wordCount": 1117,
+          "wordCount": 1085,
           "title": "MongoDB 5.0 Time Series",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2020/04/37_2019081518484308.jpg"
         },
@@ -188,7 +188,7 @@
           "description": "MongoDB에서 Sequence 사용하기 on Node.js MongoDB는 Oracle이나 PostgreSQL의 Sequence나 MySQL의 Auto Increment 같은 기능이 없습니다.  반면 MongoDB에 익숙한 사람들은 12-byte로된 Object_ID에 더 익숙할겁니다.  MongoDB는 자동 증가 시퀀스를 기본 기능으로 지원하지 않지만 이 기능은 카운터...\nThe post MongoDB에서 Sequence 사용하기 on Node.js appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/mongodb-sequence-on-node-js/",
           "publishedOn": "2022-05-25T01:25:28.000Z",
-          "wordCount": 727,
+          "wordCount": 721,
           "title": "MongoDB에서 Sequence 사용하기 on Node.js",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2020/04/37_2019081518484308.jpg"
         },
@@ -198,7 +198,7 @@
           "description": "Database Specialist or Generalist ?! 서론 이런 글을 쓰게 된 이유는 최근 들어 많이 생각하게되고, 주변 DBA분들이나 비슷한 종사자 엔지니어들과 교류하면서 느낀점이 있기 때문입니다. DBA라는 포지션은 지금까지 대부분 스페셜리스트였습니다. Oracle이 DBA의 대세였던 시절부터, Engineer...\nThe post Database Specialist or Generalist ?! appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/database-specialist-or-generalist/",
           "publishedOn": "2022-05-23T01:00:21.000Z",
-          "wordCount": 1244,
+          "wordCount": 1205,
           "title": "Database Specialist or Generalist ?!",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2021/04/sm_5b46d890d85b8-300x300.jpg"
         },
@@ -208,7 +208,7 @@
           "description": "MERN Stack 이란? 최근 MongoDB에 대한 자료들을 찾아보다 보면 해외 사이트들에서 쉽게 접할 수 있는 단어입니다. 꽤 인기있는 것으로 Udemy 같은 온라인 교육 사이트에는 MERN Stack에 대한 통합 교육과정도 업로드 되고 있습니다. MERN은 스택을 구성하는...\nThe post MERN Stack 이란? appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/mern-stack-%ec%9d%b4%eb%9e%80/",
           "publishedOn": "2022-05-20T16:20:29.000Z",
-          "wordCount": 923,
+          "wordCount": 926,
           "title": "MERN Stack 이란?",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2020/04/37_2019081518484308.jpg"
         }
@@ -220,6 +220,96 @@
       "siteUrl": "https://news.hada.io",
       "articles": [
         {
+          "id": "https://news.hada.io/topic?id=6775",
+          "author": null,
+          "description": "저는 5천 라인 이하 규모의 개발 부업과 전문 IT 교육기관의 강사/멘토 부업을 주로 하는데요..\n멘토 아르바이트가 나름 재미있고 감동 포인트도 있어서 한때 전직도 생각해봤었죠.\n혹시 여러분들은 부업들 많이 하시나요 ??\n어떤 부업들을 하시나요 ??",
+          "link": "https://news.hada.io/topic?id=6775",
+          "publishedOn": "2022-06-17T01:34:29.000Z",
+          "wordCount": 89,
+          "title": "Ask GN: 부업하시는 분들 많으신가요 ??",
+          "imageUrl": "https://social.news.hada.io/topic/6775"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6774",
+          "author": null,
+          "description": "HN에 주기적으로 올라오는 질문 중 하나. 몇개만 가져와봅니다\n파킨슨 환자용 마우스 손떨림 제거 소프트웨어 (현재버전 $43 or 평생업글 $127)\n게임용 아이템 판매 마켓 (피크때 월 $300k). 처음엔 eBay 어필리에이트 링크를 사용하다가 빅셀러 컨택해서 독점 판매로 선회\n유명 트레",
+          "link": "https://news.hada.io/topic?id=6774",
+          "publishedOn": "2022-06-17T01:09:27.000Z",
+          "wordCount": 256,
+          "title": "돈을 벌고 있지만, 감춰둔 사이드 프로젝트 있으신가요?",
+          "imageUrl": "https://social.news.hada.io/topic/6774"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6773",
+          "author": null,
+          "description": "Zip 파일에 html만 넣으면 6개 OS에서 직접 실행되는 웹서버\n취미프로젝트로 시작했지만, 이제는 Lua + SQLite가 호스팅 되는 1.9mb 크기의 복잡한 기능들을 제공\n→ REPL 지원, Mbed TLS, 샌드박싱, argon2 패스워드 해슁, MaxMind IP Geolocation 등\n→ Easy-Mode API 와 고수준 개발을...",
+          "link": "https://news.hada.io/topic?id=6773",
+          "publishedOn": "2022-06-17T00:40:55.000Z",
+          "wordCount": 128,
+          "title": "Redbean 2.0 공개",
+          "imageUrl": "https://social.news.hada.io/topic/6773"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6772",
+          "author": null,
+          "description": "Storybook이 Airbnb, Microsoft, GitHub 등이 사용하는 UI 컴포넌트 5132개를 정리\n실시간 데모 와 함께 컴포넌트를 브라우징 & 검색 가능\n소스 보기 및 쉬운 재사용 지원\n\n...",
+          "link": "https://news.hada.io/topic?id=6772",
+          "publishedOn": "2022-06-17T00:27:04.000Z",
+          "wordCount": 82,
+          "title": "UI Component Encyclopedia",
+          "imageUrl": "https://social.news.hada.io/topic/6772"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6771",
+          "author": null,
+          "description": "iOS16 과 macOS Ventura에서 지원 예정\n사용자 경험을 해치지 않고 가짜 사용자인지 체크해서 CAPTCHA를 요구하지 않게 처리\nIETF의 Privacy Pass 프로토콜 표준 이용\n→ 서버가 PrivateToken HTTP 인증을 요구\n→ 서버는 클라이언트 아이덴티티 트래킹 불가\n→ RSA Blind...",
+          "link": "https://news.hada.io/topic?id=6771",
+          "publishedOn": "2022-06-17T00:14:32.000Z",
+          "wordCount": 138,
+          "title": "애플과 Cloudflare, Private Access Tokens로 CAPTCHA를 제거",
+          "imageUrl": "https://social.news.hada.io/topic/6771"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6770",
+          "author": null,
+          "description": "구글 Earth와 AI를 이용해서 10m 해상도로 전세계 데이터를 (거의) 실시간으로 제공\n위성에서 받은 데이터를 매일 처리하여 2015년 6월부터, 2일전 까지의 Land Cover Map(토지피복지도) 제공\n→ 구분 : 수역(Water), 산림지역(Trees...",
+          "link": "https://news.hada.io/topic?id=6770",
+          "publishedOn": "2022-06-16T23:59:59.000Z",
+          "wordCount": 124,
+          "title": "구글, 지구 표면을 거의 실시간으로 보여주는 Dynamic World 공개",
+          "imageUrl": "https://social.news.hada.io/topic/6770"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6769",
+          "author": null,
+          "description": "웹 프론트엔드 스택을 이용해 데스크탑 앱을 개발할 수 있는 툴킷\nElectron alternative: 더 작은 번들 사이즈와 적은 메모리 사용량\n각 플랫폼의 WebView2, WebKit, WebKitGTK를 사용\n모바일 지원 예정\n\n...",
+          "link": "https://news.hada.io/topic?id=6769",
+          "publishedOn": "2022-06-16T10:56:19.000Z",
+          "wordCount": 119,
+          "title": "Tauri v1.0 릴리즈",
+          "imageUrl": "https://social.news.hada.io/topic/6769"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6768",
+          "author": null,
+          "description": "LSP support\nTree-sitter integration\nVim like modal editor\nKakoune like editing model\nbatteries included\nKakoune 에디팅 모델은 Migrating-from-Vim에서 쉽게 설명합니다",
+          "link": "https://news.hada.io/topic?id=6768",
+          "publishedOn": "2022-06-16T04:17:55.000Z",
+          "wordCount": 83,
+          "title": "Helix - kakoune / neovim에 영감을 받은 텍스트 에디터",
+          "imageUrl": "https://social.news.hada.io/topic/6768"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6767",
+          "author": null,
+          "description": "전체 직원의 18%에 해당\nCEO曰\nCoinbase 는 올해에만 주가가 80% 하락\n이번주에 이미 다른 Crypto 회사들이 정리해고를 발표했음\n→ BlockFi 는 20% 감...",
+          "link": "https://news.hada.io/topic?id=6767",
+          "publishedOn": "2022-06-16T01:47:17.000Z",
+          "wordCount": 93,
+          "title": "Coinbase, 1100명 정리 해고",
+          "imageUrl": "https://social.news.hada.io/topic/6767"
+        },
+        {
           "id": "https://news.hada.io/topic?id=6766",
           "author": null,
           "description": "표준 정규식으로 트랜스파일\n공백 무시, 코멘트 지원\n유니코드 지원\n숫자 범위 및 변수 같은 확장 기능 지원\n알기 쉬운 에러 메시지\nRust 오픈소스\n\n...",
@@ -228,96 +318,6 @@
           "wordCount": 80,
           "title": "Rulex - 새로운 포터블 정규식 언어",
           "imageUrl": "https://social.news.hada.io/topic/6766"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6765",
-          "author": null,
-          "description": "데이터팀을 채용하고, 조직을 구성하고, 문화를 만드는 것, 전략과 조직내에서 운용하는 방법에 관한 글들 모음\nHiring\nCulture\nImpact\nStrategy\nProject Management\nCode Review\nOrganization Structure and Job Titles\nML and AI Wit",
-          "link": "https://news.hada.io/topic?id=6765",
-          "publishedOn": "2022-06-16T00:50:23.000Z",
-          "wordCount": 92,
-          "title": "Awesome Data Leadership",
-          "imageUrl": "https://social.news.hada.io/topic/6765"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6764",
-          "author": null,
-          "description": "현재 2천만대의 승용EV, 130만대의 상용EV(버스,밴,트럭), 2.8억대의 전기 스쿠터/오토바이/3륜차가 운행 중\n단기 전망\n전기차 판매량은 급속하게 증가\n플러그인 하이브리드 보다 배터리 전기차의 증가율이 더 큼\n2025년에 중국와 유럽이 전기차 판매의 80%를 ...",
-          "link": "https://news.hada.io/topic?id=6764",
-          "publishedOn": "2022-06-16T00:34:42.000Z",
-          "wordCount": 585,
-          "title": "블룸버그의 전기차 전망 EV Outlook 2022",
-          "imageUrl": "https://social.news.hada.io/topic/6764"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6763",
-          "author": null,
-          "description": "Amazon-Native(아마존을 기반으로 구축한) 브랜드로 2021년 아마존에서 $1B 매출 달성하고 공격적으로 다각화 중\n2011년 구글 엔지니어였던 스티븐 양이 중국 선전에서 시작해서 배터리, 충전기, 케이블 등을 아마존에서 팔기 시작\n매출의 절반 이상을 아마존에서 내고 있지만 점점 축소중...",
-          "link": "https://news.hada.io/topic?id=6763",
-          "publishedOn": "2022-06-16T00:21:41.000Z",
-          "wordCount": 183,
-          "title": "Anker가 아마존에서만 1.2조원 매출을 달성",
-          "imageUrl": "https://social.news.hada.io/topic/6763"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6762",
-          "author": null,
-          "description": "작년 11월에 공개한 OnCall SaaS의 오픈소스\nDevOps 와 SRE 팀이 효율적으로 협업할 수 있도록, 온콜 로테이션을 셋업하고 관리해주는 도구\n여러 모니터링 시스템에서 알림을 수집하고 분석\n전화, SMS, 슬랙, 텔레그램 알림 가능\nPython 오픈소스, GNU AGPL 3.0\n\n...",
-          "link": "https://news.hada.io/topic?id=6762",
-          "publishedOn": "2022-06-15T23:58:08.000Z",
-          "wordCount": 116,
-          "title": "Grafana, OnCall 오픈소스 공개",
-          "imageUrl": "https://social.news.hada.io/topic/6762"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6761",
-          "author": null,
-          "description": "뤼이드에서는 모바일 앱을 주력으로 하는 다른 많은 스타트업들이 그렇듯이, 각 모바일 플랫폼에 공통적으로 제공되는 화면을 웹으로 개발해서 웹뷰 형태로 탑재하는 방식을 사용합니다.\n별개로 빠른 웹뷰 개발 이터레이션을 위해서, 웹뷰 대신 iframe을 사용해서 모바일 네이티브를 흉내내는 방식으로 가상 모",
-          "link": "https://news.hada.io/topic?id=6761",
-          "publishedOn": "2022-06-15T12:03:59.000Z",
-          "wordCount": 375,
-          "title": "Show GN: WRP - 웹뷰와 모바일 네이티브 통신을 위한 Protobuf 서비스 프로토콜",
-          "imageUrl": "https://social.news.hada.io/topic/6761"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6760",
-          "author": null,
-          "description": "최근 VS Code에 'Trusted workspace' 개념이 생겼습니다. 새로운 폴더를 열게 되면 '이 폴더를 신뢰하십니까' 하는 질문이 뜹니다.\n'예'를 선택하면 모든 기능을 사용할 수 있는 대신, 악의적으로 작성된 폴더에서 '예'를 누르면 악의적인 코드가 자동 실행되는 결과를 맺을 수 있게 되고요. 대신 '아니오'를",
-          "link": "https://news.hada.io/topic?id=6760",
-          "publishedOn": "2022-06-15T08:19:55.000Z",
-          "wordCount": 290,
-          "title": "Ask GN: VS Code에서 다른 편집기로 갈아타고 싶습니다. 뭐가 좋을까요?",
-          "imageUrl": "https://social.news.hada.io/topic/6760"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6759",
-          "author": null,
-          "description": "개발하고 있는 서비스에서 외부 API 요청이 timeout 이 나면 어떻게 될까를 시뮬레이션 해보려다가 귀찮아서 만들었습니다.\n해당 API 에 원하는 status code, response body, timeout 을 설정해서 request 하면, 원하는 response 를 받으실 수 있습니다.\n다른 분들에게도 쓸모가 있을지 잘 모르겠네요",
-          "link": "https://news.hada.io/topic?id=6759",
-          "publishedOn": "2022-06-15T04:28:38.000Z",
-          "wordCount": 169,
-          "title": "Show GN: Test API - Simple API that is (maybe) useful for testing",
-          "imageUrl": "https://social.news.hada.io/topic/6759"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6758",
-          "author": null,
-          "description": "이유는 간단합니다.\n한국에서 \"동지\"들이 전부 음지에서 활동하고 있어서 만나기가 너무 힘들다.\nELisp은 정말이지 친해지지 않는다.\n나에게 이맥스를 전파한 학부 교수님이 최근에 vscode 쓰신다더라..\ngccemacs가 한줄기 빛이었는데, 리눅스 말고는 딱히 빨라지",
-          "link": "https://news.hada.io/topic?id=6758",
-          "publishedOn": "2022-06-15T02:08:47.000Z",
-          "wordCount": 350,
-          "title": "Ask GN: 이맥스 20년 쓰다가 Vimmer로 전향했습니다.",
-          "imageUrl": "https://social.news.hada.io/topic/6758"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6756",
-          "author": null,
-          "description": "마이크로소프트가 2022년 6월 15일자로 인터넷 익스플로러(IE) 11 지원을 종료\nPC 시대, MS의 절대 권력이었던 IE… 한 때 ‘끼워팔기’ 논란\n브라우저 춘추전국시대 돌입, 스마트폰 등장과 함께 IE 시대 저물어가\n1개월 간은 윈도우를 통해 IE 접근 시 자동으로 엣지 ‘IE 모드’로...",
-          "link": "https://news.hada.io/topic?id=6756",
-          "publishedOn": "2022-06-15T01:43:53.000Z",
-          "wordCount": 142,
-          "title": "27년만에 역사 속으로 사라지는 인터넷 익스플로러… 서비스 종료 이후는?",
-          "imageUrl": "https://social.news.hada.io/topic/6756"
         }
       ]
     },
