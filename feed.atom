@@ -1,10 +1,87 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-17T01:46:25.405Z</id>
+    <id>urn:2022-06-18T01:47:36.455Z</id>
     <title>osmos::feed</title>
-    <updated>2022-06-17T01:46:25.406Z</updated>
+    <updated>2022-06-18T01:47:36.455Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[이 달의 CT 스캔 : 골프 장비]]></title>
+        <id>https://news.hada.io/topic?id=6780</id>
+        <link href="https://news.hada.io/topic?id=6780"/>
+        <updated>2022-06-18T00:40:01.000Z</updated>
+        <summary type="html"><![CDATA[매달 CT 스캐너로 특정 물품을 상세히 찍어서 공개하는 페이지
+스크롤 하면서 물체를 회전시키며 내부를 설명하는 형식
+가장 기술적으로 발전된 스포츠인 골프 장비들을 분석
+Nike Air Zoom Infinity Tour 골프화
+Titleist TSi3 티타늄 드라이버
+TaylorMade Carb...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[랜덤 Favicon 생성기]]></title>
+        <id>https://news.hada.io/topic?id=6779</id>
+        <link href="https://news.hada.io/topic?id=6779"/>
+        <updated>2022-06-18T00:22:01.000Z</updated>
+        <summary type="html"><![CDATA[1950개의 MIT 라이센스 이미지인 Tabler 아이콘을 이용
+배경 타입(원,사각,둥근사각,투평), 채우기 색상, 선 굵기 및 색상, 회전, 스케일 등을 지정 가능
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CLAP : 새로운 Audio Plug-in 표준]]></title>
+        <id>https://news.hada.io/topic?id=6778</id>
+        <link href="https://news.hada.io/topic?id=6778"/>
+        <updated>2022-06-18T00:06:01.000Z</updated>
+        <summary type="html"><![CDATA["CLAP(CLever Audio Plug-in API)"
+오픈소스 & 자유 라이센스
+최신 CPU에 최적화 : 멀티쓰레드/멀티코어
+호스트가 플러그인 메타데이터를 읽을수 있어서 빠른 스캔 및 구성 가능
+더 나은 Automation,Modulation,Expression
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Single Element Loaders: The Dots]]></title>
+        <id>https://css-tricks.com/?p=366342</id>
+        <link href="https://css-tricks.com/single-element-loaders-the-dots/"/>
+        <updated>2022-06-17T14:47:55.000Z</updated>
+        <summary type="html"><![CDATA[We’re looking at loaders in this series. More than that, we’re breaking down some common loader patterns and how to re-create them with nothing more than a single div. So far, we’ve picked apart the classic spinning loader. Now, …
+Single Element Loaders: The Dots originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1993년 이후 가장 인기 있는 웹사이트 [유튜브]]]></title>
+        <id>https://news.hada.io/topic?id=6777</id>
+        <link href="https://news.hada.io/topic?id=6777"/>
+        <updated>2022-06-17T02:36:01.000Z</updated>
+        <summary type="html"><![CDATA[월간 방문자 기준 1~10위 그래프 변화 애니메이션]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=6776</id>
+        <link href="https://news.hada.io/topic?id=6776"/>
+        <updated>2022-06-17T02:18:39.000Z</updated>
+        <summary type="html"><![CDATA[이번 주말에 뭘 하려고 계획 중인지 편하게 얘기해 보아요.
+읽을 책, 가볼 곳, 해볼 것.. 어떤 것이든 좋습니다.
+지난 주말에 계획하셨던 일의 회고도 한번 남겨봐 주세요.]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 부업하시는 분들 많으신가요 ??]]></title>
         <id>https://news.hada.io/topic?id=6775</id>
@@ -69,79 +146,6 @@ IETF의 Privacy Pass 프로토콜 표준 이용
 → 서버가 PrivateToken HTTP 인증을 요구
 → 서버는 클라이언트 아이덴티티 트래킹 불가
 → RSA Blind...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구글, 지구 표면을 거의 실시간으로 보여주는 Dynamic World 공개]]></title>
-        <id>https://news.hada.io/topic?id=6770</id>
-        <link href="https://news.hada.io/topic?id=6770"/>
-        <updated>2022-06-16T23:59:59.000Z</updated>
-        <summary type="html"><![CDATA[구글 Earth와 AI를 이용해서 10m 해상도로 전세계 데이터를 (거의) 실시간으로 제공
-위성에서 받은 데이터를 매일 처리하여 2015년 6월부터, 2일전 까지의 Land Cover Map(토지피복지도) 제공
-→ 구분 : 수역(Water), 산림지역(Trees...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tauri v1.0 릴리즈]]></title>
-        <id>https://news.hada.io/topic?id=6769</id>
-        <link href="https://news.hada.io/topic?id=6769"/>
-        <updated>2022-06-16T10:56:19.000Z</updated>
-        <summary type="html"><![CDATA[웹 프론트엔드 스택을 이용해 데스크탑 앱을 개발할 수 있는 툴킷
-Electron alternative: 더 작은 번들 사이즈와 적은 메모리 사용량
-각 플랫폼의 WebView2, WebKit, WebKitGTK를 사용
-모바일 지원 예정
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Helix - kakoune / neovim에 영감을 받은 텍스트 에디터]]></title>
-        <id>https://news.hada.io/topic?id=6768</id>
-        <link href="https://news.hada.io/topic?id=6768"/>
-        <updated>2022-06-16T04:17:55.000Z</updated>
-        <summary type="html"><![CDATA[LSP support
-Tree-sitter integration
-Vim like modal editor
-Kakoune like editing model
-batteries included
-Kakoune 에디팅 모델은 Migrating-from-Vim에서 쉽게 설명합니다]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase, 1100명 정리 해고]]></title>
-        <id>https://news.hada.io/topic?id=6767</id>
-        <link href="https://news.hada.io/topic?id=6767"/>
-        <updated>2022-06-16T01:47:17.000Z</updated>
-        <summary type="html"><![CDATA[전체 직원의 18%에 해당
-CEO曰
-Coinbase 는 올해에만 주가가 80% 하락
-이번주에 이미 다른 Crypto 회사들이 정리해고를 발표했음
-→ BlockFi 는 20% 감...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rulex - 새로운 포터블 정규식 언어]]></title>
-        <id>https://news.hada.io/topic?id=6766</id>
-        <link href="https://news.hada.io/topic?id=6766"/>
-        <updated>2022-06-16T01:09:22.000Z</updated>
-        <summary type="html"><![CDATA[표준 정규식으로 트랜스파일
-공백 무시, 코멘트 지원
-유니코드 지원
-숫자 범위 및 변수 같은 확장 기능 지원
-알기 쉬운 에러 메시지
-Rust 오픈소스
-
-...]]></summary>
         <author>
             <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
@@ -475,17 +479,6 @@ Cool CSS Hover Effects That Use Background Clipping, Masks, and 3D originally pu
 Customizing Color Fonts on the Web originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Perfect Table of Contents With HTML + CSS]]></title>
-        <id>https://css-tricks.com/?p=365888</id>
-        <link href="https://css-tricks.com/a-perfect-table-of-contents-with-html-css/"/>
-        <updated>2022-05-25T14:08:33.000Z</updated>
-        <summary type="html"><![CDATA[Earlier this year, I self-published an ebook called Understanding JavaScript Promises (free for download). Even though I didn’t have any intention of turning it into a print book, enough people reached out inquiring about a print version that …
-A Perfect Table of Contents With HTML + CSS originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Nicholas C. Zakas</name>
         </author>
     </entry>
     <entry>

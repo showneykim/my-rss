@@ -6,6 +6,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=366342",
+          "author": "Temani Afif",
+          "description": "We’re looking at loaders in this series. More than that, we’re breaking down some common loader patterns and how to re-create them with nothing more than a single div. So far, we’ve picked apart the classic spinning loader. Now, …\nSingle Element Loaders: The Dots originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/single-element-loaders-the-dots/",
+          "publishedOn": "2022-06-17T14:47:55.000Z",
+          "wordCount": 1803,
+          "title": "Single Element Loaders: The Dots",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366342"
+        },
+        {
           "id": "https://css-tricks.com/?p=366252",
           "author": "Preethi",
           "description": "Calendars, shopping carts, galleries, file explorers, and online libraries are some situations where selectable items are shown in grids (i.e. square lattices). You know, even those security checks that ask you to select all images with crosswalks or whatever.\n🧐…\nConditionally Styling Selected Elements in a Grid Container originally published on CSS-Tricks. You should get the newsletter.",
@@ -41,7 +51,7 @@
           "description": "Making CSS-only loaders is one of my favorite tasks. It’s always satisfying to look at those infinite animations. And, of course, there are lots of techniques and approaches to make them — no need to look further than CodePen to …\nSingle Element Loaders: The Spinner originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/single-element-loaders-the-spinner/",
           "publishedOn": "2022-06-10T14:26:06.000Z",
-          "wordCount": 2154,
+          "wordCount": 2151,
           "title": "Single Element Loaders: The Spinner",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366266"
         },
@@ -144,16 +154,6 @@
           "wordCount": 321,
           "title": "Customizing Color Fonts on the Web",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366077"
-        },
-        {
-          "id": "https://css-tricks.com/?p=365888",
-          "author": "Nicholas C. Zakas",
-          "description": "Earlier this year, I self-published an ebook called Understanding JavaScript Promises (free for download). Even though I didn’t have any intention of turning it into a print book, enough people reached out inquiring about a print version that …\nA Perfect Table of Contents With HTML + CSS originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/a-perfect-table-of-contents-with-html-css/",
-          "publishedOn": "2022-05-25T14:08:33.000Z",
-          "wordCount": 3770,
-          "title": "A Perfect Table of Contents With HTML + CSS",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365888"
         }
       ]
     },
@@ -168,7 +168,7 @@
           "description": "Aurora v1 EOL을 대처 하는 우리의 자세 (feat. MySQL 5.6) End of Life! 그렇게 EOL 입니다. MySQL 5.6을 기반으로 하는 AWS의 Aurora v1 버전의 EOL 소식이  들려오고 있습니다. AWS Aurora v1 EOL 소식 2023년 2월을...\nThe post Aurora v1 EOL을 대처 하는 우리의 자세 (feat. MySQL 5.6) appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/aurora-v1-eol%ec%9d%84-%eb%8c%80%ec%b2%98-%ed%95%98%eb%8a%94-%ec%9a%b0%eb%a6%ac%ec%9d%98-%ec%9e%90%ec%84%b8-feat-mysql-5-6/",
           "publishedOn": "2022-06-11T13:19:35.000Z",
-          "wordCount": 1140,
+          "wordCount": 1134,
           "title": "Aurora v1 EOL을 대처 하는 우리의 자세 (feat. MySQL 5.6)",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2019/04/mysql_PNG19-300x300.png"
         },
@@ -178,7 +178,7 @@
           "description": "MongoDB 5.0 Time Series MongoDB가 5.x 버전으로 릴리즈 되면서 추가된 유용한 기능 중에 하나가 바로 Time Series 컬렉션을 활용할 수 있다는 것 입니다. 쉽게 표현하면 시계열 데이터를 저장하는 기능인데 더 쉽게 표현하면 일정 시간...\nThe post MongoDB 5.0 Time Series appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/mongodb_timeseries/",
           "publishedOn": "2022-06-03T05:48:26.000Z",
-          "wordCount": 1085,
+          "wordCount": 1110,
           "title": "MongoDB 5.0 Time Series",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2020/04/37_2019081518484308.jpg"
         },
@@ -188,7 +188,7 @@
           "description": "MongoDB에서 Sequence 사용하기 on Node.js MongoDB는 Oracle이나 PostgreSQL의 Sequence나 MySQL의 Auto Increment 같은 기능이 없습니다.  반면 MongoDB에 익숙한 사람들은 12-byte로된 Object_ID에 더 익숙할겁니다.  MongoDB는 자동 증가 시퀀스를 기본 기능으로 지원하지 않지만 이 기능은 카운터...\nThe post MongoDB에서 Sequence 사용하기 on Node.js appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/mongodb-sequence-on-node-js/",
           "publishedOn": "2022-05-25T01:25:28.000Z",
-          "wordCount": 721,
+          "wordCount": 718,
           "title": "MongoDB에서 Sequence 사용하기 on Node.js",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2020/04/37_2019081518484308.jpg"
         },
@@ -198,7 +198,7 @@
           "description": "Database Specialist or Generalist ?! 서론 이런 글을 쓰게 된 이유는 최근 들어 많이 생각하게되고, 주변 DBA분들이나 비슷한 종사자 엔지니어들과 교류하면서 느낀점이 있기 때문입니다. DBA라는 포지션은 지금까지 대부분 스페셜리스트였습니다. Oracle이 DBA의 대세였던 시절부터, Engineer...\nThe post Database Specialist or Generalist ?! appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/database-specialist-or-generalist/",
           "publishedOn": "2022-05-23T01:00:21.000Z",
-          "wordCount": 1205,
+          "wordCount": 1204,
           "title": "Database Specialist or Generalist ?!",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2021/04/sm_5b46d890d85b8-300x300.jpg"
         },
@@ -208,7 +208,7 @@
           "description": "MERN Stack 이란? 최근 MongoDB에 대한 자료들을 찾아보다 보면 해외 사이트들에서 쉽게 접할 수 있는 단어입니다. 꽤 인기있는 것으로 Udemy 같은 온라인 교육 사이트에는 MERN Stack에 대한 통합 교육과정도 업로드 되고 있습니다. MERN은 스택을 구성하는...\nThe post MERN Stack 이란? appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/mern-stack-%ec%9d%b4%eb%9e%80/",
           "publishedOn": "2022-05-20T16:20:29.000Z",
-          "wordCount": 926,
+          "wordCount": 916,
           "title": "MERN Stack 이란?",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2020/04/37_2019081518484308.jpg"
         }
@@ -220,12 +220,62 @@
       "siteUrl": "https://news.hada.io",
       "articles": [
         {
+          "id": "https://news.hada.io/topic?id=6780",
+          "author": null,
+          "description": "매달 CT 스캐너로 특정 물품을 상세히 찍어서 공개하는 페이지\n스크롤 하면서 물체를 회전시키며 내부를 설명하는 형식\n가장 기술적으로 발전된 스포츠인 골프 장비들을 분석\nNike Air Zoom Infinity Tour 골프화\nTitleist TSi3 티타늄 드라이버\nTaylorMade Carb...",
+          "link": "https://news.hada.io/topic?id=6780",
+          "publishedOn": "2022-06-18T00:40:01.000Z",
+          "wordCount": 116,
+          "title": "이 달의 CT 스캔 : 골프 장비",
+          "imageUrl": "https://social.news.hada.io/topic/6780"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6779",
+          "author": null,
+          "description": "1950개의 MIT 라이센스 이미지인 Tabler 아이콘을 이용\n배경 타입(원,사각,둥근사각,투평), 채우기 색상, 선 굵기 및 색상, 회전, 스케일 등을 지정 가능\n\n...",
+          "link": "https://news.hada.io/topic?id=6779",
+          "publishedOn": "2022-06-18T00:22:01.000Z",
+          "wordCount": 71,
+          "title": "랜덤 Favicon 생성기",
+          "imageUrl": "https://social.news.hada.io/topic/6779"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6778",
+          "author": null,
+          "description": "\"CLAP(CLever Audio Plug-in API)\"\n오픈소스 & 자유 라이센스\n최신 CPU에 최적화 : 멀티쓰레드/멀티코어\n호스트가 플러그인 메타데이터를 읽을수 있어서 빠른 스캔 및 구성 가능\n더 나은 Automation,Modulation,Expression\n\n...",
+          "link": "https://news.hada.io/topic?id=6778",
+          "publishedOn": "2022-06-18T00:06:01.000Z",
+          "wordCount": 112,
+          "title": "CLAP : 새로운 Audio Plug-in 표준",
+          "imageUrl": "https://social.news.hada.io/topic/6778"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6777",
+          "author": null,
+          "description": "월간 방문자 기준 1~10위 그래프 변화 애니메이션",
+          "link": "https://news.hada.io/topic?id=6777",
+          "publishedOn": "2022-06-17T02:36:01.000Z",
+          "wordCount": 132,
+          "title": "1993년 이후 가장 인기 있는 웹사이트 [유튜브]",
+          "imageUrl": "https://social.news.hada.io/topic/6777"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6776",
+          "author": null,
+          "description": "이번 주말에 뭘 하려고 계획 중인지 편하게 얘기해 보아요.\n읽을 책, 가볼 곳, 해볼 것.. 어떤 것이든 좋습니다.\n지난 주말에 계획하셨던 일의 회고도 한번 남겨봐 주세요.",
+          "link": "https://news.hada.io/topic?id=6776",
+          "publishedOn": "2022-06-17T02:18:39.000Z",
+          "wordCount": 145,
+          "title": "Ask GN: 이번 주말에 뭐 하시나요?",
+          "imageUrl": "https://social.news.hada.io/topic/6776"
+        },
+        {
           "id": "https://news.hada.io/topic?id=6775",
           "author": null,
           "description": "저는 5천 라인 이하 규모의 개발 부업과 전문 IT 교육기관의 강사/멘토 부업을 주로 하는데요..\n멘토 아르바이트가 나름 재미있고 감동 포인트도 있어서 한때 전직도 생각해봤었죠.\n혹시 여러분들은 부업들 많이 하시나요 ??\n어떤 부업들을 하시나요 ??",
           "link": "https://news.hada.io/topic?id=6775",
           "publishedOn": "2022-06-17T01:34:29.000Z",
-          "wordCount": 89,
+          "wordCount": 155,
           "title": "Ask GN: 부업하시는 분들 많으신가요 ??",
           "imageUrl": "https://social.news.hada.io/topic/6775"
         },
@@ -235,7 +285,7 @@
           "description": "HN에 주기적으로 올라오는 질문 중 하나. 몇개만 가져와봅니다\n파킨슨 환자용 마우스 손떨림 제거 소프트웨어 (현재버전 $43 or 평생업글 $127)\n게임용 아이템 판매 마켓 (피크때 월 $300k). 처음엔 eBay 어필리에이트 링크를 사용하다가 빅셀러 컨택해서 독점 판매로 선회\n유명 트레",
           "link": "https://news.hada.io/topic?id=6774",
           "publishedOn": "2022-06-17T01:09:27.000Z",
-          "wordCount": 256,
+          "wordCount": 297,
           "title": "돈을 벌고 있지만, 감춰둔 사이드 프로젝트 있으신가요?",
           "imageUrl": "https://social.news.hada.io/topic/6774"
         },
@@ -245,7 +295,7 @@
           "description": "Zip 파일에 html만 넣으면 6개 OS에서 직접 실행되는 웹서버\n취미프로젝트로 시작했지만, 이제는 Lua + SQLite가 호스팅 되는 1.9mb 크기의 복잡한 기능들을 제공\n→ REPL 지원, Mbed TLS, 샌드박싱, argon2 패스워드 해슁, MaxMind IP Geolocation 등\n→ Easy-Mode API 와 고수준 개발을...",
           "link": "https://news.hada.io/topic?id=6773",
           "publishedOn": "2022-06-17T00:40:55.000Z",
-          "wordCount": 128,
+          "wordCount": 174,
           "title": "Redbean 2.0 공개",
           "imageUrl": "https://social.news.hada.io/topic/6773"
         },
@@ -255,7 +305,7 @@
           "description": "Storybook이 Airbnb, Microsoft, GitHub 등이 사용하는 UI 컴포넌트 5132개를 정리\n실시간 데모 와 함께 컴포넌트를 브라우징 & 검색 가능\n소스 보기 및 쉬운 재사용 지원\n\n...",
           "link": "https://news.hada.io/topic?id=6772",
           "publishedOn": "2022-06-17T00:27:04.000Z",
-          "wordCount": 82,
+          "wordCount": 86,
           "title": "UI Component Encyclopedia",
           "imageUrl": "https://social.news.hada.io/topic/6772"
         },
@@ -268,56 +318,6 @@
           "wordCount": 138,
           "title": "애플과 Cloudflare, Private Access Tokens로 CAPTCHA를 제거",
           "imageUrl": "https://social.news.hada.io/topic/6771"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6770",
-          "author": null,
-          "description": "구글 Earth와 AI를 이용해서 10m 해상도로 전세계 데이터를 (거의) 실시간으로 제공\n위성에서 받은 데이터를 매일 처리하여 2015년 6월부터, 2일전 까지의 Land Cover Map(토지피복지도) 제공\n→ 구분 : 수역(Water), 산림지역(Trees...",
-          "link": "https://news.hada.io/topic?id=6770",
-          "publishedOn": "2022-06-16T23:59:59.000Z",
-          "wordCount": 124,
-          "title": "구글, 지구 표면을 거의 실시간으로 보여주는 Dynamic World 공개",
-          "imageUrl": "https://social.news.hada.io/topic/6770"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6769",
-          "author": null,
-          "description": "웹 프론트엔드 스택을 이용해 데스크탑 앱을 개발할 수 있는 툴킷\nElectron alternative: 더 작은 번들 사이즈와 적은 메모리 사용량\n각 플랫폼의 WebView2, WebKit, WebKitGTK를 사용\n모바일 지원 예정\n\n...",
-          "link": "https://news.hada.io/topic?id=6769",
-          "publishedOn": "2022-06-16T10:56:19.000Z",
-          "wordCount": 119,
-          "title": "Tauri v1.0 릴리즈",
-          "imageUrl": "https://social.news.hada.io/topic/6769"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6768",
-          "author": null,
-          "description": "LSP support\nTree-sitter integration\nVim like modal editor\nKakoune like editing model\nbatteries included\nKakoune 에디팅 모델은 Migrating-from-Vim에서 쉽게 설명합니다",
-          "link": "https://news.hada.io/topic?id=6768",
-          "publishedOn": "2022-06-16T04:17:55.000Z",
-          "wordCount": 83,
-          "title": "Helix - kakoune / neovim에 영감을 받은 텍스트 에디터",
-          "imageUrl": "https://social.news.hada.io/topic/6768"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6767",
-          "author": null,
-          "description": "전체 직원의 18%에 해당\nCEO曰\nCoinbase 는 올해에만 주가가 80% 하락\n이번주에 이미 다른 Crypto 회사들이 정리해고를 발표했음\n→ BlockFi 는 20% 감...",
-          "link": "https://news.hada.io/topic?id=6767",
-          "publishedOn": "2022-06-16T01:47:17.000Z",
-          "wordCount": 93,
-          "title": "Coinbase, 1100명 정리 해고",
-          "imageUrl": "https://social.news.hada.io/topic/6767"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6766",
-          "author": null,
-          "description": "표준 정규식으로 트랜스파일\n공백 무시, 코멘트 지원\n유니코드 지원\n숫자 범위 및 변수 같은 확장 기능 지원\n알기 쉬운 에러 메시지\nRust 오픈소스\n\n...",
-          "link": "https://news.hada.io/topic?id=6766",
-          "publishedOn": "2022-06-16T01:09:22.000Z",
-          "wordCount": 80,
-          "title": "Rulex - 새로운 포터블 정규식 언어",
-          "imageUrl": "https://social.news.hada.io/topic/6766"
         }
       ]
     },
