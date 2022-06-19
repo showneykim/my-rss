@@ -1,10 +1,96 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-18T01:47:36.455Z</id>
+    <id>urn:2022-06-19T01:53:06.021Z</id>
     <title>osmos::feed</title>
-    <updated>2022-06-18T01:47:36.455Z</updated>
-    <generator>osmosfeed 1.14.4</generator>
+    <updated>2022-06-19T01:53:06.021Z</updated>
+    <generator>osmosfeed 1.15.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Vale 프로그래밍 언어]]></title>
+        <id>https://news.hada.io/topic?id=6786</id>
+        <link href="https://news.hada.io/topic?id=6786"/>
+        <updated>2022-06-19T01:02:14.000Z</updated>
+        <summary type="html"><![CDATA[빠르고, 안전하고, 쉬운 언어
+AOT 컴파일, 정적 타입
+Generational Reference 기반 메모리 관리로 레퍼런스 카운팅보다 2.3x 빠르고 안전
+프로그램의 메모리를 Region 단위로 분할 : Main, Read-only, Mutexed..
+Region 격리, Fearless FFI, Higher RAII
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anonfriendly - 익명으로 일할수 있는 직업 찾기]]></title>
+        <id>https://news.hada.io/topic?id=6785</id>
+        <link href="https://news.hada.io/topic?id=6785"/>
+        <updated>2022-06-19T00:37:30.000Z</updated>
+        <summary type="html"><![CDATA[자신의 개인정보를 공개하지 않고 일할 수 있는 Job들 리스트 사이트
+AE Studio, Flashbots, LooksRare, Paradigm, DefiLlama, Yearn 등
+직접 구인공고 등록 가능
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sake - 로컬 & 리모트 서버들을 위한 명령 실행기]]></title>
+        <id>https://news.hada.io/topic?id=6784</id>
+        <link href="https://news.hada.io/topic?id=6784"/>
+        <updated>2022-06-19T00:10:28.000Z</updated>
+        <summary type="html"><![CDATA[SSH로 다수 서버에서 명령을 실행해주는 CLI 도구
+여러대의 서버 또는 도커 컨테이너 대상으로 동작
+서버들의 정보를 불러와서 테이블로 표시 가능
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[리액트 오픈소스 어워드 2022]]></title>
+        <id>https://news.hada.io/topic?id=6783</id>
+        <link href="https://news.hada.io/topic?id=6783"/>
+        <updated>2022-06-18T15:06:11.000Z</updated>
+        <summary type="html"><![CDATA[올해의 혁신
+jotai (atom 기반 상태관리 라이브러리)
+remix (next.js와 비슷한 풀스택 프레임워크)
+refine (빠른 프로토타이핑 가능한 기본 세팅 프레임워크)
+wagmi (이더리움 연동 hooks)
+preview.js (파일단...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[개발자를 위한 모니터 추천 / 가이드]]></title>
+        <id>https://news.hada.io/topic?id=6782</id>
+        <link href="https://news.hada.io/topic?id=6782"/>
+        <updated>2022-06-18T02:17:04.000Z</updated>
+        <summary type="html"><![CDATA[LG, 삼성, Dell 위주로 개발자를 위한 모니터 추천
+예산, 스펙(밝기, 패널), 단자(USB-C,Thunderbolt), 스탠드 기능에 따라 추천
+위 내용과 가격, 구매처를 정리한 노션 링크도 제공]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: Notion으로 만든 중고맥북 판매 중개 서비스]]></title>
+        <id>https://news.hada.io/topic?id=6781</id>
+        <link href="https://news.hada.io/topic?id=6781"/>
+        <updated>2022-06-18T01:46:06.000Z</updated>
+        <summary type="html"><![CDATA[기능 소개
+MacBook 구매 / MacBook 판매
+MacBook 대신 판매 서비스 제공
+당근마켓의 '끌올'과 비슷한 '자동가격할인' 기능
+구매자를 위한 상세한 MacBook 매물 정보 제공
+'Notion으로 이런 것도 만들 수 있구나' 아이디어 제공
+<st]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이 달의 CT 스캔 : 골프 장비]]></title>
         <id>https://news.hada.io/topic?id=6780</id>
@@ -66,86 +152,6 @@ Single Element Loaders: The Dots originally published on CSS-Tricks. You should 
         <link href="https://news.hada.io/topic?id=6777"/>
         <updated>2022-06-17T02:36:01.000Z</updated>
         <summary type="html"><![CDATA[월간 방문자 기준 1~10위 그래프 변화 애니메이션]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
-        <id>https://news.hada.io/topic?id=6776</id>
-        <link href="https://news.hada.io/topic?id=6776"/>
-        <updated>2022-06-17T02:18:39.000Z</updated>
-        <summary type="html"><![CDATA[이번 주말에 뭘 하려고 계획 중인지 편하게 얘기해 보아요.
-읽을 책, 가볼 곳, 해볼 것.. 어떤 것이든 좋습니다.
-지난 주말에 계획하셨던 일의 회고도 한번 남겨봐 주세요.]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 부업하시는 분들 많으신가요 ??]]></title>
-        <id>https://news.hada.io/topic?id=6775</id>
-        <link href="https://news.hada.io/topic?id=6775"/>
-        <updated>2022-06-17T01:34:29.000Z</updated>
-        <summary type="html"><![CDATA[저는 5천 라인 이하 규모의 개발 부업과 전문 IT 교육기관의 강사/멘토 부업을 주로 하는데요..
-멘토 아르바이트가 나름 재미있고 감동 포인트도 있어서 한때 전직도 생각해봤었죠.
-혹시 여러분들은 부업들 많이 하시나요 ??
-어떤 부업들을 하시나요 ??]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[돈을 벌고 있지만, 감춰둔 사이드 프로젝트 있으신가요?]]></title>
-        <id>https://news.hada.io/topic?id=6774</id>
-        <link href="https://news.hada.io/topic?id=6774"/>
-        <updated>2022-06-17T01:09:27.000Z</updated>
-        <summary type="html"><![CDATA[HN에 주기적으로 올라오는 질문 중 하나. 몇개만 가져와봅니다
-파킨슨 환자용 마우스 손떨림 제거 소프트웨어 (현재버전 $43 or 평생업글 $127)
-게임용 아이템 판매 마켓 (피크때 월 $300k). 처음엔 eBay 어필리에이트 링크를 사용하다가 빅셀러 컨택해서 독점 판매로 선회
-유명 트레]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Redbean 2.0 공개]]></title>
-        <id>https://news.hada.io/topic?id=6773</id>
-        <link href="https://news.hada.io/topic?id=6773"/>
-        <updated>2022-06-17T00:40:55.000Z</updated>
-        <summary type="html"><![CDATA[Zip 파일에 html만 넣으면 6개 OS에서 직접 실행되는 웹서버
-취미프로젝트로 시작했지만, 이제는 Lua + SQLite가 호스팅 되는 1.9mb 크기의 복잡한 기능들을 제공
-→ REPL 지원, Mbed TLS, 샌드박싱, argon2 패스워드 해슁, MaxMind IP Geolocation 등
-→ Easy-Mode API 와 고수준 개발을...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UI Component Encyclopedia]]></title>
-        <id>https://news.hada.io/topic?id=6772</id>
-        <link href="https://news.hada.io/topic?id=6772"/>
-        <updated>2022-06-17T00:27:04.000Z</updated>
-        <summary type="html"><![CDATA[Storybook이 Airbnb, Microsoft, GitHub 등이 사용하는 UI 컴포넌트 5132개를 정리
-실시간 데모 와 함께 컴포넌트를 브라우징 & 검색 가능
-소스 보기 및 쉬운 재사용 지원
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애플과 Cloudflare, Private Access Tokens로 CAPTCHA를 제거]]></title>
-        <id>https://news.hada.io/topic?id=6771</id>
-        <link href="https://news.hada.io/topic?id=6771"/>
-        <updated>2022-06-17T00:14:32.000Z</updated>
-        <summary type="html"><![CDATA[iOS16 과 macOS Ventura에서 지원 예정
-사용자 경험을 해치지 않고 가짜 사용자인지 체크해서 CAPTCHA를 요구하지 않게 처리
-IETF의 Privacy Pass 프로토콜 표준 이용
-→ 서버가 PrivateToken HTTP 인증을 요구
-→ 서버는 클라이언트 아이덴티티 트래킹 불가
-→ RSA Blind...]]></summary>
         <author>
             <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>

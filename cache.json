@@ -11,9 +11,9 @@
           "description": "We’re looking at loaders in this series. More than that, we’re breaking down some common loader patterns and how to re-create them with nothing more than a single div. So far, we’ve picked apart the classic spinning loader. Now, …\nSingle Element Loaders: The Dots originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/single-element-loaders-the-dots/",
           "publishedOn": "2022-06-17T14:47:55.000Z",
-          "wordCount": 1803,
+          "wordCount": 2371,
           "title": "Single Element Loaders: The Dots",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366342"
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/07/star.png?fit=32%2C32&ssl=1"
         },
         {
           "id": "https://css-tricks.com/?p=366252",
@@ -21,9 +21,9 @@
           "description": "Calendars, shopping carts, galleries, file explorers, and online libraries are some situations where selectable items are shown in grids (i.e. square lattices). You know, even those security checks that ask you to select all images with crosswalks or whatever.\n🧐…\nConditionally Styling Selected Elements in a Grid Container originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/conditionally-styling-selected-elements-in-a-grid-container/",
           "publishedOn": "2022-06-15T14:15:50.000Z",
-          "wordCount": 1834,
+          "wordCount": 2357,
           "title": "Conditionally Styling Selected Elements in a Grid Container",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366252"
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/07/star.png?fit=32%2C32&ssl=1"
         },
         {
           "id": "https://css-tricks.com/?p=366388",
@@ -31,9 +31,9 @@
           "description": "Well, sheesh. I opened a little can of worms when sharing Miriam’s “Am I on the IndieWeb yet?” with a short post bemoaning my own trouble getting on the IndieWeb train. But it’s a good can of worms.\nI think …\nDe-Mystifying IndieWeb on a WordPress Site originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/de-mystifying-indieweb-on-a-wordpress-site/",
           "publishedOn": "2022-06-14T16:48:34.000Z",
-          "wordCount": 2254,
+          "wordCount": 2782,
           "title": "De-Mystifying IndieWeb on a WordPress Site",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366388"
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/07/star.png?fit=32%2C32&ssl=1"
         },
         {
           "id": "https://css-tricks.com/?p=366260",
@@ -41,9 +41,9 @@
           "description": "A diagram is a graphical representation of information that depicts the structure, relationship, or operation of anything. Diagrams enable your audience to visually grasp hidden information and engage with them in ways that words alone cannot. Depending on the type …\nUseful Tools for Visualizing Databases on a Budget originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/useful-tools-for-visualizing-databases-on-a-budget/",
           "publishedOn": "2022-06-13T19:15:26.000Z",
-          "wordCount": 1538,
+          "wordCount": 2065,
           "title": "Useful Tools for Visualizing Databases on a Budget",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366260"
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/07/star.png?fit=32%2C32&ssl=1"
         },
         {
           "id": "https://css-tricks.com/?p=366266",
@@ -51,9 +51,9 @@
           "description": "Making CSS-only loaders is one of my favorite tasks. It’s always satisfying to look at those infinite animations. And, of course, there are lots of techniques and approaches to make them — no need to look further than CodePen to …\nSingle Element Loaders: The Spinner originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/single-element-loaders-the-spinner/",
           "publishedOn": "2022-06-10T14:26:06.000Z",
-          "wordCount": 2151,
+          "wordCount": 2713,
           "title": "Single Element Loaders: The Spinner",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366266"
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/07/star.png?fit=32%2C32&ssl=1"
         },
         {
           "id": "https://css-tricks.com/?p=366286",
@@ -61,9 +61,9 @@
           "description": "Can’t smash the Like button hard enough for what Miriam Suzanne has to say on the challenging technical hurdles of implementing Webmentions:\nThe first round required several online services along with HTML & JS changes to my static site, just to verify my \n…\nAm I on the IndieWeb yet? originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/am-i-on-the-indieweb-yet/",
           "publishedOn": "2022-06-09T15:32:50.000Z",
-          "wordCount": 998,
+          "wordCount": 1518,
           "title": "Am I on the IndieWeb yet?",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366286"
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/07/star.png?fit=32%2C32&ssl=1"
         },
         {
           "id": "https://css-tricks.com/?p=366147",
@@ -71,9 +71,9 @@
           "description": "QR codes are funny, right? We love them, then hate them, then love them again. Anyways, they’ve lately been popping up again and it got me thinking about how they’re made. There are like a gazillion QR code generators out …\nLet’s Make a QR Code Generator With a Serverless Function! originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/lets-make-a-qr-code-generator-with-a-serverless-function/",
           "publishedOn": "2022-06-08T14:30:53.000Z",
-          "wordCount": 976,
+          "wordCount": 1515,
           "title": "Let’s Make a QR Code Generator With a Serverless Function!",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366147"
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/07/star.png?fit=32%2C32&ssl=1"
         },
         {
           "id": "https://css-tricks.com/?p=366222",
@@ -81,9 +81,9 @@
           "description": "Those of us who’ve been web developers more than a few years have probably written code using more than one JavaScript framework. With all the choices out there — React, Svelte, Vue, Angular, Solid — it’s all but inevitable. One …\nBuilding Interoperable Web Components That Even Work With React originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/building-interoperable-web-components-react/",
           "publishedOn": "2022-06-07T13:57:57.000Z",
-          "wordCount": 4040,
+          "wordCount": 4575,
           "title": "Building Interoperable Web Components That Even Work With React",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366222"
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/07/star.png?fit=32%2C32&ssl=1"
         },
         {
           "id": "https://css-tricks.com/?p=366202",
@@ -91,9 +91,9 @@
           "description": "There’s all kinds of ways to do that. Some more advisable and better-suited for certain situations than others, of course.\nWe could do it directly in HTML:\n<pWe go from one line...<br<brdown a couple more.</p\nBut that’s …\nPlease Give Me Some Space originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/please-give-me-some-space/",
           "publishedOn": "2022-06-03T14:39:11.000Z",
-          "wordCount": 744,
+          "wordCount": 1259,
           "title": "Please Give Me Some Space",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366202"
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/07/star.png?fit=32%2C32&ssl=1"
         },
         {
           "id": "https://css-tricks.com/?p=365841",
@@ -101,9 +101,9 @@
           "description": "Block patterns, also frequently referred to as sections, were introduced in WordPress 5.5 to allow users to build and share predefined block layouts in the pattern directory. The directory is the home of a wide range of …\nHow to Create Block Theme Patterns in WordPress 6.0 originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/how-to-create-block-theme-patterns-in-wordpress-6-0/",
           "publishedOn": "2022-06-01T15:30:15.000Z",
-          "wordCount": 3921,
+          "wordCount": 4493,
           "title": "How to Create Block Theme Patterns in WordPress 6.0",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365841"
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/07/star.png?fit=32%2C32&ssl=1"
         },
         {
           "id": "https://css-tricks.com/?p=366175",
@@ -111,9 +111,9 @@
           "description": "Nolan Lawson sparked some discussion when he described a noticeable shift away from single-page applications (SPAs):\nHip new frameworks like Astro, Qwik, and Elder.js are touting their MPA [multi-page application] with “0kB JavaScript by default.” \n…\nSPAs, Shared Element Transitions, and Re-Evaluating Technology originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/spas-shared-element-transitions-and-re-evaluating-technology/",
           "publishedOn": "2022-06-01T14:12:25.000Z",
-          "wordCount": 779,
+          "wordCount": 1296,
           "title": "SPAs, Shared Element Transitions, and Re-Evaluating Technology",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366175"
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/07/star.png?fit=32%2C32&ssl=1"
         },
         {
           "id": "https://css-tricks.com/?p=366068",
@@ -121,9 +121,9 @@
           "description": "I teach a class over at the local college here in Long Beach and a majority of the content is hosted on the Canvas LMS so students can access it online. And, naturally, I want the content to be as …\nJust How Long Should Alt Text Be? originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/just-how-long-should-alt-text-be/",
           "publishedOn": "2022-05-27T14:25:39.000Z",
-          "wordCount": 1285,
+          "wordCount": 1818,
           "title": "Just How Long Should Alt Text Be?",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366068"
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/07/star.png?fit=32%2C32&ssl=1"
         },
         {
           "id": "https://css-tricks.com/?p=366107",
@@ -131,9 +131,9 @@
           "description": "It wasn’t long ago that Nick Sypteras showed us how to make custom badges for a GitHub repo. Well, Reza Shakeri put Beautify GitHub Profile together and it’s a huuuuuuge repo of different badges that pulls lots of examples …\nBeautify GitHub Profile originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/beautify-github-profile/",
           "publishedOn": "2022-05-26T18:13:28.000Z",
-          "wordCount": 349,
+          "wordCount": 866,
           "title": "Beautify GitHub Profile",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366107"
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/07/star.png?fit=32%2C32&ssl=1"
         },
         {
           "id": "https://css-tricks.com/?p=365946",
@@ -141,9 +141,9 @@
           "description": "We’ve walked through a series of posts now about interesting approaches to CSS hover effects. We started with a bunch of examples that use CSS background properties, then moved on to the text-shadow property where we technically didn’t use …\nCool CSS Hover Effects That Use Background Clipping, Masks, and 3D originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/css-hover-effects-background-masks-3d/",
           "publishedOn": "2022-05-26T14:13:01.000Z",
-          "wordCount": 2866,
+          "wordCount": 3428,
           "title": "Cool CSS Hover Effects That Use Background Clipping, Masks, and 3D",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365946"
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/07/star.png?fit=32%2C32&ssl=1"
         },
         {
           "id": "https://css-tricks.com/?p=366077",
@@ -151,9 +151,9 @@
           "description": "Myles C. Maxfield on the WebKit Blog published a nifty how-to for color fonts. It comes on the heels of what Ollie wrote up here on CSS-Tricks the other day, and while they cover a lot of common …\nCustomizing Color Fonts on the Web originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/customizing-color-fonts-on-the-web/",
           "publishedOn": "2022-05-26T00:15:29.000Z",
-          "wordCount": 321,
+          "wordCount": 849,
           "title": "Customizing Color Fonts on the Web",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366077"
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/07/star.png?fit=32%2C32&ssl=1"
         }
       ]
     },
@@ -168,9 +168,9 @@
           "description": "Aurora v1 EOL을 대처 하는 우리의 자세 (feat. MySQL 5.6) End of Life! 그렇게 EOL 입니다. MySQL 5.6을 기반으로 하는 AWS의 Aurora v1 버전의 EOL 소식이  들려오고 있습니다. AWS Aurora v1 EOL 소식 2023년 2월을...\nThe post Aurora v1 EOL을 대처 하는 우리의 자세 (feat. MySQL 5.6) appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/aurora-v1-eol%ec%9d%84-%eb%8c%80%ec%b2%98-%ed%95%98%eb%8a%94-%ec%9a%b0%eb%a6%ac%ec%9d%98-%ec%9e%90%ec%84%b8-feat-mysql-5-6/",
           "publishedOn": "2022-06-11T13:19:35.000Z",
-          "wordCount": 1134,
+          "wordCount": 2100,
           "title": "Aurora v1 EOL을 대처 하는 우리의 자세 (feat. MySQL 5.6)",
-          "imageUrl": "https://rastalion.me/wp-content/uploads/2019/04/mysql_PNG19-300x300.png"
+          "imageUrl": "https://rastalion.me/wp-content/uploads/2019/02/cropped-Rasta-Lion-1-32x32.jpg"
         },
         {
           "id": "https://rastalion.me/?p=2535",
@@ -178,9 +178,9 @@
           "description": "MongoDB 5.0 Time Series MongoDB가 5.x 버전으로 릴리즈 되면서 추가된 유용한 기능 중에 하나가 바로 Time Series 컬렉션을 활용할 수 있다는 것 입니다. 쉽게 표현하면 시계열 데이터를 저장하는 기능인데 더 쉽게 표현하면 일정 시간...\nThe post MongoDB 5.0 Time Series appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/mongodb_timeseries/",
           "publishedOn": "2022-06-03T05:48:26.000Z",
-          "wordCount": 1110,
+          "wordCount": 2062,
           "title": "MongoDB 5.0 Time Series",
-          "imageUrl": "https://rastalion.me/wp-content/uploads/2020/04/37_2019081518484308.jpg"
+          "imageUrl": "https://rastalion.me/wp-content/uploads/2019/02/cropped-Rasta-Lion-1-32x32.jpg"
         },
         {
           "id": "https://rastalion.me/?p=2532",
@@ -188,9 +188,9 @@
           "description": "MongoDB에서 Sequence 사용하기 on Node.js MongoDB는 Oracle이나 PostgreSQL의 Sequence나 MySQL의 Auto Increment 같은 기능이 없습니다.  반면 MongoDB에 익숙한 사람들은 12-byte로된 Object_ID에 더 익숙할겁니다.  MongoDB는 자동 증가 시퀀스를 기본 기능으로 지원하지 않지만 이 기능은 카운터...\nThe post MongoDB에서 Sequence 사용하기 on Node.js appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/mongodb-sequence-on-node-js/",
           "publishedOn": "2022-05-25T01:25:28.000Z",
-          "wordCount": 718,
+          "wordCount": 1656,
           "title": "MongoDB에서 Sequence 사용하기 on Node.js",
-          "imageUrl": "https://rastalion.me/wp-content/uploads/2020/04/37_2019081518484308.jpg"
+          "imageUrl": "https://rastalion.me/wp-content/uploads/2019/02/cropped-Rasta-Lion-1-32x32.jpg"
         },
         {
           "id": "https://rastalion.me/?p=2527",
@@ -198,9 +198,9 @@
           "description": "Database Specialist or Generalist ?! 서론 이런 글을 쓰게 된 이유는 최근 들어 많이 생각하게되고, 주변 DBA분들이나 비슷한 종사자 엔지니어들과 교류하면서 느낀점이 있기 때문입니다. DBA라는 포지션은 지금까지 대부분 스페셜리스트였습니다. Oracle이 DBA의 대세였던 시절부터, Engineer...\nThe post Database Specialist or Generalist ?! appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/database-specialist-or-generalist/",
           "publishedOn": "2022-05-23T01:00:21.000Z",
-          "wordCount": 1204,
+          "wordCount": 2171,
           "title": "Database Specialist or Generalist ?!",
-          "imageUrl": "https://rastalion.me/wp-content/uploads/2021/04/sm_5b46d890d85b8-300x300.jpg"
+          "imageUrl": "https://rastalion.me/wp-content/uploads/2019/02/cropped-Rasta-Lion-1-32x32.jpg"
         },
         {
           "id": "https://rastalion.me/?p=2522",
@@ -208,9 +208,9 @@
           "description": "MERN Stack 이란? 최근 MongoDB에 대한 자료들을 찾아보다 보면 해외 사이트들에서 쉽게 접할 수 있는 단어입니다. 꽤 인기있는 것으로 Udemy 같은 온라인 교육 사이트에는 MERN Stack에 대한 통합 교육과정도 업로드 되고 있습니다. MERN은 스택을 구성하는...\nThe post MERN Stack 이란? appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/mern-stack-%ec%9d%b4%eb%9e%80/",
           "publishedOn": "2022-05-20T16:20:29.000Z",
-          "wordCount": 916,
+          "wordCount": 1858,
           "title": "MERN Stack 이란?",
-          "imageUrl": "https://rastalion.me/wp-content/uploads/2020/04/37_2019081518484308.jpg"
+          "imageUrl": "https://rastalion.me/wp-content/uploads/2019/02/cropped-Rasta-Lion-1-32x32.jpg"
         }
       ]
     },
@@ -220,12 +220,72 @@
       "siteUrl": "https://news.hada.io",
       "articles": [
         {
+          "id": "https://news.hada.io/topic?id=6786",
+          "author": null,
+          "description": "빠르고, 안전하고, 쉬운 언어\nAOT 컴파일, 정적 타입\nGenerational Reference 기반 메모리 관리로 레퍼런스 카운팅보다 2.3x 빠르고 안전\n프로그램의 메모리를 Region 단위로 분할 : Main, Read-only, Mutexed..\nRegion 격리, Fearless FFI, Higher RAII\n...",
+          "link": "https://news.hada.io/topic?id=6786",
+          "publishedOn": "2022-06-19T01:02:14.000Z",
+          "wordCount": 797,
+          "title": "Vale 프로그래밍 언어",
+          "imageUrl": "https://social.news.hada.io/topic/6786"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6785",
+          "author": null,
+          "description": "자신의 개인정보를 공개하지 않고 일할 수 있는 Job들 리스트 사이트\nAE Studio, Flashbots, LooksRare, Paradigm, DefiLlama, Yearn 등\n직접 구인공고 등록 가능\n\n...",
+          "link": "https://news.hada.io/topic?id=6785",
+          "publishedOn": "2022-06-19T00:37:30.000Z",
+          "wordCount": 813,
+          "title": "Anonfriendly - 익명으로 일할수 있는 직업 찾기",
+          "imageUrl": "https://social.news.hada.io/topic/6785"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6784",
+          "author": null,
+          "description": "SSH로 다수 서버에서 명령을 실행해주는 CLI 도구\n여러대의 서버 또는 도커 컨테이너 대상으로 동작\n서버들의 정보를 불러와서 테이블로 표시 가능\n\n...",
+          "link": "https://news.hada.io/topic?id=6784",
+          "publishedOn": "2022-06-19T00:10:28.000Z",
+          "wordCount": 820,
+          "title": "Sake - 로컬 & 리모트 서버들을 위한 명령 실행기",
+          "imageUrl": "https://social.news.hada.io/topic/6784"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6783",
+          "author": null,
+          "description": "올해의 혁신\njotai (atom 기반 상태관리 라이브러리)\nremix (next.js와 비슷한 풀스택 프레임워크)\nrefine (빠른 프로토타이핑 가능한 기본 세팅 프레임워크)\nwagmi (이더리움 연동 hooks)\npreview.js (파일단...",
+          "link": "https://news.hada.io/topic?id=6783",
+          "publishedOn": "2022-06-18T15:06:11.000Z",
+          "wordCount": 960,
+          "title": "리액트 오픈소스 어워드 2022",
+          "imageUrl": "https://social.news.hada.io/topic/6783"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6782",
+          "author": null,
+          "description": "LG, 삼성, Dell 위주로 개발자를 위한 모니터 추천\n예산, 스펙(밝기, 패널), 단자(USB-C,Thunderbolt), 스탠드 기능에 따라 추천\n위 내용과 가격, 구매처를 정리한 노션 링크도 제공",
+          "link": "https://news.hada.io/topic?id=6782",
+          "publishedOn": "2022-06-18T02:17:04.000Z",
+          "wordCount": 988,
+          "title": "개발자를 위한 모니터 추천 / 가이드",
+          "imageUrl": "https://social.news.hada.io/topic/6782"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6781",
+          "author": null,
+          "description": "기능 소개\nMacBook 구매 / MacBook 판매\nMacBook 대신 판매 서비스 제공\n당근마켓의 '끌올'과 비슷한 '자동가격할인' 기능\n구매자를 위한 상세한 MacBook 매물 정보 제공\n'Notion으로 이런 것도 만들 수 있구나' 아이디어 제공\n<st",
+          "link": "https://news.hada.io/topic?id=6781",
+          "publishedOn": "2022-06-18T01:46:06.000Z",
+          "wordCount": 1118,
+          "title": "Show GN: Notion으로 만든 중고맥북 판매 중개 서비스",
+          "imageUrl": "https://social.news.hada.io/topic/6781"
+        },
+        {
           "id": "https://news.hada.io/topic?id=6780",
           "author": null,
           "description": "매달 CT 스캐너로 특정 물품을 상세히 찍어서 공개하는 페이지\n스크롤 하면서 물체를 회전시키며 내부를 설명하는 형식\n가장 기술적으로 발전된 스포츠인 골프 장비들을 분석\nNike Air Zoom Infinity Tour 골프화\nTitleist TSi3 티타늄 드라이버\nTaylorMade Carb...",
           "link": "https://news.hada.io/topic?id=6780",
           "publishedOn": "2022-06-18T00:40:01.000Z",
-          "wordCount": 116,
+          "wordCount": 824,
           "title": "이 달의 CT 스캔 : 골프 장비",
           "imageUrl": "https://social.news.hada.io/topic/6780"
         },
@@ -235,7 +295,7 @@
           "description": "1950개의 MIT 라이센스 이미지인 Tabler 아이콘을 이용\n배경 타입(원,사각,둥근사각,투평), 채우기 색상, 선 굵기 및 색상, 회전, 스케일 등을 지정 가능\n\n...",
           "link": "https://news.hada.io/topic?id=6779",
           "publishedOn": "2022-06-18T00:22:01.000Z",
-          "wordCount": 71,
+          "wordCount": 773,
           "title": "랜덤 Favicon 생성기",
           "imageUrl": "https://social.news.hada.io/topic/6779"
         },
@@ -245,7 +305,7 @@
           "description": "\"CLAP(CLever Audio Plug-in API)\"\n오픈소스 & 자유 라이센스\n최신 CPU에 최적화 : 멀티쓰레드/멀티코어\n호스트가 플러그인 메타데이터를 읽을수 있어서 빠른 스캔 및 구성 가능\n더 나은 Automation,Modulation,Expression\n\n...",
           "link": "https://news.hada.io/topic?id=6778",
           "publishedOn": "2022-06-18T00:06:01.000Z",
-          "wordCount": 112,
+          "wordCount": 815,
           "title": "CLAP : 새로운 Audio Plug-in 표준",
           "imageUrl": "https://social.news.hada.io/topic/6778"
         },
@@ -255,69 +315,9 @@
           "description": "월간 방문자 기준 1~10위 그래프 변화 애니메이션",
           "link": "https://news.hada.io/topic?id=6777",
           "publishedOn": "2022-06-17T02:36:01.000Z",
-          "wordCount": 132,
+          "wordCount": 832,
           "title": "1993년 이후 가장 인기 있는 웹사이트 [유튜브]",
           "imageUrl": "https://social.news.hada.io/topic/6777"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6776",
-          "author": null,
-          "description": "이번 주말에 뭘 하려고 계획 중인지 편하게 얘기해 보아요.\n읽을 책, 가볼 곳, 해볼 것.. 어떤 것이든 좋습니다.\n지난 주말에 계획하셨던 일의 회고도 한번 남겨봐 주세요.",
-          "link": "https://news.hada.io/topic?id=6776",
-          "publishedOn": "2022-06-17T02:18:39.000Z",
-          "wordCount": 145,
-          "title": "Ask GN: 이번 주말에 뭐 하시나요?",
-          "imageUrl": "https://social.news.hada.io/topic/6776"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6775",
-          "author": null,
-          "description": "저는 5천 라인 이하 규모의 개발 부업과 전문 IT 교육기관의 강사/멘토 부업을 주로 하는데요..\n멘토 아르바이트가 나름 재미있고 감동 포인트도 있어서 한때 전직도 생각해봤었죠.\n혹시 여러분들은 부업들 많이 하시나요 ??\n어떤 부업들을 하시나요 ??",
-          "link": "https://news.hada.io/topic?id=6775",
-          "publishedOn": "2022-06-17T01:34:29.000Z",
-          "wordCount": 155,
-          "title": "Ask GN: 부업하시는 분들 많으신가요 ??",
-          "imageUrl": "https://social.news.hada.io/topic/6775"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6774",
-          "author": null,
-          "description": "HN에 주기적으로 올라오는 질문 중 하나. 몇개만 가져와봅니다\n파킨슨 환자용 마우스 손떨림 제거 소프트웨어 (현재버전 $43 or 평생업글 $127)\n게임용 아이템 판매 마켓 (피크때 월 $300k). 처음엔 eBay 어필리에이트 링크를 사용하다가 빅셀러 컨택해서 독점 판매로 선회\n유명 트레",
-          "link": "https://news.hada.io/topic?id=6774",
-          "publishedOn": "2022-06-17T01:09:27.000Z",
-          "wordCount": 297,
-          "title": "돈을 벌고 있지만, 감춰둔 사이드 프로젝트 있으신가요?",
-          "imageUrl": "https://social.news.hada.io/topic/6774"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6773",
-          "author": null,
-          "description": "Zip 파일에 html만 넣으면 6개 OS에서 직접 실행되는 웹서버\n취미프로젝트로 시작했지만, 이제는 Lua + SQLite가 호스팅 되는 1.9mb 크기의 복잡한 기능들을 제공\n→ REPL 지원, Mbed TLS, 샌드박싱, argon2 패스워드 해슁, MaxMind IP Geolocation 등\n→ Easy-Mode API 와 고수준 개발을...",
-          "link": "https://news.hada.io/topic?id=6773",
-          "publishedOn": "2022-06-17T00:40:55.000Z",
-          "wordCount": 174,
-          "title": "Redbean 2.0 공개",
-          "imageUrl": "https://social.news.hada.io/topic/6773"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6772",
-          "author": null,
-          "description": "Storybook이 Airbnb, Microsoft, GitHub 등이 사용하는 UI 컴포넌트 5132개를 정리\n실시간 데모 와 함께 컴포넌트를 브라우징 & 검색 가능\n소스 보기 및 쉬운 재사용 지원\n\n...",
-          "link": "https://news.hada.io/topic?id=6772",
-          "publishedOn": "2022-06-17T00:27:04.000Z",
-          "wordCount": 86,
-          "title": "UI Component Encyclopedia",
-          "imageUrl": "https://social.news.hada.io/topic/6772"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6771",
-          "author": null,
-          "description": "iOS16 과 macOS Ventura에서 지원 예정\n사용자 경험을 해치지 않고 가짜 사용자인지 체크해서 CAPTCHA를 요구하지 않게 처리\nIETF의 Privacy Pass 프로토콜 표준 이용\n→ 서버가 PrivateToken HTTP 인증을 요구\n→ 서버는 클라이언트 아이덴티티 트래킹 불가\n→ RSA Blind...",
-          "link": "https://news.hada.io/topic?id=6771",
-          "publishedOn": "2022-06-17T00:14:32.000Z",
-          "wordCount": 138,
-          "title": "애플과 Cloudflare, Private Access Tokens로 CAPTCHA를 제거",
-          "imageUrl": "https://social.news.hada.io/topic/6771"
         }
       ]
     },
@@ -332,7 +332,7 @@
           "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n팀 분들과 함께 NextStep - 이펙티브 코틀린 강좌를 수강하고 있다.\n최근에 과제 회고를 처음 진행했는데, 이때 나온 주제가 테스트 하기 좋은 코드였다.\n이 주제는 사실 이미 너무 많이 회자된 주제이긴하다.\n대표적으로 아래 2개가 가장 대표적이다.\n정진욱님 - Testing, Oh my!\n권용근님 - 무엇을 테스트할 것인가\n이들을 다 보았다면, 굳이 이 글을 볼 필요는 없다.\n이미 잘 정리된 글과 영상이지만, 현재 팀의 분들을 위해서 조금 정리하게 되었다.\n뒤에 이어 쓸 Active Record vs Data Mapper의 빌드업이기도 하다.\n이 글에서는 테스트하기 어려운 코드 대해 이야기해보려고 한다.\n1. 테스트 하기 좋은 코드?\n여기서 이야기하는 테스트는 단위 테스트를 의미한다.\nE2E 테스트는 여기서 이야기하는 테스트와 구현, 설계와는 다르다.\n테스트 코드 작성의 어려움을 팀원들을 보면 본인이 테스트 코드를 작성해본 경험이 부족해서 혹은 테스트 프레임워크 (JUnit, Jest, Mocha 등) 숙련도가 떨어지기 때문이라고 생각하는 경우를 종종 본다.\n하지만 테스트 코드 작성 경험, 테스트 프레임워크 숙련도로 인한 어려움은 생각보다 큰 이유가 아니다.\n경험상 대부분은 테스트를 작성하기 어려운 구현체 때문이다.\n테스트하기 어렵도룩 구현되었기 때문에 테스트 코드 작성이 어려운 것이지, 도구의 숙련도의…",
           "link": "https://jojoldu.tistory.com/674",
           "publishedOn": "2022-06-11T09:03:38.000Z",
-          "wordCount": 1095,
+          "wordCount": 1419,
           "title": "1. 테스트하기 좋은 코드 - 테스트하기 어려운 코드",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fbqzb6L%2FbtrEvNnOOFZ%2FTRZgi9sz2cpAkbZxs5Iyd1%2Fimg.png"
         },
@@ -342,7 +342,7 @@
           "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\nGithub 의 코드리뷰를 보면 다음과 같이 No newline at end of file 메세지를 보여준다\n이는 파일 끝에 개행문자(newline)이 없습니다 라는 의미인데, POSIX 기반의 규칙에 기반한다. \nEOF 가 없으면 컴파일 에러가 나는 상황을 대비한 규칙이다. \n요즘 그럴일은 없지만 그래도 의도한대로 파일이 작동되는 것을 보장하기 위해 웬만해선 자동으로 규칙을 정해놓고 관리하는 것을 추천한다.\n이를 매번 파일 생성때마다 수동으로 계행문자를 넣는 것은 꽤나 불편한 일이다. \n그래서 자동으로 해결하는 방법은 크게 2가지이다.\n1. IDE 설정으로 해결하기\n가장 쉬운 방법은 IDE의 설정으로 항상 파일 끝에 newline을 추가하도록 하는 것이다.\nIDE 설정 (Settings/Preferences) 을 열어 Ensure every saved file ends 을 검색한다.\n아래와 같이 Ensure every saved file ends 항목을 체크한다.\n이렇게 하면 파일을 저장할때마다 항상 newline을 추가한다.\n다만, 이 방법을 추천하진 않는다. \n웬만하면 아래 2번째 방법을 사용하자.\n2. EditorConfig로 프로젝트 자체 설정으로 해결하기\nIDE 설정을 수정하기 보다는 editorconfig로 설정을 하는 것이 프로젝트 관리하는데 있어서 편하다.\n개발환경이 집/회사/개인노트북 등 여러 곳에 분산되어서 개발해야하는 경우\n나 외에 다른 사람들도 같이 개발해야하는 경우\n등등 IDE 설정을 매번 하기보다는 .editorconfig 로 하는 것을 강력 추천 한다.\nEditorConfig 는 코드 스타일을 관리하는 표준 도구이다. \n대부분의 IDE에서 이를 지원하기 때문에 파일 저장시 각종 규칙에 맞게 일관된 코드 스타일을 관리할 수 있다.\nKtlint 를 쓰더라도 EditorConfig 를 사용하는 이유는 다음과 같다.\n출처: benelog님의 블로그\n(이미 benelog님이 너무 잘 정리해주셔서) 위 이유 중에서\n코드 포맷의 문서 역할\nktlint 업데이트로 인해 변경되는 규칙 보장\n이 2가지에 굉장히 공감하기 때문에 .editorconfig 을 설정하는 것을 추천한다.\n젯브레인 계열 IDE에서는 다음과 같이 .editorconfig 를 생성할 수 있다. \n(그냥 파일을 생성해도 된다.)\n프로젝트 선택후 우클릭 -> New 를 선택하고 (Mac 단축키로는 Command + N)\n해당 목록에서 EditorConfig File 을 선택한다. \n그럼 다음과 같이 여러 옵션으로 생성이 가능하다. \n이미 사용할 포맷이 있기 때문에 아무 옵션도 선택하지 않고 OK 를 누른다.\n생성된 .editorconfig 에 아래와 같이 무난한 Kotlin 옵션을 추가한다.\nroot = true\n\n[*]\ncharset = utf-8\nend_of_line = lf\nindent_size = 4\nindent_style = space\ntrim_trailing_whitespace = true\ninsert_final_newline = true\nmax_line_length = 120\ntab_width = 4\n\n[*.{kt,kts}]\ndisabled_rules=import-ordering\n출처: benelog님의 블로그\n이와 같이 설정하면 파일 저장시마다 설정된 옵션에 따라 파일이 정리된다.\n젯브레인 계열 IDE에서 EditorConfig를 사용하는 자세한 방법은 공식 문서를 참고하면 좋다\n            \n반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({});",
           "link": "https://jojoldu.tistory.com/673",
           "publishedOn": "2022-06-04T13:46:03.000Z",
-          "wordCount": 526,
+          "wordCount": 850,
           "title": "IntelliJ (Kotlin) 매 파일마다 newline 자동으로 추가하기 (feat. EditorConfig)",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbtuD8A%2FbtrDWKkJzus%2Fomv7pAdT3C6BgkfY6YSh7k%2Fimg.png"
         },
@@ -352,12 +352,12 @@
           "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\n\n최근에 들었던 질문 중 현실 세계의 식별자를 데이터베이스 기본키로 써도 되냐는 것이 있었다. \n이를테면 현실 세계에서 유일함을 보장하는 값들이다.\n주민 등록 번호\n전화 번호\n여권 번호\n이들을 데이터베이스의 기본키 (PK) 로 지정해서 쓰는게 어떤가 하는 것이다.\n최근의 ORM 예제들을 보면 auto_increment 혹은 uuid 등 개발자가 직접 생성한 기본키을 지정하는데, 왜 그렇게 하는지 모르겠다는 이야기도 들었다.\n(나 뿐만 아니라 여러 개발자분들이 같은 생각을 하실것 같은데) 기본키는 절대 바뀌지 않아야 한다.\n기본키를 수정하는 것은 항상 많은 문제를 일으킨다. \n대부분의 기본키가 여러 테이블의 FK와 인덱스로 지정되어 사용되기 때문이다.\n더군다나 위와 같이 현실 세계의 값들은 사용자들이 직접 입력한 값일 경우가 많다.\n입력된 값에 오타가 있으면 어떻게 될까? \n이미 그 값은 PK와 여러 테이블의 FK로 사용되고 있다면, 그 오타를 수정하기 위해 얼마나 많은 비용이 들까? \n기본키를 수정 하기 위해서는 너무나 큰 비용이 든다.\n그래서 기본키는 절대 변경되지 않는 속성을 사용해야만 한다. \n하지만 현실 세계의 속성은 변경을 내가 제어할 수가 없다. \n주민 등록 번호, 전화 번호, 여권 번호 등 현실 세계의 값들은 상황에 따라 언제든 변경 될 수 있다.\n실제로 2014년에 주민등록번호 수집이 금지되었다.\n\n그전까지 주민등록번호를 기본키로 갖고 있던 곳들은 호되게 혼났던 것을 듣기도 했다.\n흔히 견고한 소프트웨어를 위해서는 코드가 외부에 의존해서는 안된다고 한다. \n현실 세계의 값을 기본키로 사용하는 것은 외부에 의존하는 것이다.\n현실 세계의 변화와 시스템간의 결합도를 줄여야 한다. \n내가 제어할 수 없는 값에 시스템이 의존해서는 안된다.\n            \n반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({});",
           "link": "https://jojoldu.tistory.com/672",
           "publishedOn": "2022-05-31T14:19:23.000Z",
-          "wordCount": 371,
+          "wordCount": 684,
           "title": "현실 세계의 속성에 의존하지 않기",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2F9KStj%2FbtrDHFQA6s7%2FWEcm0CDtK4oFyic6cnZTH1%2Fimg.png"
         }
       ]
     }
   ],
-  "cliVersion": "1.14.4"
+  "cliVersion": "1.15.0"
 }
