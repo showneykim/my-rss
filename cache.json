@@ -201,16 +201,6 @@
           "wordCount": 2171,
           "title": "Database Specialist or Generalist ?!",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2019/02/cropped-Rasta-Lion-1-32x32.jpg"
-        },
-        {
-          "id": "https://rastalion.me/?p=2522",
-          "author": "Rasta Lion",
-          "description": "MERN Stack 이란? 최근 MongoDB에 대한 자료들을 찾아보다 보면 해외 사이트들에서 쉽게 접할 수 있는 단어입니다. 꽤 인기있는 것으로 Udemy 같은 온라인 교육 사이트에는 MERN Stack에 대한 통합 교육과정도 업로드 되고 있습니다. MERN은 스택을 구성하는...\nThe post MERN Stack 이란? appeared first on RastaLion's IT Blog.",
-          "link": "https://rastalion.me/mern-stack-%ec%9d%b4%eb%9e%80/",
-          "publishedOn": "2022-05-20T16:20:29.000Z",
-          "wordCount": 1858,
-          "title": "MERN Stack 이란?",
-          "imageUrl": "https://rastalion.me/wp-content/uploads/2019/02/cropped-Rasta-Lion-1-32x32.jpg"
         }
       ]
     },
@@ -219,6 +209,56 @@
       "feedUrl": "https://news.hada.io/rss/news",
       "siteUrl": "https://news.hada.io",
       "articles": [
+        {
+          "id": "https://news.hada.io/topic?id=6791",
+          "author": null,
+          "description": "주식회사의 공동창업자 = 회사 지분율을 나눠 가진 주주\n공동창업자 간 분쟁을 방지하기 위한 주주간계약서의 내용\n\n주주 간 지분비율 및 역할분담 확정\n자금관리 약정\n주주총회 구성\n이사회 의결\n회계 및 보고\n주식양도 제한 조항\n양...",
+          "link": "https://news.hada.io/topic?id=6791",
+          "publishedOn": "2022-06-20T01:43:01.000Z",
+          "wordCount": 845,
+          "title": "공동창업시 주주간 계약서에 들어가야할 내용",
+          "imageUrl": "https://social.news.hada.io/topic/6791"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6790",
+          "author": null,
+          "description": "'개발툴을 만들어 발표하려는데 참고할만한 자료가 필요해요' 라는 HN의 질문에 대한 답들\n스티브 잡스의 NeXT 인터페이스 빌더 데모\n\n\n빌 게이츠의 Visual Basic 1.0 데모...",
+          "link": "https://news.hada.io/topic?id=6790",
+          "publishedOn": "2022-06-20T01:24:01.000Z",
+          "wordCount": 815,
+          "title": "최고의 개발툴 발표는 어떤 건가요?",
+          "imageUrl": "https://social.news.hada.io/topic/6790"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6789",
+          "author": null,
+          "description": "애플 디자인 어워드를 수상한 \"(Not Boring) Habits\"가 자신의 체크박스를 디자인한 과정을 설명\n이 앱의 목표는 습관을 만들기 위해 뭔가를 하고 '체크박스를 누르는 행위'후에 보상 받는 것을 강조하는 것이기에 체크박스 디자인이 정말 중요\n게임 느낌을 주기 위해 인터랙션 적...",
+          "link": "https://news.hada.io/topic?id=6789",
+          "publishedOn": "2022-06-20T01:04:01.000Z",
+          "wordCount": 839,
+          "title": "세상에서 가장 만족스러운 체크박스",
+          "imageUrl": "https://social.news.hada.io/topic/6789"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6788",
+          "author": null,
+          "description": "Patreon의 수수료는 Lite 5% / Pro 8% / Premium 12%\n하지만 송금수수료는 별도고, 미국외의 창작자들은 더 많이 내야함\n환전수수료도 2.5%로 이상하게 높음\n...",
+          "link": "https://news.hada.io/topic?id=6788",
+          "publishedOn": "2022-06-20T00:46:01.000Z",
+          "wordCount": 819,
+          "title": "Patreon의 수수료는 알려진 것보다 높음",
+          "imageUrl": "https://social.news.hada.io/topic/6788"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6787",
+          "author": null,
+          "description": "구글 GNI가 디지털 뉴스 스타트업 창업 프로세스를 이해하기 쉽게 설명하고, 미디어 비즈니스 구축을 지원하기 위해 제작\n뉴스 스타트업 창업자들이 고민하는 보도 내용, 구독 대상, 배포 방법, 그리고 발전 가능성 등에 대한 질문의 해답을 찾고 뉴스 사업 운영을 본격적으로 시작할 수 있도록 돕기 ...",
+          "link": "https://news.hada.io/topic?id=6787",
+          "publishedOn": "2022-06-20T00:28:01.000Z",
+          "wordCount": 883,
+          "title": "Google News Initiative 스타트업 플레이북 (한국어)",
+          "imageUrl": "https://social.news.hada.io/topic/6787"
+        },
         {
           "id": "https://news.hada.io/topic?id=6786",
           "author": null,
@@ -235,7 +275,7 @@
           "description": "자신의 개인정보를 공개하지 않고 일할 수 있는 Job들 리스트 사이트\nAE Studio, Flashbots, LooksRare, Paradigm, DefiLlama, Yearn 등\n직접 구인공고 등록 가능\n\n...",
           "link": "https://news.hada.io/topic?id=6785",
           "publishedOn": "2022-06-19T00:37:30.000Z",
-          "wordCount": 813,
+          "wordCount": 880,
           "title": "Anonfriendly - 익명으로 일할수 있는 직업 찾기",
           "imageUrl": "https://social.news.hada.io/topic/6785"
         },
@@ -245,7 +285,7 @@
           "description": "SSH로 다수 서버에서 명령을 실행해주는 CLI 도구\n여러대의 서버 또는 도커 컨테이너 대상으로 동작\n서버들의 정보를 불러와서 테이블로 표시 가능\n\n...",
           "link": "https://news.hada.io/topic?id=6784",
           "publishedOn": "2022-06-19T00:10:28.000Z",
-          "wordCount": 820,
+          "wordCount": 824,
           "title": "Sake - 로컬 & 리모트 서버들을 위한 명령 실행기",
           "imageUrl": "https://social.news.hada.io/topic/6784"
         },
@@ -255,7 +295,7 @@
           "description": "올해의 혁신\njotai (atom 기반 상태관리 라이브러리)\nremix (next.js와 비슷한 풀스택 프레임워크)\nrefine (빠른 프로토타이핑 가능한 기본 세팅 프레임워크)\nwagmi (이더리움 연동 hooks)\npreview.js (파일단...",
           "link": "https://news.hada.io/topic?id=6783",
           "publishedOn": "2022-06-18T15:06:11.000Z",
-          "wordCount": 960,
+          "wordCount": 972,
           "title": "리액트 오픈소스 어워드 2022",
           "imageUrl": "https://social.news.hada.io/topic/6783"
         },
@@ -268,56 +308,6 @@
           "wordCount": 988,
           "title": "개발자를 위한 모니터 추천 / 가이드",
           "imageUrl": "https://social.news.hada.io/topic/6782"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6781",
-          "author": null,
-          "description": "기능 소개\nMacBook 구매 / MacBook 판매\nMacBook 대신 판매 서비스 제공\n당근마켓의 '끌올'과 비슷한 '자동가격할인' 기능\n구매자를 위한 상세한 MacBook 매물 정보 제공\n'Notion으로 이런 것도 만들 수 있구나' 아이디어 제공\n<st",
-          "link": "https://news.hada.io/topic?id=6781",
-          "publishedOn": "2022-06-18T01:46:06.000Z",
-          "wordCount": 1118,
-          "title": "Show GN: Notion으로 만든 중고맥북 판매 중개 서비스",
-          "imageUrl": "https://social.news.hada.io/topic/6781"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6780",
-          "author": null,
-          "description": "매달 CT 스캐너로 특정 물품을 상세히 찍어서 공개하는 페이지\n스크롤 하면서 물체를 회전시키며 내부를 설명하는 형식\n가장 기술적으로 발전된 스포츠인 골프 장비들을 분석\nNike Air Zoom Infinity Tour 골프화\nTitleist TSi3 티타늄 드라이버\nTaylorMade Carb...",
-          "link": "https://news.hada.io/topic?id=6780",
-          "publishedOn": "2022-06-18T00:40:01.000Z",
-          "wordCount": 824,
-          "title": "이 달의 CT 스캔 : 골프 장비",
-          "imageUrl": "https://social.news.hada.io/topic/6780"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6779",
-          "author": null,
-          "description": "1950개의 MIT 라이센스 이미지인 Tabler 아이콘을 이용\n배경 타입(원,사각,둥근사각,투평), 채우기 색상, 선 굵기 및 색상, 회전, 스케일 등을 지정 가능\n\n...",
-          "link": "https://news.hada.io/topic?id=6779",
-          "publishedOn": "2022-06-18T00:22:01.000Z",
-          "wordCount": 773,
-          "title": "랜덤 Favicon 생성기",
-          "imageUrl": "https://social.news.hada.io/topic/6779"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6778",
-          "author": null,
-          "description": "\"CLAP(CLever Audio Plug-in API)\"\n오픈소스 & 자유 라이센스\n최신 CPU에 최적화 : 멀티쓰레드/멀티코어\n호스트가 플러그인 메타데이터를 읽을수 있어서 빠른 스캔 및 구성 가능\n더 나은 Automation,Modulation,Expression\n\n...",
-          "link": "https://news.hada.io/topic?id=6778",
-          "publishedOn": "2022-06-18T00:06:01.000Z",
-          "wordCount": 815,
-          "title": "CLAP : 새로운 Audio Plug-in 표준",
-          "imageUrl": "https://social.news.hada.io/topic/6778"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6777",
-          "author": null,
-          "description": "월간 방문자 기준 1~10위 그래프 변화 애니메이션",
-          "link": "https://news.hada.io/topic?id=6777",
-          "publishedOn": "2022-06-17T02:36:01.000Z",
-          "wordCount": 832,
-          "title": "1993년 이후 가장 인기 있는 웹사이트 [유튜브]",
-          "imageUrl": "https://social.news.hada.io/topic/6777"
         }
       ]
     },

@@ -1,10 +1,79 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-19T01:53:06.021Z</id>
+    <id>urn:2022-06-20T01:47:44.935Z</id>
     <title>osmos::feed</title>
-    <updated>2022-06-19T01:53:06.021Z</updated>
+    <updated>2022-06-20T01:47:44.935Z</updated>
     <generator>osmosfeed 1.15.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[공동창업시 주주간 계약서에 들어가야할 내용]]></title>
+        <id>https://news.hada.io/topic?id=6791</id>
+        <link href="https://news.hada.io/topic?id=6791"/>
+        <updated>2022-06-20T01:43:01.000Z</updated>
+        <summary type="html"><![CDATA[주식회사의 공동창업자 = 회사 지분율을 나눠 가진 주주
+공동창업자 간 분쟁을 방지하기 위한 주주간계약서의 내용
+
+주주 간 지분비율 및 역할분담 확정
+자금관리 약정
+주주총회 구성
+이사회 의결
+회계 및 보고
+주식양도 제한 조항
+양...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최고의 개발툴 발표는 어떤 건가요?]]></title>
+        <id>https://news.hada.io/topic?id=6790</id>
+        <link href="https://news.hada.io/topic?id=6790"/>
+        <updated>2022-06-20T01:24:01.000Z</updated>
+        <summary type="html"><![CDATA['개발툴을 만들어 발표하려는데 참고할만한 자료가 필요해요' 라는 HN의 질문에 대한 답들
+스티브 잡스의 NeXT 인터페이스 빌더 데모
+
+
+빌 게이츠의 Visual Basic 1.0 데모...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[세상에서 가장 만족스러운 체크박스]]></title>
+        <id>https://news.hada.io/topic?id=6789</id>
+        <link href="https://news.hada.io/topic?id=6789"/>
+        <updated>2022-06-20T01:04:01.000Z</updated>
+        <summary type="html"><![CDATA[애플 디자인 어워드를 수상한 "(Not Boring) Habits"가 자신의 체크박스를 디자인한 과정을 설명
+이 앱의 목표는 습관을 만들기 위해 뭔가를 하고 '체크박스를 누르는 행위'후에 보상 받는 것을 강조하는 것이기에 체크박스 디자인이 정말 중요
+게임 느낌을 주기 위해 인터랙션 적...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Patreon의 수수료는 알려진 것보다 높음]]></title>
+        <id>https://news.hada.io/topic?id=6788</id>
+        <link href="https://news.hada.io/topic?id=6788"/>
+        <updated>2022-06-20T00:46:01.000Z</updated>
+        <summary type="html"><![CDATA[Patreon의 수수료는 Lite 5% / Pro 8% / Premium 12%
+하지만 송금수수료는 별도고, 미국외의 창작자들은 더 많이 내야함
+환전수수료도 2.5%로 이상하게 높음
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google News Initiative 스타트업 플레이북 (한국어)]]></title>
+        <id>https://news.hada.io/topic?id=6787</id>
+        <link href="https://news.hada.io/topic?id=6787"/>
+        <updated>2022-06-20T00:28:01.000Z</updated>
+        <summary type="html"><![CDATA[구글 GNI가 디지털 뉴스 스타트업 창업 프로세스를 이해하기 쉽게 설명하고, 미디어 비즈니스 구축을 지원하기 위해 제작
+뉴스 스타트업 창업자들이 고민하는 보도 내용, 구독 대상, 배포 방법, 그리고 발전 가능성 등에 대한 질문의 해답을 찾고 뉴스 사업 운영을 본격적으로 시작할 수 있도록 돕기 ...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vale 프로그래밍 언어]]></title>
         <id>https://news.hada.io/topic?id=6786</id>
@@ -76,66 +145,6 @@ preview.js (파일단...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: Notion으로 만든 중고맥북 판매 중개 서비스]]></title>
-        <id>https://news.hada.io/topic?id=6781</id>
-        <link href="https://news.hada.io/topic?id=6781"/>
-        <updated>2022-06-18T01:46:06.000Z</updated>
-        <summary type="html"><![CDATA[기능 소개
-MacBook 구매 / MacBook 판매
-MacBook 대신 판매 서비스 제공
-당근마켓의 '끌올'과 비슷한 '자동가격할인' 기능
-구매자를 위한 상세한 MacBook 매물 정보 제공
-'Notion으로 이런 것도 만들 수 있구나' 아이디어 제공
-<st]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이 달의 CT 스캔 : 골프 장비]]></title>
-        <id>https://news.hada.io/topic?id=6780</id>
-        <link href="https://news.hada.io/topic?id=6780"/>
-        <updated>2022-06-18T00:40:01.000Z</updated>
-        <summary type="html"><![CDATA[매달 CT 스캐너로 특정 물품을 상세히 찍어서 공개하는 페이지
-스크롤 하면서 물체를 회전시키며 내부를 설명하는 형식
-가장 기술적으로 발전된 스포츠인 골프 장비들을 분석
-Nike Air Zoom Infinity Tour 골프화
-Titleist TSi3 티타늄 드라이버
-TaylorMade Carb...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[랜덤 Favicon 생성기]]></title>
-        <id>https://news.hada.io/topic?id=6779</id>
-        <link href="https://news.hada.io/topic?id=6779"/>
-        <updated>2022-06-18T00:22:01.000Z</updated>
-        <summary type="html"><![CDATA[1950개의 MIT 라이센스 이미지인 Tabler 아이콘을 이용
-배경 타입(원,사각,둥근사각,투평), 채우기 색상, 선 굵기 및 색상, 회전, 스케일 등을 지정 가능
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CLAP : 새로운 Audio Plug-in 표준]]></title>
-        <id>https://news.hada.io/topic?id=6778</id>
-        <link href="https://news.hada.io/topic?id=6778"/>
-        <updated>2022-06-18T00:06:01.000Z</updated>
-        <summary type="html"><![CDATA["CLAP(CLever Audio Plug-in API)"
-오픈소스 & 자유 라이센스
-최신 CPU에 최적화 : 멀티쓰레드/멀티코어
-호스트가 플러그인 메타데이터를 읽을수 있어서 빠른 스캔 및 구성 가능
-더 나은 Automation,Modulation,Expression
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Single Element Loaders: The Dots]]></title>
         <id>https://css-tricks.com/?p=366342</id>
         <link href="https://css-tricks.com/single-element-loaders-the-dots/"/>
@@ -144,16 +153,6 @@ TaylorMade Carb...]]></summary>
 Single Element Loaders: The Dots originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1993년 이후 가장 인기 있는 웹사이트 [유튜브]]]></title>
-        <id>https://news.hada.io/topic?id=6777</id>
-        <link href="https://news.hada.io/topic?id=6777"/>
-        <updated>2022-06-17T02:36:01.000Z</updated>
-        <summary type="html"><![CDATA[월간 방문자 기준 1~10위 그래프 변화 애니메이션]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
     </entry>
     <entry>
@@ -505,17 +504,6 @@ The post MongoDB에서 Sequence 사용하기 on Node.js appeared first on RastaL
         <updated>2022-05-23T01:00:21.000Z</updated>
         <summary type="html"><![CDATA[Database Specialist or Generalist ?! 서론 이런 글을 쓰게 된 이유는 최근 들어 많이 생각하게되고, 주변 DBA분들이나 비슷한 종사자 엔지니어들과 교류하면서 느낀점이 있기 때문입니다. DBA라는 포지션은 지금까지 대부분 스페셜리스트였습니다. Oracle이 DBA의 대세였던 시절부터, Engineer...
 The post Database Specialist or Generalist ?! appeared first on RastaLion's IT Blog.]]></summary>
-        <author>
-            <name>Rasta Lion</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MERN Stack 이란?]]></title>
-        <id>https://rastalion.me/?p=2522</id>
-        <link href="https://rastalion.me/mern-stack-%ec%9d%b4%eb%9e%80/"/>
-        <updated>2022-05-20T16:20:29.000Z</updated>
-        <summary type="html"><![CDATA[MERN Stack 이란? 최근 MongoDB에 대한 자료들을 찾아보다 보면 해외 사이트들에서 쉽게 접할 수 있는 단어입니다. 꽤 인기있는 것으로 Udemy 같은 온라인 교육 사이트에는 MERN Stack에 대한 통합 교육과정도 업로드 되고 있습니다. MERN은 스택을 구성하는...
-The post MERN Stack 이란? appeared first on RastaLion's IT Blog.]]></summary>
         <author>
             <name>Rasta Lion</name>
         </author>
