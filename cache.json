@@ -11,7 +11,7 @@
           "description": "We’re looking at loaders in this series. More than that, we’re breaking down some common loader patterns and how to re-create them with nothing more than a single div. So far, we’ve picked apart the classic spinning loader. Now, …\nSingle Element Loaders: The Dots originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/single-element-loaders-the-dots/",
           "publishedOn": "2022-06-17T14:47:55.000Z",
-          "wordCount": 2371,
+          "wordCount": 2406,
           "title": "Single Element Loaders: The Dots",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/07/star.png?fit=32%2C32&ssl=1"
         },
@@ -41,7 +41,7 @@
           "description": "A diagram is a graphical representation of information that depicts the structure, relationship, or operation of anything. Diagrams enable your audience to visually grasp hidden information and engage with them in ways that words alone cannot. Depending on the type …\nUseful Tools for Visualizing Databases on a Budget originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/useful-tools-for-visualizing-databases-on-a-budget/",
           "publishedOn": "2022-06-13T19:15:26.000Z",
-          "wordCount": 2065,
+          "wordCount": 2085,
           "title": "Useful Tools for Visualizing Databases on a Budget",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/07/star.png?fit=32%2C32&ssl=1"
         },
@@ -168,7 +168,7 @@
           "description": "Aurora v1 EOL을 대처 하는 우리의 자세 (feat. MySQL 5.6) End of Life! 그렇게 EOL 입니다. MySQL 5.6을 기반으로 하는 AWS의 Aurora v1 버전의 EOL 소식이  들려오고 있습니다. AWS Aurora v1 EOL 소식 2023년 2월을...\nThe post Aurora v1 EOL을 대처 하는 우리의 자세 (feat. MySQL 5.6) appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/aurora-v1-eol%ec%9d%84-%eb%8c%80%ec%b2%98-%ed%95%98%eb%8a%94-%ec%9a%b0%eb%a6%ac%ec%9d%98-%ec%9e%90%ec%84%b8-feat-mysql-5-6/",
           "publishedOn": "2022-06-11T13:19:35.000Z",
-          "wordCount": 2100,
+          "wordCount": 2097,
           "title": "Aurora v1 EOL을 대처 하는 우리의 자세 (feat. MySQL 5.6)",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2019/02/cropped-Rasta-Lion-1-32x32.jpg"
         },
@@ -178,7 +178,7 @@
           "description": "MongoDB 5.0 Time Series MongoDB가 5.x 버전으로 릴리즈 되면서 추가된 유용한 기능 중에 하나가 바로 Time Series 컬렉션을 활용할 수 있다는 것 입니다. 쉽게 표현하면 시계열 데이터를 저장하는 기능인데 더 쉽게 표현하면 일정 시간...\nThe post MongoDB 5.0 Time Series appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/mongodb_timeseries/",
           "publishedOn": "2022-06-03T05:48:26.000Z",
-          "wordCount": 2062,
+          "wordCount": 2068,
           "title": "MongoDB 5.0 Time Series",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2019/02/cropped-Rasta-Lion-1-32x32.jpg"
         },
@@ -188,7 +188,7 @@
           "description": "MongoDB에서 Sequence 사용하기 on Node.js MongoDB는 Oracle이나 PostgreSQL의 Sequence나 MySQL의 Auto Increment 같은 기능이 없습니다.  반면 MongoDB에 익숙한 사람들은 12-byte로된 Object_ID에 더 익숙할겁니다.  MongoDB는 자동 증가 시퀀스를 기본 기능으로 지원하지 않지만 이 기능은 카운터...\nThe post MongoDB에서 Sequence 사용하기 on Node.js appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/mongodb-sequence-on-node-js/",
           "publishedOn": "2022-05-25T01:25:28.000Z",
-          "wordCount": 1656,
+          "wordCount": 1618,
           "title": "MongoDB에서 Sequence 사용하기 on Node.js",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2019/02/cropped-Rasta-Lion-1-32x32.jpg"
         },
@@ -198,7 +198,7 @@
           "description": "Database Specialist or Generalist ?! 서론 이런 글을 쓰게 된 이유는 최근 들어 많이 생각하게되고, 주변 DBA분들이나 비슷한 종사자 엔지니어들과 교류하면서 느낀점이 있기 때문입니다. DBA라는 포지션은 지금까지 대부분 스페셜리스트였습니다. Oracle이 DBA의 대세였던 시절부터, Engineer...\nThe post Database Specialist or Generalist ?! appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/database-specialist-or-generalist/",
           "publishedOn": "2022-05-23T01:00:21.000Z",
-          "wordCount": 2171,
+          "wordCount": 2173,
           "title": "Database Specialist or Generalist ?!",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2019/02/cropped-Rasta-Lion-1-32x32.jpg"
         }
@@ -210,12 +210,92 @@
       "siteUrl": "https://news.hada.io",
       "articles": [
         {
+          "id": "https://news.hada.io/topic?id=6799",
+          "author": null,
+          "description": "미래에는 모든 개발은 로컬호스트가 아닌 '클라우드'에서 진행되고 노트북은 클라이언트에 불과할 것\n2030년대의 개발자 위시리스트를 적어보면\n\n저렴한 기가빗 인터넷(5G/Mesh WiFi)\n몇일 가는 배터리를 가진 저렴한 개발머신\n앱은 규모에 상관없이 몇초만에 빌드되고, 테...",
+          "link": "https://news.hada.io/topic?id=6799",
+          "publishedOn": "2022-06-21T01:21:02.000Z",
+          "wordCount": 1324,
+          "title": "Localhost 시대의 종말",
+          "imageUrl": "https://social.news.hada.io/topic/6799"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6798",
+          "author": null,
+          "description": "2020/8/5부터 데이터 3법에 근거하여 개인정보를 가명정보, 익명정보화 해서 안전하게 거래하고 활용 가능\n가명정보와 익명정보란? : 가명은 ‘가짜 이름’, 익명은 ‘이름을 숨김’\n\n가명처리 : 주로 식별자 대체값을 생성. 랜덤값 생성, 해시값 생성, 암호화 기법 방식등을 사용\n익...",
+          "link": "https://news.hada.io/topic?id=6798",
+          "publishedOn": "2022-06-21T01:06:02.000Z",
+          "wordCount": 816,
+          "title": "가명정보와 익명정보",
+          "imageUrl": "https://social.news.hada.io/topic/6798"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6797",
+          "author": null,
+          "description": "우리가 자주하는 고민에 대한 답들\n\n잘하는 개발자란게 뭘까?\n어떤걸 공부해야 할까?\n내가 공부한 것을 어떻게 활용하지?\n내가 성장하긴 한걸까?\n일정 계산을 어떻게 하지?\n전략적 학습\n패턴 학습\n산출물에 대해",
+          "link": "https://news.hada.io/topic?id=6797",
+          "publishedOn": "2022-06-21T00:46:01.000Z",
+          "wordCount": 823,
+          "title": "개발자의 학습과 성장 (46p 발표자료)",
+          "imageUrl": "https://social.news.hada.io/topic/6797"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6796",
+          "author": null,
+          "description": "사용하지 않을 때도 빌링 최소값인 0.5 ACU로 동작하며 중단되지 않음\n'서버리스'라고 얘기하려면 사용하지 않을때 중단되어야 하지 하는데, 그렇게 동작하지 않는 것\n→ Aurora Serverless v2는 auto-scaling 이지 서버리스가 아님...",
+          "link": "https://news.hada.io/topic?id=6796",
+          "publishedOn": "2022-06-21T00:32:01.000Z",
+          "wordCount": 908,
+          "title": "AWS Aurora Serverless v2 는 Serverless가 아니다",
+          "imageUrl": "https://social.news.hada.io/topic/6796"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6795",
+          "author": null,
+          "description": "WWDC 2022 에서 발표한 기능들로 인해 힘들어 질 스타트업들\nPM의 경쟁분석 방법 : 4개의 경쟁자 유형과, 5개의 경쟁 포인트\nApple Pay Later : Afterpay, Perpay, Sezzle, Splitit, Klarna, Affirm\nTab to Pay : Toast, Square, Clover\nFreeform : Mural, Whiteboards, Mus",
+          "link": "https://news.hada.io/topic?id=6795",
+          "publishedOn": "2022-06-21T00:20:02.000Z",
+          "wordCount": 874,
+          "title": "애플은 찐 파괴왕: 30분만에 20개 스타트업을 보내다",
+          "imageUrl": "https://social.news.hada.io/topic/6795"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6794",
+          "author": null,
+          "description": "Cloud-first, 빠르고, 관리하기 쉽고, 안전한 PC와 맥을 위한 새로운 크롬OS\n2020년 인수한 Neverware의 CloudReady를 통합한 것\n빠른 부팅, 샌드박싱을 통한 바이러스/랜섬웨어/피싱 차단\nUSB/네트워크를 통한 쉬운 설치 및 Google Admin 콘솔을 이용한 통합 관리\n기존 크...",
+          "link": "https://news.hada.io/topic?id=6794",
+          "publishedOn": "2022-06-21T00:06:02.000Z",
+          "wordCount": 833,
+          "title": "Chrome OS Flex 얼리 억세스 공개",
+          "imageUrl": "https://social.news.hada.io/topic/6794"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6793",
+          "author": null,
+          "description": "들어가며…\n사건의 발단\n세 줄 짜리 아이디어\n기획\n중고판매사업을 하는 이유, 버는 돈을 정당화할 수 있는 사회적 가치\n시장조사: 국내 최근 5년 맥북 시장 규모가 1조원일지도 모른다. (가설)\n서비스 특징 잡기\n고객 페르소나 만들기\n...",
+          "link": "https://news.hada.io/topic?id=6793",
+          "publishedOn": "2022-06-20T08:06:04.000Z",
+          "wordCount": 980,
+          "title": "ApplePie Pro - 프로덕트 아이디어에서 MVP 기획 디자인 개발 런칭 성장까지",
+          "imageUrl": "https://social.news.hada.io/topic/6793"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6792",
+          "author": null,
+          "description": "55%의 스타트업은 사람 문제로 실패함\nGoogle for Startups에서 40개국, 900명의 창업자/CEO/CTO를 조사\n핵심 7가지\n1. 사람들을 Volunteer처럼 대하세요\n대학졸업자,...",
+          "link": "https://news.hada.io/topic?id=6792",
+          "publishedOn": "2022-06-20T02:24:01.000Z",
+          "wordCount": 1194,
+          "title": "가장 효과적인 창업자들을 연구해서 얻은 교훈들",
+          "imageUrl": "https://social.news.hada.io/topic/6792"
+        },
+        {
           "id": "https://news.hada.io/topic?id=6791",
           "author": null,
           "description": "주식회사의 공동창업자 = 회사 지분율을 나눠 가진 주주\n공동창업자 간 분쟁을 방지하기 위한 주주간계약서의 내용\n\n주주 간 지분비율 및 역할분담 확정\n자금관리 약정\n주주총회 구성\n이사회 의결\n회계 및 보고\n주식양도 제한 조항\n양...",
           "link": "https://news.hada.io/topic?id=6791",
           "publishedOn": "2022-06-20T01:43:01.000Z",
-          "wordCount": 845,
+          "wordCount": 860,
           "title": "공동창업시 주주간 계약서에 들어가야할 내용",
           "imageUrl": "https://social.news.hada.io/topic/6791"
         },
@@ -225,89 +305,9 @@
           "description": "'개발툴을 만들어 발표하려는데 참고할만한 자료가 필요해요' 라는 HN의 질문에 대한 답들\n스티브 잡스의 NeXT 인터페이스 빌더 데모\n\n\n빌 게이츠의 Visual Basic 1.0 데모...",
           "link": "https://news.hada.io/topic?id=6790",
           "publishedOn": "2022-06-20T01:24:01.000Z",
-          "wordCount": 815,
+          "wordCount": 848,
           "title": "최고의 개발툴 발표는 어떤 건가요?",
           "imageUrl": "https://social.news.hada.io/topic/6790"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6789",
-          "author": null,
-          "description": "애플 디자인 어워드를 수상한 \"(Not Boring) Habits\"가 자신의 체크박스를 디자인한 과정을 설명\n이 앱의 목표는 습관을 만들기 위해 뭔가를 하고 '체크박스를 누르는 행위'후에 보상 받는 것을 강조하는 것이기에 체크박스 디자인이 정말 중요\n게임 느낌을 주기 위해 인터랙션 적...",
-          "link": "https://news.hada.io/topic?id=6789",
-          "publishedOn": "2022-06-20T01:04:01.000Z",
-          "wordCount": 839,
-          "title": "세상에서 가장 만족스러운 체크박스",
-          "imageUrl": "https://social.news.hada.io/topic/6789"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6788",
-          "author": null,
-          "description": "Patreon의 수수료는 Lite 5% / Pro 8% / Premium 12%\n하지만 송금수수료는 별도고, 미국외의 창작자들은 더 많이 내야함\n환전수수료도 2.5%로 이상하게 높음\n...",
-          "link": "https://news.hada.io/topic?id=6788",
-          "publishedOn": "2022-06-20T00:46:01.000Z",
-          "wordCount": 819,
-          "title": "Patreon의 수수료는 알려진 것보다 높음",
-          "imageUrl": "https://social.news.hada.io/topic/6788"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6787",
-          "author": null,
-          "description": "구글 GNI가 디지털 뉴스 스타트업 창업 프로세스를 이해하기 쉽게 설명하고, 미디어 비즈니스 구축을 지원하기 위해 제작\n뉴스 스타트업 창업자들이 고민하는 보도 내용, 구독 대상, 배포 방법, 그리고 발전 가능성 등에 대한 질문의 해답을 찾고 뉴스 사업 운영을 본격적으로 시작할 수 있도록 돕기 ...",
-          "link": "https://news.hada.io/topic?id=6787",
-          "publishedOn": "2022-06-20T00:28:01.000Z",
-          "wordCount": 883,
-          "title": "Google News Initiative 스타트업 플레이북 (한국어)",
-          "imageUrl": "https://social.news.hada.io/topic/6787"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6786",
-          "author": null,
-          "description": "빠르고, 안전하고, 쉬운 언어\nAOT 컴파일, 정적 타입\nGenerational Reference 기반 메모리 관리로 레퍼런스 카운팅보다 2.3x 빠르고 안전\n프로그램의 메모리를 Region 단위로 분할 : Main, Read-only, Mutexed..\nRegion 격리, Fearless FFI, Higher RAII\n...",
-          "link": "https://news.hada.io/topic?id=6786",
-          "publishedOn": "2022-06-19T01:02:14.000Z",
-          "wordCount": 797,
-          "title": "Vale 프로그래밍 언어",
-          "imageUrl": "https://social.news.hada.io/topic/6786"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6785",
-          "author": null,
-          "description": "자신의 개인정보를 공개하지 않고 일할 수 있는 Job들 리스트 사이트\nAE Studio, Flashbots, LooksRare, Paradigm, DefiLlama, Yearn 등\n직접 구인공고 등록 가능\n\n...",
-          "link": "https://news.hada.io/topic?id=6785",
-          "publishedOn": "2022-06-19T00:37:30.000Z",
-          "wordCount": 880,
-          "title": "Anonfriendly - 익명으로 일할수 있는 직업 찾기",
-          "imageUrl": "https://social.news.hada.io/topic/6785"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6784",
-          "author": null,
-          "description": "SSH로 다수 서버에서 명령을 실행해주는 CLI 도구\n여러대의 서버 또는 도커 컨테이너 대상으로 동작\n서버들의 정보를 불러와서 테이블로 표시 가능\n\n...",
-          "link": "https://news.hada.io/topic?id=6784",
-          "publishedOn": "2022-06-19T00:10:28.000Z",
-          "wordCount": 824,
-          "title": "Sake - 로컬 & 리모트 서버들을 위한 명령 실행기",
-          "imageUrl": "https://social.news.hada.io/topic/6784"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6783",
-          "author": null,
-          "description": "올해의 혁신\njotai (atom 기반 상태관리 라이브러리)\nremix (next.js와 비슷한 풀스택 프레임워크)\nrefine (빠른 프로토타이핑 가능한 기본 세팅 프레임워크)\nwagmi (이더리움 연동 hooks)\npreview.js (파일단...",
-          "link": "https://news.hada.io/topic?id=6783",
-          "publishedOn": "2022-06-18T15:06:11.000Z",
-          "wordCount": 972,
-          "title": "리액트 오픈소스 어워드 2022",
-          "imageUrl": "https://social.news.hada.io/topic/6783"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6782",
-          "author": null,
-          "description": "LG, 삼성, Dell 위주로 개발자를 위한 모니터 추천\n예산, 스펙(밝기, 패널), 단자(USB-C,Thunderbolt), 스탠드 기능에 따라 추천\n위 내용과 가격, 구매처를 정리한 노션 링크도 제공",
-          "link": "https://news.hada.io/topic?id=6782",
-          "publishedOn": "2022-06-18T02:17:04.000Z",
-          "wordCount": 988,
-          "title": "개발자를 위한 모니터 추천 / 가이드",
-          "imageUrl": "https://social.news.hada.io/topic/6782"
         }
       ]
     },

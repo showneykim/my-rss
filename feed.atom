@@ -1,10 +1,130 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-20T01:47:44.935Z</id>
+    <id>urn:2022-06-21T01:49:57.278Z</id>
     <title>osmos::feed</title>
-    <updated>2022-06-20T01:47:44.935Z</updated>
+    <updated>2022-06-21T01:49:57.278Z</updated>
     <generator>osmosfeed 1.15.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Localhost 시대의 종말]]></title>
+        <id>https://news.hada.io/topic?id=6799</id>
+        <link href="https://news.hada.io/topic?id=6799"/>
+        <updated>2022-06-21T01:21:02.000Z</updated>
+        <summary type="html"><![CDATA[미래에는 모든 개발은 로컬호스트가 아닌 '클라우드'에서 진행되고 노트북은 클라이언트에 불과할 것
+2030년대의 개발자 위시리스트를 적어보면
+
+저렴한 기가빗 인터넷(5G/Mesh WiFi)
+몇일 가는 배터리를 가진 저렴한 개발머신
+앱은 규모에 상관없이 몇초만에 빌드되고, 테...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가명정보와 익명정보]]></title>
+        <id>https://news.hada.io/topic?id=6798</id>
+        <link href="https://news.hada.io/topic?id=6798"/>
+        <updated>2022-06-21T01:06:02.000Z</updated>
+        <summary type="html"><![CDATA[2020/8/5부터 데이터 3법에 근거하여 개인정보를 가명정보, 익명정보화 해서 안전하게 거래하고 활용 가능
+가명정보와 익명정보란? : 가명은 ‘가짜 이름’, 익명은 ‘이름을 숨김’
+
+가명처리 : 주로 식별자 대체값을 생성. 랜덤값 생성, 해시값 생성, 암호화 기법 방식등을 사용
+익...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[개발자의 학습과 성장 (46p 발표자료)]]></title>
+        <id>https://news.hada.io/topic?id=6797</id>
+        <link href="https://news.hada.io/topic?id=6797"/>
+        <updated>2022-06-21T00:46:01.000Z</updated>
+        <summary type="html"><![CDATA[우리가 자주하는 고민에 대한 답들
+
+잘하는 개발자란게 뭘까?
+어떤걸 공부해야 할까?
+내가 공부한 것을 어떻게 활용하지?
+내가 성장하긴 한걸까?
+일정 계산을 어떻게 하지?
+전략적 학습
+패턴 학습
+산출물에 대해]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Aurora Serverless v2 는 Serverless가 아니다]]></title>
+        <id>https://news.hada.io/topic?id=6796</id>
+        <link href="https://news.hada.io/topic?id=6796"/>
+        <updated>2022-06-21T00:32:01.000Z</updated>
+        <summary type="html"><![CDATA[사용하지 않을 때도 빌링 최소값인 0.5 ACU로 동작하며 중단되지 않음
+'서버리스'라고 얘기하려면 사용하지 않을때 중단되어야 하지 하는데, 그렇게 동작하지 않는 것
+→ Aurora Serverless v2는 auto-scaling 이지 서버리스가 아님...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애플은 찐 파괴왕: 30분만에 20개 스타트업을 보내다]]></title>
+        <id>https://news.hada.io/topic?id=6795</id>
+        <link href="https://news.hada.io/topic?id=6795"/>
+        <updated>2022-06-21T00:20:02.000Z</updated>
+        <summary type="html"><![CDATA[WWDC 2022 에서 발표한 기능들로 인해 힘들어 질 스타트업들
+PM의 경쟁분석 방법 : 4개의 경쟁자 유형과, 5개의 경쟁 포인트
+Apple Pay Later : Afterpay, Perpay, Sezzle, Splitit, Klarna, Affirm
+Tab to Pay : Toast, Square, Clover
+Freeform : Mural, Whiteboards, Mus]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chrome OS Flex 얼리 억세스 공개]]></title>
+        <id>https://news.hada.io/topic?id=6794</id>
+        <link href="https://news.hada.io/topic?id=6794"/>
+        <updated>2022-06-21T00:06:02.000Z</updated>
+        <summary type="html"><![CDATA[Cloud-first, 빠르고, 관리하기 쉽고, 안전한 PC와 맥을 위한 새로운 크롬OS
+2020년 인수한 Neverware의 CloudReady를 통합한 것
+빠른 부팅, 샌드박싱을 통한 바이러스/랜섬웨어/피싱 차단
+USB/네트워크를 통한 쉬운 설치 및 Google Admin 콘솔을 이용한 통합 관리
+기존 크...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ApplePie Pro - 프로덕트 아이디어에서 MVP 기획 디자인 개발 런칭 성장까지]]></title>
+        <id>https://news.hada.io/topic?id=6793</id>
+        <link href="https://news.hada.io/topic?id=6793"/>
+        <updated>2022-06-20T08:06:04.000Z</updated>
+        <summary type="html"><![CDATA[들어가며…
+사건의 발단
+세 줄 짜리 아이디어
+기획
+중고판매사업을 하는 이유, 버는 돈을 정당화할 수 있는 사회적 가치
+시장조사: 국내 최근 5년 맥북 시장 규모가 1조원일지도 모른다. (가설)
+서비스 특징 잡기
+고객 페르소나 만들기
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가장 효과적인 창업자들을 연구해서 얻은 교훈들]]></title>
+        <id>https://news.hada.io/topic?id=6792</id>
+        <link href="https://news.hada.io/topic?id=6792"/>
+        <updated>2022-06-20T02:24:01.000Z</updated>
+        <summary type="html"><![CDATA[55%의 스타트업은 사람 문제로 실패함
+Google for Startups에서 40개국, 900명의 창업자/CEO/CTO를 조사
+핵심 7가지
+1. 사람들을 Volunteer처럼 대하세요
+대학졸업자,...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[공동창업시 주주간 계약서에 들어가야할 내용]]></title>
         <id>https://news.hada.io/topic?id=6791</id>
@@ -34,112 +154,6 @@
 
 
 빌 게이츠의 Visual Basic 1.0 데모...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세상에서 가장 만족스러운 체크박스]]></title>
-        <id>https://news.hada.io/topic?id=6789</id>
-        <link href="https://news.hada.io/topic?id=6789"/>
-        <updated>2022-06-20T01:04:01.000Z</updated>
-        <summary type="html"><![CDATA[애플 디자인 어워드를 수상한 "(Not Boring) Habits"가 자신의 체크박스를 디자인한 과정을 설명
-이 앱의 목표는 습관을 만들기 위해 뭔가를 하고 '체크박스를 누르는 행위'후에 보상 받는 것을 강조하는 것이기에 체크박스 디자인이 정말 중요
-게임 느낌을 주기 위해 인터랙션 적...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Patreon의 수수료는 알려진 것보다 높음]]></title>
-        <id>https://news.hada.io/topic?id=6788</id>
-        <link href="https://news.hada.io/topic?id=6788"/>
-        <updated>2022-06-20T00:46:01.000Z</updated>
-        <summary type="html"><![CDATA[Patreon의 수수료는 Lite 5% / Pro 8% / Premium 12%
-하지만 송금수수료는 별도고, 미국외의 창작자들은 더 많이 내야함
-환전수수료도 2.5%로 이상하게 높음
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google News Initiative 스타트업 플레이북 (한국어)]]></title>
-        <id>https://news.hada.io/topic?id=6787</id>
-        <link href="https://news.hada.io/topic?id=6787"/>
-        <updated>2022-06-20T00:28:01.000Z</updated>
-        <summary type="html"><![CDATA[구글 GNI가 디지털 뉴스 스타트업 창업 프로세스를 이해하기 쉽게 설명하고, 미디어 비즈니스 구축을 지원하기 위해 제작
-뉴스 스타트업 창업자들이 고민하는 보도 내용, 구독 대상, 배포 방법, 그리고 발전 가능성 등에 대한 질문의 해답을 찾고 뉴스 사업 운영을 본격적으로 시작할 수 있도록 돕기 ...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vale 프로그래밍 언어]]></title>
-        <id>https://news.hada.io/topic?id=6786</id>
-        <link href="https://news.hada.io/topic?id=6786"/>
-        <updated>2022-06-19T01:02:14.000Z</updated>
-        <summary type="html"><![CDATA[빠르고, 안전하고, 쉬운 언어
-AOT 컴파일, 정적 타입
-Generational Reference 기반 메모리 관리로 레퍼런스 카운팅보다 2.3x 빠르고 안전
-프로그램의 메모리를 Region 단위로 분할 : Main, Read-only, Mutexed..
-Region 격리, Fearless FFI, Higher RAII
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anonfriendly - 익명으로 일할수 있는 직업 찾기]]></title>
-        <id>https://news.hada.io/topic?id=6785</id>
-        <link href="https://news.hada.io/topic?id=6785"/>
-        <updated>2022-06-19T00:37:30.000Z</updated>
-        <summary type="html"><![CDATA[자신의 개인정보를 공개하지 않고 일할 수 있는 Job들 리스트 사이트
-AE Studio, Flashbots, LooksRare, Paradigm, DefiLlama, Yearn 등
-직접 구인공고 등록 가능
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sake - 로컬 & 리모트 서버들을 위한 명령 실행기]]></title>
-        <id>https://news.hada.io/topic?id=6784</id>
-        <link href="https://news.hada.io/topic?id=6784"/>
-        <updated>2022-06-19T00:10:28.000Z</updated>
-        <summary type="html"><![CDATA[SSH로 다수 서버에서 명령을 실행해주는 CLI 도구
-여러대의 서버 또는 도커 컨테이너 대상으로 동작
-서버들의 정보를 불러와서 테이블로 표시 가능
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리액트 오픈소스 어워드 2022]]></title>
-        <id>https://news.hada.io/topic?id=6783</id>
-        <link href="https://news.hada.io/topic?id=6783"/>
-        <updated>2022-06-18T15:06:11.000Z</updated>
-        <summary type="html"><![CDATA[올해의 혁신
-jotai (atom 기반 상태관리 라이브러리)
-remix (next.js와 비슷한 풀스택 프레임워크)
-refine (빠른 프로토타이핑 가능한 기본 세팅 프레임워크)
-wagmi (이더리움 연동 hooks)
-preview.js (파일단...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[개발자를 위한 모니터 추천 / 가이드]]></title>
-        <id>https://news.hada.io/topic?id=6782</id>
-        <link href="https://news.hada.io/topic?id=6782"/>
-        <updated>2022-06-18T02:17:04.000Z</updated>
-        <summary type="html"><![CDATA[LG, 삼성, Dell 위주로 개발자를 위한 모니터 추천
-예산, 스펙(밝기, 패널), 단자(USB-C,Thunderbolt), 스탠드 기능에 따라 추천
-위 내용과 가격, 구매처를 정리한 노션 링크도 제공]]></summary>
         <author>
             <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
