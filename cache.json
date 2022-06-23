@@ -6,6 +6,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=366452",
+          "author": "Saleh Mubashar",
+          "description": "We’re all familiar with the standard way of linking up a stylesheet to the <head> of an HTML doc, right? That’s just one of several ways we’re able to write CSS. But what does it look like to style things …\nDifferent Ways to Write CSS in React originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/different-ways-to-write-css-in-react/",
+          "publishedOn": "2022-06-22T14:24:37.000Z",
+          "wordCount": 1715,
+          "title": "Different Ways to Write CSS in React",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366452"
+        },
+        {
           "id": "https://css-tricks.com/?p=366342",
           "author": "Temani Afif",
           "description": "We’re looking at loaders in this series. More than that, we’re breaking down some common loader patterns and how to re-create them with nothing more than a single div. So far, we’ve picked apart the classic spinning loader. Now, …\nSingle Element Loaders: The Dots originally published on CSS-Tricks. You should get the newsletter.",
@@ -13,7 +23,7 @@
           "publishedOn": "2022-06-17T14:47:55.000Z",
           "wordCount": 2406,
           "title": "Single Element Loaders: The Dots",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/07/star.png?fit=32%2C32&ssl=1"
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366342"
         },
         {
           "id": "https://css-tricks.com/?p=366252",
@@ -23,7 +33,7 @@
           "publishedOn": "2022-06-15T14:15:50.000Z",
           "wordCount": 2357,
           "title": "Conditionally Styling Selected Elements in a Grid Container",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/07/star.png?fit=32%2C32&ssl=1"
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366252"
         },
         {
           "id": "https://css-tricks.com/?p=366388",
@@ -33,7 +43,7 @@
           "publishedOn": "2022-06-14T16:48:34.000Z",
           "wordCount": 2782,
           "title": "De-Mystifying IndieWeb on a WordPress Site",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/07/star.png?fit=32%2C32&ssl=1"
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366388"
         },
         {
           "id": "https://css-tricks.com/?p=366260",
@@ -43,7 +53,7 @@
           "publishedOn": "2022-06-13T19:15:26.000Z",
           "wordCount": 2085,
           "title": "Useful Tools for Visualizing Databases on a Budget",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/07/star.png?fit=32%2C32&ssl=1"
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366260"
         },
         {
           "id": "https://css-tricks.com/?p=366266",
@@ -51,9 +61,9 @@
           "description": "Making CSS-only loaders is one of my favorite tasks. It’s always satisfying to look at those infinite animations. And, of course, there are lots of techniques and approaches to make them — no need to look further than CodePen to …\nSingle Element Loaders: The Spinner originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/single-element-loaders-the-spinner/",
           "publishedOn": "2022-06-10T14:26:06.000Z",
-          "wordCount": 2713,
+          "wordCount": 2724,
           "title": "Single Element Loaders: The Spinner",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/07/star.png?fit=32%2C32&ssl=1"
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366266"
         },
         {
           "id": "https://css-tricks.com/?p=366286",
@@ -63,7 +73,7 @@
           "publishedOn": "2022-06-09T15:32:50.000Z",
           "wordCount": 1518,
           "title": "Am I on the IndieWeb yet?",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/07/star.png?fit=32%2C32&ssl=1"
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366286"
         },
         {
           "id": "https://css-tricks.com/?p=366147",
@@ -73,7 +83,7 @@
           "publishedOn": "2022-06-08T14:30:53.000Z",
           "wordCount": 1515,
           "title": "Let’s Make a QR Code Generator With a Serverless Function!",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/07/star.png?fit=32%2C32&ssl=1"
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366147"
         },
         {
           "id": "https://css-tricks.com/?p=366222",
@@ -83,7 +93,7 @@
           "publishedOn": "2022-06-07T13:57:57.000Z",
           "wordCount": 4575,
           "title": "Building Interoperable Web Components That Even Work With React",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/07/star.png?fit=32%2C32&ssl=1"
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366222"
         },
         {
           "id": "https://css-tricks.com/?p=366202",
@@ -93,7 +103,7 @@
           "publishedOn": "2022-06-03T14:39:11.000Z",
           "wordCount": 1259,
           "title": "Please Give Me Some Space",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/07/star.png?fit=32%2C32&ssl=1"
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366202"
         },
         {
           "id": "https://css-tricks.com/?p=365841",
@@ -103,7 +113,7 @@
           "publishedOn": "2022-06-01T15:30:15.000Z",
           "wordCount": 4493,
           "title": "How to Create Block Theme Patterns in WordPress 6.0",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/07/star.png?fit=32%2C32&ssl=1"
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365841"
         },
         {
           "id": "https://css-tricks.com/?p=366175",
@@ -113,7 +123,7 @@
           "publishedOn": "2022-06-01T14:12:25.000Z",
           "wordCount": 1296,
           "title": "SPAs, Shared Element Transitions, and Re-Evaluating Technology",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/07/star.png?fit=32%2C32&ssl=1"
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366175"
         },
         {
           "id": "https://css-tricks.com/?p=366068",
@@ -123,7 +133,7 @@
           "publishedOn": "2022-05-27T14:25:39.000Z",
           "wordCount": 1818,
           "title": "Just How Long Should Alt Text Be?",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/07/star.png?fit=32%2C32&ssl=1"
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366068"
         },
         {
           "id": "https://css-tricks.com/?p=366107",
@@ -133,7 +143,7 @@
           "publishedOn": "2022-05-26T18:13:28.000Z",
           "wordCount": 866,
           "title": "Beautify GitHub Profile",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/07/star.png?fit=32%2C32&ssl=1"
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366107"
         },
         {
           "id": "https://css-tricks.com/?p=365946",
@@ -143,17 +153,7 @@
           "publishedOn": "2022-05-26T14:13:01.000Z",
           "wordCount": 3428,
           "title": "Cool CSS Hover Effects That Use Background Clipping, Masks, and 3D",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/07/star.png?fit=32%2C32&ssl=1"
-        },
-        {
-          "id": "https://css-tricks.com/?p=366077",
-          "author": "Geoff Graham",
-          "description": "Myles C. Maxfield on the WebKit Blog published a nifty how-to for color fonts. It comes on the heels of what Ollie wrote up here on CSS-Tricks the other day, and while they cover a lot of common …\nCustomizing Color Fonts on the Web originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/customizing-color-fonts-on-the-web/",
-          "publishedOn": "2022-05-26T00:15:29.000Z",
-          "wordCount": 849,
-          "title": "Customizing Color Fonts on the Web",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/07/star.png?fit=32%2C32&ssl=1"
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365946"
         }
       ]
     },
@@ -168,9 +168,9 @@
           "description": "Aurora v1 EOL을 대처 하는 우리의 자세 (feat. MySQL 5.6) End of Life! 그렇게 EOL 입니다. MySQL 5.6을 기반으로 하는 AWS의 Aurora v1 버전의 EOL 소식이  들려오고 있습니다. AWS Aurora v1 EOL 소식 2023년 2월을...\nThe post Aurora v1 EOL을 대처 하는 우리의 자세 (feat. MySQL 5.6) appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/aurora-v1-eol%ec%9d%84-%eb%8c%80%ec%b2%98-%ed%95%98%eb%8a%94-%ec%9a%b0%eb%a6%ac%ec%9d%98-%ec%9e%90%ec%84%b8-feat-mysql-5-6/",
           "publishedOn": "2022-06-11T13:19:35.000Z",
-          "wordCount": 2095,
+          "wordCount": 2096,
           "title": "Aurora v1 EOL을 대처 하는 우리의 자세 (feat. MySQL 5.6)",
-          "imageUrl": "https://rastalion.me/wp-content/uploads/2019/02/cropped-Rasta-Lion-1-32x32.jpg"
+          "imageUrl": "https://rastalion.me/wp-content/uploads/2019/04/mysql_PNG19-300x300.png"
         },
         {
           "id": "https://rastalion.me/?p=2535",
@@ -178,9 +178,9 @@
           "description": "MongoDB 5.0 Time Series MongoDB가 5.x 버전으로 릴리즈 되면서 추가된 유용한 기능 중에 하나가 바로 Time Series 컬렉션을 활용할 수 있다는 것 입니다. 쉽게 표현하면 시계열 데이터를 저장하는 기능인데 더 쉽게 표현하면 일정 시간...\nThe post MongoDB 5.0 Time Series appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/mongodb_timeseries/",
           "publishedOn": "2022-06-03T05:48:26.000Z",
-          "wordCount": 2064,
+          "wordCount": 2065,
           "title": "MongoDB 5.0 Time Series",
-          "imageUrl": "https://rastalion.me/wp-content/uploads/2019/02/cropped-Rasta-Lion-1-32x32.jpg"
+          "imageUrl": "https://rastalion.me/wp-content/uploads/2020/04/37_2019081518484308.jpg"
         },
         {
           "id": "https://rastalion.me/?p=2532",
@@ -188,9 +188,9 @@
           "description": "MongoDB에서 Sequence 사용하기 on Node.js MongoDB는 Oracle이나 PostgreSQL의 Sequence나 MySQL의 Auto Increment 같은 기능이 없습니다.  반면 MongoDB에 익숙한 사람들은 12-byte로된 Object_ID에 더 익숙할겁니다.  MongoDB는 자동 증가 시퀀스를 기본 기능으로 지원하지 않지만 이 기능은 카운터...\nThe post MongoDB에서 Sequence 사용하기 on Node.js appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/mongodb-sequence-on-node-js/",
           "publishedOn": "2022-05-25T01:25:28.000Z",
-          "wordCount": 1653,
+          "wordCount": 1652,
           "title": "MongoDB에서 Sequence 사용하기 on Node.js",
-          "imageUrl": "https://rastalion.me/wp-content/uploads/2019/02/cropped-Rasta-Lion-1-32x32.jpg"
+          "imageUrl": "https://rastalion.me/wp-content/uploads/2020/04/37_2019081518484308.jpg"
         }
       ]
     },
@@ -200,6 +200,96 @@
       "siteUrl": "https://news.hada.io",
       "articles": [
         {
+          "id": "https://news.hada.io/topic?id=6819",
+          "author": null,
+          "description": "트위터내에서 장문의 글과 이미지 등을 첨부하여 블로그 포스트 형태로 작성하고 공유할 수 있는 기능\n몇몇 작가 그룹이 Notes 기능을 테스트하고 있어서, 해당 쓰레드에서 긴 글들을 모아서 트윗중\n\n...",
+          "link": "https://news.hada.io/topic?id=6819",
+          "publishedOn": "2022-06-23T01:07:47.000Z",
+          "wordCount": 845,
+          "title": "Twitter, 블로그 형태의 Notes 기능 테스트 중",
+          "imageUrl": "https://social.news.hada.io/topic/6819"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6818",
+          "author": null,
+          "description": "Efficient Trace (E-Trace) : 디버깅 용도로 Branch Trace를 사용하는 고성능 프로세서 트레이싱\nSupervisor Binary Interface (SBI) : 애플리케이션 바이너리 인터페이스를 이용하여 하드웨어와 OS커널 간에 펌웨어 레이어를 설계\nUnified Extensible Firmware Interface (UEFI) 스펙을 RIS...",
+          "link": "https://news.hada.io/topic?id=6818",
+          "publishedOn": "2022-06-23T00:52:20.000Z",
+          "wordCount": 825,
+          "title": "RISC-V, 2022년의 첫번째 새로운 사양 발표",
+          "imageUrl": "https://social.news.hada.io/topic/6818"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6817",
+          "author": null,
+          "description": "다양한 지도 프로젝션을 바꿔가며 확인 가능",
+          "link": "https://news.hada.io/topic?id=6817",
+          "publishedOn": "2022-06-23T00:40:54.000Z",
+          "wordCount": 795,
+          "title": "Map Projection Transitions",
+          "imageUrl": "https://social.news.hada.io/topic/6817"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6816",
+          "author": null,
+          "description": "백만명 이상이 사용중인, GPT-2를 이용한 딥러닝 기반 코드 자동 완성 도구\n새로운 AI 모델은\nPython, JavaScript, TypeScript, Java 및 다른 7개 언어\nVS Code 와 JetBrains IDE 지원\n...",
+          "link": "https://news.hada.io/topic?id=6816",
+          "publishedOn": "2022-06-23T00:38:22.000Z",
+          "wordCount": 889,
+          "title": "Tabnine - 차세대 AI 모델 발표",
+          "imageUrl": "https://social.news.hada.io/topic/6816"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6815",
+          "author": null,
+          "description": "자신의 Tailscale 네트워크내 장비간에 SSH 연결을 허용하고, 더 쉽게 인증 및 권한 관리 가능\n\nSSH 키 관리 필요없음\nWireGuard를 이용하여 SSH 연결을 인증하고 암호화\nSSH가 Tailscale Identity를 사용\n고위험 연결(root)의 경우는 체크모드를 활성화 해서 ...",
+          "link": "https://news.hada.io/topic?id=6815",
+          "publishedOn": "2022-06-23T00:23:27.000Z",
+          "wordCount": 808,
+          "title": "Tailscale SSH 공개",
+          "imageUrl": "https://social.news.hada.io/topic/6815"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6814",
+          "author": null,
+          "description": "“컴퓨팅”이 뭘까요?\n“컴퓨팅”은 어디에서 이뤄질까요?\n기존 서버 : 상업용 작업 공간과 같습니다\n클라이언트 : DIY 뜨개질 키트와 같습니다\n정적 사이트 생성기(SSG) : 미리 만들어진 강아지 모자와 같습니다\n클라우드 함수 : 강아지 모자를 짜도록 훈련된 로...",
+          "link": "https://news.hada.io/topic?id=6814",
+          "publishedOn": "2022-06-23T00:11:57.000Z",
+          "wordCount": 925,
+          "title": "엣지(Edge) 컴퓨팅이 뭘까요? 강아지 모자를 뜨개질하는 것과 같습니다. (번역)",
+          "imageUrl": "https://social.news.hada.io/topic/6814"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6813",
+          "author": null,
+          "description": "Sequoia Capital이 리드하여 Nat Friedman, Netlify, Dylan Field 및 여러 VC들이 참여\n\"Deno는 Serverless 시대를 위한 JavaScript\"\n\"Deno Deploy는 격리(Isolate) 클라우드\"\n→ 클라우드 컴퓨팅 초기엔 가상 머신이 컴퓨트 추상화였음\n→ 그 이후에 Docke...",
+          "link": "https://news.hada.io/topic?id=6813",
+          "publishedOn": "2022-06-23T00:01:34.000Z",
+          "wordCount": 892,
+          "title": "Deno, 270억원($21M) 규모 시리즈A 투자 유치",
+          "imageUrl": "https://social.news.hada.io/topic/6813"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6812",
+          "author": null,
+          "description": "스택오버플로우 2022년도 전반기 설문조사",
+          "link": "https://news.hada.io/topic?id=6812",
+          "publishedOn": "2022-06-22T23:50:14.000Z",
+          "wordCount": 757,
+          "title": "스택오버플로우 2022년도 전반기 설문조사",
+          "imageUrl": "https://social.news.hada.io/topic/6812"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6811",
+          "author": null,
+          "description": "이런 간단한 코틀린 코드도 모든 분기를 테스트하는 것은 불가능에 가까울 정도로 어렵다. 코틀린이 이 코드를 바이트코드로 컴파일하면서 코드 작성자가 의도하지 않은 분기를 만들어내기 때문이다.\nwhen(answer) {\n코틀린은 코드를",
+          "link": "https://news.hada.io/topic?id=6811",
+          "publishedOn": "2022-06-22T11:33:17.000Z",
+          "wordCount": 976,
+          "title": "커버 불가능한 코드",
+          "imageUrl": "https://social.news.hada.io/topic/6811"
+        },
+        {
           "id": "https://news.hada.io/topic?id=6810",
           "author": null,
           "description": "올해 52번 발사가 목표\n머스크는 \"1주에 한번 발사\"를 목표로 한다고\n\n...",
@@ -208,96 +298,6 @@
           "wordCount": 839,
           "title": "SpaceX, 36시간동안 3대의 Falcon 9 로켓 발사 성공",
           "imageUrl": "https://social.news.hada.io/topic/6810"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6809",
-          "author": null,
-          "description": "HDTVTest가 처음 찾아낸 뒤 FlatpanelsHD가 다시 확인\n삼성 S95B QD-OLED TV 와 QN95B ‘Neo QLED’ LCD TV 가 리뷰어에게 실제보다 더 정확하게 보인다고 속이기 위해 설계됨\n\n리뷰어/캘리브레이터/인증 기관등은 보통 HDR 테스트를 위해 10% 윈도우를 이용하는데, 삼성은 이 창 크기...",
-          "link": "https://news.hada.io/topic?id=6809",
-          "publishedOn": "2022-06-22T01:34:01.000Z",
-          "wordCount": 907,
-          "title": "삼성, TV 테스트 벤치마크 부정행위 적발",
-          "imageUrl": "https://social.news.hada.io/topic/6809"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6808",
-          "author": null,
-          "description": "현대 Bluelink® 를 통한 원격 제어 가능\nlock , unlock, start, stop, find, odometer 명령 지원\nCLI를 이용하거나 Python으로 호출 가능\n\n...",
-          "link": "https://news.hada.io/topic?id=6808",
-          "publishedOn": "2022-06-22T01:08:01.000Z",
-          "wordCount": 852,
-          "title": "BlueLink - 현대자동차 제어용 Python API Wrapper (Unofficial)",
-          "imageUrl": "https://social.news.hada.io/topic/6808"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6807",
-          "author": null,
-          "description": "웹 크롤링한 데이터를 SQL로 쿼리하기 쉽게 만든 SQLite DB 기반 파일 포맷\nwget 및 WebRecorder 등에서 사용하는 표준 Web ARChive (.warc) 파일을 .warcdb 로 import 가능\nsqlite-utils 명령어를 그대로 사용\nwget --warc-file tselai \"https://tselai.com&quo...",
-          "link": "https://news.hada.io/topic?id=6807",
-          "publishedOn": "2022-06-22T00:49:01.000Z",
-          "wordCount": 847,
-          "title": "WarcDB - Web crawl data as SQLite DB",
-          "imageUrl": "https://social.news.hada.io/topic/6807"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6806",
-          "author": null,
-          "description": "Tmap 네비게이션에서 방문한 통계 데이터 기반으로 '맞춤 맛집' 찾기\n'서울 마포구 연남동' 에서 '30세' '여성'이 '친구'와 방...",
-          "link": "https://news.hada.io/topic?id=6806",
-          "publishedOn": "2022-06-22T00:33:01.000Z",
-          "wordCount": 917,
-          "title": "TMAP 미식로드 - 사람들이 많이 가는 맛집 추천",
-          "imageUrl": "https://social.news.hada.io/topic/6806"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6805",
-          "author": null,
-          "description": "오픈소스 웹 폰트 플랫폼\nZero Tracking & No-Logging 으로 GDPR 준수\nGoogle Fonts CSS v1 API와 완벽히 호환\nhttps://fonts.googleapis.com/css 를 https://fonts.bunny.net/css 로 교체하는 것만으로도 동작\n\n...",
-          "link": "https://news.hada.io/topic?id=6805",
-          "publishedOn": "2022-06-22T00:19:01.000Z",
-          "wordCount": 845,
-          "title": "Bunny Fonts - 개인정보를 보호하는 Google Fonts 대체제",
-          "imageUrl": "https://social.news.hada.io/topic/6805"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6804",
-          "author": null,
-          "description": "GitHub에서 그동안 기술 미리보기로 한정된 사용자에게 공개하던 AI 기반의 코드 자동 완성 도구인 Copilot이 미리보기를 끝내고 대중에게 공개됨.\n60일 무료 평가판이 있으며, 가격은 월 10달러, 연 100달러.\nGitHub Student Developer Pack에는 무료로 포함되어 있으며, 인기 있는 오픈소스...",
-          "link": "https://news.hada.io/topic?id=6804",
-          "publishedOn": "2022-06-22T00:07:24.000Z",
-          "wordCount": 931,
-          "title": "GitHub Copilot을 모든 개발자가 일반적으로 사용할 수 있습니다.",
-          "imageUrl": "https://social.news.hada.io/topic/6804"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6803",
-          "author": null,
-          "description": "실제 세상처럼 생생하고 사실적인 3D 디스플레이를 만들려면 매우 흥미로운 문제들을 풀어야 함\n\n8K 디스플레이, 시야각, 시선 추적, 수차조정\n이를 해결한 메타의 6가지 VR 신기술\n\n하프돔 시리즈 : 변화하는 초점\n왜곡 보정 시뮬레이터 : 시선 추적\n...",
-          "link": "https://news.hada.io/topic?id=6803",
-          "publishedOn": "2022-06-22T00:05:01.000Z",
-          "wordCount": 843,
-          "title": "마크 저커버그의 '비쥬얼 튜링 테스트 통과하기' 강연 요약",
-          "imageUrl": "https://social.news.hada.io/topic/6803"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6802",
-          "author": null,
-          "description": "얼리스테이지에 있는 스타트업들은 쿠버네티스를 섣불리 도입하지 마라.\n작은 규모의 팀(1~10명)은 Serverless container service를 사용하는 것이 좋다.\n(AWS ECS - Fargate, GCP의 Google cloud run)",
-          "link": "https://news.hada.io/topic?id=6802",
-          "publishedOn": "2022-06-21T04:59:33.000Z",
-          "wordCount": 1084,
-          "title": "아직은 쿠버네티스를 사용하지 마라",
-          "imageUrl": "https://social.news.hada.io/topic/6802"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6801",
-          "author": null,
-          "description": "7억명 이상의 월 활성 사용자 확보\n월 $4.99 구독으로 추가 기능 제공\n\n앱내 모든 제한이 2배로 상향\n4GB 파일 업로드와 더 빠른 다운로드\n음성 받아쓰기\n독점 스티커 및 메시지 리액션 제공\n대화 관리 기능 제공\n움직이는 프로필 사진",
-          "link": "https://news.hada.io/topic?id=6801",
-          "publishedOn": "2022-06-21T01:51:02.000Z",
-          "wordCount": 856,
-          "title": "텔레그램 프리미엄 구독 서비스 발표",
-          "imageUrl": "https://social.news.hada.io/topic/6801"
         }
       ]
     },
@@ -339,5 +339,5 @@
       ]
     }
   ],
-  "cliVersion": "1.15.0"
+  "cliVersion": "1.15.1"
 }
