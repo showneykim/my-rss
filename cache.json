@@ -11,7 +11,7 @@
           "description": "We’re all familiar with the standard way of linking up a stylesheet to the <head> of an HTML doc, right? That’s just one of several ways we’re able to write CSS. But what does it look like to style things …\nDifferent Ways to Write CSS in React originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/different-ways-to-write-css-in-react/",
           "publishedOn": "2022-06-22T14:24:37.000Z",
-          "wordCount": 1715,
+          "wordCount": 1728,
           "title": "Different Ways to Write CSS in React",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366452"
         },
@@ -21,7 +21,7 @@
           "description": "We’re looking at loaders in this series. More than that, we’re breaking down some common loader patterns and how to re-create them with nothing more than a single div. So far, we’ve picked apart the classic spinning loader. Now, …\nSingle Element Loaders: The Dots originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/single-element-loaders-the-dots/",
           "publishedOn": "2022-06-17T14:47:55.000Z",
-          "wordCount": 2406,
+          "wordCount": 2433,
           "title": "Single Element Loaders: The Dots",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366342"
         },
@@ -31,7 +31,7 @@
           "description": "Calendars, shopping carts, galleries, file explorers, and online libraries are some situations where selectable items are shown in grids (i.e. square lattices). You know, even those security checks that ask you to select all images with crosswalks or whatever.\n🧐…\nConditionally Styling Selected Elements in a Grid Container originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/conditionally-styling-selected-elements-in-a-grid-container/",
           "publishedOn": "2022-06-15T14:15:50.000Z",
-          "wordCount": 2357,
+          "wordCount": 2383,
           "title": "Conditionally Styling Selected Elements in a Grid Container",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366252"
         },
@@ -168,7 +168,7 @@
           "description": "Aurora v1 EOL을 대처 하는 우리의 자세 (feat. MySQL 5.6) End of Life! 그렇게 EOL 입니다. MySQL 5.6을 기반으로 하는 AWS의 Aurora v1 버전의 EOL 소식이  들려오고 있습니다. AWS Aurora v1 EOL 소식 2023년 2월을...\nThe post Aurora v1 EOL을 대처 하는 우리의 자세 (feat. MySQL 5.6) appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/aurora-v1-eol%ec%9d%84-%eb%8c%80%ec%b2%98-%ed%95%98%eb%8a%94-%ec%9a%b0%eb%a6%ac%ec%9d%98-%ec%9e%90%ec%84%b8-feat-mysql-5-6/",
           "publishedOn": "2022-06-11T13:19:35.000Z",
-          "wordCount": 2096,
+          "wordCount": 2100,
           "title": "Aurora v1 EOL을 대처 하는 우리의 자세 (feat. MySQL 5.6)",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2019/04/mysql_PNG19-300x300.png"
         },
@@ -178,18 +178,8 @@
           "description": "MongoDB 5.0 Time Series MongoDB가 5.x 버전으로 릴리즈 되면서 추가된 유용한 기능 중에 하나가 바로 Time Series 컬렉션을 활용할 수 있다는 것 입니다. 쉽게 표현하면 시계열 데이터를 저장하는 기능인데 더 쉽게 표현하면 일정 시간...\nThe post MongoDB 5.0 Time Series appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/mongodb_timeseries/",
           "publishedOn": "2022-06-03T05:48:26.000Z",
-          "wordCount": 2065,
+          "wordCount": 2057,
           "title": "MongoDB 5.0 Time Series",
-          "imageUrl": "https://rastalion.me/wp-content/uploads/2020/04/37_2019081518484308.jpg"
-        },
-        {
-          "id": "https://rastalion.me/?p=2532",
-          "author": "Rasta Lion",
-          "description": "MongoDB에서 Sequence 사용하기 on Node.js MongoDB는 Oracle이나 PostgreSQL의 Sequence나 MySQL의 Auto Increment 같은 기능이 없습니다.  반면 MongoDB에 익숙한 사람들은 12-byte로된 Object_ID에 더 익숙할겁니다.  MongoDB는 자동 증가 시퀀스를 기본 기능으로 지원하지 않지만 이 기능은 카운터...\nThe post MongoDB에서 Sequence 사용하기 on Node.js appeared first on RastaLion's IT Blog.",
-          "link": "https://rastalion.me/mongodb-sequence-on-node-js/",
-          "publishedOn": "2022-05-25T01:25:28.000Z",
-          "wordCount": 1652,
-          "title": "MongoDB에서 Sequence 사용하기 on Node.js",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2020/04/37_2019081518484308.jpg"
         }
       ]
@@ -200,104 +190,104 @@
       "siteUrl": "https://news.hada.io",
       "articles": [
         {
-          "id": "https://news.hada.io/topic?id=6819",
+          "id": "https://news.hada.io/topic?id=6832",
           "author": null,
-          "description": "트위터내에서 장문의 글과 이미지 등을 첨부하여 블로그 포스트 형태로 작성하고 공유할 수 있는 기능\n몇몇 작가 그룹이 Notes 기능을 테스트하고 있어서, 해당 쓰레드에서 긴 글들을 모아서 트윗중\n\n...",
-          "link": "https://news.hada.io/topic?id=6819",
-          "publishedOn": "2022-06-23T01:07:47.000Z",
-          "wordCount": 845,
-          "title": "Twitter, 블로그 형태의 Notes 기능 테스트 중",
-          "imageUrl": "https://social.news.hada.io/topic/6819"
+          "description": "Go + PostgreSQL로 서버가 구성되어있으며, Hacker News, Lobsters와 Pinboard에 영향을 받은 자바스크립트를 적게 사용한 간단한 디자인.\nFull-Text Search, 북마크 등의 기능 탑재\nTelegram, Pinboard, Instapaper, Pocket, Wallabag, Linkding, Espial, Nunux Keeper와의 통합을 지원.",
+          "link": "https://news.hada.io/topic?id=6832",
+          "publishedOn": "2022-06-24T01:38:10.000Z",
+          "wordCount": 815,
+          "title": "Miniflux - 경량 오픈소스 RSS 리더",
+          "imageUrl": "https://social.news.hada.io/topic/6832"
         },
         {
-          "id": "https://news.hada.io/topic?id=6818",
+          "id": "https://news.hada.io/topic?id=6831",
           "author": null,
-          "description": "Efficient Trace (E-Trace) : 디버깅 용도로 Branch Trace를 사용하는 고성능 프로세서 트레이싱\nSupervisor Binary Interface (SBI) : 애플리케이션 바이너리 인터페이스를 이용하여 하드웨어와 OS커널 간에 펌웨어 레이어를 설계\nUnified Extensible Firmware Interface (UEFI) 스펙을 RIS...",
-          "link": "https://news.hada.io/topic?id=6818",
-          "publishedOn": "2022-06-23T00:52:20.000Z",
+          "description": ".DMG에서 사용하는 APFS(Apple File System) 추출 가능\nPOSIX(pax) tar 파일 생성 가능\n고정밀도 타임스탬프(1ns) 저장 가능\nLinux Tar에서 owner/group id 저장 가능 옵션 추가\n\"Add to archive\" 창에서 \"어떤 메타데이터를 저장할지 선택 가능\"한 옵...",
+          "link": "https://news.hada.io/topic?id=6831",
+          "publishedOn": "2022-06-24T01:33:46.000Z",
           "wordCount": 825,
-          "title": "RISC-V, 2022년의 첫번째 새로운 사양 발표",
-          "imageUrl": "https://social.news.hada.io/topic/6818"
+          "title": "7-Zip 22.00 릴리즈",
+          "imageUrl": "https://social.news.hada.io/topic/6831"
         },
         {
-          "id": "https://news.hada.io/topic?id=6817",
+          "id": "https://news.hada.io/topic?id=6830",
           "author": null,
-          "description": "다양한 지도 프로젝션을 바꿔가며 확인 가능",
-          "link": "https://news.hada.io/topic?id=6817",
-          "publishedOn": "2022-06-23T00:40:54.000Z",
-          "wordCount": 795,
-          "title": "Map Projection Transitions",
-          "imageUrl": "https://social.news.hada.io/topic/6817"
+          "description": "리눅스 재단의 오픈소스 서밋 키노트에서 Rust 인프라스트럭쳐 머지가 빠른 시일내에 가능할 수도 있다고 밝혀\nRust for Linux PR이 아직 보내지거나 머지된 건 없지만, 커널 내 기본 인프라 및 샘플 드라이버 코드들이 안...",
+          "link": "https://news.hada.io/topic?id=6830",
+          "publishedOn": "2022-06-24T01:20:48.000Z",
+          "wordCount": 845,
+          "title": "Linus Torvalds, \"리눅스 커널 내에 Rust가 곧 머지될 수도 있다\"",
+          "imageUrl": "https://social.news.hada.io/topic/6830"
         },
         {
-          "id": "https://news.hada.io/topic?id=6816",
+          "id": "https://news.hada.io/topic?id=6829",
           "author": null,
-          "description": "백만명 이상이 사용중인, GPT-2를 이용한 딥러닝 기반 코드 자동 완성 도구\n새로운 AI 모델은\nPython, JavaScript, TypeScript, Java 및 다른 7개 언어\nVS Code 와 JetBrains IDE 지원\n...",
-          "link": "https://news.hada.io/topic?id=6816",
-          "publishedOn": "2022-06-23T00:38:22.000Z",
-          "wordCount": 889,
-          "title": "Tabnine - 차세대 AI 모델 발표",
-          "imageUrl": "https://social.news.hada.io/topic/6816"
+          "description": "Yandex가 공개해서 개발자/연구자 누구나 무료로 사용 가능\n영어와 러시아어 1.7TB 텍스트를 800대의 A100 GPU로 65일간 훈련\n마이크로소프트의 Megatron-LM 코드 기반\n\n...",
+          "link": "https://news.hada.io/topic?id=6829",
+          "publishedOn": "2022-06-24T01:10:11.000Z",
+          "wordCount": 803,
+          "title": "YaLM 100B - 1000억개 파라미터의 GPT-like 언어 모델",
+          "imageUrl": "https://social.news.hada.io/topic/6829"
         },
         {
-          "id": "https://news.hada.io/topic?id=6815",
+          "id": "https://news.hada.io/topic?id=6828",
           "author": null,
-          "description": "자신의 Tailscale 네트워크내 장비간에 SSH 연결을 허용하고, 더 쉽게 인증 및 권한 관리 가능\n\nSSH 키 관리 필요없음\nWireGuard를 이용하여 SSH 연결을 인증하고 암호화\nSSH가 Tailscale Identity를 사용\n고위험 연결(root)의 경우는 체크모드를 활성화 해서 ...",
-          "link": "https://news.hada.io/topic?id=6815",
-          "publishedOn": "2022-06-23T00:23:27.000Z",
-          "wordCount": 808,
-          "title": "Tailscale SSH 공개",
-          "imageUrl": "https://social.news.hada.io/topic/6815"
+          "description": "각종 포맷 변환도구를 비롯한 수십가지 기능 제공\n무료. 별도의 제한 없음. 업로드된 파일은 15분 후 자동 삭제\n\n...",
+          "link": "https://news.hada.io/topic?id=6828",
+          "publishedOn": "2022-06-24T00:59:00.000Z",
+          "wordCount": 814,
+          "title": "TinyWow - 무료 파일 처리 도구 모음",
+          "imageUrl": "https://social.news.hada.io/topic/6828"
         },
         {
-          "id": "https://news.hada.io/topic?id=6814",
+          "id": "https://news.hada.io/topic?id=6827",
           "author": null,
-          "description": "“컴퓨팅”이 뭘까요?\n“컴퓨팅”은 어디에서 이뤄질까요?\n기존 서버 : 상업용 작업 공간과 같습니다\n클라이언트 : DIY 뜨개질 키트와 같습니다\n정적 사이트 생성기(SSG) : 미리 만들어진 강아지 모자와 같습니다\n클라우드 함수 : 강아지 모자를 짜도록 훈련된 로...",
-          "link": "https://news.hada.io/topic?id=6814",
-          "publishedOn": "2022-06-23T00:11:57.000Z",
-          "wordCount": 925,
-          "title": "엣지(Edge) 컴퓨팅이 뭘까요? 강아지 모자를 뜨개질하는 것과 같습니다. (번역)",
-          "imageUrl": "https://social.news.hada.io/topic/6814"
+          "description": "이번 주말에 뭘 하려고 계획 중인지 편하게 얘기해 보아요.\n읽을 책, 가볼 곳, 해볼 것.. 어떤 것이든 좋습니다.\n지난 주말에 계획하셨던 일의 회고도 한번 남겨봐 주세요.",
+          "link": "https://news.hada.io/topic?id=6827",
+          "publishedOn": "2022-06-24T00:50:33.000Z",
+          "wordCount": 848,
+          "title": "Ask GN: 이번 주말에 뭐 하시나요?",
+          "imageUrl": "https://social.news.hada.io/topic/6827"
         },
         {
-          "id": "https://news.hada.io/topic?id=6813",
+          "id": "https://news.hada.io/topic?id=6826",
           "author": null,
-          "description": "Sequoia Capital이 리드하여 Nat Friedman, Netlify, Dylan Field 및 여러 VC들이 참여\n\"Deno는 Serverless 시대를 위한 JavaScript\"\n\"Deno Deploy는 격리(Isolate) 클라우드\"\n→ 클라우드 컴퓨팅 초기엔 가상 머신이 컴퓨트 추상화였음\n→ 그 이후에 Docke...",
-          "link": "https://news.hada.io/topic?id=6813",
-          "publishedOn": "2022-06-23T00:01:34.000Z",
-          "wordCount": 892,
-          "title": "Deno, 270억원($21M) 규모 시리즈A 투자 유치",
-          "imageUrl": "https://social.news.hada.io/topic/6813"
+          "description": "오디오 대화로 시작해서, 클릭 한번으로 영상 통화 가능\n여러 사용자 간 화면 공유, 그리기 및 라이브 커서 기능 제공\n허들에서 공유되는 모든 것(링크, 메모, 채팅)이 메시지 쓰레드에 자동으로 저장\n이모티콘, 리액티콘 등의 효과 가능\n\n...",
+          "link": "https://news.hada.io/topic?id=6826",
+          "publishedOn": "2022-06-24T00:44:57.000Z",
+          "wordCount": 828,
+          "title": "Slack, 오디오 협업기능인 Huddles를 비디오까지 확장",
+          "imageUrl": "https://social.news.hada.io/topic/6826"
         },
         {
-          "id": "https://news.hada.io/topic?id=6812",
+          "id": "https://news.hada.io/topic?id=6825",
           "author": null,
-          "description": "스택오버플로우 2022년도 전반기 설문조사",
-          "link": "https://news.hada.io/topic?id=6812",
-          "publishedOn": "2022-06-22T23:50:14.000Z",
-          "wordCount": 757,
-          "title": "스택오버플로우 2022년도 전반기 설문조사",
-          "imageUrl": "https://social.news.hada.io/topic/6812"
+          "description": "NFT 마켓플레이스 분류\nNFT 시장은 크게 4가지 분류로 볼 수 있음\n초기 시장: 양과 질의 선택에 따른 시장 방향성\n\n\nOpenSea: 모두가 거래 가능\nFoundation: 초대장 기반 크리에이터 필터링\nNifty Gateway,...",
+          "link": "https://news.hada.io/topic?id=6825",
+          "publishedOn": "2022-06-24T00:39:19.000Z",
+          "wordCount": 1047,
+          "title": "NFT 마켓플레이스 유형에 대해 알아봅시다.",
+          "imageUrl": "https://social.news.hada.io/topic/6825"
         },
         {
-          "id": "https://news.hada.io/topic?id=6811",
+          "id": "https://news.hada.io/topic?id=6824",
           "author": null,
-          "description": "이런 간단한 코틀린 코드도 모든 분기를 테스트하는 것은 불가능에 가까울 정도로 어렵다. 코틀린이 이 코드를 바이트코드로 컴파일하면서 코드 작성자가 의도하지 않은 분기를 만들어내기 때문이다.\nwhen(answer) {\n코틀린은 코드를",
-          "link": "https://news.hada.io/topic?id=6811",
-          "publishedOn": "2022-06-22T11:33:17.000Z",
-          "wordCount": 976,
-          "title": "커버 불가능한 코드",
-          "imageUrl": "https://social.news.hada.io/topic/6811"
+          "description": "기존 watch의 기본 기능 그대로 동작\n\n커맨드를 주기적으로 실행하고, 결과 표시\n컬러 출력, 변경부분 강조\n타임머신 모드 : 비디오 처럼 다시감기 가능. 과거 또는 미래로 이동하기\nPager에서 출력 보기\nVim 키맵\n검색 기능 지원\n...",
+          "link": "https://news.hada.io/topic?id=6824",
+          "publishedOn": "2022-06-24T00:02:15.000Z",
+          "wordCount": 840,
+          "title": "Viddy - Go로 재작성한 모던 Watch 커맨드",
+          "imageUrl": "https://social.news.hada.io/topic/6824"
         },
         {
-          "id": "https://news.hada.io/topic?id=6810",
+          "id": "https://news.hada.io/topic?id=6823",
           "author": null,
-          "description": "올해 52번 발사가 목표\n머스크는 \"1주에 한번 발사\"를 목표로 한다고\n\n...",
-          "link": "https://news.hada.io/topic?id=6810",
-          "publishedOn": "2022-06-22T01:45:30.000Z",
-          "wordCount": 839,
-          "title": "SpaceX, 36시간동안 3대의 Falcon 9 로켓 발사 성공",
-          "imageUrl": "https://social.news.hada.io/topic/6810"
+          "description": "V 프로그래밍 언어 리뷰\nV언어가 나온 몇년이 지난 2022년에 V언어가 홍보했던 기능들을 직접 테스트하며 리뷰하는 글입니다.\n피쳐들의 평가를 미작동, 경고, 작동으로 나눠서 평가했으며. 아래는 그 평가 리스트의 평가 결과입니다. 평가를 위한 예제 코드와 평가에 대한 근거는 모두...",
+          "link": "https://news.hada.io/topic?id=6823",
+          "publishedOn": "2022-06-23T14:12:31.000Z",
+          "wordCount": 1249,
+          "title": "V언어 프로그래밍 리뷰(2022)",
+          "imageUrl": "https://social.news.hada.io/topic/6823"
         }
       ]
     },
