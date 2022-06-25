@@ -6,12 +6,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=366526",
+          "author": "Temani Afif",
+          "description": "We’ve looked at spinners. We’ve looked at dots. Now we’re going to tackle another common pattern for loaders: bars. And we’re going to do the same thing in this third article of the series as we have the others …\nSingle Element Loaders: The Bars originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/single-element-loaders-the-bars/",
+          "publishedOn": "2022-06-24T20:00:29.000Z",
+          "wordCount": 2292,
+          "title": "Single Element Loaders: The Bars",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366526"
+        },
+        {
           "id": "https://css-tricks.com/?p=366452",
           "author": "Saleh Mubashar",
           "description": "We’re all familiar with the standard way of linking up a stylesheet to the <head> of an HTML doc, right? That’s just one of several ways we’re able to write CSS. But what does it look like to style things …\nDifferent Ways to Write CSS in React originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/different-ways-to-write-css-in-react/",
           "publishedOn": "2022-06-22T14:24:37.000Z",
-          "wordCount": 1728,
+          "wordCount": 1896,
           "title": "Different Ways to Write CSS in React",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366452"
         },
@@ -21,7 +31,7 @@
           "description": "We’re looking at loaders in this series. More than that, we’re breaking down some common loader patterns and how to re-create them with nothing more than a single div. So far, we’ve picked apart the classic spinning loader. Now, …\nSingle Element Loaders: The Dots originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/single-element-loaders-the-dots/",
           "publishedOn": "2022-06-17T14:47:55.000Z",
-          "wordCount": 2433,
+          "wordCount": 2430,
           "title": "Single Element Loaders: The Dots",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366342"
         },
@@ -61,7 +71,7 @@
           "description": "Making CSS-only loaders is one of my favorite tasks. It’s always satisfying to look at those infinite animations. And, of course, there are lots of techniques and approaches to make them — no need to look further than CodePen to …\nSingle Element Loaders: The Spinner originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/single-element-loaders-the-spinner/",
           "publishedOn": "2022-06-10T14:26:06.000Z",
-          "wordCount": 2724,
+          "wordCount": 2718,
           "title": "Single Element Loaders: The Spinner",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366266"
         },
@@ -101,7 +111,7 @@
           "description": "There’s all kinds of ways to do that. Some more advisable and better-suited for certain situations than others, of course.\nWe could do it directly in HTML:\n<pWe go from one line...<br<brdown a couple more.</p\nBut that’s …\nPlease Give Me Some Space originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/please-give-me-some-space/",
           "publishedOn": "2022-06-03T14:39:11.000Z",
-          "wordCount": 1259,
+          "wordCount": 1339,
           "title": "Please Give Me Some Space",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366202"
         },
@@ -144,16 +154,6 @@
           "wordCount": 866,
           "title": "Beautify GitHub Profile",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366107"
-        },
-        {
-          "id": "https://css-tricks.com/?p=365946",
-          "author": "Temani Afif",
-          "description": "We’ve walked through a series of posts now about interesting approaches to CSS hover effects. We started with a bunch of examples that use CSS background properties, then moved on to the text-shadow property where we technically didn’t use …\nCool CSS Hover Effects That Use Background Clipping, Masks, and 3D originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/css-hover-effects-background-masks-3d/",
-          "publishedOn": "2022-05-26T14:13:01.000Z",
-          "wordCount": 3428,
-          "title": "Cool CSS Hover Effects That Use Background Clipping, Masks, and 3D",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365946"
         }
       ]
     },
@@ -168,7 +168,7 @@
           "description": "Aurora v1 EOL을 대처 하는 우리의 자세 (feat. MySQL 5.6) End of Life! 그렇게 EOL 입니다. MySQL 5.6을 기반으로 하는 AWS의 Aurora v1 버전의 EOL 소식이  들려오고 있습니다. AWS Aurora v1 EOL 소식 2023년 2월을...\nThe post Aurora v1 EOL을 대처 하는 우리의 자세 (feat. MySQL 5.6) appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/aurora-v1-eol%ec%9d%84-%eb%8c%80%ec%b2%98-%ed%95%98%eb%8a%94-%ec%9a%b0%eb%a6%ac%ec%9d%98-%ec%9e%90%ec%84%b8-feat-mysql-5-6/",
           "publishedOn": "2022-06-11T13:19:35.000Z",
-          "wordCount": 2100,
+          "wordCount": 2094,
           "title": "Aurora v1 EOL을 대처 하는 우리의 자세 (feat. MySQL 5.6)",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2019/04/mysql_PNG19-300x300.png"
         },
@@ -178,7 +178,7 @@
           "description": "MongoDB 5.0 Time Series MongoDB가 5.x 버전으로 릴리즈 되면서 추가된 유용한 기능 중에 하나가 바로 Time Series 컬렉션을 활용할 수 있다는 것 입니다. 쉽게 표현하면 시계열 데이터를 저장하는 기능인데 더 쉽게 표현하면 일정 시간...\nThe post MongoDB 5.0 Time Series appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/mongodb_timeseries/",
           "publishedOn": "2022-06-03T05:48:26.000Z",
-          "wordCount": 2057,
+          "wordCount": 2063,
           "title": "MongoDB 5.0 Time Series",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2020/04/37_2019081518484308.jpg"
         }
@@ -190,12 +190,72 @@
       "siteUrl": "https://news.hada.io",
       "articles": [
         {
+          "id": "https://news.hada.io/topic?id=6838",
+          "author": null,
+          "description": "Termux 설치\nSSH 구성하기(Dropbear)\nDHCP 끄고 Static IP지정\nRuby, Bundler, Sinatra, Puma 설치\nnginx 설치\n포트 포워딩\nDDNS 설정\nHello World\nSiege로 로드테스팅 하기\n\n...",
+          "link": "https://news.hada.io/topic?id=6838",
+          "publishedOn": "2022-06-25T00:49:01.000Z",
+          "wordCount": 800,
+          "title": "구형 안드로이드 폰을 Ruby 웹서버 로 사용하기",
+          "imageUrl": "https://social.news.hada.io/topic/6838"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6837",
+          "author": null,
+          "description": "여러 클라우드에 걸친 쿠버네티스 비용 및 자원을 트래킹 해서 표시\nK8s Namespace, Label, Statefulset, Daemonset, Pod, Container 별 실시간 비용 조회\nAWS, Azure, GCP Billing API를 이용해 동적 가격 책정 적용\nOn-Prem K8s 클러스터도 지원(자체 가격표 설정)\nCPU/...",
+          "link": "https://news.hada.io/topic?id=6837",
+          "publishedOn": "2022-06-25T00:25:02.000Z",
+          "wordCount": 825,
+          "title": "OpenCost - 쿠버네티스 비용 모니터링 도구",
+          "imageUrl": "https://social.news.hada.io/topic/6837"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6836",
+          "author": null,
+          "description": "헤더, 이벤트, 그룹, 섹션 으로 구성\n기간은 마우스로 조정 가능\nTimeline / Map / Doc 보기 지원\nURL 공유 가능\nPDF / PNG 내보내기\nVue & TypeScript 오픈소스\n\n...",
+          "link": "https://news.hada.io/topic?id=6836",
+          "publishedOn": "2022-06-25T00:08:01.000Z",
+          "wordCount": 807,
+          "title": "MarkWhen - 마크다운으로 계단식 타임라인 만들기",
+          "imageUrl": "https://social.news.hada.io/topic/6836"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6835",
+          "author": null,
+          "description": "안녕하세요, IT프로덕트 메이커들을 위한 소셜네트워킹 사이트 디스콰이엇을 만들고 있는 박현솔입니다. 최근 사이드프로젝트에 대한 관심이 많으신데요, 저희가 팀빌딩을 돕기 위해 메이커스퀘어라는 기능을 만들었습니다.\n기능\n•팀원 찾기: 자신의 프로젝트를 소개하고 메이커로부터 연락을 받을 수",
+          "link": "https://news.hada.io/topic?id=6835",
+          "publishedOn": "2022-06-24T10:35:03.000Z",
+          "wordCount": 820,
+          "title": "Show GN: 사이드프로젝트/창업 팀빌딩 플랫폼",
+          "imageUrl": "https://social.news.hada.io/topic/6835"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6834",
+          "author": null,
+          "description": "Jira에 대한 불만족 의견만 모아놓은 사이트\n느려요. 엄청 느려요\n마이크로매니지를 장려해요\n너무 복잡해요",
+          "link": "https://news.hada.io/topic?id=6834",
+          "publishedOn": "2022-06-24T02:24:40.000Z",
+          "wordCount": 1251,
+          "title": "난 Jira가 정말 싫어요",
+          "imageUrl": "https://social.news.hada.io/topic/6834"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6833",
+          "author": null,
+          "description": "암은 종양세포가 혈관을 타고 새로운 곳으로 이동해서 새로 자리잡을 때 가장 치명적 → 전이,metastatis\n한 연구에 따르면 유방암환자의 순환종양세포(CTC)가 낮보다 밤에 혈액속으로 뛰어들 가능성이 더 높다는 발견을 함\n이를 통해서 암의 진행을 추적하는 더 나은 방법으로 연결될 수 있...",
+          "link": "https://news.hada.io/topic?id=6833",
+          "publishedOn": "2022-06-24T01:59:52.000Z",
+          "wordCount": 1110,
+          "title": "사람들이 잠잘 때 암세포가 깨어난다",
+          "imageUrl": "https://social.news.hada.io/topic/6833"
+        },
+        {
           "id": "https://news.hada.io/topic?id=6832",
           "author": null,
           "description": "Go + PostgreSQL로 서버가 구성되어있으며, Hacker News, Lobsters와 Pinboard에 영향을 받은 자바스크립트를 적게 사용한 간단한 디자인.\nFull-Text Search, 북마크 등의 기능 탑재\nTelegram, Pinboard, Instapaper, Pocket, Wallabag, Linkding, Espial, Nunux Keeper와의 통합을 지원.",
           "link": "https://news.hada.io/topic?id=6832",
           "publishedOn": "2022-06-24T01:38:10.000Z",
-          "wordCount": 815,
+          "wordCount": 885,
           "title": "Miniflux - 경량 오픈소스 RSS 리더",
           "imageUrl": "https://social.news.hada.io/topic/6832"
         },
@@ -215,7 +275,7 @@
           "description": "리눅스 재단의 오픈소스 서밋 키노트에서 Rust 인프라스트럭쳐 머지가 빠른 시일내에 가능할 수도 있다고 밝혀\nRust for Linux PR이 아직 보내지거나 머지된 건 없지만, 커널 내 기본 인프라 및 샘플 드라이버 코드들이 안...",
           "link": "https://news.hada.io/topic?id=6830",
           "publishedOn": "2022-06-24T01:20:48.000Z",
-          "wordCount": 845,
+          "wordCount": 854,
           "title": "Linus Torvalds, \"리눅스 커널 내에 Rust가 곧 머지될 수도 있다\"",
           "imageUrl": "https://social.news.hada.io/topic/6830"
         },
@@ -228,66 +288,6 @@
           "wordCount": 803,
           "title": "YaLM 100B - 1000억개 파라미터의 GPT-like 언어 모델",
           "imageUrl": "https://social.news.hada.io/topic/6829"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6828",
-          "author": null,
-          "description": "각종 포맷 변환도구를 비롯한 수십가지 기능 제공\n무료. 별도의 제한 없음. 업로드된 파일은 15분 후 자동 삭제\n\n...",
-          "link": "https://news.hada.io/topic?id=6828",
-          "publishedOn": "2022-06-24T00:59:00.000Z",
-          "wordCount": 814,
-          "title": "TinyWow - 무료 파일 처리 도구 모음",
-          "imageUrl": "https://social.news.hada.io/topic/6828"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6827",
-          "author": null,
-          "description": "이번 주말에 뭘 하려고 계획 중인지 편하게 얘기해 보아요.\n읽을 책, 가볼 곳, 해볼 것.. 어떤 것이든 좋습니다.\n지난 주말에 계획하셨던 일의 회고도 한번 남겨봐 주세요.",
-          "link": "https://news.hada.io/topic?id=6827",
-          "publishedOn": "2022-06-24T00:50:33.000Z",
-          "wordCount": 848,
-          "title": "Ask GN: 이번 주말에 뭐 하시나요?",
-          "imageUrl": "https://social.news.hada.io/topic/6827"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6826",
-          "author": null,
-          "description": "오디오 대화로 시작해서, 클릭 한번으로 영상 통화 가능\n여러 사용자 간 화면 공유, 그리기 및 라이브 커서 기능 제공\n허들에서 공유되는 모든 것(링크, 메모, 채팅)이 메시지 쓰레드에 자동으로 저장\n이모티콘, 리액티콘 등의 효과 가능\n\n...",
-          "link": "https://news.hada.io/topic?id=6826",
-          "publishedOn": "2022-06-24T00:44:57.000Z",
-          "wordCount": 828,
-          "title": "Slack, 오디오 협업기능인 Huddles를 비디오까지 확장",
-          "imageUrl": "https://social.news.hada.io/topic/6826"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6825",
-          "author": null,
-          "description": "NFT 마켓플레이스 분류\nNFT 시장은 크게 4가지 분류로 볼 수 있음\n초기 시장: 양과 질의 선택에 따른 시장 방향성\n\n\nOpenSea: 모두가 거래 가능\nFoundation: 초대장 기반 크리에이터 필터링\nNifty Gateway,...",
-          "link": "https://news.hada.io/topic?id=6825",
-          "publishedOn": "2022-06-24T00:39:19.000Z",
-          "wordCount": 1047,
-          "title": "NFT 마켓플레이스 유형에 대해 알아봅시다.",
-          "imageUrl": "https://social.news.hada.io/topic/6825"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6824",
-          "author": null,
-          "description": "기존 watch의 기본 기능 그대로 동작\n\n커맨드를 주기적으로 실행하고, 결과 표시\n컬러 출력, 변경부분 강조\n타임머신 모드 : 비디오 처럼 다시감기 가능. 과거 또는 미래로 이동하기\nPager에서 출력 보기\nVim 키맵\n검색 기능 지원\n...",
-          "link": "https://news.hada.io/topic?id=6824",
-          "publishedOn": "2022-06-24T00:02:15.000Z",
-          "wordCount": 840,
-          "title": "Viddy - Go로 재작성한 모던 Watch 커맨드",
-          "imageUrl": "https://social.news.hada.io/topic/6824"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6823",
-          "author": null,
-          "description": "V 프로그래밍 언어 리뷰\nV언어가 나온 몇년이 지난 2022년에 V언어가 홍보했던 기능들을 직접 테스트하며 리뷰하는 글입니다.\n피쳐들의 평가를 미작동, 경고, 작동으로 나눠서 평가했으며. 아래는 그 평가 리스트의 평가 결과입니다. 평가를 위한 예제 코드와 평가에 대한 근거는 모두...",
-          "link": "https://news.hada.io/topic?id=6823",
-          "publishedOn": "2022-06-23T14:12:31.000Z",
-          "wordCount": 1249,
-          "title": "V언어 프로그래밍 리뷰(2022)",
-          "imageUrl": "https://social.news.hada.io/topic/6823"
         }
       ]
     },
