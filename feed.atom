@@ -1,10 +1,93 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-25T01:54:07.353Z</id>
+    <id>urn:2022-06-26T01:58:26.757Z</id>
     <title>osmos::feed</title>
-    <updated>2022-06-25T01:54:07.353Z</updated>
+    <updated>2022-06-26T01:58:26.757Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[moon - JavaScript를 위한 새로운 빌드 도구]]></title>
+        <id>https://news.hada.io/topic?id=6844</id>
+        <link href="https://news.hada.io/topic?id=6844"/>
+        <updated>2022-06-26T00:49:01.000Z</updated>
+        <summary type="html"><![CDATA[Rust로 작성
+스마트 해슁, 자동 다운로드, 멀티 플랫폼, 리모트 캐슁(예정)
+종속성 관리를 위한 프로젝트 그래프, Dependency Workspace, 오너십 메타데이터
+여러대로 분산 빌드 지원
+모니터링 가능(웹훅)
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dropbox Shop 공개]]></title>
+        <id>https://news.hada.io/topic?id=6843</id>
+        <link href="https://news.hada.io/topic?id=6843"/>
+        <updated>2022-06-26T00:23:01.000Z</updated>
+        <summary type="html"><![CDATA[미술작품, 플러그인, 음악등의 디지털 콘텐츠를 간편하게 판매 가능
+클릭 3번으로 제품을 만들고 결제 및 배송(다운로드)까지
+맞춤형 화면 제작 가능
+항목당 최대 50GB 이미...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon CodeWhisper 공개 - AI 프로그래밍 도우미]]></title>
+        <id>https://news.hada.io/topic?id=6842</id>
+        <link href="https://news.hada.io/topic?id=6842"/>
+        <updated>2022-06-26T00:04:01.000Z</updated>
+        <summary type="html"><![CDATA[ML을 이용해서 오픈 소스 및 기존 작성한 코드와 코멘트(자연어)에 기반하여 자동 코드 추천
+함수 전체 및 코드 블록단위 까지 생성 가능
+여러 개의 추천코드 중에 선택 가능
+AWS API를 제대로 지원 → 'Upload a file to an S...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Verge의 Starlink RV 리뷰]]></title>
+        <id>https://news.hada.io/topic?id=6841</id>
+        <link href="https://news.hada.io/topic?id=6841"/>
+        <updated>2022-06-25T17:58:35.000Z</updated>
+        <summary type="html"><![CDATA[장점:
+주위 사람이 많을 때, Starlink는 Vodafone과 T-Mobile에서 제공하는 일반 모바일 네트워크보다 최대 100배 빠름.
+언제든지 정지 가능. (정지된 뒤에 계속 사용가능하며, 다음달 자동 결제가 취소됨.)
+구매 대기 할 필요 없이 당장 사용 가능.
+예상보다 전력을 적게 사]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[만화로 보는 Firefox 탄생  이야기]]></title>
+        <id>https://news.hada.io/topic?id=6840</id>
+        <link href="https://news.hada.io/topic?id=6840"/>
+        <updated>2022-06-25T17:27:29.000Z</updated>
+        <summary type="html"><![CDATA[마이크로소프트는 1994년 모자익 소스코드를 구입해서 새로운 웹 브라우저인 인터넷 익스플로러를 개발하기 시작
+1년만에 인터넷 익스플로러(IE) 1.0을 출시하여 윈도95 사용자에게 무료로 제공
+1997년 출시된 IE 3.0 부터 MS와 경쟁에서 밀리기 시작
+1998년 3월 넷스케이프 네비게...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netflix, 직원의 3%인 300명 정리해고]]></title>
+        <id>https://news.hada.io/topic?id=6839</id>
+        <link href="https://news.hada.io/topic?id=6839"/>
+        <updated>2022-06-25T02:02:25.000Z</updated>
+        <summary type="html"><![CDATA[성장 둔화와 경기침체 때문
+5월에 150명 정리해고후 두달만에 다시 해고
+1년전 $512 였던 넷플릭스 주식은 65% 하락하여 $178
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[구형 안드로이드 폰을 Ruby 웹서버 로 사용하기]]></title>
         <id>https://news.hada.io/topic?id=6838</id>
@@ -75,82 +158,6 @@ Single Element Loaders: The Bars originally published on CSS-Tricks. You should 
         <summary type="html"><![CDATA[안녕하세요, IT프로덕트 메이커들을 위한 소셜네트워킹 사이트 디스콰이엇을 만들고 있는 박현솔입니다. 최근 사이드프로젝트에 대한 관심이 많으신데요, 저희가 팀빌딩을 돕기 위해 메이커스퀘어라는 기능을 만들었습니다.
 기능
 •팀원 찾기: 자신의 프로젝트를 소개하고 메이커로부터 연락을 받을 수]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[난 Jira가 정말 싫어요]]></title>
-        <id>https://news.hada.io/topic?id=6834</id>
-        <link href="https://news.hada.io/topic?id=6834"/>
-        <updated>2022-06-24T02:24:40.000Z</updated>
-        <summary type="html"><![CDATA[Jira에 대한 불만족 의견만 모아놓은 사이트
-느려요. 엄청 느려요
-마이크로매니지를 장려해요
-너무 복잡해요]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사람들이 잠잘 때 암세포가 깨어난다]]></title>
-        <id>https://news.hada.io/topic?id=6833</id>
-        <link href="https://news.hada.io/topic?id=6833"/>
-        <updated>2022-06-24T01:59:52.000Z</updated>
-        <summary type="html"><![CDATA[암은 종양세포가 혈관을 타고 새로운 곳으로 이동해서 새로 자리잡을 때 가장 치명적 → 전이,metastatis
-한 연구에 따르면 유방암환자의 순환종양세포(CTC)가 낮보다 밤에 혈액속으로 뛰어들 가능성이 더 높다는 발견을 함
-이를 통해서 암의 진행을 추적하는 더 나은 방법으로 연결될 수 있...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Miniflux - 경량 오픈소스 RSS 리더]]></title>
-        <id>https://news.hada.io/topic?id=6832</id>
-        <link href="https://news.hada.io/topic?id=6832"/>
-        <updated>2022-06-24T01:38:10.000Z</updated>
-        <summary type="html"><![CDATA[Go + PostgreSQL로 서버가 구성되어있으며, Hacker News, Lobsters와 Pinboard에 영향을 받은 자바스크립트를 적게 사용한 간단한 디자인.
-Full-Text Search, 북마크 등의 기능 탑재
-Telegram, Pinboard, Instapaper, Pocket, Wallabag, Linkding, Espial, Nunux Keeper와의 통합을 지원.]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7-Zip 22.00 릴리즈]]></title>
-        <id>https://news.hada.io/topic?id=6831</id>
-        <link href="https://news.hada.io/topic?id=6831"/>
-        <updated>2022-06-24T01:33:46.000Z</updated>
-        <summary type="html"><![CDATA[.DMG에서 사용하는 APFS(Apple File System) 추출 가능
-POSIX(pax) tar 파일 생성 가능
-고정밀도 타임스탬프(1ns) 저장 가능
-Linux Tar에서 owner/group id 저장 가능 옵션 추가
-"Add to archive" 창에서 "어떤 메타데이터를 저장할지 선택 가능"한 옵...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linus Torvalds, "리눅스 커널 내에 Rust가 곧 머지될 수도 있다"]]></title>
-        <id>https://news.hada.io/topic?id=6830</id>
-        <link href="https://news.hada.io/topic?id=6830"/>
-        <updated>2022-06-24T01:20:48.000Z</updated>
-        <summary type="html"><![CDATA[리눅스 재단의 오픈소스 서밋 키노트에서 Rust 인프라스트럭쳐 머지가 빠른 시일내에 가능할 수도 있다고 밝혀
-Rust for Linux PR이 아직 보내지거나 머지된 건 없지만, 커널 내 기본 인프라 및 샘플 드라이버 코드들이 안...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YaLM 100B - 1000억개 파라미터의 GPT-like 언어 모델]]></title>
-        <id>https://news.hada.io/topic?id=6829</id>
-        <link href="https://news.hada.io/topic?id=6829"/>
-        <updated>2022-06-24T01:10:11.000Z</updated>
-        <summary type="html"><![CDATA[Yandex가 공개해서 개발자/연구자 누구나 무료로 사용 가능
-영어와 러시아어 1.7TB 텍스트를 800대의 A100 GPU로 65일간 훈련
-마이크로소프트의 Megatron-LM 코드 기반
-
-...]]></summary>
         <author>
             <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
@@ -471,17 +478,6 @@ SPAs, Shared Element Transitions, and Re-Evaluating Technology originally publis
         <updated>2022-05-27T14:25:39.000Z</updated>
         <summary type="html"><![CDATA[I teach a class over at the local college here in Long Beach and a majority of the content is hosted on the Canvas LMS so students can access it online. And, naturally, I want the content to be as …
 Just How Long Should Alt Text Be? originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beautify GitHub Profile]]></title>
-        <id>https://css-tricks.com/?p=366107</id>
-        <link href="https://css-tricks.com/beautify-github-profile/"/>
-        <updated>2022-05-26T18:13:28.000Z</updated>
-        <summary type="html"><![CDATA[It wasn’t long ago that Nick Sypteras showed us how to make custom badges for a GitHub repo. Well, Reza Shakeri put Beautify GitHub Profile together and it’s a huuuuuuge repo of different badges that pulls lots of examples …
-Beautify GitHub Profile originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
         </author>

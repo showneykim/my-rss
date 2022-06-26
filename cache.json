@@ -21,7 +21,7 @@
           "description": "We’re all familiar with the standard way of linking up a stylesheet to the <head> of an HTML doc, right? That’s just one of several ways we’re able to write CSS. But what does it look like to style things …\nDifferent Ways to Write CSS in React originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/different-ways-to-write-css-in-react/",
           "publishedOn": "2022-06-22T14:24:37.000Z",
-          "wordCount": 1896,
+          "wordCount": 1940,
           "title": "Different Ways to Write CSS in React",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366452"
         },
@@ -144,16 +144,6 @@
           "wordCount": 1818,
           "title": "Just How Long Should Alt Text Be?",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366068"
-        },
-        {
-          "id": "https://css-tricks.com/?p=366107",
-          "author": "Geoff Graham",
-          "description": "It wasn’t long ago that Nick Sypteras showed us how to make custom badges for a GitHub repo. Well, Reza Shakeri put Beautify GitHub Profile together and it’s a huuuuuuge repo of different badges that pulls lots of examples …\nBeautify GitHub Profile originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/beautify-github-profile/",
-          "publishedOn": "2022-05-26T18:13:28.000Z",
-          "wordCount": 866,
-          "title": "Beautify GitHub Profile",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366107"
         }
       ]
     },
@@ -168,7 +158,7 @@
           "description": "Aurora v1 EOL을 대처 하는 우리의 자세 (feat. MySQL 5.6) End of Life! 그렇게 EOL 입니다. MySQL 5.6을 기반으로 하는 AWS의 Aurora v1 버전의 EOL 소식이  들려오고 있습니다. AWS Aurora v1 EOL 소식 2023년 2월을...\nThe post Aurora v1 EOL을 대처 하는 우리의 자세 (feat. MySQL 5.6) appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/aurora-v1-eol%ec%9d%84-%eb%8c%80%ec%b2%98-%ed%95%98%eb%8a%94-%ec%9a%b0%eb%a6%ac%ec%9d%98-%ec%9e%90%ec%84%b8-feat-mysql-5-6/",
           "publishedOn": "2022-06-11T13:19:35.000Z",
-          "wordCount": 2094,
+          "wordCount": 2098,
           "title": "Aurora v1 EOL을 대처 하는 우리의 자세 (feat. MySQL 5.6)",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2019/04/mysql_PNG19-300x300.png"
         },
@@ -178,7 +168,7 @@
           "description": "MongoDB 5.0 Time Series MongoDB가 5.x 버전으로 릴리즈 되면서 추가된 유용한 기능 중에 하나가 바로 Time Series 컬렉션을 활용할 수 있다는 것 입니다. 쉽게 표현하면 시계열 데이터를 저장하는 기능인데 더 쉽게 표현하면 일정 시간...\nThe post MongoDB 5.0 Time Series appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/mongodb_timeseries/",
           "publishedOn": "2022-06-03T05:48:26.000Z",
-          "wordCount": 2063,
+          "wordCount": 2062,
           "title": "MongoDB 5.0 Time Series",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2020/04/37_2019081518484308.jpg"
         }
@@ -190,12 +180,72 @@
       "siteUrl": "https://news.hada.io",
       "articles": [
         {
+          "id": "https://news.hada.io/topic?id=6844",
+          "author": null,
+          "description": "Rust로 작성\n스마트 해슁, 자동 다운로드, 멀티 플랫폼, 리모트 캐슁(예정)\n종속성 관리를 위한 프로젝트 그래프, Dependency Workspace, 오너십 메타데이터\n여러대로 분산 빌드 지원\n모니터링 가능(웹훅)\n\n...",
+          "link": "https://news.hada.io/topic?id=6844",
+          "publishedOn": "2022-06-26T00:49:01.000Z",
+          "wordCount": 804,
+          "title": "moon - JavaScript를 위한 새로운 빌드 도구",
+          "imageUrl": "https://social.news.hada.io/topic/6844"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6843",
+          "author": null,
+          "description": "미술작품, 플러그인, 음악등의 디지털 콘텐츠를 간편하게 판매 가능\n클릭 3번으로 제품을 만들고 결제 및 배송(다운로드)까지\n맞춤형 화면 제작 가능\n항목당 최대 50GB 이미...",
+          "link": "https://news.hada.io/topic?id=6843",
+          "publishedOn": "2022-06-26T00:23:01.000Z",
+          "wordCount": 860,
+          "title": "Dropbox Shop 공개",
+          "imageUrl": "https://social.news.hada.io/topic/6843"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6842",
+          "author": null,
+          "description": "ML을 이용해서 오픈 소스 및 기존 작성한 코드와 코멘트(자연어)에 기반하여 자동 코드 추천\n함수 전체 및 코드 블록단위 까지 생성 가능\n여러 개의 추천코드 중에 선택 가능\nAWS API를 제대로 지원 → 'Upload a file to an S...",
+          "link": "https://news.hada.io/topic?id=6842",
+          "publishedOn": "2022-06-26T00:04:01.000Z",
+          "wordCount": 877,
+          "title": "Amazon CodeWhisper 공개 - AI 프로그래밍 도우미",
+          "imageUrl": "https://social.news.hada.io/topic/6842"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6841",
+          "author": null,
+          "description": "장점:\n주위 사람이 많을 때, Starlink는 Vodafone과 T-Mobile에서 제공하는 일반 모바일 네트워크보다 최대 100배 빠름.\n언제든지 정지 가능. (정지된 뒤에 계속 사용가능하며, 다음달 자동 결제가 취소됨.)\n구매 대기 할 필요 없이 당장 사용 가능.\n예상보다 전력을 적게 사",
+          "link": "https://news.hada.io/topic?id=6841",
+          "publishedOn": "2022-06-25T17:58:35.000Z",
+          "wordCount": 878,
+          "title": "The Verge의 Starlink RV 리뷰",
+          "imageUrl": "https://social.news.hada.io/topic/6841"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6840",
+          "author": null,
+          "description": "마이크로소프트는 1994년 모자익 소스코드를 구입해서 새로운 웹 브라우저인 인터넷 익스플로러를 개발하기 시작\n1년만에 인터넷 익스플로러(IE) 1.0을 출시하여 윈도95 사용자에게 무료로 제공\n1997년 출시된 IE 3.0 부터 MS와 경쟁에서 밀리기 시작\n1998년 3월 넷스케이프 네비게...",
+          "link": "https://news.hada.io/topic?id=6840",
+          "publishedOn": "2022-06-25T17:27:29.000Z",
+          "wordCount": 935,
+          "title": "만화로 보는 Firefox 탄생  이야기",
+          "imageUrl": "https://social.news.hada.io/topic/6840"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6839",
+          "author": null,
+          "description": "성장 둔화와 경기침체 때문\n5월에 150명 정리해고후 두달만에 다시 해고\n1년전 $512 였던 넷플릭스 주식은 65% 하락하여 $178\n\n...",
+          "link": "https://news.hada.io/topic?id=6839",
+          "publishedOn": "2022-06-25T02:02:25.000Z",
+          "wordCount": 806,
+          "title": "Netflix, 직원의 3%인 300명 정리해고",
+          "imageUrl": "https://social.news.hada.io/topic/6839"
+        },
+        {
           "id": "https://news.hada.io/topic?id=6838",
           "author": null,
           "description": "Termux 설치\nSSH 구성하기(Dropbear)\nDHCP 끄고 Static IP지정\nRuby, Bundler, Sinatra, Puma 설치\nnginx 설치\n포트 포워딩\nDDNS 설정\nHello World\nSiege로 로드테스팅 하기\n\n...",
           "link": "https://news.hada.io/topic?id=6838",
           "publishedOn": "2022-06-25T00:49:01.000Z",
-          "wordCount": 800,
+          "wordCount": 813,
           "title": "구형 안드로이드 폰을 Ruby 웹서버 로 사용하기",
           "imageUrl": "https://social.news.hada.io/topic/6838"
         },
@@ -205,7 +255,7 @@
           "description": "여러 클라우드에 걸친 쿠버네티스 비용 및 자원을 트래킹 해서 표시\nK8s Namespace, Label, Statefulset, Daemonset, Pod, Container 별 실시간 비용 조회\nAWS, Azure, GCP Billing API를 이용해 동적 가격 책정 적용\nOn-Prem K8s 클러스터도 지원(자체 가격표 설정)\nCPU/...",
           "link": "https://news.hada.io/topic?id=6837",
           "publishedOn": "2022-06-25T00:25:02.000Z",
-          "wordCount": 825,
+          "wordCount": 851,
           "title": "OpenCost - 쿠버네티스 비용 모니터링 도구",
           "imageUrl": "https://social.news.hada.io/topic/6837"
         },
@@ -225,69 +275,9 @@
           "description": "안녕하세요, IT프로덕트 메이커들을 위한 소셜네트워킹 사이트 디스콰이엇을 만들고 있는 박현솔입니다. 최근 사이드프로젝트에 대한 관심이 많으신데요, 저희가 팀빌딩을 돕기 위해 메이커스퀘어라는 기능을 만들었습니다.\n기능\n•팀원 찾기: 자신의 프로젝트를 소개하고 메이커로부터 연락을 받을 수",
           "link": "https://news.hada.io/topic?id=6835",
           "publishedOn": "2022-06-24T10:35:03.000Z",
-          "wordCount": 820,
+          "wordCount": 853,
           "title": "Show GN: 사이드프로젝트/창업 팀빌딩 플랫폼",
           "imageUrl": "https://social.news.hada.io/topic/6835"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6834",
-          "author": null,
-          "description": "Jira에 대한 불만족 의견만 모아놓은 사이트\n느려요. 엄청 느려요\n마이크로매니지를 장려해요\n너무 복잡해요",
-          "link": "https://news.hada.io/topic?id=6834",
-          "publishedOn": "2022-06-24T02:24:40.000Z",
-          "wordCount": 1251,
-          "title": "난 Jira가 정말 싫어요",
-          "imageUrl": "https://social.news.hada.io/topic/6834"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6833",
-          "author": null,
-          "description": "암은 종양세포가 혈관을 타고 새로운 곳으로 이동해서 새로 자리잡을 때 가장 치명적 → 전이,metastatis\n한 연구에 따르면 유방암환자의 순환종양세포(CTC)가 낮보다 밤에 혈액속으로 뛰어들 가능성이 더 높다는 발견을 함\n이를 통해서 암의 진행을 추적하는 더 나은 방법으로 연결될 수 있...",
-          "link": "https://news.hada.io/topic?id=6833",
-          "publishedOn": "2022-06-24T01:59:52.000Z",
-          "wordCount": 1110,
-          "title": "사람들이 잠잘 때 암세포가 깨어난다",
-          "imageUrl": "https://social.news.hada.io/topic/6833"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6832",
-          "author": null,
-          "description": "Go + PostgreSQL로 서버가 구성되어있으며, Hacker News, Lobsters와 Pinboard에 영향을 받은 자바스크립트를 적게 사용한 간단한 디자인.\nFull-Text Search, 북마크 등의 기능 탑재\nTelegram, Pinboard, Instapaper, Pocket, Wallabag, Linkding, Espial, Nunux Keeper와의 통합을 지원.",
-          "link": "https://news.hada.io/topic?id=6832",
-          "publishedOn": "2022-06-24T01:38:10.000Z",
-          "wordCount": 885,
-          "title": "Miniflux - 경량 오픈소스 RSS 리더",
-          "imageUrl": "https://social.news.hada.io/topic/6832"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6831",
-          "author": null,
-          "description": ".DMG에서 사용하는 APFS(Apple File System) 추출 가능\nPOSIX(pax) tar 파일 생성 가능\n고정밀도 타임스탬프(1ns) 저장 가능\nLinux Tar에서 owner/group id 저장 가능 옵션 추가\n\"Add to archive\" 창에서 \"어떤 메타데이터를 저장할지 선택 가능\"한 옵...",
-          "link": "https://news.hada.io/topic?id=6831",
-          "publishedOn": "2022-06-24T01:33:46.000Z",
-          "wordCount": 825,
-          "title": "7-Zip 22.00 릴리즈",
-          "imageUrl": "https://social.news.hada.io/topic/6831"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6830",
-          "author": null,
-          "description": "리눅스 재단의 오픈소스 서밋 키노트에서 Rust 인프라스트럭쳐 머지가 빠른 시일내에 가능할 수도 있다고 밝혀\nRust for Linux PR이 아직 보내지거나 머지된 건 없지만, 커널 내 기본 인프라 및 샘플 드라이버 코드들이 안...",
-          "link": "https://news.hada.io/topic?id=6830",
-          "publishedOn": "2022-06-24T01:20:48.000Z",
-          "wordCount": 854,
-          "title": "Linus Torvalds, \"리눅스 커널 내에 Rust가 곧 머지될 수도 있다\"",
-          "imageUrl": "https://social.news.hada.io/topic/6830"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6829",
-          "author": null,
-          "description": "Yandex가 공개해서 개발자/연구자 누구나 무료로 사용 가능\n영어와 러시아어 1.7TB 텍스트를 800대의 A100 GPU로 65일간 훈련\n마이크로소프트의 Megatron-LM 코드 기반\n\n...",
-          "link": "https://news.hada.io/topic?id=6829",
-          "publishedOn": "2022-06-24T01:10:11.000Z",
-          "wordCount": 803,
-          "title": "YaLM 100B - 1000억개 파라미터의 GPT-like 언어 모델",
-          "imageUrl": "https://social.news.hada.io/topic/6829"
         }
       ]
     },
