@@ -134,16 +134,6 @@
           "wordCount": 1296,
           "title": "SPAs, Shared Element Transitions, and Re-Evaluating Technology",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366175"
-        },
-        {
-          "id": "https://css-tricks.com/?p=366068",
-          "author": "Geoff Graham",
-          "description": "I teach a class over at the local college here in Long Beach and a majority of the content is hosted on the Canvas LMS so students can access it online. And, naturally, I want the content to be as …\nJust How Long Should Alt Text Be? originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/just-how-long-should-alt-text-be/",
-          "publishedOn": "2022-05-27T14:25:39.000Z",
-          "wordCount": 1818,
-          "title": "Just How Long Should Alt Text Be?",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366068"
         }
       ]
     },
@@ -180,6 +170,66 @@
       "siteUrl": "https://news.hada.io",
       "articles": [
         {
+          "id": "https://news.hada.io/topic?id=6850",
+          "author": null,
+          "description": "펀드레이징은 주식을 '판매'하는 것 → 판매의 핵심은 구매과정에서 일어나는 '마찰'을 줄이는 것\n과정 중간에 정직할 것\n숫자를 숨기지 말 것\n약한 팀 멤버를 숨기지 말 것\n안좋은 것을 숨기지 말고 먼저 공유할 것\n덱(IR자료)부터 공",
+          "link": "https://news.hada.io/topic?id=6850",
+          "publishedOn": "2022-06-27T01:33:34.000Z",
+          "wordCount": 921,
+          "title": "첫 창업자들이 펀드레이징에 대해 알아야할 것들",
+          "imageUrl": "https://social.news.hada.io/topic/6850"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6849",
+          "author": null,
+          "description": "내가 갑자기 떠났을 때, 남겨진 사람들에게 내 정보를 전달하기 위해 정리할 내용들\n암호 : 2FA, 패스워드 관리자\n재무 정보 : 은행, 카드, 연금, 암호화폐 및 다른 재무 관련 서비스 정보들\n주요 문서들\n법률 문서들 : 유언장, 위임장",
+          "link": "https://news.hada.io/topic?id=6849",
+          "publishedOn": "2022-06-27T01:17:18.000Z",
+          "wordCount": 910,
+          "title": "내가 죽었을 때를 위한 Cheat Sheet",
+          "imageUrl": "https://social.news.hada.io/topic/6849"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6848",
+          "author": null,
+          "description": "macOS 12/13 (베타 포함) 여러 버전의 macOS에서 앱을 테스트하고 싶은 개발자를 위한 도구\n내장 설치 마법사 제공\n\n애플 서버에서 설치 이미지 선택\n로컬 IPSW 파일 또는 커스텀 URL\n리커버리 모드 부팅 가능(SIP 비활성화 등)\n네트워킹 및 파일 공유...",
+          "link": "https://news.hada.io/topic?id=6848",
+          "publishedOn": "2022-06-27T01:06:46.000Z",
+          "wordCount": 861,
+          "title": "VirtualBuddy - 애플 실리콘에서 macOS 12+를 가상화하는 오픈소스",
+          "imageUrl": "https://social.news.hada.io/topic/6848"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6847",
+          "author": null,
+          "description": "Virtual Power Plant (VPP)\nTesla Powerwall을 설치한 가정에서 전력 Grid에 연결하여, 전력이 부족한 위급상황에 자신의 배터리에 저장해둔 전력을 제공해주고 보상을 받는 프로그램\n파일롯 프로그램중에는 kWh당 $2의 보상 제공\nPG&E와 협업하여 캘리포니아의 Grid를 안정화 ...",
+          "link": "https://news.hada.io/topic?id=6847",
+          "publishedOn": "2022-06-27T00:53:32.000Z",
+          "wordCount": 822,
+          "title": "Tesla, 가상 발전소 서비스 공개",
+          "imageUrl": "https://social.news.hada.io/topic/6847"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6846",
+          "author": null,
+          "description": "Git을 사용하면서 겪는 문제들에 대한 해결책 설명\n뭔가 단단히 잘못됐는데, 다 뒤엎고 예전으로 돌리고 싶어!\n방금 커밋했는데 하나 깜빡한 걸 발견했어!\n커밋 메세지를 잘못 썼어!\n다른 브랜치에 커밋해야 하는 걸 실수로 master에 커밋해 버렸어!\n실수로 이상...",
+          "link": "https://news.hada.io/topic?id=6846",
+          "publishedOn": "2022-06-27T00:42:43.000Z",
+          "wordCount": 860,
+          "title": "Oh Shit, Git!?!",
+          "imageUrl": "https://social.news.hada.io/topic/6846"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6845",
+          "author": null,
+          "description": "RIGHT / FULL OUTER JOIN 지원\nPostgreSQL 및 SQL 호환을 위한 IS NOT DISTINCT FROM / IS DISTINCT FROM 연산자 추가\nsqlite3_vtab_distinct() 에 새로운 리턴코드 \"3\" 추가 (DISTINCT 이며 ORDER BY를 같이 있는 쿼리를 표시)\nsqlite3_db_name() 인터페이스 추가\n...",
+          "link": "https://news.hada.io/topic?id=6845",
+          "publishedOn": "2022-06-27T00:31:15.000Z",
+          "wordCount": 840,
+          "title": "SQLite 3.39.0 릴리즈",
+          "imageUrl": "https://social.news.hada.io/topic/6845"
+        },
+        {
           "id": "https://news.hada.io/topic?id=6844",
           "author": null,
           "description": "Rust로 작성\n스마트 해슁, 자동 다운로드, 멀티 플랫폼, 리모트 캐슁(예정)\n종속성 관리를 위한 프로젝트 그래프, Dependency Workspace, 오너십 메타데이터\n여러대로 분산 빌드 지원\n모니터링 가능(웹훅)\n\n...",
@@ -195,7 +245,7 @@
           "description": "미술작품, 플러그인, 음악등의 디지털 콘텐츠를 간편하게 판매 가능\n클릭 3번으로 제품을 만들고 결제 및 배송(다운로드)까지\n맞춤형 화면 제작 가능\n항목당 최대 50GB 이미...",
           "link": "https://news.hada.io/topic?id=6843",
           "publishedOn": "2022-06-26T00:23:01.000Z",
-          "wordCount": 860,
+          "wordCount": 914,
           "title": "Dropbox Shop 공개",
           "imageUrl": "https://social.news.hada.io/topic/6843"
         },
@@ -205,8 +255,8 @@
           "description": "ML을 이용해서 오픈 소스 및 기존 작성한 코드와 코멘트(자연어)에 기반하여 자동 코드 추천\n함수 전체 및 코드 블록단위 까지 생성 가능\n여러 개의 추천코드 중에 선택 가능\nAWS API를 제대로 지원 → 'Upload a file to an S...",
           "link": "https://news.hada.io/topic?id=6842",
           "publishedOn": "2022-06-26T00:04:01.000Z",
-          "wordCount": 877,
-          "title": "Amazon CodeWhisper 공개 - AI 프로그래밍 도우미",
+          "wordCount": 908,
+          "title": "Amazon CodeWhisperer 공개 - AI 프로그래밍 도우미",
           "imageUrl": "https://social.news.hada.io/topic/6842"
         },
         {
@@ -218,66 +268,6 @@
           "wordCount": 878,
           "title": "The Verge의 Starlink RV 리뷰",
           "imageUrl": "https://social.news.hada.io/topic/6841"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6840",
-          "author": null,
-          "description": "마이크로소프트는 1994년 모자익 소스코드를 구입해서 새로운 웹 브라우저인 인터넷 익스플로러를 개발하기 시작\n1년만에 인터넷 익스플로러(IE) 1.0을 출시하여 윈도95 사용자에게 무료로 제공\n1997년 출시된 IE 3.0 부터 MS와 경쟁에서 밀리기 시작\n1998년 3월 넷스케이프 네비게...",
-          "link": "https://news.hada.io/topic?id=6840",
-          "publishedOn": "2022-06-25T17:27:29.000Z",
-          "wordCount": 935,
-          "title": "만화로 보는 Firefox 탄생  이야기",
-          "imageUrl": "https://social.news.hada.io/topic/6840"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6839",
-          "author": null,
-          "description": "성장 둔화와 경기침체 때문\n5월에 150명 정리해고후 두달만에 다시 해고\n1년전 $512 였던 넷플릭스 주식은 65% 하락하여 $178\n\n...",
-          "link": "https://news.hada.io/topic?id=6839",
-          "publishedOn": "2022-06-25T02:02:25.000Z",
-          "wordCount": 806,
-          "title": "Netflix, 직원의 3%인 300명 정리해고",
-          "imageUrl": "https://social.news.hada.io/topic/6839"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6838",
-          "author": null,
-          "description": "Termux 설치\nSSH 구성하기(Dropbear)\nDHCP 끄고 Static IP지정\nRuby, Bundler, Sinatra, Puma 설치\nnginx 설치\n포트 포워딩\nDDNS 설정\nHello World\nSiege로 로드테스팅 하기\n\n...",
-          "link": "https://news.hada.io/topic?id=6838",
-          "publishedOn": "2022-06-25T00:49:01.000Z",
-          "wordCount": 813,
-          "title": "구형 안드로이드 폰을 Ruby 웹서버 로 사용하기",
-          "imageUrl": "https://social.news.hada.io/topic/6838"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6837",
-          "author": null,
-          "description": "여러 클라우드에 걸친 쿠버네티스 비용 및 자원을 트래킹 해서 표시\nK8s Namespace, Label, Statefulset, Daemonset, Pod, Container 별 실시간 비용 조회\nAWS, Azure, GCP Billing API를 이용해 동적 가격 책정 적용\nOn-Prem K8s 클러스터도 지원(자체 가격표 설정)\nCPU/...",
-          "link": "https://news.hada.io/topic?id=6837",
-          "publishedOn": "2022-06-25T00:25:02.000Z",
-          "wordCount": 851,
-          "title": "OpenCost - 쿠버네티스 비용 모니터링 도구",
-          "imageUrl": "https://social.news.hada.io/topic/6837"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6836",
-          "author": null,
-          "description": "헤더, 이벤트, 그룹, 섹션 으로 구성\n기간은 마우스로 조정 가능\nTimeline / Map / Doc 보기 지원\nURL 공유 가능\nPDF / PNG 내보내기\nVue & TypeScript 오픈소스\n\n...",
-          "link": "https://news.hada.io/topic?id=6836",
-          "publishedOn": "2022-06-25T00:08:01.000Z",
-          "wordCount": 807,
-          "title": "MarkWhen - 마크다운으로 계단식 타임라인 만들기",
-          "imageUrl": "https://social.news.hada.io/topic/6836"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6835",
-          "author": null,
-          "description": "안녕하세요, IT프로덕트 메이커들을 위한 소셜네트워킹 사이트 디스콰이엇을 만들고 있는 박현솔입니다. 최근 사이드프로젝트에 대한 관심이 많으신데요, 저희가 팀빌딩을 돕기 위해 메이커스퀘어라는 기능을 만들었습니다.\n기능\n•팀원 찾기: 자신의 프로젝트를 소개하고 메이커로부터 연락을 받을 수",
-          "link": "https://news.hada.io/topic?id=6835",
-          "publishedOn": "2022-06-24T10:35:03.000Z",
-          "wordCount": 853,
-          "title": "Show GN: 사이드프로젝트/창업 팀빌딩 플랫폼",
-          "imageUrl": "https://social.news.hada.io/topic/6835"
         }
       ]
     },

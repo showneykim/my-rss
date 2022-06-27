@@ -1,10 +1,97 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-26T01:58:26.757Z</id>
+    <id>urn:2022-06-27T01:56:22.567Z</id>
     <title>osmos::feed</title>
-    <updated>2022-06-26T01:58:26.757Z</updated>
+    <updated>2022-06-27T01:56:22.567Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[첫 창업자들이 펀드레이징에 대해 알아야할 것들]]></title>
+        <id>https://news.hada.io/topic?id=6850</id>
+        <link href="https://news.hada.io/topic?id=6850"/>
+        <updated>2022-06-27T01:33:34.000Z</updated>
+        <summary type="html"><![CDATA[펀드레이징은 주식을 '판매'하는 것 → 판매의 핵심은 구매과정에서 일어나는 '마찰'을 줄이는 것
+과정 중간에 정직할 것
+숫자를 숨기지 말 것
+약한 팀 멤버를 숨기지 말 것
+안좋은 것을 숨기지 말고 먼저 공유할 것
+덱(IR자료)부터 공]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내가 죽었을 때를 위한 Cheat Sheet]]></title>
+        <id>https://news.hada.io/topic?id=6849</id>
+        <link href="https://news.hada.io/topic?id=6849"/>
+        <updated>2022-06-27T01:17:18.000Z</updated>
+        <summary type="html"><![CDATA[내가 갑자기 떠났을 때, 남겨진 사람들에게 내 정보를 전달하기 위해 정리할 내용들
+암호 : 2FA, 패스워드 관리자
+재무 정보 : 은행, 카드, 연금, 암호화폐 및 다른 재무 관련 서비스 정보들
+주요 문서들
+법률 문서들 : 유언장, 위임장]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VirtualBuddy - 애플 실리콘에서 macOS 12+를 가상화하는 오픈소스]]></title>
+        <id>https://news.hada.io/topic?id=6848</id>
+        <link href="https://news.hada.io/topic?id=6848"/>
+        <updated>2022-06-27T01:06:46.000Z</updated>
+        <summary type="html"><![CDATA[macOS 12/13 (베타 포함) 여러 버전의 macOS에서 앱을 테스트하고 싶은 개발자를 위한 도구
+내장 설치 마법사 제공
+
+애플 서버에서 설치 이미지 선택
+로컬 IPSW 파일 또는 커스텀 URL
+리커버리 모드 부팅 가능(SIP 비활성화 등)
+네트워킹 및 파일 공유...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tesla, 가상 발전소 서비스 공개]]></title>
+        <id>https://news.hada.io/topic?id=6847</id>
+        <link href="https://news.hada.io/topic?id=6847"/>
+        <updated>2022-06-27T00:53:32.000Z</updated>
+        <summary type="html"><![CDATA[Virtual Power Plant (VPP)
+Tesla Powerwall을 설치한 가정에서 전력 Grid에 연결하여, 전력이 부족한 위급상황에 자신의 배터리에 저장해둔 전력을 제공해주고 보상을 받는 프로그램
+파일롯 프로그램중에는 kWh당 $2의 보상 제공
+PG&E와 협업하여 캘리포니아의 Grid를 안정화 ...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oh Shit, Git!?!]]></title>
+        <id>https://news.hada.io/topic?id=6846</id>
+        <link href="https://news.hada.io/topic?id=6846"/>
+        <updated>2022-06-27T00:42:43.000Z</updated>
+        <summary type="html"><![CDATA[Git을 사용하면서 겪는 문제들에 대한 해결책 설명
+뭔가 단단히 잘못됐는데, 다 뒤엎고 예전으로 돌리고 싶어!
+방금 커밋했는데 하나 깜빡한 걸 발견했어!
+커밋 메세지를 잘못 썼어!
+다른 브랜치에 커밋해야 하는 걸 실수로 master에 커밋해 버렸어!
+실수로 이상...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQLite 3.39.0 릴리즈]]></title>
+        <id>https://news.hada.io/topic?id=6845</id>
+        <link href="https://news.hada.io/topic?id=6845"/>
+        <updated>2022-06-27T00:31:15.000Z</updated>
+        <summary type="html"><![CDATA[RIGHT / FULL OUTER JOIN 지원
+PostgreSQL 및 SQL 호환을 위한 IS NOT DISTINCT FROM / IS DISTINCT FROM 연산자 추가
+sqlite3_vtab_distinct() 에 새로운 리턴코드 "3" 추가 (DISTINCT 이며 ORDER BY를 같이 있는 쿼리를 표시)
+sqlite3_db_name() 인터페이스 추가
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[moon - JavaScript를 위한 새로운 빌드 도구]]></title>
         <id>https://news.hada.io/topic?id=6844</id>
@@ -35,7 +122,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon CodeWhisper 공개 - AI 프로그래밍 도우미]]></title>
+        <title type="html"><![CDATA[Amazon CodeWhisperer 공개 - AI 프로그래밍 도우미]]></title>
         <id>https://news.hada.io/topic?id=6842</id>
         <link href="https://news.hada.io/topic?id=6842"/>
         <updated>2022-06-26T00:04:01.000Z</updated>
@@ -62,84 +149,6 @@ AWS API를 제대로 지원 → 'Upload a file to an S...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[만화로 보는 Firefox 탄생  이야기]]></title>
-        <id>https://news.hada.io/topic?id=6840</id>
-        <link href="https://news.hada.io/topic?id=6840"/>
-        <updated>2022-06-25T17:27:29.000Z</updated>
-        <summary type="html"><![CDATA[마이크로소프트는 1994년 모자익 소스코드를 구입해서 새로운 웹 브라우저인 인터넷 익스플로러를 개발하기 시작
-1년만에 인터넷 익스플로러(IE) 1.0을 출시하여 윈도95 사용자에게 무료로 제공
-1997년 출시된 IE 3.0 부터 MS와 경쟁에서 밀리기 시작
-1998년 3월 넷스케이프 네비게...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Netflix, 직원의 3%인 300명 정리해고]]></title>
-        <id>https://news.hada.io/topic?id=6839</id>
-        <link href="https://news.hada.io/topic?id=6839"/>
-        <updated>2022-06-25T02:02:25.000Z</updated>
-        <summary type="html"><![CDATA[성장 둔화와 경기침체 때문
-5월에 150명 정리해고후 두달만에 다시 해고
-1년전 $512 였던 넷플릭스 주식은 65% 하락하여 $178
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구형 안드로이드 폰을 Ruby 웹서버 로 사용하기]]></title>
-        <id>https://news.hada.io/topic?id=6838</id>
-        <link href="https://news.hada.io/topic?id=6838"/>
-        <updated>2022-06-25T00:49:01.000Z</updated>
-        <summary type="html"><![CDATA[Termux 설치
-SSH 구성하기(Dropbear)
-DHCP 끄고 Static IP지정
-Ruby, Bundler, Sinatra, Puma 설치
-nginx 설치
-포트 포워딩
-DDNS 설정
-Hello World
-Siege로 로드테스팅 하기
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenCost - 쿠버네티스 비용 모니터링 도구]]></title>
-        <id>https://news.hada.io/topic?id=6837</id>
-        <link href="https://news.hada.io/topic?id=6837"/>
-        <updated>2022-06-25T00:25:02.000Z</updated>
-        <summary type="html"><![CDATA[여러 클라우드에 걸친 쿠버네티스 비용 및 자원을 트래킹 해서 표시
-K8s Namespace, Label, Statefulset, Daemonset, Pod, Container 별 실시간 비용 조회
-AWS, Azure, GCP Billing API를 이용해 동적 가격 책정 적용
-On-Prem K8s 클러스터도 지원(자체 가격표 설정)
-CPU/...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MarkWhen - 마크다운으로 계단식 타임라인 만들기]]></title>
-        <id>https://news.hada.io/topic?id=6836</id>
-        <link href="https://news.hada.io/topic?id=6836"/>
-        <updated>2022-06-25T00:08:01.000Z</updated>
-        <summary type="html"><![CDATA[헤더, 이벤트, 그룹, 섹션 으로 구성
-기간은 마우스로 조정 가능
-Timeline / Map / Doc 보기 지원
-URL 공유 가능
-PDF / PNG 내보내기
-Vue & TypeScript 오픈소스
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Single Element Loaders: The Bars]]></title>
         <id>https://css-tricks.com/?p=366526</id>
         <link href="https://css-tricks.com/single-element-loaders-the-bars/"/>
@@ -148,18 +157,6 @@ Vue & TypeScript 오픈소스
 Single Element Loaders: The Bars originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 사이드프로젝트/창업 팀빌딩 플랫폼]]></title>
-        <id>https://news.hada.io/topic?id=6835</id>
-        <link href="https://news.hada.io/topic?id=6835"/>
-        <updated>2022-06-24T10:35:03.000Z</updated>
-        <summary type="html"><![CDATA[안녕하세요, IT프로덕트 메이커들을 위한 소셜네트워킹 사이트 디스콰이엇을 만들고 있는 박현솔입니다. 최근 사이드프로젝트에 대한 관심이 많으신데요, 저희가 팀빌딩을 돕기 위해 메이커스퀘어라는 기능을 만들었습니다.
-기능
-•팀원 찾기: 자신의 프로젝트를 소개하고 메이커로부터 연락을 받을 수]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
     </entry>
     <entry>
@@ -469,17 +466,6 @@ SPAs, Shared Element Transitions, and Re-Evaluating Technology originally publis
                     (adsbygoogle = window.adsbygoogle || []).push({});]]></summary>
         <author>
             <name>향로</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Just How Long Should Alt Text Be?]]></title>
-        <id>https://css-tricks.com/?p=366068</id>
-        <link href="https://css-tricks.com/just-how-long-should-alt-text-be/"/>
-        <updated>2022-05-27T14:25:39.000Z</updated>
-        <summary type="html"><![CDATA[I teach a class over at the local college here in Long Beach and a majority of the content is hosted on the Canvas LMS so students can access it online. And, naturally, I want the content to be as …
-Just How Long Should Alt Text Be? originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
 </feed>
