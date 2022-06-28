@@ -6,12 +6,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=366468",
+          "author": "Victor Adedokun",
+          "description": "Right after “Where is the best place to learn?” perhaps the most commonly asked question I hear from folks getting into code is “What web development books should I get to learn?” Well, consider this an answer to that question …\nGreat (and Free!) Web Development Books You Can Get Online originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/web-development-books-you-can-get-for-free/",
+          "publishedOn": "2022-06-27T13:27:49.000Z",
+          "wordCount": 3981,
+          "title": "Great (and Free!) Web Development Books You Can Get Online",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366468"
+        },
+        {
           "id": "https://css-tricks.com/?p=366526",
           "author": "Temani Afif",
           "description": "We’ve looked at spinners. We’ve looked at dots. Now we’re going to tackle another common pattern for loaders: bars. And we’re going to do the same thing in this third article of the series as we have the others …\nSingle Element Loaders: The Bars originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/single-element-loaders-the-bars/",
           "publishedOn": "2022-06-24T20:00:29.000Z",
-          "wordCount": 2292,
+          "wordCount": 2429,
           "title": "Single Element Loaders: The Bars",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366526"
         },
@@ -21,7 +31,7 @@
           "description": "We’re all familiar with the standard way of linking up a stylesheet to the <head> of an HTML doc, right? That’s just one of several ways we’re able to write CSS. But what does it look like to style things …\nDifferent Ways to Write CSS in React originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/different-ways-to-write-css-in-react/",
           "publishedOn": "2022-06-22T14:24:37.000Z",
-          "wordCount": 1940,
+          "wordCount": 1947,
           "title": "Different Ways to Write CSS in React",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366452"
         },
@@ -31,7 +41,7 @@
           "description": "We’re looking at loaders in this series. More than that, we’re breaking down some common loader patterns and how to re-create them with nothing more than a single div. So far, we’ve picked apart the classic spinning loader. Now, …\nSingle Element Loaders: The Dots originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/single-element-loaders-the-dots/",
           "publishedOn": "2022-06-17T14:47:55.000Z",
-          "wordCount": 2430,
+          "wordCount": 2409,
           "title": "Single Element Loaders: The Dots",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366342"
         },
@@ -41,7 +51,7 @@
           "description": "Calendars, shopping carts, galleries, file explorers, and online libraries are some situations where selectable items are shown in grids (i.e. square lattices). You know, even those security checks that ask you to select all images with crosswalks or whatever.\n🧐…\nConditionally Styling Selected Elements in a Grid Container originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/conditionally-styling-selected-elements-in-a-grid-container/",
           "publishedOn": "2022-06-15T14:15:50.000Z",
-          "wordCount": 2383,
+          "wordCount": 2362,
           "title": "Conditionally Styling Selected Elements in a Grid Container",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366252"
         },
@@ -51,7 +61,7 @@
           "description": "Well, sheesh. I opened a little can of worms when sharing Miriam’s “Am I on the IndieWeb yet?” with a short post bemoaning my own trouble getting on the IndieWeb train. But it’s a good can of worms.\nI think …\nDe-Mystifying IndieWeb on a WordPress Site originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/de-mystifying-indieweb-on-a-wordpress-site/",
           "publishedOn": "2022-06-14T16:48:34.000Z",
-          "wordCount": 2782,
+          "wordCount": 2761,
           "title": "De-Mystifying IndieWeb on a WordPress Site",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366388"
         },
@@ -61,7 +71,7 @@
           "description": "A diagram is a graphical representation of information that depicts the structure, relationship, or operation of anything. Diagrams enable your audience to visually grasp hidden information and engage with them in ways that words alone cannot. Depending on the type …\nUseful Tools for Visualizing Databases on a Budget originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/useful-tools-for-visualizing-databases-on-a-budget/",
           "publishedOn": "2022-06-13T19:15:26.000Z",
-          "wordCount": 2085,
+          "wordCount": 2064,
           "title": "Useful Tools for Visualizing Databases on a Budget",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366260"
         },
@@ -71,7 +81,7 @@
           "description": "Making CSS-only loaders is one of my favorite tasks. It’s always satisfying to look at those infinite animations. And, of course, there are lots of techniques and approaches to make them — no need to look further than CodePen to …\nSingle Element Loaders: The Spinner originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/single-element-loaders-the-spinner/",
           "publishedOn": "2022-06-10T14:26:06.000Z",
-          "wordCount": 2718,
+          "wordCount": 2697,
           "title": "Single Element Loaders: The Spinner",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366266"
         },
@@ -81,7 +91,7 @@
           "description": "Can’t smash the Like button hard enough for what Miriam Suzanne has to say on the challenging technical hurdles of implementing Webmentions:\nThe first round required several online services along with HTML & JS changes to my static site, just to verify my \n…\nAm I on the IndieWeb yet? originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/am-i-on-the-indieweb-yet/",
           "publishedOn": "2022-06-09T15:32:50.000Z",
-          "wordCount": 1518,
+          "wordCount": 1497,
           "title": "Am I on the IndieWeb yet?",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366286"
         },
@@ -91,7 +101,7 @@
           "description": "QR codes are funny, right? We love them, then hate them, then love them again. Anyways, they’ve lately been popping up again and it got me thinking about how they’re made. There are like a gazillion QR code generators out …\nLet’s Make a QR Code Generator With a Serverless Function! originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/lets-make-a-qr-code-generator-with-a-serverless-function/",
           "publishedOn": "2022-06-08T14:30:53.000Z",
-          "wordCount": 1515,
+          "wordCount": 1519,
           "title": "Let’s Make a QR Code Generator With a Serverless Function!",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366147"
         },
@@ -101,7 +111,7 @@
           "description": "Those of us who’ve been web developers more than a few years have probably written code using more than one JavaScript framework. With all the choices out there — React, Svelte, Vue, Angular, Solid — it’s all but inevitable. One …\nBuilding Interoperable Web Components That Even Work With React originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/building-interoperable-web-components-react/",
           "publishedOn": "2022-06-07T13:57:57.000Z",
-          "wordCount": 4575,
+          "wordCount": 4554,
           "title": "Building Interoperable Web Components That Even Work With React",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366222"
         },
@@ -111,7 +121,7 @@
           "description": "There’s all kinds of ways to do that. Some more advisable and better-suited for certain situations than others, of course.\nWe could do it directly in HTML:\n<pWe go from one line...<br<brdown a couple more.</p\nBut that’s …\nPlease Give Me Some Space originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/please-give-me-some-space/",
           "publishedOn": "2022-06-03T14:39:11.000Z",
-          "wordCount": 1339,
+          "wordCount": 1318,
           "title": "Please Give Me Some Space",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366202"
         },
@@ -121,7 +131,7 @@
           "description": "Block patterns, also frequently referred to as sections, were introduced in WordPress 5.5 to allow users to build and share predefined block layouts in the pattern directory. The directory is the home of a wide range of …\nHow to Create Block Theme Patterns in WordPress 6.0 originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/how-to-create-block-theme-patterns-in-wordpress-6-0/",
           "publishedOn": "2022-06-01T15:30:15.000Z",
-          "wordCount": 4493,
+          "wordCount": 4472,
           "title": "How to Create Block Theme Patterns in WordPress 6.0",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365841"
         },
@@ -131,7 +141,7 @@
           "description": "Nolan Lawson sparked some discussion when he described a noticeable shift away from single-page applications (SPAs):\nHip new frameworks like Astro, Qwik, and Elder.js are touting their MPA [multi-page application] with “0kB JavaScript by default.” \n…\nSPAs, Shared Element Transitions, and Re-Evaluating Technology originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/spas-shared-element-transitions-and-re-evaluating-technology/",
           "publishedOn": "2022-06-01T14:12:25.000Z",
-          "wordCount": 1296,
+          "wordCount": 1275,
           "title": "SPAs, Shared Element Transitions, and Re-Evaluating Technology",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366175"
         }
@@ -148,7 +158,7 @@
           "description": "Aurora v1 EOL을 대처 하는 우리의 자세 (feat. MySQL 5.6) End of Life! 그렇게 EOL 입니다. MySQL 5.6을 기반으로 하는 AWS의 Aurora v1 버전의 EOL 소식이  들려오고 있습니다. AWS Aurora v1 EOL 소식 2023년 2월을...\nThe post Aurora v1 EOL을 대처 하는 우리의 자세 (feat. MySQL 5.6) appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/aurora-v1-eol%ec%9d%84-%eb%8c%80%ec%b2%98-%ed%95%98%eb%8a%94-%ec%9a%b0%eb%a6%ac%ec%9d%98-%ec%9e%90%ec%84%b8-feat-mysql-5-6/",
           "publishedOn": "2022-06-11T13:19:35.000Z",
-          "wordCount": 2098,
+          "wordCount": 2100,
           "title": "Aurora v1 EOL을 대처 하는 우리의 자세 (feat. MySQL 5.6)",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2019/04/mysql_PNG19-300x300.png"
         },
@@ -158,7 +168,7 @@
           "description": "MongoDB 5.0 Time Series MongoDB가 5.x 버전으로 릴리즈 되면서 추가된 유용한 기능 중에 하나가 바로 Time Series 컬렉션을 활용할 수 있다는 것 입니다. 쉽게 표현하면 시계열 데이터를 저장하는 기능인데 더 쉽게 표현하면 일정 시간...\nThe post MongoDB 5.0 Time Series appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/mongodb_timeseries/",
           "publishedOn": "2022-06-03T05:48:26.000Z",
-          "wordCount": 2062,
+          "wordCount": 2066,
           "title": "MongoDB 5.0 Time Series",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2020/04/37_2019081518484308.jpg"
         }
@@ -169,6 +179,76 @@
       "feedUrl": "https://news.hada.io/rss/news",
       "siteUrl": "https://news.hada.io",
       "articles": [
+        {
+          "id": "https://news.hada.io/topic?id=6857",
+          "author": null,
+          "description": "수백개의 컴포넌트,템플릿,데모 포함\n최신 버전의 Auto Layout으로 작성\nComponent Properties, Variants 및 다크모드 지원\n이번 버전 부터는 유료로 구입하면 Loom 워크스루 및 데모, 이메일 업데이트도 제공(파일 자체는 유료/무료 동일)\n\n...",
+          "link": "https://news.hada.io/topic?id=6857",
+          "publishedOn": "2022-06-28T01:06:05.000Z",
+          "wordCount": 802,
+          "title": "iOS 16 UI Kit for Figma",
+          "imageUrl": "https://social.news.hada.io/topic/6857"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6856",
+          "author": null,
+          "description": "서버리스 백엔드 개발용 통합 도구인 Dark의 언어 부분\n이제 런타임이 전체 비동기로 동작\n새로운 Worker 구현(기존엔 자체 큐에서 구글 PubSub 기반으로 변경)\n변수에 Lambda 넣기 가능. 에러 메시지 개선\n다양한 부분에서 성능 개선\n\n...",
+          "link": "https://news.hada.io/topic?id=6856",
+          "publishedOn": "2022-06-28T00:55:05.000Z",
+          "wordCount": 830,
+          "title": "Darklang Release 2 공개",
+          "imageUrl": "https://social.news.hada.io/topic/6856"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6855",
+          "author": null,
+          "description": "데이터의 벡터를 압축하고, 압축된 상태에서 직접 수학연산을 실행\n대규모의 밀도가 높은 벡터 컬렉션을 가지고 있고, 손실 압축을 견딜수 있다면\nC++로 구현, Python Wrapper 제공\nAVX2 명령어 지원 필수\n\n...",
+          "link": "https://news.hada.io/topic?id=6855",
+          "publishedOn": "2022-06-28T00:31:23.000Z",
+          "wordCount": 820,
+          "title": "Bolt - 10배 빠른 매트릭스 & 벡터 연산 알고리듬",
+          "imageUrl": "https://social.news.hada.io/topic/6855"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6854",
+          "author": null,
+          "description": "SQLite 내에서 .xlsx .xls .ods 파일을 열고 가상테이블로 쿼리 가능\n특정 워크 시트 선택, RANGE로 쿼리 범위 지정 가능\nRust로 작성된 SQLite 확장\nCREATE VIRTUAL TABLE class_data USING xlite(  \n    FILENAME './path/to/example.xlsx',  ...",
+          "link": "https://news.hada.io/topic?id=6854",
+          "publishedOn": "2022-06-28T00:17:54.000Z",
+          "wordCount": 846,
+          "title": "XLite - 엑셀 파일을 가상 테이블로 쿼리하는 SQLite 확장",
+          "imageUrl": "https://social.news.hada.io/topic/6854"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6853",
+          "author": null,
+          "description": "가볍고 빠름\n파일,이미지,텍스트 모두 지원\n최대 999개까지 히스토리 저장 및 퍼지 검색 가능\n키보드로 모든 동작 수행\n특정 어플리케이션에서 복사된 것 Ignore 처리\n네이티브 UI\nSwift 오픈소스\n\n...",
+          "link": "https://news.hada.io/topic?id=6853",
+          "publishedOn": "2022-06-28T00:03:55.000Z",
+          "wordCount": 848,
+          "title": "Maccy - 맥용 클립보드 매니저 오픈소스 앱",
+          "imageUrl": "https://social.news.hada.io/topic/6853"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6852",
+          "author": null,
+          "description": "안녕하세요 블록체인 개발자들을 위한 온라인 저지 사이트 Web3OJ를 개발하고 있는 일론입니다.\n최근 블록체인 개발자 수요가 많은데요, 블록체인 개발자로서 공부하기 좋은 사이트를 만들고 있습니다.\n블록체인 개발자로 커리어 전환에 생각이 있으시거나 이미 블록체인 개발을 하고 계신다면,",
+          "link": "https://news.hada.io/topic?id=6852",
+          "publishedOn": "2022-06-27T15:44:35.000Z",
+          "wordCount": 826,
+          "title": "Show GN: 블록체인 개발자를 위한 온라인 저지 사이트",
+          "imageUrl": "https://social.news.hada.io/topic/6852"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6851",
+          "author": null,
+          "description": "프레임워크와 라이브러리\n최대한 빠르게 온보딩 가능\n업그레이드 쉬움\n도움되는 에러 메시지\n강력한 기본값과 컨벤션\n기본 값 설정에서 탈출 가능하게 만들기\n종속성으로 위험 감소\n문서\n코드로 설명하기(예제 제공)\n...",
+          "link": "https://news.hada.io/topic?id=6851",
+          "publishedOn": "2022-06-27T02:27:46.000Z",
+          "wordCount": 852,
+          "title": "무엇이 훌륭한 개발자 경험(DX)을 만드는가?",
+          "imageUrl": "https://social.news.hada.io/topic/6851"
+        },
         {
           "id": "https://news.hada.io/topic?id=6850",
           "author": null,
@@ -185,7 +265,7 @@
           "description": "내가 갑자기 떠났을 때, 남겨진 사람들에게 내 정보를 전달하기 위해 정리할 내용들\n암호 : 2FA, 패스워드 관리자\n재무 정보 : 은행, 카드, 연금, 암호화폐 및 다른 재무 관련 서비스 정보들\n주요 문서들\n법률 문서들 : 유언장, 위임장",
           "link": "https://news.hada.io/topic?id=6849",
           "publishedOn": "2022-06-27T01:17:18.000Z",
-          "wordCount": 910,
+          "wordCount": 968,
           "title": "내가 죽었을 때를 위한 Cheat Sheet",
           "imageUrl": "https://social.news.hada.io/topic/6849"
         },
@@ -198,76 +278,6 @@
           "wordCount": 861,
           "title": "VirtualBuddy - 애플 실리콘에서 macOS 12+를 가상화하는 오픈소스",
           "imageUrl": "https://social.news.hada.io/topic/6848"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6847",
-          "author": null,
-          "description": "Virtual Power Plant (VPP)\nTesla Powerwall을 설치한 가정에서 전력 Grid에 연결하여, 전력이 부족한 위급상황에 자신의 배터리에 저장해둔 전력을 제공해주고 보상을 받는 프로그램\n파일롯 프로그램중에는 kWh당 $2의 보상 제공\nPG&E와 협업하여 캘리포니아의 Grid를 안정화 ...",
-          "link": "https://news.hada.io/topic?id=6847",
-          "publishedOn": "2022-06-27T00:53:32.000Z",
-          "wordCount": 822,
-          "title": "Tesla, 가상 발전소 서비스 공개",
-          "imageUrl": "https://social.news.hada.io/topic/6847"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6846",
-          "author": null,
-          "description": "Git을 사용하면서 겪는 문제들에 대한 해결책 설명\n뭔가 단단히 잘못됐는데, 다 뒤엎고 예전으로 돌리고 싶어!\n방금 커밋했는데 하나 깜빡한 걸 발견했어!\n커밋 메세지를 잘못 썼어!\n다른 브랜치에 커밋해야 하는 걸 실수로 master에 커밋해 버렸어!\n실수로 이상...",
-          "link": "https://news.hada.io/topic?id=6846",
-          "publishedOn": "2022-06-27T00:42:43.000Z",
-          "wordCount": 860,
-          "title": "Oh Shit, Git!?!",
-          "imageUrl": "https://social.news.hada.io/topic/6846"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6845",
-          "author": null,
-          "description": "RIGHT / FULL OUTER JOIN 지원\nPostgreSQL 및 SQL 호환을 위한 IS NOT DISTINCT FROM / IS DISTINCT FROM 연산자 추가\nsqlite3_vtab_distinct() 에 새로운 리턴코드 \"3\" 추가 (DISTINCT 이며 ORDER BY를 같이 있는 쿼리를 표시)\nsqlite3_db_name() 인터페이스 추가\n...",
-          "link": "https://news.hada.io/topic?id=6845",
-          "publishedOn": "2022-06-27T00:31:15.000Z",
-          "wordCount": 840,
-          "title": "SQLite 3.39.0 릴리즈",
-          "imageUrl": "https://social.news.hada.io/topic/6845"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6844",
-          "author": null,
-          "description": "Rust로 작성\n스마트 해슁, 자동 다운로드, 멀티 플랫폼, 리모트 캐슁(예정)\n종속성 관리를 위한 프로젝트 그래프, Dependency Workspace, 오너십 메타데이터\n여러대로 분산 빌드 지원\n모니터링 가능(웹훅)\n\n...",
-          "link": "https://news.hada.io/topic?id=6844",
-          "publishedOn": "2022-06-26T00:49:01.000Z",
-          "wordCount": 804,
-          "title": "moon - JavaScript를 위한 새로운 빌드 도구",
-          "imageUrl": "https://social.news.hada.io/topic/6844"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6843",
-          "author": null,
-          "description": "미술작품, 플러그인, 음악등의 디지털 콘텐츠를 간편하게 판매 가능\n클릭 3번으로 제품을 만들고 결제 및 배송(다운로드)까지\n맞춤형 화면 제작 가능\n항목당 최대 50GB 이미...",
-          "link": "https://news.hada.io/topic?id=6843",
-          "publishedOn": "2022-06-26T00:23:01.000Z",
-          "wordCount": 914,
-          "title": "Dropbox Shop 공개",
-          "imageUrl": "https://social.news.hada.io/topic/6843"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6842",
-          "author": null,
-          "description": "ML을 이용해서 오픈 소스 및 기존 작성한 코드와 코멘트(자연어)에 기반하여 자동 코드 추천\n함수 전체 및 코드 블록단위 까지 생성 가능\n여러 개의 추천코드 중에 선택 가능\nAWS API를 제대로 지원 → 'Upload a file to an S...",
-          "link": "https://news.hada.io/topic?id=6842",
-          "publishedOn": "2022-06-26T00:04:01.000Z",
-          "wordCount": 908,
-          "title": "Amazon CodeWhisperer 공개 - AI 프로그래밍 도우미",
-          "imageUrl": "https://social.news.hada.io/topic/6842"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6841",
-          "author": null,
-          "description": "장점:\n주위 사람이 많을 때, Starlink는 Vodafone과 T-Mobile에서 제공하는 일반 모바일 네트워크보다 최대 100배 빠름.\n언제든지 정지 가능. (정지된 뒤에 계속 사용가능하며, 다음달 자동 결제가 취소됨.)\n구매 대기 할 필요 없이 당장 사용 가능.\n예상보다 전력을 적게 사",
-          "link": "https://news.hada.io/topic?id=6841",
-          "publishedOn": "2022-06-25T17:58:35.000Z",
-          "wordCount": 878,
-          "title": "The Verge의 Starlink RV 리뷰",
-          "imageUrl": "https://social.news.hada.io/topic/6841"
         }
       ]
     },
