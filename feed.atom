@@ -1,10 +1,129 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-28T01:53:19.131Z</id>
+    <id>urn:2022-06-29T01:55:59.962Z</id>
     <title>osmos::feed</title>
-    <updated>2022-06-28T01:53:19.131Z</updated>
+    <updated>2022-06-29T01:55:59.962Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A Real Javascript Engine for MCU]]></title>
+        <id>https://news.hada.io/topic?id=6864</id>
+        <link href="https://news.hada.io/topic?id=6864"/>
+        <updated>2022-06-29T01:12:02.000Z</updated>
+        <summary type="html"><![CDATA[MCU에 Jerryscript를 포팅해서 Javascript로 MCU내부에서 동작하는 펌웨어 개발이 가능한 프로젝트
+
+많은 프로젝트들이 외부에서 컨트롤하는 형식 (http://johnny-five.io 같은 프로젝트) 으로 개발되고 있어서 Real Firmware라고 하기 힘듦
+이 프로젝트는 MCU에 JS 인터프리터와 함께 코드가...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microvium - 마이크로콘트롤러를 위한 JavaScript엔진]]></title>
+        <id>https://news.hada.io/topic?id=6863</id>
+        <link href="https://news.hada.io/topic?id=6863"/>
+        <updated>2022-06-29T00:56:09.000Z</updated>
+        <summary type="html"><![CDATA[8.5kB의 가장 작은 JS-like 엔진 : JS의 핵심 Subset 지원
+16kB ROM 및 300B RAM으로 실행하며, 16비트 기기에 최적화
+샌드박싱으로 안전
+소스코드나 컴파일된 바이너리를 배포하는게 아닌, 실행하는 VM의 스냅샷을 저장하고 그걸 타겟디바이스에서 restore 하는 형태로 배포하는 방...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엔지니어들이 면접에서 물어야 할 질문들]]></title>
+        <id>https://news.hada.io/topic?id=6862</id>
+        <link href="https://news.hada.io/topic?id=6862"/>
+        <updated>2022-06-29T00:42:45.000Z</updated>
+        <summary type="html"><![CDATA["이 질문들은 매우 직설적이긴 하지만, 이에 대해 좋지 않은 반응을 보이는 회사는 좋은 직장이 아닐 수 있습니다"
+이 회사는 Product-Market-Fit 한가요?
+PMF한지 자신에게 질문한 적이 있나요?
+PMF를 언제 달성했나요? 어떻게 아나요?
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iRedis - 인터랙티브 Redis 터미널 클라이언트]]></title>
+        <id>https://news.hada.io/topic?id=6861</id>
+        <link href="https://news.hada.io/topic?id=6861"/>
+        <updated>2022-06-29T00:28:46.000Z</updated>
+        <summary type="html"><![CDATA[자동 완성, 자동 추천 및 구문 강조 지원
+입력한 코맨드 검증 기능
+읽기 쉬운 결과 출력
+파이프라인 가능
+URL로 원격 Redis 연결 가능
+Python 오픈 소스
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Electron 으로 Windows 95 실행하기]]></title>
+        <id>https://news.hada.io/topic?id=6860</id>
+        <link href="https://news.hada.io/topic?id=6860"/>
+        <updated>2022-06-29T00:16:43.000Z</updated>
+        <summary type="html"><![CDATA[브라우저에서 자바스크립트로 x86을 에뮬레이트하는 v86 기반으로, 윈도우를 실행하게 만들어서 Electron으로 감싼 것
+맥(인텔/M1), 윈도우(32/64/ARM64), 리눅스(64/ARM64/ARMv7) 바이너리 제공
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DALL·E Mini]]></title>
+        <id>https://news.hada.io/topic?id=6859</id>
+        <link href="https://news.hada.io/topic?id=6859"/>
+        <updated>2022-06-29T00:01:23.000Z</updated>
+        <summary type="html"><![CDATA[텍스트에서 이미지를 생성하는 OpenAI DALL·E의 오픈소스 구현체
+VQGAN, BART, CLIP 등 기 훈련된 모델들을 적극 이용해서 비용을 줄이고 최적화해서 구현
+모델은 계속 훈련해서 개선 및 업데이트 중 ( DALL·E Mega)
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Help Shape the Future of CSS-Tricks!]]></title>
+        <id>https://css-tricks.com/?p=366554</id>
+        <link href="https://css-tricks.com/help-shape-the-future-of-css-tricks/"/>
+        <updated>2022-06-28T19:52:48.000Z</updated>
+        <summary type="html"><![CDATA[Hey, so it’s been a minute since we announced that CSS-Tricks is now part of the DigitalOcean family. Things are pretty much business as usual and hopefully it feels that way to you, too. Now that we’re getting settled, we’re …
+Help Shape the Future of CSS-Tricks! originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Dumbest CSS Mistakes]]></title>
+        <id>https://css-tricks.com/?p=366484</id>
+        <link href="https://css-tricks.com/my-dumbest-css-mistakes/"/>
+        <updated>2022-06-28T15:10:31.000Z</updated>
+        <summary type="html"><![CDATA[We all make mistakes in our code. It happens! I know if I had one of those “Days Since Last Mistake” signs hanging over my desk, a big ol’ goose egg would be hovering above me all the time. It …
+My Dumbest CSS Mistakes originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enclave - 따기 어려운 형태의 자물쇠]]></title>
+        <id>https://news.hada.io/topic?id=6858</id>
+        <link href="https://news.hada.io/topic?id=6858"/>
+        <updated>2022-06-28T01:36:36.000Z</updated>
+        <summary type="html"><![CDATA[기존 열쇠 삽입형 자물쇠의 문제는 키를 넣는 것과 그 키가 올바른지 테스트하는게 동시에 일어 난다는 것
+키 삽입과 테스트를 분리해서 공격이 어렵게 만든 새로운 형태의 자물쇠를 제안
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[iOS 16 UI Kit for Figma]]></title>
         <id>https://news.hada.io/topic?id=6857</id>
@@ -52,50 +171,6 @@ AVX2 명령어 지원 필수
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[XLite - 엑셀 파일을 가상 테이블로 쿼리하는 SQLite 확장]]></title>
-        <id>https://news.hada.io/topic?id=6854</id>
-        <link href="https://news.hada.io/topic?id=6854"/>
-        <updated>2022-06-28T00:17:54.000Z</updated>
-        <summary type="html"><![CDATA[SQLite 내에서 .xlsx .xls .ods 파일을 열고 가상테이블로 쿼리 가능
-특정 워크 시트 선택, RANGE로 쿼리 범위 지정 가능
-Rust로 작성된 SQLite 확장
-CREATE VIRTUAL TABLE class_data USING xlite(  
-    FILENAME './path/to/example.xlsx',  ...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maccy - 맥용 클립보드 매니저 오픈소스 앱]]></title>
-        <id>https://news.hada.io/topic?id=6853</id>
-        <link href="https://news.hada.io/topic?id=6853"/>
-        <updated>2022-06-28T00:03:55.000Z</updated>
-        <summary type="html"><![CDATA[가볍고 빠름
-파일,이미지,텍스트 모두 지원
-최대 999개까지 히스토리 저장 및 퍼지 검색 가능
-키보드로 모든 동작 수행
-특정 어플리케이션에서 복사된 것 Ignore 처리
-네이티브 UI
-Swift 오픈소스
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 블록체인 개발자를 위한 온라인 저지 사이트]]></title>
-        <id>https://news.hada.io/topic?id=6852</id>
-        <link href="https://news.hada.io/topic?id=6852"/>
-        <updated>2022-06-27T15:44:35.000Z</updated>
-        <summary type="html"><![CDATA[안녕하세요 블록체인 개발자들을 위한 온라인 저지 사이트 Web3OJ를 개발하고 있는 일론입니다.
-최근 블록체인 개발자 수요가 많은데요, 블록체인 개발자로서 공부하기 좋은 사이트를 만들고 있습니다.
-블록체인 개발자로 커리어 전환에 생각이 있으시거나 이미 블록체인 개발을 하고 계신다면,]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Great (and Free!) Web Development Books You Can Get Online]]></title>
         <id>https://css-tricks.com/?p=366468</id>
         <link href="https://css-tricks.com/web-development-books-you-can-get-for-free/"/>
@@ -104,70 +179,6 @@ Swift 오픈소스
 Great (and Free!) Web Development Books You Can Get Online originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Victor Adedokun</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무엇이 훌륭한 개발자 경험(DX)을 만드는가?]]></title>
-        <id>https://news.hada.io/topic?id=6851</id>
-        <link href="https://news.hada.io/topic?id=6851"/>
-        <updated>2022-06-27T02:27:46.000Z</updated>
-        <summary type="html"><![CDATA[프레임워크와 라이브러리
-최대한 빠르게 온보딩 가능
-업그레이드 쉬움
-도움되는 에러 메시지
-강력한 기본값과 컨벤션
-기본 값 설정에서 탈출 가능하게 만들기
-종속성으로 위험 감소
-문서
-코드로 설명하기(예제 제공)
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첫 창업자들이 펀드레이징에 대해 알아야할 것들]]></title>
-        <id>https://news.hada.io/topic?id=6850</id>
-        <link href="https://news.hada.io/topic?id=6850"/>
-        <updated>2022-06-27T01:33:34.000Z</updated>
-        <summary type="html"><![CDATA[펀드레이징은 주식을 '판매'하는 것 → 판매의 핵심은 구매과정에서 일어나는 '마찰'을 줄이는 것
-과정 중간에 정직할 것
-숫자를 숨기지 말 것
-약한 팀 멤버를 숨기지 말 것
-안좋은 것을 숨기지 말고 먼저 공유할 것
-덱(IR자료)부터 공]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내가 죽었을 때를 위한 Cheat Sheet]]></title>
-        <id>https://news.hada.io/topic?id=6849</id>
-        <link href="https://news.hada.io/topic?id=6849"/>
-        <updated>2022-06-27T01:17:18.000Z</updated>
-        <summary type="html"><![CDATA[내가 갑자기 떠났을 때, 남겨진 사람들에게 내 정보를 전달하기 위해 정리할 내용들
-암호 : 2FA, 패스워드 관리자
-재무 정보 : 은행, 카드, 연금, 암호화폐 및 다른 재무 관련 서비스 정보들
-주요 문서들
-법률 문서들 : 유언장, 위임장]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VirtualBuddy - 애플 실리콘에서 macOS 12+를 가상화하는 오픈소스]]></title>
-        <id>https://news.hada.io/topic?id=6848</id>
-        <link href="https://news.hada.io/topic?id=6848"/>
-        <updated>2022-06-27T01:06:46.000Z</updated>
-        <summary type="html"><![CDATA[macOS 12/13 (베타 포함) 여러 버전의 macOS에서 앱을 테스트하고 싶은 개발자를 위한 도구
-내장 설치 마법사 제공
-
-애플 서버에서 설치 이미지 선택
-로컬 IPSW 파일 또는 커스텀 URL
-리커버리 모드 부팅 가능(SIP 비활성화 등)
-네트워킹 및 파일 공유...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
     </entry>
     <entry>
@@ -430,19 +441,6 @@ The post MongoDB 5.0 Time Series appeared first on RastaLion's IT Blog.]]></summ
 How to Create Block Theme Patterns in WordPress 6.0 originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Ganesh Dahal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SPAs, Shared Element Transitions, and Re-Evaluating Technology]]></title>
-        <id>https://css-tricks.com/?p=366175</id>
-        <link href="https://css-tricks.com/spas-shared-element-transitions-and-re-evaluating-technology/"/>
-        <updated>2022-06-01T14:12:25.000Z</updated>
-        <summary type="html"><![CDATA[Nolan Lawson sparked some discussion when he described a noticeable shift away from single-page applications (SPAs):
-Hip new frameworks like Astro, Qwik, and Elder.js are touting their MPA [multi-page application] with “0kB JavaScript by default.” 
-…
-SPAs, Shared Element Transitions, and Re-Evaluating Technology originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>

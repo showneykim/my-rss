@@ -6,12 +6,32 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=366554",
+          "author": "Geoff Graham",
+          "description": "Hey, so it’s been a minute since we announced that CSS-Tricks is now part of the DigitalOcean family. Things are pretty much business as usual and hopefully it feels that way to you, too. Now that we’re getting settled, we’re …\nHelp Shape the Future of CSS-Tricks! originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/help-shape-the-future-of-css-tricks/",
+          "publishedOn": "2022-06-28T19:52:48.000Z",
+          "wordCount": 990,
+          "title": "Help Shape the Future of CSS-Tricks!",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366554"
+        },
+        {
+          "id": "https://css-tricks.com/?p=366484",
+          "author": "Geoff Graham",
+          "description": "We all make mistakes in our code. It happens! I know if I had one of those “Days Since Last Mistake” signs hanging over my desk, a big ol’ goose egg would be hovering above me all the time. It …\nMy Dumbest CSS Mistakes originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/my-dumbest-css-mistakes/",
+          "publishedOn": "2022-06-28T15:10:31.000Z",
+          "wordCount": 1553,
+          "title": "My Dumbest CSS Mistakes",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366484"
+        },
+        {
           "id": "https://css-tricks.com/?p=366468",
           "author": "Victor Adedokun",
           "description": "Right after “Where is the best place to learn?” perhaps the most commonly asked question I hear from folks getting into code is “What web development books should I get to learn?” Well, consider this an answer to that question …\nGreat (and Free!) Web Development Books You Can Get Online originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/web-development-books-you-can-get-for-free/",
           "publishedOn": "2022-06-27T13:27:49.000Z",
-          "wordCount": 3981,
+          "wordCount": 4001,
           "title": "Great (and Free!) Web Development Books You Can Get Online",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366468"
         },
@@ -21,7 +41,7 @@
           "description": "We’ve looked at spinners. We’ve looked at dots. Now we’re going to tackle another common pattern for loaders: bars. And we’re going to do the same thing in this third article of the series as we have the others …\nSingle Element Loaders: The Bars originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/single-element-loaders-the-bars/",
           "publishedOn": "2022-06-24T20:00:29.000Z",
-          "wordCount": 2429,
+          "wordCount": 2438,
           "title": "Single Element Loaders: The Bars",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366526"
         },
@@ -81,7 +101,7 @@
           "description": "Making CSS-only loaders is one of my favorite tasks. It’s always satisfying to look at those infinite animations. And, of course, there are lots of techniques and approaches to make them — no need to look further than CodePen to …\nSingle Element Loaders: The Spinner originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/single-element-loaders-the-spinner/",
           "publishedOn": "2022-06-10T14:26:06.000Z",
-          "wordCount": 2697,
+          "wordCount": 2700,
           "title": "Single Element Loaders: The Spinner",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366266"
         },
@@ -134,16 +154,6 @@
           "wordCount": 4472,
           "title": "How to Create Block Theme Patterns in WordPress 6.0",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365841"
-        },
-        {
-          "id": "https://css-tricks.com/?p=366175",
-          "author": "Geoff Graham",
-          "description": "Nolan Lawson sparked some discussion when he described a noticeable shift away from single-page applications (SPAs):\nHip new frameworks like Astro, Qwik, and Elder.js are touting their MPA [multi-page application] with “0kB JavaScript by default.” \n…\nSPAs, Shared Element Transitions, and Re-Evaluating Technology originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/spas-shared-element-transitions-and-re-evaluating-technology/",
-          "publishedOn": "2022-06-01T14:12:25.000Z",
-          "wordCount": 1275,
-          "title": "SPAs, Shared Element Transitions, and Re-Evaluating Technology",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366175"
         }
       ]
     },
@@ -158,7 +168,7 @@
           "description": "Aurora v1 EOL을 대처 하는 우리의 자세 (feat. MySQL 5.6) End of Life! 그렇게 EOL 입니다. MySQL 5.6을 기반으로 하는 AWS의 Aurora v1 버전의 EOL 소식이  들려오고 있습니다. AWS Aurora v1 EOL 소식 2023년 2월을...\nThe post Aurora v1 EOL을 대처 하는 우리의 자세 (feat. MySQL 5.6) appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/aurora-v1-eol%ec%9d%84-%eb%8c%80%ec%b2%98-%ed%95%98%eb%8a%94-%ec%9a%b0%eb%a6%ac%ec%9d%98-%ec%9e%90%ec%84%b8-feat-mysql-5-6/",
           "publishedOn": "2022-06-11T13:19:35.000Z",
-          "wordCount": 2100,
+          "wordCount": 2102,
           "title": "Aurora v1 EOL을 대처 하는 우리의 자세 (feat. MySQL 5.6)",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2019/04/mysql_PNG19-300x300.png"
         },
@@ -168,7 +178,7 @@
           "description": "MongoDB 5.0 Time Series MongoDB가 5.x 버전으로 릴리즈 되면서 추가된 유용한 기능 중에 하나가 바로 Time Series 컬렉션을 활용할 수 있다는 것 입니다. 쉽게 표현하면 시계열 데이터를 저장하는 기능인데 더 쉽게 표현하면 일정 시간...\nThe post MongoDB 5.0 Time Series appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/mongodb_timeseries/",
           "publishedOn": "2022-06-03T05:48:26.000Z",
-          "wordCount": 2066,
+          "wordCount": 2027,
           "title": "MongoDB 5.0 Time Series",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2020/04/37_2019081518484308.jpg"
         }
@@ -179,6 +189,76 @@
       "feedUrl": "https://news.hada.io/rss/news",
       "siteUrl": "https://news.hada.io",
       "articles": [
+        {
+          "id": "https://news.hada.io/topic?id=6864",
+          "author": null,
+          "description": "MCU에 Jerryscript를 포팅해서 Javascript로 MCU내부에서 동작하는 펌웨어 개발이 가능한 프로젝트\n\n많은 프로젝트들이 외부에서 컨트롤하는 형식 (http://johnny-five.io 같은 프로젝트) 으로 개발되고 있어서 Real Firmware라고 하기 힘듦\n이 프로젝트는 MCU에 JS 인터프리터와 함께 코드가...",
+          "link": "https://news.hada.io/topic?id=6864",
+          "publishedOn": "2022-06-29T01:12:02.000Z",
+          "wordCount": 875,
+          "title": "A Real Javascript Engine for MCU",
+          "imageUrl": "https://social.news.hada.io/topic/6864"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6863",
+          "author": null,
+          "description": "8.5kB의 가장 작은 JS-like 엔진 : JS의 핵심 Subset 지원\n16kB ROM 및 300B RAM으로 실행하며, 16비트 기기에 최적화\n샌드박싱으로 안전\n소스코드나 컴파일된 바이너리를 배포하는게 아닌, 실행하는 VM의 스냅샷을 저장하고 그걸 타겟디바이스에서 restore 하는 형태로 배포하는 방...",
+          "link": "https://news.hada.io/topic?id=6863",
+          "publishedOn": "2022-06-29T00:56:09.000Z",
+          "wordCount": 825,
+          "title": "Microvium - 마이크로콘트롤러를 위한 JavaScript엔진",
+          "imageUrl": "https://social.news.hada.io/topic/6863"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6862",
+          "author": null,
+          "description": "\"이 질문들은 매우 직설적이긴 하지만, 이에 대해 좋지 않은 반응을 보이는 회사는 좋은 직장이 아닐 수 있습니다\"\n이 회사는 Product-Market-Fit 한가요?\nPMF한지 자신에게 질문한 적이 있나요?\nPMF를 언제 달성했나요? 어떻게 아나요?\n...",
+          "link": "https://news.hada.io/topic?id=6862",
+          "publishedOn": "2022-06-29T00:42:45.000Z",
+          "wordCount": 978,
+          "title": "엔지니어들이 면접에서 물어야 할 질문들",
+          "imageUrl": "https://social.news.hada.io/topic/6862"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6861",
+          "author": null,
+          "description": "자동 완성, 자동 추천 및 구문 강조 지원\n입력한 코맨드 검증 기능\n읽기 쉬운 결과 출력\n파이프라인 가능\nURL로 원격 Redis 연결 가능\nPython 오픈 소스\n\n...",
+          "link": "https://news.hada.io/topic?id=6861",
+          "publishedOn": "2022-06-29T00:28:46.000Z",
+          "wordCount": 803,
+          "title": "iRedis - 인터랙티브 Redis 터미널 클라이언트",
+          "imageUrl": "https://social.news.hada.io/topic/6861"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6860",
+          "author": null,
+          "description": "브라우저에서 자바스크립트로 x86을 에뮬레이트하는 v86 기반으로, 윈도우를 실행하게 만들어서 Electron으로 감싼 것\n맥(인텔/M1), 윈도우(32/64/ARM64), 리눅스(64/ARM64/ARMv7) 바이너리 제공\n\n...",
+          "link": "https://news.hada.io/topic?id=6860",
+          "publishedOn": "2022-06-29T00:16:43.000Z",
+          "wordCount": 820,
+          "title": "Electron 으로 Windows 95 실행하기",
+          "imageUrl": "https://social.news.hada.io/topic/6860"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6859",
+          "author": null,
+          "description": "텍스트에서 이미지를 생성하는 OpenAI DALL·E의 오픈소스 구현체\nVQGAN, BART, CLIP 등 기 훈련된 모델들을 적극 이용해서 비용을 줄이고 최적화해서 구현\n모델은 계속 훈련해서 개선 및 업데이트 중 ( DALL·E Mega)\n\n...",
+          "link": "https://news.hada.io/topic?id=6859",
+          "publishedOn": "2022-06-29T00:01:23.000Z",
+          "wordCount": 832,
+          "title": "DALL·E Mini",
+          "imageUrl": "https://social.news.hada.io/topic/6859"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6858",
+          "author": null,
+          "description": "기존 열쇠 삽입형 자물쇠의 문제는 키를 넣는 것과 그 키가 올바른지 테스트하는게 동시에 일어 난다는 것\n키 삽입과 테스트를 분리해서 공격이 어렵게 만든 새로운 형태의 자물쇠를 제안\n\n...",
+          "link": "https://news.hada.io/topic?id=6858",
+          "publishedOn": "2022-06-28T01:36:36.000Z",
+          "wordCount": 902,
+          "title": "Enclave - 따기 어려운 형태의 자물쇠",
+          "imageUrl": "https://social.news.hada.io/topic/6858"
+        },
         {
           "id": "https://news.hada.io/topic?id=6857",
           "author": null,
@@ -208,76 +288,6 @@
           "wordCount": 820,
           "title": "Bolt - 10배 빠른 매트릭스 & 벡터 연산 알고리듬",
           "imageUrl": "https://social.news.hada.io/topic/6855"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6854",
-          "author": null,
-          "description": "SQLite 내에서 .xlsx .xls .ods 파일을 열고 가상테이블로 쿼리 가능\n특정 워크 시트 선택, RANGE로 쿼리 범위 지정 가능\nRust로 작성된 SQLite 확장\nCREATE VIRTUAL TABLE class_data USING xlite(  \n    FILENAME './path/to/example.xlsx',  ...",
-          "link": "https://news.hada.io/topic?id=6854",
-          "publishedOn": "2022-06-28T00:17:54.000Z",
-          "wordCount": 846,
-          "title": "XLite - 엑셀 파일을 가상 테이블로 쿼리하는 SQLite 확장",
-          "imageUrl": "https://social.news.hada.io/topic/6854"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6853",
-          "author": null,
-          "description": "가볍고 빠름\n파일,이미지,텍스트 모두 지원\n최대 999개까지 히스토리 저장 및 퍼지 검색 가능\n키보드로 모든 동작 수행\n특정 어플리케이션에서 복사된 것 Ignore 처리\n네이티브 UI\nSwift 오픈소스\n\n...",
-          "link": "https://news.hada.io/topic?id=6853",
-          "publishedOn": "2022-06-28T00:03:55.000Z",
-          "wordCount": 848,
-          "title": "Maccy - 맥용 클립보드 매니저 오픈소스 앱",
-          "imageUrl": "https://social.news.hada.io/topic/6853"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6852",
-          "author": null,
-          "description": "안녕하세요 블록체인 개발자들을 위한 온라인 저지 사이트 Web3OJ를 개발하고 있는 일론입니다.\n최근 블록체인 개발자 수요가 많은데요, 블록체인 개발자로서 공부하기 좋은 사이트를 만들고 있습니다.\n블록체인 개발자로 커리어 전환에 생각이 있으시거나 이미 블록체인 개발을 하고 계신다면,",
-          "link": "https://news.hada.io/topic?id=6852",
-          "publishedOn": "2022-06-27T15:44:35.000Z",
-          "wordCount": 826,
-          "title": "Show GN: 블록체인 개발자를 위한 온라인 저지 사이트",
-          "imageUrl": "https://social.news.hada.io/topic/6852"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6851",
-          "author": null,
-          "description": "프레임워크와 라이브러리\n최대한 빠르게 온보딩 가능\n업그레이드 쉬움\n도움되는 에러 메시지\n강력한 기본값과 컨벤션\n기본 값 설정에서 탈출 가능하게 만들기\n종속성으로 위험 감소\n문서\n코드로 설명하기(예제 제공)\n...",
-          "link": "https://news.hada.io/topic?id=6851",
-          "publishedOn": "2022-06-27T02:27:46.000Z",
-          "wordCount": 852,
-          "title": "무엇이 훌륭한 개발자 경험(DX)을 만드는가?",
-          "imageUrl": "https://social.news.hada.io/topic/6851"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6850",
-          "author": null,
-          "description": "펀드레이징은 주식을 '판매'하는 것 → 판매의 핵심은 구매과정에서 일어나는 '마찰'을 줄이는 것\n과정 중간에 정직할 것\n숫자를 숨기지 말 것\n약한 팀 멤버를 숨기지 말 것\n안좋은 것을 숨기지 말고 먼저 공유할 것\n덱(IR자료)부터 공",
-          "link": "https://news.hada.io/topic?id=6850",
-          "publishedOn": "2022-06-27T01:33:34.000Z",
-          "wordCount": 921,
-          "title": "첫 창업자들이 펀드레이징에 대해 알아야할 것들",
-          "imageUrl": "https://social.news.hada.io/topic/6850"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6849",
-          "author": null,
-          "description": "내가 갑자기 떠났을 때, 남겨진 사람들에게 내 정보를 전달하기 위해 정리할 내용들\n암호 : 2FA, 패스워드 관리자\n재무 정보 : 은행, 카드, 연금, 암호화폐 및 다른 재무 관련 서비스 정보들\n주요 문서들\n법률 문서들 : 유언장, 위임장",
-          "link": "https://news.hada.io/topic?id=6849",
-          "publishedOn": "2022-06-27T01:17:18.000Z",
-          "wordCount": 968,
-          "title": "내가 죽었을 때를 위한 Cheat Sheet",
-          "imageUrl": "https://social.news.hada.io/topic/6849"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6848",
-          "author": null,
-          "description": "macOS 12/13 (베타 포함) 여러 버전의 macOS에서 앱을 테스트하고 싶은 개발자를 위한 도구\n내장 설치 마법사 제공\n\n애플 서버에서 설치 이미지 선택\n로컬 IPSW 파일 또는 커스텀 URL\n리커버리 모드 부팅 가능(SIP 비활성화 등)\n네트워킹 및 파일 공유...",
-          "link": "https://news.hada.io/topic?id=6848",
-          "publishedOn": "2022-06-27T01:06:46.000Z",
-          "wordCount": 861,
-          "title": "VirtualBuddy - 애플 실리콘에서 macOS 12+를 가상화하는 오픈소스",
-          "imageUrl": "https://social.news.hada.io/topic/6848"
         }
       ]
     },
