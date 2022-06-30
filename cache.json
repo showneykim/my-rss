@@ -6,12 +6,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=366509",
+          "author": "Holger Sindbaek",
+          "description": "There is an abundance of both CSS and JavaScript libraries for animation libraries out there. So many, in fact, that choosing the right one for your project can seem impossible. That’s the situation I faced when I decided to build …\nHow I Chose an Animation Library for My Solitaire Game originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/choosing-an-animation-library-for-solitaire/",
+          "publishedOn": "2022-06-29T12:55:44.000Z",
+          "wordCount": 2705,
+          "title": "How I Chose an Animation Library for My Solitaire Game",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366509"
+        },
+        {
           "id": "https://css-tricks.com/?p=366554",
           "author": "Geoff Graham",
           "description": "Hey, so it’s been a minute since we announced that CSS-Tricks is now part of the DigitalOcean family. Things are pretty much business as usual and hopefully it feels that way to you, too. Now that we’re getting settled, we’re …\nHelp Shape the Future of CSS-Tricks! originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/help-shape-the-future-of-css-tricks/",
           "publishedOn": "2022-06-28T19:52:48.000Z",
-          "wordCount": 990,
+          "wordCount": 1068,
           "title": "Help Shape the Future of CSS-Tricks!",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366554"
         },
@@ -21,7 +31,7 @@
           "description": "We all make mistakes in our code. It happens! I know if I had one of those “Days Since Last Mistake” signs hanging over my desk, a big ol’ goose egg would be hovering above me all the time. It …\nMy Dumbest CSS Mistakes originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/my-dumbest-css-mistakes/",
           "publishedOn": "2022-06-28T15:10:31.000Z",
-          "wordCount": 1553,
+          "wordCount": 2148,
           "title": "My Dumbest CSS Mistakes",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366484"
         },
@@ -51,7 +61,7 @@
           "description": "We’re all familiar with the standard way of linking up a stylesheet to the <head> of an HTML doc, right? That’s just one of several ways we’re able to write CSS. But what does it look like to style things …\nDifferent Ways to Write CSS in React originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/different-ways-to-write-css-in-react/",
           "publishedOn": "2022-06-22T14:24:37.000Z",
-          "wordCount": 1947,
+          "wordCount": 2111,
           "title": "Different Ways to Write CSS in React",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366452"
         },
@@ -144,16 +154,6 @@
           "wordCount": 1318,
           "title": "Please Give Me Some Space",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366202"
-        },
-        {
-          "id": "https://css-tricks.com/?p=365841",
-          "author": "Ganesh Dahal",
-          "description": "Block patterns, also frequently referred to as sections, were introduced in WordPress 5.5 to allow users to build and share predefined block layouts in the pattern directory. The directory is the home of a wide range of …\nHow to Create Block Theme Patterns in WordPress 6.0 originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/how-to-create-block-theme-patterns-in-wordpress-6-0/",
-          "publishedOn": "2022-06-01T15:30:15.000Z",
-          "wordCount": 4472,
-          "title": "How to Create Block Theme Patterns in WordPress 6.0",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365841"
         }
       ]
     },
@@ -168,7 +168,7 @@
           "description": "Aurora v1 EOL을 대처 하는 우리의 자세 (feat. MySQL 5.6) End of Life! 그렇게 EOL 입니다. MySQL 5.6을 기반으로 하는 AWS의 Aurora v1 버전의 EOL 소식이  들려오고 있습니다. AWS Aurora v1 EOL 소식 2023년 2월을...\nThe post Aurora v1 EOL을 대처 하는 우리의 자세 (feat. MySQL 5.6) appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/aurora-v1-eol%ec%9d%84-%eb%8c%80%ec%b2%98-%ed%95%98%eb%8a%94-%ec%9a%b0%eb%a6%ac%ec%9d%98-%ec%9e%90%ec%84%b8-feat-mysql-5-6/",
           "publishedOn": "2022-06-11T13:19:35.000Z",
-          "wordCount": 2102,
+          "wordCount": 2097,
           "title": "Aurora v1 EOL을 대처 하는 우리의 자세 (feat. MySQL 5.6)",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2019/04/mysql_PNG19-300x300.png"
         },
@@ -178,7 +178,7 @@
           "description": "MongoDB 5.0 Time Series MongoDB가 5.x 버전으로 릴리즈 되면서 추가된 유용한 기능 중에 하나가 바로 Time Series 컬렉션을 활용할 수 있다는 것 입니다. 쉽게 표현하면 시계열 데이터를 저장하는 기능인데 더 쉽게 표현하면 일정 시간...\nThe post MongoDB 5.0 Time Series appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/mongodb_timeseries/",
           "publishedOn": "2022-06-03T05:48:26.000Z",
-          "wordCount": 2027,
+          "wordCount": 2029,
           "title": "MongoDB 5.0 Time Series",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2020/04/37_2019081518484308.jpg"
         }
@@ -189,6 +189,86 @@
       "feedUrl": "https://news.hada.io/rss/news",
       "siteUrl": "https://news.hada.io",
       "articles": [
+        {
+          "id": "https://news.hada.io/topic?id=6872",
+          "author": null,
+          "description": "Webflow와 비슷하지만 인프라를 위한 Low-Code 도구\n코드를 분석하여 AWS를 자동으로 설정\nTerraform 을 자동생성하고 GitHub에 양방향 싱크\nAWS 계정 연결하고, 드래그앤 드롭으로 인프라를 구성하고, 원 클릭 디플로이\n\n...",
+          "link": "https://news.hada.io/topic?id=6872",
+          "publishedOn": "2022-06-30T01:12:01.000Z",
+          "wordCount": 795,
+          "title": "OpsFlow - No-Code DevOps",
+          "imageUrl": "https://social.news.hada.io/topic/6872"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6871",
+          "author": null,
+          "description": "Web ARChive (.warc) 파일을 컬럼기반 Apache Parquet 포맷으로 변환해줌\nDuckDB에 Parquet을 로드해서 편하게 쿼리 가능\nRust 오픈소스\n\n...",
+          "link": "https://news.hada.io/topic?id=6871",
+          "publishedOn": "2022-06-30T00:52:01.000Z",
+          "wordCount": 826,
+          "title": "warc-parquet - WARC를 Parquet으로 변환하는 CLI",
+          "imageUrl": "https://social.news.hada.io/topic/6871"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6870",
+          "author": null,
+          "description": "DALL·E Mini에서 추론에 필요한 최소 필수 요소만 추출해서 PyTorch로 변환한 오픈소스\nnumpy / torch / flax 만 이용\n기존에 공개된 VQGan, DALL·E Mini, DALL·E Mega 모델 이용 가능\n\n...",
+          "link": "https://news.hada.io/topic?id=6870",
+          "publishedOn": "2022-06-30T00:38:01.000Z",
+          "wordCount": 795,
+          "title": "minimal DALL·E",
+          "imageUrl": "https://social.news.hada.io/topic/6870"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6869",
+          "author": null,
+          "description": "DNS서버는 종종 도메인명을 소문자로 변환해야 함\nBIND는 기존 DNS값을 보존해야 하기 때문에 좀 더 작업이 필요함\nSWAR를 tolower()에 적용해 보기로 함\nuint64_t 에 넣은 8개...",
+          "link": "https://news.hada.io/topic?id=6869",
+          "publishedOn": "2022-06-30T00:21:01.000Z",
+          "wordCount": 848,
+          "title": "대량의 tolower()를 빠르게 수행하기",
+          "imageUrl": "https://social.news.hada.io/topic/6869"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6868",
+          "author": null,
+          "description": "2023년 1월에 새로운 법인을 출범하고 501(c)(3) 비영리 단체로\n1994년에 처음 만들때는 호스팅 모델로 출범. 미국(MIT),일본(Keio),프랑스(Inria),중국(Beihang) 4개 파트너가 호스팅\n웹의 빠른 변화와 요구를 감당하기 위해 더 강력한 거버넌스가 필요하여 그 간의 경험을 바탕으로 새로운...",
+          "link": "https://news.hada.io/topic?id=6868",
+          "publishedOn": "2022-06-30T00:06:01.000Z",
+          "wordCount": 840,
+          "title": "W3C, 공익 비영리 단체로 변경",
+          "imageUrl": "https://social.news.hada.io/topic/6868"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6867",
+          "author": null,
+          "description": "Envoy의 창시자 Matt Klein이 작성한 글의 번역\nDevOps란 무엇인가\n인터넷 어플리케이션 운영의 역사\n왜 DevOps가 현대 인터넷 스타트업에서",
+          "link": "https://news.hada.io/topic?id=6867",
+          "publishedOn": "2022-06-29T04:17:09.000Z",
+          "wordCount": 869,
+          "title": "“DevOps”의 인적 확장 (The human scalability of “DevOps”)",
+          "imageUrl": "https://social.news.hada.io/topic/6867"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6866",
+          "author": null,
+          "description": "MVP는 시작일 뿐, 본질적 프로덕트 개선을 향한 무한질주\n\nMVP 아이디어로부터 22일째, 애플 세계 개발자 컨퍼런스 WWDC를 시청한 이후 감명을 받아 시작한 토이프로젝트였던 ApplePie Pro\n초기 버젼의 아이디어는 단순, 맥북을 쉽고 안전하게 팔 수 있는 장소 만들자.\n아이디어는 딱...",
+          "link": "https://news.hada.io/topic?id=6866",
+          "publishedOn": "2022-06-29T04:06:21.000Z",
+          "wordCount": 1399,
+          "title": "Show GN: ApplePie Pro 2.0 - Notion MVP였는데 토이 프로젝트가 아니라 진심 100%",
+          "imageUrl": "https://social.news.hada.io/topic/6866"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6865",
+          "author": null,
+          "description": "오픈 메타버스를 위한 무료 표준을 만들고, 다양한 활동을 하기 위해 모인 포럼\nMeta, Microsoft, Nvidia, Unity 를 비롯한 AR, VR, Game 관련 다수 업체들이 참여\nW3C, Khronos Group, OpenAR Cloud, Spatial Web 등 다른 단체들과 협동해서 만들어 나갈 것\n\n...",
+          "link": "https://news.hada.io/topic?id=6865",
+          "publishedOn": "2022-06-29T04:05:43.000Z",
+          "wordCount": 827,
+          "title": "Metaverse Standards Forum",
+          "imageUrl": "https://social.news.hada.io/topic/6865"
+        },
         {
           "id": "https://news.hada.io/topic?id=6864",
           "author": null,
@@ -208,86 +288,6 @@
           "wordCount": 825,
           "title": "Microvium - 마이크로콘트롤러를 위한 JavaScript엔진",
           "imageUrl": "https://social.news.hada.io/topic/6863"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6862",
-          "author": null,
-          "description": "\"이 질문들은 매우 직설적이긴 하지만, 이에 대해 좋지 않은 반응을 보이는 회사는 좋은 직장이 아닐 수 있습니다\"\n이 회사는 Product-Market-Fit 한가요?\nPMF한지 자신에게 질문한 적이 있나요?\nPMF를 언제 달성했나요? 어떻게 아나요?\n...",
-          "link": "https://news.hada.io/topic?id=6862",
-          "publishedOn": "2022-06-29T00:42:45.000Z",
-          "wordCount": 978,
-          "title": "엔지니어들이 면접에서 물어야 할 질문들",
-          "imageUrl": "https://social.news.hada.io/topic/6862"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6861",
-          "author": null,
-          "description": "자동 완성, 자동 추천 및 구문 강조 지원\n입력한 코맨드 검증 기능\n읽기 쉬운 결과 출력\n파이프라인 가능\nURL로 원격 Redis 연결 가능\nPython 오픈 소스\n\n...",
-          "link": "https://news.hada.io/topic?id=6861",
-          "publishedOn": "2022-06-29T00:28:46.000Z",
-          "wordCount": 803,
-          "title": "iRedis - 인터랙티브 Redis 터미널 클라이언트",
-          "imageUrl": "https://social.news.hada.io/topic/6861"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6860",
-          "author": null,
-          "description": "브라우저에서 자바스크립트로 x86을 에뮬레이트하는 v86 기반으로, 윈도우를 실행하게 만들어서 Electron으로 감싼 것\n맥(인텔/M1), 윈도우(32/64/ARM64), 리눅스(64/ARM64/ARMv7) 바이너리 제공\n\n...",
-          "link": "https://news.hada.io/topic?id=6860",
-          "publishedOn": "2022-06-29T00:16:43.000Z",
-          "wordCount": 820,
-          "title": "Electron 으로 Windows 95 실행하기",
-          "imageUrl": "https://social.news.hada.io/topic/6860"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6859",
-          "author": null,
-          "description": "텍스트에서 이미지를 생성하는 OpenAI DALL·E의 오픈소스 구현체\nVQGAN, BART, CLIP 등 기 훈련된 모델들을 적극 이용해서 비용을 줄이고 최적화해서 구현\n모델은 계속 훈련해서 개선 및 업데이트 중 ( DALL·E Mega)\n\n...",
-          "link": "https://news.hada.io/topic?id=6859",
-          "publishedOn": "2022-06-29T00:01:23.000Z",
-          "wordCount": 832,
-          "title": "DALL·E Mini",
-          "imageUrl": "https://social.news.hada.io/topic/6859"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6858",
-          "author": null,
-          "description": "기존 열쇠 삽입형 자물쇠의 문제는 키를 넣는 것과 그 키가 올바른지 테스트하는게 동시에 일어 난다는 것\n키 삽입과 테스트를 분리해서 공격이 어렵게 만든 새로운 형태의 자물쇠를 제안\n\n...",
-          "link": "https://news.hada.io/topic?id=6858",
-          "publishedOn": "2022-06-28T01:36:36.000Z",
-          "wordCount": 902,
-          "title": "Enclave - 따기 어려운 형태의 자물쇠",
-          "imageUrl": "https://social.news.hada.io/topic/6858"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6857",
-          "author": null,
-          "description": "수백개의 컴포넌트,템플릿,데모 포함\n최신 버전의 Auto Layout으로 작성\nComponent Properties, Variants 및 다크모드 지원\n이번 버전 부터는 유료로 구입하면 Loom 워크스루 및 데모, 이메일 업데이트도 제공(파일 자체는 유료/무료 동일)\n\n...",
-          "link": "https://news.hada.io/topic?id=6857",
-          "publishedOn": "2022-06-28T01:06:05.000Z",
-          "wordCount": 802,
-          "title": "iOS 16 UI Kit for Figma",
-          "imageUrl": "https://social.news.hada.io/topic/6857"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6856",
-          "author": null,
-          "description": "서버리스 백엔드 개발용 통합 도구인 Dark의 언어 부분\n이제 런타임이 전체 비동기로 동작\n새로운 Worker 구현(기존엔 자체 큐에서 구글 PubSub 기반으로 변경)\n변수에 Lambda 넣기 가능. 에러 메시지 개선\n다양한 부분에서 성능 개선\n\n...",
-          "link": "https://news.hada.io/topic?id=6856",
-          "publishedOn": "2022-06-28T00:55:05.000Z",
-          "wordCount": 830,
-          "title": "Darklang Release 2 공개",
-          "imageUrl": "https://social.news.hada.io/topic/6856"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6855",
-          "author": null,
-          "description": "데이터의 벡터를 압축하고, 압축된 상태에서 직접 수학연산을 실행\n대규모의 밀도가 높은 벡터 컬렉션을 가지고 있고, 손실 압축을 견딜수 있다면\nC++로 구현, Python Wrapper 제공\nAVX2 명령어 지원 필수\n\n...",
-          "link": "https://news.hada.io/topic?id=6855",
-          "publishedOn": "2022-06-28T00:31:23.000Z",
-          "wordCount": 820,
-          "title": "Bolt - 10배 빠른 매트릭스 & 벡터 연산 알고리듬",
-          "imageUrl": "https://social.news.hada.io/topic/6855"
         }
       ]
     },
