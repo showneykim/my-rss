@@ -1,10 +1,140 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-30T01:59:07.131Z</id>
+    <id>urn:2022-07-01T02:05:21.336Z</id>
     <title>osmos::feed</title>
-    <updated>2022-06-30T01:59:07.131Z</updated>
+    <updated>2022-07-01T02:05:21.336Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[20년 된 Atlassian은 아직 수익이 없음 - 시장의 평가는 틀렸다]]></title>
+        <id>https://news.hada.io/topic?id=6880</id>
+        <link href="https://news.hada.io/topic?id=6880"/>
+        <updated>2022-07-01T01:50:10.000Z</updated>
+        <summary type="html"><![CDATA[호주 회사로서 최고 가치에 이른 아틀라시안은 2021년 피크때 $162b 였음
+큰 투자를 받지 않았기에 공동창업자 둘이 아직도 각각 21%씩 지분을 보유중
+작년에 둘은 순자산 $70b가 넘는 호주 최고의 부자였음. (또한 Canva에 투자한 것으로도 몇조를 벌었음)
+하지만 최근 기술업계의...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=6879</id>
+        <link href="https://news.hada.io/topic?id=6879"/>
+        <updated>2022-07-01T01:17:03.000Z</updated>
+        <summary type="html"><![CDATA[이번 주말에 뭘 하려고 계획 중인지 편하게 얘기해 보아요.
+읽을 책, 가볼 곳, 해볼 것.. 어떤 것이든 좋습니다.
+지난 주말에 계획하셨던 일의 회고도 한번 남겨봐 주세요.]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스타트업은 유치원이 아닙니다]]></title>
+        <id>https://news.hada.io/topic?id=6878</id>
+        <link href="https://news.hada.io/topic?id=6878"/>
+        <updated>2022-07-01T01:15:50.000Z</updated>
+        <summary type="html"><![CDATA[실제 의미가 뭔지 불분명한 영어 단어 사용을 줄이자: “미스커뮤니케이션", “ASAP”, “팔로우업” 등
+무의미한 관용구를 줄이자: "점심 맛있게 드셨나요~”, “안녕하세요~” 등
+과잉된 감정을 표현하는 이모티콘을 줄이자: 🙏, 😊 등
+“내가 듣기 싫은 말”이라는 이...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HN은 어떻게 중단없이 운영되나요?]]></title>
+        <id>https://news.hada.io/topic?id=6877</id>
+        <link href="https://news.hada.io/topic?id=6877"/>
+        <updated>2022-07-01T00:49:26.000Z</updated>
+        <summary type="html"><![CDATA[Master & Standby 2대의 머신으로 M5에서 호스팅중
+HN전체는 한대의 머신으로 동작 : 인텔 Xeon E5-2637 v4 @ 3.50GHz + FreeBSD/SMP, 미러링된 Data용 SSD/Log용 자기테이프(UFS)
+DB 사용하지 않고, Ad-hoc 파일시스템 기반
+Lisp 방언인 Arc(존 그레이엄이 만든)로 개발됨...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arm, 차세대 플래그십 코어 Cortex-X3 공개]]></title>
+        <id>https://news.hada.io/topic?id=6876</id>
+        <link href="https://news.hada.io/topic?id=6876"/>
+        <updated>2022-07-01T00:31:16.000Z</updated>
+        <summary type="html"><![CDATA[성능면에서 11%의 IPC 향상
+시스템 수준에서는 다른 모든 변경사항을 포함하면, 애플리케이션에서 최대 22% 높은 성능을 제공
+32bit를 제거하고 64bit ISA 전용으로 최적화
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10년간 가짜 러시아 역사를 중국어 위키피디아에 적은 중국인의 행위가 발각]]></title>
+        <id>https://news.hada.io/topic?id=6875</id>
+        <link href="https://news.hada.io/topic?id=6875"/>
+        <updated>2022-07-01T00:04:32.000Z</updated>
+        <summary type="html"><![CDATA[영어/러시아 버전보다 훨씬 상세한 중국어 위키백과 항목을 발견
+실제 역사적 인물과 섞여 있어서 진짜와 가짜 구분이 어려움
+2010년부터 청나라와 러시아의 역사를 위조하기 위해 4개의 가짜 계정을 이용
+206개의 토픽을 생성하고, 수백개의 토픽을 수정하여 수백만단어의 가짜 러...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple, 대한민국 App Store에서 외부 결제 옵션 허용]]></title>
+        <id>https://news.hada.io/topic?id=6874</id>
+        <link href="https://news.hada.io/topic?id=6874"/>
+        <updated>2022-06-30T23:46:05.000Z</updated>
+        <summary type="html"><![CDATA[대한민국의 전기통신사업법 규정에 따라, 대체 앱 내 결제 처리 옵션(IAP)를 지원
+수수료는 26%
+외부 구입 권한 신청서를 작성해서 제출해야함
+사전 승인 결제 사업자 : KCP, Inicis, Toss, NICE
+한국 앱스토어에서만 허용됨
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bunny Fonts]]></title>
+        <id>https://css-tricks.com/?p=366605</id>
+        <link href="https://css-tricks.com/bunny-fonts/"/>
+        <updated>2022-06-30T17:28:57.000Z</updated>
+        <summary type="html"><![CDATA[Bunny Fonts bills itself as the “privacy-first web font platform designed to put privacy back into the internet.”According to its FAQ:
+With a zero-tracking and no-logging policy, Bunny Fonts helps you stay fully GDPR compliant and puts your user’s personal 
+…
+Bunny Fonts originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Text-overflow: ellipsis considered harmful]]></title>
+        <id>https://css-tricks.com/?p=366557</id>
+        <link href="https://css-tricks.com/text-overflow-ellipsis-considered-harmful/"/>
+        <updated>2022-06-30T13:38:16.000Z</updated>
+        <summary type="html"><![CDATA[Eric Eggert:
+There are a few legitimate use cases for this technique. For example, you might have a table with titles and descriptions. To preserve more space for the title, you constrain the description to one line on small 
+…
+Text-overflow: ellipsis considered harmful originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 오픈 스타트업에 대해 어떻게 생각하세요?]]></title>
+        <id>https://news.hada.io/topic?id=6873</id>
+        <link href="https://news.hada.io/topic?id=6873"/>
+        <updated>2022-06-30T03:56:59.000Z</updated>
+        <summary type="html"><![CDATA[원본 토픽: https://community.applepie.pro/t/topic/31
+한 달에 하나의 프로덕트를 만들고 1년에 12개의 프로덕트를 만드는 챌린지를 진행한 연쇄 프로덕트 메이커 Peter Levels는 본인의 웹사이트 내에 모든 수익과 관련된 통계, 모든 비용과 관련된 통계, 탄소 배출량, 일일 커밋, 사이트 유입 수단 등을 한...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpsFlow - No-Code DevOps]]></title>
         <id>https://news.hada.io/topic?id=6872</id>
@@ -35,45 +165,6 @@ Rust 오픈소스
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[minimal DALL·E]]></title>
-        <id>https://news.hada.io/topic?id=6870</id>
-        <link href="https://news.hada.io/topic?id=6870"/>
-        <updated>2022-06-30T00:38:01.000Z</updated>
-        <summary type="html"><![CDATA[DALL·E Mini에서 추론에 필요한 최소 필수 요소만 추출해서 PyTorch로 변환한 오픈소스
-numpy / torch / flax 만 이용
-기존에 공개된 VQGan, DALL·E Mini, DALL·E Mega 모델 이용 가능
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대량의 tolower()를 빠르게 수행하기]]></title>
-        <id>https://news.hada.io/topic?id=6869</id>
-        <link href="https://news.hada.io/topic?id=6869"/>
-        <updated>2022-06-30T00:21:01.000Z</updated>
-        <summary type="html"><![CDATA[DNS서버는 종종 도메인명을 소문자로 변환해야 함
-BIND는 기존 DNS값을 보존해야 하기 때문에 좀 더 작업이 필요함
-SWAR를 tolower()에 적용해 보기로 함
-uint64_t 에 넣은 8개...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[W3C, 공익 비영리 단체로 변경]]></title>
-        <id>https://news.hada.io/topic?id=6868</id>
-        <link href="https://news.hada.io/topic?id=6868"/>
-        <updated>2022-06-30T00:06:01.000Z</updated>
-        <summary type="html"><![CDATA[2023년 1월에 새로운 법인을 출범하고 501(c)(3) 비영리 단체로
-1994년에 처음 만들때는 호스팅 모델로 출범. 미국(MIT),일본(Keio),프랑스(Inria),중국(Beihang) 4개 파트너가 호스팅
-웹의 빠른 변화와 요구를 감당하기 위해 더 강력한 거버넌스가 필요하여 그 간의 경험을 바탕으로 새로운...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How I Chose an Animation Library for My Solitaire Game]]></title>
         <id>https://css-tricks.com/?p=366509</id>
         <link href="https://css-tricks.com/choosing-an-animation-library-for-solitaire/"/>
@@ -82,73 +173,6 @@ uint64_t 에 넣은 8개...]]></summary>
 How I Chose an Animation Library for My Solitaire Game originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Holger Sindbaek</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“DevOps”의 인적 확장 (The human scalability of “DevOps”)]]></title>
-        <id>https://news.hada.io/topic?id=6867</id>
-        <link href="https://news.hada.io/topic?id=6867"/>
-        <updated>2022-06-29T04:17:09.000Z</updated>
-        <summary type="html"><![CDATA[Envoy의 창시자 Matt Klein이 작성한 글의 번역
-DevOps란 무엇인가
-인터넷 어플리케이션 운영의 역사
-왜 DevOps가 현대 인터넷 스타트업에서]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: ApplePie Pro 2.0 - Notion MVP였는데 토이 프로젝트가 아니라 진심 100%]]></title>
-        <id>https://news.hada.io/topic?id=6866</id>
-        <link href="https://news.hada.io/topic?id=6866"/>
-        <updated>2022-06-29T04:06:21.000Z</updated>
-        <summary type="html"><![CDATA[MVP는 시작일 뿐, 본질적 프로덕트 개선을 향한 무한질주
-
-MVP 아이디어로부터 22일째, 애플 세계 개발자 컨퍼런스 WWDC를 시청한 이후 감명을 받아 시작한 토이프로젝트였던 ApplePie Pro
-초기 버젼의 아이디어는 단순, 맥북을 쉽고 안전하게 팔 수 있는 장소 만들자.
-아이디어는 딱...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Metaverse Standards Forum]]></title>
-        <id>https://news.hada.io/topic?id=6865</id>
-        <link href="https://news.hada.io/topic?id=6865"/>
-        <updated>2022-06-29T04:05:43.000Z</updated>
-        <summary type="html"><![CDATA[오픈 메타버스를 위한 무료 표준을 만들고, 다양한 활동을 하기 위해 모인 포럼
-Meta, Microsoft, Nvidia, Unity 를 비롯한 AR, VR, Game 관련 다수 업체들이 참여
-W3C, Khronos Group, OpenAR Cloud, Spatial Web 등 다른 단체들과 협동해서 만들어 나갈 것
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Real Javascript Engine for MCU]]></title>
-        <id>https://news.hada.io/topic?id=6864</id>
-        <link href="https://news.hada.io/topic?id=6864"/>
-        <updated>2022-06-29T01:12:02.000Z</updated>
-        <summary type="html"><![CDATA[MCU에 Jerryscript를 포팅해서 Javascript로 MCU내부에서 동작하는 펌웨어 개발이 가능한 프로젝트
-
-많은 프로젝트들이 외부에서 컨트롤하는 형식 (http://johnny-five.io 같은 프로젝트) 으로 개발되고 있어서 Real Firmware라고 하기 힘듦
-이 프로젝트는 MCU에 JS 인터프리터와 함께 코드가...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microvium - 마이크로콘트롤러를 위한 JavaScript엔진]]></title>
-        <id>https://news.hada.io/topic?id=6863</id>
-        <link href="https://news.hada.io/topic?id=6863"/>
-        <updated>2022-06-29T00:56:09.000Z</updated>
-        <summary type="html"><![CDATA[8.5kB의 가장 작은 JS-like 엔진 : JS의 핵심 Subset 지원
-16kB ROM 및 300B RAM으로 실행하며, 16비트 기기에 최적화
-샌드박싱으로 안전
-소스코드나 컴파일된 바이너리를 배포하는게 아닌, 실행하는 VM의 스냅샷을 저장하고 그걸 타겟디바이스에서 restore 하는 형태로 배포하는 방...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
     </entry>
     <entry>
@@ -330,17 +354,6 @@ Let’s Make a QR Code Generator With a Serverless Function! originally publishe
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building Interoperable Web Components That Even Work With React]]></title>
-        <id>https://css-tricks.com/?p=366222</id>
-        <link href="https://css-tricks.com/building-interoperable-web-components-react/"/>
-        <updated>2022-06-07T13:57:57.000Z</updated>
-        <summary type="html"><![CDATA[Those of us who’ve been web developers more than a few years have probably written code using more than one JavaScript framework. With all the choices out there — React, Svelte, Vue, Angular, Solid — it’s all but inevitable. One …
-Building Interoperable Web Components That Even Work With React originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Adam Rackis</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[IntelliJ (Kotlin) 매 파일마다 newline 자동으로 추가하기 (feat. EditorConfig)]]></title>
         <id>https://jojoldu.tistory.com/673</id>
         <link href="https://jojoldu.tistory.com/673"/>
@@ -411,20 +424,6 @@ disabled_rules=import-ordering
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Please Give Me Some Space]]></title>
-        <id>https://css-tricks.com/?p=366202</id>
-        <link href="https://css-tricks.com/please-give-me-some-space/"/>
-        <updated>2022-06-03T14:39:11.000Z</updated>
-        <summary type="html"><![CDATA[There’s all kinds of ways to do that. Some more advisable and better-suited for certain situations than others, of course.
-We could do it directly in HTML:
-<pWe go from one line...<br<brdown a couple more.</p
-But that’s …
-Please Give Me Some Space originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[MongoDB 5.0 Time Series]]></title>
         <id>https://rastalion.me/?p=2535</id>
         <link href="https://rastalion.me/mongodb_timeseries/"/>
@@ -433,51 +432,6 @@ Please Give Me Some Space originally published on CSS-Tricks. You should get the
 The post MongoDB 5.0 Time Series appeared first on RastaLion's IT Blog.]]></summary>
         <author>
             <name>Rasta Lion</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[현실 세계의 속성에 의존하지 않기]]></title>
-        <id>https://jojoldu.tistory.com/672</id>
-        <link href="https://jojoldu.tistory.com/672"/>
-        <updated>2022-05-31T14:19:23.000Z</updated>
-        <summary type="html"><![CDATA[반응형
-
-                    
-                    (adsbygoogle = window.adsbygoogle || []).push({}); 
-               
-
-
-최근에 들었던 질문 중 현실 세계의 식별자를 데이터베이스 기본키로 써도 되냐는 것이 있었다. 
-이를테면 현실 세계에서 유일함을 보장하는 값들이다.
-주민 등록 번호
-전화 번호
-여권 번호
-이들을 데이터베이스의 기본키 (PK) 로 지정해서 쓰는게 어떤가 하는 것이다.
-최근의 ORM 예제들을 보면 auto_increment 혹은 uuid 등 개발자가 직접 생성한 기본키을 지정하는데, 왜 그렇게 하는지 모르겠다는 이야기도 들었다.
-(나 뿐만 아니라 여러 개발자분들이 같은 생각을 하실것 같은데) 기본키는 절대 바뀌지 않아야 한다.
-기본키를 수정하는 것은 항상 많은 문제를 일으킨다. 
-대부분의 기본키가 여러 테이블의 FK와 인덱스로 지정되어 사용되기 때문이다.
-더군다나 위와 같이 현실 세계의 값들은 사용자들이 직접 입력한 값일 경우가 많다.
-입력된 값에 오타가 있으면 어떻게 될까? 
-이미 그 값은 PK와 여러 테이블의 FK로 사용되고 있다면, 그 오타를 수정하기 위해 얼마나 많은 비용이 들까? 
-기본키를 수정 하기 위해서는 너무나 큰 비용이 든다.
-그래서 기본키는 절대 변경되지 않는 속성을 사용해야만 한다. 
-하지만 현실 세계의 속성은 변경을 내가 제어할 수가 없다. 
-주민 등록 번호, 전화 번호, 여권 번호 등 현실 세계의 값들은 상황에 따라 언제든 변경 될 수 있다.
-실제로 2014년에 주민등록번호 수집이 금지되었다.
-
-그전까지 주민등록번호를 기본키로 갖고 있던 곳들은 호되게 혼났던 것을 듣기도 했다.
-흔히 견고한 소프트웨어를 위해서는 코드가 외부에 의존해서는 안된다고 한다. 
-현실 세계의 값을 기본키로 사용하는 것은 외부에 의존하는 것이다.
-현실 세계의 변화와 시스템간의 결합도를 줄여야 한다. 
-내가 제어할 수 없는 값에 시스템이 의존해서는 안된다.
-            
-반응형
-
-                    
-                    (adsbygoogle = window.adsbygoogle || []).push({});]]></summary>
-        <author>
-            <name>향로</name>
         </author>
     </entry>
 </feed>

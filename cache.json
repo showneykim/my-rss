@@ -6,6 +6,26 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=366605",
+          "author": "Geoff Graham",
+          "description": "Bunny Fonts bills itself as the “privacy-first web font platform designed to put privacy back into the internet.”According to its FAQ:\nWith a zero-tracking and no-logging policy, Bunny Fonts helps you stay fully GDPR compliant and puts your user’s personal \n…\nBunny Fonts originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/bunny-fonts/",
+          "publishedOn": "2022-06-30T17:28:57.000Z",
+          "wordCount": 1091,
+          "title": "Bunny Fonts",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366605"
+        },
+        {
+          "id": "https://css-tricks.com/?p=366557",
+          "author": "Geoff Graham",
+          "description": "Eric Eggert:\nThere are a few legitimate use cases for this technique. For example, you might have a table with titles and descriptions. To preserve more space for the title, you constrain the description to one line on small \n…\nText-overflow: ellipsis considered harmful originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/text-overflow-ellipsis-considered-harmful/",
+          "publishedOn": "2022-06-30T13:38:16.000Z",
+          "wordCount": 1241,
+          "title": "Text-overflow: ellipsis considered harmful",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366557"
+        },
+        {
           "id": "https://css-tricks.com/?p=366509",
           "author": "Holger Sindbaek",
           "description": "There is an abundance of both CSS and JavaScript libraries for animation libraries out there. So many, in fact, that choosing the right one for your project can seem impossible. That’s the situation I faced when I decided to build …\nHow I Chose an Animation Library for My Solitaire Game originally published on CSS-Tricks. You should get the newsletter.",
@@ -21,7 +41,7 @@
           "description": "Hey, so it’s been a minute since we announced that CSS-Tricks is now part of the DigitalOcean family. Things are pretty much business as usual and hopefully it feels that way to you, too. Now that we’re getting settled, we’re …\nHelp Shape the Future of CSS-Tricks! originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/help-shape-the-future-of-css-tricks/",
           "publishedOn": "2022-06-28T19:52:48.000Z",
-          "wordCount": 1068,
+          "wordCount": 1128,
           "title": "Help Shape the Future of CSS-Tricks!",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366554"
         },
@@ -31,7 +51,7 @@
           "description": "We all make mistakes in our code. It happens! I know if I had one of those “Days Since Last Mistake” signs hanging over my desk, a big ol’ goose egg would be hovering above me all the time. It …\nMy Dumbest CSS Mistakes originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/my-dumbest-css-mistakes/",
           "publishedOn": "2022-06-28T15:10:31.000Z",
-          "wordCount": 2148,
+          "wordCount": 2361,
           "title": "My Dumbest CSS Mistakes",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366484"
         },
@@ -41,7 +61,7 @@
           "description": "Right after “Where is the best place to learn?” perhaps the most commonly asked question I hear from folks getting into code is “What web development books should I get to learn?” Well, consider this an answer to that question …\nGreat (and Free!) Web Development Books You Can Get Online originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/web-development-books-you-can-get-for-free/",
           "publishedOn": "2022-06-27T13:27:49.000Z",
-          "wordCount": 4001,
+          "wordCount": 4035,
           "title": "Great (and Free!) Web Development Books You Can Get Online",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366468"
         },
@@ -134,26 +154,6 @@
           "wordCount": 1519,
           "title": "Let’s Make a QR Code Generator With a Serverless Function!",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366147"
-        },
-        {
-          "id": "https://css-tricks.com/?p=366222",
-          "author": "Adam Rackis",
-          "description": "Those of us who’ve been web developers more than a few years have probably written code using more than one JavaScript framework. With all the choices out there — React, Svelte, Vue, Angular, Solid — it’s all but inevitable. One …\nBuilding Interoperable Web Components That Even Work With React originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/building-interoperable-web-components-react/",
-          "publishedOn": "2022-06-07T13:57:57.000Z",
-          "wordCount": 4554,
-          "title": "Building Interoperable Web Components That Even Work With React",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366222"
-        },
-        {
-          "id": "https://css-tricks.com/?p=366202",
-          "author": "Geoff Graham",
-          "description": "There’s all kinds of ways to do that. Some more advisable and better-suited for certain situations than others, of course.\nWe could do it directly in HTML:\n<pWe go from one line...<br<brdown a couple more.</p\nBut that’s …\nPlease Give Me Some Space originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/please-give-me-some-space/",
-          "publishedOn": "2022-06-03T14:39:11.000Z",
-          "wordCount": 1318,
-          "title": "Please Give Me Some Space",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366202"
         }
       ]
     },
@@ -168,7 +168,7 @@
           "description": "Aurora v1 EOL을 대처 하는 우리의 자세 (feat. MySQL 5.6) End of Life! 그렇게 EOL 입니다. MySQL 5.6을 기반으로 하는 AWS의 Aurora v1 버전의 EOL 소식이  들려오고 있습니다. AWS Aurora v1 EOL 소식 2023년 2월을...\nThe post Aurora v1 EOL을 대처 하는 우리의 자세 (feat. MySQL 5.6) appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/aurora-v1-eol%ec%9d%84-%eb%8c%80%ec%b2%98-%ed%95%98%eb%8a%94-%ec%9a%b0%eb%a6%ac%ec%9d%98-%ec%9e%90%ec%84%b8-feat-mysql-5-6/",
           "publishedOn": "2022-06-11T13:19:35.000Z",
-          "wordCount": 2097,
+          "wordCount": 2101,
           "title": "Aurora v1 EOL을 대처 하는 우리의 자세 (feat. MySQL 5.6)",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2019/04/mysql_PNG19-300x300.png"
         },
@@ -178,7 +178,7 @@
           "description": "MongoDB 5.0 Time Series MongoDB가 5.x 버전으로 릴리즈 되면서 추가된 유용한 기능 중에 하나가 바로 Time Series 컬렉션을 활용할 수 있다는 것 입니다. 쉽게 표현하면 시계열 데이터를 저장하는 기능인데 더 쉽게 표현하면 일정 시간...\nThe post MongoDB 5.0 Time Series appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/mongodb_timeseries/",
           "publishedOn": "2022-06-03T05:48:26.000Z",
-          "wordCount": 2029,
+          "wordCount": 2028,
           "title": "MongoDB 5.0 Time Series",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2020/04/37_2019081518484308.jpg"
         }
@@ -189,6 +189,86 @@
       "feedUrl": "https://news.hada.io/rss/news",
       "siteUrl": "https://news.hada.io",
       "articles": [
+        {
+          "id": "https://news.hada.io/topic?id=6880",
+          "author": null,
+          "description": "호주 회사로서 최고 가치에 이른 아틀라시안은 2021년 피크때 $162b 였음\n큰 투자를 받지 않았기에 공동창업자 둘이 아직도 각각 21%씩 지분을 보유중\n작년에 둘은 순자산 $70b가 넘는 호주 최고의 부자였음. (또한 Canva에 투자한 것으로도 몇조를 벌었음)\n하지만 최근 기술업계의...",
+          "link": "https://news.hada.io/topic?id=6880",
+          "publishedOn": "2022-07-01T01:50:10.000Z",
+          "wordCount": 1282,
+          "title": "20년 된 Atlassian은 아직 수익이 없음 - 시장의 평가는 틀렸다",
+          "imageUrl": "https://social.news.hada.io/topic/6880"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6879",
+          "author": null,
+          "description": "이번 주말에 뭘 하려고 계획 중인지 편하게 얘기해 보아요.\n읽을 책, 가볼 곳, 해볼 것.. 어떤 것이든 좋습니다.\n지난 주말에 계획하셨던 일의 회고도 한번 남겨봐 주세요.",
+          "link": "https://news.hada.io/topic?id=6879",
+          "publishedOn": "2022-07-01T01:17:03.000Z",
+          "wordCount": 816,
+          "title": "Ask GN: 이번 주말에 뭐 하시나요?",
+          "imageUrl": "https://social.news.hada.io/topic/6879"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6878",
+          "author": null,
+          "description": "실제 의미가 뭔지 불분명한 영어 단어 사용을 줄이자: “미스커뮤니케이션\", “ASAP”, “팔로우업” 등\n무의미한 관용구를 줄이자: \"점심 맛있게 드셨나요~”, “안녕하세요~” 등\n과잉된 감정을 표현하는 이모티콘을 줄이자: 🙏, 😊 등\n“내가 듣기 싫은 말”이라는 이...",
+          "link": "https://news.hada.io/topic?id=6878",
+          "publishedOn": "2022-07-01T01:15:50.000Z",
+          "wordCount": 845,
+          "title": "스타트업은 유치원이 아닙니다",
+          "imageUrl": "https://social.news.hada.io/topic/6878"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6877",
+          "author": null,
+          "description": "Master & Standby 2대의 머신으로 M5에서 호스팅중\nHN전체는 한대의 머신으로 동작 : 인텔 Xeon E5-2637 v4 @ 3.50GHz + FreeBSD/SMP, 미러링된 Data용 SSD/Log용 자기테이프(UFS)\nDB 사용하지 않고, Ad-hoc 파일시스템 기반\nLisp 방언인 Arc(존 그레이엄이 만든)로 개발됨...",
+          "link": "https://news.hada.io/topic?id=6877",
+          "publishedOn": "2022-07-01T00:49:26.000Z",
+          "wordCount": 890,
+          "title": "HN은 어떻게 중단없이 운영되나요?",
+          "imageUrl": "https://social.news.hada.io/topic/6877"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6876",
+          "author": null,
+          "description": "성능면에서 11%의 IPC 향상\n시스템 수준에서는 다른 모든 변경사항을 포함하면, 애플리케이션에서 최대 22% 높은 성능을 제공\n32bit를 제거하고 64bit ISA 전용으로 최적화\n\n...",
+          "link": "https://news.hada.io/topic?id=6876",
+          "publishedOn": "2022-07-01T00:31:16.000Z",
+          "wordCount": 799,
+          "title": "Arm, 차세대 플래그십 코어 Cortex-X3 공개",
+          "imageUrl": "https://social.news.hada.io/topic/6876"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6875",
+          "author": null,
+          "description": "영어/러시아 버전보다 훨씬 상세한 중국어 위키백과 항목을 발견\n실제 역사적 인물과 섞여 있어서 진짜와 가짜 구분이 어려움\n2010년부터 청나라와 러시아의 역사를 위조하기 위해 4개의 가짜 계정을 이용\n206개의 토픽을 생성하고, 수백개의 토픽을 수정하여 수백만단어의 가짜 러...",
+          "link": "https://news.hada.io/topic?id=6875",
+          "publishedOn": "2022-07-01T00:04:32.000Z",
+          "wordCount": 943,
+          "title": "10년간 가짜 러시아 역사를 중국어 위키피디아에 적은 중국인의 행위가 발각",
+          "imageUrl": "https://social.news.hada.io/topic/6875"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6874",
+          "author": null,
+          "description": "대한민국의 전기통신사업법 규정에 따라, 대체 앱 내 결제 처리 옵션(IAP)를 지원\n수수료는 26%\n외부 구입 권한 신청서를 작성해서 제출해야함\n사전 승인 결제 사업자 : KCP, Inicis, Toss, NICE\n한국 앱스토어에서만 허용됨\n...",
+          "link": "https://news.hada.io/topic?id=6874",
+          "publishedOn": "2022-06-30T23:46:05.000Z",
+          "wordCount": 982,
+          "title": "Apple, 대한민국 App Store에서 외부 결제 옵션 허용",
+          "imageUrl": "https://social.news.hada.io/topic/6874"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6873",
+          "author": null,
+          "description": "원본 토픽: https://community.applepie.pro/t/topic/31\n한 달에 하나의 프로덕트를 만들고 1년에 12개의 프로덕트를 만드는 챌린지를 진행한 연쇄 프로덕트 메이커 Peter Levels는 본인의 웹사이트 내에 모든 수익과 관련된 통계, 모든 비용과 관련된 통계, 탄소 배출량, 일일 커밋, 사이트 유입 수단 등을 한...",
+          "link": "https://news.hada.io/topic?id=6873",
+          "publishedOn": "2022-06-30T03:56:59.000Z",
+          "wordCount": 935,
+          "title": "Ask GN: 오픈 스타트업에 대해 어떻게 생각하세요?",
+          "imageUrl": "https://social.news.hada.io/topic/6873"
+        },
         {
           "id": "https://news.hada.io/topic?id=6872",
           "author": null,
@@ -208,86 +288,6 @@
           "wordCount": 826,
           "title": "warc-parquet - WARC를 Parquet으로 변환하는 CLI",
           "imageUrl": "https://social.news.hada.io/topic/6871"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6870",
-          "author": null,
-          "description": "DALL·E Mini에서 추론에 필요한 최소 필수 요소만 추출해서 PyTorch로 변환한 오픈소스\nnumpy / torch / flax 만 이용\n기존에 공개된 VQGan, DALL·E Mini, DALL·E Mega 모델 이용 가능\n\n...",
-          "link": "https://news.hada.io/topic?id=6870",
-          "publishedOn": "2022-06-30T00:38:01.000Z",
-          "wordCount": 795,
-          "title": "minimal DALL·E",
-          "imageUrl": "https://social.news.hada.io/topic/6870"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6869",
-          "author": null,
-          "description": "DNS서버는 종종 도메인명을 소문자로 변환해야 함\nBIND는 기존 DNS값을 보존해야 하기 때문에 좀 더 작업이 필요함\nSWAR를 tolower()에 적용해 보기로 함\nuint64_t 에 넣은 8개...",
-          "link": "https://news.hada.io/topic?id=6869",
-          "publishedOn": "2022-06-30T00:21:01.000Z",
-          "wordCount": 848,
-          "title": "대량의 tolower()를 빠르게 수행하기",
-          "imageUrl": "https://social.news.hada.io/topic/6869"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6868",
-          "author": null,
-          "description": "2023년 1월에 새로운 법인을 출범하고 501(c)(3) 비영리 단체로\n1994년에 처음 만들때는 호스팅 모델로 출범. 미국(MIT),일본(Keio),프랑스(Inria),중국(Beihang) 4개 파트너가 호스팅\n웹의 빠른 변화와 요구를 감당하기 위해 더 강력한 거버넌스가 필요하여 그 간의 경험을 바탕으로 새로운...",
-          "link": "https://news.hada.io/topic?id=6868",
-          "publishedOn": "2022-06-30T00:06:01.000Z",
-          "wordCount": 840,
-          "title": "W3C, 공익 비영리 단체로 변경",
-          "imageUrl": "https://social.news.hada.io/topic/6868"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6867",
-          "author": null,
-          "description": "Envoy의 창시자 Matt Klein이 작성한 글의 번역\nDevOps란 무엇인가\n인터넷 어플리케이션 운영의 역사\n왜 DevOps가 현대 인터넷 스타트업에서",
-          "link": "https://news.hada.io/topic?id=6867",
-          "publishedOn": "2022-06-29T04:17:09.000Z",
-          "wordCount": 869,
-          "title": "“DevOps”의 인적 확장 (The human scalability of “DevOps”)",
-          "imageUrl": "https://social.news.hada.io/topic/6867"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6866",
-          "author": null,
-          "description": "MVP는 시작일 뿐, 본질적 프로덕트 개선을 향한 무한질주\n\nMVP 아이디어로부터 22일째, 애플 세계 개발자 컨퍼런스 WWDC를 시청한 이후 감명을 받아 시작한 토이프로젝트였던 ApplePie Pro\n초기 버젼의 아이디어는 단순, 맥북을 쉽고 안전하게 팔 수 있는 장소 만들자.\n아이디어는 딱...",
-          "link": "https://news.hada.io/topic?id=6866",
-          "publishedOn": "2022-06-29T04:06:21.000Z",
-          "wordCount": 1399,
-          "title": "Show GN: ApplePie Pro 2.0 - Notion MVP였는데 토이 프로젝트가 아니라 진심 100%",
-          "imageUrl": "https://social.news.hada.io/topic/6866"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6865",
-          "author": null,
-          "description": "오픈 메타버스를 위한 무료 표준을 만들고, 다양한 활동을 하기 위해 모인 포럼\nMeta, Microsoft, Nvidia, Unity 를 비롯한 AR, VR, Game 관련 다수 업체들이 참여\nW3C, Khronos Group, OpenAR Cloud, Spatial Web 등 다른 단체들과 협동해서 만들어 나갈 것\n\n...",
-          "link": "https://news.hada.io/topic?id=6865",
-          "publishedOn": "2022-06-29T04:05:43.000Z",
-          "wordCount": 827,
-          "title": "Metaverse Standards Forum",
-          "imageUrl": "https://social.news.hada.io/topic/6865"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6864",
-          "author": null,
-          "description": "MCU에 Jerryscript를 포팅해서 Javascript로 MCU내부에서 동작하는 펌웨어 개발이 가능한 프로젝트\n\n많은 프로젝트들이 외부에서 컨트롤하는 형식 (http://johnny-five.io 같은 프로젝트) 으로 개발되고 있어서 Real Firmware라고 하기 힘듦\n이 프로젝트는 MCU에 JS 인터프리터와 함께 코드가...",
-          "link": "https://news.hada.io/topic?id=6864",
-          "publishedOn": "2022-06-29T01:12:02.000Z",
-          "wordCount": 875,
-          "title": "A Real Javascript Engine for MCU",
-          "imageUrl": "https://social.news.hada.io/topic/6864"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6863",
-          "author": null,
-          "description": "8.5kB의 가장 작은 JS-like 엔진 : JS의 핵심 Subset 지원\n16kB ROM 및 300B RAM으로 실행하며, 16비트 기기에 최적화\n샌드박싱으로 안전\n소스코드나 컴파일된 바이너리를 배포하는게 아닌, 실행하는 VM의 스냅샷을 저장하고 그걸 타겟디바이스에서 restore 하는 형태로 배포하는 방...",
-          "link": "https://news.hada.io/topic?id=6863",
-          "publishedOn": "2022-06-29T00:56:09.000Z",
-          "wordCount": 825,
-          "title": "Microvium - 마이크로콘트롤러를 위한 JavaScript엔진",
-          "imageUrl": "https://social.news.hada.io/topic/6863"
         }
       ]
     },
@@ -315,16 +315,6 @@
           "wordCount": 850,
           "title": "IntelliJ (Kotlin) 매 파일마다 newline 자동으로 추가하기 (feat. EditorConfig)",
           "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbtuD8A%2FbtrDWKkJzus%2Fomv7pAdT3C6BgkfY6YSh7k%2Fimg.png"
-        },
-        {
-          "id": "https://jojoldu.tistory.com/672",
-          "author": "향로",
-          "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n\n\n최근에 들었던 질문 중 현실 세계의 식별자를 데이터베이스 기본키로 써도 되냐는 것이 있었다. \n이를테면 현실 세계에서 유일함을 보장하는 값들이다.\n주민 등록 번호\n전화 번호\n여권 번호\n이들을 데이터베이스의 기본키 (PK) 로 지정해서 쓰는게 어떤가 하는 것이다.\n최근의 ORM 예제들을 보면 auto_increment 혹은 uuid 등 개발자가 직접 생성한 기본키을 지정하는데, 왜 그렇게 하는지 모르겠다는 이야기도 들었다.\n(나 뿐만 아니라 여러 개발자분들이 같은 생각을 하실것 같은데) 기본키는 절대 바뀌지 않아야 한다.\n기본키를 수정하는 것은 항상 많은 문제를 일으킨다. \n대부분의 기본키가 여러 테이블의 FK와 인덱스로 지정되어 사용되기 때문이다.\n더군다나 위와 같이 현실 세계의 값들은 사용자들이 직접 입력한 값일 경우가 많다.\n입력된 값에 오타가 있으면 어떻게 될까? \n이미 그 값은 PK와 여러 테이블의 FK로 사용되고 있다면, 그 오타를 수정하기 위해 얼마나 많은 비용이 들까? \n기본키를 수정 하기 위해서는 너무나 큰 비용이 든다.\n그래서 기본키는 절대 변경되지 않는 속성을 사용해야만 한다. \n하지만 현실 세계의 속성은 변경을 내가 제어할 수가 없다. \n주민 등록 번호, 전화 번호, 여권 번호 등 현실 세계의 값들은 상황에 따라 언제든 변경 될 수 있다.\n실제로 2014년에 주민등록번호 수집이 금지되었다.\n\n그전까지 주민등록번호를 기본키로 갖고 있던 곳들은 호되게 혼났던 것을 듣기도 했다.\n흔히 견고한 소프트웨어를 위해서는 코드가 외부에 의존해서는 안된다고 한다. \n현실 세계의 값을 기본키로 사용하는 것은 외부에 의존하는 것이다.\n현실 세계의 변화와 시스템간의 결합도를 줄여야 한다. \n내가 제어할 수 없는 값에 시스템이 의존해서는 안된다.\n            \n반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({});",
-          "link": "https://jojoldu.tistory.com/672",
-          "publishedOn": "2022-05-31T14:19:23.000Z",
-          "wordCount": 684,
-          "title": "현실 세계의 속성에 의존하지 않기",
-          "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2F9KStj%2FbtrDHFQA6s7%2FWEcm0CDtK4oFyic6cnZTH1%2Fimg.png"
         }
       ]
     }
