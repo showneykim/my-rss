@@ -1,10 +1,105 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-01T02:05:21.336Z</id>
+    <id>urn:2022-07-02T01:53:58.749Z</id>
     <title>osmos::feed</title>
-    <updated>2022-07-01T02:05:21.336Z</updated>
+    <updated>2022-07-02T01:53:58.749Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Teapodo - 팟캐스트용 가벼운 오디오 편집기]]></title>
+        <id>https://news.hada.io/topic?id=6888</id>
+        <link href="https://news.hada.io/topic?id=6888"/>
+        <updated>2022-07-02T00:51:01.000Z</updated>
+        <summary type="html"><![CDATA[원본 소스를 유지하는 비파괴 멀티트랙 편집
+쉬운 녹음 및 기존 트랙 일부에 덮어쓰기 가능
+각 챕터 정보를 ID3 챕터 프레임에 저장
+맥(M1/인텔)지원. 윈도우 지원예정
+오디오 엔진 및 데이터는 Rust + UI는 Qt 6 기반
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Raspberry Pi Pico W : $6짜리 IoT 플랫폼]]></title>
+        <id>https://news.hada.io/topic?id=6887</id>
+        <link href="https://news.hada.io/topic?id=6887"/>
+        <updated>2022-07-02T00:29:01.000Z</updated>
+        <summary type="html"><![CDATA[작년 1월에 출시한 RP2040기반 라즈베리 Pi Pico는 현재까지 2백만개 판매
+신형 $6 Pico W는 802.11n 을 추가
+$5 Pico H / $7 Pico WH는 헤더와 3핀 디버그 커넥터 포함
+Infineon CYW43439 Wireless칩 사용
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국내 최고의 개발 문화를 가진 회사는? – 설문 조사 결과]]></title>
+        <id>https://news.hada.io/topic?id=6886</id>
+        <link href="https://news.hada.io/topic?id=6886"/>
+        <updated>2022-07-02T00:07:02.000Z</updated>
+        <summary type="html"><![CDATA[개발 문화 체크리스트로 415명 응답을 통계(원티드랩)
+좋은 개발 문화를 가진 회사는?
+12점 – 카카오, 라인플러스, 우아한형제들, 컴투스, 업스테이지 등
+11점 – 네이버, 엔에이치엔, 하이퍼커넥트, 데브시스터즈, 크몽, 에이비일팔공 등
+10점 – 카카오뱅크...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박사학위 따면 좋은 점 - 세상에 더 많은 전문가가 필요한 이유]]></title>
+        <id>https://news.hada.io/topic?id=6885</id>
+        <link href="https://news.hada.io/topic?id=6885"/>
+        <updated>2022-07-02T00:06:10.000Z</updated>
+        <summary type="html"><![CDATA[Matt Might - llustrated guide to Ph.D. (그림으로 본 박사학위)
+인류의 모든 지식을 원으로 표현
+초등학생, 고등학생, 학사, 석사, 박사에 이르는 과정을 원(인류의 지식)을 채워가는 과정으로 표현
+한 분야에서 가장 탁월한 전문가들은 인류가 아직 모르던 지식을 발견할 수 있다.]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 어떤 모니터 조합을 선호하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=6884</id>
+        <link href="https://news.hada.io/topic?id=6884"/>
+        <updated>2022-07-01T18:49:33.000Z</updated>
+        <summary type="html"><![CDATA[전 작업할때 게임엔진이랑 ide, 문서 창을 동시에 열어놓기 때문에
+24인치 모니터 3개를 사용 했엇는데요, 먼가 복잡하고 지저분 한 것 같아 고민입니다.
+다른분들은 개발하실때 어떤 모니터 조합을 사용하시나요?
+개발 분야도 알려주시면 좋을 것 같습니다 :)]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Single Element Loaders: Going 3D!]]></title>
+        <id>https://css-tricks.com/?p=366544</id>
+        <link href="https://css-tricks.com/single-element-loaders-going-3d/"/>
+        <updated>2022-07-01T13:24:09.000Z</updated>
+        <summary type="html"><![CDATA[For this fourth and final article of our little series on single-element loaders, we are going to explore 3D patterns. When creating a 3D element, it’s hard to imagine that just one HTML element is enough to simulate something like all six faces of a cube. But  maybe we can get away …
+Single Element Loaders: Going 3D! originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[예의와 존중이 있는 곳이 유치원은 아닙니다.]]></title>
+        <id>https://news.hada.io/topic?id=6881</id>
+        <link href="https://news.hada.io/topic?id=6881"/>
+        <updated>2022-07-01T11:05:43.000Z</updated>
+        <summary type="html"><![CDATA[프로그래머가 유치원부터 회사에 다닐 떄까지 회상하는 단편 소설입니다.
+제가 쓴 단편 소설이랍니다. 즐겁게 읽어주시면 기쁠 것 같습니다!
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[20년 된 Atlassian은 아직 수익이 없음 - 시장의 평가는 틀렸다]]></title>
         <id>https://news.hada.io/topic?id=6880</id>
@@ -57,54 +152,12 @@ Lisp 방언인 Arc(존 그레이엄이 만든)로 개발됨...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Arm, 차세대 플래그십 코어 Cortex-X3 공개]]></title>
-        <id>https://news.hada.io/topic?id=6876</id>
-        <link href="https://news.hada.io/topic?id=6876"/>
-        <updated>2022-07-01T00:31:16.000Z</updated>
-        <summary type="html"><![CDATA[성능면에서 11%의 IPC 향상
-시스템 수준에서는 다른 모든 변경사항을 포함하면, 애플리케이션에서 최대 22% 높은 성능을 제공
-32bit를 제거하고 64bit ISA 전용으로 최적화
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10년간 가짜 러시아 역사를 중국어 위키피디아에 적은 중국인의 행위가 발각]]></title>
-        <id>https://news.hada.io/topic?id=6875</id>
-        <link href="https://news.hada.io/topic?id=6875"/>
-        <updated>2022-07-01T00:04:32.000Z</updated>
-        <summary type="html"><![CDATA[영어/러시아 버전보다 훨씬 상세한 중국어 위키백과 항목을 발견
-실제 역사적 인물과 섞여 있어서 진짜와 가짜 구분이 어려움
-2010년부터 청나라와 러시아의 역사를 위조하기 위해 4개의 가짜 계정을 이용
-206개의 토픽을 생성하고, 수백개의 토픽을 수정하여 수백만단어의 가짜 러...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple, 대한민국 App Store에서 외부 결제 옵션 허용]]></title>
-        <id>https://news.hada.io/topic?id=6874</id>
-        <link href="https://news.hada.io/topic?id=6874"/>
-        <updated>2022-06-30T23:46:05.000Z</updated>
-        <summary type="html"><![CDATA[대한민국의 전기통신사업법 규정에 따라, 대체 앱 내 결제 처리 옵션(IAP)를 지원
-수수료는 26%
-외부 구입 권한 신청서를 작성해서 제출해야함
-사전 승인 결제 사업자 : KCP, Inicis, Toss, NICE
-한국 앱스토어에서만 허용됨
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Bunny Fonts]]></title>
         <id>https://css-tricks.com/?p=366605</id>
         <link href="https://css-tricks.com/bunny-fonts/"/>
         <updated>2022-06-30T17:28:57.000Z</updated>
-        <summary type="html"><![CDATA[Bunny Fonts bills itself as the “privacy-first web font platform designed to put privacy back into the internet.”According to its FAQ:
-With a zero-tracking and no-logging policy, Bunny Fonts helps you stay fully GDPR compliant and puts your user’s personal 
+        <summary type="html"><![CDATA[Bunny Fonts bills itself as the “privacy-first web font platform designed to put privacy back into the internet.” According to its FAQ:
+With a zero-tracking and no-logging policy, Bunny Fonts helps you stay fully GDPR compliant and puts your user’s 
 …
 Bunny Fonts originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
@@ -122,46 +175,6 @@ There are a few legitimate use cases for this technique. For example, you might 
 Text-overflow: ellipsis considered harmful originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 오픈 스타트업에 대해 어떻게 생각하세요?]]></title>
-        <id>https://news.hada.io/topic?id=6873</id>
-        <link href="https://news.hada.io/topic?id=6873"/>
-        <updated>2022-06-30T03:56:59.000Z</updated>
-        <summary type="html"><![CDATA[원본 토픽: https://community.applepie.pro/t/topic/31
-한 달에 하나의 프로덕트를 만들고 1년에 12개의 프로덕트를 만드는 챌린지를 진행한 연쇄 프로덕트 메이커 Peter Levels는 본인의 웹사이트 내에 모든 수익과 관련된 통계, 모든 비용과 관련된 통계, 탄소 배출량, 일일 커밋, 사이트 유입 수단 등을 한...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpsFlow - No-Code DevOps]]></title>
-        <id>https://news.hada.io/topic?id=6872</id>
-        <link href="https://news.hada.io/topic?id=6872"/>
-        <updated>2022-06-30T01:12:01.000Z</updated>
-        <summary type="html"><![CDATA[Webflow와 비슷하지만 인프라를 위한 Low-Code 도구
-코드를 분석하여 AWS를 자동으로 설정
-Terraform 을 자동생성하고 GitHub에 양방향 싱크
-AWS 계정 연결하고, 드래그앤 드롭으로 인프라를 구성하고, 원 클릭 디플로이
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[warc-parquet - WARC를 Parquet으로 변환하는 CLI]]></title>
-        <id>https://news.hada.io/topic?id=6871</id>
-        <link href="https://news.hada.io/topic?id=6871"/>
-        <updated>2022-06-30T00:52:01.000Z</updated>
-        <summary type="html"><![CDATA[Web ARChive (.warc) 파일을 컬럼기반 Apache Parquet 포맷으로 변환해줌
-DuckDB에 Parquet을 로드해서 편하게 쿼리 가능
-Rust 오픈소스
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
     </entry>
     <entry>
@@ -338,17 +351,6 @@ Single Element Loaders: The Spinner originally published on CSS-Tricks. You shou
 The first round required several online services along with HTML & JS changes to my static site, just to verify my 
 …
 Am I on the IndieWeb yet? originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Let’s Make a QR Code Generator With a Serverless Function!]]></title>
-        <id>https://css-tricks.com/?p=366147</id>
-        <link href="https://css-tricks.com/lets-make-a-qr-code-generator-with-a-serverless-function/"/>
-        <updated>2022-06-08T14:30:53.000Z</updated>
-        <summary type="html"><![CDATA[QR codes are funny, right? We love them, then hate them, then love them again. Anyways, they’ve lately been popping up again and it got me thinking about how they’re made. There are like a gazillion QR code generators out …
-Let’s Make a QR Code Generator With a Serverless Function! originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
         </author>
