@@ -1,10 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-02T01:53:58.749Z</id>
+    <id>urn:2022-07-03T01:59:05.835Z</id>
     <title>osmos::feed</title>
-    <updated>2022-07-02T01:53:58.749Z</updated>
+    <updated>2022-07-03T01:59:05.835Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[1년간 입은 옷과 신발들을 모두 트래킹 하기]]></title>
+        <id>https://news.hada.io/topic?id=6891</id>
+        <link href="https://news.hada.io/topic?id=6891"/>
+        <updated>2022-07-03T01:25:34.000Z</updated>
+        <summary type="html"><![CDATA[NFC 단추와 iOS Shortcut을 이용해서 매일 입은 것들을 추적하여 Coda에 기록
+상품별 가격 입력후, 입은 횟수당 나눠서 CPW(Cost Per Wear)를 계산하고, 어떤 옷들을 주로 입는지 분석
+실제론 iOS Shortcut + Coda 만으로도 가능(단추를 못 넣는 신발등)
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python for Data Analysis 3판 - 오픈 억세스 버전]]></title>
+        <id>https://news.hada.io/topic?id=6890</id>
+        <link href="https://news.hada.io/topic?id=6890"/>
+        <updated>2022-07-03T01:07:26.000Z</updated>
+        <summary type="html"><![CDATA[번역서가 나온 "파이썬 라이브러리를 활용한 데이터 분석(2판)"의 최신 판
+HTML 오픈 억세스 버전으로 선공개. 추가 편집후 연말에 출판 예정
+pandas 1.4.0 및 Python 3.10 으로 업데이트
+→ 2판과 3판 차이는 2017년 이후 바뀐 pandas 내용에 중점
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scunthorpe Sans - 욕설을 자동으로 필터링하는 폰트]]></title>
+        <id>https://news.hada.io/topic?id=6889</id>
+        <link href="https://news.hada.io/topic?id=6889"/>
+        <updated>2022-07-03T00:53:46.000Z</updated>
+        <summary type="html"><![CDATA[f███, s███ 처럼 보이게 자동으로 표시
+CC0 인 Aileron 폰트 기반으로 Ligature(합자)를 이용해서 처리
+폰트의 이름은 AOL에서 가입을 차단해서 유명해진 도시에서 유래 ( 가운데에 있는 c███ 때문에 )
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Teapodo - 팟캐스트용 가벼운 오디오 편집기]]></title>
         <id>https://news.hada.io/topic?id=6888</id>
@@ -109,44 +152,6 @@ Single Element Loaders: Going 3D! originally published on CSS-Tricks. You should
 큰 투자를 받지 않았기에 공동창업자 둘이 아직도 각각 21%씩 지분을 보유중
 작년에 둘은 순자산 $70b가 넘는 호주 최고의 부자였음. (또한 Canva에 투자한 것으로도 몇조를 벌었음)
 하지만 최근 기술업계의...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
-        <id>https://news.hada.io/topic?id=6879</id>
-        <link href="https://news.hada.io/topic?id=6879"/>
-        <updated>2022-07-01T01:17:03.000Z</updated>
-        <summary type="html"><![CDATA[이번 주말에 뭘 하려고 계획 중인지 편하게 얘기해 보아요.
-읽을 책, 가볼 곳, 해볼 것.. 어떤 것이든 좋습니다.
-지난 주말에 계획하셨던 일의 회고도 한번 남겨봐 주세요.]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스타트업은 유치원이 아닙니다]]></title>
-        <id>https://news.hada.io/topic?id=6878</id>
-        <link href="https://news.hada.io/topic?id=6878"/>
-        <updated>2022-07-01T01:15:50.000Z</updated>
-        <summary type="html"><![CDATA[실제 의미가 뭔지 불분명한 영어 단어 사용을 줄이자: “미스커뮤니케이션", “ASAP”, “팔로우업” 등
-무의미한 관용구를 줄이자: "점심 맛있게 드셨나요~”, “안녕하세요~” 등
-과잉된 감정을 표현하는 이모티콘을 줄이자: 🙏, 😊 등
-“내가 듣기 싫은 말”이라는 이...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HN은 어떻게 중단없이 운영되나요?]]></title>
-        <id>https://news.hada.io/topic?id=6877</id>
-        <link href="https://news.hada.io/topic?id=6877"/>
-        <updated>2022-07-01T00:49:26.000Z</updated>
-        <summary type="html"><![CDATA[Master & Standby 2대의 머신으로 M5에서 호스팅중
-HN전체는 한대의 머신으로 동작 : 인텔 Xeon E5-2637 v4 @ 3.50GHz + FreeBSD/SMP, 미러링된 Data용 SSD/Log용 자기테이프(UFS)
-DB 사용하지 않고, Ad-hoc 파일시스템 기반
-Lisp 방언인 Arc(존 그레이엄이 만든)로 개발됨...]]></summary>
         <author>
             <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
@@ -423,17 +428,6 @@ disabled_rules=import-ordering
                     (adsbygoogle = window.adsbygoogle || []).push({});]]></summary>
         <author>
             <name>향로</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MongoDB 5.0 Time Series]]></title>
-        <id>https://rastalion.me/?p=2535</id>
-        <link href="https://rastalion.me/mongodb_timeseries/"/>
-        <updated>2022-06-03T05:48:26.000Z</updated>
-        <summary type="html"><![CDATA[MongoDB 5.0 Time Series MongoDB가 5.x 버전으로 릴리즈 되면서 추가된 유용한 기능 중에 하나가 바로 Time Series 컬렉션을 활용할 수 있다는 것 입니다. 쉽게 표현하면 시계열 데이터를 저장하는 기능인데 더 쉽게 표현하면 일정 시간...
-The post MongoDB 5.0 Time Series appeared first on RastaLion's IT Blog.]]></summary>
-        <author>
-            <name>Rasta Lion</name>
         </author>
     </entry>
 </feed>

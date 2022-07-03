@@ -168,19 +168,9 @@
           "description": "Aurora v1 EOL을 대처 하는 우리의 자세 (feat. MySQL 5.6) End of Life! 그렇게 EOL 입니다. MySQL 5.6을 기반으로 하는 AWS의 Aurora v1 버전의 EOL 소식이  들려오고 있습니다. AWS Aurora v1 EOL 소식 2023년 2월을...\nThe post Aurora v1 EOL을 대처 하는 우리의 자세 (feat. MySQL 5.6) appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/aurora-v1-eol%ec%9d%84-%eb%8c%80%ec%b2%98-%ed%95%98%eb%8a%94-%ec%9a%b0%eb%a6%ac%ec%9d%98-%ec%9e%90%ec%84%b8-feat-mysql-5-6/",
           "publishedOn": "2022-06-11T13:19:35.000Z",
-          "wordCount": 2101,
+          "wordCount": 2100,
           "title": "Aurora v1 EOL을 대처 하는 우리의 자세 (feat. MySQL 5.6)",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2019/04/mysql_PNG19-300x300.png"
-        },
-        {
-          "id": "https://rastalion.me/?p=2535",
-          "author": "Rasta Lion",
-          "description": "MongoDB 5.0 Time Series MongoDB가 5.x 버전으로 릴리즈 되면서 추가된 유용한 기능 중에 하나가 바로 Time Series 컬렉션을 활용할 수 있다는 것 입니다. 쉽게 표현하면 시계열 데이터를 저장하는 기능인데 더 쉽게 표현하면 일정 시간...\nThe post MongoDB 5.0 Time Series appeared first on RastaLion's IT Blog.",
-          "link": "https://rastalion.me/mongodb_timeseries/",
-          "publishedOn": "2022-06-03T05:48:26.000Z",
-          "wordCount": 2066,
-          "title": "MongoDB 5.0 Time Series",
-          "imageUrl": "https://rastalion.me/wp-content/uploads/2020/04/37_2019081518484308.jpg"
         }
       ]
     },
@@ -189,6 +179,36 @@
       "feedUrl": "https://news.hada.io/rss/news",
       "siteUrl": "https://news.hada.io",
       "articles": [
+        {
+          "id": "https://news.hada.io/topic?id=6891",
+          "author": null,
+          "description": "NFC 단추와 iOS Shortcut을 이용해서 매일 입은 것들을 추적하여 Coda에 기록\n상품별 가격 입력후, 입은 횟수당 나눠서 CPW(Cost Per Wear)를 계산하고, 어떤 옷들을 주로 입는지 분석\n실제론 iOS Shortcut + Coda 만으로도 가능(단추를 못 넣는 신발등)\n\n...",
+          "link": "https://news.hada.io/topic?id=6891",
+          "publishedOn": "2022-07-03T01:25:34.000Z",
+          "wordCount": 839,
+          "title": "1년간 입은 옷과 신발들을 모두 트래킹 하기",
+          "imageUrl": "https://social.news.hada.io/topic/6891"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6890",
+          "author": null,
+          "description": "번역서가 나온 \"파이썬 라이브러리를 활용한 데이터 분석(2판)\"의 최신 판\nHTML 오픈 억세스 버전으로 선공개. 추가 편집후 연말에 출판 예정\npandas 1.4.0 및 Python 3.10 으로 업데이트\n→ 2판과 3판 차이는 2017년 이후 바뀐 pandas 내용에 중점\n\n...",
+          "link": "https://news.hada.io/topic?id=6890",
+          "publishedOn": "2022-07-03T01:07:26.000Z",
+          "wordCount": 823,
+          "title": "Python for Data Analysis 3판 - 오픈 억세스 버전",
+          "imageUrl": "https://social.news.hada.io/topic/6890"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6889",
+          "author": null,
+          "description": "f███, s███ 처럼 보이게 자동으로 표시\nCC0 인 Aileron 폰트 기반으로 Ligature(합자)를 이용해서 처리\n폰트의 이름은 AOL에서 가입을 차단해서 유명해진 도시에서 유래 ( 가운데에 있는 c███ 때문에 )\n\n...",
+          "link": "https://news.hada.io/topic?id=6889",
+          "publishedOn": "2022-07-03T00:53:46.000Z",
+          "wordCount": 807,
+          "title": "Scunthorpe Sans - 욕설을 자동으로 필터링하는 폰트",
+          "imageUrl": "https://social.news.hada.io/topic/6889"
+        },
         {
           "id": "https://news.hada.io/topic?id=6888",
           "author": null,
@@ -225,7 +245,7 @@
           "description": "Matt Might - llustrated guide to Ph.D. (그림으로 본 박사학위)\n인류의 모든 지식을 원으로 표현\n초등학생, 고등학생, 학사, 석사, 박사에 이르는 과정을 원(인류의 지식)을 채워가는 과정으로 표현\n한 분야에서 가장 탁월한 전문가들은 인류가 아직 모르던 지식을 발견할 수 있다.",
           "link": "https://news.hada.io/topic?id=6885",
           "publishedOn": "2022-07-02T00:06:10.000Z",
-          "wordCount": 1020,
+          "wordCount": 1047,
           "title": "박사학위 따면 좋은 점 - 세상에 더 많은 전문가가 필요한 이유",
           "imageUrl": "https://social.news.hada.io/topic/6885"
         },
@@ -235,7 +255,7 @@
           "description": "전 작업할때 게임엔진이랑 ide, 문서 창을 동시에 열어놓기 때문에\n24인치 모니터 3개를 사용 했엇는데요, 먼가 복잡하고 지저분 한 것 같아 고민입니다.\n다른분들은 개발하실때 어떤 모니터 조합을 사용하시나요?\n개발 분야도 알려주시면 좋을 것 같습니다 :)",
           "link": "https://news.hada.io/topic?id=6884",
           "publishedOn": "2022-07-01T18:49:33.000Z",
-          "wordCount": 923,
+          "wordCount": 1086,
           "title": "Ask GN: 어떤 모니터 조합을 선호하시나요?",
           "imageUrl": "https://social.news.hada.io/topic/6884"
         },
@@ -258,36 +278,6 @@
           "wordCount": 1371,
           "title": "20년 된 Atlassian은 아직 수익이 없음 - 시장의 평가는 틀렸다",
           "imageUrl": "https://social.news.hada.io/topic/6880"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6879",
-          "author": null,
-          "description": "이번 주말에 뭘 하려고 계획 중인지 편하게 얘기해 보아요.\n읽을 책, 가볼 곳, 해볼 것.. 어떤 것이든 좋습니다.\n지난 주말에 계획하셨던 일의 회고도 한번 남겨봐 주세요.",
-          "link": "https://news.hada.io/topic?id=6879",
-          "publishedOn": "2022-07-01T01:17:03.000Z",
-          "wordCount": 928,
-          "title": "Ask GN: 이번 주말에 뭐 하시나요?",
-          "imageUrl": "https://social.news.hada.io/topic/6879"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6878",
-          "author": null,
-          "description": "실제 의미가 뭔지 불분명한 영어 단어 사용을 줄이자: “미스커뮤니케이션\", “ASAP”, “팔로우업” 등\n무의미한 관용구를 줄이자: \"점심 맛있게 드셨나요~”, “안녕하세요~” 등\n과잉된 감정을 표현하는 이모티콘을 줄이자: 🙏, 😊 등\n“내가 듣기 싫은 말”이라는 이...",
-          "link": "https://news.hada.io/topic?id=6878",
-          "publishedOn": "2022-07-01T01:15:50.000Z",
-          "wordCount": 2747,
-          "title": "스타트업은 유치원이 아닙니다",
-          "imageUrl": "https://social.news.hada.io/topic/6878"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6877",
-          "author": null,
-          "description": "Master & Standby 2대의 머신으로 M5에서 호스팅중\nHN전체는 한대의 머신으로 동작 : 인텔 Xeon E5-2637 v4 @ 3.50GHz + FreeBSD/SMP, 미러링된 Data용 SSD/Log용 자기테이프(UFS)\nDB 사용하지 않고, Ad-hoc 파일시스템 기반\nLisp 방언인 Arc(존 그레이엄이 만든)로 개발됨...",
-          "link": "https://news.hada.io/topic?id=6877",
-          "publishedOn": "2022-07-01T00:49:26.000Z",
-          "wordCount": 902,
-          "title": "HN은 어떻게 중단없이 운영되나요?",
-          "imageUrl": "https://social.news.hada.io/topic/6877"
         }
       ]
     },
