@@ -1,10 +1,79 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-03T01:59:05.835Z</id>
+    <id>urn:2022-07-04T02:04:09.970Z</id>
     <title>osmos::feed</title>
-    <updated>2022-07-03T01:59:05.835Z</updated>
+    <updated>2022-07-04T02:04:09.970Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[M2 MacBook Pro 분해는 우리가 항상 의심했던 것을 확인시켜줍니다]]></title>
+        <id>https://news.hada.io/topic?id=6896</id>
+        <link href="https://news.hada.io/topic?id=6896"/>
+        <updated>2022-07-04T01:35:46.000Z</updated>
+        <summary type="html"><![CDATA[M1 MBP에서 칩만 M2로 교체하고, 일부만 수정한 것으로 섀시, 디스플레이, 터치바 및 레이아웃이 거의 동일함
+iFixit에 의하면 케이블, 나사, 접지핀 등도 모두 동일
+하지만, M2 보급형 모델의 SSD는 구성이 달라서 M1 모델보다 느림
+이론적으로 M2 보드를 M1 MBP에 이식하면 동작해...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open API를 이용한 고속 논문 분석]]></title>
+        <id>https://news.hada.io/topic?id=6895</id>
+        <link href="https://news.hada.io/topic?id=6895"/>
+        <updated>2022-07-04T01:16:29.000Z</updated>
+        <summary type="html"><![CDATA[대량의 논문을 빠르게 읽기 위해, "처음 보는 논문을 요약해주는 모델"을 개발
+실용인공지능학회(AAiCON) 발표 영상 (요약)
+Skimming 단계에서 논문 abstract 를 이용
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vim 9.0 릴리즈]]></title>
+        <id>https://news.hada.io/topic?id=6894</id>
+        <link href="https://news.hada.io/topic?id=6894"/>
+        <updated>2022-07-04T00:53:36.000Z</updated>
+        <summary type="html"><![CDATA[2019년 12월의 8.2 이후 첫 릴리즈
+가장 중요한 변경은 Vim9 스크립트 언어 도입
+
+10~100배의 성능 향상
+일반적인 프로그래밍 언어와 더 비슷
+레거시 스크립트는 그대로 지원
+흥미로운 기능들
+
+속도향상의 이점을 보기 위해선 함수는 def로 정...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Y Combinator, Launch YC 공개]]></title>
+        <id>https://news.hada.io/topic?id=6893</id>
+        <link href="https://news.hada.io/topic?id=6893"/>
+        <updated>2022-07-04T00:35:15.000Z</updated>
+        <summary type="html"><![CDATA[YC가 투자한 스타트업들이 새로운 제품/기능을 홍보하는 공간
+업종, Batch별로 필터링. 투표/날짜 순 정렬 지원
+해커뉴스와 같은 형태로 투표에 따라 순위 조정
+이메일로 새 런칭 정보 구독 가능
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기술 기업들의 정리해고가 쌓여가는 중]]></title>
+        <id>https://news.hada.io/topic?id=6892</id>
+        <link href="https://news.hada.io/topic?id=6892"/>
+        <updated>2022-07-03T02:38:25.000Z</updated>
+        <summary type="html"><![CDATA[기술 기업들의 정리해고가 쌓여가는 중]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1년간 입은 옷과 신발들을 모두 트래킹 하기]]></title>
         <id>https://news.hada.io/topic?id=6891</id>
@@ -80,46 +149,6 @@ Infineon CYW43439 Wireless칩 사용
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[국내 최고의 개발 문화를 가진 회사는? – 설문 조사 결과]]></title>
-        <id>https://news.hada.io/topic?id=6886</id>
-        <link href="https://news.hada.io/topic?id=6886"/>
-        <updated>2022-07-02T00:07:02.000Z</updated>
-        <summary type="html"><![CDATA[개발 문화 체크리스트로 415명 응답을 통계(원티드랩)
-좋은 개발 문화를 가진 회사는?
-12점 – 카카오, 라인플러스, 우아한형제들, 컴투스, 업스테이지 등
-11점 – 네이버, 엔에이치엔, 하이퍼커넥트, 데브시스터즈, 크몽, 에이비일팔공 등
-10점 – 카카오뱅크...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박사학위 따면 좋은 점 - 세상에 더 많은 전문가가 필요한 이유]]></title>
-        <id>https://news.hada.io/topic?id=6885</id>
-        <link href="https://news.hada.io/topic?id=6885"/>
-        <updated>2022-07-02T00:06:10.000Z</updated>
-        <summary type="html"><![CDATA[Matt Might - llustrated guide to Ph.D. (그림으로 본 박사학위)
-인류의 모든 지식을 원으로 표현
-초등학생, 고등학생, 학사, 석사, 박사에 이르는 과정을 원(인류의 지식)을 채워가는 과정으로 표현
-한 분야에서 가장 탁월한 전문가들은 인류가 아직 모르던 지식을 발견할 수 있다.]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 어떤 모니터 조합을 선호하시나요?]]></title>
-        <id>https://news.hada.io/topic?id=6884</id>
-        <link href="https://news.hada.io/topic?id=6884"/>
-        <updated>2022-07-01T18:49:33.000Z</updated>
-        <summary type="html"><![CDATA[전 작업할때 게임엔진이랑 ide, 문서 창을 동시에 열어놓기 때문에
-24인치 모니터 3개를 사용 했엇는데요, 먼가 복잡하고 지저분 한 것 같아 고민입니다.
-다른분들은 개발하실때 어떤 모니터 조합을 사용하시나요?
-개발 분야도 알려주시면 좋을 것 같습니다 :)]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Single Element Loaders: Going 3D!]]></title>
         <id>https://css-tricks.com/?p=366544</id>
         <link href="https://css-tricks.com/single-element-loaders-going-3d/"/>
@@ -128,32 +157,6 @@ Infineon CYW43439 Wireless칩 사용
 Single Element Loaders: Going 3D! originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[예의와 존중이 있는 곳이 유치원은 아닙니다.]]></title>
-        <id>https://news.hada.io/topic?id=6881</id>
-        <link href="https://news.hada.io/topic?id=6881"/>
-        <updated>2022-07-01T11:05:43.000Z</updated>
-        <summary type="html"><![CDATA[프로그래머가 유치원부터 회사에 다닐 떄까지 회상하는 단편 소설입니다.
-제가 쓴 단편 소설이랍니다. 즐겁게 읽어주시면 기쁠 것 같습니다!
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20년 된 Atlassian은 아직 수익이 없음 - 시장의 평가는 틀렸다]]></title>
-        <id>https://news.hada.io/topic?id=6880</id>
-        <link href="https://news.hada.io/topic?id=6880"/>
-        <updated>2022-07-01T01:50:10.000Z</updated>
-        <summary type="html"><![CDATA[호주 회사로서 최고 가치에 이른 아틀라시안은 2021년 피크때 $162b 였음
-큰 투자를 받지 않았기에 공동창업자 둘이 아직도 각각 21%씩 지분을 보유중
-작년에 둘은 순자산 $70b가 넘는 호주 최고의 부자였음. (또한 Canva에 투자한 것으로도 몇조를 벌었음)
-하지만 최근 기술업계의...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
     </entry>
     <entry>
@@ -358,76 +361,6 @@ The first round required several online services along with HTML & JS changes
 Am I on the IndieWeb yet? originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IntelliJ (Kotlin) 매 파일마다 newline 자동으로 추가하기 (feat. EditorConfig)]]></title>
-        <id>https://jojoldu.tistory.com/673</id>
-        <link href="https://jojoldu.tistory.com/673"/>
-        <updated>2022-06-04T13:46:03.000Z</updated>
-        <summary type="html"><![CDATA[반응형
-
-                    
-                    (adsbygoogle = window.adsbygoogle || []).push({}); 
-               
-
-Github 의 코드리뷰를 보면 다음과 같이 No newline at end of file 메세지를 보여준다
-이는 파일 끝에 개행문자(newline)이 없습니다 라는 의미인데, POSIX 기반의 규칙에 기반한다. 
-EOF 가 없으면 컴파일 에러가 나는 상황을 대비한 규칙이다. 
-요즘 그럴일은 없지만 그래도 의도한대로 파일이 작동되는 것을 보장하기 위해 웬만해선 자동으로 규칙을 정해놓고 관리하는 것을 추천한다.
-이를 매번 파일 생성때마다 수동으로 계행문자를 넣는 것은 꽤나 불편한 일이다. 
-그래서 자동으로 해결하는 방법은 크게 2가지이다.
-1. IDE 설정으로 해결하기
-가장 쉬운 방법은 IDE의 설정으로 항상 파일 끝에 newline을 추가하도록 하는 것이다.
-IDE 설정 (Settings/Preferences) 을 열어 Ensure every saved file ends 을 검색한다.
-아래와 같이 Ensure every saved file ends 항목을 체크한다.
-이렇게 하면 파일을 저장할때마다 항상 newline을 추가한다.
-다만, 이 방법을 추천하진 않는다. 
-웬만하면 아래 2번째 방법을 사용하자.
-2. EditorConfig로 프로젝트 자체 설정으로 해결하기
-IDE 설정을 수정하기 보다는 editorconfig로 설정을 하는 것이 프로젝트 관리하는데 있어서 편하다.
-개발환경이 집/회사/개인노트북 등 여러 곳에 분산되어서 개발해야하는 경우
-나 외에 다른 사람들도 같이 개발해야하는 경우
-등등 IDE 설정을 매번 하기보다는 .editorconfig 로 하는 것을 강력 추천 한다.
-EditorConfig 는 코드 스타일을 관리하는 표준 도구이다. 
-대부분의 IDE에서 이를 지원하기 때문에 파일 저장시 각종 규칙에 맞게 일관된 코드 스타일을 관리할 수 있다.
-Ktlint 를 쓰더라도 EditorConfig 를 사용하는 이유는 다음과 같다.
-출처: benelog님의 블로그
-(이미 benelog님이 너무 잘 정리해주셔서) 위 이유 중에서
-코드 포맷의 문서 역할
-ktlint 업데이트로 인해 변경되는 규칙 보장
-이 2가지에 굉장히 공감하기 때문에 .editorconfig 을 설정하는 것을 추천한다.
-젯브레인 계열 IDE에서는 다음과 같이 .editorconfig 를 생성할 수 있다. 
-(그냥 파일을 생성해도 된다.)
-프로젝트 선택후 우클릭 -> New 를 선택하고 (Mac 단축키로는 Command + N)
-해당 목록에서 EditorConfig File 을 선택한다. 
-그럼 다음과 같이 여러 옵션으로 생성이 가능하다. 
-이미 사용할 포맷이 있기 때문에 아무 옵션도 선택하지 않고 OK 를 누른다.
-생성된 .editorconfig 에 아래와 같이 무난한 Kotlin 옵션을 추가한다.
-root = true
-
-[*]
-charset = utf-8
-end_of_line = lf
-indent_size = 4
-indent_style = space
-trim_trailing_whitespace = true
-insert_final_newline = true
-max_line_length = 120
-tab_width = 4
-
-[*.{kt,kts}]
-disabled_rules=import-ordering
-출처: benelog님의 블로그
-이와 같이 설정하면 파일 저장시마다 설정된 옵션에 따라 파일이 정리된다.
-젯브레인 계열 IDE에서 EditorConfig를 사용하는 자세한 방법은 공식 문서를 참고하면 좋다
-            
-반응형
-
-                    
-                    (adsbygoogle = window.adsbygoogle || []).push({});]]></summary>
-        <author>
-            <name>향로</name>
         </author>
     </entry>
 </feed>
