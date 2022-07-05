@@ -180,104 +180,104 @@
       "siteUrl": "https://news.hada.io",
       "articles": [
         {
-          "id": "https://news.hada.io/topic?id=6896",
+          "id": "https://news.hada.io/topic?id=6910",
           "author": null,
-          "description": "M1 MBP에서 칩만 M2로 교체하고, 일부만 수정한 것으로 섀시, 디스플레이, 터치바 및 레이아웃이 거의 동일함\niFixit에 의하면 케이블, 나사, 접지핀 등도 모두 동일\n하지만, M2 보급형 모델의 SSD는 구성이 달라서 M1 모델보다 느림\n이론적으로 M2 보드를 M1 MBP에 이식하면 동작해...",
-          "link": "https://news.hada.io/topic?id=6896",
-          "publishedOn": "2022-07-04T01:35:46.000Z",
-          "wordCount": 871,
-          "title": "M2 MacBook Pro 분해는 우리가 항상 의심했던 것을 확인시켜줍니다",
-          "imageUrl": "https://social.news.hada.io/topic/6896"
+          "description": "방문자의 행동 데이터와 머신러닝을 이용한 \"컨버전 모델링 플랫폼\"\nCross-Device...",
+          "link": "https://news.hada.io/topic?id=6910",
+          "publishedOn": "2022-07-05T01:19:59.000Z",
+          "wordCount": 853,
+          "title": "SegmentStream - 쿠키를 사용하지 않는 마케팅 퍼포먼스 분석 도구",
+          "imageUrl": "https://social.news.hada.io/topic/6910"
         },
         {
-          "id": "https://news.hada.io/topic?id=6895",
+          "id": "https://news.hada.io/topic?id=6909",
           "author": null,
-          "description": "대량의 논문을 빠르게 읽기 위해, \"처음 보는 논문을 요약해주는 모델\"을 개발\n실용인공지능학회(AAiCON) 발표 영상 (요약)\nSkimming 단계에서 논문 abstract 를 이용\n...",
-          "link": "https://news.hada.io/topic?id=6895",
-          "publishedOn": "2022-07-04T01:16:29.000Z",
-          "wordCount": 913,
-          "title": "Open API를 이용한 고속 논문 분석",
-          "imageUrl": "https://social.news.hada.io/topic/6895"
+          "description": "라이트룸과 유사한 인터페이스, 많은 기능을 가진 전문가용 오픈소스 사진편집도구 (윈도우/맥/리눅스 지원)\n4.0의 메인 기능\n\nColor & Exposure 매핑\nFilmic v6\ndarktable Uniform Color Space 2022\nGuided laplacian highlight reconstruction\nUI ...",
+          "link": "https://news.hada.io/topic?id=6909",
+          "publishedOn": "2022-07-05T01:06:03.000Z",
+          "wordCount": 811,
+          "title": "Darktable 4.0 릴리즈",
+          "imageUrl": "https://social.news.hada.io/topic/6909"
         },
         {
-          "id": "https://news.hada.io/topic?id=6894",
+          "id": "https://news.hada.io/topic?id=6908",
           "author": null,
-          "description": "2019년 12월의 8.2 이후 첫 릴리즈\n가장 중요한 변경은 Vim9 스크립트 언어 도입\n\n10~100배의 성능 향상\n일반적인 프로그래밍 언어와 더 비슷\n레거시 스크립트는 그대로 지원\n흥미로운 기능들\n\n속도향상의 이점을 보기 위해선 함수는 def로 정...",
-          "link": "https://news.hada.io/topic?id=6894",
-          "publishedOn": "2022-07-04T00:53:36.000Z",
+          "description": "일할 곳을 찾고 계시다면, 간단히 정보를 남겨 주세요.\n지역 :\n위 정보는 구인을 위해서만 이용해 주세요\n~~\n구직자 들이 홍보할 수 있는 공간도 필요하다는 얘기를 주셔서",
+          "link": "https://news.hada.io/topic?id=6908",
+          "publishedOn": "2022-07-05T01:01:49.000Z",
           "wordCount": 861,
-          "title": "Vim 9.0 릴리즈",
-          "imageUrl": "https://social.news.hada.io/topic/6894"
+          "title": "Ask GN: 이달의 구직 - 같이 일할 팀을 찾습니다 (2022년 7월)",
+          "imageUrl": "https://social.news.hada.io/topic/6908"
         },
         {
-          "id": "https://news.hada.io/topic?id=6893",
+          "id": "https://news.hada.io/topic?id=6907",
           "author": null,
-          "description": "YC가 투자한 스타트업들이 새로운 제품/기능을 홍보하는 공간\n업종, Batch별로 필터링. 투표/날짜 순 정렬 지원\n해커뉴스와 같은 형태로 투표에 따라 순위 조정\n이메일로 새 런칭 정보 구독 가능\n\n...",
-          "link": "https://news.hada.io/topic?id=6893",
-          "publishedOn": "2022-07-04T00:35:15.000Z",
-          "wordCount": 842,
-          "title": "Y Combinator, Launch YC 공개",
-          "imageUrl": "https://social.news.hada.io/topic/6893"
+          "description": "현재 근무중인 스타트업에서 같이 일할 멤버를 찾고 계시다면\n멤버가 직접 1개의 댓글로 홍보를 작성\"하시면 됩니다. (서치펌 등은 불가)\n이 글은 매월 첫번째 월요일에 등록",
+          "link": "https://news.hada.io/topic?id=6907",
+          "publishedOn": "2022-07-05T00:59:16.000Z",
+          "wordCount": 886,
+          "title": "Ask GN: 이달의 구인 - 멤버를 찾고 계신가요 ? (2022년 7월)",
+          "imageUrl": "https://social.news.hada.io/topic/6907"
         },
         {
-          "id": "https://news.hada.io/topic?id=6892",
+          "id": "https://news.hada.io/topic?id=6906",
           "author": null,
-          "description": "기술 기업들의 정리해고가 쌓여가는 중",
-          "link": "https://news.hada.io/topic?id=6892",
-          "publishedOn": "2022-07-03T02:38:25.000Z",
-          "wordCount": 760,
-          "title": "기술 기업들의 정리해고가 쌓여가는 중",
-          "imageUrl": "https://social.news.hada.io/topic/6892"
+          "description": "인간 지식의 보존과 해방에 기여하는 것을 목표\n처음으로 미러링한 것은 Z-Library (유명하지만, 불법인 라이브러리)\n→ Library Genesis(libgen)을 가져...",
+          "link": "https://news.hada.io/topic?id=6906",
+          "publishedOn": "2022-07-05T00:53:06.000Z",
+          "wordCount": 888,
+          "title": "Pirate Library Mirror",
+          "imageUrl": "https://social.news.hada.io/topic/6906"
         },
         {
-          "id": "https://news.hada.io/topic?id=6891",
+          "id": "https://news.hada.io/topic?id=6905",
           "author": null,
-          "description": "NFC 단추와 iOS Shortcut을 이용해서 매일 입은 것들을 추적하여 Coda에 기록\n상품별 가격 입력후, 입은 횟수당 나눠서 CPW(Cost Per Wear)를 계산하고, 어떤 옷들을 주로 입는지 분석\n실제론 iOS Shortcut + Coda 만으로도 가능(단추를 못 넣는 신발등)\n\n...",
-          "link": "https://news.hada.io/topic?id=6891",
-          "publishedOn": "2022-07-03T01:25:34.000Z",
-          "wordCount": 868,
-          "title": "1년간 입은 옷과 신발들을 모두 트래킹 하기",
-          "imageUrl": "https://social.news.hada.io/topic/6891"
+          "description": "좋아하는 책을 입력하면 실제 독자 데이터 기반으로 다음에 읽을 책을 추천 및 제안해주는 사이트\n주요 카테고리별 추천 : SF, 판타지, 시간여행, 역사소설, 디스토피아, 스릴러, 로맨스..\n\n...",
+          "link": "https://news.hada.io/topic?id=6905",
+          "publishedOn": "2022-07-05T00:33:41.000Z",
+          "wordCount": 882,
+          "title": "What Should I Read Next? - 다음에 읽을 책은?",
+          "imageUrl": "https://social.news.hada.io/topic/6905"
         },
         {
-          "id": "https://news.hada.io/topic?id=6890",
+          "id": "https://news.hada.io/topic?id=6904",
           "author": null,
-          "description": "번역서가 나온 \"파이썬 라이브러리를 활용한 데이터 분석(2판)\"의 최신 판\nHTML 오픈 억세스 버전으로 선공개. 추가 편집후 연말에 출판 예정\npandas 1.4.0 및 Python 3.10 으로 업데이트\n→ 2판과 3판 차이는 2017년 이후 바뀐 pandas 내용에 중점\n\n...",
-          "link": "https://news.hada.io/topic?id=6890",
-          "publishedOn": "2022-07-03T01:07:26.000Z",
-          "wordCount": 823,
-          "title": "Python for Data Analysis 3판 - 오픈 억세스 버전",
-          "imageUrl": "https://social.news.hada.io/topic/6890"
+          "description": "기존 ReactNative FlatList와 비슷한 속성 & 사용법을 가지지만 5~10배 빠름\n메모리 효율적인 스크롤링 지원(아이템을 재생성하지 않음)\nShopify가 만든 오픈소스\n\n...",
+          "link": "https://news.hada.io/topic?id=6904",
+          "publishedOn": "2022-07-05T00:15:27.000Z",
+          "wordCount": 798,
+          "title": "FlashList - ReactNative용 고성능 리스트 컴포넌트 오픈소스",
+          "imageUrl": "https://social.news.hada.io/topic/6904"
         },
         {
-          "id": "https://news.hada.io/topic?id=6889",
+          "id": "https://news.hada.io/topic?id=6903",
           "author": null,
-          "description": "f███, s███ 처럼 보이게 자동으로 표시\nCC0 인 Aileron 폰트 기반으로 Ligature(합자)를 이용해서 처리\n폰트의 이름은 AOL에서 가입을 차단해서 유명해진 도시에서 유래 ( 가운데에 있는 c███ 때문에 )\n\n...",
-          "link": "https://news.hada.io/topic?id=6889",
-          "publishedOn": "2022-07-03T00:53:46.000Z",
-          "wordCount": 831,
-          "title": "Scunthorpe Sans - 욕설을 자동으로 필터링하는 폰트",
-          "imageUrl": "https://social.news.hada.io/topic/6889"
+          "description": "다양한 그리기 도구를 이용해서 지도 시각화 자료 생성\n50개 이상의 데이터 레이어 기본 지원\nKML, KMZ, GPX, JSON, GeoJSON 파일 임포트 가능",
+          "link": "https://news.hada.io/topic?id=6903",
+          "publishedOn": "2022-07-05T00:00:50.000Z",
+          "wordCount": 834,
+          "title": "Felt - 지도 기반 시각화 만들기",
+          "imageUrl": "https://social.news.hada.io/topic/6903"
         },
         {
-          "id": "https://news.hada.io/topic?id=6888",
+          "id": "https://news.hada.io/topic?id=6902",
           "author": null,
-          "description": "원본 소스를 유지하는 비파괴 멀티트랙 편집\n쉬운 녹음 및 기존 트랙 일부에 덮어쓰기 가능\n각 챕터 정보를 ID3 챕터 프레임에 저장\n맥(M1/인텔)지원. 윈도우 지원예정\n오디오 엔진 및 데이터는 Rust + UI는 Qt 6 기반\n\n...",
-          "link": "https://news.hada.io/topic?id=6888",
-          "publishedOn": "2022-07-02T00:51:01.000Z",
-          "wordCount": 814,
-          "title": "Teapodo - 팟캐스트용 가벼운 오디오 편집기",
-          "imageUrl": "https://social.news.hada.io/topic/6888"
+          "description": "블룸버그의 Mark Gurman이 뉴스레터에서 언급\n코드명 B620으로 개발중이며, 애플워치에 사용하는 S8 프로세서를 사용\n오리지널 HomePod와 크기 및 오디오 성능이 비슷할 것\n상단에 개선된 디스플레이 및 멀티터치가 지원될 수도\n아마도 2023년을 넘어서나 나올것 같다고...",
+          "link": "https://news.hada.io/topic?id=6902",
+          "publishedOn": "2022-07-04T23:46:00.000Z",
+          "wordCount": 804,
+          "title": "애플이 고급형 HomePod을 되살릴 것",
+          "imageUrl": "https://social.news.hada.io/topic/6902"
         },
         {
-          "id": "https://news.hada.io/topic?id=6887",
+          "id": "https://news.hada.io/topic?id=6901",
           "author": null,
-          "description": "작년 1월에 출시한 RP2040기반 라즈베리 Pi Pico는 현재까지 2백만개 판매\n신형 $6 Pico W는 802.11n 을 추가\n$5 Pico H / $7 Pico WH는 헤더와 3핀 디버그 커넥터 포함\nInfineon CYW43439 Wireless칩 사용\n\n...",
-          "link": "https://news.hada.io/topic?id=6887",
-          "publishedOn": "2022-07-02T00:29:01.000Z",
-          "wordCount": 830,
-          "title": "Raspberry Pi Pico W : $6짜리 IoT 플랫폼",
-          "imageUrl": "https://social.news.hada.io/topic/6887"
+          "description": "게임처럼 원하는 아이템을 사고 팔 수 없을까?\n기능\n[팝니다@@@] 트위터 유저가 봇 계정 @applepie_market을 언급하여\n‘삽니다', ‘팝니다', ‘삼', ‘팜’, '커미션'이 포함된 트윗을 올리면 자동으로 트윗을 홍보하는 웹페이지를 생성해드려요!\n사진을 1장에서 4장까지 첨",
+          "link": "https://news.hada.io/topic?id=6901",
+          "publishedOn": "2022-07-04T22:45:40.000Z",
+          "wordCount": 1055,
+          "title": "Show GN: 트위터 연동 자유시장",
+          "imageUrl": "https://social.news.hada.io/topic/6901"
         }
       ]
     },
