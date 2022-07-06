@@ -168,7 +168,7 @@
           "description": "Aurora v1 EOL을 대처 하는 우리의 자세 (feat. MySQL 5.6) End of Life! 그렇게 EOL 입니다. MySQL 5.6을 기반으로 하는 AWS의 Aurora v1 버전의 EOL 소식이  들려오고 있습니다. AWS Aurora v1 EOL 소식 2023년 2월을...\nThe post Aurora v1 EOL을 대처 하는 우리의 자세 (feat. MySQL 5.6) appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/aurora-v1-eol%ec%9d%84-%eb%8c%80%ec%b2%98-%ed%95%98%eb%8a%94-%ec%9a%b0%eb%a6%ac%ec%9d%98-%ec%9e%90%ec%84%b8-feat-mysql-5-6/",
           "publishedOn": "2022-06-11T13:19:35.000Z",
-          "wordCount": 2105,
+          "wordCount": 2103,
           "title": "Aurora v1 EOL을 대처 하는 우리의 자세 (feat. MySQL 5.6)",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2019/04/mysql_PNG19-300x300.png"
         }
@@ -180,12 +180,82 @@
       "siteUrl": "https://news.hada.io",
       "articles": [
         {
+          "id": "https://news.hada.io/topic?id=6918",
+          "author": null,
+          "description": "PDF로 저장해서 인쇄 가능\n앞면 및 뒷면 접힘 부분에 원하는 문구 입력\n글자색 / 글자 크기 지정\n다양한 웹폰트 사용 가능(눈누에서 font-face CSS를 복사해서 붙여넣기)\n\n...",
+          "link": "https://news.hada.io/topic?id=6918",
+          "publishedOn": "2022-07-06T01:26:26.000Z",
+          "wordCount": 813,
+          "title": "랜선 문방구 - 용돈봉투 출력기",
+          "imageUrl": "https://social.news.hada.io/topic/6918"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6917",
+          "author": null,
+          "description": "KBS 아카이브가 보존한 영상 클립, 이미지, 오디오를 무료 공개\n비영리적 목적의 콘텐츠 제작, 교육과 학습, 학술과 연구 및 개인 SNS에 자유롭게 활용 가능\n\n...",
+          "link": "https://news.hada.io/topic?id=6917",
+          "publishedOn": "2022-07-06T01:09:20.000Z",
+          "wordCount": 837,
+          "title": "KBS 바다 - 고품질 공공 스톡 콘텐츠 서비스",
+          "imageUrl": "https://social.news.hada.io/topic/6917"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6916",
+          "author": null,
+          "description": "한 해커가 상하이 경찰(SHGA) DB에서 가져온 10억명의 개인정보를 10 비트코인(2.6억원)에 판매중\n샘플에는 이름, 주소, 출생지, 신분증번호(중국의 주민번호), 핸드폰번호, 사건 기록 등이 포함\n알리바바(Aliyun)의 프라이빗 클라우드 서버에서 가져온 것\nWSJ에서 샘플데이터의 몇...",
+          "link": "https://news.hada.io/topic?id=6916",
+          "publishedOn": "2022-07-06T00:53:32.000Z",
+          "wordCount": 867,
+          "title": "중국인 10억명의 개인정보가 유출되어 판매사이트에 올라옴",
+          "imageUrl": "https://social.news.hada.io/topic/6916"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6915",
+          "author": null,
+          "description": "Chess.js(이동 및 검증) 와 Chessboard.js(시각화) 를 이용\n랜덤 이동하기 : Chess.js가 이동 가능한 모든 수를 배열로 주면, 거기서 랜덤 선택\n상대말을 잡는 수만 골라서 그중에서 선택하기(없으면 랜덤)\n체스 끝나고 생성되는 PGN(Portable Game Notation)으로 성능 ...",
+          "link": "https://news.hada.io/topic?id=6915",
+          "publishedOn": "2022-07-06T00:37:42.000Z",
+          "wordCount": 841,
+          "title": "체스엔진을 처음부터 만들어 보기",
+          "imageUrl": "https://social.news.hada.io/topic/6915"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6914",
+          "author": null,
+          "description": "웹캠을 통해 AI가 판단하는 자신의 얼굴에 대한 정보를 확인해보기\n아름다움 / 나이 / 성별 / BMI / 기대수명 / 감정표현 등을 체크하고 어떤 방식으로 확인하는지를 설명\nEU의 Sherpa 연구 프로젝트의 일환\n모든 인식 알고리듬은 로컬에서 수행되며, 개인정보는 서버로 보내지 않음...",
+          "link": "https://news.hada.io/topic?id=6914",
+          "publishedOn": "2022-07-06T00:25:02.000Z",
+          "wordCount": 830,
+          "title": "How Normal Am I",
+          "imageUrl": "https://social.news.hada.io/topic/6914"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6913",
+          "author": null,
+          "description": "로컬에서 간단히 SQS 연동을 테스트하는 용도\nJS로 개발되어 CLI 또는 NPM 모듈로 사용 가능\nsqslite --port=3001로 서버 실행후 AWS CLI로 호출\naws sqs create-queue --queue-name=test-queue-1 --region=us-east-1 --endpoint=http://localhost:3001\n...",
+          "link": "https://news.hada.io/topic?id=6913",
+          "publishedOn": "2022-07-06T00:11:52.000Z",
+          "wordCount": 845,
+          "title": "SQSLite - AWS SQS의 가벼운 구현체",
+          "imageUrl": "https://social.news.hada.io/topic/6913"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6911",
+          "author": null,
+          "description": "AWS ECS에 대한 간단한 설명과 비용 절감을 위해 신경써야할 부분\nECS Managed Cluster Auto Scaling에 대한 설명과 작동 원리, 문제점\n\nTask가 하나라도 실행되고 있는 EC2 instance는 종료시키지 않기 때문에 비용상 낭비되는 상황이 자주 발생\n문제 해결하기",
+          "link": "https://news.hada.io/topic?id=6911",
+          "publishedOn": "2022-07-05T06:20:38.000Z",
+          "wordCount": 846,
+          "title": "ECS Task Rebalancing을 이용한 EC2 비용 최적화 노하우",
+          "imageUrl": "https://social.news.hada.io/topic/6911"
+        },
+        {
           "id": "https://news.hada.io/topic?id=6910",
           "author": null,
           "description": "방문자의 행동 데이터와 머신러닝을 이용한 \"컨버전 모델링 플랫폼\"\nCross-Device...",
           "link": "https://news.hada.io/topic?id=6910",
           "publishedOn": "2022-07-05T01:19:59.000Z",
-          "wordCount": 853,
+          "wordCount": 862,
           "title": "SegmentStream - 쿠키를 사용하지 않는 마케팅 퍼포먼스 분석 도구",
           "imageUrl": "https://social.news.hada.io/topic/6910"
         },
@@ -208,76 +278,6 @@
           "wordCount": 861,
           "title": "Ask GN: 이달의 구직 - 같이 일할 팀을 찾습니다 (2022년 7월)",
           "imageUrl": "https://social.news.hada.io/topic/6908"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6907",
-          "author": null,
-          "description": "현재 근무중인 스타트업에서 같이 일할 멤버를 찾고 계시다면\n멤버가 직접 1개의 댓글로 홍보를 작성\"하시면 됩니다. (서치펌 등은 불가)\n이 글은 매월 첫번째 월요일에 등록",
-          "link": "https://news.hada.io/topic?id=6907",
-          "publishedOn": "2022-07-05T00:59:16.000Z",
-          "wordCount": 886,
-          "title": "Ask GN: 이달의 구인 - 멤버를 찾고 계신가요 ? (2022년 7월)",
-          "imageUrl": "https://social.news.hada.io/topic/6907"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6906",
-          "author": null,
-          "description": "인간 지식의 보존과 해방에 기여하는 것을 목표\n처음으로 미러링한 것은 Z-Library (유명하지만, 불법인 라이브러리)\n→ Library Genesis(libgen)을 가져...",
-          "link": "https://news.hada.io/topic?id=6906",
-          "publishedOn": "2022-07-05T00:53:06.000Z",
-          "wordCount": 888,
-          "title": "Pirate Library Mirror",
-          "imageUrl": "https://social.news.hada.io/topic/6906"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6905",
-          "author": null,
-          "description": "좋아하는 책을 입력하면 실제 독자 데이터 기반으로 다음에 읽을 책을 추천 및 제안해주는 사이트\n주요 카테고리별 추천 : SF, 판타지, 시간여행, 역사소설, 디스토피아, 스릴러, 로맨스..\n\n...",
-          "link": "https://news.hada.io/topic?id=6905",
-          "publishedOn": "2022-07-05T00:33:41.000Z",
-          "wordCount": 882,
-          "title": "What Should I Read Next? - 다음에 읽을 책은?",
-          "imageUrl": "https://social.news.hada.io/topic/6905"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6904",
-          "author": null,
-          "description": "기존 ReactNative FlatList와 비슷한 속성 & 사용법을 가지지만 5~10배 빠름\n메모리 효율적인 스크롤링 지원(아이템을 재생성하지 않음)\nShopify가 만든 오픈소스\n\n...",
-          "link": "https://news.hada.io/topic?id=6904",
-          "publishedOn": "2022-07-05T00:15:27.000Z",
-          "wordCount": 798,
-          "title": "FlashList - ReactNative용 고성능 리스트 컴포넌트 오픈소스",
-          "imageUrl": "https://social.news.hada.io/topic/6904"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6903",
-          "author": null,
-          "description": "다양한 그리기 도구를 이용해서 지도 시각화 자료 생성\n50개 이상의 데이터 레이어 기본 지원\nKML, KMZ, GPX, JSON, GeoJSON 파일 임포트 가능",
-          "link": "https://news.hada.io/topic?id=6903",
-          "publishedOn": "2022-07-05T00:00:50.000Z",
-          "wordCount": 834,
-          "title": "Felt - 지도 기반 시각화 만들기",
-          "imageUrl": "https://social.news.hada.io/topic/6903"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6902",
-          "author": null,
-          "description": "블룸버그의 Mark Gurman이 뉴스레터에서 언급\n코드명 B620으로 개발중이며, 애플워치에 사용하는 S8 프로세서를 사용\n오리지널 HomePod와 크기 및 오디오 성능이 비슷할 것\n상단에 개선된 디스플레이 및 멀티터치가 지원될 수도\n아마도 2023년을 넘어서나 나올것 같다고...",
-          "link": "https://news.hada.io/topic?id=6902",
-          "publishedOn": "2022-07-04T23:46:00.000Z",
-          "wordCount": 804,
-          "title": "애플이 고급형 HomePod을 되살릴 것",
-          "imageUrl": "https://social.news.hada.io/topic/6902"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6901",
-          "author": null,
-          "description": "게임처럼 원하는 아이템을 사고 팔 수 없을까?\n기능\n[팝니다@@@] 트위터 유저가 봇 계정 @applepie_market을 언급하여\n‘삽니다', ‘팝니다', ‘삼', ‘팜’, '커미션'이 포함된 트윗을 올리면 자동으로 트윗을 홍보하는 웹페이지를 생성해드려요!\n사진을 1장에서 4장까지 첨",
-          "link": "https://news.hada.io/topic?id=6901",
-          "publishedOn": "2022-07-04T22:45:40.000Z",
-          "wordCount": 1055,
-          "title": "Show GN: 트위터 연동 자유시장",
-          "imageUrl": "https://social.news.hada.io/topic/6901"
         }
       ]
     },
