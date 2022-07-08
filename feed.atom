@@ -1,10 +1,133 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-07T02:01:17.060Z</id>
+    <id>urn:2022-07-08T01:58:10.129Z</id>
     <title>osmos::feed</title>
-    <updated>2022-07-07T02:01:17.060Z</updated>
+    <updated>2022-07-08T01:58:10.129Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[애플, 스파이웨어로부터 보호하는 '락다운 모드' 프리뷰 공개]]></title>
+        <id>https://news.hada.io/topic?id=6936</id>
+        <link href="https://news.hada.io/topic?id=6936"/>
+        <updated>2022-07-08T01:20:02.000Z</updated>
+        <summary type="html"><![CDATA[국가 후원으로 용병 스파이웨어를 개발하는 민간 기업(NSO Group같은)으로부터 고도로 표적화된 사이버공격을 받을 위험에 처할 소지가 있는 사용자에게 특수 추가 보호를 제공하는 보안 기능
+디지털 보안상 중대한 표적 위협에 직면한 극소수의 사용자에게 최고 수준의 선택적 보호를 제공하도록 설계...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[자동차 회사 계보도]]></title>
+        <id>https://news.hada.io/topic?id=6935</id>
+        <link href="https://news.hada.io/topic?id=6935"/>
+        <updated>2022-07-08T01:06:01.000Z</updated>
+        <summary type="html"><![CDATA[GM : 쉐보레, 뷰익, 캐딜락, GMC
+폭스바겐 : 아우디, 람보르기니, 벤틀리, 부가티, 포르쉐,..
+스텔란티스 : 피아트, 마세라티, 크라이슬러, 짚, 닷지, 램, 푸조, 시트로앵,..
+다임러 : 벤츠, 스마트, 마이바흐,..
+BMW : BMW, 미니, 롤스로이스,..
+Geely : 볼보, ...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서울, 가보자고 - 네이버 데이터가 알려주는 서울의 맛집]]></title>
+        <id>https://news.hada.io/topic?id=6934</id>
+        <link href="https://news.hada.io/topic?id=6934"/>
+        <updated>2022-07-08T00:44:01.000Z</updated>
+        <summary type="html"><![CDATA[사람들이 네이버지도에서 많이 저장한 장소
+리뷰어들이 많이 리뷰한 맛집 (연령대별, 리뷰 급상승)
+큐레이션 테마 : 을지로, 차차차, 오마카세, 평양냉면
+내비게이션으로 많이 찾아간 카페/음식점
+2021년 1월부터 2022년 5월까지의 데이터 기반
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이커머스 광고 현황 보고서 (2022년 1월~3월, 13p PDF)]]></title>
+        <id>https://news.hada.io/topic?id=6933</id>
+        <link href="https://news.hada.io/topic?id=6933"/>
+        <updated>2022-07-08T00:31:01.000Z</updated>
+        <summary type="html"><![CDATA[ROAS by 채널 & 광고 플랫폼
+
+전체 광고 금액에서 5% 이상 소비 하는 채널중
+5% 이하에서는 Pinterest(2.2), TikTok(1.61), Reddit(1.58) 이 강세
+신규 사용자 모집에 좋은 채널...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQLGlot - Python SQL Parser & Transpiler]]></title>
+        <id>https://news.hada.io/topic?id=6932</id>
+        <link href="https://news.hada.io/topic?id=6932"/>
+        <updated>2022-07-08T00:19:01.000Z</updated>
+        <summary type="html"><![CDATA[디펜던시 없는 SQL 파서
+SQL을 포맷팅하거나 Presto, Spark, Hive 용 등으로 변환 가능
+다양한 SQL을 읽어서 문법적으로 정확한 SQL을 생성
+Pure-Python SQL 파서중에선 가장 빠름
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFT 가격 허들을 해결하기 위한 솔루션과 마켓]]></title>
+        <id>https://news.hada.io/topic?id=6931</id>
+        <link href="https://news.hada.io/topic?id=6931"/>
+        <updated>2022-07-08T00:15:02.000Z</updated>
+        <summary type="html"><![CDATA[NFT의 가격이 높아지면 발생하는 문제 (1)구매자의 진입 장벽 (2) 낮은 유동성
+대표적인 방법 3가지: (1) 분할(Fractionalization) (2)공동 구매 (3)임대(Rent)
+각 방법이 이뤄지는 과정과 사례 중심 분석 글.
+내용 정리
+분할: 자산유동화의...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[테슬라는 더 이상 가장 큰 전기차 제조사가 아니다]]></title>
+        <id>https://news.hada.io/topic?id=6930</id>
+        <link href="https://news.hada.io/topic?id=6930"/>
+        <updated>2022-07-08T00:06:01.000Z</updated>
+        <summary type="html"><![CDATA[워렌 버핏이 투자한 중국 BYD가 전기차 판매에서 테슬라를 추월
+2022년 상반기동안 63.8만대를 인도하여 56만대를 인도한 테슬라를 앞질렀음
+전년 동기 대비 325% 증가한 수치
+단, BYD는 32만대의 배터리 전기차와 31만대의 플러그인 하이브리드 차량. 테슬라는 모두 완전 배터리 차...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[wiby - 오래된 웹사이트 검색엔진]]></title>
+        <id>https://news.hada.io/topic?id=6929</id>
+        <link href="https://news.hada.io/topic?id=6929"/>
+        <updated>2022-07-07T13:09:22.000Z</updated>
+        <summary type="html"><![CDATA[웹의 초창기때 만들어진 오래된 사이트들을 초점으로 맞춘 검색엔진
+구글검색으로는 찾기 힘든 독특한 개인 사이트들을 잔뜩 발견할 수 있음
+suprise me 버튼을 누르면 랜덤한 사이트로 이동
+독자적인 index 와 bing 검색엔진의 index 를 조합해 검]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아마존에서 배운 5가지 글쓰기와 소통 방식]]></title>
+        <id>https://news.hada.io/topic?id=6928</id>
+        <link href="https://news.hada.io/topic?id=6928"/>
+        <updated>2022-07-07T01:59:43.000Z</updated>
+        <summary type="html"><![CDATA[데이터에 기반한 명확한 문장: 매출이 많이 증가했다 X, 매출이 25% 늘었다 O
+구조화 된 문장상황: 진행 결과, 배우거나 부족한 점, 향후 계획 또는 미래, 4가지를 포함한 문단 구성
+똑같은 정보를 기반한 팀 미팅: 팀 회의가 시작되면, 15분 정도 각자가 미리 써 놓은 4가지 업무 항목들을 ...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AnotherPomodoro - 웹 뽀모도로 타이머 오픈소스]]></title>
         <id>https://news.hada.io/topic?id=6926</id>
@@ -14,128 +137,6 @@
 종료에 대한 오디오 & 웹노티 알림 지원
 Adaptive Tiking : 백그라운드에서는 타이머 틱을 더 적게
 다양한 스타일 제공 : 다크모드, 시간표시 (12:34, 13m, 50%)
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Copper - Go용 Web App 툴킷]]></title>
-        <id>https://news.hada.io/topic?id=6925</id>
-        <link href="https://news.hada.io/topic?id=6925"/>
-        <updated>2022-07-07T00:41:01.000Z</updated>
-        <summary type="html"><![CDATA[Web App을 작성하기 위한 풀스택 툴킷
-프론트엔드+백엔드를 싱글 바이너리로 배포
-서버사이드 HTML 지원
-변경을 감지하여 자동 재시작
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fedex, 데이터센터를 폐쇄하고 2024년까지 모든 메임프레임 폐기 예정]]></title>
-        <id>https://news.hada.io/topic?id=6924</id>
-        <link href="https://news.hada.io/topic?id=6924"/>
-        <updated>2022-07-07T00:29:01.000Z</updated>
-        <summary type="html"><![CDATA[클라우드 기반의 "데이터 센터 제로, 메인프레임 제로" 환경을 목표
-Oracle Cloud 및 Microsoft Azure 를 사용중
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSVFiddle - 웹에서 CSV를 SQL로 쿼리하기]]></title>
-        <id>https://news.hada.io/topic?id=6923</id>
-        <link href="https://news.hada.io/topic?id=6923"/>
-        <updated>2022-07-07T00:17:02.000Z</updated>
-        <summary type="html"><![CDATA[DuckDB-Wasm을 이용
-SQL 자동 완성 지원
-공유기능 제공
-데이터는 서버에 업로드 되지 않고, 브라우저에서만 100% 처리됨
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빌게이츠가 자신의 48년전 대학시절 이력서 원본을 공개]]></title>
-        <id>https://news.hada.io/topic?id=6922</id>
-        <link href="https://news.hada.io/topic?id=6922"/>
-        <updated>2022-07-07T00:05:01.000Z</updated>
-        <summary type="html"><![CDATA[당신이 최근 졸업했거나 중퇴했거나, 여러분의 이력서가 본인 이력서 보다 훨씬 좋아보일 거라고..
-하버드 1학년 재학중이고 이런 수업을 수강중 : OS 구조, DB 관리, 컴파일러 제작 및 컴퓨터 그래픽 (다 A 받았음)
-경험 : PDP-10/8/11/1, CDC 6400, MCS-8008, FORTRAN, COBOL, ALGOL, BASI...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bun - JavaScriptCore 기반의 빠른 JavaScript 런타임/트랜스파일러/NPM 클라이언트]]></title>
-        <id>https://news.hada.io/topic?id=6921</id>
-        <link href="https://news.hada.io/topic?id=6921"/>
-        <updated>2022-07-06T04:26:28.000Z</updated>
-        <summary type="html"><![CDATA[Node, Deno와 같은 JavaScript 런타임
-속도를 우선으로 개발
-
-npm run을 bun run으로 바꾸기만 해도 30배 빠르게 동작: https://twitter.com/jarredsumner/status/1454218996983623685
-npm과 호환 가능한 패키지 매니저를 포함
-
-yarn을 bun install로 바꾸기만 ...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NIST 양자내성암호 표준 발표]]></title>
-        <id>https://news.hada.io/topic?id=6920</id>
-        <link href="https://news.hada.io/topic?id=6920"/>
-        <updated>2022-07-06T04:01:59.000Z</updated>
-        <summary type="html"><![CDATA[NIST(미국 국립표준기술연구소)가 기존 암호 체계와 달리 양자 컴퓨터가 해독하기 힘든 암호 체계인 양자내성암호 표준 4개를 선정.
-2016년부터 시작된 NIST 양자내성암호 대회(Post-Quantum Cryptography Competition)에 제출받은 암호 알고리즘들을 4회를 걸쳐 검증함.
-통신용 암호에는 CR...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[W3C가 분산신원식별자 DID 1.0을 권장사항으로 승인]]></title>
-        <id>https://news.hada.io/topic?id=6919</id>
-        <link href="https://news.hada.io/topic?id=6919"/>
-        <updated>2022-07-06T01:51:37.000Z</updated>
-        <summary type="html"><![CDATA[DID:{method}:{string}
-하지만 구글, 애플, 모질라가 method 간 상호운용성 및 m]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[랜선 문방구 - 용돈봉투 출력기]]></title>
-        <id>https://news.hada.io/topic?id=6918</id>
-        <link href="https://news.hada.io/topic?id=6918"/>
-        <updated>2022-07-06T01:26:26.000Z</updated>
-        <summary type="html"><![CDATA[PDF로 저장해서 인쇄 가능
-앞면 및 뒷면 접힘 부분에 원하는 문구 입력
-글자색 / 글자 크기 지정
-다양한 웹폰트 사용 가능(눈누에서 font-face CSS를 복사해서 붙여넣기)
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KBS 바다 - 고품질 공공 스톡 콘텐츠 서비스]]></title>
-        <id>https://news.hada.io/topic?id=6917</id>
-        <link href="https://news.hada.io/topic?id=6917"/>
-        <updated>2022-07-06T01:09:20.000Z</updated>
-        <summary type="html"><![CDATA[KBS 아카이브가 보존한 영상 클립, 이미지, 오디오를 무료 공개
-비영리적 목적의 콘텐츠 제작, 교육과 학습, 학술과 연구 및 개인 SNS에 자유롭게 활용 가능
 
 ...]]></summary>
         <author>
