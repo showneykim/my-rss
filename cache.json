@@ -11,7 +11,7 @@
           "description": "For this fourth and final article of our little series on single-element loaders, we are going to explore 3D patterns. When creating a 3D element, it’s hard to imagine that just one HTML element is enough to simulate something like all six faces of a cube. But  maybe we can get away …\nSingle Element Loaders: Going 3D! originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/single-element-loaders-going-3d/",
           "publishedOn": "2022-07-01T13:24:09.000Z",
-          "wordCount": 3068,
+          "wordCount": 3079,
           "title": "Single Element Loaders: Going 3D!",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366544"
         },
@@ -31,7 +31,7 @@
           "description": "Eric Eggert:\nThere are a few legitimate use cases for this technique. For example, you might have a table with titles and descriptions. To preserve more space for the title, you constrain the description to one line on small \n…\nText-overflow: ellipsis considered harmful originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/text-overflow-ellipsis-considered-harmful/",
           "publishedOn": "2022-06-30T13:38:16.000Z",
-          "wordCount": 1241,
+          "wordCount": 1301,
           "title": "Text-overflow: ellipsis considered harmful",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366557"
         },
@@ -51,7 +51,7 @@
           "description": "Hey, so it’s been a minute since we announced that CSS-Tricks is now part of the DigitalOcean family. Things are pretty much business as usual and hopefully it feels that way to you, too. Now that we’re getting settled, we’re …\nHelp Shape the Future of CSS-Tricks! originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/help-shape-the-future-of-css-tricks/",
           "publishedOn": "2022-06-28T19:52:48.000Z",
-          "wordCount": 1128,
+          "wordCount": 1146,
           "title": "Help Shape the Future of CSS-Tricks!",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366554"
         },
@@ -61,7 +61,7 @@
           "description": "We all make mistakes in our code. It happens! I know if I had one of those “Days Since Last Mistake” signs hanging over my desk, a big ol’ goose egg would be hovering above me all the time. It …\nMy Dumbest CSS Mistakes originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/my-dumbest-css-mistakes/",
           "publishedOn": "2022-06-28T15:10:31.000Z",
-          "wordCount": 2399,
+          "wordCount": 2614,
           "title": "My Dumbest CSS Mistakes",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366484"
         },
@@ -91,7 +91,7 @@
           "description": "We’re all familiar with the standard way of linking up a stylesheet to the <head> of an HTML doc, right? That’s just one of several ways we’re able to write CSS. But what does it look like to style things …\nDifferent Ways to Write CSS in React originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/different-ways-to-write-css-in-react/",
           "publishedOn": "2022-06-22T14:24:37.000Z",
-          "wordCount": 2111,
+          "wordCount": 2166,
           "title": "Different Ways to Write CSS in React",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366452"
         },
@@ -101,7 +101,7 @@
           "description": "We’re looking at loaders in this series. More than that, we’re breaking down some common loader patterns and how to re-create them with nothing more than a single div. So far, we’ve picked apart the classic spinning loader. Now, …\nSingle Element Loaders: The Dots originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/single-element-loaders-the-dots/",
           "publishedOn": "2022-06-17T14:47:55.000Z",
-          "wordCount": 2410,
+          "wordCount": 2421,
           "title": "Single Element Loaders: The Dots",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366342"
         },
@@ -168,7 +168,7 @@
           "description": "Aurora v1 EOL을 대처 하는 우리의 자세 (feat. MySQL 5.6) End of Life! 그렇게 EOL 입니다. MySQL 5.6을 기반으로 하는 AWS의 Aurora v1 버전의 EOL 소식이  들려오고 있습니다. AWS Aurora v1 EOL 소식 2023년 2월을...\nThe post Aurora v1 EOL을 대처 하는 우리의 자세 (feat. MySQL 5.6) appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/aurora-v1-eol%ec%9d%84-%eb%8c%80%ec%b2%98-%ed%95%98%eb%8a%94-%ec%9a%b0%eb%a6%ac%ec%9d%98-%ec%9e%90%ec%84%b8-feat-mysql-5-6/",
           "publishedOn": "2022-06-11T13:19:35.000Z",
-          "wordCount": 2106,
+          "wordCount": 2096,
           "title": "Aurora v1 EOL을 대처 하는 우리의 자세 (feat. MySQL 5.6)",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2019/04/mysql_PNG19-300x300.png"
         }
@@ -179,6 +179,46 @@
       "feedUrl": "https://news.hada.io/rss/news",
       "siteUrl": "https://news.hada.io",
       "articles": [
+        {
+          "id": "https://news.hada.io/topic?id=6940",
+          "author": null,
+          "description": "생일을 입력하면 그날부터 변화된 것들을 숫자를 보여줌\n심장 박동수, 내보낸 혈액량, 생산한 적혈구, 호흡, 눈깜박임, 잠을 잔 날\n내 뒤에 태어난 사람들, CO2량, 달러가치, S&P 500지수\n태양 주위를 돈 거리, 은하계를 이동한 거리, 달의 공전 횟수, 달이 멀어진 거리\n...",
+          "link": "https://news.hada.io/topic?id=6940",
+          "publishedOn": "2022-07-09T00:51:02.000Z",
+          "wordCount": 824,
+          "title": "Life Stats - 내가 태어난 이후로..",
+          "imageUrl": "https://social.news.hada.io/topic/6940"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6939",
+          "author": null,
+          "description": "AMD Ryzen 5700U (8코어 + 16쓰레드) 4.3Ghz\nKDE Neon의 Plasma 데스크탑 (Wayland)\n최대 64GB램(기본 8GB). 14인치(1kg,999€~) 또는 15.6인치(1.5kg,1049€~)\nUSB-C, USB3.0 x 2, USB2.0 x 1, HDMI, RJ45\n\n...",
+          "link": "https://news.hada.io/topic?id=6939",
+          "publishedOn": "2022-07-09T00:21:01.000Z",
+          "wordCount": 834,
+          "title": "KDE Slimbook - 고성능 리눅스 울트라북",
+          "imageUrl": "https://social.news.hada.io/topic/6939"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6938",
+          "author": null,
+          "description": "Rubygems를 운영하는 Ruby Central, Ruby와 Rails를 많이 쓰는 Shopify가 파트너십을 맺음\nRuby 와 Rails 인프라 개발 및 유지, 그리고 공급망 개선과 보안에 중점을 둘 수 있게 4년간 $1M을 후원하기로\n오픈소스 공급망이 점점 더 많이 공격 받고 있기 때문\nShopify는 RubyConf 와...",
+          "link": "https://news.hada.io/topic?id=6938",
+          "publishedOn": "2022-07-09T00:03:01.000Z",
+          "wordCount": 839,
+          "title": "Ruby Central 과 Shopify, Ruby Shield 발표",
+          "imageUrl": "https://social.news.hada.io/topic/6938"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6937",
+          "author": null,
+          "description": "이번 주말에 뭘 하려고 계획 중인지 편하게 얘기해 보아요.\n읽을 책, 가볼 곳, 해볼 것.. 어떤 것이든 좋습니다.\n지난 주말에 계획하셨던 일의 회고도 한번 남겨봐 주세요.",
+          "link": "https://news.hada.io/topic?id=6937",
+          "publishedOn": "2022-07-08T05:40:35.000Z",
+          "wordCount": 888,
+          "title": "Ask GN: 이번 주말에 뭐 하시나요?",
+          "imageUrl": "https://social.news.hada.io/topic/6937"
+        },
         {
           "id": "https://news.hada.io/topic?id=6936",
           "author": null,
@@ -205,7 +245,7 @@
           "description": "사람들이 네이버지도에서 많이 저장한 장소\n리뷰어들이 많이 리뷰한 맛집 (연령대별, 리뷰 급상승)\n큐레이션 테마 : 을지로, 차차차, 오마카세, 평양냉면\n내비게이션으로 많이 찾아간 카페/음식점\n2021년 1월부터 2022년 5월까지의 데이터 기반\n\n...",
           "link": "https://news.hada.io/topic?id=6934",
           "publishedOn": "2022-07-08T00:44:01.000Z",
-          "wordCount": 811,
+          "wordCount": 828,
           "title": "서울, 가보자고 - 네이버 데이터가 알려주는 서울의 맛집",
           "imageUrl": "https://social.news.hada.io/topic/6934"
         },
@@ -238,46 +278,6 @@
           "wordCount": 913,
           "title": "NFT 가격 허들을 해결하기 위한 솔루션과 마켓",
           "imageUrl": "https://social.news.hada.io/topic/6931"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6930",
-          "author": null,
-          "description": "워렌 버핏이 투자한 중국 BYD가 전기차 판매에서 테슬라를 추월\n2022년 상반기동안 63.8만대를 인도하여 56만대를 인도한 테슬라를 앞질렀음\n전년 동기 대비 325% 증가한 수치\n단, BYD는 32만대의 배터리 전기차와 31만대의 플러그인 하이브리드 차량. 테슬라는 모두 완전 배터리 차...",
-          "link": "https://news.hada.io/topic?id=6930",
-          "publishedOn": "2022-07-08T00:06:01.000Z",
-          "wordCount": 820,
-          "title": "테슬라는 더 이상 가장 큰 전기차 제조사가 아니다",
-          "imageUrl": "https://social.news.hada.io/topic/6930"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6929",
-          "author": null,
-          "description": "웹의 초창기때 만들어진 오래된 사이트들을 초점으로 맞춘 검색엔진\n구글검색으로는 찾기 힘든 독특한 개인 사이트들을 잔뜩 발견할 수 있음\nsuprise me 버튼을 누르면 랜덤한 사이트로 이동\n독자적인 index 와 bing 검색엔진의 index 를 조합해 검",
-          "link": "https://news.hada.io/topic?id=6929",
-          "publishedOn": "2022-07-07T13:09:22.000Z",
-          "wordCount": 835,
-          "title": "wiby - 오래된 웹사이트 검색엔진",
-          "imageUrl": "https://social.news.hada.io/topic/6929"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6928",
-          "author": null,
-          "description": "데이터에 기반한 명확한 문장: 매출이 많이 증가했다 X, 매출이 25% 늘었다 O\n구조화 된 문장상황: 진행 결과, 배우거나 부족한 점, 향후 계획 또는 미래, 4가지를 포함한 문단 구성\n똑같은 정보를 기반한 팀 미팅: 팀 회의가 시작되면, 15분 정도 각자가 미리 써 놓은 4가지 업무 항목들을 ...",
-          "link": "https://news.hada.io/topic?id=6928",
-          "publishedOn": "2022-07-07T01:59:43.000Z",
-          "wordCount": 946,
-          "title": "아마존에서 배운 5가지 글쓰기와 소통 방식",
-          "imageUrl": "https://social.news.hada.io/topic/6928"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6926",
-          "author": null,
-          "description": "브라우저 기반 로컬 웹앱. 오프라인 동작 가능\n종료에 대한 오디오 & 웹노티 알림 지원\nAdaptive Tiking : 백그라운드에서는 타이머 틱을 더 적게\n다양한 스타일 제공 : 다크모드, 시간표시 (12:34, 13m, 50%)\n\n...",
-          "link": "https://news.hada.io/topic?id=6926",
-          "publishedOn": "2022-07-07T01:18:01.000Z",
-          "wordCount": 823,
-          "title": "AnotherPomodoro - 웹 뽀모도로 타이머 오픈소스",
-          "imageUrl": "https://social.news.hada.io/topic/6926"
         }
       ]
     },
