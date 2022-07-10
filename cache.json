@@ -144,16 +144,6 @@
           "wordCount": 2692,
           "title": "Single Element Loaders: The Spinner",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366266"
-        },
-        {
-          "id": "https://css-tricks.com/?p=366286",
-          "author": "Geoff Graham",
-          "description": "Can’t smash the Like button hard enough for what Miriam Suzanne has to say on the challenging technical hurdles of implementing Webmentions:\nThe first round required several online services along with HTML & JS changes to my static site, just to verify my \n…\nAm I on the IndieWeb yet? originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/am-i-on-the-indieweb-yet/",
-          "publishedOn": "2022-06-09T15:32:50.000Z",
-          "wordCount": 1497,
-          "title": "Am I on the IndieWeb yet?",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366286"
         }
       ]
     },
@@ -168,7 +158,7 @@
           "description": "Aurora v1 EOL을 대처 하는 우리의 자세 (feat. MySQL 5.6) End of Life! 그렇게 EOL 입니다. MySQL 5.6을 기반으로 하는 AWS의 Aurora v1 버전의 EOL 소식이  들려오고 있습니다. AWS Aurora v1 EOL 소식 2023년 2월을...\nThe post Aurora v1 EOL을 대처 하는 우리의 자세 (feat. MySQL 5.6) appeared first on RastaLion's IT Blog.",
           "link": "https://rastalion.me/aurora-v1-eol%ec%9d%84-%eb%8c%80%ec%b2%98-%ed%95%98%eb%8a%94-%ec%9a%b0%eb%a6%ac%ec%9d%98-%ec%9e%90%ec%84%b8-feat-mysql-5-6/",
           "publishedOn": "2022-06-11T13:19:35.000Z",
-          "wordCount": 2096,
+          "wordCount": 2061,
           "title": "Aurora v1 EOL을 대처 하는 우리의 자세 (feat. MySQL 5.6)",
           "imageUrl": "https://rastalion.me/wp-content/uploads/2019/04/mysql_PNG19-300x300.png"
         }
@@ -180,12 +170,52 @@
       "siteUrl": "https://news.hada.io",
       "articles": [
         {
+          "id": "https://news.hada.io/topic?id=6944",
+          "author": null,
+          "description": "Go로 작성되어 1개의 바이너리로 실행\nSQLite를 임베딩, 실시간 subscription 지원\n파일 관리 (로컬 또는 S3에 저장) 및 사용자 관리(이메일 및 OAuth2) 기능 내장\n쓰기 편한 관리자 대쉬보드 UI\n심플한 REST-ish API\n\n...",
+          "link": "https://news.hada.io/topic?id=6944",
+          "publishedOn": "2022-07-10T00:47:01.000Z",
+          "wordCount": 812,
+          "title": "PocketBase - SaaS/앱을 위한 오픈소스 리얼타임 백엔드",
+          "imageUrl": "https://social.news.hada.io/topic/6944"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6943",
+          "author": null,
+          "description": "페이스북의 '이전과 전혀 다른 형태의 혁신적인' AI 프로젝트\n아스투리아스어, 루간다어, 우르두어 등 리소스가 적은 언어가 포함된 200개 언어 간에 평가를 거친 고품질의 번역을 바로 제공할 수 있는 오픈 소스 모델\nNLLB는 누구나 자신의 모국어로 웹 콘텐츠에 접근 및 공유하고, 각자 선...",
+          "link": "https://news.hada.io/topic?id=6943",
+          "publishedOn": "2022-07-10T00:26:02.000Z",
+          "wordCount": 998,
+          "title": "NLLB(No Language Left Behind: 어떤 언어로도 소통할 수 있도록)",
+          "imageUrl": "https://social.news.hada.io/topic/6943"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6942",
+          "author": null,
+          "description": "애플 파워맥 G4큐브 케이스에 Pico-ITX 보드 4개를 넣어서, EKS Anywhere로 Kubernetes 클러스터 머신(홈랩)을 만든 후기\n총 금액 $6310(저렴하게 만드는게 목적이 아니었음, 저렴하게는 $100 이하로도 구성가능)\n컴퓨터 + 네크워킹: LP-179(인텔 타이거레이크 UP3 + 32GB램) + 1TB 4개, 기가...",
+          "link": "https://news.hada.io/topic?id=6942",
+          "publishedOn": "2022-07-10T00:11:01.000Z",
+          "wordCount": 828,
+          "title": "Cubernetes",
+          "imageUrl": "https://social.news.hada.io/topic/6942"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6941",
+          "author": null,
+          "description": "5초면 됩니다. 트위터로 로그인해 당신의 트위터 감정사전을 받아보세요.\n최근 당신은 어떤 생각을 했나요? 어떤 말과 행동을 했나요. 마음은 어때요? 건강하신가요, 행복하신가요.그런 당신의 생각을 돌이켜봅니다. 긍정적이었나요, 부정적이었나요. 조금 공격적인 날도 있었나요,남을 미워한 적이 있었나요.",
+          "link": "https://news.hada.io/topic?id=6941",
+          "publishedOn": "2022-07-09T04:18:09.000Z",
+          "wordCount": 1009,
+          "title": "Show GN: 당신의 트위터 감정사전 <beta>",
+          "imageUrl": "https://social.news.hada.io/topic/6941"
+        },
+        {
           "id": "https://news.hada.io/topic?id=6940",
           "author": null,
           "description": "생일을 입력하면 그날부터 변화된 것들을 숫자를 보여줌\n심장 박동수, 내보낸 혈액량, 생산한 적혈구, 호흡, 눈깜박임, 잠을 잔 날\n내 뒤에 태어난 사람들, CO2량, 달러가치, S&P 500지수\n태양 주위를 돈 거리, 은하계를 이동한 거리, 달의 공전 횟수, 달이 멀어진 거리\n...",
           "link": "https://news.hada.io/topic?id=6940",
           "publishedOn": "2022-07-09T00:51:02.000Z",
-          "wordCount": 824,
+          "wordCount": 833,
           "title": "Life Stats - 내가 태어난 이후로..",
           "imageUrl": "https://social.news.hada.io/topic/6940"
         },
@@ -195,7 +225,7 @@
           "description": "AMD Ryzen 5700U (8코어 + 16쓰레드) 4.3Ghz\nKDE Neon의 Plasma 데스크탑 (Wayland)\n최대 64GB램(기본 8GB). 14인치(1kg,999€~) 또는 15.6인치(1.5kg,1049€~)\nUSB-C, USB3.0 x 2, USB2.0 x 1, HDMI, RJ45\n\n...",
           "link": "https://news.hada.io/topic?id=6939",
           "publishedOn": "2022-07-09T00:21:01.000Z",
-          "wordCount": 834,
+          "wordCount": 847,
           "title": "KDE Slimbook - 고성능 리눅스 울트라북",
           "imageUrl": "https://social.news.hada.io/topic/6939"
         },
@@ -238,46 +268,6 @@
           "wordCount": 825,
           "title": "자동차 회사 계보도",
           "imageUrl": "https://social.news.hada.io/topic/6935"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6934",
-          "author": null,
-          "description": "사람들이 네이버지도에서 많이 저장한 장소\n리뷰어들이 많이 리뷰한 맛집 (연령대별, 리뷰 급상승)\n큐레이션 테마 : 을지로, 차차차, 오마카세, 평양냉면\n내비게이션으로 많이 찾아간 카페/음식점\n2021년 1월부터 2022년 5월까지의 데이터 기반\n\n...",
-          "link": "https://news.hada.io/topic?id=6934",
-          "publishedOn": "2022-07-08T00:44:01.000Z",
-          "wordCount": 828,
-          "title": "서울, 가보자고 - 네이버 데이터가 알려주는 서울의 맛집",
-          "imageUrl": "https://social.news.hada.io/topic/6934"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6933",
-          "author": null,
-          "description": "ROAS by 채널 & 광고 플랫폼\n\n전체 광고 금액에서 5% 이상 소비 하는 채널중\n5% 이하에서는 Pinterest(2.2), TikTok(1.61), Reddit(1.58) 이 강세\n신규 사용자 모집에 좋은 채널...",
-          "link": "https://news.hada.io/topic?id=6933",
-          "publishedOn": "2022-07-08T00:31:01.000Z",
-          "wordCount": 830,
-          "title": "이커머스 광고 현황 보고서 (2022년 1월~3월, 13p PDF)",
-          "imageUrl": "https://social.news.hada.io/topic/6933"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6932",
-          "author": null,
-          "description": "디펜던시 없는 SQL 파서\nSQL을 포맷팅하거나 Presto, Spark, Hive 용 등으로 변환 가능\n다양한 SQL을 읽어서 문법적으로 정확한 SQL을 생성\nPure-Python SQL 파서중에선 가장 빠름\n\n...",
-          "link": "https://news.hada.io/topic?id=6932",
-          "publishedOn": "2022-07-08T00:19:01.000Z",
-          "wordCount": 805,
-          "title": "SQLGlot - Python SQL Parser & Transpiler",
-          "imageUrl": "https://social.news.hada.io/topic/6932"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6931",
-          "author": null,
-          "description": "NFT의 가격이 높아지면 발생하는 문제 (1)구매자의 진입 장벽 (2) 낮은 유동성\n대표적인 방법 3가지: (1) 분할(Fractionalization) (2)공동 구매 (3)임대(Rent)\n각 방법이 이뤄지는 과정과 사례 중심 분석 글.\n내용 정리\n분할: 자산유동화의...",
-          "link": "https://news.hada.io/topic?id=6931",
-          "publishedOn": "2022-07-08T00:15:02.000Z",
-          "wordCount": 913,
-          "title": "NFT 가격 허들을 해결하기 위한 솔루션과 마켓",
-          "imageUrl": "https://social.news.hada.io/topic/6931"
         }
       ]
     },
