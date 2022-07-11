@@ -134,16 +134,6 @@
           "wordCount": 2064,
           "title": "Useful Tools for Visualizing Databases on a Budget",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366260"
-        },
-        {
-          "id": "https://css-tricks.com/?p=366266",
-          "author": "Temani Afif",
-          "description": "Making CSS-only loaders is one of my favorite tasks. It’s always satisfying to look at those infinite animations. And, of course, there are lots of techniques and approaches to make them — no need to look further than CodePen to …\nSingle Element Loaders: The Spinner originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/single-element-loaders-the-spinner/",
-          "publishedOn": "2022-06-10T14:26:06.000Z",
-          "wordCount": 2692,
-          "title": "Single Element Loaders: The Spinner",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366266"
         }
       ]
     },
@@ -151,18 +141,7 @@
       "title": "RastaLion's IT Blog",
       "feedUrl": "https://rastalion.me/feed/",
       "siteUrl": "https://rastalion.me",
-      "articles": [
-        {
-          "id": "https://rastalion.me/?p=2546",
-          "author": "Rasta Lion",
-          "description": "Aurora v1 EOL을 대처 하는 우리의 자세 (feat. MySQL 5.6) End of Life! 그렇게 EOL 입니다. MySQL 5.6을 기반으로 하는 AWS의 Aurora v1 버전의 EOL 소식이  들려오고 있습니다. AWS Aurora v1 EOL 소식 2023년 2월을...\nThe post Aurora v1 EOL을 대처 하는 우리의 자세 (feat. MySQL 5.6) appeared first on RastaLion's IT Blog.",
-          "link": "https://rastalion.me/aurora-v1-eol%ec%9d%84-%eb%8c%80%ec%b2%98-%ed%95%98%eb%8a%94-%ec%9a%b0%eb%a6%ac%ec%9d%98-%ec%9e%90%ec%84%b8-feat-mysql-5-6/",
-          "publishedOn": "2022-06-11T13:19:35.000Z",
-          "wordCount": 2061,
-          "title": "Aurora v1 EOL을 대처 하는 우리의 자세 (feat. MySQL 5.6)",
-          "imageUrl": "https://rastalion.me/wp-content/uploads/2019/04/mysql_PNG19-300x300.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
@@ -170,12 +149,72 @@
       "siteUrl": "https://news.hada.io",
       "articles": [
         {
+          "id": "https://news.hada.io/topic?id=6950",
+          "author": null,
+          "description": "VS Code 가 원격으로 연결이 가능하게 하는 백엔드 코드와 CLI를 비공개 프리뷰로 공개\n로컬 개발 머신이나 클라우드 VM에 설치하고 웹용 VS Code를 사용해서 연결하여 안전하게 접근 가능\n신청하면 몇주내로 활성화 메일이 발송\n현재는 code 와 code-server CLI가 별도지만, 점차 ...",
+          "link": "https://news.hada.io/topic?id=6950",
+          "publishedOn": "2022-07-11T01:13:01.000Z",
+          "wordCount": 824,
+          "title": "Visual Studio Code Server",
+          "imageUrl": "https://social.news.hada.io/topic/6950"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6949",
+          "author": null,
+          "description": "바다위 요트/대형 선박이나 시추선에서 최대 350Mbps로 고속/저지연 인터넷이 가능\n현재는 미국 연안과 유럽/영국/지중해, 칠레/브라질 일부, 오스트레일리아/뉴질랜드 남부 등만 가능\n2022/Q4 에는 태평양/대서양의 넓은 지역 (한국/일본/대만등이 모두 포함 되는 범위) 커버 예정",
+          "link": "https://news.hada.io/topic?id=6949",
+          "publishedOn": "2022-07-11T00:54:01.000Z",
+          "wordCount": 824,
+          "title": "Starlink Maritime",
+          "imageUrl": "https://social.news.hada.io/topic/6949"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6948",
+          "author": null,
+          "description": "Sans Serif(세리프/삐침이 없는 = 돋움/고딕체)의 침공\n2017년쯤 패션업계부터 시작한 이 트렌드가 기술 회사들에도 번지는 중\n패션업계는 색도 다 검은 색이지만, 그나마 기술회사는 컬러라도 있긴 함\n이유 ?\nModern Utility : 산세리프가 가독성이 더 높아 다...",
+          "link": "https://news.hada.io/topic?id=6948",
+          "publishedOn": "2022-07-11T00:41:01.000Z",
+          "wordCount": 937,
+          "title": "왜 많은 브랜드가 로고를 비슷하게 변경하는 걸까?",
+          "imageUrl": "https://social.news.hada.io/topic/6948"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6947",
+          "author": null,
+          "description": "무료 오픈소스 검색엔진 Mwmbl을 만드는 Daoud Clarke의 글\n이상적인 비영리 검색엔진 : 광고 없고, 오픈소스에, 수익에 따른 랭킹이 아니고, 커뮤니티 기반의 랭킹으로, 빠르고, 걸리적 거리지 않는(결과 페이지 없이 이동해야할때 그냥 이동하는 등)\n광고로 수익을 내는 검색은 이해의 충돌...",
+          "link": "https://news.hada.io/topic?id=6947",
+          "publishedOn": "2022-07-11T00:27:28.000Z",
+          "wordCount": 897,
+          "title": "비영리 검색엔진이 필요한 이유",
+          "imageUrl": "https://social.news.hada.io/topic/6947"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6946",
+          "author": null,
+          "description": "네이버 검색엔진을 안 쓴다거나, 카카오톡을 안 쓴다거나 관련된 계정이 없다거나...\n아니면 유튜브를 절대로 안 본다거나, 인스타, 페이스북 등등 SNS를 절대 안 한다거나!\n주변 사람들이 대부분 사용하는데도 꿋꿋이 나만 안 쓰는 제품, 서비스가 있나요? 그렇다면 그 이유는 뭔가요?",
+          "link": "https://news.hada.io/topic?id=6946",
+          "publishedOn": "2022-07-10T12:21:21.000Z",
+          "wordCount": 1182,
+          "title": "Ask GN: 나만 안 쓰는 제품이나 서비스가 있나요?",
+          "imageUrl": "https://social.news.hada.io/topic/6946"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6945",
+          "author": null,
+          "description": "트위터가 계약의 여러 조항을 위반하여 인수 계약을 종료\n가짜/스팸 계정에 대한 정보를 요청했으나 이를 받지 못했음\n그외 mDAU, 재정 상태 등에 대한 요청을 무시하거나 거절하여 정보를 제공받지 못하였음\n\n...",
+          "link": "https://news.hada.io/topic?id=6945",
+          "publishedOn": "2022-07-10T09:40:52.000Z",
+          "wordCount": 808,
+          "title": "엘런 머스크, 트위터 인수 계약 해지 통보",
+          "imageUrl": "https://social.news.hada.io/topic/6945"
+        },
+        {
           "id": "https://news.hada.io/topic?id=6944",
           "author": null,
           "description": "Go로 작성되어 1개의 바이너리로 실행\nSQLite를 임베딩, 실시간 subscription 지원\n파일 관리 (로컬 또는 S3에 저장) 및 사용자 관리(이메일 및 OAuth2) 기능 내장\n쓰기 편한 관리자 대쉬보드 UI\n심플한 REST-ish API\n\n...",
           "link": "https://news.hada.io/topic?id=6944",
           "publishedOn": "2022-07-10T00:47:01.000Z",
-          "wordCount": 812,
+          "wordCount": 888,
           "title": "PocketBase - SaaS/앱을 위한 오픈소스 리얼타임 백엔드",
           "imageUrl": "https://social.news.hada.io/topic/6944"
         },
@@ -195,7 +234,7 @@
           "description": "애플 파워맥 G4큐브 케이스에 Pico-ITX 보드 4개를 넣어서, EKS Anywhere로 Kubernetes 클러스터 머신(홈랩)을 만든 후기\n총 금액 $6310(저렴하게 만드는게 목적이 아니었음, 저렴하게는 $100 이하로도 구성가능)\n컴퓨터 + 네크워킹: LP-179(인텔 타이거레이크 UP3 + 32GB램) + 1TB 4개, 기가...",
           "link": "https://news.hada.io/topic?id=6942",
           "publishedOn": "2022-07-10T00:11:01.000Z",
-          "wordCount": 828,
+          "wordCount": 834,
           "title": "Cubernetes",
           "imageUrl": "https://social.news.hada.io/topic/6942"
         },
@@ -205,69 +244,9 @@
           "description": "5초면 됩니다. 트위터로 로그인해 당신의 트위터 감정사전을 받아보세요.\n최근 당신은 어떤 생각을 했나요? 어떤 말과 행동을 했나요. 마음은 어때요? 건강하신가요, 행복하신가요.그런 당신의 생각을 돌이켜봅니다. 긍정적이었나요, 부정적이었나요. 조금 공격적인 날도 있었나요,남을 미워한 적이 있었나요.",
           "link": "https://news.hada.io/topic?id=6941",
           "publishedOn": "2022-07-09T04:18:09.000Z",
-          "wordCount": 1009,
+          "wordCount": 1015,
           "title": "Show GN: 당신의 트위터 감정사전 <beta>",
           "imageUrl": "https://social.news.hada.io/topic/6941"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6940",
-          "author": null,
-          "description": "생일을 입력하면 그날부터 변화된 것들을 숫자를 보여줌\n심장 박동수, 내보낸 혈액량, 생산한 적혈구, 호흡, 눈깜박임, 잠을 잔 날\n내 뒤에 태어난 사람들, CO2량, 달러가치, S&P 500지수\n태양 주위를 돈 거리, 은하계를 이동한 거리, 달의 공전 횟수, 달이 멀어진 거리\n...",
-          "link": "https://news.hada.io/topic?id=6940",
-          "publishedOn": "2022-07-09T00:51:02.000Z",
-          "wordCount": 833,
-          "title": "Life Stats - 내가 태어난 이후로..",
-          "imageUrl": "https://social.news.hada.io/topic/6940"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6939",
-          "author": null,
-          "description": "AMD Ryzen 5700U (8코어 + 16쓰레드) 4.3Ghz\nKDE Neon의 Plasma 데스크탑 (Wayland)\n최대 64GB램(기본 8GB). 14인치(1kg,999€~) 또는 15.6인치(1.5kg,1049€~)\nUSB-C, USB3.0 x 2, USB2.0 x 1, HDMI, RJ45\n\n...",
-          "link": "https://news.hada.io/topic?id=6939",
-          "publishedOn": "2022-07-09T00:21:01.000Z",
-          "wordCount": 847,
-          "title": "KDE Slimbook - 고성능 리눅스 울트라북",
-          "imageUrl": "https://social.news.hada.io/topic/6939"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6938",
-          "author": null,
-          "description": "Rubygems를 운영하는 Ruby Central, Ruby와 Rails를 많이 쓰는 Shopify가 파트너십을 맺음\nRuby 와 Rails 인프라 개발 및 유지, 그리고 공급망 개선과 보안에 중점을 둘 수 있게 4년간 $1M을 후원하기로\n오픈소스 공급망이 점점 더 많이 공격 받고 있기 때문\nShopify는 RubyConf 와...",
-          "link": "https://news.hada.io/topic?id=6938",
-          "publishedOn": "2022-07-09T00:03:01.000Z",
-          "wordCount": 839,
-          "title": "Ruby Central 과 Shopify, Ruby Shield 발표",
-          "imageUrl": "https://social.news.hada.io/topic/6938"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6937",
-          "author": null,
-          "description": "이번 주말에 뭘 하려고 계획 중인지 편하게 얘기해 보아요.\n읽을 책, 가볼 곳, 해볼 것.. 어떤 것이든 좋습니다.\n지난 주말에 계획하셨던 일의 회고도 한번 남겨봐 주세요.",
-          "link": "https://news.hada.io/topic?id=6937",
-          "publishedOn": "2022-07-08T05:40:35.000Z",
-          "wordCount": 888,
-          "title": "Ask GN: 이번 주말에 뭐 하시나요?",
-          "imageUrl": "https://social.news.hada.io/topic/6937"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6936",
-          "author": null,
-          "description": "국가 후원으로 용병 스파이웨어를 개발하는 민간 기업(NSO Group같은)으로부터 고도로 표적화된 사이버공격을 받을 위험에 처할 소지가 있는 사용자에게 특수 추가 보호를 제공하는 보안 기능\n디지털 보안상 중대한 표적 위협에 직면한 극소수의 사용자에게 최고 수준의 선택적 보호를 제공하도록 설계...",
-          "link": "https://news.hada.io/topic?id=6936",
-          "publishedOn": "2022-07-08T01:20:02.000Z",
-          "wordCount": 949,
-          "title": "애플, 스파이웨어로부터 보호하는 '락다운 모드' 프리뷰 공개",
-          "imageUrl": "https://social.news.hada.io/topic/6936"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6935",
-          "author": null,
-          "description": "GM : 쉐보레, 뷰익, 캐딜락, GMC\n폭스바겐 : 아우디, 람보르기니, 벤틀리, 부가티, 포르쉐,..\n스텔란티스 : 피아트, 마세라티, 크라이슬러, 짚, 닷지, 램, 푸조, 시트로앵,..\n다임러 : 벤츠, 스마트, 마이바흐,..\nBMW : BMW, 미니, 롤스로이스,..\nGeely : 볼보, ...",
-          "link": "https://news.hada.io/topic?id=6935",
-          "publishedOn": "2022-07-08T01:06:01.000Z",
-          "wordCount": 825,
-          "title": "자동차 회사 계보도",
-          "imageUrl": "https://social.news.hada.io/topic/6935"
         }
       ]
     },
@@ -275,18 +254,7 @@
       "title": "기억보단 기록을",
       "feedUrl": "https://jojoldu.tistory.com/rss",
       "siteUrl": "https://jojoldu.tistory.com/",
-      "articles": [
-        {
-          "id": "https://jojoldu.tistory.com/674",
-          "author": "향로",
-          "description": "반응형\n\n                    \n                    (adsbygoogle = window.adsbygoogle || []).push({}); \n               \n팀 분들과 함께 NextStep - 이펙티브 코틀린 강좌를 수강하고 있다.\n최근에 과제 회고를 처음 진행했는데, 이때 나온 주제가 테스트 하기 좋은 코드였다.\n이 주제는 사실 이미 너무 많이 회자된 주제이긴하다.\n대표적으로 아래 2개가 가장 대표적이다.\n정진욱님 - Testing, Oh my!\n권용근님 - 무엇을 테스트할 것인가\n이들을 다 보았다면, 굳이 이 글을 볼 필요는 없다.\n이미 잘 정리된 글과 영상이지만, 현재 팀의 분들을 위해서 조금 정리하게 되었다.\n뒤에 이어 쓸 Active Record vs Data Mapper의 빌드업이기도 하다.\n이 글에서는 테스트하기 어려운 코드 대해 이야기해보려고 한다.\n1. 테스트 하기 좋은 코드?\n여기서 이야기하는 테스트는 단위 테스트를 의미한다.\nE2E 테스트는 여기서 이야기하는 테스트와 구현, 설계와는 다르다.\n테스트 코드 작성의 어려움을 팀원들을 보면 본인이 테스트 코드를 작성해본 경험이 부족해서 혹은 테스트 프레임워크 (JUnit, Jest, Mocha 등) 숙련도가 떨어지기 때문이라고 생각하는 경우를 종종 본다.\n하지만 테스트 코드 작성 경험, 테스트 프레임워크 숙련도로 인한 어려움은 생각보다 큰 이유가 아니다.\n경험상 대부분은 테스트를 작성하기 어려운 구현체 때문이다.\n테스트하기 어렵도룩 구현되었기 때문에 테스트 코드 작성이 어려운 것이지, 도구의 숙련도의…",
-          "link": "https://jojoldu.tistory.com/674",
-          "publishedOn": "2022-06-11T09:03:38.000Z",
-          "wordCount": 1419,
-          "title": "1. 테스트하기 좋은 코드 - 테스트하기 어려운 코드",
-          "imageUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fbqzb6L%2FbtrEvNnOOFZ%2FTRZgi9sz2cpAkbZxs5Iyd1%2Fimg.png"
-        }
-      ]
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
