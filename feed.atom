@@ -1,10 +1,122 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-11T01:54:58.141Z</id>
+    <id>urn:2022-07-12T02:01:20.607Z</id>
     <title>osmos::feed</title>
-    <updated>2022-07-11T01:54:58.141Z</updated>
+    <updated>2022-07-12T02:01:20.607Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Deprank - PageRank를 이용하여 가장 중요한 코드 찾기]]></title>
+        <id>https://news.hada.io/topic?id=6957</id>
+        <link href="https://news.hada.io/topic?id=6957"/>
+        <updated>2022-07-12T01:12:01.000Z</updated>
+        <summary type="html"><![CDATA[구글의 PageRank 알고리듬을 사용하여 JavaScript/TypeScript 코드에서 가장 중요한 파일을 찾아내는 오픈소스
+dependency-cruiser 를 이용하여 소스 파일의 디펜던시 그래프를 그리고 중요도에 따라 랭크를 매김
+기존의 대규모 Javascript 코드를 Typescript로 변환하거나 할 때 유용
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GeoParquet - Geospatial 벡터 데이터 저장 표준]]></title>
+        <id>https://news.hada.io/topic?id=6956</id>
+        <link href="https://news.hada.io/topic?id=6956"/>
+        <updated>2022-07-12T00:51:01.000Z</updated>
+        <summary type="html"><![CDATA[Geospatial(지리공간) 벡터(점,선,폴리곤)를 Apache Parquet으로 저장하는 표준
+목표
+
+데이터사이언스 및 BI 워크플로우를 위해서 컬럼지향 데이터로 Geospatial 포맷을 작성
+Geospatial 분야에 컬럼 지향 데이터 포멧을 소개
+BigQuery, Snowflake, Redshift 같은 클라우드...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ECMAScript 2022 승인. 새로운 기능은 ?]]></title>
+        <id>https://news.hada.io/topic?id=6955</id>
+        <link href="https://news.hada.io/topic?id=6955"/>
+        <updated>2022-07-12T00:36:02.000Z</updated>
+        <summary type="html"><![CDATA[클래스의 새로운 멤버
+in 연산자를 통해 프라이빗 슬롯 확인
+모듈에서 최상위(Top-level) await
+error.cause
+인덱싱 가능한 값의 .at() 메서드
+RegExp match indicies
+Object.hasOwn(obj, propKey)
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[테슬라, 미국내에서 2022년 말까지 슈퍼차저 네트워크를 다른 차들에게 개방 예정]]></title>
+        <id>https://news.hada.io/topic?id=6954</id>
+        <link href="https://news.hada.io/topic?id=6954"/>
+        <updated>2022-07-12T00:22:01.000Z</updated>
+        <summary type="html"><![CDATA[유럽 일부 도시에는 제한된 파일롯 프로그램으로 시행중
+미국에서는 얘기가 없다가 미국 백악관이 6/28에 발간한 Fact Sheet 에서 해당 내용이 포함
+
+올해 말에 테슬라는 북미의 다른 전기차들도 이용 가능한 새로운 슈퍼차저 장비를 생산하기 시작 할 것
+
+
+<li]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Systemd 개발자가 Redhat을 떠나 Microsoft로 이직]]></title>
+        <id>https://news.hada.io/topic?id=6953</id>
+        <link href="https://news.hada.io/topic?id=6953"/>
+        <updated>2022-07-12T00:09:01.000Z</updated>
+        <summary type="html"><![CDATA[Systemd, PulseAudio, Avahi 등의 리드개발자 였던 Lennart Poettering은 리눅스/오픈소스 에코시스템에 엄청난 기여를 했음
+RedHat에서 10년 넘게 근무했는데, 이제 Microsoft에서 Systemd 개발을 계속할 예정
+올해 초 유명 리눅스 커널 개발자인 Christian Brauner 도 Canonical 에서 Micr...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Technical Writing for Developers]]></title>
+        <id>https://css-tricks.com/?p=366609</id>
+        <link href="https://css-tricks.com/technical-writing-for-developers/"/>
+        <updated>2022-07-11T12:50:13.000Z</updated>
+        <summary type="html"><![CDATA[HTML, CSS, JavaScript, Python, PHP, C++, Dart — there are so many programming languages out there and you may even be totally fluent in several of them! But as we aim to write more and better code, the way we …
+Technical Writing for Developers originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Eluda</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Y Combinator : 혁신 연구소]]></title>
+        <id>https://news.hada.io/topic?id=6952</id>
+        <link href="https://news.hada.io/topic?id=6952"/>
+        <updated>2022-07-11T05:03:38.000Z</updated>
+        <summary type="html"><![CDATA[세계 최고의 스타트업 액셀러레이터, YC가 가진 힘을 분석한 The Generalist의 보고서 요약
+[ Y Combinator 오버뷰 ]
+시작부터 pre-IPO 까지 도와주는 "풀 스택 벤처"
+"네트워크 효과"를 가지고 있는 VC : 포트폴리오를 코호트로 묶고, Bookface 같은 내부 도구를]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아무 웹사이트에서 React 코드 복사하는 크롬 확장]]></title>
+        <id>https://news.hada.io/topic?id=6951</id>
+        <link href="https://news.hada.io/topic?id=6951"/>
+        <updated>2022-07-11T01:36:02.000Z</updated>
+        <summary type="html"><![CDATA[웹사이트 / 웹앱에서 컴포넌트를 쉽게 선택하여 복사 가능
+React용 Visual IDE인 Aspect에 붙여넣거나, 자신의 코드에 복사해서 사용 가능
+→ 이 크롬 확장은 Aspect가 개발해서 제공하는 것
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Visual Studio Code Server]]></title>
         <id>https://news.hada.io/topic?id=6950</id>
@@ -35,102 +147,25 @@
         <id>https://news.hada.io/topic?id=6948</id>
         <link href="https://news.hada.io/topic?id=6948"/>
         <updated>2022-07-11T00:41:01.000Z</updated>
-        <summary type="html"><![CDATA[Sans Serif(세리프/삐침이 없는 = 돋움/고딕체)의 침공
+        <summary type="html"><![CDATA[Sans Serif(산세리프/삐침이 없는 = 돋움/고딕체)의 침공
 2017년쯤 패션업계부터 시작한 이 트렌드가 기술 회사들에도 번지는 중
 패션업계는 색도 다 검은 색이지만, 그나마 기술회사는 컬러라도 있긴 함
 이유 ?
-Modern Utility : 산세리프가 가독성이 더 높아 다...]]></summary>
+Modern Utility : 산세리프가 가독성이 더 높아...]]></summary>
         <author>
             <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[비영리 검색엔진이 필요한 이유]]></title>
-        <id>https://news.hada.io/topic?id=6947</id>
-        <link href="https://news.hada.io/topic?id=6947"/>
-        <updated>2022-07-11T00:27:28.000Z</updated>
-        <summary type="html"><![CDATA[무료 오픈소스 검색엔진 Mwmbl을 만드는 Daoud Clarke의 글
-이상적인 비영리 검색엔진 : 광고 없고, 오픈소스에, 수익에 따른 랭킹이 아니고, 커뮤니티 기반의 랭킹으로, 빠르고, 걸리적 거리지 않는(결과 페이지 없이 이동해야할때 그냥 이동하는 등)
-광고로 수익을 내는 검색은 이해의 충돌...]]></summary>
+        <title type="html"><![CDATA[Collective Nouns for the Web]]></title>
+        <id>https://css-tricks.com/?p=366689</id>
+        <link href="https://css-tricks.com/collective-nouns-for-the-web/"/>
+        <updated>2022-07-01T19:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Melanie Sumner has this super-specific collection of web-related nouns for describing a group or set of something. You know how there’s a school or fish or a herd of cows? Same sort of thing, but for funny web jargon.
+Things …
+Collective Nouns for the Web originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 나만 안 쓰는 제품이나 서비스가 있나요?]]></title>
-        <id>https://news.hada.io/topic?id=6946</id>
-        <link href="https://news.hada.io/topic?id=6946"/>
-        <updated>2022-07-10T12:21:21.000Z</updated>
-        <summary type="html"><![CDATA[네이버 검색엔진을 안 쓴다거나, 카카오톡을 안 쓴다거나 관련된 계정이 없다거나...
-아니면 유튜브를 절대로 안 본다거나, 인스타, 페이스북 등등 SNS를 절대 안 한다거나!
-주변 사람들이 대부분 사용하는데도 꿋꿋이 나만 안 쓰는 제품, 서비스가 있나요? 그렇다면 그 이유는 뭔가요?]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엘런 머스크, 트위터 인수 계약 해지 통보]]></title>
-        <id>https://news.hada.io/topic?id=6945</id>
-        <link href="https://news.hada.io/topic?id=6945"/>
-        <updated>2022-07-10T09:40:52.000Z</updated>
-        <summary type="html"><![CDATA[트위터가 계약의 여러 조항을 위반하여 인수 계약을 종료
-가짜/스팸 계정에 대한 정보를 요청했으나 이를 받지 못했음
-그외 mDAU, 재정 상태 등에 대한 요청을 무시하거나 거절하여 정보를 제공받지 못하였음
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PocketBase - SaaS/앱을 위한 오픈소스 리얼타임 백엔드]]></title>
-        <id>https://news.hada.io/topic?id=6944</id>
-        <link href="https://news.hada.io/topic?id=6944"/>
-        <updated>2022-07-10T00:47:01.000Z</updated>
-        <summary type="html"><![CDATA[Go로 작성되어 1개의 바이너리로 실행
-SQLite를 임베딩, 실시간 subscription 지원
-파일 관리 (로컬 또는 S3에 저장) 및 사용자 관리(이메일 및 OAuth2) 기능 내장
-쓰기 편한 관리자 대쉬보드 UI
-심플한 REST-ish API
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NLLB(No Language Left Behind: 어떤 언어로도 소통할 수 있도록)]]></title>
-        <id>https://news.hada.io/topic?id=6943</id>
-        <link href="https://news.hada.io/topic?id=6943"/>
-        <updated>2022-07-10T00:26:02.000Z</updated>
-        <summary type="html"><![CDATA[페이스북의 '이전과 전혀 다른 형태의 혁신적인' AI 프로젝트
-아스투리아스어, 루간다어, 우르두어 등 리소스가 적은 언어가 포함된 200개 언어 간에 평가를 거친 고품질의 번역을 바로 제공할 수 있는 오픈 소스 모델
-NLLB는 누구나 자신의 모국어로 웹 콘텐츠에 접근 및 공유하고, 각자 선...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cubernetes]]></title>
-        <id>https://news.hada.io/topic?id=6942</id>
-        <link href="https://news.hada.io/topic?id=6942"/>
-        <updated>2022-07-10T00:11:01.000Z</updated>
-        <summary type="html"><![CDATA[애플 파워맥 G4큐브 케이스에 Pico-ITX 보드 4개를 넣어서, EKS Anywhere로 Kubernetes 클러스터 머신(홈랩)을 만든 후기
-총 금액 $6310(저렴하게 만드는게 목적이 아니었음, 저렴하게는 $100 이하로도 구성가능)
-컴퓨터 + 네크워킹: LP-179(인텔 타이거레이크 UP3 + 32GB램) + 1TB 4개, 기가...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 당신의 트위터 감정사전 <beta>]]></title>
-        <id>https://news.hada.io/topic?id=6941</id>
-        <link href="https://news.hada.io/topic?id=6941"/>
-        <updated>2022-07-09T04:18:09.000Z</updated>
-        <summary type="html"><![CDATA[5초면 됩니다. 트위터로 로그인해 당신의 트위터 감정사전을 받아보세요.
-최근 당신은 어떤 생각을 했나요? 어떤 말과 행동을 했나요. 마음은 어때요? 건강하신가요, 행복하신가요.그런 당신의 생각을 돌이켜봅니다. 긍정적이었나요, 부정적이었나요. 조금 공격적인 날도 있었나요,남을 미워한 적이 있었나요.]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
