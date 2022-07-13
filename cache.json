@@ -6,12 +6,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=366896",
+          "author": "Geoff Graham",
+          "description": "Our dear friend Robin has a new essay called In Praise of Shadows. Now, before you hop over there looking for nuggets on CSS box shadows, text shadows, and shadow filters… this is not that. It’s an essay …\nIn Praise of Shadows originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/in-praise-of-shadows/",
+          "publishedOn": "2022-07-12T17:08:49.000Z",
+          "wordCount": 1061,
+          "title": "In Praise of Shadows",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366896"
+        },
+        {
           "id": "https://css-tricks.com/?p=366609",
           "author": "Eluda",
           "description": "HTML, CSS, JavaScript, Python, PHP, C++, Dart — there are so many programming languages out there and you may even be totally fluent in several of them! But as we aim to write more and better code, the way we …\nTechnical Writing for Developers originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/technical-writing-for-developers/",
           "publishedOn": "2022-07-11T12:50:13.000Z",
-          "wordCount": 5436,
+          "wordCount": 5488,
           "title": "Technical Writing for Developers",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366609"
         },
@@ -21,7 +31,7 @@
           "description": "Melanie Sumner has this super-specific collection of web-related nouns for describing a group or set of something. You know how there’s a school or fish or a herd of cows? Same sort of thing, but for funny web jargon.\nThings …\nCollective Nouns for the Web originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/collective-nouns-for-the-web/",
           "publishedOn": "2022-07-01T19:15:00.000Z",
-          "wordCount": 923,
+          "wordCount": 978,
           "title": "Collective Nouns for the Web",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366689"
         },
@@ -68,10 +78,10 @@
         {
           "id": "https://css-tricks.com/?p=366554",
           "author": "Geoff Graham",
-          "description": "Hey, so it’s been a minute since we announced that CSS-Tricks is now part of the DigitalOcean family. Things are pretty much business as usual and hopefully it feels that way to you, too. Now that we’re getting settled, we’re …\nHelp Shape the Future of CSS-Tricks! originally published on CSS-Tricks. You should get the newsletter.",
+          "description": "Head’s up! The survey closed on July 12, 2022. We got tons of responses — thanks to everyone for helping us out!\nHey, so it’s been a minute since we announced that CSS-Tricks is now part of the DigitalOcean family. …\nHelp Shape the Future of CSS-Tricks! originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/help-shape-the-future-of-css-tricks/",
           "publishedOn": "2022-06-28T19:52:48.000Z",
-          "wordCount": 1146,
+          "wordCount": 1163,
           "title": "Help Shape the Future of CSS-Tricks!",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366554"
         },
@@ -144,16 +154,6 @@
           "wordCount": 2761,
           "title": "De-Mystifying IndieWeb on a WordPress Site",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366388"
-        },
-        {
-          "id": "https://css-tricks.com/?p=366260",
-          "author": "Aisha Bukar",
-          "description": "A diagram is a graphical representation of information that depicts the structure, relationship, or operation of anything. Diagrams enable your audience to visually grasp hidden information and engage with them in ways that words alone cannot. Depending on the type …\nUseful Tools for Visualizing Databases on a Budget originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/useful-tools-for-visualizing-databases-on-a-budget/",
-          "publishedOn": "2022-06-13T19:15:26.000Z",
-          "wordCount": 2064,
-          "title": "Useful Tools for Visualizing Databases on a Budget",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366260"
         }
       ]
     },
@@ -168,6 +168,76 @@
       "feedUrl": "https://news.hada.io/rss/news",
       "siteUrl": "https://news.hada.io",
       "articles": [
+        {
+          "id": "https://news.hada.io/topic?id=6964",
+          "author": null,
+          "description": "6.55\" OLED, 2400x1800 402ppi, 120Hz, HDR10+, 8.3mm 두께에 193.5g\n후면 Glyph 인터페이스 : 조명 패턴으로 발신자,노티 종류등의 정보를 제공\n양면 고릴라 글래스\nAndroid를 빠르게 커스터마이징한 Nothing OS\n50MP 듀얼 카메라, 최대 4K 30fps, Live HDR(60fps)....",
+          "link": "https://news.hada.io/topic?id=6964",
+          "publishedOn": "2022-07-13T01:26:01.000Z",
+          "wordCount": 904,
+          "title": "Nothing, Phone (1) 발표",
+          "imageUrl": "https://social.news.hada.io/topic/6964"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6963",
+          "author": null,
+          "description": "BigScience에서 세계 최대 규모의 개방형 다국어 모델인 Bloom을 Hugging Face를 통해 공개.\n누구나 전체 크기 모델을 다운로드하고 사용 가능.\n1,760억 개의 매개변수를 가지고 있으며, 스페인어, 프랑스어, 아랍어 등 46개의 언어와 13개의 프로그래밍 언어를 포함함.\n프랑스 연구...",
+          "link": "https://news.hada.io/topic?id=6963",
+          "publishedOn": "2022-07-13T01:15:10.000Z",
+          "wordCount": 844,
+          "title": "Bloom - 세계 최대 개방형 다국어 모델",
+          "imageUrl": "https://social.news.hada.io/topic/6963"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6962",
+          "author": null,
+          "description": "최근 릴리즈된 15 베타 2에서, UNIQUE가 NULL값을 고유하지 않은 것으로 처리하도록 허용\nUNIQUE NULLS NOT DISTINCT\n\n14까지는 UNIQUE 제약이 있을 경우, NULL은 다른 NULL과 같은 값으로 처리되지 않았음\n→ 이것은 SQL 표준의 NULL 처리 규칙에 맞음. NULL은 Unknown ...",
+          "link": "https://news.hada.io/topic?id=6962",
+          "publishedOn": "2022-07-13T01:00:01.000Z",
+          "wordCount": 823,
+          "title": "Postgres 15, UNIQUE 와 NULL 향상",
+          "imageUrl": "https://social.news.hada.io/topic/6962"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6961",
+          "author": null,
+          "description": "전문(Full text) 검색 지원\n새로운 CPU 지원 : 애플 실리콘, ARM Linux\n음성으로 읽기 지원 : OS의 TTS 엔진 사용\ncalibre:// URL 스킴 지원\n일부기능은 하위 호환 안됨\n\nQt 6 적용으로 일부 써드파티 플러그인 미동작\n기존 Calibre 5를 같이 사용할 경우...",
+          "link": "https://news.hada.io/topic?id=6961",
+          "publishedOn": "2022-07-13T00:46:01.000Z",
+          "wordCount": 824,
+          "title": "Calibre 6.0의 새 기능",
+          "imageUrl": "https://social.news.hada.io/topic/6961"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6960",
+          "author": null,
+          "description": "GCC를 위한 Rust 프론트엔드(GCC Rust)가 메인 배포본에 들어가게 되는 것(GCC 13 버전 부터)\n이를 통해서, 기존 빌드 도구 및 툴체인들이 GCC를 그대로 이용해서 Rust를 컴파일&빌드 하는게 가능해짐\n현재 GCC 배포본에는 C(gcc), C++(g++), Objective C, Fortran, Ada (GNAT), Go, D 언...",
+          "link": "https://news.hada.io/topic?id=6960",
+          "publishedOn": "2022-07-13T00:31:01.000Z",
+          "wordCount": 881,
+          "title": "GCC Rust가 GCC 운영 위원회로부터 인증 받음",
+          "imageUrl": "https://social.news.hada.io/topic/6960"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6959",
+          "author": null,
+          "description": "웹 브라우저에 URL을 입력하고 Enter 키 입력\n웹 브라우저가 도메인명의 IP 주소 조회\n웹 브라우저가 서버와의 TCP 연결 시작\n웹 브라우저가 HTTP 요청을 서버로 전송\n웹 서버가 요청을 처리하고 응답을 다시 전송\n웹 브라우저가 콘텐츠 렌더링\n\n...",
+          "link": "https://news.hada.io/topic?id=6959",
+          "publishedOn": "2022-07-13T00:19:01.000Z",
+          "wordCount": 817,
+          "title": "웹 브라우저에 URL을 입력하면 어떤 일이 생기나요?",
+          "imageUrl": "https://social.news.hada.io/topic/6959"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6958",
+          "author": null,
+          "description": "용골성운(Carina Nebula, NGC 3324) 의 'Cosmic Cliffs' : 7600광년 거리\n스테판 5중주(Quintet) : 페가수스 별자리에 있는 5개의 은하 (NGC 7320은 4천만, 7317/7318A/7318B/7319은 2억9천만 광년 거리)\n남쪽고리성운 NGC 3132 : 2000광년 거리. 죽어가는 행성이라 주위에 내뿜는 가스와 먼...",
+          "link": "https://news.hada.io/topic?id=6958",
+          "publishedOn": "2022-07-13T00:01:59.000Z",
+          "wordCount": 851,
+          "title": "NASA, 제임스웹 우주 망원경이 찍은 첫번째 이미지들을 공개",
+          "imageUrl": "https://social.news.hada.io/topic/6958"
+        },
         {
           "id": "https://news.hada.io/topic?id=6957",
           "author": null,
@@ -197,76 +267,6 @@
           "wordCount": 795,
           "title": "ECMAScript 2022 승인. 새로운 기능은 ?",
           "imageUrl": "https://social.news.hada.io/topic/6955"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6954",
-          "author": null,
-          "description": "유럽 일부 도시에는 제한된 파일롯 프로그램으로 시행중\n미국에서는 얘기가 없다가 미국 백악관이 6/28에 발간한 Fact Sheet 에서 해당 내용이 포함\n\n올해 말에 테슬라는 북미의 다른 전기차들도 이용 가능한 새로운 슈퍼차저 장비를 생산하기 시작 할 것\n\n\n<li",
-          "link": "https://news.hada.io/topic?id=6954",
-          "publishedOn": "2022-07-12T00:22:01.000Z",
-          "wordCount": 867,
-          "title": "테슬라, 미국내에서 2022년 말까지 슈퍼차저 네트워크를 다른 차들에게 개방 예정",
-          "imageUrl": "https://social.news.hada.io/topic/6954"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6953",
-          "author": null,
-          "description": "Systemd, PulseAudio, Avahi 등의 리드개발자 였던 Lennart Poettering은 리눅스/오픈소스 에코시스템에 엄청난 기여를 했음\nRedHat에서 10년 넘게 근무했는데, 이제 Microsoft에서 Systemd 개발을 계속할 예정\n올해 초 유명 리눅스 커널 개발자인 Christian Brauner 도 Canonical 에서 Micr...",
-          "link": "https://news.hada.io/topic?id=6953",
-          "publishedOn": "2022-07-12T00:09:01.000Z",
-          "wordCount": 898,
-          "title": "Systemd 개발자가 Redhat을 떠나 Microsoft로 이직",
-          "imageUrl": "https://social.news.hada.io/topic/6953"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6952",
-          "author": null,
-          "description": "세계 최고의 스타트업 액셀러레이터, YC가 가진 힘을 분석한 The Generalist의 보고서 요약\n[ Y Combinator 오버뷰 ]\n시작부터 pre-IPO 까지 도와주는 \"풀 스택 벤처\"\n\"네트워크 효과\"를 가지고 있는 VC : 포트폴리오를 코호트로 묶고, Bookface 같은 내부 도구를",
-          "link": "https://news.hada.io/topic?id=6952",
-          "publishedOn": "2022-07-11T05:03:38.000Z",
-          "wordCount": 3382,
-          "title": "Y Combinator : 혁신 연구소",
-          "imageUrl": "https://social.news.hada.io/topic/6952"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6951",
-          "author": null,
-          "description": "웹사이트 / 웹앱에서 컴포넌트를 쉽게 선택하여 복사 가능\nReact용 Visual IDE인 Aspect에 붙여넣거나, 자신의 코드에 복사해서 사용 가능\n→ 이 크롬 확장은 Aspect가 개발해서 제공하는 것\n\n...",
-          "link": "https://news.hada.io/topic?id=6951",
-          "publishedOn": "2022-07-11T01:36:02.000Z",
-          "wordCount": 816,
-          "title": "아무 웹사이트에서 React 코드 복사하는 크롬 확장",
-          "imageUrl": "https://social.news.hada.io/topic/6951"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6950",
-          "author": null,
-          "description": "VS Code 가 원격으로 연결이 가능하게 하는 백엔드 코드와 CLI를 비공개 프리뷰로 공개\n로컬 개발 머신이나 클라우드 VM에 설치하고 웹용 VS Code를 사용해서 연결하여 안전하게 접근 가능\n신청하면 몇주내로 활성화 메일이 발송\n현재는 code 와 code-server CLI가 별도지만, 점차 ...",
-          "link": "https://news.hada.io/topic?id=6950",
-          "publishedOn": "2022-07-11T01:13:01.000Z",
-          "wordCount": 836,
-          "title": "Visual Studio Code Server",
-          "imageUrl": "https://social.news.hada.io/topic/6950"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6949",
-          "author": null,
-          "description": "바다위 요트/대형 선박이나 시추선에서 최대 350Mbps로 고속/저지연 인터넷이 가능\n현재는 미국 연안과 유럽/영국/지중해, 칠레/브라질 일부, 오스트레일리아/뉴질랜드 남부 등만 가능\n2022/Q4 에는 태평양/대서양의 넓은 지역 (한국/일본/대만등이 모두 포함 되는 범위) 커버 예정",
-          "link": "https://news.hada.io/topic?id=6949",
-          "publishedOn": "2022-07-11T00:54:01.000Z",
-          "wordCount": 833,
-          "title": "Starlink Maritime",
-          "imageUrl": "https://social.news.hada.io/topic/6949"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6948",
-          "author": null,
-          "description": "Sans Serif(산세리프/삐침이 없는 = 돋움/고딕체)의 침공\n2017년쯤 패션업계부터 시작한 이 트렌드가 기술 회사들에도 번지는 중\n패션업계는 색도 다 검은 색이지만, 그나마 기술회사는 컬러라도 있긴 함\n이유 ?\nModern Utility : 산세리프가 가독성이 더 높아...",
-          "link": "https://news.hada.io/topic?id=6948",
-          "publishedOn": "2022-07-11T00:41:01.000Z",
-          "wordCount": 967,
-          "title": "왜 많은 브랜드가 로고를 비슷하게 변경하는 걸까?",
-          "imageUrl": "https://social.news.hada.io/topic/6948"
         }
       ]
     },
