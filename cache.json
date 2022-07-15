@@ -6,12 +6,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=366905",
+          "author": "Geoff Graham",
+          "description": "I think it’s super timely that Jim Nielson wrote about his office space the other day. My family recently re-rooted in Colorado and I was up late last night setting up my desk and everything around it. So late, in …\nOffice Spaces originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/office-spaces/",
+          "publishedOn": "2022-07-14T14:07:01.000Z",
+          "wordCount": 1854,
+          "title": "Office Spaces",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366905"
+        },
+        {
           "id": "https://css-tricks.com/?p=366770",
           "author": "Blessing Ene Anyebe",
           "description": "Hooks are reusable functions. They allow you to use state and other features (e.g. lifecycle methods and so on) without writing a class. Hook functions let us “hook into” the React state lifecycle using functional components, allowing us to manipulate …\nReact Hooks: The Deep Cuts originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/react-hooks-the-deep-cuts/",
           "publishedOn": "2022-07-13T13:34:08.000Z",
-          "wordCount": 2553,
+          "wordCount": 2584,
           "title": "React Hooks: The Deep Cuts",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366770"
         },
@@ -101,7 +111,7 @@
           "description": "We all make mistakes in our code. It happens! I know if I had one of those “Days Since Last Mistake” signs hanging over my desk, a big ol’ goose egg would be hovering above me all the time. It …\nMy Dumbest CSS Mistakes originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/my-dumbest-css-mistakes/",
           "publishedOn": "2022-06-28T15:10:31.000Z",
-          "wordCount": 2671,
+          "wordCount": 2703,
           "title": "My Dumbest CSS Mistakes",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366484"
         },
@@ -144,16 +154,6 @@
           "wordCount": 2421,
           "title": "Single Element Loaders: The Dots",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366342"
-        },
-        {
-          "id": "https://css-tricks.com/?p=366252",
-          "author": "Preethi",
-          "description": "Calendars, shopping carts, galleries, file explorers, and online libraries are some situations where selectable items are shown in grids (i.e. square lattices). You know, even those security checks that ask you to select all images with crosswalks or whatever.\n🧐…\nConditionally Styling Selected Elements in a Grid Container originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/conditionally-styling-selected-elements-in-a-grid-container/",
-          "publishedOn": "2022-06-15T14:15:50.000Z",
-          "wordCount": 2362,
-          "title": "Conditionally Styling Selected Elements in a Grid Container",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366252"
         }
       ]
     },
@@ -168,6 +168,76 @@
       "feedUrl": "https://news.hada.io/rss/news",
       "siteUrl": "https://news.hada.io",
       "articles": [
+        {
+          "id": "https://news.hada.io/topic?id=6980",
+          "author": null,
+          "description": "이번 주말에 뭘 하려고 계획 중인지 편하게 얘기해 보아요.\n읽을 책, 가볼 곳, 해볼 것.. 어떤 것이든 좋습니다.\n지난 주말에 계획하셨던 일의 회고도 한번 남겨봐 주세요.",
+          "link": "https://news.hada.io/topic?id=6980",
+          "publishedOn": "2022-07-15T01:54:34.000Z",
+          "wordCount": 816,
+          "title": "Ask GN: 이번 주말에 뭐 하시나요?",
+          "imageUrl": "https://social.news.hada.io/topic/6980"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6979",
+          "author": null,
+          "description": "dig domain NS 명령으로 일반 도메인부터 TLD 네임서버를 볼 수 있음\ndig kr NS 는 되지만 dig ch NS는 아무런 값이 나오지 않음. 왜 그럴까 ?\ndig 의 결과 값 중 bbc.co.uk.      900 IN  NS  ddns1.bbc.com.\n\n여기서 IN 은...",
+          "link": "https://news.hada.io/topic?id=6979",
+          "publishedOn": "2022-07-15T01:52:47.000Z",
+          "wordCount": 1133,
+          "title": "DNS 비사 - 왜 스위스(ch)는 dig 할 수 없을까?",
+          "imageUrl": "https://social.news.hada.io/topic/6979"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6978",
+          "author": null,
+          "description": "올 4월에 발표했던 새로운 '광고를 포함하는 저가 플랜'을 위해 광고 파트너로 선정\n넷플릭스에서 송출되는 모든 광고를 마이크로소프트 플랫폼 기반에서 제공하게 될 것\n\n...",
+          "link": "https://news.hada.io/topic?id=6978",
+          "publishedOn": "2022-07-15T01:36:25.000Z",
+          "wordCount": 807,
+          "title": "넷플릭스, 광고 기반 구독 플랜을 위해 Microsoft와 협업하기로",
+          "imageUrl": "https://social.news.hada.io/topic/6978"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6977",
+          "author": null,
+          "description": "스크롤 캡쳐(웹페이지/채팅창)\n지우개 및 마크업(라인,화살표,쉐이프) 지원\n스크린 Ruler로 사이즈 측정 가능\nOCR 기능으로 글자 복사\n컬러 피커\n스크린샷 저장 폴더 지정 가능\n\n...",
+          "link": "https://news.hada.io/topic?id=6977",
+          "publishedOn": "2022-07-15T01:23:57.000Z",
+          "wordCount": 819,
+          "title": "Shottr - 무료 맥용 스크린샷 유틸리티",
+          "imageUrl": "https://social.news.hada.io/topic/6977"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6976",
+          "author": null,
+          "description": "고정폭 프로그래밍용 폰트를 찾기 쉽게 정리한 사이트\nSeris/Sans, 스타일 여부, 렌더링 방식, 합자(Ligature) 필터링 가능\n미리 보기 화면에 폰트 크기, 라인 간격, 테마, 샘플 코드 언어 선택 가능\n\n...",
+          "link": "https://news.hada.io/topic?id=6976",
+          "publishedOn": "2022-07-15T01:06:05.000Z",
+          "wordCount": 798,
+          "title": "프로그래밍 폰트 테스트 드라이브",
+          "imageUrl": "https://social.news.hada.io/topic/6976"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6975",
+          "author": null,
+          "description": "12세대 인텔 i5/i7, 최대 40GB DDR4, 최대 4TB NVMe\nPop!_OS 또는 Ubuntu\n14.1\" 1920x1080, 1.15kg\n14시간 가는 배터리\nSystem76 오픈 소스 펌웨어 with coreboot\nHDMI, 썬더볼트4, MicroSD, WiFi6, 1080p WebCam\n2개의 M.2 SSD (1개는 OS, 1개는 ...",
+          "link": "https://news.hada.io/topic?id=6975",
+          "publishedOn": "2022-07-15T00:54:36.000Z",
+          "wordCount": 837,
+          "title": "System76 Lemur Pro 노트북",
+          "imageUrl": "https://social.news.hada.io/topic/6975"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6974",
+          "author": null,
+          "description": "브라우저와 Node.js 에서 쉽고 빠르고 편하게 사용 가능\nGPU.js 를 이용하여 GPU 활용 및 GPU 사용 불가능할 때 자바스크립트 폴백도 지원\n여러 신경망 지원 : RNN, LSTM, GRU,..\n네이티브 모듈인 headless-gl 에 의존\n\n맥, 우분투/데비안, 윈도우 에서 사용 가능 (Python ...",
+          "link": "https://news.hada.io/topic?id=6974",
+          "publishedOn": "2022-07-15T00:41:00.000Z",
+          "wordCount": 832,
+          "title": "Brain.js - Javascript로 작성된 GPU 가속 뉴럴 네트워크",
+          "imageUrl": "https://social.news.hada.io/topic/6974"
+        },
         {
           "id": "https://news.hada.io/topic?id=6973",
           "author": null,
@@ -184,7 +254,7 @@
           "description": "다양한 컬러와 테마 사용 및 커스터마이징 가능\n쉘의 종류에 상관없이, 여러 개를 사용하더라도 쉘/머신 간에 프롬프트를 쉽게 이동 가능\n멀티라인시 Secondary 프롬프트 설정 지원\n잠시 더 넓은 화면을 쓰기 위한 Transient(임시) 프롬프트 지원\n\n...",
           "link": "https://news.hada.io/topic?id=6972",
           "publishedOn": "2022-07-14T00:47:01.000Z",
-          "wordCount": 824,
+          "wordCount": 840,
           "title": "Oh My Posh - 모든 쉘을 위한 프롬프트 테마 엔진",
           "imageUrl": "https://social.news.hada.io/topic/6972"
         },
@@ -197,76 +267,6 @@
           "wordCount": 825,
           "title": "GIS 및 지구 관측을 위한 파이썬 오픈소스 에코시스템",
           "imageUrl": "https://social.news.hada.io/topic/6971"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6970",
-          "author": null,
-          "description": "git undo : 되돌리기\nsmartlog : 나만의 커밋 그래프 시각화\ngit restack : 깨진 커밋 그래프 복구하기\nSpeculative Merge : 요청하지 않는 한 머지 충돌 해결을 자동으로 시작하지 않음\nPatch-stack workflows : Linux 프로젝트가 사용하는 방식을 강력하게 지원",
-          "link": "https://news.hada.io/topic?id=6970",
-          "publishedOn": "2022-07-14T00:18:01.000Z",
-          "wordCount": 873,
-          "title": "Git-Branchless - 브랜치를 사용하지 않는 Git 워크플로우 지원 도구 모음",
-          "imageUrl": "https://social.news.hada.io/topic/6970"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6969",
-          "author": null,
-          "description": "\"Hype? Hope? Hell? 아마 셋다 일지도\"\n퓨 리서치가 624명의 기술 혁신가, 개발자, 비즈니스 리더, 연구원, 활동가들에게 설문조사한 보고서(204p PDF)\n→ 그 중 54%는 2040년까지 전세계 5억명 이상이 메타버스를 일상생활에서 잘 사용하게 될 거라고 예상",
-          "link": "https://news.hada.io/topic?id=6969",
-          "publishedOn": "2022-07-14T00:03:01.000Z",
-          "wordCount": 844,
-          "title": "2040년의 메타버스",
-          "imageUrl": "https://social.news.hada.io/topic/6969"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6968",
-          "author": null,
-          "description": "필즈상 수상자인 허준이 교수의 대중강연 발췌문.\n관계와 경계\n어릴때 사전 찾기 놀이를 많이 했는데, 아무 단어의 정의를 찾아보고, 정의에 나오는 단어에서 마음에 드는 단어의 정의를 찾아보고, 그걸 계속 이어가는 것.\n이런식으로 단어의 정의를 이어가다보면 언젠가",
-          "link": "https://news.hada.io/topic?id=6968",
-          "publishedOn": "2022-07-13T13:24:55.000Z",
-          "wordCount": 1203,
-          "title": "허준이 교수의 필즈상 수상 강연",
-          "imageUrl": "https://social.news.hada.io/topic/6968"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6967",
-          "author": null,
-          "description": "최대 1024바이트의 자바스크립트 코드를 제출할 수 있는 JS1024에는 2년만에 참가했는데요, 이번에 낸 코드는 짤막한 영어 낱말이 나오면 그대로 시간 안에 입력하기만 하면 되는 간단한 게임이지만, 낱말이 올해 테마(mirror)에 맞게 좌우로 반전되어 있다는 것이 특징입니다. 용량 제한으로 안타깝게도 모바일에서는...",
-          "link": "https://news.hada.io/topic?id=6967",
-          "publishedOn": "2022-07-13T12:45:37.000Z",
-          "wordCount": 864,
-          "title": "Show GN: epyt: 1KB 타자 게임",
-          "imageUrl": "https://social.news.hada.io/topic/6967"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6966",
-          "author": null,
-          "description": "여러 질문을 통해 'James Webb' 망원경에 대해 상세히 정리한 디지털 스토리텔링(Snow Fall) 형식의 기사\n\nthree.js + NYT의 three-story-controls 로 스크롤에 따른 카메라 위치 이동\n성능 : 기존 우주망원경보다 얼마나 더 좋을까?\n발사 과정 : 어떻게 우주로 날아갔을...",
-          "link": "https://news.hada.io/topic?id=6966",
-          "publishedOn": "2022-07-13T07:08:25.000Z",
-          "wordCount": 872,
-          "title": "태초의 우주를 보는 눈, 제임스웹 우주망원경",
-          "imageUrl": "https://social.news.hada.io/topic/6966"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6965",
-          "author": null,
-          "description": "얼마전 논란을 일으킨 \"회사는 유치원이 아니다\"라는 글과 반대의 입장으로 작성된 글들이 없는지 찾다가 한글로 잘 작성된 포스팅이 있어서 가져옵니다.\n\"정중함이 소프트웨어 프로젝트의 성공과 관련 있을까?라는 주제의 연구 논문에 따르면, 오픈 소스 소프트웨어 프로젝트에서 개발자 간의",
-          "link": "https://news.hada.io/topic?id=6965",
-          "publishedOn": "2022-07-13T05:40:19.000Z",
-          "wordCount": 887,
-          "title": "[중복] 아마존에서 배운 5가지 글쓰기와 소통방식 (공손 + 존중이 생산성과 관련이 있음)",
-          "imageUrl": "https://social.news.hada.io/topic/6965"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6964",
-          "author": null,
-          "description": "6.55\" OLED, 2400x1800 402ppi, 120Hz, HDR10+, 8.3mm 두께에 193.5g\n후면 Glyph 인터페이스 : 조명 패턴으로 발신자,노티 종류등의 정보를 제공\n양면 고릴라 글래스\nAndroid를 빠르게 커스터마이징한 Nothing OS\n50MP 듀얼 카메라, 최대 4K 30fps, Live HDR(60fps)....",
-          "link": "https://news.hada.io/topic?id=6964",
-          "publishedOn": "2022-07-13T01:26:01.000Z",
-          "wordCount": 904,
-          "title": "Nothing, Phone (1) 발표",
-          "imageUrl": "https://social.news.hada.io/topic/6964"
         }
       ]
     },

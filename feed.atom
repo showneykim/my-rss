@@ -1,10 +1,122 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-14T02:00:56.901Z</id>
+    <id>urn:2022-07-15T02:08:15.983Z</id>
     <title>osmos::feed</title>
-    <updated>2022-07-14T02:00:56.901Z</updated>
+    <updated>2022-07-15T02:08:15.983Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=6980</id>
+        <link href="https://news.hada.io/topic?id=6980"/>
+        <updated>2022-07-15T01:54:34.000Z</updated>
+        <summary type="html"><![CDATA[이번 주말에 뭘 하려고 계획 중인지 편하게 얘기해 보아요.
+읽을 책, 가볼 곳, 해볼 것.. 어떤 것이든 좋습니다.
+지난 주말에 계획하셨던 일의 회고도 한번 남겨봐 주세요.]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DNS 비사 - 왜 스위스(ch)는 dig 할 수 없을까?]]></title>
+        <id>https://news.hada.io/topic?id=6979</id>
+        <link href="https://news.hada.io/topic?id=6979"/>
+        <updated>2022-07-15T01:52:47.000Z</updated>
+        <summary type="html"><![CDATA[dig domain NS 명령으로 일반 도메인부터 TLD 네임서버를 볼 수 있음
+dig kr NS 는 되지만 dig ch NS는 아무런 값이 나오지 않음. 왜 그럴까 ?
+dig 의 결과 값 중 bbc.co.uk.      900 IN  NS  ddns1.bbc.com.
+
+여기서 IN 은...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[넷플릭스, 광고 기반 구독 플랜을 위해 Microsoft와 협업하기로]]></title>
+        <id>https://news.hada.io/topic?id=6978</id>
+        <link href="https://news.hada.io/topic?id=6978"/>
+        <updated>2022-07-15T01:36:25.000Z</updated>
+        <summary type="html"><![CDATA[올 4월에 발표했던 새로운 '광고를 포함하는 저가 플랜'을 위해 광고 파트너로 선정
+넷플릭스에서 송출되는 모든 광고를 마이크로소프트 플랫폼 기반에서 제공하게 될 것
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shottr - 무료 맥용 스크린샷 유틸리티]]></title>
+        <id>https://news.hada.io/topic?id=6977</id>
+        <link href="https://news.hada.io/topic?id=6977"/>
+        <updated>2022-07-15T01:23:57.000Z</updated>
+        <summary type="html"><![CDATA[스크롤 캡쳐(웹페이지/채팅창)
+지우개 및 마크업(라인,화살표,쉐이프) 지원
+스크린 Ruler로 사이즈 측정 가능
+OCR 기능으로 글자 복사
+컬러 피커
+스크린샷 저장 폴더 지정 가능
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[프로그래밍 폰트 테스트 드라이브]]></title>
+        <id>https://news.hada.io/topic?id=6976</id>
+        <link href="https://news.hada.io/topic?id=6976"/>
+        <updated>2022-07-15T01:06:05.000Z</updated>
+        <summary type="html"><![CDATA[고정폭 프로그래밍용 폰트를 찾기 쉽게 정리한 사이트
+Seris/Sans, 스타일 여부, 렌더링 방식, 합자(Ligature) 필터링 가능
+미리 보기 화면에 폰트 크기, 라인 간격, 테마, 샘플 코드 언어 선택 가능
+
+...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[System76 Lemur Pro 노트북]]></title>
+        <id>https://news.hada.io/topic?id=6975</id>
+        <link href="https://news.hada.io/topic?id=6975"/>
+        <updated>2022-07-15T00:54:36.000Z</updated>
+        <summary type="html"><![CDATA[12세대 인텔 i5/i7, 최대 40GB DDR4, 최대 4TB NVMe
+Pop!_OS 또는 Ubuntu
+14.1" 1920x1080, 1.15kg
+14시간 가는 배터리
+System76 오픈 소스 펌웨어 with coreboot
+HDMI, 썬더볼트4, MicroSD, WiFi6, 1080p WebCam
+2개의 M.2 SSD (1개는 OS, 1개는 ...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brain.js - Javascript로 작성된 GPU 가속 뉴럴 네트워크]]></title>
+        <id>https://news.hada.io/topic?id=6974</id>
+        <link href="https://news.hada.io/topic?id=6974"/>
+        <updated>2022-07-15T00:41:00.000Z</updated>
+        <summary type="html"><![CDATA[브라우저와 Node.js 에서 쉽고 빠르고 편하게 사용 가능
+GPU.js 를 이용하여 GPU 활용 및 GPU 사용 불가능할 때 자바스크립트 폴백도 지원
+여러 신경망 지원 : RNN, LSTM, GRU,..
+네이티브 모듈인 headless-gl 에 의존
+
+맥, 우분투/데비안, 윈도우 에서 사용 가능 (Python ...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Office Spaces]]></title>
+        <id>https://css-tricks.com/?p=366905</id>
+        <link href="https://css-tricks.com/office-spaces/"/>
+        <updated>2022-07-14T14:07:01.000Z</updated>
+        <summary type="html"><![CDATA[I think it’s super timely that Jim Nielson wrote about his office space the other day. My family recently re-rooted in Colorado and I was up late last night setting up my desk and everything around it. So late, in …
+Office Spaces originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[lldap - 가벼운 LDAP 서버 구현체 오픈소스]]></title>
         <id>https://news.hada.io/topic?id=6973</id>
@@ -49,32 +161,6 @@ OAuth/OpenID 지원등은 KeyCloak, Authelia 같은 것을 연동해서 지원 �
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Git-Branchless - 브랜치를 사용하지 않는 Git 워크플로우 지원 도구 모음]]></title>
-        <id>https://news.hada.io/topic?id=6970</id>
-        <link href="https://news.hada.io/topic?id=6970"/>
-        <updated>2022-07-14T00:18:01.000Z</updated>
-        <summary type="html"><![CDATA[git undo : 되돌리기
-smartlog : 나만의 커밋 그래프 시각화
-git restack : 깨진 커밋 그래프 복구하기
-Speculative Merge : 요청하지 않는 한 머지 충돌 해결을 자동으로 시작하지 않음
-Patch-stack workflows : Linux 프로젝트가 사용하는 방식을 강력하게 지원]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2040년의 메타버스]]></title>
-        <id>https://news.hada.io/topic?id=6969</id>
-        <link href="https://news.hada.io/topic?id=6969"/>
-        <updated>2022-07-14T00:03:01.000Z</updated>
-        <summary type="html"><![CDATA["Hype? Hope? Hell? 아마 셋다 일지도"
-퓨 리서치가 624명의 기술 혁신가, 개발자, 비즈니스 리더, 연구원, 활동가들에게 설문조사한 보고서(204p PDF)
-→ 그 중 54%는 2040년까지 전세계 5억명 이상이 메타버스를 일상생활에서 잘 사용하게 될 거라고 예상]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[React Hooks: The Deep Cuts]]></title>
         <id>https://css-tricks.com/?p=366770</id>
         <link href="https://css-tricks.com/react-hooks-the-deep-cuts/"/>
@@ -83,68 +169,6 @@ Patch-stack workflows : Linux 프로젝트가 사용하는 방식을 강력하�
 React Hooks: The Deep Cuts originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Blessing Ene Anyebe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[허준이 교수의 필즈상 수상 강연]]></title>
-        <id>https://news.hada.io/topic?id=6968</id>
-        <link href="https://news.hada.io/topic?id=6968"/>
-        <updated>2022-07-13T13:24:55.000Z</updated>
-        <summary type="html"><![CDATA[필즈상 수상자인 허준이 교수의 대중강연 발췌문.
-관계와 경계
-어릴때 사전 찾기 놀이를 많이 했는데, 아무 단어의 정의를 찾아보고, 정의에 나오는 단어에서 마음에 드는 단어의 정의를 찾아보고, 그걸 계속 이어가는 것.
-이런식으로 단어의 정의를 이어가다보면 언젠가]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: epyt: 1KB 타자 게임]]></title>
-        <id>https://news.hada.io/topic?id=6967</id>
-        <link href="https://news.hada.io/topic?id=6967"/>
-        <updated>2022-07-13T12:45:37.000Z</updated>
-        <summary type="html"><![CDATA[최대 1024바이트의 자바스크립트 코드를 제출할 수 있는 JS1024에는 2년만에 참가했는데요, 이번에 낸 코드는 짤막한 영어 낱말이 나오면 그대로 시간 안에 입력하기만 하면 되는 간단한 게임이지만, 낱말이 올해 테마(mirror)에 맞게 좌우로 반전되어 있다는 것이 특징입니다. 용량 제한으로 안타깝게도 모바일에서는...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[태초의 우주를 보는 눈, 제임스웹 우주망원경]]></title>
-        <id>https://news.hada.io/topic?id=6966</id>
-        <link href="https://news.hada.io/topic?id=6966"/>
-        <updated>2022-07-13T07:08:25.000Z</updated>
-        <summary type="html"><![CDATA[여러 질문을 통해 'James Webb' 망원경에 대해 상세히 정리한 디지털 스토리텔링(Snow Fall) 형식의 기사
-
-three.js + NYT의 three-story-controls 로 스크롤에 따른 카메라 위치 이동
-성능 : 기존 우주망원경보다 얼마나 더 좋을까?
-발사 과정 : 어떻게 우주로 날아갔을...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[중복] 아마존에서 배운 5가지 글쓰기와 소통방식 (공손 + 존중이 생산성과 관련이 있음)]]></title>
-        <id>https://news.hada.io/topic?id=6965</id>
-        <link href="https://news.hada.io/topic?id=6965"/>
-        <updated>2022-07-13T05:40:19.000Z</updated>
-        <summary type="html"><![CDATA[얼마전 논란을 일으킨 "회사는 유치원이 아니다"라는 글과 반대의 입장으로 작성된 글들이 없는지 찾다가 한글로 잘 작성된 포스팅이 있어서 가져옵니다.
-"정중함이 소프트웨어 프로젝트의 성공과 관련 있을까?라는 주제의 연구 논문에 따르면, 오픈 소스 소프트웨어 프로젝트에서 개발자 간의]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nothing, Phone (1) 발표]]></title>
-        <id>https://news.hada.io/topic?id=6964</id>
-        <link href="https://news.hada.io/topic?id=6964"/>
-        <updated>2022-07-13T01:26:01.000Z</updated>
-        <summary type="html"><![CDATA[6.55" OLED, 2400x1800 402ppi, 120Hz, HDR10+, 8.3mm 두께에 193.5g
-후면 Glyph 인터페이스 : 조명 패턴으로 발신자,노티 종류등의 정보를 제공
-양면 고릴라 글래스
-Android를 빠르게 커스터마이징한 Nothing OS
-50MP 듀얼 카메라, 최대 4K 30fps, Live HDR(60fps)....]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
     </entry>
     <entry>
@@ -294,18 +318,6 @@ Different Ways to Write CSS in React originally published on CSS-Tricks. You sho
 Single Element Loaders: The Dots originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Conditionally Styling Selected Elements in a Grid Container]]></title>
-        <id>https://css-tricks.com/?p=366252</id>
-        <link href="https://css-tricks.com/conditionally-styling-selected-elements-in-a-grid-container/"/>
-        <updated>2022-06-15T14:15:50.000Z</updated>
-        <summary type="html"><![CDATA[Calendars, shopping carts, galleries, file explorers, and online libraries are some situations where selectable items are shown in grids (i.e. square lattices). You know, even those security checks that ask you to select all images with crosswalks or whatever.
-🧐…
-Conditionally Styling Selected Elements in a Grid Container originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Preethi</name>
         </author>
     </entry>
 </feed>
