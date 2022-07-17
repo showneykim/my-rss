@@ -169,6 +169,46 @@
       "siteUrl": "https://news.hada.io",
       "articles": [
         {
+          "id": "https://news.hada.io/topic?id=6988",
+          "author": null,
+          "description": "머신러닝 초보자들이 GPU 프로그래밍을 인터랙티브하게 배울수 있도록 도와주는 가이드(노트북)\n파이썬 코드를 CUDA에 직접 매핑하는 Numba를 이용\nColab 에서 진행하는 것을 추천\n총 14개의 퍼즐\n\n...",
+          "link": "https://news.hada.io/topic?id=6988",
+          "publishedOn": "2022-07-17T01:39:40.000Z",
+          "wordCount": 802,
+          "title": "GPU Puzzles - 퍼즐 풀며 CUDA 배우기",
+          "imageUrl": "https://social.news.hada.io/topic/6988"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6987",
+          "author": null,
+          "description": "진행은 원작과 같지만, 1명이 문제를 내고 1~3명이 문제를 풀면서 경쟁하는 방식\n가림막/펜 및 노란색/녹색 투명 아크릴 제공\n\n...",
+          "link": "https://news.hada.io/topic?id=6987",
+          "publishedOn": "2022-07-17T01:22:30.000Z",
+          "wordCount": 789,
+          "title": "Wordle, 파티형 보드게임으로 출시",
+          "imageUrl": "https://social.news.hada.io/topic/6987"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6986",
+          "author": null,
+          "description": "벡터로된 시각화 자료를 생성 및 쉽게 편집\nSVG/PNG Export 또는 JS/TS React Snippet으로 복사 가능\n템플릿으로 저장해서 재사용 가능\n가입 필요 없음. 무료\n\n...",
+          "link": "https://news.hada.io/topic?id=6986",
+          "publishedOn": "2022-07-17T01:02:33.000Z",
+          "wordCount": 798,
+          "title": "Heazy - 벡터 디자인 스튜디오",
+          "imageUrl": "https://social.news.hada.io/topic/6986"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=6985",
+          "author": null,
+          "description": "v2 이후 16개월만에 메이저 릴리즈\n새로운 Vite CLI : 개발서버 포트가 5173으로 변경\n더 이상 Node V12는 지원하지 않음. Node 14.18+\n기본 ESM으로 빌드. 호환을 위해 CJS Proxy 포함\n웹소켓 연결 개선(프록시 뒤에 있을때)\n콜드 스타트 개선(풀 리로드 하지 않...",
+          "link": "https://news.hada.io/topic?id=6985",
+          "publishedOn": "2022-07-17T00:45:50.000Z",
+          "wordCount": 825,
+          "title": "Vite 3.0 릴리즈",
+          "imageUrl": "https://social.news.hada.io/topic/6985"
+        },
+        {
           "id": "https://news.hada.io/topic?id=6984",
           "author": null,
           "description": "문장에서 이미지를 만드는 DALL·E 에게,\n목차\nVibes\nPhotography\nIllustration\nArt History\n3D artwork\nDALL·E techniques\nShowcase\n\n...",
@@ -227,46 +267,6 @@
           "wordCount": 1133,
           "title": "DNS 비사 - 왜 스위스(ch)는 dig 할 수 없을까?",
           "imageUrl": "https://social.news.hada.io/topic/6979"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6978",
-          "author": null,
-          "description": "올 4월에 발표했던 새로운 '광고를 포함하는 저가 플랜'을 위해 광고 파트너로 선정\n넷플릭스에서 송출되는 모든 광고를 마이크로소프트 플랫폼 기반에서 제공하게 될 것\n\n...",
-          "link": "https://news.hada.io/topic?id=6978",
-          "publishedOn": "2022-07-15T01:36:25.000Z",
-          "wordCount": 807,
-          "title": "넷플릭스, 광고 기반 구독 플랜을 위해 Microsoft와 협업하기로",
-          "imageUrl": "https://social.news.hada.io/topic/6978"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6977",
-          "author": null,
-          "description": "스크롤 캡쳐(웹페이지/채팅창)\n지우개 및 마크업(라인,화살표,쉐이프) 지원\n스크린 Ruler로 사이즈 측정 가능\nOCR 기능으로 글자 복사\n컬러 피커\n스크린샷 저장 폴더 지정 가능\n\n...",
-          "link": "https://news.hada.io/topic?id=6977",
-          "publishedOn": "2022-07-15T01:23:57.000Z",
-          "wordCount": 850,
-          "title": "Shottr - 무료 맥용 스크린샷 유틸리티",
-          "imageUrl": "https://social.news.hada.io/topic/6977"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6976",
-          "author": null,
-          "description": "고정폭 프로그래밍용 폰트를 찾기 쉽게 정리한 사이트\nSeris/Sans, 스타일 여부, 렌더링 방식, 합자(Ligature) 필터링 가능\n미리 보기 화면에 폰트 크기, 라인 간격, 테마, 샘플 코드 언어 선택 가능\n\n...",
-          "link": "https://news.hada.io/topic?id=6976",
-          "publishedOn": "2022-07-15T01:06:05.000Z",
-          "wordCount": 821,
-          "title": "프로그래밍 폰트 테스트 드라이브",
-          "imageUrl": "https://social.news.hada.io/topic/6976"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6975",
-          "author": null,
-          "description": "12세대 인텔 i5/i7, 최대 40GB DDR4, 최대 4TB NVMe\nPop!_OS 또는 Ubuntu\n14.1\" 1920x1080, 1.15kg\n14시간 가는 배터리\nSystem76 오픈 소스 펌웨어 with coreboot\nHDMI, 썬더볼트4, MicroSD, WiFi6, 1080p WebCam\n2개의 M.2 SSD (1개는 OS, 1개는 ...",
-          "link": "https://news.hada.io/topic?id=6975",
-          "publishedOn": "2022-07-15T00:54:36.000Z",
-          "wordCount": 837,
-          "title": "System76 Lemur Pro 노트북",
-          "imageUrl": "https://social.news.hada.io/topic/6975"
         }
       ]
     },
