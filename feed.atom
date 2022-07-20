@@ -1,10 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-19T02:08:32.074Z</id>
+    <id>urn:2022-07-20T01:55:14.761Z</id>
     <title>osmos::feed</title>
-    <updated>2022-07-19T02:08:32.074Z</updated>
+    <updated>2022-07-20T01:55:14.761Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Azure Developer CLI (azd) 프리뷰 공개]]></title>
+        <id>https://news.hada.io/topic?id=7005</id>
+        <link href="https://news.hada.io/topic?id=7005"/>
+        <updated>2022-07-20T00:13:18.000Z</updated>
+        <summary type="html"><![CDATA[개발자가 Azure 워크플로우 전반을 관리할 수 있는 오픈소스 도구
+azd up --template todo-nodejs-mongo 처럼 명령 한번으로 create/provision/deploy 처리
+up/down 또는 init/provision/deploy/monitor 등 명령으로 상세 설정 가능
+Python, JavaScript/TypeScript, ...]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아마존, J.P.모건, 앤썸이 합성 데이터를 개발하고 활용하는 방식]]></title>
+        <id>https://news.hada.io/topic?id=7004</id>
+        <link href="https://news.hada.io/topic?id=7004"/>
+        <updated>2022-07-19T08:27:20.000Z</updated>
+        <summary type="html"><![CDATA[1.아마존 '알렉사'
+알렉사 AI 팀은 2019년 합성 데이터 생성 도구를 개발함
+이 도구들은 아마존 AI 비서인 ‘알렉사’를 힌디어, 미국에서 쓰이는 스페인어, 브라질에서 사용하는 포르투갈어 버전으로 선보이는 데 쓰임
+아마존에서는 믿을 수 있는 자연어 이해 모델을 학습시키는 데]]></summary>
+        <author>
+            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[페이스북, 개인정보 보호용 URL 스트리핑 못하도록 링크 암호화 시작]]></title>
         <id>https://news.hada.io/topic?id=7003</id>
@@ -117,39 +143,6 @@ AppCode 제외.
 → 초당 1.8억 리퀘스트를 처리하며
 → 460TB의 인메모리/온디스크 데이터 셋에 대해 초당 220GB 네트워크 전송
 → 70개의 클러...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[당신이 팔 수 있는 8가지 (숏비디오)]]></title>
-        <id>https://news.hada.io/topic?id=6994</id>
-        <link href="https://news.hada.io/topic?id=6994"/>
-        <updated>2022-07-18T01:23:56.000Z</updated>
-        <summary type="html"><![CDATA[Products 제품
-Services 서비스
-Access 접근
-Risk 위험
-Money 돈
-Media 미디어
-Titles and Status 타이틀과 상태
-Businesses 비즈니스
-모두 Digital & Physical 로 생각해 볼 것
-
-...]]></summary>
-        <author>
-            <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[StackOverflow는 9대의 on-prem 서버로 운영중]]></title>
-        <id>https://news.hada.io/topic?id=6993</id>
-        <link href="https://news.hada.io/topic?id=6993"/>
-        <updated>2022-07-18T01:03:02.000Z</updated>
-        <summary type="html"><![CDATA[Scott Hanselman의 팟캐스트에서 스택오버플로우의 엔지니어링 디렉터 Roberta Arcoverde가 인터뷰한 내용 요약
-8년전 소프트웨어 엔지니어로 입사해서 스태프 엔지니어(테크리드)가 되었다가, 올해 초에 관리자로 피봇
-S: 엔지니어링 디렉터가 되어서 바뀐 것?
-R: 사람...]]></summary>
         <author>
             <name>GeekNews - 개발/기술/스타트업 뉴스 서비스</name>
         </author>
