@@ -6,12 +6,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=367064",
+          "author": "Geoff Graham",
+          "description": "Michelle Barker with my favorite sorta blog post: short, practical, and leaves you with a valuable nugget for your time. Here, she gets into logical property shorthands in CSS, particularly those that set lengths just on a single axis, …\nLogical Properties for Useful Shorthands originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/logical-properties-for-useful-shorthands/",
+          "publishedOn": "2022-07-20T16:16:34.000Z",
+          "wordCount": 925,
+          "title": "Logical Properties for Useful Shorthands",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/367064"
+        },
+        {
           "id": "https://css-tricks.com/?p=366993",
           "author": "Geoff Graham",
           "description": "Say you have a line in SVG:\n<svg<line x1=\"0\" y1=\"30\" x2=\"500\" y2=\"30\" stroke-color=\"#f8a100\" /</svg\nYou can use the stroke-dasharray property in CSS to make dashes:\nline {\n  stroke-dasharray: 5;\n}\nThat 5 value is a relative unit based …\nHow stroke-dasharray Patterns Work originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/how-stroke-dasharray-patterns-work/",
           "publishedOn": "2022-07-15T19:43:40.000Z",
-          "wordCount": 1042,
+          "wordCount": 1009,
           "title": "How stroke-dasharray Patterns Work",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366993"
         },
@@ -21,7 +31,7 @@
           "description": "I think it’s super timely that Jim Nielsen wrote about his office space the other day. My family recently re-rooted in Colorado and I was up late last night setting up my desk and everything around it. So late, in …\nOffice Spaces originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/office-spaces/",
           "publishedOn": "2022-07-14T14:07:01.000Z",
-          "wordCount": 1859,
+          "wordCount": 1837,
           "title": "Office Spaces",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366905"
         },
@@ -31,7 +41,7 @@
           "description": "Hooks are reusable functions. They allow you to use state and other features (e.g. lifecycle methods and so on) without writing a class. Hook functions let us “hook into” the React state lifecycle using functional components, allowing us to manipulate …\nReact Hooks: The Deep Cuts originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/react-hooks-the-deep-cuts/",
           "publishedOn": "2022-07-13T13:34:08.000Z",
-          "wordCount": 2691,
+          "wordCount": 2934,
           "title": "React Hooks: The Deep Cuts",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366770"
         },
@@ -41,7 +51,7 @@
           "description": "Our dear friend Robin has a new essay called In Praise of Shadows. Now, before you hop over there looking for nuggets on CSS box shadows, text shadows, and shadow filters… this is not that. It’s an essay …\nIn Praise of Shadows originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/in-praise-of-shadows/",
           "publishedOn": "2022-07-12T17:08:49.000Z",
-          "wordCount": 1061,
+          "wordCount": 1028,
           "title": "In Praise of Shadows",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366896"
         },
@@ -51,7 +61,7 @@
           "description": "HTML, CSS, JavaScript, Python, PHP, C++, Dart — there are so many programming languages out there and you may even be totally fluent in several of them! But as we aim to write more and better code, the way we …\nTechnical Writing for Developers originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/technical-writing-for-developers/",
           "publishedOn": "2022-07-11T12:50:13.000Z",
-          "wordCount": 5682,
+          "wordCount": 6093,
           "title": "Technical Writing for Developers",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366609"
         },
@@ -61,7 +71,7 @@
           "description": "Melanie Sumner has this super-specific collection of web-related nouns for describing a group or set of something. You know how there’s a school or fish or a herd of cows? Same sort of thing, but for funny web jargon.\nThings …\nCollective Nouns for the Web originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/collective-nouns-for-the-web/",
           "publishedOn": "2022-07-01T19:15:00.000Z",
-          "wordCount": 978,
+          "wordCount": 945,
           "title": "Collective Nouns for the Web",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366689"
         },
@@ -71,7 +81,7 @@
           "description": "For this fourth and final article of our little series on single-element loaders, we are going to explore 3D patterns. When creating a 3D element, it’s hard to imagine that just one HTML element is enough to simulate something like all six faces of a cube. But  maybe we can get away …\nSingle Element Loaders: Going 3D! originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/single-element-loaders-going-3d/",
           "publishedOn": "2022-07-01T13:24:09.000Z",
-          "wordCount": 3079,
+          "wordCount": 3083,
           "title": "Single Element Loaders: Going 3D!",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366544"
         },
@@ -81,7 +91,7 @@
           "description": "Bunny Fonts bills itself as the “privacy-first web font platform designed to put privacy back into the internet.” According to its FAQ:\nWith a zero-tracking and no-logging policy, Bunny Fonts helps you stay fully GDPR compliant and puts your user’s \n…\nBunny Fonts originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/bunny-fonts/",
           "publishedOn": "2022-06-30T17:28:57.000Z",
-          "wordCount": 1429,
+          "wordCount": 1396,
           "title": "Bunny Fonts",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366605"
         },
@@ -91,7 +101,7 @@
           "description": "Eric Eggert:\nThere are a few legitimate use cases for this technique. For example, you might have a table with titles and descriptions. To preserve more space for the title, you constrain the description to one line on small \n…\nText-overflow: ellipsis considered harmful originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/text-overflow-ellipsis-considered-harmful/",
           "publishedOn": "2022-06-30T13:38:16.000Z",
-          "wordCount": 1301,
+          "wordCount": 1276,
           "title": "Text-overflow: ellipsis considered harmful",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366557"
         },
@@ -101,7 +111,7 @@
           "description": "There is an abundance of both CSS and JavaScript libraries for animation libraries out there. So many, in fact, that choosing the right one for your project can seem impossible. That’s the situation I faced when I decided to build …\nHow I Chose an Animation Library for My Solitaire Game originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/choosing-an-animation-library-for-solitaire/",
           "publishedOn": "2022-06-29T12:55:44.000Z",
-          "wordCount": 2705,
+          "wordCount": 2672,
           "title": "How I Chose an Animation Library for My Solitaire Game",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366509"
         },
@@ -111,7 +121,7 @@
           "description": "Head’s up! The survey closed on July 12, 2022. We got tons of responses — thanks to everyone for helping us out!\nHey, so it’s been a minute since we announced that CSS-Tricks is now part of the DigitalOcean family. …\nHelp Shape the Future of CSS-Tricks! originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/help-shape-the-future-of-css-tricks/",
           "publishedOn": "2022-06-28T19:52:48.000Z",
-          "wordCount": 1163,
+          "wordCount": 1145,
           "title": "Help Shape the Future of CSS-Tricks!",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366554"
         },
@@ -121,7 +131,7 @@
           "description": "We all make mistakes in our code. It happens! I know if I had one of those “Days Since Last Mistake” signs hanging over my desk, a big ol’ goose egg would be hovering above me all the time. It …\nMy Dumbest CSS Mistakes originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/my-dumbest-css-mistakes/",
           "publishedOn": "2022-06-28T15:10:31.000Z",
-          "wordCount": 2703,
+          "wordCount": 2670,
           "title": "My Dumbest CSS Mistakes",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366484"
         },
@@ -131,7 +141,7 @@
           "description": "Right after “Where is the best place to learn?” perhaps the most commonly asked question I hear from folks getting into code is “What web development books should I get to learn?” Well, consider this an answer to that question …\nGreat (and Free!) Web Development Books You Can Get Online originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/web-development-books-you-can-get-for-free/",
           "publishedOn": "2022-06-27T13:27:49.000Z",
-          "wordCount": 4035,
+          "wordCount": 3984,
           "title": "Great (and Free!) Web Development Books You Can Get Online",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366468"
         },
@@ -141,19 +151,9 @@
           "description": "We’ve looked at spinners. We’ve looked at dots. Now we’re going to tackle another common pattern for loaders: bars. And we’re going to do the same thing in this third article of the series as we have the others …\nSingle Element Loaders: The Bars originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/single-element-loaders-the-bars/",
           "publishedOn": "2022-06-24T20:00:29.000Z",
-          "wordCount": 2430,
+          "wordCount": 2470,
           "title": "Single Element Loaders: The Bars",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366526"
-        },
-        {
-          "id": "https://css-tricks.com/?p=366452",
-          "author": "Saleh Mubashar",
-          "description": "We’re all familiar with the standard way of linking up a stylesheet to the <head> of an HTML doc, right? That’s just one of several ways we’re able to write CSS. But what does it look like to style things …\nDifferent Ways to Write CSS in React originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/different-ways-to-write-css-in-react/",
-          "publishedOn": "2022-06-22T14:24:37.000Z",
-          "wordCount": 2166,
-          "title": "Different Ways to Write CSS in React",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366452"
         }
       ]
     },
@@ -169,6 +169,96 @@
       "siteUrl": "https://news.hada.io",
       "articles": [
         {
+          "id": "https://news.hada.io/topic?id=7014",
+          "author": null,
+          "description": "OpenGL, Vulkan, D3D11 기반의 비디오 출력 (GPU 디코딩)\n강력한 Script 기능 제공 (Javascript/Lua)\nC API를 제공해서 다른 어플리케이션에 임베드 가능\n최소한의 GUI 및 온스크린 컨트롤러\n윈도우/맥/리눅스(Arch,Debian,Gentoo,Unbuntu)/안드로이드/BSD\n\n...",
+          "link": "https://news.hada.io/topic?id=7014",
+          "publishedOn": "2022-07-21T01:15:40.000Z",
+          "wordCount": 802,
+          "title": "mpv - 오픈소스 크로스플랫폼 미디어 플레이어",
+          "imageUrl": "https://social.news.hada.io/topic/7014"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=7013",
+          "author": null,
+          "description": "2021 현대 Ioniq SEL 버전의 IVI(In-Vehicle Infortainment)를 해킹하여 root 접근후 원하는 소프트웨어 실행하기\n2개 버전의 IVI가 있음 : Android로 운영되는 네비게이션 버전과 리눅스 기반 버전\n→ 안드로이드 버전은 엔지니어링 모드 통해서 APK 설치 쉽게 가능\n→ 리눅스는 아직 불...",
+          "link": "https://news.hada.io/topic?id=7013",
+          "publishedOn": "2022-07-21T01:05:29.000Z",
+          "wordCount": 858,
+          "title": "내 차 해킹하기 : 현대 아이오닉",
+          "imageUrl": "https://social.news.hada.io/topic/7013"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=7012",
+          "author": null,
+          "description": "클라이언트 설치시 앱에서는 사용하지 않는 폰트를 추가로 설치함(웹사이트에서 사용)\n팀뷰어 초대링크를 생성하여 누군가에게 보내서 클릭하면, 웹에서 JS로 폰트가 설치 되었는지를 확인하여 초대 받은 사람의 기기에 클라이언트가 있는지 검사\n→ 폰트가 있다면 teamviewer8:// 로 시작하는 ...",
+          "link": "https://news.hada.io/topic?id=7012",
+          "publishedOn": "2022-07-21T00:46:35.000Z",
+          "wordCount": 846,
+          "title": "TeamViewer는 뷰어가 설치 되었는지 체크하기 위해서 폰트를 설치한다",
+          "imageUrl": "https://social.news.hada.io/topic/7012"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=7011",
+          "author": null,
+          "description": "\"DALL-E는 메타버스의 미래를 만들기 위한 중요한 퍼즐조각\"\n게임과 매체의 진화\n소셜 네트워크와 UGC\n피드와 알고리즘\n머신 러닝과 메타버스\n한계비용 제로 콘텐츠\n\n\"인터넷은 인류 문명에 인쇄 기술 정도만이 가져왔던 혁명을 다시",
+          "link": "https://news.hada.io/topic?id=7011",
+          "publishedOn": "2022-07-21T00:29:00.000Z",
+          "wordCount": 809,
+          "title": "DALL-E, 메타버스, 그리고 한계비용 제로 콘텐츠 (번역)",
+          "imageUrl": "https://social.news.hada.io/topic/7011"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=7010",
+          "author": null,
+          "description": "아르헨티나, 도미니카, 과테말라 등 중/남미 지역 대상\n계정당 Home은 하나만 설정되며, 홈을 추가할 때마다 월 비용 청구\n\n베이직은 1개, 스탠다드는 2개, 프리미엄은 3개까지 홈 추가 가능\n태블릿/노트북/모바일 로 외부에서 보는 것은 가능\n계정 관리 페이지...",
+          "link": "https://news.hada.io/topic?id=7010",
+          "publishedOn": "2022-07-20T01:46:26.000Z",
+          "wordCount": 889,
+          "title": "넷플릭스, 특정 지역에서 계정당 집을 하나로 제한하고 \"Add a Home\" 유료 공유 기능 추가",
+          "imageUrl": "https://social.news.hada.io/topic/7010"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=7009",
+          "author": null,
+          "description": "\"치열한 패션 이커머스 시장에서 다른 브랜드들은 어떻게 성장하고 있을까?\"\n응답 대상 : 국내 패션 브랜드 대표,경영진,팀장 / 총48개회사\n성장전략\n다른 회사들은 작년 한 해 얼마나 성장했을까?\n마케팅은 어떻게 하고 있을까?\n\n마케팅에 ...",
+          "link": "https://news.hada.io/topic?id=7009",
+          "publishedOn": "2022-07-20T01:19:10.000Z",
+          "wordCount": 915,
+          "title": "2022 패션 이커머스 벤치마크 리포트 [38p PDF]",
+          "imageUrl": "https://social.news.hada.io/topic/7009"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=7008",
+          "author": null,
+          "description": "PrestoSQL 의 새 이름\nSpeed, Scale, Simplicity, Versatile\nIn-place Analysis\nQuery Federation\nRuns Everywhere : On-prem, AWS, Azure, GCP,..\n\n...",
+          "link": "https://news.hada.io/topic?id=7008",
+          "publishedOn": "2022-07-20T01:04:52.000Z",
+          "wordCount": 810,
+          "title": "Trino - 빅데이터용 분산 SQL 쿼리 엔진",
+          "imageUrl": "https://social.news.hada.io/topic/7008"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=7007",
+          "author": null,
+          "description": "거대 장난감 회사인 Zuru가 자신들의 업무환경 및 경영방식에 신랄한 익명 리뷰를 쓴 직원에 대한 정보를 캘리포니아 법원에 요청하여 받을수 있게 됨\nGlassdoor의 성공은 '익명'에 기반한 것이었음\nZuru는 뉴질랜드에서 리뷰어를 고소할 예정\nGlassdoor PR담당 왈 '뉴질랜드 법에 ...",
+          "link": "https://news.hada.io/topic?id=7007",
+          "publishedOn": "2022-07-20T00:44:14.000Z",
+          "wordCount": 902,
+          "title": "익명 직장 리뷰사이트인 Glassdoor는 더 이상 익명이 아니다",
+          "imageUrl": "https://social.news.hada.io/topic/7007"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=7006",
+          "author": null,
+          "description": "모든 API는 인증되어야 함. 악의적인 사용자 식별 가능\n싱글 API가 리턴하는 데이터의 양을 최소화 할 것\n모든 API를 Rate-Limit 할 것\n악성 트래픽이 어플리케이션에 도달하기 전에 필터링 ...",
+          "link": "https://news.hada.io/topic?id=7006",
+          "publishedOn": "2022-07-20T00:25:01.000Z",
+          "wordCount": 864,
+          "title": "StackOverflow가 DDOS를 대응하며 배운 것들",
+          "imageUrl": "https://social.news.hada.io/topic/7006"
+        },
+        {
           "id": "https://news.hada.io/topic?id=7005",
           "author": null,
           "description": "개발자가 Azure 워크플로우 전반을 관리할 수 있는 오픈소스 도구\nazd up --template todo-nodejs-mongo 처럼 명령 한번으로 create/provision/deploy 처리\nup/down 또는 init/provision/deploy/monitor 등 명령으로 상세 설정 가능\nPython, JavaScript/TypeScript, ...",
@@ -177,96 +267,6 @@
           "wordCount": 817,
           "title": "Azure Developer CLI (azd) 프리뷰 공개",
           "imageUrl": "https://social.news.hada.io/topic/7005"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=7004",
-          "author": null,
-          "description": "1.아마존 '알렉사'\n알렉사 AI 팀은 2019년 합성 데이터 생성 도구를 개발함\n이 도구들은 아마존 AI 비서인 ‘알렉사’를 힌디어, 미국에서 쓰이는 스페인어, 브라질에서 사용하는 포르투갈어 버전으로 선보이는 데 쓰임\n아마존에서는 믿을 수 있는 자연어 이해 모델을 학습시키는 데",
-          "link": "https://news.hada.io/topic?id=7004",
-          "publishedOn": "2022-07-19T08:27:20.000Z",
-          "wordCount": 1142,
-          "title": "아마존, J.P.모건, 앤썸이 합성 데이터를 개발하고 활용하는 방식",
-          "imageUrl": "https://social.news.hada.io/topic/7004"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=7003",
-          "author": null,
-          "description": "페이스북에서 외부 링크에 접속시 트래킹 용도로 추가하는 ?fbclid= 형태의 인자를 Firefox/Brave 등이 제거하기 시작\n이제 /pfbid~ 로 시작하는 경로값을 URL 자체에 넣어서 제거하지 못하게 변경\n\n...",
-          "link": "https://news.hada.io/topic?id=7003",
-          "publishedOn": "2022-07-19T01:17:18.000Z",
-          "wordCount": 825,
-          "title": "페이스북, 개인정보 보호용 URL 스트리핑 못하도록 링크 암호화 시작",
-          "imageUrl": "https://social.news.hada.io/topic/7003"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=7002",
-          "author": null,
-          "description": "이제 Fargate가 EC2보다 빠름\nECS on Fargate 가 엄청 개선 됨\nApp Runner가 환상적인 서비스가 되어가고 있음\n어느 정도 까지는, EKS on Fargate 가 EKS on EC2 보다 빠름\nEKS on EC2에서 cluster-autoscaler 보다 karpenter를 쓰는게 스케일링이 더 빠름\nEKS o...",
-          "link": "https://news.hada.io/topic?id=7002",
-          "publishedOn": "2022-07-19T00:55:13.000Z",
-          "wordCount": 832,
-          "title": "Scaling containers on AWS in 2022",
-          "imageUrl": "https://social.news.hada.io/topic/7002"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=7001",
-          "author": null,
-          "description": "인간의 뇌는 8~35헤르츠에서 15와트로 작동함\n~900억개의 뉴런을 가지고 있지만, 특정 시간에는 약 10억개만 활성화 됨\n뇌의 에너지 소비량은 매우 밝은 LED전구 와 비슷하거나 표준 백열전구의 1/5 정도여서 데이터 센터와는 다름\n평균 난이도의 ARC작업을 해결하는데 관련된 뉴런...",
-          "link": "https://news.hada.io/topic?id=7001",
-          "publishedOn": "2022-07-19T00:43:16.000Z",
-          "wordCount": 1032,
-          "title": "뇌는 8~35헤르츠에서 15와트로 작동하며, 에너지 소비량이 LED전구와 비슷함",
-          "imageUrl": "https://social.news.hada.io/topic/7001"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=7000",
-          "author": null,
-          "description": "글로벌 마케팅회사 원더만 톰슨이 정리한 트렌드 100 보고서 (223P PDF)\n10개 분야로 나누어서 10가지씩 정리\nCulture\nBuilding the metaverse\nMicroforests\nThe global K-wave effect\nUnbounded optimism\nVirtual genuinfluencers...",
-          "link": "https://news.hada.io/topic?id=7000",
-          "publishedOn": "2022-07-19T00:31:51.000Z",
-          "wordCount": 1066,
-          "title": "The Future 100 : 2022년에 주목해야할 트렌드 및 변화",
-          "imageUrl": "https://social.news.hada.io/topic/7000"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6999",
-          "author": null,
-          "description": "NVMe 같은 고속 저장소에 최적화된 키밸류 저장소 라이브러리\n다른 프로그램들에 임베드할 목적으로 만들어짐\nVMWare가 만든 C코드 오픈소스 (현재는 리눅스 전용)\n\n...",
-          "link": "https://news.hada.io/topic?id=6999",
-          "publishedOn": "2022-07-19T00:18:54.000Z",
-          "wordCount": 805,
-          "title": "SplinterDB - 고성능 임베디드 키밸류 저장소",
-          "imageUrl": "https://social.news.hada.io/topic/6999"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6998",
-          "author": null,
-          "description": "2022년 처음으로 Azure 가 77%, AWS가 76%\n더 많은 기업들이 AWS대신 Azure를 채택하고 있으며, 미국방부의 JEDI 프로젝트도 Azure를 선택\n하지만 퍼블릭 IaaS 마켓점유율에서는 AWS가 47%, Azure는 17% 밖에 안됨\nSMB에서는 AWS가 41%, Azure는 31%\n\n...",
-          "link": "https://news.hada.io/topic?id=6998",
-          "publishedOn": "2022-07-19T00:04:48.000Z",
-          "wordCount": 896,
-          "title": "클라우드 채택률에서 Azure가 AWS를 추월",
-          "imageUrl": "https://social.news.hada.io/topic/6998"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6997",
-          "author": null,
-          "description": "2022년 10월 1일부로 인상된 가격 적용\n개인용 All Products Pack 기준 $249 -> $289, 최대 할인 시 $149 -> $173으로 인상(부가세 미포함 가격 기준)\n기존 가격으로 개인 구독의 경우 최대 3년, 비즈니스 구독의 경우 최대 2년 연장 가능\nAppCode 제외.\n\n...",
-          "link": "https://news.hada.io/topic?id=6997",
-          "publishedOn": "2022-07-18T23:21:20.000Z",
-          "wordCount": 934,
-          "title": "JetBrains 제품 구독료 인상.",
-          "imageUrl": "https://social.news.hada.io/topic/6997"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=6995",
-          "author": null,
-          "description": "핀터레스트의 분산캐슁시스템은 memcached 와 mcrouter 오픈소스로 구성\n5000대의 EC2 인스턴스를 compute, 메모리, 용량에 따른 다양한 타입별로 사용\n→ 초당 1.8억 리퀘스트를 처리하며\n→ 460TB의 인메모리/온디스크 데이터 셋에 대해 초당 220GB 네트워크 전송\n→ 70개의 클러...",
-          "link": "https://news.hada.io/topic?id=6995",
-          "publishedOn": "2022-07-18T01:36:49.000Z",
-          "wordCount": 825,
-          "title": "Pinterest의 Memcached Fleet은 EC2 5000대를 사용",
-          "imageUrl": "https://social.news.hada.io/topic/6995"
         }
       ]
     },
