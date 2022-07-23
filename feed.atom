@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-22T01:59:08.698Z</id>
+    <id>urn:2022-07-23T01:55:22.584Z</id>
     <title>osmos::feed</title>
-    <updated>2022-07-22T01:59:08.698Z</updated>
+    <updated>2022-07-23T01:55:22.584Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Why I Chose Angular to Build a URL Shortener]]></title>
+        <id>https://css-tricks.com/?p=367003</id>
+        <link href="https://css-tricks.com/why-i-chose-angular-to-build-a-url-shortener/"/>
+        <updated>2022-07-22T14:00:19.000Z</updated>
+        <summary type="html"><![CDATA[URL Shorteners are tools we use to make links shorter than they actually are. With a URL Shortener, you can transform a long link (maybe for a registration form or article) into a shorter version.
+Behind the scenes, the long …
+Why I Chose Angular to Build a URL Shortener originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Obumuneme Nwabude</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Relativity Space 와 Impulse Space, 2개의 회사가 화성으로 가는 계획을 발표]]></title>
         <id>https://news.hada.io/topic?id=7025</id>
@@ -310,17 +322,6 @@ Help Shape the Future of CSS-Tricks! originally published on CSS-Tricks. You sho
 My Dumbest CSS Mistakes originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Great (and Free!) Web Development Books You Can Get Online]]></title>
-        <id>https://css-tricks.com/?p=366468</id>
-        <link href="https://css-tricks.com/web-development-books-you-can-get-for-free/"/>
-        <updated>2022-06-27T13:27:49.000Z</updated>
-        <summary type="html"><![CDATA[Right after “Where is the best place to learn?” perhaps the most commonly asked question I hear from folks getting into code is “What web development books should I get to learn?” Well, consider this an answer to that question …
-Great (and Free!) Web Development Books You Can Get Online originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Victor Adedokun</name>
         </author>
     </entry>
 </feed>

@@ -6,12 +6,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=367003",
+          "author": "Obumuneme Nwabude",
+          "description": "URL Shorteners are tools we use to make links shorter than they actually are. With a URL Shortener, you can transform a long link (maybe for a registration form or article) into a shorter version.\nBehind the scenes, the long …\nWhy I Chose Angular to Build a URL Shortener originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/why-i-chose-angular-to-build-a-url-shortener/",
+          "publishedOn": "2022-07-22T14:00:19.000Z",
+          "wordCount": 3028,
+          "title": "Why I Chose Angular to Build a URL Shortener",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/367003"
+        },
+        {
           "id": "https://css-tricks.com/?p=367048",
           "author": "Geoff Graham",
           "description": "It’s not everyday that HTML headings are the topic de jour, but my folder of saved links is accumulating articles about the recently merged removal of the document outline algorithm in the WHATWG Living Standard.\nFirst off, you should know …\nRoundup of Recent Document Outline Chatter originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/roundup-of-recent-document-outline-chatter/",
           "publishedOn": "2022-07-21T14:04:34.000Z",
-          "wordCount": 1320,
+          "wordCount": 1409,
           "title": "Roundup of Recent Document Outline Chatter",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/367048"
         },
@@ -41,7 +51,7 @@
           "description": "I think it’s super timely that Jim Nielsen wrote about his office space the other day. My family recently re-rooted in Colorado and I was up late last night setting up my desk and everything around it. So late, in …\nOffice Spaces originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/office-spaces/",
           "publishedOn": "2022-07-14T14:07:01.000Z",
-          "wordCount": 1837,
+          "wordCount": 1891,
           "title": "Office Spaces",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366905"
         },
@@ -51,7 +61,7 @@
           "description": "Hooks are reusable functions. They allow you to use state and other features (e.g. lifecycle methods and so on) without writing a class. Hook functions let us “hook into” the React state lifecycle using functional components, allowing us to manipulate …\nReact Hooks: The Deep Cuts originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/react-hooks-the-deep-cuts/",
           "publishedOn": "2022-07-13T13:34:08.000Z",
-          "wordCount": 2948,
+          "wordCount": 3004,
           "title": "React Hooks: The Deep Cuts",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366770"
         },
@@ -144,16 +154,6 @@
           "wordCount": 2670,
           "title": "My Dumbest CSS Mistakes",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366484"
-        },
-        {
-          "id": "https://css-tricks.com/?p=366468",
-          "author": "Victor Adedokun",
-          "description": "Right after “Where is the best place to learn?” perhaps the most commonly asked question I hear from folks getting into code is “What web development books should I get to learn?” Well, consider this an answer to that question …\nGreat (and Free!) Web Development Books You Can Get Online originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/web-development-books-you-can-get-for-free/",
-          "publishedOn": "2022-06-27T13:27:49.000Z",
-          "wordCount": 3984,
-          "title": "Great (and Free!) Web Development Books You Can Get Online",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366468"
         }
       ]
     },
@@ -184,7 +184,7 @@
           "description": "이번 주말에 뭘 하려고 계획 중인지 편하게 얘기해 보아요.\n읽을 책, 가볼 곳, 해볼 것.. 어떤 것이든 좋습니다.\n지난 주말에 계획하셨던 일의 회고도 한번 남겨봐 주세요.",
           "link": "https://news.hada.io/topic?id=7024",
           "publishedOn": "2022-07-22T00:51:56.000Z",
-          "wordCount": 841,
+          "wordCount": 855,
           "title": "Ask GN: 이번 주말에 뭐 하시나요?",
           "imageUrl": "https://social.news.hada.io/topic/7024"
         },
