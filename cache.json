@@ -169,6 +169,56 @@
       "siteUrl": "https://news.hada.io",
       "articles": [
         {
+          "id": "https://news.hada.io/topic?id=7030",
+          "author": null,
+          "description": "Lambda 요금 동작 방식 : 동작 시간 + 호출 횟수\n이른 최적화 피하기\n람다 함수의 적정 크기 찾기 : aws-lambda-power-tuning\nARM 아키텍처로 전환\nProvisioned Concurrency 활용하기\n→ 실행시간 밀리초당 70% ...",
+          "link": "https://news.hada.io/topic?id=7030",
+          "publishedOn": "2022-07-24T00:24:45.000Z",
+          "wordCount": 825,
+          "title": "AWS Lambda 비용을 절약하는 가장 좋은 방법",
+          "imageUrl": "https://social.news.hada.io/topic/7030"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=7029",
+          "author": null,
+          "description": "역사 : Rails를 대체할 프레임워크들의 등장\nElixir 와 Phoenix\nRedwoodJS란 ?\n\nGraphQL 사용\n프론트엔드 장점 : Cells 와 Form\n개발자 : 깃헙 공동창업자인 Tom Presoton-Werner 및 현재 23명의 코어 팀\nBlitzJS 란\n\nNext.js 기반...",
+          "link": "https://news.hada.io/topic?id=7029",
+          "publishedOn": "2022-07-24T00:02:07.000Z",
+          "wordCount": 875,
+          "title": "RedwoodJS vs. BlitzJS : 풀스택 자바스크립트 메타-프레임워크 비교",
+          "imageUrl": "https://social.news.hada.io/topic/7029"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=7028",
+          "author": null,
+          "description": "223개의 심플한 아이콘 셋\nSVG 및 아이콘 스프라이트로 제공\nnpm 으로 설치 또는 zip 파일 다운로드\nCSS로 스타일링 가능\nMIT 라이센스\n\n...",
+          "link": "https://news.hada.io/topic?id=7028",
+          "publishedOn": "2022-07-23T00:40:01.000Z",
+          "wordCount": 808,
+          "title": "Humbleicons - UI용 무료 SVG 아이콘",
+          "imageUrl": "https://social.news.hada.io/topic/7028"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=7027",
+          "author": null,
+          "description": "Java → Kotlin, JavaScript → TypeScript 처럼 기존 에코시스템 호환이 가능한 언어를 목표\nC++ → Carbon 으로 아주 손쉽게 이관 가능하며, 양방향 호환\nLLVM 을 이용하여 C++ 정도의 성능 제공...",
+          "link": "https://news.hada.io/topic?id=7027",
+          "publishedOn": "2022-07-23T00:20:01.000Z",
+          "wordCount": 1015,
+          "title": "Carbon, C++의 계승자를 목표로 구글이 새로 만든 프로그래밍 언어",
+          "imageUrl": "https://social.news.hada.io/topic/7027"
+        },
+        {
+          "id": "https://news.hada.io/topic?id=7026",
+          "author": null,
+          "description": "원격근무 플랫폼인 Viva 내의 새로운 앱으로 공개\nYammer 기반으로 구축되어, Teams 와 Office 365 내에서 페이스북 같은 기능을 제공\n조직내의 사람들끼리 연결하고, 질문에 대한 답을 찾고, 스토리를 공유하는 등의 소셜 네트워킹 앱\n페이스북 뉴스피드와 비슷 Storyline 기능 제...",
+          "link": "https://news.hada.io/topic?id=7026",
+          "publishedOn": "2022-07-23T00:04:02.000Z",
+          "wordCount": 820,
+          "title": "Microsoft, 소셜 네트워킹 앱 Viva Engage 발표",
+          "imageUrl": "https://social.news.hada.io/topic/7026"
+        },
+        {
           "id": "https://news.hada.io/topic?id=7025",
           "author": null,
           "description": "3년내에 화성에 착륙하겠다는 계획을 발표\nRelativity Space는 아직 로켓 하나도 발사하지 않았고, Impulse Space 는 추진기를 우주에서 테스트한 적이 없음\nRelativity Space는 2016년에 설립하여 1조원 이상을 투자받았으며, 올해말에 소형 Terran 1 로켓 발사 예정\n\n대부분의 부품...",
@@ -217,56 +267,6 @@
           "wordCount": 800,
           "title": "Hono - Cloudflare Workers를 위한 초고속 웹 프레임워크",
           "imageUrl": "https://social.news.hada.io/topic/7021"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=7020",
-          "author": null,
-          "description": "OpenID Connect 기반\n로그인, 인증, 사용자 증명 관리 기능을 손쉽게 만들수 있게 지원\n자유롭게 커스터마이징 가능\n소셜 로그인 가능 : GitHub, 구글, 위챗,..\n동적 암호 로그인 지원 : SMS 또는 Email\n웹 어드민 콘솔 UI 제공\nTypeScript 오픈소스",
-          "link": "https://news.hada.io/topic?id=7020",
-          "publishedOn": "2022-07-22T00:06:02.000Z",
-          "wordCount": 825,
-          "title": "Logto - 오픈소스 사용자 아이덴티티 솔루션",
-          "imageUrl": "https://social.news.hada.io/topic/7020"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=7018",
-          "author": null,
-          "description": "yes명령어 란?\n문자 y를 반복적으로 출력하는 스트림\n간단한 구현\nGOTO나 루프문으로 y를 반복적으로 출력하면 끝\n간단한 성능 향상\n버퍼...",
-          "link": "https://news.hada.io/topic?id=7018",
-          "publishedOn": "2022-07-21T10:50:11.000Z",
-          "wordCount": 820,
-          "title": "빠른 yes 터미널 명령어 만들어보기",
-          "imageUrl": "https://social.news.hada.io/topic/7018"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=7017",
-          "author": null,
-          "description": "이 요약에서는 이 법의 내용만을 정리했습니다. 이 법이 왜 나오게 되었는지는 본문과 관련기사를 참고해주세요.\n\n이 새로운 규칙은 거대 온라인 플렛폼들이(게이트키퍼라고 부름) 따라야할 의무들을 정의합니다.\n해야 할 것들\n\n핵심 플랫폼 서비스의 구독을 취소하는 것이...",
-          "link": "https://news.hada.io/topic?id=7017",
-          "publishedOn": "2022-07-21T02:07:22.000Z",
-          "wordCount": 1063,
-          "title": "DMA: EU 의회가 공정한 온라인 경쟁을 위한 새로운 룰들을 최종 승인했습니다.",
-          "imageUrl": "https://social.news.hada.io/topic/7017"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=7016",
-          "author": null,
-          "description": "곧 대기자 1백만명 초대 시작할 것\n첫달에 50 크레딧 주고, 매달 무료로 충전되는 15 크레딧 사용 가능\n사용자에 의해 생성된 이미지는 재인쇄, 판매...",
-          "link": "https://news.hada.io/topic?id=7016",
-          "publishedOn": "2022-07-21T01:57:10.000Z",
-          "wordCount": 896,
-          "title": "DALL·E 베타 시작",
-          "imageUrl": "https://social.news.hada.io/topic/7016"
-        },
-        {
-          "id": "https://news.hada.io/topic?id=7015",
-          "author": null,
-          "description": "총 47종의 접는 종이비행기 디자인들\n접는 방법 단계별 설명 & 비디오\n출력 가능한 PDF로도 제공 ($5.99 1회성 결제 필요)\n\n...",
-          "link": "https://news.hada.io/topic?id=7015",
-          "publishedOn": "2022-07-21T01:39:14.000Z",
-          "wordCount": 844,
-          "title": "종이비행기 디자인 모음",
-          "imageUrl": "https://social.news.hada.io/topic/7015"
         }
       ]
     },
